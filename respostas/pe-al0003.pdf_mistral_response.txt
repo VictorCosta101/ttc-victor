@@ -1,0 +1,20 @@
+Resposta do Modelo: mistral
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+{
+      "Categoria_da_sesmaria": "coletiva",
+      "Sesmeiros": "NA",
+      "Capitania": "Pernambuco/Alagoas",
+      "Estado_atual": "Pernambuco",
+      "Historico_da_terra": "Devoluta nunca povoada",
+      "Data_de_peticao": "8 dias do mês de outubro de 1702",
+      "Localidade": "NA",
+      "Marcos_geograficos": "NA",
+      "Ribeira": "NA",
+      "Confrontantes": "NA",
+      "Area": 0,
+      "Tipo_de_area": "Léguas",
+      "Largura": "NA",
+      "Comprimento": "NA"
+    }

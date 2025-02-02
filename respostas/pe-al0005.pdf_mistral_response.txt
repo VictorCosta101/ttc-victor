@@ -1,0 +1,20 @@
+Resposta do Modelo: mistral
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+{
+      "Categoria_da_sesmaria": "individual",
+      "Sesmeiros": "Antonio Rodrigues Pereira",
+      "Capitania": "Pernambuco",
+      "Estado_atual": "Pernambuco",
+      "Historico_da_terra": "Devoluta nunca povoada",
+      "Data_de_peticao": "19 de setembro de 1713",
+      "Localidade": "NA",
+      "Marcos_geograficos": "NA",
+      "Ribeira": "NA",
+      "Confrontantes": "NA",
+      "Area": "NA",
+      "Tipo_de_area": "Léguas",
+      "Largura": "NA",
+      "Comprimento": "NA"
+    }

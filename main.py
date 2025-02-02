@@ -1,93 +1,211 @@
-import openai
 import requests
-import PyPDF2
 import json
+import time
+import pdfplumber
+import os
+import weave
+from openai import OpenAI
 
-# Configuração da API do ChatGPT
-openai.api_key = "sua-chave-api-da-openai"
 
-# URL do servidor Ollama
-OLLAMA_URL = "http://seu-servidor-ollama:port/api/generate"
 
-# Função para ler texto de um PDF
-def extract_text_from_pdf(pdf_path):
-    """Extrai texto de um arquivo PDF."""
+
+weave.init('gpt-4-setup')
+
+
+client = OpenAI(api_key="")
+
+
+def get_pdf_text(file_path):
+    """
+    Função para ler o texto do PDF.
+    """
+    with pdfplumber.open(file_path) as pdf:
+        text = ""
+        for page in pdf.pages:
+            text += page.extract_text()
+    return text
+
+def generate_llm_prompt(extracted_text):
+    """
+    Função para gerar um prompt para o modelo LLM com base no texto extraído do PDF.
+    """
+    prompt = f'''
+    Texto_fonte: {extracted_text}
+    Função: você é um historiador.
+    Responda em português.
+    Você é um agente de processamento de texto trabalhando com documentos de contrato de arrendamento (sesmarias).
+    Extraia os valores especificados do texto tokenizado fonte.
+
+    Retorne a resposta como um objeto JSON com os seguintes campos:
+    - "Categoria_da_sesmaria" <string>
+    - "Sesmeiros" <string>
+    - "Capitania" <string>
+    - "Estado_atual" <string>
+    - "Historico_da_terra" <string>
+    - "Data_de_peticao" <string>
+    - "Localidade" <string>
+    - "Marcos_geograficos" <string>
+    - "Ribeira" <string>
+    - "Confrontantes" <string>
+    - "Area" <float>
+    - "Tipo_de_area" <string>
+    - "Largura" <string>
+    - "Comprimento" <string>
+
+    Instrução:
+    Não infira dados com base no treinamento anterior, use estritamente apenas o texto fonte fornecido como entrada.
+    Responda todos os campos. Caso não encontre a informação no texto, retorne o campo com "NA".
+    Classifique "Categoria_da_sesmaria" selecionando uma das seguintes opções ["individual"], ["coletiva"].
+    Classifique "Capitania" selecionando uma das seguintes opções ["Alagoas"], ["Bahia"], ["Ceará"], ["Colônia do Sacramento"], ["Espírito Santo"], 
+    ["Goiás"], ["Itamaracá"], ["Maranhão"], ["Mato Grosso do Sul"], ["Minas Gerais"], ["NA"], ["Pará"], ["Paraíba"], ["Pernambuco"], ["Pernambuco/Alagoas"], 
+    ["Pernambuco/Piauí"], ["Piauí"], ["Rio de Janeiro"], ["Rio Grande do Norte"], ["Rio Grande do Sul"], ["Rio Negro"], ["Santa Catarina"], ["São Paulo"], 
+    ["São Paulo/Rio de Janeiro"], ["Sergipe"].
+    Classifique "Estado_atual" selecionando uma das seguintes opções ["Alagoas"], ["Bahia"], ["Ceará"], ["Colônia do Sacramento"], ["Espírito Santo"], ["Goiás"], ["Itamaracá"], 
+    ["Maranhão"], ["Mato Grosso do Sul"], ["Minas Gerais"], ["NA"], ["Pará"], ["Paraíba"], ["Pernambuco"], ["Pernambuco/Alagoas"], ["Pernambuco/Piauí"], ["Piauí"], 
+    ["Rio de Janeiro"], ["Rio Grande do Norte"], ["Rio Grande do Sul"], ["Rio Negro"], ["Santa Catarina"], ["São Paulo"], ["São Paulo/Rio de Janeiro"], ["Sergipe"].
+    Classifique "Historico_da_terra" selecionando uma das seguintes opções ["Comprada"], ["Devoluta nunca povoada"], ["Devoluta por abandono"], ["Herdada"], ["NA"], ["Primordial"].
+    Classifique "Tipo_de_area" selecionando uma das seguintes opções ["Léguas"], ["Braças"], ["NA"].
+    '''
+    return prompt
+
+
+@weave.op()
+def generate_content(gpt_assistant_prompt: str, gpt_user_prompt: str) -> dict:
+    gpt_prompt = f"{gpt_assistant_prompt} {gpt_user_prompt}"
+    messages = [
+        {"role": "assistant", "content": gpt_assistant_prompt},
+        {"role": "user", "content": gpt_user_prompt}
+    ]
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",  # Ensure correct model name is used
+        messages=messages,
+        temperature=0.2,
+        max_tokens=1000,
+        frequency_penalty=0.0
+    )
+    response_text = response.choices[0].message.content
+    tokens_used = response.usage.total_tokens
+    
+    return {"response": response_text, "tokens_used": tokens_used}
+
+
+def send_to_openai_api(prompt, model="gpt-4o-mini"):
+    """
+    Envia o prompt para o modelo GPT-4o Mini da OpenAI e retorna a resposta.
+    """
     try:
-        with open(pdf_path, "rb") as file:
-            reader = PyPDF2.PdfReader(file)
-            text = ""
-            for page in reader.pages:
-                text += page.extract_text()
-            return text
-    except Exception as e:
-        return f"Erro ao ler o PDF: {str(e)}"
+        # Estruturando a mensagem no formato esperado pela API
+        messages = [{"role": "user", "content": prompt}]
 
-# Função para consultar o modelo GPT da OpenAI
-def ask_chatgpt(prompt):
-    try:
-        response = openai.ChatCompletion.create(
-            model="gpt-4",  # Ou outro modelo compatível
-            messages=[{"role": "user", "content": prompt}]
+        # Enviando requisição ao OpenAI via Weave
+        response = client.chat.completions.create(
+            model=model,
+            messages=messages,
+            temperature=0.2,
+            max_tokens=1000,
+            frequency_penalty=0.0
         )
-        return response['choices'][0]['message']['content']
-    except Exception as e:
-        return f"Erro com ChatGPT: {str(e)}"
 
-# Função para consultar o modelo Mistral rodando no Ollama
-def ask_mistral(prompt):
+        # Extraindo o texto da resposta
+        return response.choices[0].message.content
+
+    except Exception as e:
+        print(f"Erro ao conectar ao OpenAI: {str(e)}")
+        return None
+
+
+def send_to_llm(model, prompt):
+    """
+    Envia o prompt para o servidor usando streaming de resposta.
+    """
+    url = 'https://5b95-35-187-254-206.ngrok-free.app/api/generate'  # Substitua pela URL do ngrok
+    headers = {'Content-Type': 'application/json'}
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "format": "json",
+        "options": {"temperature": 0.7}
+    }
+    
+    # Inicia o cronômetro
+    inicio = time.time()
+    
     try:
-        payload = {"prompt": prompt}
-        headers = {"Content-Type": "application/json"}
-        response = requests.post(OLLAMA_URL, json=payload, headers=headers)
-        response.raise_for_status()
-        return response.json().get("response", "Sem resposta do modelo.")
+        # Enviar requisição POST com streaming
+        with requests.post(url, json=payload, headers=headers, stream=True) as response:
+            if response.status_code == 200:
+                # Processar o streaming da resposta
+                full_response = ""
+                for line in response.iter_lines():
+                    if line:
+                        try:
+                            partial_response = json.loads(line.decode("utf-8"))
+                            full_response += partial_response.get("response", "")
+                        except json.JSONDecodeError:
+                            continue
+                fim = time.time()
+                print(f"Tempo de resposta para {model}: {fim - inicio:.2f} segundos")
+                return full_response
+            else:
+                print(f"Erro: {response.status_code} - {response.text}")
+                return None
     except Exception as e:
-        return f"Erro com Mistral: {str(e)}"
+        print(f"Erro ao conectar ao servidor para o modelo {model}: {str(e)}")
+        return None
 
-# Função para comparar os modelos
-def compare_models(text, questions):
-    results = {"chatgpt": [], "mistral": []}
+def save_response_to_file(pdf_name, model_name, response, model_time):
+    """
+    Função para salvar a resposta de um modelo em um arquivo de texto.
+    """
+    # Criar diretório para armazenar as respostas, se não existir
+    output_dir = "respostas"
+    os.makedirs(output_dir, exist_ok=True)
     
-    for question in questions:
-        prompt = f"{text}\nPergunta: {question}"
-        '''
-        # Consultar ChatGPT
-        chatgpt_response = ask_chatgpt(prompt)
-        results["chatgpt"].append({"question": question, "response": chatgpt_response})
-        '''
-        # Consultar Mistral
-        mistral_response = ask_mistral(prompt)
-        results["mistral"].append({"question": question, "response": mistral_response})
+    # Nome do arquivo baseado no nome do PDF e no nome do modelo
+    file_name = f"{pdf_name}_{model_name}_response.txt"
+    file_path = os.path.join(output_dir, file_name)
     
-    return results
+    # Salvar a resposta no arquivo
+    with open(file_path, "w", encoding="utf-8") as file:
+        file.write(f"Resposta do Modelo: {model_name}\n")
+        file.write(f"Tempo de Resposta: {model_time:.2f} segundos\n\n")
+        file.write("Resposta do Modelo:\n")
+        file.write(response)
 
-# Função para salvar os resultados
-def save_results(results, filename="results.json"):
-    with open(filename, "w") as file:
-        json.dump(results, file, indent=4, ensure_ascii=False)
+    print(f"Resposta salva em: {file_path}")
 
-# Fluxo principal do programa
-if __name__ == "__main__":
-    # Caminho do arquivo PDF
-    pdf_path = "carta_sesmarias.pdf"  # Substitua pelo caminho do seu arquivo PDF
+def compare_responses(pdf_path):
+    """
+    Compara as respostas dos modelos GPT-4 Mini e Mistral.
+    """
+    # Passo 1: Obter o texto do PDF
+    pdf_text = get_pdf_text(pdf_path)
     
-    # Extrair texto do PDF
-    carta_texto = extract_text_from_pdf(pdf_path)
-    if "Erro" in carta_texto:
-        print(carta_texto)  # Exibe erro se não conseguir ler o PDF
-    else:
-        print("Texto extraído com sucesso.")
-        
-        # Perguntas para os modelos
-        perguntas = [
-            "Qual o ano da concessão da carta?",
-            "Para que finalidade foi concedida a sesmaria?",
-            "Onde está localizada a região mencionada?"
-        ]
-        
-        # Comparar os modelos
-        resultados = compare_models(carta_texto, perguntas)
-        
-        # Salvar os resultados
-        save_results(resultados)
-        print("Resultados salvos em 'results.json'")
+    # Passo 2: Gerar o prompt
+    prompt = generate_llm_prompt(pdf_text)
+    
+    # Passo 3: Enviar para o GPT-4 Mini
+    print("Enviando para GPT-4 Mini...")
+    gpt4_response = send_to_openai_api(prompt, model="gpt-4o-mini")
+    '''
+    # Passo 4: Enviar para o Mistral
+    print("Enviando para Mistral...")
+    mistral_response = send_to_llm("mistral", prompt)
+    print(mistral_response)
+ 
+    print("Enviando para Gemma 2...")
+    gemma2_response = send_to_llm("gemma2", prompt)
+    '''
+    save_response_to_file(pdf_path, "gpt-4o-mini",gpt4_response, 0)
+    
+
+def main():
+    """
+    Função principal para executar o experimento.
+    """
+    lista_pdf_path = ['pe-al0001.pdf','pe-al0002.pdf','pe-al0003.pdf','pe-al0004.pdf','pe-al0005.pdf','pe-al0006.pdf','pe-al0007.pdf','pe-al0008.pdf','pe-al0009.pdf','pe-al0010.pdf']
+    for pdf_path in lista_pdf_path:
+        compare_responses(pdf_path)
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "individual",
+    "Sesmeiros": "João da Silva Cardoso e seu filho, Gonçalo da Silva Pereira",
+    "Capitania": "Alagoas",
+    "Estado_atual": "Alagoas",
+    "Historico_da_terra": "NA",
+    "Data_de_peticao": "14 de Outubro de [?]",
+    "Localidade": "Alagoa do Norte",
+    "Marcos_geograficos": "NA",
+    "Ribeira": "NA",
+    "Confrontantes": "NA",
+    "Area": 0.0,
+    "Tipo_de_area": "NA",
+    "Largura": "NA",
+    "Comprimento": "NA"
+}
+```

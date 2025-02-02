@@ -1,0 +1,22 @@
+Resposta do Modelo: gemma2
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+{
+  "Categoria_da_sesmaria": "individual",
+  "Sesmeiros": "NA",
+  "Capitania": "Pernambuco",
+  "Estado_atual": "Pernambuco",
+  "Historico_da_terra": "NA",
+  "Data_de_peticao": "5 de novembro de 1716",
+  "Localidade": "Vila do Recife",
+  "Marcos_geograficos": "NA",
+  "Ribeira": "NA",
+  "Confrontantes": "NA",
+  "Area": 20.3,
+  "Tipo_de_area": "Léguas",
+  "Largura": "NA",
+  "Comprimento": "NA"
+} 
+
+

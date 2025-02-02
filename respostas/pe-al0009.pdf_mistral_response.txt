@@ -1,0 +1,20 @@
+Resposta do Modelo: mistral
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+{
+      "Categoria_da_sesmaria": "individual",
+      "Sesmeiros": "João da Silva Cardoso e Gonçalo da Silva Pereira",
+      "Capitania": "Pernambuco",
+      "Estado_atual": "Pernambuco",
+      "Historico_da_terra": "NA",
+      "Data_de_peticao": "14 de Outubro de [?]\"Rosa.\"" ,
+      "Localidade": "Alagoa do Norte",
+      "Marcos_geograficos": "NA",
+      "Ribeira": "NA",
+      "Confrontantes": "NA",
+      "Area": "NA",
+      "Tipo_de_area": "NA",
+      "Largura": "NA",
+      "Comprimento": "NA"
+    }

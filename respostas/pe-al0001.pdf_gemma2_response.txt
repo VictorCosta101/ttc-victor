@@ -1,0 +1,21 @@
+Resposta do Modelo: gemma2
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+{
+  "Categoria_da_sesmaria": "individual",
+  "Sesmeiros": "Apolônio Ribeiro e Manoel da Cunha",
+  "Capitania": "Pernambuco/Alagoas",
+  "Estado_atual": "Pernambuco",
+  "Historico_da_terra": "Devoluta por abandono",
+  "Data_de_peticao": "18 de setembro de 1698",
+  "Localidade": "Recife",
+  "Marcos_geograficos": "NA",
+  "Ribeira": "NA",
+  "Confrontantes": "NA",
+  "Area": 2.0,
+  "Tipo_de_area": "Léguas",
+  "Largura": "NA",
+  "Comprimento": "NA"
+}
+

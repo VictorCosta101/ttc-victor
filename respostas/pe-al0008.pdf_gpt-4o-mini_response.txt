@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "individual",
+    "Sesmeiros": "André Furtado de Mendonça",
+    "Capitania": "Pernambuco",
+    "Estado_atual": "Pernambuco",
+    "Historico_da_terra": "NA",
+    "Data_de_peticao": "22/04/1717",
+    "Localidade": "terras dos Palmares",
+    "Marcos_geograficos": "riacho Gurapama, rio Paraíba",
+    "Ribeira": "rio Paraíba",
+    "Confrontantes": "NA",
+    "Area": 3.0,
+    "Tipo_de_area": "Léguas",
+    "Largura": "NA",
+    "Comprimento": "NA"
+}
+```

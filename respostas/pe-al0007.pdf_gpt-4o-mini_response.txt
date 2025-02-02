@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "coletiva",
+    "Sesmeiros": "Cosme de Brito Cação, Cosme de Brito Eça, Alexandre Gonçalves de Brito, Manoel Gonçalves de Sá, Lepo Gomes de Abreu",
+    "Capitania": "Pernambuco",
+    "Estado_atual": "Pernambuco",
+    "Historico_da_terra": "Devoluta nunca povoada",
+    "Data_de_peticao": "08/10/1716",
+    "Localidade": "Entre a serra do Comonati e Campos dos Garanhuns",
+    "Marcos_geograficos": "Cabeceira da serra das minas, rio Traypú, rio Cordeiro, serra do Comonati, dois riachos, serra do retiro",
+    "Ribeira": "NA",
+    "Confrontantes": "NA",
+    "Area": 60.0,
+    "Tipo_de_area": "Léguas",
+    "Largura": "uma de largo",
+    "Comprimento": "vinte léguas de comprido"
+}
+```
