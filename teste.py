@@ -1,41 +1,56 @@
+import os
+import json
 import requests
-import json  # Importar o módulo correto para lidar com JSON
+import fitz  # PyMuPDF
 
-# URL pública do servidor ngrok
-ollama_host = "https://7b60-35-187-254-206.ngrok-free.app"
+# 🔹 Configuração da API
+API_URL = "http://127.0.0.1:8000/verificar/"
 
-def ask_mistral(prompt):
-    url = f"{ollama_host}/api/generate"  # Endpoint para interagir com o modelo
-    payload = {
-        "model": "mistral",  # Nome do modelo
-        "prompt": prompt     # Entrada do usuário
-    }
-    headers = {
-        "Content-Type": "application/json",
-    }
-    
+# 🔹 Lista de cartas com referência e caminho do PDF
+cartas = [
+    {"reference": "PE-AL0001", "path": "pe-al0001.pdf"},
+    {"reference": "PE-AL0002", "path": "pe-al0002.pdf"},
+]
+
+# 🔹 Array para armazenar os resultados
+resultados = []
+
+# 🔹 Função para extrair texto do PDF
+def extrair_texto_pdf(caminho_pdf):
+    texto = ""
     try:
-        # Enviar a requisição POST
-        with requests.post(url, json=payload, headers=headers, stream=True) as response:
-            if response.status_code == 200:
-                # Processar o streaming da resposta
-                full_response = ""
-                for line in response.iter_lines():
-                    if line:
-                        try:
-                            # Decodificar cada linha como JSON
-                            partial_response = json.loads(line.decode("utf-8"))
-                            full_response += partial_response.get("response", "")
-                        except ValueError:
-                            continue
-                return full_response
-            else:
-                return f"Erro: {response.status_code} - {response.text}"
+        with fitz.open(caminho_pdf) as pdf:
+            for pagina in pdf:
+                texto += pagina.get_text("text") + "\n"
     except Exception as e:
-        return f"Erro ao conectar ao servidor: {str(e)}"
+        print(f" Erro ao ler {caminho_pdf}: {e}")
+    return texto
 
-# Testar o modelo com uma pergunta simples
-if __name__ == "__main__":
-    prompt = "Qual é a capital da França?"
-    resposta = ask_mistral(prompt)
-    print("Resposta do Mistral:", resposta)
+#  Processa todas as cartas
+for carta in cartas:
+    reference = carta["reference"]
+    path = carta["path"]
+
+    #  Verifica se o arquivo PDF existe
+    if not os.path.exists(path):
+        print(f" Arquivo não encontrado: {path}")
+        continue
+
+    #  Extrai o texto do PDF
+    carta_texto = extrair_texto_pdf(path)
+
+    #  Envia para a API FastAPI
+    payload = {"reference": reference, "carta_texto": carta_texto}
+    response = requests.post(API_URL, json=payload)
+
+    #  Verifica a resposta da API
+    if response.status_code == 200:
+        resultado = response.json()
+        resultados.append(resultado)
+        print(f" {reference} processado com sucesso!")
+    else:
+        print(f" Erro ao processar {reference}: {response.text}")
+
+# 🔹 Mostra os resultados finais
+print("\nResultados Finais:")
+print(json.dumps(resultados, indent=4, ensure_ascii=False))
