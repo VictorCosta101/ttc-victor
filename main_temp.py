@@ -1,34 +1,57 @@
-import logging
-from fastapi import FastAPI, Depends
-from pydantic import BaseModel
+from fastapi import FastAPI, File, UploadFile, Depends, HTTPException
 from sqlalchemy.orm import Session
 from data_comparator import analyze_data
-from db import get_db
+from db import get_db, Base, engine
+from models import CatalogacaoErro
+import fitz  # PyMuPDF
+import logging
 
 # Configurar logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Cria as tabelas no banco de dados (se não existirem)
+Base.metadata.create_all(bind=engine)
+
 app = FastAPI()
 
-class CartaInput(BaseModel):
-    reference: str
-    carta_texto: str
+def detectar_reference(texto: str) -> str:
+    """
+    Extrai o reference da primeira linha do texto.
+    """
+    primeira_linha = texto.split("\n")[0].strip()
+    return primeira_linha
 
 @app.post("/verificar/")
-def verificar_carta(input_data: CartaInput, db: Session = Depends(get_db)):
-    logger.info(f" Recebendo request para referência {input_data.reference}")
-
+async def verificar_carta(
+    file: UploadFile = File(...),  # Recebe o arquivo PDF
+    db: Session = Depends(get_db)  # Sessão do banco de dados
+):
     try:
-        resultado = analyze_data(input_data.reference, input_data.carta_texto, db)
+        # Lê o conteúdo do arquivo PDF
+        pdf_content = await file.read()
+
+        # Converte o PDF para texto
+        pdf_document = fitz.open(stream=pdf_content, filetype="pdf")
+        carta_texto = ""
+        for pagina in pdf_document:
+            carta_texto += pagina.get_text("text") + "\n"
+
+        # Detecta o reference da primeira linha
+        reference = detectar_reference(carta_texto)
+        if not reference:
+            raise HTTPException(status_code=400, detail="Reference não detectado no PDF.")
+
+        logger.info(f"Processando carta com reference: {reference}")
+
+        # Chama a função de análise
+        resultado = analyze_data(reference, carta_texto, db)
 
         if not resultado:
-            logger.error(" analyze_data retornou None")
-            return {"error": "Erro interno: analyze_data falhou"}
+            raise HTTPException(status_code=500, detail="Erro ao processar a carta.")
 
-        logger.info(f" analyze_data processou referência {input_data.reference}")
         return resultado
-    
+
     except Exception as e:
-        logger.exception(" Erro ao processar carta")
-        return {"error": f"Erro interno: {str(e)}"}
+        logger.exception("Erro ao processar carta")
+        raise HTTPException(status_code=500, detail=f"Erro interno: {str(e)}")

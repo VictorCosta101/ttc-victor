@@ -14,15 +14,17 @@ logger = logging.getLogger(__name__)
 API_KEY = "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"
 gpt_client = GPTClient(api_key=API_KEY)
 
-# Verifica se já temos erros armazenados para essa carta
-def verificar_carta_analisada(reference: str, db: Session):
-    return db.query(CatalogacaoErro).filter(CatalogacaoErro.reference == reference).first()
+def fetch_data_from_silb(reference: str) -> dict:
+    """
+    Busca dados da API do SILB com base no reference.
+    """
 
-# Busca dados da API
-def fetch_data_from_api(reference: str) -> dict:
+    # Formata o reference
+    reference_formatado = formatar_reference(reference)
+    
     url = (
         f"http://plataformasilb.cchla.ufrn.br/api/get/tabela?"
-        f"reference={reference}"
+        f"reference={reference_formatado}"
         f"&captaincy_name=Pernambuco"
         f"&owner="
         f"&date_request="
@@ -40,35 +42,31 @@ def fetch_data_from_api(reference: str) -> dict:
         f"&comments_deferment="
         f"&comments_demands="
         )
-    
-    logger.info(f"Buscando dados na URL: {url}")  
-
+    print(url)
     try:
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
-
-        logger.info(f"Resposta da API para {reference}: {data}")  
-
         return data[0] if isinstance(data, list) and data else data if isinstance(data, dict) else None
-
     except requests.exceptions.RequestException as e:
-        logger.error(f"Erro ao buscar dados da API para {reference}: {e}")
+        logger.error(f"Erro ao buscar dados da API do SILB para {reference}: {e}")
         return None
 
-# Envia todos os dados para análise do GPT
 def analyze_data(reference: str, carta_texto: str, db: Session):
-    logger.info(f"Recebendo request para referência {reference}")
+    """
+    Compara os dados da carta com os dados da API do SILB usando GPT.
+    """
+    logger.info(f"Processando reference: {reference}")
 
-    #  Busca os dados da API
-    api_data = fetch_data_from_api(reference)
+    # Busca os dados da API do SILB
+    api_data = fetch_data_from_silb(reference)
     if not api_data:
-        logger.error(f" Erro ao buscar dados da API para {reference}")
-        return {"error": "Erro ao buscar dados da API"}
+        return {"error": "Erro ao buscar dados da API do SILB"}
 
-    # Criando um prompt consolidado para o GPT
+    # Cria o prompt para o GPT
     prompt = f"""
-    Você é um especialista em análise de documentos históricos. Compare os seguintes dados extraídos de um documento (API) com o conteúdo original da carta e identifique quaisquer erros.
+   Você é um especialista em análise de documentos históricos. Compare os dados extraídos de um documento (API) com o conteúdo original da carta e identifique quaisquer erros. 
+   Considere sinônimos, variações de escrita e equivalências numéricas ao fazer a comparação.
 
     **Dados extraídos da API**:
     {json.dumps(api_data, indent=2)}
@@ -76,47 +74,68 @@ def analyze_data(reference: str, carta_texto: str, db: Session):
     **Conteúdo original da carta**:
     {carta_texto}
 
-     Retorne apenas os campos incorretos no seguinte formato JSON:
+    **Regras para comparação**:
+    1. Valores numéricos escritos por extenso (ex: "quatro léguas") devem ser considerados equivalentes aos seus correspondentes em algarismos (ex: "4.00").
+    2. Sinônimos e variações de escrita (ex: "terras" vs. "propriedades") devem ser considerados equivalentes, a menos que haja uma diferença clara de significado.
+    3. Ignore diferenças de pontuação, maiúsculas/minúsculas e espaçamento, a menos que alterem o significado.
+    4. Apenas identifique erros quando houver uma discrepância clara e significativa entre os dados.
+
+    **Formato de resposta**:
+    Retorne apenas os campos incorretos no seguinte formato JSON:
     {{
         "erros_identificados": [
             {{
                 "campo": "nome_do_campo",
                 "valor_incorreto": "valor_extraído",
-                "motivo": "explicação do erro"
-            }},
-            ...
+                "motivo": "explicação_do_erro"
+            }}
         ]
     }}
     """
 
     try:
+        # Chama o GPT para análise
         response = gpt_client.generate_content(
             assistant_prompt="Você é um especialista em documentos históricos.",
             user_prompt=prompt
         )
-        
         resposta_gpt = response.get("response", "{}").strip("```json").strip("```").strip()
-        resultado = json.loads(resposta_gpt)  
-        print("response: " + str(resultado))
-       
+        resultado = json.loads(resposta_gpt)
+
+        # Salva os erros no banco de dados
+        for erro in resultado.get("erros_identificados", []):
+            novo_erro = CatalogacaoErro(
+                reference=reference,
+                campo=erro["campo"],
+                conteudo_errado=erro["valor_incorreto"],
+                motivo=erro["motivo"]
+            )
+            db.add(novo_erro)
+        db.commit()
+
+        return {"message": "Verificação concluída!", "erros_identificados": resultado.get("erros_identificados", [])}
 
     except Exception as e:
-        logger.error(f"Erro na chamada do GPT para {reference}: {e}")
+        logger.error(f"Erro ao processar dados com GPT: {e}")
         return {"error": "Erro ao processar dados com GPT"}
+    
 
-    erros_identificados = resultado.get("erros_identificados", [])
+def formatar_reference(reference: str) -> str:
+    """
+    Formata o reference para o padrão esperado pela API do SILB.
+    Remove espaços e garante que o formato seja consistente (ex: PE-AL0001).
 
-    # Salvar erros no banco de dados
-    for erro in erros_identificados:
-        novo_erro = CatalogacaoErro(
-            reference=reference, 
-            campo=erro["campo"], 
-            conteudo_errado=erro["valor_incorreto"],
-            motivo=erro["motivo"]
-        )
-        db.add(novo_erro)
+    Args:
+        reference (str): O reference extraído do PDF.
 
-    db.commit()
+    Returns:
+        str: O reference formatado.
+    """
+    # Remove espaços em branco
+    reference = reference.replace(" ", "")
 
-    logger.info(f"Processamento concluído para referência {reference}")
-    return {"message": "Verificação concluída!", "erros_identificados": erros_identificados}
+    # Verifica se o reference está no formato esperado (ex: PE-AL0001)
+    if not reference.replace("-", "").isalnum():
+        raise ValueError(f"Reference inválido: {reference}. O formato esperado é 'PE-AL0001'.")
+
+    return reference    
