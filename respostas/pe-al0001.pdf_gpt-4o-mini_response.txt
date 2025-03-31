@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "coletiva",
+    "Sesmeiros": "Apolinário Fernandes Padilha e Gonçalo de Serqueira",
+    "Capitania": "Alagoas",
+    "Estado_atual": "Alagoas",
+    "Historico_da_terra": "Devoluta nunca povoada",
+    "Data_de_peticao": "18/09/1698",
+    "Localidade": "Gitihiba",
+    "Marcos_geograficos": "Rio Gitihiba",
+    "Ribeira": "Rio Gitihiba",
+    "Confrontantes": "Terras do antigo engenho de Cristóvão Dias",
+    "Area": 4.0,
+    "Tipo_de_area": "Léguas",
+    "Largura": "Uma contrabanda do rio",
+    "Comprimento": "Pelo rio acima"
+}
+```

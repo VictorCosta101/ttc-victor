@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "individual",
+    "Sesmeiros": "Alexandre Jorge da Cruz",
+    "Capitania": "Pernambuco",
+    "Estado_atual": "Pernambuco",
+    "Historico_da_terra": "NA",
+    "Data_de_peticao": "23/06/1718",
+    "Localidade": "Oiteiro do Barriga",
+    "Marcos_geograficos": "barra do rio Cabeça de Porco",
+    "Ribeira": "NA",
+    "Confrontantes": "rumos do norte e sul e rumos de leste a oeste",
+    "Area": 3.0,
+    "Tipo_de_area": "Léguas",
+    "Largura": "NA",
+    "Comprimento": "NA"
+}
+```

@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "coletiva",
+    "Sesmeiros": "Miguel Pereira de Castro, Bartolomeu Pereira de Castro, Manoel de Araújo de Vasconcelos",
+    "Capitania": "Bahia",
+    "Estado_atual": "NA",
+    "Historico_da_terra": "Devoluta nunca povoada",
+    "Data_de_peticao": "22 de agosto de 1713",
+    "Localidade": "rio chamado Traipú",
+    "Marcos_geograficos": "serras das mãos de uma e outra parte até confinar com os campos de Granhü",
+    "Ribeira": "rio de São Francisco",
+    "Confrontantes": "NA",
+    "Area": 6.0,
+    "Tipo_de_area": "Léguas",
+    "Largura": "NA",
+    "Comprimento": "NA"
+}
+```

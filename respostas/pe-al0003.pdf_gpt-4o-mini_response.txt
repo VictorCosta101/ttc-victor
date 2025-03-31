@@ -1,0 +1,22 @@
+Resposta do Modelo: gpt-4o-mini
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+```json
+{
+    "Categoria_da_sesmaria": "individual",
+    "Sesmeiros": "Feliciano Coelho de Araújo e Acácio Botelho",
+    "Capitania": "Alagoas",
+    "Estado_atual": "Alagoas",
+    "Historico_da_terra": "Devoluta nunca povoada",
+    "Data_de_peticao": "08/10/1702",
+    "Localidade": "Alagoas",
+    "Marcos_geograficos": "Confrontam da parte do rio de São Miguel com terras de Maria da Rocha e Ambrósio Luiz de La Penha, e da parte da Alagoa do sul com terras de Helena da Cunha, entre o rio Sabahuá grande e Sabahuá pequeno.",
+    "Ribeira": "Rio de São Miguel",
+    "Confrontantes": "Maria da Rocha, Ambrósio Luiz de La Penha, Helena da Cunha",
+    "Area": 4.0,
+    "Tipo_de_area": "Léguas",
+    "Largura": "NA",
+    "Comprimento": "NA"
+}
+```

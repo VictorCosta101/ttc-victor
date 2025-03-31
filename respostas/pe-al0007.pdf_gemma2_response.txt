@@ -1,0 +1,22 @@
+Resposta do Modelo: gemma2
+Tempo de Resposta: 0.00 segundos
+
+Resposta do Modelo:
+{
+  "Categoria_da_sesmaria": "individual",
+  "Sesmeiros": "NA",
+  "Capitania": "Pernambuco",
+  "Estado_atual": "Pernambuco",
+  "Historico_da_terra": "NA",
+  "Data_de_peticao": "8 de outubro de 1716",
+  "Localidade": "Recife",
+  "Marcos_geograficos": "NA",
+  "Ribeira": "NA",
+  "Confrontantes": "NA",
+  "Area": 20.0,
+  "Tipo_de_area": "Léguas",
+  "Largura": "NA",
+  "Comprimento": "20 léguas"
+} 
+
+
