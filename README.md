@@ -118,3 +118,6 @@ curl -X POST -F "file=@pe-al0001.pdf" http://127.0.0.1:8000/verificar/
     ],
     "message": "Verificação concluída!"
 }
+
+## Acesso a dados do container 
+docker exec -i silb-mariadb mariadb -u root -p123 silb < dump-jv.sql

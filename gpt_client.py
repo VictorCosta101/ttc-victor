@@ -13,7 +13,7 @@ class GPTClient:
             {"role": "assistant", "content": assistant_prompt},
             {"role": "user", "content": user_prompt}
         ]
-        print(user_prompt)
+        #print(user_prompt)
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
