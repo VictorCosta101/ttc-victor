@@ -1,0 +1,138 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados, indicando seu nível de confiança para cada divergência identificada.
+
+## DADOS
+Texto original da carta:
+        
+        RJ 0018
+Carta de concessão de sesmaria de Francisco Raposo de 8 de janeiro de 1574
+Forra
+[f.30,77] Saibam, quantos este instrumento de carta de sesmaria virem, que no ano do
+nascimento de nosso Senhor Jesus Cristo de 1574 anos, aos 8 dias do mês de janeiro do dito
+ano, nesta cidade de São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas de mim
+escrivão abaixo nomeado, apareceu Francisco Raposo, ora instante nesta dita cidade, e me
+apresentou uma petição com um despacho nela do Senhor Cristóvão de Barros, capitão e
+governador desta dita cidade, capitania e governança deste dito Rio de Janeiro, por El Rei
+nosso Senhor e da qual petição o traslado dela é o seguinte. Senhor, capitão e governador. Diz
+Francisco Raposo, morador nesta cidade de São Sebastião, que ele tem mandado por toda sua
+família ao Reino para fazerem serviço a Sua Alteza, pede a Vossa Senhoria, que lhe faça
+mercê de 2 léguas de terra pelo Rio de Juaçu arriba, começará na piaçava da tapera, irá
+correndo pelo rio arriba com todas as águas, digo, com todas as suas voltas pela tapera de
+Marrambaia e outras 2 léguas para parte do sertão com todas as suas águas e medidas pelo
+rumo da agulha para fazer uma herdade, benfeitorias e criar toda a maneira de gados, sendo
+caso que seja, dado por onde pede que em tal caso corra por diante pelo rio acima, no que
+receberá mercê. E tudo visto pelo dito Senhor, capitão e governador a petição do dito
+suplicante Francisco Raposo, o que ele pedia visto ser justo e havendo respeito ao proveito,
+que se pode seguir acerca da República e ao serviço de Deus e Del Rei nosso Senhor, por a
+terra se povoar, deu ao dito suplicante Francisco Raposo, meia légua de terra de largo e outra
+meia légua de comprido, na parte declarado em sua petição, e sendo dada correrá adiante,
+porquanto estava a dita, vaga e devoluta, em matos maninhos e por aproveitar, não sendo já
+dada a outra pessoa primeiro, a qual terra está no dito lugar, tem a dita medida e parte pelas
+ditas confrontações, como em sua petição diz, porque se medir a dita terra, será a braça
+craveira, scilicet, a saber 2 varas de medir por 1, como no Reino se costuma de medir, o que
+tudo [faltam as f. 78-79.] com as quais condições e obrigações contidas neste capítulo, o qual
+se trasladará nas cartas das ditas sesmarias. Com as quais condições, obrigações e declarações
+lhe assim deu o dito Senhor, capitão e governador as ditas terras ao dito Francisco Raposo,
+pela sobredita maneira e para sua guarda, lhe mandou ser feita esta carta, pela qual manda que
+ele haja a posse e senhorio para sempre, para si e todos os seus herdeiros e sucessores,
+ascendentes descendentes que após dele vierem, com tal condição e entendimento que ele
+rompa e aproveite as ditas terras
+e as frutifique, da dada desta em três anos primeiros
+seguintes, e outrossim, faça de maneira que dentro de quatro meses tenha feito nelas algum
+proveito, plantado alguns mantimentos, e cumpridos os ditos três anos que as tenha
+aproveitadas, como o dito é, porque não o fazendo ele assim, passados os ditos três anos se
+darão as ditas terras que aproveitadas não tiver, de sesmaria a quem as pedir para as aproveitar
+e lhe será deixado alguns logradouros, do que aproveitado não tiver, sobretudo, pagará mil
+réis para as obras do Conselho, para fontes e pontes, vieiros e pedras que necessários forem,
+as quais terras pela sobredita maneira, lhe dava forras e isentas sem foro nem tributo, somente
+de todo o que lhe nosso Senhor der, digo, nelas de suas novidades, lavouras e criações, pagará
+os dízimos a Deus conforme ao dito regimento, o que a ele seja posto, e que esta carta seja
+registrada dentro de um anos nos livros da Fazenda Real, como o dito Senhor em seu
+regimento manda, só as penas nele contidas e declaradas, por que sobredito Francisco Raposo,
+tudo prometeu de ter, manter e cumprir pela dita maneira, lhe mandou passar esta carta de
+sesmaria, por verdade, eu Pero da Costa, escrivão da sesmaria e tabelião das notas por El Rei
+nosso Senhor, nesta sua cidade de São Sebastião, e em seus termos que este instrumento de
+
+carta de sesmaria escrevi nos meus livros das notas e tombo das cartas das sesmarias, desta
+dita cidade, onde assinado pelo dito Senhor, capitão e governador. //Cristóvão de Barros//
+- Fim da Transcrição -
+Observações:
+Título original: Carta de sesmaria das terras de Francisco Raposo de Iguaçu
+Referências:
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro:
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 82;
+Documento Original :: f.30,77  a f.3,81
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.82. Códice 50.5.3A(1573-4).     
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco Raposo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "08-01-1574",
+  "Data da concessão": "08-01-1574",
+  "Observações da sesmaria": "Título original: Carta de sesmaria das terras de Francisco Raposo de Iguaçu\r\n",
+  "Localidade": "Rio de Janeiro",
+  "Marcos Geográficos": "Tapera da Marrambaia ",
+  "Ribeira": "Rio de Juaçu",
+  "Observações da petição": "Solicitou 2 léguas de largura e 2 léguas comprimento, mas só recebeu 0,5 léguas de largura e 0,5 léguas de comprimento. ",
+  "Justificativas": "Não tinha terras; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Provisão",
+  "referencia": "RJ0018"
+}
+
+
+
+## NÍVEIS DE CONFIANÇA
+Para cada divergência identificada, considere internamente um nível de confiança:
+- **Alta**: Evidência clara e inequívoca no texto original
+- **Média**: Evidência presente, mas com alguma ambiguidade
+- **Baixa**: Evidência indireta ou baseada em inferência
+
+
+CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".       
+            

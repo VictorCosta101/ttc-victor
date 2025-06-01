@@ -1,0 +1,145 @@
+
+            ## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## ABORDAGEM DE VERIFICAÇÃO DUPLA
+Para garantir a máxima precisão, você deve:
+
+1. Realizar uma primeira análise completa, identificando possíveis divergências
+2. Realizar uma segunda análise independente, sem considerar os resultados da primeira
+3. Comparar os resultados das duas análises e resolver quaisquer discrepâncias
+4. Verificar a consistência interna dos dados catalogados
+5. Verificar a consistência entre os dados catalogados e o texto original
+6. Avaliar a qualidade geral da catalogação, considerando a clareza e a precisão dos dados definidos em criterio para erros
+## DADOS
+Texto original da carta:
+        
+        PI 0014
+Carta de concessão de dona Joana Maria de Santa Ana de 23/02/1766
+Carta de data de sesmaria passada a dona Joana Maria de Santa Ana
+João Pereira Caldas, Alcaide mor, comendador de São Mamede de Troviscoso na
+Ordem de Cristo, coronel de cavalaria e governador da capitania de São José do Piauí,
+etc. Faço saber aos que esta minha carta de data e sesmaria virem que dona Joana Maria
+de Santa Ana, moradora no distrito da vila de Valença, me representou que entre as
+fazendas Gado Bravo, São Simão, Vargem do [Mel] e Fazenda Grande, se acha devoluto
+e despovoado um sítio chamado Vareda da Izidora, o qual pretende povoar com gados
+vacuns e cavalares, dando-se lhe para esse fim, e o das suas plantações, uma data de três
+léguas de comprido e uma de largo, fazendo esta pião no riacho chamado da Izidora,
+correndo em linha reta o comprimento para poente a confrontar com a fazenda Grande e
+para nascente com a do Gado Bravo; e na largura para o norte e sul [com chapadas
+inúteis]; E porque das ditas terras desejava também haver título por carta de data e
+sesmaria, me pedia lhe mandasse passar; ao que atendendo, e a informação dos oficiais
+da Câmara da sobredita vila de Valença e do provedor da Fazenda Real que foram
+ouvidos, e se lhe não ofereceu dúvida alguma, e ser em utilidade da mesma Real
+Fazenda cultivarem-se as terras neste Estado. Hei por bem / em virtude da carta régia de
+19 de junho de 1761 / conceder-lhe em nome de Sua Majestade por data e sesmaria as
+ditas três léguas de terra de comprido e uma de largo, correndo o comprimento de
+nascente a poente e a largura de norte a sul, na forma e parte que pede, com as
+confrontações que declara, e com as condições expressadas nas Reais Ordens, e com a
+de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma religião ou
+comunidade sem que primeiro dê parte na Casa da Fazenda ao provedor dela para se me
+fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de ficar nula
+esta data e se poder novamente conceder a outrem. E nesta forma se lhe passa carta para
+que a dita dona Joana Maria de Santa Ana haja, logre e possua as sobreditas terras como
+coisa sua própria para ela e seus herdeiros ascendentes e descendentes, sem pensão nem
+tributo algum mais que o dízimo a Deus nosso senhor, dos frutos que nelas tiver e
+lavrar; a qual concessão lhe faço não prejudicando a terceiros nem a Sua Majestade se
+no dito sítio quiser quiser mandar fundar alguma vila. Com declaração que não ficará
+sendo senhora das minas de qualquer gênero de metal que nas mesmas terras houver, e
+de que mandará confirmar esta data por Sua Majestade dentro de três anos primeiros
+seguintes, e cultivará as referidas terras de maneira que deem frutos; e dará caminhos
+públicos e particulares aonde forem necessários para pontes, fontes, portos e pedreiras; e
+havendo nas tais terras estrada pública que atravesse rio caudaloso e que necessite de
+barca para se passar, não só ficará de ambas as bandas a terras que baste para o uso
+público, mas sim também de uma delas meia légua de terra em quadra para a
+comodidade pública e de quem arrendar a dita passagem; e se demarcará ao tempo
+determinado nas Reais Ordens por rumo de corda e braças craveiras como é estilo e Sua
+Majestade manda. E outrossim, não poderão suceder nelas religiões nem outra pessoa
+eclesiástica por nenhum título que seja; e acontecendo possuí-las, será com encargo de
+pagarem delas dízimo a Deus como se fossem possuídas por seculares; e faltando a
+quaisquer destas cláusulas, se haverão as ditas terras por devolutas e se darão a quem as
+denunciar como o mesmo senhor ordena. Pelo que mando ao provedor da Fazenda Real
+mais ministros e pessoas a que tocar, que na forma referida e com as condições
+
+expressadas, deixem ter e possuir as sobreditas terras a dita dona Joana Maria de Santa
+Ana como coisa sua própria para sí e seus herdeiros ascendentes e descendentes; e que
+assim também cumpram e guardem esta minha carta de data e sesmaria tão inteiramente
+como nela se contém, a qual lhe mandei passar por mim assinada e selada com o sinete
+de minhas armas, que se registrará nas partes aonde tocar e se passou por duas vias.
+Dada nesta cidade de Oeiras do Piauí aos 23 dias do mês de fevereiro do ano do
+nascimento de nosso senhor Jesus Cristo de 1766. E eu, Joaquim Antunes, secretário do
+governo desta capitania a fiz // João Pereira Caldas // lugar do selo // carta de data de
+sesmaria, porque Vossa Senhoria há por bem conceder em nome de Sua Majestade a
+dona Joana Maria de Santa Ana, três léguas de terra de comprido e uma de largo entre a
+fazenda Grande e fazenda do Gado Bravo da freguesia da vila de Valência, na forma e
+com a mais confrontações que acima se declaram. Para Vossa Senhoria ver.
+-
+Fim da carta-
+Referência:
+APEPI, Livro 1, fls. 19v – 21
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Joana Maria de Santana",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-02-1766",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Vereda de Izidora, entre as fazendas Gado Bravo, São Simão, Vargem do [Mel] e Fazenda Grande",
+  "Marcos Geográficos": "Chapadas inúteis, riacho da Izidora",
+  "Ribeira": "Riacho da Izidora",
+  "Confrontantes": "Fazenda Grande, fazenda Gado Bravo ",
+  "Justificativas": "Pretendia criar gado; Pretendia plantar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou que pretendia possuir o título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. Além disso, na Carta de Doação consta que: \"em virtude da carta régia de 19 de junho de 1761\", foi concedido à requerente a data de sesmaria.\r\n",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Exigiu-se ainda que \"havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem\". Ainda houve a última determinação de que \"não ficará sendo senhora das minas de qualquer gênero de metal que nas mesmas  terras houver\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0014"
+}
+
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".         
+            

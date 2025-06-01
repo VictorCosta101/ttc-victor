@@ -1,14 +1,15 @@
+import time as time_module
 from fastapi import FastAPI, File, UploadFile, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
-from data_comparator import analyze_data
+from data_comparator import DataParser, PDFDataExtractor, analyze_data
 from db import get_catalogacao_db, get_silb_db
 from models import Base, CatalogacaoErro
-from juiz import julgar_erros
 from pathlib import Path
 import fitz  # PyMuPDF
 import logging
 from dotenv import load_dotenv
 import os
+from fastapi.middleware.cors import CORSMiddleware 
 
 # Carrega as variáveis do arquivo .env
 load_dotenv()
@@ -25,6 +26,17 @@ CACHE_DIR.mkdir(exist_ok=True)
 Base.metadata.create_all(bind=get_catalogacao_db().__next__().bind)
 
 app = FastAPI()
+
+
+# Configuração CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Em produção, especifique seus domínios frontend
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+) 
+
 @app.post("/verificar/")
 async def verificar_carta(
     reference: str = Query(...),
@@ -147,19 +159,6 @@ async def verificar_carta(
             detail=f"Erro interno no servidor: {str(e)}"
         )
 
-@app.post("/julgar/")
-def julgar_erros_endpoint(
-    catalogacao_db: Session = Depends(get_catalogacao_db)  # Sessão do banco catalogacao
-):
-    try:
-        # Chama a função de julgamento
-        julgar_erros(catalogacao_db)
-        return {"message": "Julgamento concluído!"}
-
-    except Exception as e:
-        logger.exception("Erro ao julgar erros")
-        raise HTTPException(status_code=500, detail=f"Erro interno: {str(e)}")
-
 @app.get("/erros/")
 def listar_erros(
     catalogacao_db: Session = Depends(get_catalogacao_db)  # Sessão do banco catalogacao
@@ -173,15 +172,65 @@ def listar_erros(
         logger.exception("Erro ao listar erros")
         raise HTTPException(status_code=500, detail=f"Erro interno: {str(e)}")
 
-@app.get("/julgamentos/")
-def listar_julgamentos(
-    catalogacao_db: Session = Depends(get_catalogacao_db)  # Sessão do banco catalogacao
-):
-    try:
-        # Retorna todos os julgamentos registrados
-        julgamentos = catalogacao_db.query(Julgamento).all()
-        return {"julgamentos": julgamentos}
 
+@app.post("/extrair_dados/")
+async def extrair_dados_documento(
+    file: UploadFile = File(...),
+    catalogacao_db: Session = Depends(get_catalogacao_db)
+):
+    """
+    Endpoint para extrair dados validados diretamente do PDF.
+    Segue o mesmo padrão de extração usado nos outros endpoints.
+    """
+    try:
+        # 1. Validação e salvamento temporário (igual ao endpoint /verificar/)
+        contents = await file.read()
+        if not contents:
+            raise HTTPException(status_code=400, detail="Arquivo vazio")
+            
+        # Gera um nome temporário para o arquivo
+        temp_ref = f"temp_{int(time_module.time())}"
+        cache_path = CACHE_DIR / f"{temp_ref}.pdf"
+        
+        with open(cache_path, "wb") as f:
+            f.write(contents)
+            
+        # 2. Extração de texto (mesmo método usado em /verificar/)
+        with fitz.open(cache_path) as pdf_document:
+            if pdf_document.is_closed or pdf_document.page_count == 0:
+                raise HTTPException(status_code=400, detail="PDF inválido")
+                
+            text = "\n".join(
+                page.get_text("text") 
+                for page in pdf_document 
+                if page.get_text("text").strip()
+            )
+            
+        if not text.strip():
+            raise HTTPException(status_code=400, detail="PDF sem texto legível")
+        
+        # 3. Extrai dados estruturados
+        extracted_data = PDFDataExtractor.extract_data_from_text(text)
+        
+        # 4. Remove o arquivo temporário
+        if cache_path.exists():
+            cache_path.unlink()
+            
+        # 5. Formata a resposta (incluindo reference se encontrado)
+        return {
+            "status": "success",
+            "reference": extracted_data.get("reference", "Não identificado"),
+            "dados_extraidos": DataParser.parse_extracted_data(extracted_data)
+        }
+        
+    except HTTPException:
+        raise
     except Exception as e:
-        logger.exception("Erro ao listar julgamentos")
-        raise HTTPException(status_code=500, detail=f"Erro interno: {str(e)}")
+        logger.error(f"Erro na extração de dados: {str(e)}")
+        # Limpeza em caso de erro
+        if 'cache_path' in locals() and cache_path.exists():
+            cache_path.unlink()
+        raise HTTPException(
+            status_code=500,
+            detail=f"Erro ao extrair dados do documento: {str(e)}"
+        )

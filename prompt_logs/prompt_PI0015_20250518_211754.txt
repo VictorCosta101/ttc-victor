@@ -1,0 +1,202 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## EXEMPLOS
+Aqui está um exemplo de análise anterior:
+
+Texto original: "Aos vinte dias do mês de março de 1732, na cidade de Olinda, capitania de Pernambuco, foi concedida sesmaria a João da Silva..."
+Dados catalogados: {"owner_name": "João Silva", "dateConcession": "20-03-1733", "captaincy_name": "Pernambuco"}
+
+Processo de raciocínio:
+1. Analisando o nome do proprietário:
+   - No texto original: "João da Silva"
+   - Nos dados catalogados: "João Silva"
+   - Há divergência: falta o "da" no sobrenome
+
+2. Analisando a data de concessão:
+   - No texto original: "vinte dias do mês de março de 1732"
+   - Nos dados catalogados: "20-03-1733"
+   - Há divergência: o ano está incorreto (1733 vs. 1732)
+
+3. Analisando a capitania:
+   - No texto original: "capitania de Pernambuco"
+   - Nos dados catalogados: "Pernambuco"
+   - Não há divergência: o valor está correto
+
+Resultado:
+json
+{
+    "erros": [
+        {
+            "campo": "owner_name",
+            "valor_incorreto": "João Silva",
+            "valor_correto": "João da Silva",
+            "motivo": "O texto original menciona 'João da Silva' com a preposição 'da' que está ausente na catalogação"
+        },
+        {
+            "campo": "dateConcession",
+            "valor_incorreto": "20-03-1733",
+            "valor_correto": "20-03-1732",
+            "motivo": "O texto original indica o ano de 1732, não 1733 como catalogado"
+        }
+    ]
+}
+
+
+## PROCESSO DE ANÁLISE
+Para realizar esta tarefa com precisão, siga este processo de raciocínio:
+
+1. Primeiro, identifique no texto original todas as informações relevantes para catalogação:
+   - Nomes de pessoas (sesmeiros, autoridades)
+   - Datas (concessão, confirmação)
+   - Localizações (capitania, localidade, rios)
+   - Características da terra (histórico, confrontantes)
+   - Processo administrativo (tipo de petição, deferimento)
+
+2. Em seguida, compare cada informação identificada com o campo correspondente nos dados catalogados:
+   - Verifique a grafia exata dos nomes
+   - Confirme se as datas estão corretas (dia, mês e ano)
+   - Valide se as categorias selecionadas correspondem ao texto
+   - Certifique-se de que não há omissões de informações presentes no texto
+
+3. Para cada divergência encontrada:
+   - Identifique o campo específico
+   - Registre o valor atual catalogado
+   - Determine o valor correto conforme o texto original
+   - Explique brevemente a natureza da divergência
+
+4. Finalmente, avalie o impacto geral das divergências na qualidade da catalogação.
+
+## DADOS
+Texto original da carta:
+            PI 0015
+Carta de concessão de Paula de Souza de 07/07/1774
+Registro de uma carta de data de sesmaria passada a Paula de Souza, viúva do
+defunto João Barbosa de Morais
+Gonçalo Lourenço Botelho de Castro, Coronel de Infantaria dos exércitos de Sua
+Majestade fidelíssima, governador da capitania de São José do Piauí, etc. Faço saber 
+aos que esta minha carta de data e sesmaria virem que Paula de Souza, viúva do defunto
+João Barbosa Morais, me representou que ela se achava situada com gados vacuns e
+cavalares na Ribeira do Longá de Baixo, termo de São João do Parnaíba, em um sítio
+chamado Santa Tereza, o qual pretendia possuir por título, dando-se lhe para este fim
+uma data de três léguas de comprido e uma de largo, fazendo pião na lagoa do Tapera a
+saber, légua e meia de comprido rio do Longá abaixo, a confrontar para o norte com a
+fazenda Caraíbas de Antonio Carvalho, e légua e meia no rio acima a confrontar para o
+sul com a fazenda da Passagem, de Maria da Costa; e na largura meia légua para o
+poente a confrontar com as ribanceiras do dito rio e meia légua para o nascente a
+confrontar com o sítio de São Lázaro; e porque das ditas terras desejava haver de título
+por carta de sesmaria, me pedia lhe mandasse passar. Ao que atendendo e também a
+informação do provedor da Fazenda Real que foi ouvido e se lhe não ofereceu dúvida
+alguma, e ser em utilidade da mesma Real Fazenda cultivarem-se as terras neste Estado.
+Hei por bem conceder-lhe em nome de Sua Majestade por data e sesmaria as ditas três
+léguas de terra de comprido e uma de largo na forma e parte que pede com as
+confrontações que declara e com as condições expressadas nas reais ordens, e com a de
+não fazer trespasse, por meio algum, em nenhum tempo a pessoa alguma, sem que
+primeiro dê parte na Casa da Fazenda ao provedor dela para se me fazer presente e ver
+se se deve ou não consentir no tal trespasse, sob pena de ficar nula esta data, e se poder
+novamente conceder a outro. E nesta forma se lhe passa carta, para que a dita Paula de
+Souza haja, logre e possua as sobreditas terras como coisa sua própria para ela e seus
+herdeiros, ascendentes e descendentes, sem pensão nem tributo algum mais que o
+dízimo a Deus, nosso senhor, dos frutos que nela tiver e lavrar, a qual conceção lhe faço
+não prejudicando a terceiros nem a Sua Majestade, se no dito sítio quiser mandar fundar
+alguma vila reservando os paus reais que nelas houver para embarcações. Com
+declaração que mandará confirmar esta data por Sua Majestade dentro de três anos
+primeiros seguintes, e cultivará as ditas terras de maneira que deem frutos; e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes, portos e
+pedreiras. E havendo nas mesmas terras estradas públicas que atravesse rio caudaloso
+que necessite de barca para atravessar, não só ficará de ambas as bandas do tal rio a
+terra que baste para o uso público, mas sim, também, de uma delas meia légua de terra
+em quadra para a comodidade pública e de quem arrendar a dita passagem; e se
+demarcará ao tempo da posse por rumo de corda e braças craveiras, como é estilo e Sua
+Majestade manda. E outrossim, não poderão suceder nelas religiões nem outras pessoas
+eclesiásticas por nenhum título que seja, e acontecendo possuí-las, será com o encargo
+de pagarem delas dízimos a Deus como se fossem possuídas por seculares, e faltando a
+quaisquer destas cláusulas se haverão as ditas terras por devolutas e se darão a quem as
+
+denunciar, como o mesmo senhor ordena. Pelo que mando ao provedor da Fazenda
+Real, mais ministros e pessoas a que tocar que na forma requerida e com as condições
+expressadas, deixem ter e possuir as sobreditas terras a dita Paula de Souza, como coisa
+sua própria para si e seus herdeiros, ascendentes e descendentes, e que assim, também,
+cumpram e guardem esta minha carta de data e sesmaria tão inteiramente como nela se
+contém; a qual lhe mandei passar por mim assinada e selada com o selo de minhas
+armas, que se registrará nas partes aonde tocar; e se passou por duas vias. Dada nesta
+cidade de Oeiras do Piauí aos 12 dias do mês de novembro do ano do nascimento de
+nosso senhor Jesus Cristo de 1769. E eu, padre Francisco Bruce, secretário do governo
+desta capitania a fiz // Gonçalo Lourenço Botelho de Castro // lugar do selo // carta de
+data e sesmaria, porque Vossa Senhoria há por bem conceder em nome de Sua
+Majestade a Paula de Souza três léguas de terra de comprido e uma de largo no distrito
+da vila de São João da Parnaíba, entre as fazendas da Caraíbas, Passagem, Ribanceiras
+do Rio Parnaíba e sítio de São Lázaro, com as confrontações que na mesma carta se
+declara. Para Vossa Senhoria ver.
+Observação da margem:
+Esta sesmaria não serviu por lhe faltar a cláusula da informação da câmara, que está
+entre linhas, e se passou outra em que se expressava a dita cláusula na data de 7 de julho
+de 1774, cujo registro vem ter este mesmo com data que fica notada.
+– Fim da carta –
+Referência:
+APEPI, Livro 1, fls. 30v - 32
+
+
+Dados catalogados:
+        {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Paula de Souza",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-07-1774",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"ela se achava situada com gados vacuns e cavalares na Ribeira do Longá de Baixo, termo de São João do Parnaíba, em um sítio chamado Santa Tereza, o qual pretendia possuir por título\". ",
+  "Localidade": "Sítio Santa Tereza, termo da vila de São João do Parnaíba",
+  "Marcos Geográficos": "Lagoa do Tapera",
+  "Ribeira": "Ribeira do Longá de Baixo",
+  "Confrontantes": "Fazenda Caraíbas, Fazenda da Passagem, sítio de São Lázaro",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. Ademais, na margem da própria carta de concessão consta que: \"Esta sesmaria não serviu por lhe faltar a cláusula da informação da câmara, que está entre linhas, e se passou outra em que se expressava a dita cláusula na data de 7 de julho de 1774, cujo registro vem ter este mesmo com data que fica notada.\"",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Exigiu-se ainda que \"havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0015"
+}
+
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

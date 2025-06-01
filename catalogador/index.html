@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogador de Sesmarias</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="date"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        input[type="file"] {
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        .section h2 {
+            margin-top: 0;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <h1>Catalogador Automático de Sesmarias</h1>
+    
+    <div class="form-group">
+        <label for="pdfFile">Documento PDF:</label>
+        <input type="file" id="pdfFile" accept=".pdf">
+    </div>
+    
+    <div class="section">
+        <h2>Dados Principais</h2>
+        
+        <div class="form-group">
+            <label for="categoria">Categoria da sesmaria:</label>
+            <select id="categoria">
+                <option value="">Selecione...</option>
+                <option value="Petição Individual">Petição Individual</option>
+                <option value="Petição Coletiva">Petição Coletiva</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="sesmeiro">Sesmeiro:</label>
+            <input type="text" id="sesmeiro">
+        </div>
+        
+        <div class="form-group">
+            <label for="capitania">Capitania:</label>
+            <select id="capitania">
+                <option value="">Selecione...</option>
+                <option value="Alagoas">Alagoas</option>
+                <option value="Bahia">Bahia</option>
+                <option value="Ceará">Ceará</option>
+                <option value="Colonia do Sacramento">Colonia do Sacramento</option>
+                <option value="Espírito Santo">Espírito Santo</option>
+                <option value="Goias">Goias</option>
+                <option value="Itamaracá">Itamaracá</option>
+                <option value="Maranhão">Maranhão</option>
+                <option value="Mato Grosso do Sul">Mato Grosso do Sul</option>
+                <option value="Minas Gerais">Minas Gerais</option>
+                <option value="NA">NA</option>
+                <option value="Pará">Pará</option>
+                <option value="Paraíba">Paraíba</option>
+                <option value="Pernambuco">Pernambuco</option>
+                <option value="Pernambuco/Alagoas">Pernambuco/Alagoas</option>
+                <option value="Pernambuco/Piauí">Pernambuco/Piauí</option>
+                <option value="Piauí">Piauí</option>
+                <option value="Rio de Janeiro">Rio de Janeiro</option>
+                <option value="Rio Grande do Norte">Rio Grande do Norte</option>
+                <option value="Rio Grande do Sul">Rio Grande do Sul</option>
+                <option value="Rio Negro">Rio Negro</option>
+                <option value="Santa Catarina">Santa Catarina</option>
+                <option value="São Paulo">São Paulo</option>
+                <option value="São Paulo/Rio de Janeiro">São Paulo/Rio de Janeiro</option>
+                <option value="Sergipe">Sergipe</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="estadoAtual">Estado atual:</label>
+            <select id="estadoAtual">
+                <option value="">Selecione...</option>
+                <option value="Alagoas">Alagoas</option>
+                <option value="Bahia">Bahia</option>
+                <option value="Ceará">Ceará</option>
+                <option value="Colonia do Sacramento">Colonia do Sacramento</option>
+                <option value="Espírito Santo">Espírito Santo</option>
+                <option value="Goias">Goias</option>
+                <option value="Itamaracá">Itamaracá</option>
+                <option value="Maranhão">Maranhão</option>
+                <option value="Mato Grosso do Sul">Mato Grosso do Sul</option>
+                <option value="Minas Gerais">Minas Gerais</option>
+                <option value="NA">NA</option>
+                <option value="Pará">Pará</option>
+                <option value="Paraíba">Paraíba</option>
+                <option value="Pernambuco">Pernambuco</option>
+                <option value="Pernambuco/Alagoas">Pernambuco/Alagoas</option>
+                <option value="Pernambuco/Piauí">Pernambuco/Piauí</option>
+                <option value="Piauí">Piauí</option>
+                <option value="Rio de Janeiro">Rio de Janeiro</option>
+                <option value="Rio Grande do Norte">Rio Grande do Norte</option>
+                <option value="Rio Grande do Sul">Rio Grande do Sul</option>
+                <option value="Rio Negro">Rio Negro</option>
+                <option value="Santa Catarina">Santa Catarina</option>
+                <option value="São Paulo">São Paulo</option>
+                <option value="São Paulo/Rio de Janeiro">São Paulo/Rio de Janeiro</option>
+                <option value="Sergipe">Sergipe</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="historicoTerra">Histórico da terra:</label>
+            <select id="historicoTerra">
+                <option value="">Selecione...</option>
+                <option value="Comprada">Comprada</option>
+                <option value="Devoluta nunca povoada">Devoluta nunca povoada</option>
+                <option value="Devoluta por abandono">Devoluta por abandono</option>
+                <option value="Herdada">Herdada</option>
+                <option value="NA">NA</option>
+                <option value="Primordial">Primordial</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="tipoPeticao">Tipo de petição:</label>
+            <select id="tipoPeticao">
+                <option value="">Selecione...</option>
+                <option value="concessão">Concessão</option>
+                <option value="não encontrado">Não encontrado</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="dataPeticao">Data de petição:</label>
+            <input type="date" id="dataPeticao">
+        </div>
+        
+        <div class="form-group">
+            <label for="localidade">Localidade:</label>
+            <input type="text" id="localidade">
+        </div>
+        
+        <div class="form-group">
+            <label for="marcosGeograficos">Marcos geográficos:</label>
+            <input type="text" id="marcosGeograficos">
+        </div>
+        
+        <div class="form-group">
+            <label for="ribeira">Ribeira:</label>
+            <input type="text" id="ribeira">
+        </div>
+        
+        <div class="form-group">
+            <label for="confrontantes">Confrontantes:</label>
+            <input type="text" id="confrontantes">
+        </div>
+        
+        <div class="form-group">
+            <label for="observacoesPeticao">Observações da petição:</label>
+            <textarea id="observacoesPeticao" rows="3"></textarea>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Justificativas da petição</h2>
+        
+        <div class="form-group">
+            <label for="justificativa">Justificativa:</label>
+            <textarea id="justificativa" rows="3"></textarea>
+        </div>
+        
+        <div class="form-group">
+            <label for="observacoesJustificativas">Observação das justificativas:</label>
+            <textarea id="observacoesJustificativas" rows="3"></textarea>
+        </div>
+    </div>
+    
+    <button id="enviarBtn">Processar Documento</button>
+    
+    <script>
+        document.getElementById('enviarBtn').addEventListener('click', async function() {
+            const fileInput = document.getElementById('pdfFile');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                alert('Por favor, selecione um arquivo PDF');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            try {
+                const response = await fetch('http://localhost:8000/extrair_dados/', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`Erro na requisição: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    // Preenche os campos com os dados retornados
+                    const dados = data.dados_extraidos;
+                    
+                    // Dados Principais
+                    if (dados.categoria) document.getElementById('categoria').value = dados.categoria;
+                    if (dados.sesmeiro) document.getElementById('sesmeiro').value = dados.sesmeiro;
+                    if (dados.capitania) document.getElementById('capitania').value = dados.capitania;
+                    if (dados.estadoAtual) document.getElementById('estadoAtual').value = dados.estadoAtual;
+                    if (dados.historicoTerra) document.getElementById('historicoTerra').value = dados.historicoTerra;
+                    if (dados.tipoPeticao) document.getElementById('tipoPeticao').value = dados.tipoPeticao;
+                    
+                    // Formata a data para o formato do input date (YYYY-MM-DD)
+                    if (dados.dataPeticao) {
+                        const [day, month, year] = dados.dataPeticao.split('/');
+                        document.getElementById('dataPeticao').value = `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+                    }
+                    
+                    if (dados.localidade) document.getElementById('localidade').value = dados.localidade;
+                    if (dados.marcosGeograficos) document.getElementById('marcosGeograficos').value = dados.marcosGeograficos;
+                    if (dados.ribeira) document.getElementById('ribeira').value = dados.ribeira;
+                    if (dados.confrontantes) document.getElementById('confrontantes').value = dados.confrontantes;
+                    if (dados.observacoesPeticao) document.getElementById('observacoesPeticao').value = dados.observacoesPeticao;
+                    
+                    // Justificativas
+                    if (dados.justificativa) document.getElementById('justificativa').value = dados.justificativa;
+                    if (dados.observacoesJustificativas) document.getElementById('observacoesJustificativas').value = dados.observacoesJustificativas;
+                    
+                    alert('Documento processado com sucesso! Campos preenchidos automaticamente.');
+                } else {
+                    alert('Erro ao processar o documento: ' + (data.detail || 'Erro desconhecido'));
+                }
+            } catch (error) {
+                console.error('Erro:', error);
+                alert('Erro ao enviar o arquivo: ' + error.message);
+            }
+        });
+    </script>
+</body>
+</html>

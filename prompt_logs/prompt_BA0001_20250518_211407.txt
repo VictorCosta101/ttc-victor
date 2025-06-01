@@ -1,0 +1,836 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## EXEMPLOS
+Aqui está um exemplo de análise anterior:
+
+Texto original: "Aos vinte dias do mês de março de 1732, na cidade de Olinda, capitania de Pernambuco, foi concedida sesmaria a João da Silva..."
+Dados catalogados: {"owner_name": "João Silva", "dateConcession": "20-03-1733", "captaincy_name": "Pernambuco"}
+
+Processo de raciocínio:
+1. Analisando o nome do proprietário:
+   - No texto original: "João da Silva"
+   - Nos dados catalogados: "João Silva"
+   - Há divergência: falta o "da" no sobrenome
+
+2. Analisando a data de concessão:
+   - No texto original: "vinte dias do mês de março de 1732"
+   - Nos dados catalogados: "20-03-1733"
+   - Há divergência: o ano está incorreto (1733 vs. 1732)
+
+3. Analisando a capitania:
+   - No texto original: "capitania de Pernambuco"
+   - Nos dados catalogados: "Pernambuco"
+   - Não há divergência: o valor está correto
+
+Resultado:
+json
+{
+    "erros": [
+        {
+            "campo": "owner_name",
+            "valor_incorreto": "João Silva",
+            "valor_correto": "João da Silva",
+            "motivo": "O texto original menciona 'João da Silva' com a preposição 'da' que está ausente na catalogação"
+        },
+        {
+            "campo": "dateConcession",
+            "valor_incorreto": "20-03-1733",
+            "valor_correto": "20-03-1732",
+            "motivo": "O texto original indica o ano de 1732, não 1733 como catalogado"
+        }
+    ]
+}
+
+
+## PROCESSO DE ANÁLISE
+Para realizar esta tarefa com precisão, siga este processo de raciocínio:
+
+1. Primeiro, identifique no texto original todas as informações relevantes para catalogação:
+   - Nomes de pessoas (sesmeiros, autoridades)
+   - Datas (concessão, confirmação)
+   - Localizações (capitania, localidade, rios)
+   - Características da terra (histórico, confrontantes)
+   - Processo administrativo (tipo de petição, deferimento)
+
+2. Em seguida, compare cada informação identificada com o campo correspondente nos dados catalogados:
+   - Verifique a grafia exata dos nomes
+   - Confirme se as datas estão corretas (dia, mês e ano)
+   - Valide se as categorias selecionadas correspondem ao texto
+   - Certifique-se de que não há omissões de informações presentes no texto
+
+3. Para cada divergência encontrada:
+   - Identifique o campo específico
+   - Registre o valor atual catalogado
+   - Determine o valor correto conforme o texto original
+   - Explique brevemente a natureza da divergência
+
+4. Finalmente, avalie o impacto geral das divergências na qualidade da catalogação.
+
+## DADOS
+Texto original da carta:
+            BA  0001   
+Carta   de   concessão   de    Francisco   Gil   de   Araújo   de   25/05/1671   
+Registo  de  uma  provisão  do  ao  coronel  Francisco  Gil  de  Araújo,  de  data  de  terra  de  duas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+léguas   de   terra   em   cima   das   datas   dos   padres   da   companhia.   
+Afonso  Furtado  de  Castro  do  Rio  Mendonça,  comendador  das  encomendas  de  São  Julião  de  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bragança  e  São  Romão  de  Fonte  Coberta  da  ordem  Cristo,  alcaide-mor  da  Vila  de  Cunlhan,  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+senhor  de  Barbacena  do  conselho  de  guerra  da  Sua  Alteza,  governador  e  capitão  general  de  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+mar  e  terra  do  Estado  do  Brasil.  Faço  saber,  aos  que  este  alvará  de  doação  de  sesmarias  virem, 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+que  o  coronel  Francisco  Gil  de  Araújo  me  enviou  a  representar  em  sua  petição,  cujo  teor  é  o  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+seguinte:  Ilustríssimo  senhor,  o  coronel  Francisco  Gil  de  Araújo,  que  ele  tem  um  engenho  de  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fazer  açúcar  e  de  novo  está  fazendo  outro,  e  porque  não  tem  terras  bastantes  para  conservação  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dos  ditos  engenhos,  e  acima  da  data  dos  religiosos  da  companhia  Jesus,  que  herdaram  do  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+governador.  Sendo  dessa  entre  a  data  do  Pedro  Botelho  de  Fonseca  e  seus  companheiros,  e  as  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+de  Gaspar  Rodrigues  Adorno,  há  alguma  terras  que  não  estão  dada  a  ninguém,  que  serão  duas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+léguas,  pouco  mais  ou  que  se  achar.  Pede  a  vossa  senhoria,  lhe  faça  uma  mercê  em  nome  de  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sua  Alteza  dar  de  sesmaria  a  terra  que  houver  de  sobejo  entre  as  ditas  datas  correndo  os  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+rumos  que  se  acharem,  e  partindo  com  quem  direito  for  com  todos  rios,  águas,  matos  e  tudo  o  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+mais  que  nela  houver,  e  caso  fosse  dada  a  pedir,  por  devolutas  para  aproveitar,  visto  ser  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inutilidade  da  Fazenda  Real.  E  receberá  a  mercê.  E  vista  a  informação  que  me  fez  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+provedor-mor  da  Fazenda  Real  deste  Estado,  que  é  a  que  se  segue:  Senhor,  o  suplicante  é  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+  
+pessoa  afazendada  e  poderosa  para  povoar  as  terras  de  maior  capacidade  que  a  terra  que  pede  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+e  não  encontra  o  regimento,  que  se  lhe  dê  sesmarias  maiormente  sendo  para  conservação  dos  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+engenhos,  que  fabrica  que  resulta  conveniência  a  Fazenda  Real,  pelo  que  me  parece,  que  se  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lhe  pode  conceder  o  que  pede  na  forma  do  regimento  e  ordens  de  sua  Alteza,  não  sendo  em  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+prejuízo  de  terceiro,  Vossa  Senhoria  mandará  o  que  for  servido.  Bahia,  aos  20  de  maio  de  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1671.\\  Antônio  Lopes  Ulhôa  \\  E  a  que  também  me  fez  sobre  este  particular  o  provedor  da  
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Coroa  e  Fazenda  Real  do  mesmo  Estado,  que  a  seguinte:  Senhor,  pelas  razões  que  o  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+provedor-mor  aponta,  sou  de  parecer  que  Vossa  Senhoria  faça  mercê  ao  suplicante  das  duas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+léguas  de  terras  que  pedem  sem  prejuízo  de  terceiro,  pois  excede  as  datas  de  terras  que  os  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+regimentos  e  foral  manda  se  deem  de  sesmarias,  Vossa  Senhoria  mandará  o  que  for  servido.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Bahia,  23  de  maio  de  1671.  \\  João  de  Góes  de  Araújo\\  e  consta  ter  cabedal  para  cultivar  as  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ditas  terras.  Hei,  por  bem  conceder  como  pela  presente,  faço  em  nome  de  Sua  Alteza  as  ditas  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+duas  léguas  de  terra,  assim  e  da  maneira  que  a  pede  e  confronta  em  sua  petição,  não  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+prejudicando  a  terceiro  com  todas  as  suas  águas,  campos,  matas,  testadas,  logradouros  e  mais  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+úteis  que  nelas  se  acharem  tudo  forro  livre  e  isento  de  pensão  ou  tributo  algum,  salvo  dízimo  a  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Deus,  que  pagará  dos  frutos  que  nelas  houver,  e  por  elas  será  obrigado  dar  caminhos  livres  ao  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+conselho  para  fontes,  pontes  e  pedreiras.  Pelo  que  ordeno  e  mando  a  todos  os  ministros  e  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+justiças  a  que  conhecimento  desta  com  direito  deva  ou  possa  pertencer,  lhes  mandem  dar  a  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+posse  real,  efetiva  e  atual  na  forma  costumada  de  baixo  das  cláusulas  acima  deferidas,  e  as  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+mais  da  ordenação,  título  de  sesmarias,  para  firmeza  do  que  lhe  mandei  passar  o  presente  sob  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+meu  sinal  e  selo  e  de  minhas  armas,  o  qual  se  registrará  nos  livros  de  sesmarias  do  Estado  e  
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+nos  mais  a  que  tocar,  e  se  guardará  e  se  cumprirá  tão  prontual  e  inteiramente  como  nele,  sem  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+dúvida  embargo  nem  com  tradução  alguma.  \\Antonio  Garcia  //  o  fez  nesta  cidade  do  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Salvador,  Bahia  de  Todos  os  Santos,  no  25  dias  do  mês  de  maio  de  1671.  \\Bernardo  Vieira  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ravasco  //  o  fez  escrever\\.  Afonso  Furtado  de  Castro  do  Rio  de  Mendonça\\.  Registrada  na  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sesmaria  a  folhas  127  verso  do  livro  //  Ravasco  //  Despacho  do  provedor-mor.  Cumpra-se  e  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+registre-se  nos  livros  a  que  toca.  Bahia,  29  de  agosto  de  1671,  //  de  Ulhôa  //.  Registrou-se  no  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+mesmo   dia    //   Miguel   Pinto   de   Freitas   //.   
+  
+
+  
+-   Fim   da   Transcrição   -   
+  
+Observações :   
+-   O   nome   do  suplicante   no  documento   original   consta   como:   “Francisco   Gil   de   Araújo”   
+  
+Referências :   
+Arquivo   Nacional   do  Rio   de   Janeiro,   Códice   427,  vol.   I,   fls.  2-3.   
+Numeração   original   no  livro:   1   
+  
+  
+  
+  
+
+
+Dados catalogados:
+        {
+  "Tipo de petição": "Concessão",
+  "Nome": "Franciso Gil de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "20-05-1671",
+  "Data da concessão": "25-05-1671",
+  "Localidade": "NA",
+  "Confrontantes": "Acima da data dos religiosos da Companhia Jesus, entre a data do Pedro Botelho de Fonseca e seus companheiros e as de Gaspar Rodrigues Adorno",
+  "Observações da petição": "O suplicante argumenta que as terras requeridas constam ser sobejos (sobras) de terras de outros confrontantes.",
+  "Justificativas": "Alegou possuir engenhos; As terras eram devolutas; Tinha poucas terras; Pretendia fazer engenho; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Necessitava de terras para manter um segundo engenho",
+  "Observações do deferimento e da concessão": "O provedor alega em seu parecer favorável que o suplicante \" é pessoa afazendada e poderosa para povoar as terras de maior capacidade que a terra que pede\". Além do parecer do provedor da Fazenda Real, consta o parecer do Provedor do Estado do Brasil, João de Góes de Araújo dada em 23 de maio de 1671.",
+  "Observações das exigências": "Mandou-se realizar os registros competentes no livro de sesmarias do Estado do Brasil e nos que mais tocar",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Antônio Lopes Ulhôa",
+  "referencia": "BA0001"
+}
+
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

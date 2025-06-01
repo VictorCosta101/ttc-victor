@@ -1,0 +1,157 @@
+
+            ## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## ABORDAGEM DE VERIFICAÇÃO DUPLA
+Para garantir a máxima precisão, você deve:
+
+1. Realizar uma primeira análise completa, identificando possíveis divergências
+2. Realizar uma segunda análise independente, sem considerar os resultados da primeira
+3. Comparar os resultados das duas análises e resolver quaisquer discrepâncias
+4. Verificar a consistência interna dos dados catalogados
+5. Verificar a consistência entre os dados catalogados e o texto original
+6. Avaliar a qualidade geral da catalogação, considerando a clareza e a precisão dos dados definidos em criterio para erros
+## DADOS
+Texto original da carta:
+        
+        IT 0002 
+ 
+Carta de Concessão de Fernão Sanches de 21/02/1690 
+ 
+Sesmaria de umas terras que se deram da Capitania de Itamaracá e a Fernão Sanches e a 
+outras pessoas 
+ 
+Antonio Luiz Gonçalves da Câmara Coutinho comendador das comendas de São Miguel 
+de Bobadela, São Tiago de Ronfe, São Salvador de Maiorca, almotacel-mor do Reino e 
+governador da capitania de Pernambuco e das mais anexas e etc. Faço saber aos que esta 
+carta de doação e sesmaria virem que a mim se me representou a petição cujo teor é o 
+seguinte:  “Senhor Governador”. Dizem Fernão Sanches, Francisco Alves, Manoel 
+Tavares Pinheiro, o ajudante José Vaz de Souto, Paulo Pereira, Gonçalo da Costa e Fernão 
+Mendes, moradores na fronteira da Mata do Brasil jurisdição da Ilha de Itamaracá, 
+Freguesia de São Lourenço da Mata, distantes desta Cidade de Olinda 25 léguas que eles 
+têm servido a Sua Majestade que Deus Guarde, em as guerras da liberdade destas 
+Capitanias até o fim, e  de presente servem e seus filhos a todos os rebates que se 
+oferecerem com suas armas e cabedais, causados dos gentios que muitas vezes infestam 
+as mesmas fronteiras, e como até este tempo não tem recebido mercê algumas levados do 
+aperto em que vivem se dispuseram, em companhia de alguns tapuias que junto a eles têm 
+sua Aldeia a quem pagaram a descobrir no despovoado deste sertão algumas terras e 
+partes para povoarem, e já desesperados de acharem o que procuravam subiram um 
+outeiro a que puseram nome de esquecimento pelo trabalho que havia passado, porque 
+nas fraldas dele deram com alguns campos e água que forma um ribeiro que corre por 
+entre muitas Palmeiras que se repartem pelos mesmos campos a que puseram o nome o 
+ribeiro Alegre e do descanso pelo que pedem a Vossa Senhoria visto serem homens 
+casados, e possuírem seus gados, e não terem terras em que possam criar e mais criações, 
+e plantarem suas lavouras de que Sua Majestade pode receber alguns acrescentamento 
+nos seus dízimos lhe mande dar de sesmaria dez léguas de terras em quadra na dita 
+paragem  acima dita confrontando com terras de Manoel da Costa Tinoco, e testada do 
+Domingues Roiz Diniz, sendo pião o ribeiro pelos rumos do Norte e Sul, de Leste, Oeste, 
+fazendo da largura comprimento e do comprimento largura. E receberá mercê.  Informe 
+o provedor da Fazenda Real da Capitania de Itamaracá, ouvindo ao Procurador da Coroa. 
+Olinda, 15 de fevereiro de 1690. “Rubrica”. O escrivão da Fazenda lhe informe pelo livro 
+das datas se estão dadas as terras de que os suplicantes fazem menção em sua petição para 
+informar ao Senhor Governador na forma do despacho acima. Itamaracá, 16 de fevereiro 
+de 1690. “Grandio”. Não se acha que estas de que os suplicantes fazem menção serem 
+dadas como consta do livro dos registros das datas de sesmarias que revi e busquei, Vossa 
+Mercê mandará o que for servido. Vila da Conceição, 17 de fevereiro de 1690. “Francisco 
+Botelho dos S.” Visto a informação do escrivão  deste juízo haja vista desta petição o 
+procurador da coroa o licenciado Diogo Pereira  da Silveira para responder o que lhe 
+parecer melhor ser serviço de Sua Majestade que Deus Guarde para poder informar ao 
+Senhor Governador na forma do despacho dado Senhor. Vila da Conceição, 17 de 
+fevereiro de 1690. “Grandio”. Muito conveniente é darem-se de sesmaria as terras 
+despovoadas acrescendo-se a respeito do tempo presente a utilidade de alongar e dilatar 
+mais aos sertões a habitação dos gentios sobre outras muitas que poderão acrescer nas 
+criações dos gados, e mais drogas da terra e assim acho ser útil o darem-se aos suplicantes 
+as que pedem encarregando-se-lhe que as povoem na forma da Ordenação, Livro 4º, título 
+3 § 3. Havendo-se respeito as possibilidades dos suplicantes para que segundo a essas se 
+lhe dê que eles razoavelmente possam aproveitar segundo o adverte a mesma Lei citada. 
+
+Este é o meu parecer Senhor Governador a vista do de Vossa Mercê  mandará como 
+costuma o que for mais útil ao bem comum e serviço de Sua Majestade que Deus Guarde. 
+Cidade de Olinda, 18 de fevereiro de 1690, o procurador da Coroa e Fazenda “Diogo 
+Pereira da Silveira”. Sr. Governador”. Informo a Vossa Senhoria com o parecer do 
+procurador da Coroa e informação do escrivão da Fazenda o meu parecer é que se faz um 
+grande serviço a Sua Majestade que Deus Guarde em se  darem essas terras de sesmarias 
+para se povoarem que delas se tirem grandes lucros para que a Fazenda de Sua 
+Majestade  vá em grande aumento nos seus dízimos, Vossa Senhoria  como zeloso de sua 
+Real Fazenda mandará o que for servido. Itamaracá, 19 de fevereiro de 1690. “Sebastião 
+Lopes Grandio”. E havendo outrossim respeito ao que Sua Majestade que Deus Guarde 
+me encomenda no Capitulo 15 do Regimento deste Governo sobre as datas das terras 
+desta Capitania, hei por bem de lhe fazer mercê dar como em virtude da presente dou de 
+sesmaria das terras no lugar que as pedem os suplicantes assim e da maneira que confronta 
+na petição, para sempre as lograrem eles e seus herdeiros achando-se devolutas, e não 
+prejudicando a terceiro, com todas as suas águas, campos, matas testadas, logradouros e 
+mais úteis que nelas se acharem tudo foro livre isento de tributo, foro ou pensão alguma, 
+salvo dízimo a Deus e só serão obrigados a dar pelas ditas terras caminhos livres ao 
+Conselho, para fontes, ponte e pedreiras, pelo que ordeno a todos os ministros da Fazenda 
+e Justiça destas Capitanias ou aos que o conhecimento desta carta pertencer lhe façam dar 
+a posse real e efetiva e atual na forma costumada e debaixo  das cláusulas referidas e das 
+mais da Ordenação, título de sesmaria que para firmeza de tudo lhe mandei passar a 
+presente por mim assignada e selada com o sinete de minhas armas, a qual se registrará 
+nos livros da Secretaria destas Capitanias e nos mais o que houver. Dada nesta Cidade de 
+Olinda, em os 21 dias de fevereiro = Antonio Pereira a fez 1690. o Secretario Antonio 
+Barboza de Lima a fez escrever = Antonio Luiz da Câmara Coutinho. 
+ 
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0004",
+  "Nome": "Fernão Mendes, Fernão Sanches, Francisco Alves, Gonçalo da Costa , José Vaz de Souto, Manoel Tavares Pinheiro, Paulo Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "15-02-1690",
+  "Data da concessão": "21-02-1690",
+  "Marcos Geográficos": "ribeiro Alegre",
+  "Confrontantes": "terras de Manoel da Costa Tinoco e testada do Domingues Roiz Diniz",
+  "Justificativas": "Pretendia aumentar as rendas reais; Era descobridor(a) das terras com sua fazenda; Participou da Guerra dos Bárbaros; Participou da guerra contra os holandeses; Pretendia cultivar; Pretendia lavrar; Pretendia plantar; Primeiro povoador(a); As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; Não tinha terras para a criação de gado; Era descobridor(a) das terras com auxílio dos índios; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas do Rei; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Instituiu-se ser conveniente obrigar o gentio a adentrar os sertões; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "Dada na Vila da Conceição, Itamaracá",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Sebastião Lopes Grandio",
+  "Nome do procurador": "Diogo Pereira da Silva",
+  "referencia": "IT0002"
+}
+
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".         
+            

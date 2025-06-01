@@ -2,7 +2,7 @@ import openai
 import os
 
 class GPTClient:
-    def __init__(self, api_key: str, model: str = "gpt-4o-mini", temperature: float = 0.2, max_tokens: int = 1000):
+    def __init__(self, api_key: str, model: str = "gpt-4o-mini", temperature: float = 0.2, max_tokens: int = 3000):
         self.client = openai.OpenAI(api_key=api_key)
         self.model = model
         self.temperature = temperature
@@ -13,7 +13,7 @@ class GPTClient:
             {"role": "assistant", "content": assistant_prompt},
             {"role": "user", "content": user_prompt}
         ]
-        #print(user_prompt)
+        
         try:
             response = self.client.chat.completions.create(
                 model=self.model,

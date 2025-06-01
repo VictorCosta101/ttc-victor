@@ -1,0 +1,130 @@
+
+            ## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## ABORDAGEM DE VERIFICAÇÃO DUPLA
+Para garantir a máxima precisão, você deve:
+
+1. Realizar uma primeira análise completa, identificando possíveis divergências
+2. Realizar uma segunda análise independente, sem considerar os resultados da primeira
+3. Comparar os resultados das duas análises e resolver quaisquer discrepâncias
+4. Verificar a consistência interna dos dados catalogados
+5. Verificar a consistência entre os dados catalogados e o texto original
+6. Avaliar a qualidade geral da catalogação, considerando a clareza e a precisão dos dados definidos em criterio para erros
+## DADOS
+Texto original da carta:
+        
+        BA 0006
+Alvará de doação de Leandro Ribeiro de Carvalho de 31/05/1672.
+Registro do alvará de sesmaria e data de terra do capitão Leandro Ribeiro de Carvalho.
+Afonso Furtado de Castro do Rio de Mendonça do Conselho de Guerra de Sua Alteza,
+governador e capitão general de mar e terra do Estado do Brasil. Faço saber aos que este
+alvará de doação e sesmaria virem, que o capitão Leandro Ribeiro de Carvalho me enviou a
+representar a petição, cujo teor é o seguinte: o senhor, o capitão Leandro Ribeiro de Carvalho,
+que entre o rio Boaçua e Picuaina possuiu com seus cunhados uma légua de terra em quadra
+em que tem seus gados, e teve seu sogro há 20 anos a esta parte para a parte do mar, com os
+herdeiros de Valentino da Rocha, ou seus sucessores, e para o sertão tem uma data os
+herdeiros de Damião da Rocha, e mais éreos entre uns e outros há uns pedaços de terras, que
+poderão vir a ser uma légua pouco mais ou menos pelo que pede a Vossa Senhoria, lhe faça
+mercê em nome de Sua Alteza de todas estas sobras, que há entre ele e aos ditos éreos. E
+receberá mercê. Visto o parecer do provedor da Coroa e Fazenda a informação do
+provedor-mor dela, que aqui se segue. Visto a terra que o suplicante pede estar devoluta se me
+não oferece dúvida a que se lhe conceda sem prejuízo de terceiro na forma do regimento.
+Bahia, 16 de maio de 1672. // Rocha// Senhor, o suplicante pede a sesmaria de um sobejos,
+que diz estão entre a terra que ele possui, a qual parte da banda do mar com os herdeiros de
+Valentino da Rocha, e para a parte do sertão com os herdeiros de Damião da Rocha e mais
+éreos entre as quais diz que haverá uma légua de terra, que não está dada, parece-me que se
+lhe deve conceder para seus gados, e criações não sendo em prejuízo de terceiros e conforme
+o foral e ordenações de Sua Alteza. Vossa Senhoria mandará o que for servido. Bahia, 18 de
+maio de 1672. // Antônio Lopes de Ulhoa // Hei por bem de me conceder como pelo presente,
+faço em nome de Sua Alteza, a légua de terra na forma que confronta em sua petição como
+parece ao procurador da Fazenda e provedor-mor dela, não prejudicando o terceiros com
+todas suas águas, campos, matos, testadas, logradouros e mais úteis que nelas se acharem,
+todo forro livre e isento de pensão ou tributo algum; salvo dízimo a Deus, que pagará dos
+frutos que nelas houver, e por ela será obrigado a dar caminhos livres ao Conselho para
+fontes, pontes e pedreiras, pelo que ordeno e mando a todos os ministros e justiças a que o
+conhecimento deste com direito deva ou possa pertencer lhe mandem dar a posse real, efetiva
+e atual, na forma costumada debaixo das cláusulas acima referidas, e as mais da ordenação,
+título das sesmarias, para firmeza do que lhe mandei passar o presente sob meu signal e selo
+de minhas armas, o qual se registrará nos livros da secretaria do Estado e nos mais a que tocar,
+e se guardará e cumprirá tão pontual e inteiramente como nela se contém sem dúvida,
+embargo nem contradição alguma // Antônio Garcia // o que fez nesta cidade do Salvador,
+Bahia de Todos os Santos, 31 de maio de 1672 // Bernardo Vieira Ravasco // o fez escrever. //
+Afonso Furtado de Castro do Rio de Mendonça // Registrado no livro segundo dos registros
+da secretaria do Estado do Brasil, o que toca a folhas 141 verso. Bahia, 1 de junho de 1672.
+Despacho do provedor-mor da Fazenda. Registrou nos livros a que toca. Bahia, 14 de junho
+de 1672.// de Ulhoa// Foi aqui registrada no mesmo dia. // Miguel Pinto de Freitas //
+-Fim da transcrição-
+Observações do documento:
+O nome do suplicante no documento original consta como: Leandro Ribeiro de Carvalho.
+
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 1, fls. 8v-9v.
+Numeração original do livro: 07
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Nome": "Leandro Ribeiro de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "16-05-1672",
+  "Data da concessão": "31-05-1672",
+  "Observações da sesmaria": "O suplicante alega que as terras são sobejos entre terras já ocupadas por ele e seus familiares",
+  "Localidade": "Entre o rio Boassua e Picuaina",
+  "Marcos Geográficos": "rio Boassua;  rio Picuaina; ",
+  "Confrontantes": "pela parte do mar com os herdeiros de Valentino da Rocha e pela parte do sertão de Damião da Rocha",
+  "Justificativas": "As terras eram devolutas; Tinha gado; Pretendia aumentar sua criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alega que já \"possuiu com seus cunhados uma légua de terra em quadra em que tem seus gados, e teve seu sogro há 20 anos a esta parte para a parte do mar, com os herdeiros de Valentino da Rocha, ou seus sucessores, e para o sertão tem uma data os herdeiros de Damião da Rocha, e mais éreos entre uns e outros há uns pedaços de terras\"",
+  "Observações das exigências": "Concedeu na na forma que confronta em sua petição",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Data de Sesmaria",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "Nome do procurador": "Rocha",
+  "referencia": "BA0006"
+}
+
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".         
+            

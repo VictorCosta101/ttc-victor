@@ -1,0 +1,199 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## EXEMPLOS
+Aqui está um exemplo de análise anterior:
+
+Texto original: "Aos vinte dias do mês de março de 1732, na cidade de Olinda, capitania de Pernambuco, foi concedida sesmaria a João da Silva..."
+Dados catalogados: {"owner_name": "João Silva", "dateConcession": "20-03-1733", "captaincy_name": "Pernambuco"}
+
+Processo de raciocínio:
+1. Analisando o nome do proprietário:
+   - No texto original: "João da Silva"
+   - Nos dados catalogados: "João Silva"
+   - Há divergência: falta o "da" no sobrenome
+
+2. Analisando a data de concessão:
+   - No texto original: "vinte dias do mês de março de 1732"
+   - Nos dados catalogados: "20-03-1733"
+   - Há divergência: o ano está incorreto (1733 vs. 1732)
+
+3. Analisando a capitania:
+   - No texto original: "capitania de Pernambuco"
+   - Nos dados catalogados: "Pernambuco"
+   - Não há divergência: o valor está correto
+
+Resultado:
+json
+{
+    "erros": [
+        {
+            "campo": "owner_name",
+            "valor_incorreto": "João Silva",
+            "valor_correto": "João da Silva",
+            "motivo": "O texto original menciona 'João da Silva' com a preposição 'da' que está ausente na catalogação"
+        },
+        {
+            "campo": "dateConcession",
+            "valor_incorreto": "20-03-1733",
+            "valor_correto": "20-03-1732",
+            "motivo": "O texto original indica o ano de 1732, não 1733 como catalogado"
+        }
+    ]
+}
+
+
+## PROCESSO DE ANÁLISE
+Para realizar esta tarefa com precisão, siga este processo de raciocínio:
+
+1. Primeiro, identifique no texto original todas as informações relevantes para catalogação:
+   - Nomes de pessoas (sesmeiros, autoridades)
+   - Datas (concessão, confirmação)
+   - Localizações (capitania, localidade, rios)
+   - Características da terra (histórico, confrontantes)
+   - Processo administrativo (tipo de petição, deferimento)
+
+2. Em seguida, compare cada informação identificada com o campo correspondente nos dados catalogados:
+   - Verifique a grafia exata dos nomes
+   - Confirme se as datas estão corretas (dia, mês e ano)
+   - Valide se as categorias selecionadas correspondem ao texto
+   - Certifique-se de que não há omissões de informações presentes no texto
+
+3. Para cada divergência encontrada:
+   - Identifique o campo específico
+   - Registre o valor atual catalogado
+   - Determine o valor correto conforme o texto original
+   - Explique brevemente a natureza da divergência
+
+4. Finalmente, avalie o impacto geral das divergências na qualidade da catalogação.
+
+## DADOS
+Texto original da carta:
+            PE 0001 
+ 
+Carta de Concessão de Bartolomeu Gomes Borba de 25/06/1689 
+ 
+Sesmaria de umas terras que se deram no sertão do rio Capibaribe desta capital a 
+Bartolomeu Gomes Borba 
+ 
+Antonio Luiz Gonçalves da Câmara Coutinho, comendador das comendas de São Miguel 
+de Bobadela, São Tiago de Ronfe, São Salvador de Maiorca, almotacel-mor do reino e 
+governador da Capitania de Pernambuco e das mais anexas e etc. Faço saber aos que esta 
+carta de doação e sesmaria virem que Bartolomeu Gomes Borba me representou a petição 
+cujo teor é o seguinte: Senhor governador. Diz Bartolomeu Gomes Borba, senhor do 
+engenho de Tracunhaém, que ele suplicante tem servido a Sua Majestade que Deus 
+Guarde nestas Guerras de Pernambuco como é notório até a feliz restauração de todas 
+estas capitanias e serve até o presente nas ocasiões que o ocupam como constará se 
+necessário for de suas certidões e tendo muitos filhos e familiares não possui terras a onde 
+os acomode e possam ter seus gados, e porque no sertão do rio Capibaribe por ele acima 
+de Leste a Oeste, na parte aonde está um poço chamado Couro de Anta até a parte onde 
+está um ribeiro grande chamado das Araras que fica acima de um poço por nome de 
+Aquitu, que são daqui oitenta léguas que há do dito poço Couro de Anta até o ribeiro das 
+Araras mas que por informações dos tapuios gentios bárbaros e do dito poço Couro das 
+Antas até o dito ribeiro estão terras devolutas pelo dito rio Capibaribe acima que não 
+servem mais que para gados, isto em alguns lugares, por haver muito penedio, e partes 
+muito fragosas as quais que ele suplicante que Vossa Senhoria lh’a dê para granjeio seu 
+e da dita família sua, portanto, pede a Vossa Senhoria lhe faça mercê dar em nome de Sua 
+Majestade a dita terra do dito poço Couro de Anta até o dito ribeiro das Araras com largura 
+de uma légua do dito rio Capibaribe para o Sul e outra para o Norte não prejudicando a 
+terceiros visto a grande família que tem, e os muitos serviços que tem feito a Sua 
+Majestade e este que de novo lhe faz por ser muito em proveito e aumento da Fazenda 
+Real que se cultivem e povoem as terras no que ele suplicante há de dispender algumas 
+fazendas e muito trabalho por estarem tão distantes do povoado, mandando-lhe passar sua 
+carta de data na forma do estilo. E receberá mercê. Informe o provedor da Fazenda Real, 
+ouvindo ao procurador da Coroa. Olinda, 20 de junho de 1689. “Barros”. O estilo que se 
+observa nesta capitania e na cabeça do Estado é darem-se 3 léguas de terras de sesmarias 
+a cada pessoa que pede e estas contínuas e ordinárias nesta forma não tenho dúvida que 
+se concedam ao suplicante em qualquer das partes que confronta em sua petição. Recife, 
+22 de junho de 1689. “Pereira”. Senhor governador, com a resposta do procurador da 
+Coroa e da Fazenda Real informo a Vossa Senhoria para mandar o que for servido. Recife, 
+22 de junho de 1689. “João do Rego Barros” e havendo outros e respeito ao que Sua 
+Majestade que Deus Guarde me encomenda sobre este particular no Capítulo 15 do 
+Regimento deste Governo, hei por bem dele fazer mercê dar como em virtude da presente 
+dou de sesmaria 3 léguas de terras contínuas e ordinárias donde as achar mais capazes e 
+suficientes nos lugares que confronta e pede em sua petição tudo na forma que aponta o 
+procuradora da Coroa as quais terras possuirá e gozará como suas o dito Bartolomeu 
+Gomes Borba, ele e seus herdeiros, achando-se devolutas e não prejudicando a terceiro 
+com todas as suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se 
+acharem, tudo foro livre, isento de tributo, foro ou pensão alguma salvo dízimo a Deus e 
+só serão obrigados a dar pelas ditas terras caminhos livres ao Conselho, para fontes, 
+pontes e pedreiras. Pelo que ordeno a todos os ministros da Fazenda e Justiça destas 
+capitanias ou as que o conhecimento desta carta pertencer lhe façam dar a posse real e 
+
+efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da 
+ordenação número da sesmaria que para firmeza de tudo lhe mandei passar a presente: 
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da 
+Secretaria destas capitanias e nas mais a que tocar. Dada nesta cidade de Olinda, em os 
+25 dias de junho = Antonio Pereira a fez, ano de 1689. O secretário Antonio Barboza de 
+Lima a fez escrever = Antonio Luiz Gonçalves da Câmara Coutinho. 
+ 
+- Fim da Transcrição – 
+ 
+Referências:  
+Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. Vol. 1, p. 3-5.  
+Numeração antiga da SILB: PE 0001. 
+ 
+
+
+Dados catalogados:
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0001",
+  "Nome": "Bartolomeu Gomes Borba",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "20-06-1689",
+  "Data da concessão": "25-06-1689",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Couro de Anta; Ribeiro das Araras",
+  "Justificativas": "Alegou que não prejudicaria a terceiros; Pretendia aumentar as rendas reais; Não tinha terras; Participou da guerra contra os holandeses; Pretendia cultivar; As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; Alegou possuir muitos familiares; As terras eram distantes do povoado, aumentando os custos e o trabalho; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O despacho do provedor da Fazenda foi feito após ouvir o procurador da Coroa Antonio Rodrigues Pereira. Foi registrado nos livros da secretaria da capitania.",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "João do Rêgo Barros",
+  "Nome do procurador": "Antonio Rodrigues Pereira",
+  "referencia": "PE0001"
+}
+
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

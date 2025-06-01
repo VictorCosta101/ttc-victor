@@ -1,0 +1,193 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## EXEMPLOS
+Aqui está um exemplo de análise anterior:
+
+Texto original: "Aos vinte dias do mês de março de 1732, na cidade de Olinda, capitania de Pernambuco, foi concedida sesmaria a João da Silva..."
+Dados catalogados: {"owner_name": "João Silva", "dateConcession": "20-03-1733", "captaincy_name": "Pernambuco"}
+
+Processo de raciocínio:
+1. Analisando o nome do proprietário:
+   - No texto original: "João da Silva"
+   - Nos dados catalogados: "João Silva"
+   - Há divergência: falta o "da" no sobrenome
+
+2. Analisando a data de concessão:
+   - No texto original: "vinte dias do mês de março de 1732"
+   - Nos dados catalogados: "20-03-1733"
+   - Há divergência: o ano está incorreto (1733 vs. 1732)
+
+3. Analisando a capitania:
+   - No texto original: "capitania de Pernambuco"
+   - Nos dados catalogados: "Pernambuco"
+   - Não há divergência: o valor está correto
+
+Resultado:
+json
+{
+    "erros": [
+        {
+            "campo": "owner_name",
+            "valor_incorreto": "João Silva",
+            "valor_correto": "João da Silva",
+            "motivo": "O texto original menciona 'João da Silva' com a preposição 'da' que está ausente na catalogação"
+        },
+        {
+            "campo": "dateConcession",
+            "valor_incorreto": "20-03-1733",
+            "valor_correto": "20-03-1732",
+            "motivo": "O texto original indica o ano de 1732, não 1733 como catalogado"
+        }
+    ]
+}
+
+
+## PROCESSO DE ANÁLISE
+Para realizar esta tarefa com precisão, siga este processo de raciocínio:
+
+1. Primeiro, identifique no texto original todas as informações relevantes para catalogação:
+   - Nomes de pessoas (sesmeiros, autoridades)
+   - Datas (concessão, confirmação)
+   - Localizações (capitania, localidade, rios)
+   - Características da terra (histórico, confrontantes)
+   - Processo administrativo (tipo de petição, deferimento)
+
+2. Em seguida, compare cada informação identificada com o campo correspondente nos dados catalogados:
+   - Verifique a grafia exata dos nomes
+   - Confirme se as datas estão corretas (dia, mês e ano)
+   - Valide se as categorias selecionadas correspondem ao texto
+   - Certifique-se de que não há omissões de informações presentes no texto
+
+3. Para cada divergência encontrada:
+   - Identifique o campo específico
+   - Registre o valor atual catalogado
+   - Determine o valor correto conforme o texto original
+   - Explique brevemente a natureza da divergência
+
+4. Finalmente, avalie o impacto geral das divergências na qualidade da catalogação.
+
+## DADOS
+Texto original da carta:
+            PI 0011
+Carta de concessão de José Ramos de Queiroz 22/03/1762
+Carta de data de sesmaria passada a José Ramos de Queiroz 
+João Pereira Caldas, alcaide mor, comendador de São Mamede de Troviscoso na Ordem
+de Cristo, coronel de cavalaria e governador da capitania de São José do Piauí etc. Faço
+saber aos que esta minha carta de data e sesmaria virem que José Ramos de Queiroz,
+morador no distrito desta vila, me representou que nos meios das fazendas Povoação,
+Campos, Riachão e Pocinhos, tinha povoado com seus gados uma sorte de terras que se
+achavam devolutas, e que serão três léguas de comprido e uma de largo, fazendo pião
+no sítio dos Macaquinhos e confrontando o seu comprimento com a fazenda dos
+Campos e a da Povoação, e a largura com as fazendas do Riachão e Pocinhos. E porque
+não tinha título das ditas terras e a pretendia haver por carta de data de sesmarias, me
+pedia lhe mandasse passar. Ao que atendendo, e à informação dos oficiais da Câmara e
+do desembargador provedor da Fazenda Real, que foram ouvidos e se lhe não ofereceu
+dúvida alguma, e ser em utilidade da mesma Real Fazenda cultivarem-se as terras neste
+Estado. Hei por bem conceder-lhe em nome de Sua Majestade por data e sesmaria as
+ditas três léguas de terra de comprido e uma de largo, correndo o comprimento de
+nascente a poente e a largura de norte a sul, na forma e parte que pede, com as
+confrontações que declara e com as condições expressadas nas Reais Ordens. E com a
+de não fazer trespasse por meio algum, em nenhum tempo a pessoa alguma, religião ou
+comunidade, sem que primeiro dê parte na Casa da Fazenda ao provedor dela para se
+me fazer presente e ver se deve ou não consentir no tal trespasse, sob pena de ficar nula
+esta data e se poder novamente conceder a outrem. E nesta forma se lhe passa carta para
+que o dito José Ramos de Queiroz haja, logre e possua as sobreditas terras como coisa
+sua propria para si e seus herdeiros, ascendentes e descendentes, sem pensão nem
+tributo algum mais que o dízimo a Deus nosso senhor das dos frutos que nelas derem e
+lavrar; a qual concessão lhe faço não prejudicando a terceiros, nem a Sua Majestade se
+no dito sítio quiser mandar fundar alguma vila, reservando os paus reais que nelas
+houver para embarcações. Com declaração que mandará confirmar esta data por Sua
+Majestade dentro de três anos primeiros seguintes e cultivará as ditas terras de maneira
+que deem frutos, e dará caminhos públicos e particulares aonde forem necessárias para
+pontes, fontes, portos, pedreiras, e havendo nas mesmas terras estrada pública, que
+atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de
+ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma
+delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a
+dita passagem e se demarcar ao tempo de posse por rumo de corda e braças craveiras
+como é estilo e Sua Majestade manda. E outrossim, não poderão suceder nelas religiões
+nem outras pessoas eclesiásticas por nenhum título que seja, e acontecendo possuí-las,
+será com o encargo de pagarem delas dízimos a Deus como fossem possuídas por
+seculares. E faltando a qualquer destas cláusulas se haverá as ditas terras por devolutas e
+se darão a quem as denunciar como o mesmo Senhor ordena. Pelo que mando ao
+provedor da Fazenda Real, mais ministros, pessoas a que tocar, que na forma referida e
+com as condições expressadas, deixem ter e possuir as sobreditas terras ao sobredito
+
+José Ramos de Queiroz como coisa sua própria para si e seus herdeiros, ascendentes e
+descendentes. E que assim também cumpram e guardem esta minha carta de data e
+sesmaria, tão inteiramente como nela se contém, a que lhe mandei passar por mim
+assinada e selada com a sinete de minhas armas, que se registrará nas partes aonde tocar
+e se passou por duas vias. Dada nesta vila de Oeiras do Piauí aos 22 dias do mês de
+março do ano do nascimento de nosso senhor Jesus Cristo de 1762. E eu, Joaquim
+Antunes, secretário do governo desta capitania, a fiz. João Pereira Caldas // lugar do
+selo // carta de data de sesmarias, por que Vossa Senhoria há por bem conceder em
+nome de Sua Majestade a José Ramos de Queiroz três léguas de terra de comprimento e
+uma de largura nos meios das fazendas da Povoação, Campos, Riachão e Possinhos, da
+freguesia desta vila, com as confrontações que na mesma carta se declaram. Para Vossa
+Mercê.
+-Fim da carta-
+Referência:
+APEPI, Livro 1, fls. 11 – 12
+
+
+Dados catalogados:
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0380",
+  "Nome": "Bernardo Pereira Gago, Domingos Afonso Sertão, Francisco de Sousa Fagundes, Francisco Dias de Ávila (BA1), Julião Afonso Serra",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-10-1684",
+  "Observações da sesmaria": "Os suplicantes requereram 10 léguas de terra no rio São Francisco até o rio Guariguatá e os rios Parnaíba e Itaquera.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio Parnaíba, Rio Guariguatá, Rio Itaquera",
+  "Observações da petição": "Os suplicantes não informaram as medidas requeridas, mas somente o total da área pretendida.",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "\tEsta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-PI0011"
+}
+
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

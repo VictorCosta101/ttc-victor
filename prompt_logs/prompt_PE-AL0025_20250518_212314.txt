@@ -1,0 +1,156 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados, indicando seu nível de confiança para cada divergência identificada.
+
+## DADOS
+Texto original da carta:
+        
+        AL 0001 
+ 
+Carta de Concessão de Gonçalo Rodrigues e outros 26/09/1690 
+ 
+Sesmaria de umas terras no sertão da Vila das Alagoas, que se deram ao ajudante Gonçalo 
+Rodrigues da Silva e a outras pessoas. 
+ 
+Antonio Felix Machado da Silva e Castro, do Conselho de Sua Majestade, Marquês de 
+Montebelo, Senhor e Donatário do Conselho de terras de Entre homem e Cavado, Senhor 
+das Casas de Castro e Vasconcelos, Barroso, e dos solares delas, Alcaide-mor de Mourão, 
+Comendador e Alcaide-mor das Comendas e Vilas do Casal, e sexo da Ordem de São 
+Bento de Avis, Governador da Capitania de Pernambuco e das mais anexas e etc. Faço 
+saber aos que esta Carta de Doação e sesmaria virem que a mim se me representou a 
+petição cujo teor é o seguinte: “Senhor Governador”. Dizem o ajudante Gonçalo 
+Rodrigues da Silva, Domingos Fernandes Casado, o alferes Manoel da Cruz Franca e 
+Lazaro Quaresma da Silva, todos moradores na Povoação de São Miguel, termo da Vila 
+de Alagoas, Santa Maria Madalena, que eles tem servido a Sua Majestade que Deus 
+Guarde, tanto de soldados como de oficiais da Ordenação com muita satisfação e 
+assistência de suas pessoas e escravos nas entradas dos Palmares sem que até o presente 
+tivessem remuneração alguma de seus serviços nem datas de terras em que pudessem 
+viver e por quanto há terras devolutas no termo da dita povoação; visto que nunca forão 
+povoadas, nem pedidas pelo rio acima na mesma jurisdição e só serve Sua Majestade das 
+que se povoam pelo que pedem a Vossa Senhoria seja servido fazer-lhes mercê aos 
+suplicantes dar-lhe-ás  de datas de sesmarias em nome de Sua Majestade que Deus Guarde 
+As matas e terras  que estão nas cabeceiras de uma data de Gonçalo da Rocha nos campos 
+de Inhaum e Tamoatá pelo rio de São Miguel acima até dar em terras do Capitão Mor 
+João da Fonseca e Bor. Alves que será de comprimento de uma data a outra, légua e meia 
+pouco mais ou menos e para fora do dito Rio de São Miguel, para a parte do norte outra 
+légua e meia ou topar com terras de Simão Fernandes de Paiva e João da Fonseca e do 
+mesmo rio para a parte do sul outra légua e meia ou topar com terras de Bor. Alves e João 
+Fonseca e meia de largura, digo, comprimento e três léguas na largura ou topar com os 
+heréus no comprimento  e largura, para eles suplicantes e seus descendentes. E receberão 
+mercê. Informe o Procurador da Fazenda Real com seu parecer. Olinda, 19 de fevereiro 
+de 1690. “Rubrica”. Haja vista o Procurador da Coroa. Recife, 19 de setembro de 1690 
+“Moraes”. Faz-me dúvida que no termo da povoação haja terra desaproveitada e devoluta, 
+e por evitar danos que costumam suceder em posses de terras, me parece devem os 
+suplicantes justificar que as terras de que tratam estão devolutas e desaproveitadas e 
+satisfeito direi. Recife, 19 de setembro de 1690. “Pereira”. Vista a resposta do procurador 
+da Fazenda justifiquem os suplicantes perante mim em como a data de terra que pedem é 
+devoluta e sem prejuízo de terceiro, e satisfeito deferirei. Recife, 19 de setembro de 1690. 
+“Moraes”. Com a justificação não tenho dúvida a que se dêem de sesmaria aos suplicantes 
+as terras que confrontam em sua petição, sendo a data desta na forma da Ordenação, Livro 
+4, título 43. Recife, 25 de setembro de 1690. “Pereira”. Dei vista do conteúdo na petição 
+dos suplicantes, ao procurador da Coroa foi de parecer que se desse aos suplicantes de 
+sesmaria as terras que confrontam em sua petição com o qual parecer me conformo, sendo 
+na forma da Ordenação, Livro 4, título 43. Vossa Senhoria mandará o que for servido. 
+Recife, 27 de setembro de 1690. “Francisco Bernardes Moraes”. E havendo outrossim, 
+respeito ao que Sua Majestade Deus Guarde me encarrega no Capítulo 15 do Regimento 
+deste Governo. Hei por bem de lhes fazer mercê dar como em virtude da presente dou de 
+sesmaria as ditas terras que pedem os suplicantes nos mesmos lugares, partes e testadas 
+
+que confrontam na sua petição assim e da maneira que parece ao Provedor e Procurador 
+da Fazenda Real pelo que constou da justificação que fizeram as quais terras possuirão e 
+gozarão como suas, eles e seus herdeiros, achando-se devolutas e não prejudicando a 
+terceiros, com todas as suas águas, campos, matas, testadas, logradouros e mais úteis que 
+nelas se acharem, tudo foro livre, e isento de tributo ou pensão alguma, salvo dízimo a 
+Deus, e só serão obrigados pelas ditas terras dar caminhos livres ao Concelho para fontes, 
+pontes e pedreiras, pelo que ordeno a todos os ministros da Fazenda e Justiça destas 
+capitanias ou aos que o conhecimento desta carta pertencer lhe fação dar a posse Real e 
+efetiva e atual na forma costumada e debaixo das claúsulas referidas e das mais da 
+Ordenação,  Livro das  Sesmarias, que para firmeza de tudo lhe mandei passa a presente 
+por mim assignada e selada com o sinete de minhas armas, ao qual se registrará nos livro 
+da secretaria destas Capitanias e nos mais a que tocar = Dada nesta Cidade de Olinda aos 
+26 do mês de Setembro. Antonio Pereira a fez, ano 1690, o Secretario Antonio Barboza 
+de Lima a fez escrever “Marquês de Montebelo”. 
+ 
+ 
+ 
+- Fim da Transcrição – 
+ 
+Referências:  
+Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. Vol. 1, p. 13-
+16.  
+Numeração antiga da SILB: PE 0005. 
+ 
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0005",
+  "Nome": "Domingos Fernandes Casado, Gonçalo Rodrigues da Silva, Lazaro Quaresma da Silva, Manuel da Cruz Franca ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "19-02-1690",
+  "Data da concessão": "26-09-1690",
+  "Localidade": "Rio São Miguel",
+  "Marcos Geográficos": "Campos de Inhaum e Tamoatá (atual Boca da Mata)",
+  "Confrontantes": "Cabeceiras de terras de Gonçalo da Rocha; ao sul das terras do capitão-mor João Fonseca e Bor. Alves; e ao norte com terras de Simão Fernandes de Paiva",
+  "Observações da petição": "Não há indicação de separação de léguas para cada sesmeiro",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Lutou na guerra contra Palmares; Primeiro povoador(a); Serviu a Sua Majestade; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações das Justificativas": "Os suplicantes alegaram que serviam ao rei \"com muita satisfação e assistência de suas pessoas e escravos nas entradas dos Palmares\" e que ainda não receberam recompensas pelos seus serviços ",
+  "Observações do deferimento e da concessão": "O procurador pediu que os suplicantes comprovassem que as terras por eles pedidas eram desaproveitas e devolutas para \"por evitar danos que costumam suceder em posses de terras\"",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Francisco Bernardes de Morais",
+  "Nome do procurador": "Antonio Rodrigues Pereira",
+  "referencia": "PE-AL0025"
+}
+
+
+
+## NÍVEIS DE CONFIANÇA
+Para cada divergência identificada, considere internamente um nível de confiança:
+- **Alta**: Evidência clara e inequívoca no texto original
+- **Média**: Evidência presente, mas com alguma ambiguidade
+- **Baixa**: Evidência indireta ou baseada em inferência
+
+
+CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".       
+            

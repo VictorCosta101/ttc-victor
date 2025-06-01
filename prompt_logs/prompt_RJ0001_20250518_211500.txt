@@ -1,0 +1,159 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## EXEMPLOS
+Aqui está um exemplo de análise anterior:
+
+Texto original: "Aos vinte dias do mês de março de 1732, na cidade de Olinda, capitania de Pernambuco, foi concedida sesmaria a João da Silva..."
+Dados catalogados: {"owner_name": "João Silva", "dateConcession": "20-03-1733", "captaincy_name": "Pernambuco"}
+
+Processo de raciocínio:
+1. Analisando o nome do proprietário:
+   - No texto original: "João da Silva"
+   - Nos dados catalogados: "João Silva"
+   - Há divergência: falta o "da" no sobrenome
+
+2. Analisando a data de concessão:
+   - No texto original: "vinte dias do mês de março de 1732"
+   - Nos dados catalogados: "20-03-1733"
+   - Há divergência: o ano está incorreto (1733 vs. 1732)
+
+3. Analisando a capitania:
+   - No texto original: "capitania de Pernambuco"
+   - Nos dados catalogados: "Pernambuco"
+   - Não há divergência: o valor está correto
+
+Resultado:
+json
+{
+    "erros": [
+        {
+            "campo": "owner_name",
+            "valor_incorreto": "João Silva",
+            "valor_correto": "João da Silva",
+            "motivo": "O texto original menciona 'João da Silva' com a preposição 'da' que está ausente na catalogação"
+        },
+        {
+            "campo": "dateConcession",
+            "valor_incorreto": "20-03-1733",
+            "valor_correto": "20-03-1732",
+            "motivo": "O texto original indica o ano de 1732, não 1733 como catalogado"
+        }
+    ]
+}
+
+
+## PROCESSO DE ANÁLISE
+Para realizar esta tarefa com precisão, siga este processo de raciocínio:
+
+1. Primeiro, identifique no texto original todas as informações relevantes para catalogação:
+   - Nomes de pessoas (sesmeiros, autoridades)
+   - Datas (concessão, confirmação)
+   - Localizações (capitania, localidade, rios)
+   - Características da terra (histórico, confrontantes)
+   - Processo administrativo (tipo de petição, deferimento)
+
+2. Em seguida, compare cada informação identificada com o campo correspondente nos dados catalogados:
+   - Verifique a grafia exata dos nomes
+   - Confirme se as datas estão corretas (dia, mês e ano)
+   - Valide se as categorias selecionadas correspondem ao texto
+   - Certifique-se de que não há omissões de informações presentes no texto
+
+3. Para cada divergência encontrada:
+   - Identifique o campo específico
+   - Registre o valor atual catalogado
+   - Determine o valor correto conforme o texto original
+   - Explique brevemente a natureza da divergência
+
+4. Finalmente, avalie o impacto geral das divergências na qualidade da catalogação.
+
+## DADOS
+Texto original da carta:
+            RJ 0001
+Carta de concessão de sesmaria de Manuel Pinto de 1573
+[Faltam as folhas iniciais da carta.] [folha I] coisa sua própria isenta que é e porque o dito
+suplicante Manuel Pinto tudo prometeu de ter e manter
+e cumprir pela dita maneira lhe
+mandou passar esta carta de sesmaria a qual manda que se cumpra e guarde sem outra alguma
+dúvida nem embargo que lhe a ele seja posto e que seja registrada esta carta dentro de 1 ano
+nos livros da Fazenda Real como o dito Senhor em seu regimento manda só as penas nele
+contidas e declaradas e por verdade eu Pero da Costa escrivão das sesmarias e tabelião das
+notas por El Rei Nosso Senhor nesta sua cidade de São Sebastião e seus termos que este
+instrumento de carta de sesmaria escrevi e o tirei, digo, e o notei nos meus livros das notas e
+tombo das cartas das sesmarias
+desta dita cidade que em meu poder ficam onde o dito
+instrumento fica assinado pelo dito senhor capitão e governador com a entrelinha que diz
+“dentro de 1 ano”//Cristóvão de Barros//
+- Fim da Transcrição -
+Observações:
+Sabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original.
+Referências:
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro:
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 31;
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.3A(1573-4), Documento
+Original : f. I.
+     
+
+
+Dados catalogados:
+        {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "01-01-1573",
+  "Data da concessão": "01-01-1573",
+  "Observações da sesmaria": "Sabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original.",
+  "Observações da petição": "O documento encontra-se incompleto.",
+  "Exigências do Deferimento": "Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento não apresenta justificativas",
+  "Observações do deferimento e da concessão": "O documento encontra-se incompleto.",
+  "Observações das exigências": "Mandou-se que fosse registrada dentro de 1 ano nos livros da Fazenda Real",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0001"
+}
+
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

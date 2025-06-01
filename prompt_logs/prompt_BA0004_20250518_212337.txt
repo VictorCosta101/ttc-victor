@@ -1,0 +1,1356 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados, indicando seu nível de confiança para cada divergência identificada.
+
+## DADOS
+Texto original da carta:
+        
+        BA 0004 
+ 
+Carta de concessão de Antônio Correia de Andrade e Henriques de Caldas de ​22/12/1671 
+ 
+Registro da carta de sesmaria do padre Antônio Correia de Andrade e do alferes Henriques de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Caldas 
+ 
+Saibam quantos este publico instrumento de carta de sesmaria virem, que no ano do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nascimento do Nosso Senhor Jesus Cristo de 1672 anos, aos 27 dias do mês de janeiro do dito
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ano, nesta cidade do Salvador, Bahia de Todos os Santos, empossados de mim, tabelião e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+escrivão das sesmarias, apareceu o ajudante Francisco Pires, e procurador, que disse ser do
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+padre Antônio Correia de Andrade e do alferes Henriques de Caldas, e por ele me foi
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+apresentada uma provisão de data de sesmaria que o senhor Afonso Furtado de Castro do Rio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de Mendonça, governador e capitão-geral deste Estado do Brasil, deu e concedeu aos
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+sobreditos, padre Antônio Correia de Andrade e Henriques de Caldas, de terras no termo desta
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cidade, requerendo-lha lançasse neste Livro das Sesmarias, e lhe incorporasse com ela o
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+capítulo do Regimento do Príncipe, Nosso Senhor, como é uso e costume, o que visto por
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+mim, escrivão, por tudo que for verdadeiro, o lancei aqui, que é o que se segue com o capítulo
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+do dito regimento. Afonso Furtado de Castro do Rio de Mendonça do Conselho de Guerra de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sua Alteza, governador e capitão-geral de mar e terra do Estado do Brasil. Faço saber aos que
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+este Alvará de doação e sesmaria virem que o padre Antônio Correia de Andrade, sacerdote
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+do hábito de São Pedro, e o alferes Henriques de Caldas me enviaram apresentar a petição,
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+cujo teor é o seguinte: diz o padre Antônio Correia de Andrade, sacerdote do hábito de São
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pedro, e o alferes Henriques de Caldas, moradores no Itapecurú do sertão a mais de 30 anos,
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+de onde têm seus gados vacum e cavalar, e mais criações em terras de arrendamento, e porque
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+os mandam despejar, e até o presente não tem terras nem pastos em que possam trazer suas
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+criações, nem nunca as pediram à Sua Majestade, e entre os rios de Itapecurú e rio Real,
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+partindo pela parte do mar com data dos herdeiros de Sebastião Vasques, e pela parte do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+sertão com Diogo Pereira e Sebastião Vasques, estão sobejos e terras devolutas que nunca
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+foram povoadas de brancos nem foram descobertas e nem são de nenhuma utilidade à
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+Fazenda Real, o que serão sendo povoadas e cultivadas, pelo que pedem a Vossa Senhoria lhe
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+faça mercê, em nome de Sua Alteza, de todos os sobejos que houver entre os ditos rios Real e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Itapecurú, entre as duas sesmarias da parte do mar e da parte do sertão, com todos os pastos,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+matos, ilhas com [que] se achar que houver, por ser coisa limitada e de pouco proveito. E
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+receberão mercê. E vista a informação que sobre este particular me fez o provedor-mor da
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Fazenda Real deste Estado que é o que se segue: Senhor, os suplicantes não declaram a
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+quantidade de léguas que pode haver nestes sobejos, que pedem de medições para se poder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+saber se os há, mas é coisa certa que não serão muitos, porque estas terras estão dadas a
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+muitos anos, e assim me parece que na dúvida, lhes pode conceder duas léguas em quadra se
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as houver, não sendo em prejuízo de terceiro, e guardando-se a forma do Foral e Ordenações
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+de Sua Alteza. Vossa Senhoria mandará o que for servido. Bahia, 18 de dezembro de 1671 //
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Antônio Lopes de Ulhôa // Hei por bem de lhes conceder, como pela presente faço em nome
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de Sua Alteza, até duas léguas de terra em quadra, se as houver, nos ditos sobejos a si, e da
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+maneira que as pede e confrontam em sua petição, não sendo com prejuízo de terceiro, com
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+todas suas águas, campos, matos, testadas, logradouros e mais úteis que nelas se acharem,
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+tudo foro, livre, isento de pensão ou tributo algum, salvo dízimo a Deus, que pagará dos frutos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+que nelas houver, e por elas será obrigado a dar caminhos livres ao Conselho para fontes,
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pontes e pedreiras, pelo que ordeno e mando a todos os ministros e justiças a que o
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+  
+conhecimento deste, com direito deva ou possa pertencer, lhe mandem dar a posse real,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+efetiva e atual na forma costumada debaixo das cláusulas acima referidas, e as mais da
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+
+Ordenação, título das sesmarias, para firmeza do que lhe mandei passar a presente, sob meu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+sinal e selo de minhas armas, a qual se registrará nos livros da Secretaria do Estado e nos mais
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+a que tocar, e se guardará e cumprirá tão prontual e inteiramente como nele se contém sem
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+dúvida, embargo nem contradição alguma // José Cardoso Pereira // o fez nesta Cidade do
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+Salvador, Bahia de Todos os Santos, aos 22 dias do mês de dezembro, ano de 1671. //
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Bernardo Vieira Ravasco // o fez escrever // Afonso Furtado de Castro do Rio de Mendonça //
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+pelo alvará de doação de sesmaria de duas léguas de terra em quadra, se as houver, nos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sobejos que pedem e confrontam em sua petição entre os dois rios Real e Itapecurú que Vossa
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Senhoria tem por bem conceder-lhes, em nome de Sua Alteza, ao padre Antônio Correia de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrade, sacerdote do hábito de São Pedro, e ao alferes Henriques de Caldas, não sendo com
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+prejuízo de terceiro na forma e pelos registros acima declarados para Vossa Senhoria ver.
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registrado no segundo Livro dos Registros da Secretaria do Estado do Brasil a que toca à
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+folhas 137 verso. Bahia, 22 de dezembro de 1671 // Ravasco // Traslado do capítulo do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+regimento as terras e águas das ribeiras que estiverem dentro do termo e limite da dita cidade,
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+que são seis léguas para cada parte, que não forem dadas as pessoas que as aproveitem e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+estiverem vagas e devolutas para mim, por qualquer via ou modo que seja, podereis dar de
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sesmaria as pessoas que elas pedirem, as quais terras assim dareis livremente sem mais algum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+foro nem tributo, somente o dízimo a Ordem de Nosso Senhor Jesus Cristo com as condições
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e obrigações do Foral dado as ditas terras e de minha Ordenação, título das sesmarias, com
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+condição que a tal pessoa ou pessoas residam na povoação da dita Bahia ou das terras que a si
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+lhe forem dadas ao menos três anos, e que dentro no dito tempo as não possam vender nem
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aliar, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+possibilidade ou nos parecer que pode aproveitar, e só algumas pessoas a quem forem dadas
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+terras no dito termo as tiverem perdidas pelas não aproveitarem e elas tornarem a pedir-vos,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+as dareis de novo para as aproveitarem com as condições e obrigações contidas neste capítulo,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+o qual se trasladará nas cartas das ditas sesmarias e traslado, tudo como dito é, e lançado neste
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+livro das sesmarias tornei a entregar a dita provisão ao dito ajudante Francisco Pires que aqui
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+assinou de como a tornou a levar e converter com oficial comigo abaixo assinado, sobescrevi
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e a assinei na Bahia em o dia, mês e ano atrás declarado, e a própria provisão me reporto,. Eu,
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Sebastião de Torres, tabelião, o escrevi. // Sebastião de Torres // Consertado por mim,
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+escrivão das sesmarias, Sebastião de Torres // Francisco Pires de Almeida // A qual sesmaria e
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+  
+doação por Sebastião de Torres, que serviu de tabelião público do judicial e notas, e escrivão
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+das sesmarias nesta Cidade do Salvador, Bahia de Todos os Santos e seu termo no ofício de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+que é proprietário Francisco da Rocha Barbosa, fez trasladar do livro delas de onde a lancei,
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+aqui me reporto, subscrevi e assinei de meu público sinal seguinte na Bahia, a assinei aos 5
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+dias do mês de fevereiro de 1672. // Sinal público // Em testemunho de verdade // Sebastião
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+de Torres // Despacho do provedor-mor. Registre-se nos livros da Fazenda a que toca Bahia,
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+06 de fevereiro de 1672. // Antônio Lopes de Ulhôa // No mesmo dia se registrou e entregou
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ao mesmo ajudante // Miguel Pinto de Freitas //. 
+ 
+ 
+- Fim de transcrição – 
+ 
+Observações​: 
+- ​Os nomes dos suplicantes no documento original constam como: Antonio Correa de 
+Andrade e Henriques Caldas; 
+- A carta não está contida na SILB; 
+ 
+Referências: 
+
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. I, fls. 4v – 6v 
+Numeração original no livro: 04 
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Correia de Andrade , Henriques de Caldas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-12-1671",
+  "Data da concessão": "22-12-1671",
+  "Observações da sesmaria": "A solicitação não foi realizada diretamente pelos solicitantes, e sim através de um instrumento público de procuração delegada a um procurador e ao ajudante Francisco Pires. Dado o envolvimento de um procurador, a carta apresenta trâmites notariais e o translado da petição da carta por procuração. Alegam os suplicantes a terra ser devoluta e também sobejos entre terras já doadas. ",
+  "Localidade": "Sertão da Bahia",
+  "Marcos Geográficos": "Rio Itapecurú, Rio Real partindo pela parte do mar",
+  "Confrontantes": "herdeiros de Sebastião Vasques, e pela parte do sertão com Diogo Pereira e Sebastião Vasques",
+  "Observações da petição": "Os suplicante não indicam na petição a quantidade de terras, no entanto, o provedor mor da Fazenda Real do Estado do Brasil, em seu despacho, informa que \"os suplicantes não declaram a quantidade de léguas que pode haver nestes sobejos, que pedem de medições para se poder saber se os há, mas é coisa certa que não serão muitos, porque estas terras estão dadas a muitos anos, e assim me parece que na dúvida, lhes pode conceder duas léguas em quadra se as houver\"",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Não tinha terras; Tinha gado vacum; Tinha gado cavalar; Tinha outras criações; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Alegam nunca anteriormente terem solicitado terras à Sua Majestade. Alegam ser terras de sobejos e terras devolutas que nunca foram povoadas de brancos, nem foram descobertas e nem são de nenhuma utilidade à Fazenda Real. ",
+  "Observações do deferimento e da concessão": "O Governador Geral do Estado do Brasil Afonso Furtado de Castro do Rio de Mendonça ordena que contenha no processo \"lhe incorporasse com ela o capítulo do Regimento do Príncipe, Nosso Senhor, como é uso e costume. Nos atos finais do documento foi transladado partes do regimento de sesmarias. Procurador aprova a concessão, no entanto, alega que os suplicantes por não terem definido a dimensão de terras solicitadas, deve-se doar 2 léguas em quadras  \"se as houver, nos ditos sobejos a si, e da maneira que as pede e confrontam em sua petição\". ",
+  "Observações das exigências": "Mandou seguir as Ordenações, título das sesmarias.",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0004"
+}
+
+
+
+## NÍVEIS DE CONFIANÇA
+Para cada divergência identificada, considere internamente um nível de confiança:
+- **Alta**: Evidência clara e inequívoca no texto original
+- **Média**: Evidência presente, mas com alguma ambiguidade
+- **Baixa**: Evidência indireta ou baseada em inferência
+
+
+CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".       
+            

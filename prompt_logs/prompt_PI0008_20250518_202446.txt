@@ -1,0 +1,151 @@
+
+        ## PAPEL    ## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## CONHECIMENTO CONTEXTUAL
+Para auxiliar na análise, considere estas informações contextuais relevantes:
+
+### Terminologia Histórica
+- "Datas de terra" e "sesmarias" referem-se ao mesmo tipo de concessão
+- "Devoluta" significa terra não ocupada ou retornada à Coroa
+- "Confirmação" é o processo de validação de uma concessão anterior
+- "Medição" refere-se ao processo de demarcação dos limites da terra
+
+### Estrutura Administrativa Colonial
+- Capitanias eram as principais divisões administrativas
+- A hierarquia incluía: Rei > Governador > Provedor > Sesmeiro
+- Documentos podiam ser emitidos por diferentes autoridades
+
+### Formatos de Data
+- Datas eram frequentemente escritas por extenso ("aos vinte dias do mês de março")
+- Anos eram frequentemente escritos com "anno de" ou "era de"
+- O calendário usado é o gregoriano após 1582
+
+### Categorias de Terras
+- "Primordial": primeira ocupação de terra virgem
+- "Devoluta nunca povoada": terra não ocupada anteriormente
+- "Devoluta por abandono": terra que voltou à Coroa por falta de uso
+- "Comprada": adquirida de proprietário anterior
+- "Herdada": recebida por herança
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+## DADOS
+Texto original da carta:
+        
+        PI 0008
+Carta de concessão de João Lopes de Souza e José da Costa Veloso 10/01/1763
+Carta de data de sesmaria passada a João Lopes de Souza e José da Costa Veloso
+João Pereira Caldas, alcaide mor, comendador de São Mamede de Troviscoso na Ordem
+de Cristo, coronel de cavalaria e governador da capitania de São José do Piauí etc. Faço
+saber, aos que esta minha carta de data e sesmaria virem que João Lopes de Souza e
+José da Costa Veloso, moradores na ribeira da Parnaíba, me representaram que nos
+meios das fazendas Riacho do Negro, Almas, Santa Tereza, e o rio Parnaíba, tinham
+povoado com seus gados uma sorte de terras que se achavam devolutas e que terão três
+léguas de comprido e uma de largo fazendo pião onde chamam Mocambo, no riacho de
+São Lourenço, e confrontando o seu comprimento com a fazenda das Almas e a do
+Riacho do Negro, e a largura com a fazenda de Santa Tereza e ribanceiras do rio
+Parnaíba; E porque não tinham título das ditas terras e a pretendiam haver por carta de
+data de sesmaria, me pedia lhe mandasse passar. Ao que atendendo, e à informação dos
+oficiais da câmara e do desembargador provedor da Fazenda Real, que foram ouvidos,
+se lhe não ofereceu dúvida alguma, e ser em utilidade da mesma Real Fazenda
+cultivarem-se as terras neste Estado. Hei por bem conceder-lhes em nome de Sua
+Majestade por data e sesmaria as ditas três léguas de terra de comprido e uma de largo,
+correndo o comprimento de norte a sul e a largura de nascente a poente, na forma e
+parte que pedem com as confrontações que declaram e com as condições expressadas
+nas Reais Ordens. E com a de não fazer trespasse por meio algum, em nenhum tempo a
+pessoa alguma, religião ou comunidade, sem que primeiro dê parte na Casa da Fazenda
+ao provedor dela, para se me fazer presente e ver se deve ou não consentir na tal
+trespasse, sob pena de ficar nula esta data e se poder novamente conceder a outrem. E
+nesta forma se lhes passa carta para que os sócios João Lopes de Souza e José da Costa
+Veloso hajam, logrem e possuam as sobreditas terras, como coisa sua própria para eles e
+seus herdeiros, ascendentes e descendentes sem pensão nem tributo algum mais que o
+dízimo a Deus Nosso Senhor dos frutos que nelas derem e lavrar; a qual concessão lhe
+faço não prejudicando a terceiros, nem a Sua Majestade se no dito sítio quiser mandar
+fundar alguma vila, reservando os paus reais que nelas houver para embarcações. Com
+declarações que mandará confirmar esta data por Sua Majestade dentro de três anos
+primeiros seguintes e cultivará as ditas terras de maneira que deem frutos, e dará
+caminhos públicos e particulares aonde forem necessárias para pontes, fontes, portos,
+pedreiras; e havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que
+necessite de barco para se atravessar, não só ficará de ambos as bandas do tal rio a terra
+que baste para uso público, mas sim também uma delas meia légua de terras em quadra
+para comodidade pública, e de quem arrendar a dita passagem e se demarcar ao tempo
+de posse por rumo de corda e braças craveiras como é estilo e Sua Majestade manda. E
+outrossim, não poderão suceder nelas religiões nem outras pessoas eclesiásticas por
+nenhum título que seja, e acontecendo possuí-las, será com o encargo de pagarem delas
+dízimos a Deus como fossem possuídas por seculares, e faltando a qualquer destas
+cláusulas se haverão as ditas terras por devolutas e se darão a quem as denunciar como o
+mesmo Senhor ordena. Pelo que mando ao provedor da Fazenda Real, mais ministros,
+
+pessoas a que tocar, que na forma referida e com as condições expressadas, deixem ter e
+possuir as sobreditas terras aos ditos João Lopes de Souza e Jozé da Costa Veloso, como
+coisa sua própria para si e seus herdeiros ascendentes e descendentes. E que assim
+também cumpram e guardem esta minha carta de data e sesmaria, tão inteiramente como
+nela se contém, a qual lhe mandei passar por mim assinada e selada com a sinete de
+minhas armas, que se registrará nas partes onde tocar e se passou por duas vias. Dada
+nesta vila de Oeiras do Piauí aos 10 dias do mês de janeiro do ano do nascimento de
+nosso Senhor Jesus Cristo de 1763. E eu, Joaquim Antunes, secretário do governo desta
+capitania, a fiz. João Pereira Caldas // lugar do selo // carta de data de sesmaria, por que
+Vossa Senhoria há por bem conceder em nome de Sua Majestade a João Lopes de Souza
+e José da Costa Veloso três léguas de comprido e uma de largo nos meios das fazendas
+Riacho do Negro, Almas, Santa Tereza e o rio Parnaíba da Freguesia desta vila com as
+confrontações que na mesma carta se declaram. 
+Para Vossa Mercê.
+Referência:
+APEPI, Livro 1, fls. 8 – 9
+
+        
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0377",
+  "Nome": "Bernardo Pereira Gago, Domingos Afonso Sertão, Francisco Dias de Ávila (BA1), Julião Afonso Serra",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "29-12-1683",
+  "Observações da sesmaria": "Os suplicantes requereram 12 léguas de comprimento e 12 léguas de largura no rio Parnaíba, da aldeia dos Ararins até a aldeia dos índios Moipura. Ao sul  da serra do Araripe e ao norte do rio Tapicurú até o rio Parnaíba, para cada meia légua de cada rio. ",
+  "Localidade": "Rio Parnaíba",
+  "Marcos Geográficos": "Serra do Araripe, Aldeia dos Ararins, Aldeia dos índios Moipura, Rio Parnaíba, Rio Tapicurú",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-PI0008"
+}
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

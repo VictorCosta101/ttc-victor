@@ -1,5 +1,0 @@
-Resposta do Modelo: gemma2
-Tempo de Resposta: 0.00 segundos
-
-Resposta do Modelo:
-{"Categoria_da_sesmaria": "individual", "Sesmeiros": "Dom Lourenço de Almeida", "Capitania": "Pernambuco", "Estado_atual": "Pernambuco", "Historico_da_terra": "NA", "Data_de_peticao": "23 de junho de 1718", "Localidade": "Vila do Recife de Pernambuco", "Marcos_geograficos": "NA", "Ribeira": "NA", "Confrontantes": "NA", "Area": 1.0, "Tipo_de_area": "Léguas", "Largura": "NA", "Comprimento": "NA"} 

@@ -57,6 +57,8 @@ class CatalogacaoErro(Base):
     motivo = Column(String, nullable=False)
     julgado = Column(Boolean, default=False)
     resposta_correta = Column(Text)
+    prompt_name = Column(String(50),nullable=True)
+    erro_positivo = Column(Boolean, nullable=True)
 
 class Julgamento(Base):
     __tablename__ = "julgamentos"
@@ -68,3 +70,4 @@ class Julgamento(Base):
     resposta_correta = Column(Text, nullable=False)
     grau_certeza = Column(Float)
     data_julgamento = Column(DateTime, default=datetime.utcnow)
+    correcao = Column(Boolean, default=False)

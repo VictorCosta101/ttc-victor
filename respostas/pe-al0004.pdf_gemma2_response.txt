@@ -1,5 +1,0 @@
-Resposta do Modelo: gemma2
-Tempo de Resposta: 0.00 segundos
-
-Resposta do Modelo:
-{"Categoria_da_sesmaria": "coletiva", "Sesmeiros": "padre reitor do Colégio da Bahia e o padre reitor do Colégio do Recife", "Capitania": "Pernambuco", "Estado_atual": "NA", "Historico_da_terra": "NA", "Data_de_peticao": "25 de janeiro de 1708", "Localidade": "jurisdição do rio de São Francisco desta capitania do meio da serra Marabá para a serra Apieaca", "Marcos_geograficos": "rio de São Francisco, rio Utiuba", "Ribeira": "NA", "Confrontantes": "Damião da Rocha, Fernão Mendes e Francisco Coelho da Maya, herdeiros de Baltasar Alves Camelo", "Area": 2.0, "Tipo_de_area": "Léguas", "Largura": "NA", "Comprimento": "NA"} 

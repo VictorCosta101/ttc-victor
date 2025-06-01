@@ -1,0 +1,700 @@
+
+        ## PAPEL    ## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## CONHECIMENTO CONTEXTUAL
+Para auxiliar na análise, considere estas informações contextuais relevantes:
+
+### Terminologia Histórica
+- "Datas de terra" e "sesmarias" referem-se ao mesmo tipo de concessão
+- "Devoluta" significa terra não ocupada ou retornada à Coroa
+- "Confirmação" é o processo de validação de uma concessão anterior
+- "Medição" refere-se ao processo de demarcação dos limites da terra
+
+### Estrutura Administrativa Colonial
+- Capitanias eram as principais divisões administrativas
+- A hierarquia incluía: Rei > Governador > Provedor > Sesmeiro
+- Documentos podiam ser emitidos por diferentes autoridades
+
+### Formatos de Data
+- Datas eram frequentemente escritas por extenso ("aos vinte dias do mês de março")
+- Anos eram frequentemente escritos com "anno de" ou "era de"
+- O calendário usado é o gregoriano após 1582
+
+### Categorias de Terras
+- "Primordial": primeira ocupação de terra virgem
+- "Devoluta nunca povoada": terra não ocupada anteriormente
+- "Devoluta por abandono": terra que voltou à Coroa por falta de uso
+- "Comprada": adquirida de proprietário anterior
+- "Herdada": recebida por herança
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+## DADOS
+Texto original da carta:
+        
+        BA 0003  
+ 
+Carta de João da Costa Veloso e Baltazar Cerqueira de ​23/12/1671 
+ 
+Registro de uma carta de sesmaria de João da Costa Veloso e Baltazar Serqueira. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça, do Conselho de Guerra de Sua Alteza,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+governador e capitão general de mar e terra deste Estado do Brasil, etc. Faço saber aos que
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+este alvará de doação e sesmaria virem, que João da Costa Veloso e Baltazar Serqueira, me
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+enviaram a apresentar a petição cujo teor é o seguinte: Ilustríssimo Senhor, João da costa
+  
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Veloso e Baltazar Serqueira, moradores na vargem da Cachoeira, onde vivem com suas casas,
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+famílias e têm seus cabedais, que eles por não terem da dita passagem terras suas, estão
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vivendo de arrendamento e porque pelo rio de Paraguaçu acima na barra de Jacuípe,
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+costeando o mesmo rio estão algumas terras devolutas, que nunca foram povoadas, onde há
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+matos maninhos, as querem eles suplicantes povoar e cultivar com suas pessoas e cabedais.
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+Pede a Vossa Senhoria lhe faça mercê dar de sesmaria em nome de Sua Alteza uma légua de
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+terra à beira-mar do dito rio Jacuípe para a parte do Norte, costeando pelo Paraguaçu, com 4
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+de largura para o sertão, começando onde acabar a última data de Gaspar Rodrigues Adono ou
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de outra qualquer pessoa a que estiver dada, visto ser em benefício da Fazenda Real,
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+crescimento de suas rendas. E receberá mercê. E visto a informação que sobre este particular
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+me fez o provedor-mor da Fazenda Real deste Estado, que é a que se segue: Senhor,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+parece-me que se deve conceder aos suplicantes as terras que pedem, assim por serem
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+moradores casados com família, como por serem parte em que ficam mais próximos à serra
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+do Orobó, que é sítio que se deve querer povoado, pela vizinhança dos bárbaros que nos
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fazem guerra, pelo que sendo sem prejuízo de terceiro e na forma de total ordenação de Sua
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alteza será muito conveniente deferir-lhe. Vossa Senhoria mandará o que for servido, Bahia,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+17 de dezembro de 1671 // Antônio Lopes de Ulhôa // Hei por bem de lhe conceder como pela
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+presente faço, em nome de Sua Alteza, uma légua de terra à beira-mar do rio Jacuípe para a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+parte do norte, costeando pelo Paraguaçu com 4 de largura para o sertão, assim e da maneira
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+que pedem e confrontam em sua petição como parece ao provedor-mor, não prejudicando a
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+terceiros, com todas as suas águas, campos, matas, testadas, logradouros e mais úteis que
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+nelas se acharem, tudo foro livre, isento de pensão ou tributo algum, salvo o dízimo a Deus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+que pagará dos frutos que delas houverem e por elas serão obrigados a dar caminhos livres ao
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+conselho para fontes, pontes e pedreiras, pelo o que ordeno e mando a todos os ministros e
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+justiças o conhecimento deste com direito deva ou possa pertencer, lhe mandem dar posse
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+real, efetiva e atual, na forma costumada debaixo das cláusulas acima referidas e as mais da
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ordenação, título das sesmarias, para firmeza do que lhe mandei passar a presente sob meu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado e nos
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+mais a que tocar e se guardará e cumprirá tão prontual e inteiramente como nele se contém,
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+sem dúvida, embargo, nem contradição alguma. // José Cardoso Pereira // a fez nesta cidade
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+do Salvador, Bahia de Todos os Santos, em 23 dias do mês de dezembro, ano de 1671 //
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Bernardo Vieira Ravasco // a fiz escrever // Afonso Furtado de Castro do Rio de Mendonça //.
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registrado no segundo livro de registro da Secretaria do Estado do Brasil, à folhas 136.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Bahia, 23 de dezembro de 1671 // Ravasco // Cumpra-se e registre-se nos livros da Fazenda.
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Bahia, 23 de dezembro de 1671 // Ulhôa // Registrada em 24 do dito mês e ano // Miguel
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Pinto de Freitas //. 
+ 
+ 
+ 
+- Fim da Transcrição - 
+
+ 
+Observações​: 
+- Os nomes dos suplicantes no documento original constam como: “​João da Costa Velozo” e 
+“Baltazar Serqueira”. 
+ 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. I, fls. 4 – 4v. 
+Numeração original no livro: 3 
+ 
+
+        
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Nome": "Baltazar Serqueira, João da Costa Veloso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "17-12-1671",
+  "Data da concessão": "23-12-1671",
+  "Observações da sesmaria": "A petição informa que os suplicantes são \"moradores na vargem da Cachoeira, onde vivem com suas casas, famílias e têm seus cabedais, que eles por não terem da dita passagem terras suas, estão vivendo de arrendamento\".",
+  "Localidade": "Beira mar pelo Rio Jacuípe pelo norte e costeando o Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu, Rio Jacuípe, Serra do Orobó, Sertão para o oeste",
+  "Confrontantes": "Gaspar Rodrigues Adono",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; Pretendia ajudar no povoamento; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Vivem em terras arrendadas",
+  "Observações do deferimento e da concessão": "O provedor-mor da Fazenda Real do Estado do Brasil, em seu despacho, alega ser favorável a concessão alegando serem \"moradores casados com família, como por serem parte em que ficam mais próximos à serra do Orobó, que é sítio que se deve querer povoado, pela vizinhança dos bárbaros que nos fazem guerra\"",
+  "Observações das exigências": "Debaixo das cláusulas da ordenação, título das sesmarias. Registrará nos livros da Secretaria do Estado",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0003"
+}
+        
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".        
+            

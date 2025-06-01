@@ -1,0 +1,135 @@
+
+            ## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados.
+
+## ABORDAGEM DE VERIFICAÇÃO DUPLA
+Para garantir a máxima precisão, você deve:
+
+1. Realizar uma primeira análise completa, identificando possíveis divergências
+2. Realizar uma segunda análise independente, sem considerar os resultados da primeira
+3. Comparar os resultados das duas análises e resolver quaisquer discrepâncias
+4. Verificar a consistência interna dos dados catalogados
+5. Verificar a consistência entre os dados catalogados e o texto original
+6. Avaliar a qualidade geral da catalogação, considerando a clareza e a precisão dos dados definidos em criterio para erros
+## DADOS
+Texto original da carta:
+        
+        BA 0002
+Carta de concessão de Manuel de Vargas Cirne de 04/05/1671
+Registro da carta de sesmaria do sargento-mor Manuel de Vargas Cirne
+Alexandre de Souza Freire, Senhor da Casa de Souza do conselho de guerra de Sua Alteza,
+governador e capitão-general de mar e terra deste Estado do Brasil. Faço saber aos que este
+alvará de doação e sesmaria virem, que o sargento-mor Manuel de Vargas Cirne me enviou a
+representar em sua petição, cujo teor é o seguinte: Ilustríssimo Senhor, o sargento-mor
+Manuel de Vargas Cirne, morador nesta bahia, que ele possui 2 sítios de terras para gados, que
+comprou a Francisco Barbosa de Paiva e a seus filhos nas Pecoaras, termo desta cidade, onde
+chamam Tapecoruna e não é bastante para seus gados vacum e cavalar, e mais criações, e até
+o presente não tem data nem sesmaria de terra alguma, e porquanto junto ao seu sítio do Rio
+das Pedras para a banda do leste, que é o mar salgado, onde acaba o dito sítio entre o Rio
+Inhambupe, e nascença do Rio Jarari há alguma terra devoluta, que nunca foi povoada senão
+da mão dele suplicante, onde chamam o Aricuri, e da banda do Rio Inhambupe entre matos
+verdadeiros há alguns pedaços de terras agrestes, que poderão ter algum préstimo, ele,
+suplicante, as quer povoar com seus gados. Pede a Vossa Senhoria lhe faça mercê, em nome
+de Sua Alteza, dar-lhe de sesmaria 5 léguas de terra em quadra começando onde acabar o seu
+sítio do Rio das Pedras entre o Rio Inhambupe e o Rio Jarari; buscando sempre o mar salgado,
+que é a leste entrando cantos, e recantos visto o que alega. E receberá mercê. E visto a
+informação que sobre este particular me fez o provedor-mor da Fazenda Real deste Estado,
+cujo teor é o seguinte: Consta-me ser o suplicante morador neste recôncavo, e ter gado
+bastante para povoar as 5 léguas de terra que pede, e não ter até o presente data alguma de
+terra dada por Sua Alteza, pelo que me parece que conforme o foral Vossa Senhoria lhe deve
+dar a que pede não prejudicando a terceiro se houver. Bahia, 24 de abril de 1671 // Lourenço
+de Brito de Figueiredo // E consta ter cabedal para cultivar as ditas terras. Hei por bem de lhe
+conceder como pela presente faço, em nome de Sua Alteza, as ditas 5 léguas de terra, assim e
+da maneira que a pede e confronta em sua petição não prejudicando a terceiro com todas as
+suas águas, campos, matos, testadas, logradouros e mais úteis que nela se acharem, tudo forro
+livre e isento de pensão, ou tributo algum, salvo dízimo a Deus, que pagará dos frutos que
+nelas houver, e por elas será obrigado a dar caminhos livre ao conselho para fontes, pontes e
+pedreiras. Pelo que ordeno e mando a todos os ministros e justiças a que o conhecimento
+desta com direito deva ou possa pertencer, lhes mandem dar a posse real, efetiva e atual na
+forma costumada, debaixo das cláusulas acima referidas, e as mais da ordenação, título das
+sesmarias, para firmeza do que lhe mandei passar a presente sob meu sinal e selo das minhas
+armas, a qual se registrará nos livros da sesmaria do Estado, e nos mais a que tocar, e se
+guardará e cumprirá tão prontual e inteiramente como nele se contém, sem dúvida, embargo,
+nem contradição alguma. // José Cardoso Pereira // a fez, nesta cidade do Salvador, Bahia de
+Todos os Santos, em os 4 dias do mês de maio do ano de 1671 // Bernardo Vieira Ravasco // o
+fez escrever // Alexandre de Sousa Freire // Registrada no Segundo Livro dos Registros da
+Secretaria do Estado do Brasil, a que toca à folhas 131. Bahia, 4 de maio de 1671. // Ravasco
+// Registrada no livro das sesmarias por mim, escrivão delas, à folhas 108. Bahia, 10 de
+dezembro de 1671 anos. // Sebastião de Torres // Registre-se. Bahia, 10 de dezembro de 1671
+anos. // Ulhôa // Registrada em 16 do dito mês e ano. // Miguel Pinto de Freitas //
+- Fim da Transcrição -
+
+Observações:
+- O nome do suplicante consta no documento original como: “Manoel de Vargas Sirne”.
+- Esta carta não está inserida na SILB.
+Referências:
+Arquivo Nacional do Rio de Janeiro, Códice 427. Vol I, fls. 6v
+Numeração original no livro: 02
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "BA 0002",
+  "Nome": "Manoel de Vargas Cirne",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "24-04-1671",
+  "Data da concessão": "04-05-1671",
+  "Observações da sesmaria": "A primeira data citada no documento compreende também o primeiro despacho relativo a solicitação dado pelo provedor-mor da Fazenda Real do Estado do Brasil.",
+  "Localidade": "Aricuri",
+  "Marcos Geográficos": "Rio das Pedras;  entre o Rio Inhambupe, e nascença do Rio Jarari",
+  "Confrontantes": "terras contínuas ao do suplicante",
+  "Observações da petição": "Solicita \"junto ao seu sítio do Rio das Pedras para a banda do leste, que é o mar salgado, onde acaba o dito sítio entre o Rio Inhambupe, e nascença do Rio Jarari há alguma terra devoluta, que nunca foi povoada senão da mão dele suplicante, onde chamam o Aricuri, e da banda do Rio Inhambupe entre matos verdadeiros há alguns pedaços de terras agrestes, que poderão ter algum préstimo, ele, suplicante, as quer povoar com seus gados\". O suplicante argumenta que as terras requeridas deveriam buscar \"sempre o mar salgado\"",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Tinha terras contíguas às pleiteadas; Tinha cabedal; Tinha gado; Tinha gado vacum; Tinha gado cavalar; Tinha outras criações; Pretendia aumentar sua criação de gado; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não tem data nem sesmaria de terra alguma.",
+  "Observações do deferimento e da concessão": "Dentre os despachos, nota-se a assinatura de Bernardo Vieira Ravasco. Quanto aos registros, a carta foi mandada ser registrada \"no Segundo Livro dos Registros da Secretaria do Estado do Brasil, a que toca à folhas 131\"",
+  "Observações das exigências": "registrará nos livros da sesmaria do Estado",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Lourenço de Brito de Figueiredo",
+  "referencia": "BA0002"
+}
+
+
+        CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".         
+            

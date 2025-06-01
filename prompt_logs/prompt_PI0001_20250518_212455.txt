@@ -1,0 +1,148 @@
+
+## PAPEL
+Você é um especialista em análise de documentos históricos do período colonial brasileiro, com profundo conhecimento sobre cartas de sesmaria e seus processos de catalogação.
+
+## TAREFA
+Analise cuidadosamente o texto original da carta de sesmaria e os dados catalogados na plataforma. Identifique e liste todas as divergências encontradas entre o conteúdo original e os dados catalogados, indicando seu nível de confiança para cada divergência identificada.
+
+## DADOS
+Texto original da carta:
+        
+        PI 0001
+Carta de concessão de Eusébio de Sousa Nunes de 20/07/1774
+Gonçalo Lourenço Botelho de Castro, Coronel de Infantaria dos exércitos de Sua
+Majestade fidelíssima, Governador da capitania de São José do Piauí, etc. Faço saber aos
+que esta minha carta de data e sesmaria virem que Eusébio de Sousa Nunes, morador na
+freguesia Vila de Campo Maior, me representou que ele descobriu um sítio de terras
+devolutas e sem cultura alguma chamado São José no distrito da vila de Valença, o qual
+pretendia povoar com gados vacuns e cavalares, dando-se lhe para este fim uma data de
+3 léguas de comprido e uma de largo, fazendo pião na lagoa do Genipapo, a saber légua
+e meia para o sul, extremando com a fazenda do Bom Jardim, e légua e meia para o
+norte, fazendo testada com a fazenda Vargem Formosa, correndo a légua de largura de
+nascente a poente, extremando pela parte do nascente com a fazenda do Bom Jesus e
+Olho de Água, parte do poente com a fazenda do Angelim; e porque das ditas terras
+desejava
+haver título por carta de sesmaria, me pedia lhe mandasse passar, ao que
+atendendo e também a informação do provedor [da câmara] da Fazenda Real que foi
+ouvido e se lhe não ofereceu dúvida alguma, e ser em utilidade da mesma Real Fazenda
+cultivarem as terras neste Estado; hei por bem conceder-lhe em nome de Sua Majestade
+por data e sesmaria as ditas 3 léguas de terra de comprido e uma de largo na forma e
+parte que pede com as confrontações que declara e com as condições expressadas nas
+reais ordens, e com a de não fazer trespasse por meio algum com nenhum tempo ou
+pessoa alguma, religião ou comunidade sem que primeiro dê parte na Casa da Fazenda
+ao provedor dela para se me fazer presente e ver se se deve ou não consentir no tal
+trespasse, sob pena de ficar nula esta data, e se poder novamente conceder a outro, e
+nesta forma se lhe passa carta, para que o dito Euzébio de Souza Nunes haja, logre e
+possua as sobreditas terras como coisa sua própria para ele e seus herdeiros, ascendentes
+e descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, nosso senhor,
+dos frutos que nela tiver e lavrar, a qual concessão lhe faço não prejudicando a terceiros
+nem a Sua Majestade, se no dito sítio quiser mandar fundar alguma vila, reservando os
+paus reais que nelas houver para embarcações, com declaração que mandará confirmar
+esta data por Sua Majestade dentro de 3 anos primeiros seguintes; e cultivará as ditas
+terras de maneira que dará frutos; e dará caminhos públicos e particulares aonde forem
+necessários para pontes, fontes, portos e
+pedreiras; e havendo nas mesmas terras
+estradas públicas que atravesse rio caudaloso que necessite de barca para atravessar, não
+só ficará de ambas as bandas do tal rio a terra que baste para o uso público, mas sim,
+também, de uma delas meia légua de terra em quadra para a comodidade pública e de
+quem arrendar a dita passagem; e se demarcará ao tempo da posse por rumo de corda e
+braças craveiras, como é estilo e Sua Majestade manda; e
+outrossim, não poderão
+suceder nelas religiões nem outras pessoas eclesiásticas por nenhum título que seja, e
+acontecendo possuí-las, será com o encargo de pagarem delas dízimos a Deus como se
+fossem possuídas por seculares, e faltando a quaisquer destas cláusulas se haverão as
+ditas terras por devolutas e se darão a quem as denunciar, como o mesmo senhor ordena.
+Pelo que mando ao provedor da Fazenda Real, mais ministros e pessoas a que tocar que
+na forma requerida e com as condições expressadas, deixem ter e possuir as sobreditas
+terras ao dito Euzébio de Souza Nunes, como coisa sua própria para si e seus herdeiros
+ascendentes e descendentes, e que assim, também, cumpram e guardem esta minha carta
+de data e sesmaria tão inteiramente como nela se contém; a qual lhe mandei passar por
+mim assinada e selada com o selo de minhas armas, que se registrará nas partes onde
+
+tocar; e se passou por duas vias. Dada nesta cidade de Oeiras do Piauí ao segundo dia do
+mês de setembro do ano do nascimento de nosso senhor Jesus Cristo de 1769. E eu,
+padre Francisco Bruce, secretário do governo desta capitania a fiz
+// Gonçalo Botelho de Castro // lugar do selo // carta de data e sesmaria, porque Vossa
+Senhoria há por bem conceder em nome de Sua Majestade a Eusébio de Souza Nunes 3
+léguas de terra de comprido e uma de largo no distrito da vila de Valença, entre as
+fazendas do Bom Jardim, Vargem Formosa, Bom Jesus, Olho de Água e Angelim, com
+as confrontações que na mesma carta se declara.
+Para Vossa Senhoria ver
+Observação da margem:
+Esta sesmaria não serviu por lhe faltar a cláusula da informação da câmara, que está
+entre linhas, e se passou outra em que se expressava a dita cláusula na data de 20 de
+julho de  1774, cujo registro vem ter este mesmo com data que fica notada.
+– Fim da carta –
+Referência:
+APEPI, Livro 1, fls. 29v – 30v.
+
+        
+
+        Dados catalogados:
+        
+        {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0016",
+  "Nome": "Domingos Antônio, Eugenia de Guimarães, Gonçalo Dias Moreira, João André, João da Costa Guimarães, João Dias (PE 1), Miguel Antônio, Miguel Pinheiro de Carvalho, Victoria Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "07-01-1695",
+  "Data da concessão": "18-02-1695",
+  "Observações da sesmaria": "Os suplicantes requereram 33 léguas de comprimento e largura nos sertões do Piauí, fazendo fronteira com as terras na capitania de Pernambuco.",
+  "Localidade": "Sertão do Piauí",
+  "Marcos Geográficos": "Sertão do Piauí",
+  "Observações da petição": "Os suplicantes requereram 33 léguas de comprimento e 33 léguas de largura.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Tinha gado; Não tinha terras para a plantação de lavouras; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 9,
+  "Observações do deferimento e da concessão": "Os suplicantes requereram 33 léguas de comprimento e largura nos sertões do Piauí, fazendo fronteira com as terras na capitania de Pernambuco. O procurador da Coroa, Antônio Rodrigues Pereira, recomendou a concessão de 37 léguas de comprimento e largura, de acordo com as Ordenações Filipinas, Livro 4°, título 43.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-PI0001"
+}
+
+
+
+## NÍVEIS DE CONFIANÇA
+Para cada divergência identificada, considere internamente um nível de confiança:
+- **Alta**: Evidência clara e inequívoca no texto original
+- **Média**: Evidência presente, mas com alguma ambiguidade
+- **Baixa**: Evidência indireta ou baseada em inferência
+
+
+CAMPOS CATEGÓRICOS (valores exatos):
+                    - "tipo de petição": ["concessão", "Não encontrado"]
+                    - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+                    - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+                    - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+                    - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+                    - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+##INSTRUÇÕES ADICIONAIS
+### CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+## FORMATO DE RESPOSTA (OBRIGATÓRIO):
+{
+    "erros": [
+        {
+            "campo": "nome_do_campo",
+            "valor_incorreto": "valor_atual",
+            "valor_correto": "valor_sugerido",
+            "motivo": "explicacao_historica"
+        }
+    ]
+}
+
+Se não houver divergências, retorne uma lista vazia para "erros".       
+            
