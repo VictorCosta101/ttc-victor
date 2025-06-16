@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0065
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Cardoso Beirão, Domingos Dias, Miguel Machado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "21-02-1681",
+  "Observações da sesmaria": "A sesmaria possuía três léguas em quadra, no Brejo Grande, na capitania de Sergipe, fazendo fronteira com as terras dos herdeiros de Pedro Homem da Costa e do capitão Antônio de Sousa de Andrade.",
+  "Localidade": "Brejo Grande",
+  "Confrontantes": "Herdeiros de Pedro Homem da Costa; Antônio de Sousa de Andrade",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Tinha cabedal; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que as três léguas em quadra poderiam ser doadas desde que não entrassem em conflito com as terras vizinhas.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0065"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um alvará de doação de sesmaria de 3 léguas de terra em quadra ao mestre de 
+campo, general e governador deste Estado Roque da Costa Barreto, teve por bem conceder e 
+dar em nome de sua Alteza ao capitão Antônio Cardoso Beirão e ao Miguel Machado na parte 
+que se declara o dito alvará. 
+Roque da Costa Barreto, do conselho de sua Alteza, faço saber aos que este Alvará de doação 
+e sesmaria virem que havendo respeito do que por parte do capitão Domingos Dias, capitão 
+Antônio Cardoso Beirão e de Miguel Machado se me enviou a representar por sua petição cujo 
+teor é o seguinte: senhor, [dizem] o capitão Domingos Dias, capitão Antônio Cardoso Beirão e 
+de Miguel Machado que no rio piaguiei, capitania de Sergipe de El Rei, estão muitas terras 
+desaproveitadas e devolutas por povoar, e os suplicantes são criadores de muitos anos e não 
+tem terras para acomodarem seus gados, acuações de que sua Alteza recebe perda nos seus 
+dízimos. E tendo os suplicantes terras, terão os dízimos e direitos de sua Alteza maior 
+crescimento, e porque entre os rios piaguei, nas matas dos herdeiros de Pedro Homem da Costa, 
+que vem sendo Brejo-Grande,, correndo te o sitio rumo conquistando com o sitio do capitão 
+Antônio de Sousa de Andrade, no meio das ditas datas, há campos que nunca foram povoados 
+e estão de devolutas, e porque os suplicantes as querem aproveitar, por terem cabedal para 
+poderem fazer, pedem à vossa senhoria [que] lhe faça mercê, em nome de sua Alteza, mandar 
+dar 3 léguas das ditas terras de campos que se acharem dentro das ditas matas em quadra; 
+começando no brejo-grande do Norte para o sul, até topar com o sitio de Japão, tufo o que se 
+achar ser campos dentro das ditas matas que forma dos herdeiros de Pedro Homem da Costa 
+até conquista com o capitão Antônio de Souza de Andrade as quais pedem por  devolutas e 
+desaproveitadas, por se não terem nunca povoadas. E receberá mercê. E vista a resposta do 
+procurador da Fazenda Real, que é o seguinte: 3 léguas em quadra contém em sí 9 léguas 
+quadradas, e parece que nesse sitio se não acharam pra se darem com dano dos confinantes, 
+mas havendo-as, não se me oferece dúvida que se lhes deem com as condições costumadas ou 
+o que melhor parecer // Andrada // E a informação do provedor-mor da dita Real Fazenda que 
+também é o que se segue: senhor, não se me oferece duvida a que se concedam aos suplicantes 
+as 3 léguas da dita terra, é quadrada que pedem, havendo-as no sitio que apontam, mas que lhes 
+concedam esta data na forma do regimento das sesmarias que é sem prejuízo de terceiro, com 
+obrigação de pagar dízimos a Deus e as mais que no mesmo regimento se contém, a ao 
+procurador da Fazenda lhe parece o mesmo, havendo no sitio que os suplicantes dizem tanta 
+terra, vossa senhoria mandará o que for servido. Bahia, 20 de fevereiro de 1681 // Antônio 
+Lopes de Ulhôa // Hei por bem de lhe conceder ao suplicantes, em nome de sua Alteza, como 
+a presente faço, 3 léguas de terra em quadra havendo na parte que a pedem em sua petição e 
+como parece aos ministros da Fazenda, não prejudicando a terceiro com todas as suas águas, 
+matas, testadas, logradouros e mais úteis que nelas se achar com foro livre e isento de pensão 
+salvo o dizimo a ordem de Cristo que pagarão pelos frutos que delas houver, demarcando-se do 
+tempo da posse, citados os éreos, e por ela será obrigados a dar estradas públicas e particulares 
+para pontes, fontes, portos e pedreiras povoando-as no termo da lei e demarcando-se ao tempo 
+da posse citados os éreos e serão obrigados a mandar certidão de como tem povoado dentro do 
+dito ano para se registrar nos livros da Fazenda Real. Pelo o que ordeno a todos os ministros de 
+justiça, a que o conhecimento deva ou possa pertencer [que] lhe façam dar posse real, efetiva e 
+atual na forma costumada debaixo das cláusulas acima referidas e as mais da ordenação título 
+de sesmarias para a firmeza do que lhe mandamos passar a presente sob o sinal e selo de minhas 
+armas do qual se registrará nos livros da secretaria do Estado e nas mais a que tocar, se 
+assegurará e cumprirá tão pontual e inteiramente com nele se contem sem dúvida, embargo nem 
+contradição alguma // Antônio Garcia  // o fez escrever nesta cidade do Salvador, Bahia de todos 
+os santos aos 21 dias do mês de fevereiro, ano de 1681 // Bernardo Vieira Ravasco // a fiz 
+
+escrever // Roque da Costa Barreto // no livro 2° dos registros da secretaria do Estado do Brasil 
+a que tocar as folhas 87. Bahia, 26 de fevereiro de 1681 // Ravasco // Despacho do provedor-
+mor. Registre-se nos livros da Fazenda a que toca. Bahia, 17 de maio de 1680 // Antônio Lopes 
+de Ulhôa // Registrou-se no dito dia, mês e ano acima // 
+  
+- Fim de Transcrição - 
+ 
+Observações: 
+- O nome dos suplicantes no documento original consta como: “capitão Domingos Dias”; 
+“capitão Antônio Cardoso Beirão” e “Miguel Machado”. 
+ 
+Referências: 
+AN, Códice 427 vol. 1, fls. 186 – 188. 
+Numeração original no livro: 140. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0169
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0280",
+  "Nome": "Cipriano Nunes da Silva, José Francisco da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "26-09-1823",
+  "Data da concessão": "08-04-1825",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura na Serra Negra, termo do julgado do Tacaratu. A sesmaria localizava-se entre a ribeira do Moxotó, Riacho do Navio e rio São Francisco. ",
+  "Localidade": "Serra Negra",
+  "Marcos Geográficos": "Riacho do Navio, Rio São Francisco",
+  "Ribeira": "do Moxotó",
+  "Justificativas": "As terras eram devolutas; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das exigências": "O presidente de província Francisco de Lima e Silva determinou o pagamento anual do foro régio no valor de 4 mil réis. O presidente de província  Francisco de Lima e Silva também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0169"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0169
+Carta de doação e sesmaria de José Francisco da Silva e Cipriano Nunes da Silva -
+15/03/1825
+Jose Francisco da Silva e Cipriano Nunes da Silva com uma légua de terra em
+quadro no termo do julgado de Tacaratu.
+Francisco de Lima e Silva etc. Faço saber aos que esta carta de data de sesmaria virem,
+que Jose Francisco da Silva dirigiu a junta do Governo provisório desta província, o
+requerimento do teor seguinte = Ilustríssimos e excelentíssimos senhores. Diz Jose
+Francisco da Silva, que ele é residente em terras realengas, em as quais o suplicante
+enraizado, e como estas terras se acharam inabitáveis, e ao suplicante se fazem
+necessárias para a sua assistência a produção de gados, requer por isso a Vossas
+Excelências lhe concedam uma légua em quadro por sesmaria para sua habitação, o que
+muito utiliza o suplicante e interessa ao bem publico. Pede a Vossas Excelências lhe
+concedam a sesmaria pedida, e receberá mercê = Recife, em 26 de setembro de 1823,
+como procurador, João Marinho Facão = o que tendo sido visto pela referida junta, lhe
+deferiu em 27 do mesmo mês na forma seguinte = Declare onde são as terras que
+pretende aos éreos com quem confinam, por se lhe poder deferir na conformidade das
+leis = e consequência do que enviou um novo requerimento do teor seguinte =
+Ilustríssimos e excelentíssimos senhores, diz Jose Francisco da Silva, que ele suplicante
+obteve de Vossas Excelências o despacho incluso, onde manda declarar o lugar
+pretendido, com quem confina: o suplicante se acha enraizado em terras realengas
+brutas, cujas se acham inabitáveis no lugar da serra negra, termo do julgado de Tacaratu,
+de cujas terras se fazem necessárias para sua assistência e produções de gados; requer
+portanto a Vossas Excelências lhe concedam uma légua em quadro por sesmaria para
+sua habitação, fazendo pião no olho d’água do Espinheiro, cujo lugar tem para qualquer
+dos lados 10, 12 léguas pelas brenhas dentro, sem éreo confinante, tudo entre a ribeira
+de Moxoto, riacho do Navio, o rio de São Francisco; portanto, para as Vossas
+Excelências lhe concedam a graça que pretende por sesmaria para sua habitação, o que
+muito utiliza ao suplicante e interessa o bem público, do que é contestável pelos
+documentos juntos. Recife, em 13 de novembro de 1823 = como procurador, João
+Marinho Falcão = e sobre este requerimento deferiu a referida junta em 13 de novembro
+de 1823 = A Câmara respectiva manda afixar editais por tempo de 30 dias, na forma da
+lei, findos os quais informará a este Governo com os mesmos editais e certidão do
+
+oficial que as fixou, se há terceiro prejudicado. Em consequência deste despacho, a
+Câmara da Vila de Flores mandou por editais e informou com eles em 27 de março de
+1824, não ter aparecido terceiro prejudicado, e como por este tempo o Governo
+revolucionário se apoderasse da província, não andou mais o suplicante em adiantar o
+seu pedido, o que fez agora visto estar a província reduzida a boa ordem, e sendo-me
+apresentados os respectivos papéis por despachos de 7 e 12 do corrente, mandei ouvir o
+desembargador procurador da Coroa e Fazenda e o escrivão deputado da junta da
+Fazenda Pública, e não oferecendo estes também dúvida alguma, por despacho de 15 do
+corrente mandei passar-lhe a respectiva carta de sesmaria. E portanto, pela faculdade
+que me é concedida no capítulo 15 do regimento deste Governo e mais ordens a este fim
+dirigidas: Hei por bem conceder em nome de Sua Majestade, o imperador constitucional
+e defensor perpétuo do império do Brasil, a Jose Francisco da Silva e Cipriano Nunes da
+Silva a sobredita légua de terra com as confrontações declaradas no primitivo
+requerimento, pagando o foro anual de 4 mil réis, na conformidade da Ordem de 28 de
+setembro de 1700, de que deu fiança na secretaria da junta da Fazenda Pública a folhas
+94 do livro 7° delas. A qual sesmaria possuirá e gozarão eles suplicantes e seus
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo o
+sempre, com todas as matas, campos, rios, águas, estradas, logradouros e mais úteis que
+nela se compreenderem, não prejudicando a terceiro. E não passará a religiões e pessoas
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, e
+nunca se dividirá em porções nem se partirá, se não por estimação, andando encabeçada
+em uma só pessoa, na forma da ordenação livro 4°, título 96 e parágrafo 23, sem
+consentimento da junta da fazenda pública, para nela se darem novas fianças e as
+fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as
+estradas, rios, fontes e pedreiras, e reservadas ao patrimônio público as madeiras de
+construção, pau brasil e viveiros de quaisquer metais; a serão obrigadas a requerer
+dentro de 3 anos confirmação, a medir e demarcar, em cujo ato poderão preencher se
+para o lado ou lados em que houverem terras devolutas, caso encontrem obstáculo dos
+éreos confinantes na medição quadrada, a povoá-la e cultivá-la na forma da Ordem de
+20 de outubro de 1823 e alvará de 25 de janeiro de 1809, e não o cumprindo assim se
+haverá por devolutas e novamente se concederá a quem a requerer. Pelo que ordeno ao
+ministro da Fazenda e mais pessoas a quem tocar, cumpram e façam cumprir esta carta
+da data de sesmaria como nela se contém, fazendo dar aos referidos posse real, efetiva e
+atual, na forma da ordenação título das sesmarias. Em firmeza do referido lhe mandei
+
+passar a presidente por mim assinada e selada com sinete das armas imperiais, a qual se
+registrará na secretaria deste Governo, na da junta da Fazenda Pública e donde mais
+tocar. Manoel Izidro de Miranda, 3º oficial da secretaria, a fez em o Recife de
+Pernambuco, aos 8 dias do mês de abril de 1825; quarto da independência e do império
+= carta de data de sesmaria, pela qual Vossa Excelência há por bem conceder em nome
+de Sua Majestade ilustre uma légua de terra em quadro no lugar da serra negra, no sítio
+do Espinheiro, termo do julgado de Jacaratú, a José Francisco da Silva e Cipriano
+Nunes da Silva como nela se declara = Para Vossa Excelência ver = Por despacho do
+ilustríssimo e excelentíssimo general, de 15 de março de 1825.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 243-245.
+Observação:
+O nome dos suplicantes consta como Jozé Francisco da Silva e Sipriano Nunes da Silva,
+aparecendo também como Ciprianno, que foram modificados para Jose Francisco da
+Silva e Cipriano Nunes da Silva, seguindo a padronização proposta para a plataforma
+SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

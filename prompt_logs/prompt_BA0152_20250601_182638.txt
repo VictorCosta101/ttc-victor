@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0152
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Matias Cardoso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "30-09-1653",
+  "Observações da sesmaria": "A sesmaria possuía três léguas em quadra e estava localizada entre os rios Subauma  e Inhambupe, fazendo fronteira com as terras de Garcia de Ávila.",
+  "Localidade": "Entreos rios Subauma  e Inhambupe",
+  "Marcos Geográficos": "Rio Subauma; rio Inhambupe",
+  "Confrontantes": "Garcia de Ávila",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que as terras eram de seu falecido sogro, Sebastião da Silva.",
+  "Observações das exigências": "Determinou-se que as terras fossem povoadas em até três anos; determinou-se que deixasse caminhos livres para viveiros.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Simão Alvares de La Penha",
+  "referencia": "BA0152"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro da carta de sesmaria de Matias Cardoso, guarda-mor da relação deste Estado. 
+Saibam quantos este público instrumento de carta de sesmaria virem que no ano do nascimento 
+de Nosso Senhor Jesus Cristo de 1653 anos aos 20 dias do mês de outubro do dito ano nesta 
+cidade do Salvador, Bahia de Todos os Santos e pousadas de mim, escrivão das sesmarias por 
+Matias Cardoso, guarda-mor da relação deste Estado, me foi dada uma sua petição com 
+despachos nela do senhor João Rodrigues Vasconcelos de Sousa, conde de castelmelhor, 
+governador e capitão general deste Estado do Brasil, com informação nela do doutor Simão 
+Alvares de La Penha, provedor-mor da Fazenda de Sua Majestade da qual petição, despacho e 
+informação o teor é o seguinte: Senhor, Matias Cardoso, morador nesta cidade que por morte 
+de seu sogro Sebastião da Silva, ficou uma data de terra que começa nas cabeceiras das terras 
+que foram de Garcia De Ávilla no sertão da Tatuapara, e é de 3 léguas de largura e de 
+comprimento do rio de Subauma até o rio de Inhambupe; e porque nas cabeceiras da dita casa 
+há mais terra até a estrada que vai para Sergipe de El-Rei, onde está uma lagoa que chamam de 
+Sebastião da Silva pelo que pede a Vossa Excelência lhe faça mercê dar de sesmaria toda a terra 
+que há e se achar correndo pelas cabeceiras da dita data do dito seu sogro de rio a rio, assim 
+como ela corre até a estrada real que vai para Sergipe de El-Rei, com todos os matos, águas e 
+pastos que nela houver e achar dentro nas ditas confrontações. E receberá mercê. Despacho do 
+Senhor governador. Informe o provedor-mor da Fazenda. Bahia, 27 de setembro de 1653 // 
+Rubrica // Informação do provedor-mor. Excelentíssimo Senhor: tenho ao suplicante por 
+bastantemente caudelozo para povoar e cultivar as terras que pede, e o tenho sempre o direito 
+de terceiro. Vossa Excelência mandará o que for servido. Bahia, 30 de setembro de 1653 // 
+Simão Alvares de La Penha // Despacho do Senhor conde governador. Passe carta como parece 
+ao provedor-mor. Bahia. 30 de setembro de 1653 anos, os quais despachos estavam assinados 
+com a rubrica que costuma assinar e despachar o dito conde governador. Treslado do regimento 
+Del-Rei, nosso Senhor: as terras e águas das ribeiras que estiverem dentro no termo e limite da 
+dita cidade, que são 6 léguas por cada parte que não forem dadas as pessoas que as aproveitem 
+e estiverem vagas e devolutas para mim por qualquer via ou modo que seja podereis dar de 
+sesmaria às pessoas que as aproveitem e vo-las pedirem as quais terras assim dareis livremente 
+sem outro algum foro, sem tributo, somente o dízimo a Ordem de Nosso Senhor Jesus Cristo 
+com as obrigações e condições do foral dado as ditas terras e da minha ordenação, título das 
+sesmarias com condição que a tal pessoa ou pessoas residam na povoação da Bahia ou das terras 
+que assim lhe forem dadas ao menos 3 anos e dentro no dito tempo as não deis a cada pessoa 
+mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que pode aproveitar, 
+e se algumas pessoas a que foram dado terras no dito termo se tiverem perdidas por as não 
+aproveitarem, e vol-as tornarem a pedir vos lhas dareis de novo para aproveitarem com as 
+condições deste capítulo, o qual se trasladará nas cartas das sesmarias com as quais obrigações 
+e condições deu o dito senhor governador de sesmaria ao suplicante Matias Cardoso as terras 
+que pede contidas em sua petição e com as confrontações nela contidas e declaradas com todos 
+os matos, pastos e águas que nas ditas terras houverem, contanto que não prejudicará esta data 
+a terceiro, as quais terras serão para o suplicante e seus sucessores, filhos e herdeiros forro e 
+isento, sem foro nem tributo algum salvo o dízimo a Deus. Nosso Senhor, dos que nelas houver 
+e colher do que mandou passar esta carta de sesmaria pela qual manda que o dito Matias 
+Cardoso haja posse e senhorio das ditas terras com tudo o que nelas houver de matos, madeiras, 
+campos, águas, lagoas por si ou por quem parecer e fará de maneira que dentro 3 anos cultivará 
+e romperá a dita terra e terá feito nela algum proveito e dará caminhos e serventias livres ao 
+conselho para fontes, pedreiras e viveiros e fará registrar nos livros da Fazenda de Sua 
+Majestade dentro de um ano e assinou aqui o dito Senhor Governador. E eu // Francisco da 
+Rocha Barbosa // escrivão das sesmarias que o Escrevi. O conde de castelmelhor. O qual 
+
+treslado da carta de sesmaria eu // Francisco da Rocha Barbosa // tabelião do público judicial e 
+notas e escrivão de sesmarias nesta cidade do Salvador, Bahia de Todos os Santos, e seu termo, 
+por Sua Majestade fiz trasladar de meu livro das sesmarias de onde tomei e dele este fiz passar 
+e o concertei e assinei de meu público sinal seguinte. // Sinal Público // em 15 de janeiro de 
+1655 se registrou aqui esta carta de sesmaria // Gonçalo Pinto de Freitas //. 
+ 
+ 
+Referências: 
+DHBN, vol. 18, Pg. 332 - 334 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

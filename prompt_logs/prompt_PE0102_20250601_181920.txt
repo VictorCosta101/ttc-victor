@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0102
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0159",
+  "Nome": "Francisco Soares Quintão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "27-04-1770",
+  "Data da concessão": "07-12-1770",
+  "Observações da sesmaria": "O suplicante requereu três de comprimento e uma légua de largura na freguesia dos Garanhuns. A terra possuía por fronteira ao norte a serra do Mendes e a oeste o rio Una. ",
+  "Localidade": "Freguesia dos Garanhuns",
+  "Marcos Geográficos": "Rio Una, Serra do Mendes",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Manuel da Cunha Meneses determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Manuel da Cunha Meneses determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0102"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0102
+Carta de doação e sesmaria de Francisco Soares Quintão - 07/12/1770
+Francisco Soares Quintão com três léguas de terra de comprido e uma de largo na
+Freguesia de Garanhuns.
+Manoel da Cunha Meneses, do Conselho de Sua Majestade Fidelíssima, seu governador e
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. — Faço saber aos
+que esta carta de data de doação virem, que havendo respeito a Francisco Soares Quintão
+me representar em seu requerimento que na Freguesia de Garanhuns tem várias cabeças de
+gado vacum e cavalar, e por que não tinha terras para os beneficiar e naquele sertão se
+achava devoluta uma propriedade de terras de criar ditos gados, me requeria três léguas de
+comprido e uma de largo, pegando do norte no pé da Serra do Mendes e no olho d’água e
+cortando para o sul, contestando com a sesmaria em que faz barra chata, pegando parte de
+leste e cortando para oeste pelo rio de Una acima, em que o poço chamado de Santa
+Tereza, cortando para o norte do primeiro rumo em procura da Alagoa chamada do
+Jenipapo, e contestando com terras que foram de Francisco Velho afixar na serra, logrando
+todos os meios de uma serra a outra para criação de seus gados — E sendo por mim visto
+o seu requerimento, ordenei por despacho meu de 27 de abril do corrente ano aos oficiais
+da Câmara do respectivo distrito, mandassem afixar na dita freguesia editais para se saber
+de certo estar ou não devoluta a mesma terra, e haver ou não terceiros prejudicados e
+constando-me por informação dos ditos oficiais que assim o mandarão executar, que não
+houve pessoa alguma que aos ditos editais saíssem — Por outro meu despacho, com data
+de 15 de maio, mandei ouvir ao contador e mais oficiais da Contadoria da Real Fazenda, e
+como todos uniformemente me responderam estar nos termos de se dar ao suplicante de
+sesmaria a terra pedida, pagando anualmente o foro competente. — Ultimamente mandei
+por despacho de 28 do mesmo mês de maio, assim se executasse em cumprimento do qual
+e pela faculdade que Sua Majestade Fidelíssinia me permite no Capítulo 15.º do
+Regimento deste Governo; Hei por bem dar em nome do dito senhor ao mesmo Francisco
+Soares Quintão de sesmaria, na freguesia de Garanhuns as três léguas de comprido e uma
+de largo, no referido lugar pedido e confrontado no seu mesmo requerimento, ficando a
+
+légua de permeio para logradouro dos éreos confinantes, pagando o foro de quatro mil réis
+por légua em cada um ano, visto ser de distância de mais de trinta léguas desta Praça,
+como determina a Real Ordem de 28 de setembro de 1700, cuja terra possuirá e gozará ele
+suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje
+para todo sempre com todos os seus pertences, matas, campos, águas, rios, fontes, pontes,
+testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiro, e não
+passará a dita a religiões e pessoas eclesiásticas, salvo for com os mesmos encargos com
+que a possuem os seculares, sendo obrigado a dar ao Conselho caminhos livres para fontes,
+pontes e pedreiras, e requerer dentro de três anos confirmação real, medição e demarcação,
+povoá-la e cultivá-la tudo na conformidade da Ordem régia de 20 de outubro de 1753, e
+não o cumprindo assim, se dará por devoluta e novamente será conferida a quem a
+requerer, pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram, façam cumprir e guardar esta carta de data de sesmaria como nela se contém,
+fazendo dar ao suplicante a posse real, efetiva e atual, na forma costumada, debaixo das
+cláusulas referidas e das mais da ordenação títulos de sesmaria. Em firmeza do que lhe
+mandei passar a presente por mim assinada e selada com o sinete das minhas armas, que
+se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. Dada no Recife
+de Pernambuco, aos 7 dias do mês de dezembro - Francisco Gonçalves Reis Lisboa,
+oficial maior da Secretaria do Governo, a fez. Ano do Nascimento de Nosso Senhor Jesus
+Cristo, de 1770 = O secretário do Governo, José Gonçalves da Fonseca, a fez escrever =
+Manoel da Cunha Meneses =.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+217 - 219.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

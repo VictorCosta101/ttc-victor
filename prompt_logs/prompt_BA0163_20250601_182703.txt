@@ -1,0 +1,109 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0163
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel Soares de Aguiar",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-02-1661",
+  "Observações da sesmaria": "A sesmaria possuía 1500 braças de comprimento e 800 braças de largura e estava localizada ao longo do rio Jaguaripe, fazendo fronteira com as terras de Pedro Ribeiro Vila Nova.",
+  "Localidade": "Rio Jaguaripe",
+  "Marcos Geográficos": "Rio Jaguaripe",
+  "Confrontantes": " Pedro Ribeiro Vila Nova",
+  "Justificativas": "Era morador(a) da Capitania; Pretendia cultivar; Pretendia instalar fábricas; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Lourenço de Brito Correa",
+  "referencia": "BA0163"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma carta de sesmaria de Manuel Soares de Aguiar, homem casado e morador na 
+Cachoeira. 
+Francisco Barreto etc. Faço saber aos que esta carta de doação e sesmaria virem que Manuel 
+Soares de Aguiar, homem casado, digo, me enviou uma apresentar a petição cujo o teor é o 
+seguinte: Manuel Soares de Aguiar, homem casado e morador na Cachoeira de Jaguaripe, 
+fronteiro ao gentio brabo onde há 23 anos vive com grande receio de sua pessoa e família e tem 
+pouca terra para lavrar e até agora Sua Majestade lhe não fez mercê de sesmaria alguma como 
+tem dado a muitos moradores desta Bahia e porquanto pelo Rio de Jaguaripe acima para o sertão 
+estão umas sobras que partem pela banda do sul com terras de Pedro Ribeiro Vila Nova e para 
+o norte com o dito Rio e para o sertão com terras dele suplicante será meia légua de 
+comprimento e 800 braças de largura ou o que se achar e por estarem devolutas e não serem até 
+agora dadas de sesmaria a pessoa alguma as ditas terras. Pelo que pede a Vossa Senhoria lhe 
+faça mercê em nome de Sua Majestade dar as ditas terras de sesmaria para as aproveitar e 
+cultivar por ter fábrica para isso de que resultam alguma inquietação aos moradores daquela 
+fronteira por ele, suplicante, abrir estradas para o sertão e trazer gente nos caminhos por onde 
+o gentio Brabo costuma a descer. E receberá mercê. E vista a informação do provedor-mor da 
+Fazenda Real cujo o teor é o seguinte: Senhor, sou de parecer que Vossa Senhoria lhe dê de 
+sesmaria esta pouca terra que pede o suplicante pelo que alega salvo sempre o prejuízo de 
+terceiro. Vossa Senhoria ordenará o que for servido. Bahia, 19 de fevereiro de 1661 // Lourenço 
+de Brito Correa // e constar do cabedal do impetrante e serviço que faz a Sua Majestade na 
+cultura desta terra: hei por bem de lhe fazer mercê em nome de Sua Majestade dar de sesmaria 
+como pela presente faço mercê em nome de Sua Majestade dar de sesmaria toda a que pede 
+assim e da maneira como confronta em sua petição com todas as suas águas , campos, matos, 
+testadas, logradouros e mais úteis que nelas se acharem não prejudicando a terceiro, tudo forro, 
+livre e isento de foro ou pensão ou tributo algum salvo dízimo a Deus que pagarão dos frutos 
+que nelas houverem e por elas serão obrigados a dar caminhos livres ao conselho para fontes, 
+pontes e pedreiras. Pelo que ordeno todas as justiças e ministros a quem o conhecimento deva 
+ou possa pertencer lhe mandem dar pose real, efetiva e atual na forma costumada debaixo das 
+cláusulas acima referidas e as mais da ordenação, título das sesmarias e para firmeza do que 
+mandei passar sob meu sinal e selo de minhas armas a qual se registrará nos livros da secretaria 
+e Fazenda Real deste Estado a qual se guardará e cumprirá tão pontual e inteiramente como 
+nela se contém sem dúvida, embargo nem contradição alguma // Antônio de Sousa de Azevedo   
+// a fez nesta cidade do Salvador, Bahia de Todos os Santos em os 19 dias do mês de fevereiro, 
+ano de 1661 // Bernardo Vieira Ravasco // o fiz escrever // Francisco Barreto // Registrada no 
+primeiro livro dos registros a que toca da secretaria deste Estado do Brasil a folhas 64. Bahia, 
+24 de fevereiro de 1661 // Ravasco // Registre-se na forma do estilo. Bahia 25 de fevereiro de 
+1661 // Brito // Registrou-se em 26 do dito mês e ano. 
+ 
+- Fim de Transcrição - 
+ 
+Referências: 
+DHBN, vol. 20, Pg. 309 - 311 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

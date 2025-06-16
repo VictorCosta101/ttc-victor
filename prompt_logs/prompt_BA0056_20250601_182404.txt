@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0056
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos Francisco de Almeida, Manuel Teixeira Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-07-1678",
+  "Observações da sesmaria": "A sesmaria possuía 4 léguas em quadra e estava localizada no rio Mucuri.",
+  "Localidade": "Rio Mucuri",
+  "Marcos Geográficos": "Rio Mucuri",
+  "Observações da petição": "Os suplicantes solicitaram oito léguas em quadra.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Não tinha terras; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O provedor alegou que os solicitantes eram pessoas poderosas, por isso poderiam receber as terras que estava solicitando, no entanto, o procurador da Coroa afirmou que as terras pedidas eram vastas e que os suplicantes não iriam conseguir povoá-las, por isso sugeriu que fossem concedidas duas léguas em quadra a cada um. O governador-geral concordou com o parecer do procurador e concedeu as duas léguas em quadra para cada.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0056"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+ 
+Registro de um alvará de doação, e sesmaria de duas léguas de terra em quadra, que se 
+concedeu a Domingos Francisco de Almeida, e Manuel Teixeira Dias a cada um. 
+ 
+  
+Roque da Costa Barreto do conselho de Sua Alteza comendador das comendas de São 
+Martinho de Souza, e da granja de Umeiro da Ordem de Cristo e mestre de campo general do 
+Estado do Brasil a cujo cargo está o governo dele. Faço saber aos que este alvará de doação e 
+sesmaria virem, que Domingos Francisco de Almeida e Manuel Teixeira Dias me representaram 
+por sua petição cujo teor é o seguinte: Senhor, Domingos Francisco de Almeida, e Manuel 
+Teixeira Dias que eles tem gados seus no rio das Caravelas para poderem povoar algumas terras, 
+e de presente as não tem suas, nem se lhes deram nunca nenhumas de sesmaria, e porque junto 
+do rio de Mucuri há terras devolutas sem estarem povoadas nem terem dono, e os suplicantes 
+as querem povoar o que também é com utilidade da Fazenda Real. Pedem a Vossa Senhoria lhe 
+faça mercê em nome de Sua Alteza se lhes deem 8 léguas de terra em quadra, que corre pela 
+costa do norte e sul do dito rio do Mucuri ficando este no meio, por sua demarcação com todos 
+os matos, campos, caatingas pelo sertão dentro. E receberá mercê. E vista a informação que 
+sobre este particular me fez o provedor-mor da Fazenda Real deste Estado, que é a que se segue. 
+Senhor, o mais parece se estende o regimento são os homens muito poderosos 5 léguas, e assim 
+me parece podem conceder aos suplicantes 4 léguas em quadra para ambos na forma do 
+regimento sem prejuízo de terceiro. Vossa Senhoria mandará o que for servido. Bahia, e julho 
+15 de 1678 // Antônio Lopes de Ulhôa // E parecer do procurador da dita Real Fazenda, a quem 
+se deu vista que é o seguinte: Senhor, 8 léguas em quadra são 64 léguas quadradas, de que se 
+vê que os suplicantes não podem povoar o que pedem, mas parece que Vossa Senhoria dê aos 
+suplicantes duas léguas em quadra a cada um, que  fazem a cada um 4 léguas quadradas, e 4 a 
+ambos quadradas fazem 16, que eles não podem povoar, e as duas a cada deve ser com as 
+condições ordinárias, dízimo a Ordem de Cristo, sem prejuízo de terceiro, povoação no termo 
+da lei, demarcação, citados os hereos ao tempo da posse. Bahia, 18 de julho de 1678 // José de 
+Freitas Serrão // Hei por bem de conceder, e dar como pela presente faço de sesmaria em nome 
+de Sua Alteza duas léguas de terra em quadra a cada um dos suplicantes como parece ao 
+procurador da Fazenda Real em a parte que a pedem e confrontam em sua petição não 
+prejudicando a terceiro com todas as suas águas, campos, matas, testadas, e mais úteis que nela 
+se acharem, tudo forro, livre e isento de pensão, ou tributo algum, salvo dízimo a Deus que 
+pagarão dos frutos que nelas houver e por elas serão obrigados a dar caminhos livres ao 
+concelho para fontes, pontes e pedreiras, e povoá-las no termo da lei, e regimento, pois nesta 
+conformidade lhes concedo demarcando-se, citados os hereos ao tempo da posse pelo que 
+ordeno a todos os ministros de justiça a que o conhecimento deste com direito deva, ou possa 
+pertencer lhe façam dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas 
+acima referidas e as mais da ordenação título das sesmarias para firmeza de que lhe mandei 
+passar a presente sob meu sinal, e selo de minhas armas o qual se registrará nos livros da 
+secretaria do Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente 
+como nele se contém, sem dúvida, embargo nem contradição alguma. Antônio Garcia o fez 
+nesta cidade do Salvador, Bahia de Todos os Santos aos 20 dias do mês de julho ano de 1678. 
+Bernardo Vieira Ravasco o fiz escrever. // Roque da Costa Barreto, despacho do provedor mor 
+// Registre-se nos livros da Fazenda Real a que tocar // Bahia, e julho 22 de 1678 // Antonio 
+Lopes de Ulhoa // Registrado no livro de registros da secretaria do Estado do Brasil a que toca 
+à folha 51. Bahia e julho 20 de 1678 // Ravasco // Registrou-se em 22 do dito mês de julho do 
+dito ano e se entregou a Domingos Francisco de Almeida // João Dias da Costa // 
+ 
+Fim da transcrição. 
+
+ 
+Referências: 
+BA - AN, Códice 427, fls 130 - 131v 
+Numeração original no livro: 101 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

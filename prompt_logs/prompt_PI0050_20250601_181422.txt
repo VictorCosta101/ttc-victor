@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0050
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manoel Maciel de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "26-05-1777",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. ",
+  "Localidade": "\"no termo da dita vila\" [São João da Parnaíba]; sítio \"chamado o Jenipapeiro das Corcundas\". ",
+  "Marcos Geográficos": "\"Chapada do [Enjeitado]\"",
+  "Confrontantes": "\"buscando o poente a extremos com a fazenda dos [ilegível]\"",
+  "Justificativas": "Não possuía as terras com justo título; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que \"era senhor e possuidor de um sítio de terras de criar gados no termo da dita vila, chamado o Jenipapeiro das Corcundas, por compra que dele [ilegível?] a Manoel Bezerra Mascarenhas, porque dele não tinha título, o pretendia haver\". ",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data. Quanto às autoridades camarárias, é citado apenas José Pereira de Brito que, além de governador interino, é referido como vereador mais velho. ",
+  "Observações das exigências": "Na carta de concessão também consta que \"e havendo nas mesmas terras estrada pública que atravesse rio caudaloso que necessite de barca para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também de uma delas meia légua de terra em quadra para a comodidade pública, e de quem arrendar a dita passagem\" e que \"e faltando a quaisquer destas cláusulas, se haverão as ditas terras por devolutas e se darão a quem as denunciar\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0050"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0050
+Carta de concessão de Manoel Maciel de Araújo - 26/05/1777
+Registro de uma carta de data e sesmaria passada a Manoel Maciel de Araújo
+Domingo Gomes Caminha, ouvidor geral pela lei, Fernando José Veloso de Miranda e Souza,
+capitão da Companhia de Dragões, José Pereira de Brito, vereador mais velho no presente
+ano, governadores interinos desta capitania de São José do Piauí, por Sua Majestade
+Fidelíssima, que Deus guarde etc. Fazemos saber aos esta nossa carta de data e sesmaria
+virem que Manoel Maciel de Araújo, morador no termo da vila de São João da Parnaíba,
+desta comarca, nos representou que era senhor e possuidor de um sítio de terras de criar
+gados no termo da dita vila, chamado o Jenipapeiro das Corcundas, por compra que dele
+[ilegível?] a Manoel Bezerra Mascarenhas, porque dele não tinha título, o pretendia haver na
+forma das ordens de Sua Majestade por carta de data e sesmaria, nos pedia lhe mandassemos
+passar de três léguas de comprido e uma de largo, em que tem princípio na Chapada do
+[Enjeitado], buscando o poente a extremos com a fazenda dos [?], com a qual extrema pelo
+sítio do Jenipapeiro das Corcundas, a uma légua e meia de largo para cada banda do dito
+comprimento, ao que atendendo também a informação dos oficiais da Câmara e do provedor
+da Fazenda Real, que foi ouvido e se lhe não ofereceu dúvida alguma e ser em utilidade da
+mesma Real Fazenda cultivarem-se as terras neste Estado. Havemos por bem conceder-lhe
+em nome de Sua Majestade por data e sesmaria, as ditas três léguas de terra de comprido e
+uma de largo, na forma e parte que pede, com as confrontações que declara e com as
+condições expressadas nas reais ordens e com a de não fazer trespasse por meio algum, em
+nenhum tempo, a pessoa alguma, religião ou comunidade, sem que primeiro dê parte na casa
+da Fazenda ao provedor dela, para se nos fazer presente e ver se se deve ou não consentir no
+tal trespasse, sob pena de ficar nula esta data e se puder novamente conceder a outro, e nesta
+forma, se lhe passa carta porque o dito Manoel Maciel de Araújo haja, logre e possua as
+sobreditas terras como coisa sua própria, para ele e seus herdeiros ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos
+frutos que nelas tiver ou lavrar, a qual concessão lhe fazemos não prejudicando a terceiro,
+nem a Sua Majestade; e se no dito sítio quiser mandar fundar alguma vila reservando os paus
+reais que nelas houver para embarcações, com declaração que mandará confirmar esta data
+por Sua Majestade, dentro de três anos primeiros seguintes; e cultivará as ditas terras de
+maneira que deem frutos; e dará caminhos públicos e particulares onde forem necessários
+para pontes, fontes, portos e pedreiras; e havendo nas mesmas terras estrada pública que
+
+atravesse rio caudaloso que necessite de barca para se atravessar, não só ficará de ambas as
+bandas do tal rio a terra que baste para uso público, mas sim também de uma delas meia
+légua de terra em quadra para a comodidade pública, e de quem arrendar a dita passagem; e
+se demarcará ao tempo da posse, por rumo de corda e braças craveiras, como é estilo e Sua
+Majestade manda. E outrossim, não poderá suceder nelas religião ou outras pessoas
+eclesiásticas, por nenhum título que seja, e acontecendo possuí-las será com o encargo de
+pagarem delas dízimos a Deus, como se fossem possuídas por seculares; e faltando a
+quaisquer destas cláusulas, se haverão as ditas terras por devolutas e se darão a quem as
+denunciar, como o mesmo senhor ordena. Pelo que mandamos ao provedor da Fazenda Real,
+mais ministros e pessoas a que tocar, que na forma referida e com as condições expressadas,
+deixem ter e possuir as sobreditas terras ao dito Manoel Maciel de Araújo, como coisa sua
+própria, para si e seus herdeiros ascendentes e descendentes, e que assim também cumprão e
+guardem esta nossa carta de data e sesmaria, tão inteiramente como nela se contém; a qual lhe
+mandamos passar e vai assinada por nós e selada com o sinete das armas reais, que se
+registrará nas partes onde tocar, e se passou por duas vias. Dada nesta Cidade de Oeiras do
+Piauí, aos 26 de maio, ano de nascimento do Nosso Senhor Jesus Cristo, de 1777. Eu, Manoel
+Vicente Costa, secretário do Governo desta capitania, o fiz escrever. // Estava o selo das
+armas reais // Domingos Gomes Caminha = Francisco José Veloso de Miranda e Souza = José
+Pereira de Brito // Carta de data e sesmaria, porque Vossas Senhorias hão por bem conceder
+em nome de Sua Majestade a Manoel Maciel de Araújo, três léguas de terra de comprido e
+uma de largo no sítio Jenipapeiro das Corcundas, distrito da vila de São João da Parnaíba,
+com as confrontações que na mesma carta se declara. Para Vossa Senhoria ver.
+– Fim da carta –
+Referência:
+APEPI, Livro 1, fls. 60v - 61v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

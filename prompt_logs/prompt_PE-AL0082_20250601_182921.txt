@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0082
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Maria Barbosa de Almeida",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-08-1665",
+  "Observações da sesmaria": "A suplicante requereu duas léguas de comprimento e duas léguas de largura no rio São Francisco, do riacho do Upanema até a morro da Jacioba. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Riacho Upanema, Morro da Jacioba",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou que havia recebido a terra em forma de doação por dote de Jerônimo Serrão de Paiva e de sua esposa Ana Guedes. Por esta razão, a suplicante requeria a concessão da terra.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0082"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0056 
+ 
+Carta de concessão de Maria Barbosa de Almeida de 17/08/1665 
+Registo de uma confirmação que o Senhor vice-rei deste Estado deu a Maria Barbosa de 
+Almeida, de uma data de terra riacho Upanema até a Serra do Jacioba.  
+ 
+Saibam quantos este público instrumento de data de sesmaria virem que no ano do 
+nascimento de nosso Ssnhor Jesus Cristo de 1665, aos 21 dias do mês de maio do dito 
+ano, nesta cidade do Salvador Bahia de todos os Santos, e pousadas de mim escrivão das 
+sesmarias compareceu o alferes Sebastião Barbosa de Almeida, e me apresentou e deu 
+uma petição de sua irmã Maria Barbosa de Almeida, com despacho do senhor D. Vasco 
+Mascarenhas conde de Óbidos, gentil-homem da Câmara d'El-Rei meu Senhor, e do seu 
+Conselho de Estado, vice-rei e capitão-general de mar e terra do Estado do Brasil, da qual 
+e do dito despacho o teor é o seguinte. Senhor. Maria Barbosa de Almeida, que o sargento-
+mor Jeronimo Serrão de Almeida lhe fez doação de uma data de terra sita no rio de São 
+Francisco capitania de Pernambuco como delia consta, a qual data lhe concedeu Duarte 
+de Albuquerque Coelho, como donatário da dita Capitania. E havendo-lhe respeito aos 
+grandes serviços que o dito Jerônimo Serrão de Paiva havia feito a Sua Majestade que 
+Deus guarde da qual data se vê haver-lhe concedido duas léguas de terra, que começam a 
+correr do Riacho Upanema até o Jacioba; e por-quanto da confrontação deste riacho até 
+esta serra e morro que está junto da lagoa á mais de duas léguas de terra que ele dito 
+Jerônimo Serrão de Paiva em virtude da dita data povoou toda da era de 1632 em que se 
+lhe foi concedida a dita data até a tomada que o inimigo holandês fez ao rio de São 
+Francisco, com a qual ocasião mandou retirar os gados para não serem tomados do dito 
+inimigo holandês como fizeram aos mais circunvizinhos. E logo ela suplicante sendo suas 
+as ditas terras, mandou de novo povoar tanto que se restaurou o dito rio de São Francisco, 
+com gado vacum e cavalar, e muitos escravos seus, de seu pai e de seus irmãos, não as 
+tendo nunca devolutas, pelo que pede a vossa excelência lhe faça mercê em nome de Sua 
+Majestade que Deus guarde, lhe confira, e dar-lhe de novo a data que foi a Jerônimo 
+Serrão de Paiva concedida, e é hoje delia suplicante, por doação que delia lhe fez de tempo 
+e era de 1632 que lhe deram, e ele dito as povoou com toda a terra que contém na 
+confrontação que faz, que vem a ser do riacho Upanema, até a serra e o Morro do Jacioba, 
+que está junto da lagoa e ribeira do dito rio de São Francisco, onde Lourenço de Brito 
+Correa antigamente teve um curral de gado. E para o sertão do Norte, quatro léguas de 
+terra, segundo o rumo de leste que será o que pouco mais ou menos haverá mister para 
+ficar em quadra a dita data. E receberá mercê. Segundo se continha na dita petição que 
+sendo presente ao dito senhor vice-rei, e vista por ele, nela pôs por seu despacho o 
+seguinte. Informe o provedor-mor da Fazenda Real. Bahia e janeiro o 1º de 1665. Rubrica 
+do senhor vice-rei. E dado o dito despacho, e indo com ele a dita petição ao capitão 
+Antônio Lopes de Ulhôa, provedor-mor da Fazenda Real deste Estado, deu o parecer e 
+Informação seguinte. Senhor. Vi a doação que o sargento-mor Jerônimo Duarte Corrêa, 
+digo Jerônimo Serrão de Paiva, e sua mulher Ana Guedes, fizeram a suplicante para seu 
+dote e a sesmaria que Duarte de Albuquerque Coelho mandou passar, da dita terra a 
+Jerônimo Serram de Paiva, a qual ainda que contém em si 2 léguas a suplicante tem 
+povoado toda a terra desde o Riacho de Upanema até o morro do Jacioba, e o que pretende 
+é que vossa excelência lhe faça mercê conceder estas sobras de sesmarias o que me parece 
+muito justo, visto que tem já ocupado a terra e povoado com o seu gado, não havendo 
+outra mais antiga. Vossa excelência mandará o que for servido. Bahia e janeiro 2 de 1665. 
+
+Antônio Lopes de Ulhôa. E não diz mais a resposta e informação do dito provedor-mor 
+que está por ele assignada de seu sinal. E com ela tornara a dita petição ao dito Senhor 
+vice-rei, que sendo por ele vista a dita petição, por último despacho mandou o seguinte. 
+Visto a informação do provedor-mor da Fazenda, não havendo o inconveniente de 
+prejudicar a terceiro, se lhe passe carta. Bahia e janeiro 2 de 1665. Rubrica do Senhor 
+vice-rei. E depois de continuado o sobredito trasladei aqui o capitulo do Regimento d'El-
+Rei Nosso Senhor, que é o seguinte. As terras, e águas das Ribeiras que estiverem dentro 
+no termo e limite desta Cidade, que são 6 léguas para cada parte, que não forem dadas a 
+pessoas que as aproveitem, e estiverem vagas e devolutas para mim por qualquer via e 
+medo que seja, podereis dar de sesmaria ás pessoas que vos lhes pedirem; as quais terras 
+assim dareis livremente sem foro nem tributo algum, somente o dízimo a Ordem de 
+Cristo, e com as condições e obrigações do Foral das ditas terras, e de minha Ordenação 
+título das Sesmarias, com a condição que a tal pessoa ou pessoas residam na povoação da 
+dita Bahia, ou das terras que assim lhe forem dadas ao menos três anos, e que dentro no 
+dito tempo as não possam vender nem alhear; e tereis lembrança que não deis a cada 
+pessoa mais terras que aquelas que segundo sua possibilidade virdes ou vos parecer que 
+pode aproveitar. E se a alguma pessoa a quem forem dadas terras, no dito termo as tiverem 
+perdidas pelas não aproveitarem, e vos lhes tornarem a pedir, vós lhes dareis de novo para 
+as aproveitarem, com as condições e obrigações conteúdas neste capítulo, o qual se 
+trasladará nas cartas das ditas sesmarias. E com estas condições, e obrigações, e 
+declarações deu o dito senhor vice-rei em nome de Sua Majestade a suplicante Maria 
+Barbosa de Almeida tudo o que pede em sua petição atrás trasladada, e lhe deu e 
+confirmou as léguas de terras que pede, e a mais que relata de sesmaria, e com as 
+confrontações contendas na dita sua petição segundo os rumos que declara c na paragem 
+que a pede, e é conteúdo, e toda a terra que relata; tudo assim e da maneira que pede e hei 
+declarado, e conteúdo na dita petição que atrás fica trasladada e lançada; com todas suas 
+entradas, saídas, serventias, logradouros e possessões; águas, matos, pastos, campos, 
+madeiras, e todas as mais coisas a vilas pertencentes; e com tudo o que nelas houver, para 
+que a suplicante e seus herdeiros e sucessores as logrem, gozem, e possuam por si e seus 
+herdeiros que após ela vierem de hoje este dia para todo sempre, fazendo em ditas terras 
+como em cousa própria que ficam sendo por bem desta carta de sesmaria que se lhe dá e 
+concede livremente, sem obrigação de foro nem tributo algum mais que o dízimo a Deus 
+somente do que nelas lavrarem, cultivarem, e desfrutarem, contanto que esta data não 
+prejudique a terceiro e ao direito deles, com tal obrigação e condição, que dentro de três 
+anos primeiros seguintes, tenha a suplicante feito benfeitorias nas ditas terras. E por elas 
+dará caminhos para pontes fontes, pedreiras e viveiros necessários ao conselho. E fará 
+registar esta carta de sesmaria nos Livros da Fazenda de Sua Majestade, dentro de um ano 
+primeiro seguinte. E para constar do sobredito mandou o dito Senhor Vice-Rei lançar 
+neste Livro de Sesmaria, esta de que se trata, para deia se darem os traslados ao suplicante 
+necessárias, para seu título. E por ele haverá a posse real, cível, natural e atual das ditas 
+terras que lhe deu em nome de Sua Majestade pela maneira já dita, e assignou aqui. E eu 
+Francisco da Rocha Barbosa escrivão das sesmarias o Escrevi. O conde de Óbidos. O qual 
+traslado de carta de sesmaria, eu Francisco da Rocha Barbosa, tabelião do público, 
+judicial e notas, escrivão das sesmarias nesta cidade do Salvador Bahia de todos os 
+Santos, e seu termo, por Sua Majestade, fiz trasladar do meu livro das sesmarias donde a 
+tomei a que me reporto, que subscrevi e assignei de meu público sinal seguinte. Sinal 
+público. Em testemunho de verdade Francisco da Rocha Barbosa. Registe-se nos Livros 
+da Fazenda. Bahia e Agosto 17 de 1665. De Ulhôa. Registou-se em 22 do dito mês e ano.  
+ 
+ 
+
+- Fim da Transcrição - 
+ 
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 22, pp. 162-
+167. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

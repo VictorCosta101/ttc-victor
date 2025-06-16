@@ -1,0 +1,198 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0149
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0263",
+  "Nome": "Tomás Antônio Maciel Monteiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-07-1822",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e duas léguas de largura no lugar denominado de Gravatássu. ",
+  "Localidade": "Gravatássu",
+  "Marcos Geográficos": "Gravatássu",
+  "Observações da petição": "A sesmaria foi inicialmente requerida pelo tenente coronel Antônio Francisco Macial Monteiro. Porém, com o falecimento deste suplicante, o requerimento prosseguiu com o seu irmão, o bacharel Tomás Antônio Maciel Monteiro.",
+  "Justificativas": "Tinha escravos; Pretendia cultivar algodão; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelos membros da Junta Provisória de Governo da Província de Pernambuco: o presidente Gervásio Pires Ferreira, Bento José da Costa, Joaquim José de Miranda, Antônio José Vitoriano Borges da Fonseca, Manuel Inácio de Carvalho e o secretário Laurentino Antônio Moreira de Carvalho.",
+  "Observações das exigências": "\tA junta provincial determinou que o suplicante pagasse o foro régio no valor anual de dois mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0149"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0149
+Carta de doação e sesmaria de Tomas Antonio Maciel - 01/04/1822
+O desembargador Tomas Antonio Maciel Monteiro com data de sesmaria de meia
+légua de terra em quadra no lugar do Cravatá Assú.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco fazemos saber aos que esta carta de data de sesmaria virem, que o tenente
+coronel Antonio Francisco Manoel Monteiro dirigiu ao governador, que foi nesta
+província Caetano Pinto de Miranda Montenegro o requerimento do teor seguinte =
+Ilustríssimo e excelentíssimo senhor = Diz o tenente coronel Antonio Francisco Maciel
+Monteiro, que tendo notícia de haver no sertão terras devolutas, e possuindo o
+suplicante escravos suficientes, com que possa cultiva-las em beneficio seu, e em geral
+da agricultura, e por consequência da Real Fazenda, pertende que Vossa Excelência lhe
+conceda meia légua por sesmaria, e duas de fundo no lugar denominado Gravatá Assú,
+que partem por todas os 4 ventas com terras de sua Alteza Real, que se acham por
+aforar, ou sesmar, visto que nas dias terras, e lugar, que pertende o suplicante, não se
+acham nela, pau brasil, porquanto as madeiras, que ali se acham, são de tão difícil
+condução: pelo que = pede a Vossa Excelência seja servido conceder-lhe a pedida
+sesmaria procedendo as averiguações da tarifa = e receberá mercê = o que visto pelo
+referido ex governador por despacho do primeiro de fevereiro de 1814, mandou
+informar o doutor desembargador juiz conservador das matas, o qual informou por
+ofício de 6 de março de 1816, que não havia na dita terra pau brasil, nem madeiras, de
+construção; e logo fez o suplicante outro requerimento do teor seguinte = Ilustríssimo e
+excelentíssimo senhor = Diz o tenente coronel Antonio Francisco Maciel Monteiro, que
+em terras pertencentes a sua Alteza Real místicas ao lugar do bonito denominada
+gravatá Assú, tem o suplicante vinte e tantos escravas aplicados a agricultura de
+algodão, com casas de vivenda, e toda as acessorias atinges a mesma, nestes termos
+quer o suplicante se lhe dê por sesmaria meia légua de terra, que compreendendo o
+referido sítio com a demarcação Antonio da Silva e Campanhia, e uma légua de fundo, e
+porque esta mesma sesmaria, que pretende o suplicante é a beneficio, e argumento da
+Real Fazenda, por isso querer o mesmo a Vossa Excelência seja servido mandar dar ao
+suplicante a referida terra, que requer por sesmaria procedendo-se nos termos do
+costume; e portanto = Pede a Vossa Excelência seja servido deferir ao suplicante como
+requer = E recebera mercê = e em 8 de agosto de 1814 lhe foi deferido na forma
+
+seguinte = A câmara respectiva mandará afixar editais por tempo de 30 dias para se
+saber se há terceiros prejudicados, informando-me com certidão oficial, que os afixar. E
+tendo a referida comarca informado em ofício de 3 de dezembro do dito ano, com
+editais inclusos por certidão que não se havia oposto pessoa alguma, ficou parada esta
+pertenção, até que por morte do suplicante seu irmão o bacharel Tomas Antonio Maciel
+Monteiro, irmão do falecido tenente coronel Antonio Francisco Maciel Monteiro, que
+tendo ele suplicado requerido ao antecessor de Vossa Excelência a terra pedida, e
+confrontada no requerimento incluso, a qual se procedeu as averiguações, e como o
+suplicante a quer cultivar, porque tem meios para isso, requer a Vossa Excelência lhe
+conceda a dita, mandando proceder as últimas informações, e lhe passarem a sua carta:
+portanto = Pede a Vossa Excelência seja servido deferir-lhe como requer = E receberá
+mercê = O que visto pelo dito ex-capitão general mandou por despachos de 19 de
+outubro, e 14 de novembro de 1818 informar o procurador da coroa, e o escrivão
+deputado da junta da Fazenda pública, e não lhe tendo algum deles posto impedimento
+em 19 do dito mês e ano lhe deu o despacho do teor seguinte = requeria a câmara
+respectiva, que lhe nomeie ministro e piloto para proceder a medição e demarcação de
+meio légua quadrada de terra, principiando do fim do rumo, voltará em ângulo reto para
+o lado do estavelecimento, que já tem por outras tantas braças, e com estes, e outros
+dois paralelos a este fechará o seu pedido, com cujo auto de medição, e demarcação
+poderá requerer a sua carta de sesmaria = a que deu o devido cumprimento, e tendo sido
+nomeado o juiz das sesmarias do termo de santo Antão Joaquim Alexandre Muniz com
+o escrivão geral José Mauricio da Costa, e o piloto José Rodrigues Parto, por estes, e o
+ajudante da corda Manoel Felipe do Rêgo se procedeu a medição, e demarcação, que
+consta dos autos ter sido feita na forma seguinte: depois de procederem aos
+preparativos, que a lei determina, cravarão o primeiro marco na testada de Antonio da
+Silva e campanhia, que confina com o sitio Cravatá Assú, e lugar denominado
+Pitombeira, junto a um marco da referida testada na boca da picada, que corre para
+Leste, junto a estrada que vai da prata para o bonito, e tomando deste ponto, como pião,
+ou principio da medição o rumo Norte, o seguirão pela picada do dito campanhia até
+560 braças, onde encontrarão dois marcos, um do referido companhia, e outro de
+Francisco Casado Lima, com ele confinante, e pela picada deste continuarão o rumo, e
+concluídas 831 braças, se cravou o segundo marco, e d’aqui seguirão o rumo de Leste
+até 305 braças até uma várzea de canas de Antonio Ramos, e seguirão o rumo; e a 560
+braças se encontrarão por uma ladeira algodões de Manoel João, e por eles seguirão o
+
+rumo até completar 650 braças em um caminho, que vai para os currais, e atravessado
+este, continuarão até [810] braças, que vai para os currais, e a travessado este,
+continuarão até 810 braças, que se encontrarão algodões de Manoel José, e seguirão até
+1095 braças a junto ao caminho, que vai para os paus d’arcos, e seguirão até com 1110
+braças chegarão ao rio Prata, e atravessando este, seguirão o rumo até topar com o
+mesmo rio em outra volta, perfazendo-se neste lugar 1485 braças, e seguirão o mesmo
+rumo ate completar 1500 braças e um caminho, que vai para o engenho do Valentino, e
+aqui puseram o terceiro marco, tomando daqui o rumo do Sul, que seguirão, e a 115
+braças, terceira vez passarão o rio Prata, seguindo o rumo ate preencher 950 braças
+junto a picada aberta de Antonio da Silva e Companhia, e seguindo esta picada no rumo
+de Norte até completar 50 braças, aqui se cravou o quarto marco, e seguindo o rumo
+Leste completarão 565 braças junto ao riacho corrente para o Norte, onde perfizerão 800
+braças, e continuarão a seguir até 900 braças, e aqui a plantou o 5° marco, e tomarão o
+rumo do Sul, no qual a 185 braças toparão um riacho corrente para Oeste, e seguirão o
+rumo Sul pela serra do buraco acima ate topar uma grande pedra com 285 braças,
+continuando o rumo até outra vez topar a picada de Antonio da Silva, e companhia com
+985 braças, e aqui se cravou o sexto marco, dando por finda a medição e demarcação,
+por estar já corrido o rumo para Oeste pelo dito companhia, e julgada por sentença a
+dita medição, [me] foi apresentado o auto dela, o que parecendo tudo conforme,
+mandamos por despacho do primeiro de abril do presente ano, que se lhe passasse a
+presente carta. E portanto pela faculdade, que no é concedida no capitulo 15 do
+regimento deste governo, havemos por bem conceder em nome de Sua Magestade, El
+Rei constitucional o senhor Dom João Sexto ao dito Tomas Antonio Maciel Monteiro a
+referida meia légua de terra, pagando o foro anual de 2 mil réis em observância da Real
+Ordem de 28 de setembro de 1700, de que deu fiança na contadoria da junta da Fazenda
+pública a folhas 53 do livro sétimo delas: a qual sesmaria possuira, e gozará ele
+suplicante e seus herdeiros, ascendentes e descendentes, como sua, que fica sendo de
+hoje para todo o sempre com todas as matas, campos, rios, águas, estadas, logradouros,
+e mais úteis, que nela se compreenderem, não prejudicando a terceiro, e não passará a
+religião, ou pessoas eclesiásticas, salvo sendo com os mesmos encargos, com que as
+possuem os seculares, e nunca se dividirá em porções, nem se partirá, senão por
+estimação andando encabeçada em uma só pessoa, na forma da ordenação do livro
+quarto título 96, parágrafo 23; e assim não passará a herdeiros, ou outra qualquer
+pessoa, sem consentimento da junta da Fazenda pública para nela se darem novas
+
+fianças, e se fazerem as devidas escriturações, ficando livres para a serventia dos povos
+todas as estradas, rios, fontes, e pedreiras, e reservadas ao patrimônio público, madeiras
+de construção, pau brasil, e vieiros de quaisquer metais; e como se acha medido, e
+demarcado, será obrigado a requerer confirmação com os mesmos autos, e planta, e
+aprova-la e cultiva-la dentro de 3 anos na forma da Real Ordem de 20 de outubro de
+1753, e alvará de 25 de janeiro de 1809, e não cumprindo assim, se haverá por devoluta,
+e novamente se concederá a quem requerer. Pelo que ordenamos aos ministros da
+fazenda, e justiça, e mais pessoas a quem tocar, cumpram e façam cumprir, e guardar
+esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante posse
+real, efetiva e atual na forma da ordenação, titulo das sesmarias. Em firmeza do referido
+lhe mandamos passar a presente por nos assinada, e selada com o sinete das armas reais,
+a qual, se registrará na secretaria deste governo na junta da Fazenda pública, e onde
+mais tocar. Manoel dos Passos e Figueiroa oficial maior da secretaria a fez em o Recife
+de Pernambuco aos 12 de julho de 1822 = Eu Laurentino Antonio Moreira de Carvalho
+subscrevi = Gervazio Pires Ferreira presidente = Bento José da Costa = Joaquim José
+Miranda = Manoel Ignacio de Carvalho = Antonio José Victoriano Borges da Fonseca =
+Laurentino Antonio Moreira de Carvalho secretario = carta de data de sesmaria pela
+qual Vossas Excelências hão por bem conceder em nome de Sua Magestade
+constitucional, El Rei, o senhor Dom João sexto, ao doutor desembargador Tomas
+Antonio Maciel Monteiro meia légua de terra em quadra no lugar do Cravatá Assú,
+como nella se declara = Para Vossas Excelências verem = Por despacho do governo de 1
+de abril de 1822.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 206-209.
+Observação:
+O nome do suplicante consta como Thomaz Antonio Maciel Monteiro, o que foi
+modificado para Tomas Antonio Maciel Monteiro.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

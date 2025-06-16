@@ -1,0 +1,133 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0216
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0237",
+  "Nome": "Antônio Cordeiro da Fonseca Falcão, Francisco Cordeiro Muniz Falcão, João Coelho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-11-1815",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura, sendo meia légua para Francisco Cordeiro da Fonseca Falcão e o restante para os dois suplicantes. A sesmaria localizava-se quatro léguas a sudoeste da Povoação do Bonito, freguesia de São José dos Bezerros, termo da vila de Santo Antão, nos limites ao sul das terras de Luís Antônio Machado (PE 0215). ",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Povoação de Bonito",
+  "Confrontantes": "Luís Antônio Machado",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Pretendia ajudar no povoamento; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0216"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0216
+Carta de doação e sesmaria de Francisco Cordeiro Muniz Falcão, Antônio
+Cordeiro da Fonseca Falcão e João Coelho - 03/11/1815
+Caetano Pinto de Miranda Montenegro, do Conselho do Príncipe Regente, Nosso
+Senhor, e da Fazenda Comendador da Ordem de Cristo, governador e capitão-general
+da capitania de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem: Que
+Francisco Cordeiro Muniz Falcão, Antônio Cordeiro da Fonseca Falcão e João Coelho,
+me fizeram o requerimento do teor seguinte: Ilustríssimo e Excelentíssimo Senhor =
+Diz Francisco Cordeiro Muniz Falcão, Antônio Cordeiro da Fonseca Falcão e João
+Coelho, que na freguesia de São José dos Bezerros, termo da vila de Santo Antão, 3
+para 4 léguas ao sudeste da povoação do Bonito, se acham terras devolutas da parte do
+sul, das terras que pretende Luís Antônio, pretendem os suplicantes tirar uma légua de
+terra em quadra para as plantar e cultivar, sendo meia légua para o suplicante
+Francisco Cordeiro e outra meia para os outros suplicantes, demarcada na forma
+seguinte. Pegando no ângulo da parte de leste e sul das terras pedidas pelo dito Luís
+Antônio Machado, correndo para oeste pela dita testada até o fim dela, e para o sul a
+largura que for necessária para se preencher a superfície da dita légua em quadra, e
+caso se encontre com terra de antecedente sesmaria, preencher-se os suplicantes para
+os lados que estiverem devolutos. Pede Vossa Excelência seja servido mandar
+proceder as diligências do estilo, para efeito de se lhe conceder a légua de terra em
+quadra da sesmaria, em nome de Sua Alteza Real; E receberá mercê = E sendo visto
+seu requerimento, ordenei por despacho de 19 de julho do corrente ano a Câmara
+respectiva, que mandasse afixar os editais do estilo; e informando-me a dita Câmara
+que ninguém se opuzera, mandei por despachos de 25 e 27 de setembro deste ano, que
+informassem o doutor procurador da Fazenda e escrivão deputado da Junta da mesma
+Real Fazenda, e como ambos informaram que se podia dar de sesmaria aos
+suplicantes as terras confrontadas em seu requerimento, mandei ultimamente por
+despacho de 11 de outubro do referido ano, que se passasse carta de sesmaria, pela
+faculdade que me é concedida no Capítulo 15 do Regimento deste Governo; e
+portanto: Hei por bem dar em nome de Sua Alteza Real, o Príncipe Regente, Nosso
+Senhor, aos ditos Francisco Cordeiro Muniz Falcão, Antônio Cordeiro da Fonseca
+Falcão e João Coelho, uma légua de terra em quadra no lugar pedido e confrontado
+em seu requerimento, pagando o foro anual de 4 mil réis, em observância da Real
+Ordem de 28 de setembro de 1700, da que se deu fiança na Contadoria da Junta da
+
+Real Fazenda, a folha 184 verso, do Livro 6º delas, a qual sesmaria possuíram e
+gozaram eles suplicantes e seus herdeiros ascendentes e descendentes, como sua que
+fica sendo de hoje para todo sempre, com todas as matas, campos, rios, águas,
+testadas, logradouros e mais úteis que nele se compreenderem, não prejudicando a
+terceiro, e não passará a dita terra a religiões e pessoas eclesiásticas, salvo sendo com
+os mesmos encargos com que as possuem os seculares; e nunca se dividirá em
+porções, nem se partirá senão por estimação, andando encabeçada em uma só pessoa,
+na forma da Ordenação do Livro 4º título 96 parágrafo 23; e assim não passará a
+referida terra a herdeiros ou qualquer outra pessoa sem consentimento da Junta da
+Real Fazenda, para nela se darem novas fianças e se fazerem as devidas escriturações,
+ficando livres para a serventia dos povos todas as estradas, rios, fontes e pedreiras, e
+reservadas ao Real Patrimônio as madeiras de construção, pau-brasil e viveiros de
+quaisquer metais; e serão obrigados a requerer dentro de 3 anos confirmação, medição
+e demarcação, povoá-la e cultivá-la na Conformidade da Ordem Régia de 20 de
+outubro de 1753 e alvará de 25 de janeiro de 1809; e não o cumprindo assim, se
+haverá por devoluta e novamente se conferirá a quem a requerer. Pelo que mando aos
+ministros da Fazenda e Justiça e mais pessoas a quem a tocar, cumpram e façam
+cumprir e guardar esta carta de data de sesmaria, como nela se contém, fazendo dar
+aos suplicantes posse real, efetiva e atual, na forma costumada, debaixo das cláusulas
+referidas e das mais da Ordenação título das Sesmarias. Em firmeza do referido, lhe
+mandei passar a presente, que sendo por mim assinada e selada com o sinete de
+minhas armas, se registará na Secretaria deste Governo, na da Junta da Real Fazenda e
+onde mais tocar. Felipe Esteves Alves, a fez em o Recife de Pernambuco, aos 3 de
+novembro de 1815. No impedimento do secretario Manoel Freire Mariz, oficial maior,
+a subscrevi = Caetano Pinto de Miranda Montenegro = Carta de data de sesmaria, pela
+qual Vossa Excelência há por bem dar em nome de Sua Alteza Real, o Príncipe
+Regente, Nosso Senhor, a Francisco Cordeiro Muniz Falcão, Antônio Cordeiro da
+Fonseca Falcão e João Coelho, uma légua de terra em quadra na freguesia de São José
+dos Bezerros, termo da vila de Santo Antão. Para Vossa Excelência ver = Por
+despacho do Ilustríssimo e Excelentíssimo Senhor General, de 11 de outubro de 1815.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 154-155.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

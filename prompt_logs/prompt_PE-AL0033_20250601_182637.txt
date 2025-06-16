@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0033
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0326",
+  "Nome": "José Lins do Vabo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-08-1791",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Camaragibe entre as terras de João Francisco Lins e José Inácio Lima. ",
+  "Localidade": "Rio Camaragibe",
+  "Marcos Geográficos": "Rio Camaragibe",
+  "Confrontantes": "João Francisco Lins, José Inácio Lima. ",
+  "Justificativas": "Pretendia lavrar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0033"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0007
+Carta de doação e sesmaria de José Lins do Vabo - 03/08/1791
+José Lins do Vabo com uma légua de terra em frente, pegando nas testadas das terras de
+João Francisco Lins até o rio Camaragibe para o lado do sul.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe de divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e demais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que José Lins do Vabo me fez um requerimento do teor e maneira seguinte: =
+Ilustríssimo e Excelentíssimo Senhor. = Diz José Lins do Vabo, morador no Porto Calvo, que do
+lugar onde se acha e finda a sesmaria de terras que tirou João Francisco Lins para o lado do sul,
+ficam e existem muitas terras devolutas e desaproveitadas, por se acharem incultas e não dadas a
+pessoa alguma, as quais decorrem desde as testadas do dito João Francisco Lins até o rio
+Camaragibe, que é a extrema que o suplicante quer, tenham as terras que pede já dito lado do sul,
+e pelo norte a dita sesmaria, e pelo nascente onde acabam as terras do capitão-mor José Ignacio
+de Lima, daí para o sertão entre as extremas ponderadas, quer o suplicante, visto não ter éreos
+para a parte do poente, que Vossa Excelência em nome da Sua Majestade lhe dê de sesmaria
+légua e meia de comprido para o sertão, de largura ao norte sul a que se achar entre a extrema da
+sesmaria do sobredito João Francisco Lins e o rio Camaragibe, que pelas suas voltas terá em
+umas partes uma légua e em outras menor; e para se mostrar que não há prejudicados, requer o
+suplicante mande Vossa Excelência proceder aos editais do estilo, e pede o suplicante estas terras
+por incultas para as oculpar e as cultivar de lavouras, pagando a Sua Majestade o que se costuma,
+no que interessa a mesma Real Fazenda; portanto. Pede a Vossa Excelência se digne mandar
+passar ao suplicante a sesmaria que pede, na forma do estilo. E receberá mercê. E sendo por mim
+visto o seu requerimento, ordenei por despacho de 30 de junho de 1788, aos oficiais da Câmara
+do respectivo distrito mandassem fixar editais na respectiva freguesia para se saber ao certo estar
+ou não devoluta a mesma terra e haver ou não terceiro prejudicado; e constando-me por
+informação dos ditos oficiais que assim mandaram executar não haver pessoa alguma que aos
+ditos editais saísse, por outro meu despacho de 3 de março de 1791 mandei ouvir o escrivão da
+Receita e Despesa, e assim mais responder o doutor procurador da Fazenda e Coroa, por outro de
+17 de maio do dito ano; e como todos uniformemente me responderam estar nos termos de se dar
+ao suplicante a terra pedida de sesmaria, na forma confrontada em seu requerimento, pegando
+anualmente o foro de 6 mil réis por ser das que estão mais próximas a Marinha, de que devia dar
+fiança na Contadoria; ultimamente, mandei por despacho de 22 de junho do corrente ano que se
+
+passasse sesmaria na forma da resposta do doutor procurador da Fazenda e Coroa e escrivão da
+Receita e da Despesa: Em cumprimento do qual e pela faculdade que Sua Majestade me permite
+no Capítulo 15 do Regimento deste Governo. Hei por bem dar em nome da dita Senhora ao
+referido José Lins do Vabo uma légua de terra em frente, pegando nas testadas das terras de João
+Francisco Lins até o rio Camaragibe, se tanto compreender a dita légua para o lado do sul e pelo
+norte a dita sesmaria e pelo nascente aonde acabarem as terras do capitão-mor José Ignacio de
+Lima, daí para o sertão entre as extremas ponderadas, tudo na forma confrontada em seu
+requerimento, pagando o foro anual de 6 mil réis por légua, visto ser das mais próximas a
+Marinha, que determina a Real Ordem de 28 de setembro de 1700, a qual terra possuirá ele
+suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para
+todo o sempre, com todas as suas pertenças, matas, campos, rios, águas, testadas, logradouros e
+mais úteis que compreender, não prejudicando a terceiro, e não passará a dita as religiões e
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares,
+sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes, pedreiras e requerer dentro
+de três anos medição, demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia de 20
+de outubro de 1753, e não o cumprindo assim se dar por devoluta e novamente ser conferida a
+quem a requerer, com mais a condição de que a dita terra nunca se dividirá em porções, mas
+andará encabeçada em uma só pessoa, como determina a Ordenação do Livro 4º título 96 § 23;
+outrossim, será obrigado a conservar no estado em que se acha as árvores de amarelo, sucupira e
+mais madeiras de maiores dimensões que sirvam para construção das naus e fragatas de Sua
+Majestade e os de pau-brasil, se ali o houver, e de não passar a dita terra a herdeiros do suplicante
+ou outra qualquer pessoa, sem concessão da Junta da Real Fazenda. Pelo que ordeno aos
+ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram, façam cumprir e guardar
+esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante posse real, efetiva,
+e atual, na forma costumada, debaixo das cláusulas referidas e dos mais da Ordenação Título das
+Sesmarias, visto constar por bilhete que apresentou achar-se dada a fiança ao foro anual de 6 mil
+réis por légua na Contadoria da Real Fazenda a folha 106 do Livro 3º delas. Em firmeza do que
+lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará na Secretaria deste Governo e Contadoria da Real Fazenda. Manoel Barbosa da Silva
+Garcia, oficial maior da Secretaria do Governo, a fez em Recife de Pernambuco, aos 3 dias de
+agosto. Ano do Nascimento de Nosso Senhor Jesus Cristo de 1791 || Dom Antonio Pio de Lucena
+e Castro, secretário do Governo, o fez escrever || Dom Thomas José de Melo.
+- Fim da carta -
+
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 18-19.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

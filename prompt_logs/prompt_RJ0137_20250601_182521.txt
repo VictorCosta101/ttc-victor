@@ -1,0 +1,160 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0137
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Lourenço de Sampaio, Sebastião Sampaio",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "02-12-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"porque esta dita terra foi dada ao dito seu pai e juntamente a algumas pessoas, as quais não estão nem vieram à terra nem nunca nela lavraram e sempre esteve devoluto\".\r\n",
+  "Localidade": "Piracunopam [sic]",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Era morador(a) da Capitania; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes também alegaram que tinham mulheres e filhos.",
+  "Observações das exigências": "Determinou-se também aos suplicantes o cumprimento da seguinte exigência: \"hajam posse e senhorio da dita  meia légua de terra, para sempre\", assim como mandou-se que \" rompam, aproveitem e frutifiquem da data desta em 3 anos primeiro seguintes, outrossim, farão que de maneira que dentro de 4 meses tenha feito na dita tera algum proveito  e plantado alguns mantimentos e cumpridos os 3 anos que as tenham aproveitado, como dito é (porque não o fazendo eles assim, passados os ditos 3 anos) se dará a dita terra que aproveitada não tiver de sesmaria a quem as pedir para aproveitar, e lhes serão deixados alguns logradouros do que aproveitado não tiverem e sobretudo pagarão 1000 réis para as obras do Conselho e darão pela dita terra caminhos e serventias ordenadas e necessários para o Conselho e para fontes, pontes, vieiras e pedreiras que necessário forem. A qual terra, lhes assim deu e concedeu  forras e isentas sem foro nem tributo, somente de tudo que lhe Nosso Senhor der nela de suas novidades, lavouras e criações, pagarão o dízimos a Deus conforme o dito regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0137"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0137
+Carta de concessão de sesmaria de Lourenço de Sampaio e Sebastião Sampaio de 2
+dezembro de 1603
+Forra
+Saibam quantos este instrumento de cartas sesmaria virem, que não ano do nascimento
+de nosso Senhor Jesus Cristo de 1603 anos, aos 2 dias do mês de dezembro do dito ano,
+nesta cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim
+escrivão adiante nomeado, apareceu Lourenço de Sampaio, morador nesta dita cidade e
+me apresentou uma petição com despacho nela do senhor Martim de Sá, capitão e
+governador desta dita cidade, capitania e governança deste dito Rio de Janeiro por
+El-Rei nosso Senhor. Da qual a petição o despacho dela o traslado é o seguinte. Dizem
+Sebastião Sampaio e Lourenço Sampaio, moradores nesta cidade, com mulheres e filhos
+que haverá 30 anos que eles suplicantes estão de posse de meia légua de terra que está
+no termo desta cidade, donde chamam Piracunopam, assim por suas pessoas como seu
+pai Antônio de Sampaio, na qual terra têm eles suplicantes têm os ditos feito suas
+lavouras e benfeitorias sem contradição de pessoa alguma e porque esta dita terra foi
+dada ao dito seu pai e juntamente a algumas pessoas, as quais não estão nem vieram à
+terra nem nunca nela lavraram e sempre esteve devoluto, pelo que pedem a Vossa
+Senhoria que lhes faça mercê em nome de Sua Magestade de lhes dar de Sesmaria toda
+a terra que estiver por dar nesta dita meia légua de Piracunopam que é a mesma data que
+foi dada ao dito seu pai, visto que o alegam E receberão mercê. Despacho do senhor
+capitão e governador: Dou aos suplicantes a meia légua de terra que pedem assim e da
+maneira que em sua petição rezam e passe-lhe, ao derradeiro dia de novembro de 1603
+//Martim de Sá//. E tudo visto pelo dito senhor capitão e governador a petição dos ditos
+suplicantes Sebastião de Sampaio e Lourenço de Sampaio, e o que pediam, visto ser
+justo e havendo respeito ao proveito que se pode seguir acerca da República e ao
+serviço de Deus e Del-Rei nosso Senhor, e para terra se povoar, lhe deu as águas que
+pedia, deu a terra que pediam e contida no dito seu despacho, conforme a ele pelas
+razões contidas na dita sua petição para aproveitarem e fazerem suas fazendas e
+benfeitorias como dizem nela, não sendo já dadas a pessoa ou pessoas primeiro, a qual
+meia légua de terra, dizem que está no dito lugar e que tem a dita medida e que partem
+pelas ditas confrontações, como em sua petição dizem, a braça pela qual se medir será a
+braça craveira, a saber: 2 varas de medir por 1 como no Reino se costuma de medir. A
+qual meia légua de terra lhes deu e concedeu em nome Del-Rei, Nosso Senhor e pela
+maneira adiante declarada, segundo forma de seu Regimento de Sua Magestade Del-Rei
+Nosso Senhor, de que o traslado é o seguinte: as terras que estiverem dentro do termo e
+limite da cidade São Sebastião que são 6 léguas para cada parte que não forem dadas as
+pessoas que lhes aproveitarem ou, posto que o fossem, e pelas pessoas a que se deram
+as não aproveitarem no tempo em que eram obrigadas por esta via ou por outra qualquer
+estiverem vagas, as poderei dar de sesmaria aquém a vós pedir e tereis lembrança que
+não dei a cada pessoa mais terra do que aquela que segundo sua possibilidade virdes e
+vos parecer que podem granjear e aproveitar. As quais terras assim dareis livremente
+sem outro algum foro, somente o dízimo a Ordem do Mestrado de nosso Senhor Jesus
+Cristo e com as condições e obrigações do Foral dado as ditas terras da minha
+
+Ordenação do Livro 4º, título das sesmarias com a condição que a pessoa ou pessoas
+residam na povoação dessa dita capitania ou das terras que lhes assim forem dadas ao
+menos 3 anos e que dentro do dito tempo não possam vender nem enlear, e se algumas
+pessoas a que forem dadas no termo da dita cidade e estiverem perdida por não
+aproveitarem e a vós tornarem a pedir, as poderei de novo dar, com as condições e
+obrigações contidas neste capítulo, o qual se transladará nas cartas, porque as assim
+derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas. Com as
+quais condições, obrigações e declarações lhes assim deu o dito senhor, capitão e
+governador a dita terra aos ditos suplicantes Sebastião de Sampaio e Lourenço de
+Sampaio, pela dita maneira guarda e segurança lhe mandou ser feita esta carta de pela
+qual manda que eles hajam posse e senhorio da dita meia légua de terra, para sempre,
+para eles e todos os seus herdeiros, sucessores ascendentes e descendestes que após
+deles vierem com a tal condição e entendimento que eles rompam, aproveitem e
+frutifiquem da data desta em 3 anos primeiro seguintes, outrossim, farão que de maneira
+que dentro de 4 meses tenha feito na dita tera algum proveito
+e plantado alguns
+mantimentos e cumpridos os 3 anos que as tenham aproveitado, como dito é (porque
+não o fazendo eles assim, passados os ditos 3 anos) se dará a dita terra que aproveitada
+não tiver de sesmaria a quem as pedir para aproveitar, e lhes serão deixados alguns
+logradouros do que aproveitado não tiverem e sobretudo pagarão 1000 réis para as obras
+do Conselho e darão pela dita terra caminhos e serventias ordenadas e necessários para
+o Conselho e para fontes, pontes, vieiras e pedreiras que necessário forem. A qual terra,
+lhes assim deu e concedeu forras e isentas sem foro nem tributo, somente de tudo que
+lhe Nosso Senhor der nela de suas novidades, lavouras e criações, pagarão o dízimos a
+Deus conforme dito regimento, o que tudo manda que se cumpram e guardem sem
+dúvida, nem embargo algum que lhe seja posto, e que esta carta seja registrada dentro
+de 1 ano nos livros da Fazenda Real como dito senhor em seu regimento manda sob as
+penas nela contidas e declaradas, e porque os sobreditos suplicantes Sebastião de
+Sampaio e Lourenço de Sampaio tudo prometeram de ter, manter e cumprir pela dita
+maneira lhe mandou o dito senhor, capitão e governador passar esta carta de sesmaria, e
+por verdade eu Pero da Costa, escrivão das sesmarias e tabelião das notas por El-Rei
+nosso Senhor, nesta cidade de São Sebastião e em seus termos, que este instrumento de
+carta de sesmaria escrevi e tomei nos livros de Notas e tombo das cartas de sesmaria
+nesta dita cidade que em meu poder estão, onde o dito instrumento fica assinado pelo
+dito senhor capitão e governador.  //Martim de Sá//
+- Fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria da terra de Lourenço de São Payo e de Sebastião de
+Sampaio em Piracunopuam
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+
+Referências:
+AN-
+Seção
+de
+documentos
+históricos
+Cod.
+778-I
+ARQUIVO
+NACIONAL. Tombo das Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 -
+1605. Rio de Janeiro, 1967. pg. 207-210. Livro Original 101v-104.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

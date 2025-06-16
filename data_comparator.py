@@ -300,12 +300,10 @@ class HistoricalDocumentAnalyzer:
             raw_data = SILBDataFetcher.fetch_catalog_data(reference)
             print("===============================")
             
-            
             if not raw_data:
                 raise ValueError(f"Dados não encontrados para {reference}")
             
             # 2. Parseia e filtra os dados
-        
             catalog_data = DataParser.parse_and_filter(raw_data)
             if not catalog_data:
                 raise ValueError("Nenhum dado relevante encontrado para análise")
@@ -314,10 +312,8 @@ class HistoricalDocumentAnalyzer:
             if not prompt_func:
                 raise ValueError(f"Prompt '{prompt_name}' não encontrado")
 
-            
             # 3. Prepara e envia para análise do GPT
             prompt = prompt_func(reference, catalog_data, document_text)
-        
             cls.save_prompt_to_txt(reference, prompt)
            
             response = GPT_CLIENT.generate_content(
@@ -325,15 +321,20 @@ class HistoricalDocumentAnalyzer:
                 user_prompt=prompt
             )
             
-           
             # 4. Processa a resposta
-            result = cls._process_gpt_response(response, reference, db_session,prompt_name)
-            
+            result = cls._process_gpt_response(response, reference, db_session, prompt_name)
+            print("============GPT RESPONSE=============")
+            print(result)
+
+            # Verifica se há erros e se o campo 'analise_geral' existe
+            erros = result.get("erros", [])
+            analise_geral = result.get("analise_geral", "")
+
             return {
                 "status": "success",
                 "reference": reference,
-                "erros_identificados": result["erros"],
-                "analise_geral": result["analise_geral"]
+                "erros_identificados": erros,
+                "analise_geral": analise_geral
             }
             
         except Exception as e:
@@ -413,30 +414,7 @@ def analyze_data(reference: str,
             "message": str(e),
             "erros_identificados": []
         }
-def is_same_date(date1: str, date2: str) -> bool:
-    """
-    Compara duas datas em formatos diferentes de forma robusta.
-    Retorna True apenas se as datas representam o mesmo dia histórico.
-    
-    Exemplos:
-    >>> is_same_date("18-12-1671", "1671-12-18")  # True
-    >>> is_same_date("18/12/1671", "18 de dezembro de 1671")  # True
-    >>> is_same_date("18-12-1671", "19-12-1671")  # False
-    >>> is_same_date("data inválida", "18-12-1671")  # False
-    """
-    try:
-        # Configuração para priorizar formato dia-mês-ano
-        dt1 = parse(date1, dayfirst=True, fuzzy=True)
-        dt2 = parse(date2, dayfirst=True, fuzzy=True)
-        
-        # Comparação dos componentes de data
-        return (dt1.day == dt2.day and 
-                dt1.month == dt2.month and 
-                dt1.year == dt2.year)
-    except (ValueError, TypeError, AttributeError):
-        # Se qualquer data for inválida ou não puder ser parseada
-        return False
-    
+
 
 class PDFDataExtractor:
     """Extrai dados estruturados diretamente do texto do PDF com validações categóricas"""

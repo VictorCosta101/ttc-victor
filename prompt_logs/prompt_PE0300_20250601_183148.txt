@@ -1,0 +1,153 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0300
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Vincente Fernandes ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "20-08-1566",
+  "Observações da sesmaria": "O suplicante requereu 400 braças de terras de comprimento e 400 braças de largura no rio Jaguaribe, para o lado da banda do norte.",
+  "Localidade": "Rio Jaguaribe",
+  "Marcos Geográficos": "Rio Jaguaribe",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0300"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0300 
+ 
+Concessão de Vicente Fernandes de 20/08/1566 
+ 
+Sesmaria de 400 braças de terra em quadra dadas a Vicente Fernandes em Jaguaribe e ato de 
+posse 
+ 
+ 
+Antônio Gonçalves, morador nesta vila, que por falecimento de seu sogro, Vicente Fernandes, 
+mestre e piloto da carreira da Índia, lhe ficou uma sorte de terra por seu falecimento no rio 
+Jaguaribe, e porque lhe é necessário o traslado de uma carta de data de sesmaria. Pede a vossa 
+mercê lhe mande dar na forma costumada. E receberá mercê. Despacho do provedor da 
+Fazenda, Gregório da Silva Almeida. Dê-se-lhe como pede. Almeida. Traslado do que se pede. 
+Duarte Coelho de Albuquerque, capitão e governador desta capitania e governança de Nova 
+Lusitânia, por ElRei, Nosso Senhor, etc. - Faço saber aos que esta minha carta de doação for 
+mostrada e o conhecimento dela com direito pertencer, como a mim me apraz e hei por bem de 
+dar e doar deste dia para todo o sempre a Vicente Fernandes, carpinteiro da ribeira, morador 
+nesta dita vila de Olinda, a terra que está de longe do rio de Jaguaribe, da banda do norte nas 
+derradeiras datas que agora ao presente estão dadas, a qual terra tem de testada de longo nas 
+derradeiras dadas 400 braças, as quais braças são craveiras de 10 palmos de vara e de comprido 
+de longo do rio outras 400 braças da mesma sorte, a qual terra parte da banda de leste com 
+terras que já estão dadas, da banda do sul com o dito rio, da banda do leste e do norte com quem 
+de direito deva partir, a qual terra será em quadra tanto de largo como de comprido, a qual terra 
+demarcada, como dito é, dou ao dito Vicente Fernandes, para ele, sua mulher, filhos, netos e 
+herdeiros ascendentes e descendentes, e para todas as pessoas que após eles vierem, para que 
+logrem a dita terra e dela e nela façam o que lhe bem vier, como de terra sua própria, que já é 
+forra, livre e isenta deste dia para todo o sempre, sem o dito Vicente Fernandes, nem seus 
+herdeiros, nem as pessoas [...] a dita terra suceder ou deles a houverem, a qual terra mando que 
+lhe seja demarcada, e terá a dita terra tanto de largo como de comprido, e porque assim me 
+aprouve de dar e doar a dita terra ao sobredito Vicente Fernandes da dita maneira, lhe mandeu 
+passar esta carta, a qual mando que se cumpra e guarde como nela se contém. Dada em esta 
+vila de Olinda, sob meu sinal e selo de minhas armas, que ante mim serve, aos 20 dias do mês 
+de agosto, João Rodrigues, escrivão, a fez no ano de 1566. Pagou estas com notas 100 réis. 
+Duarte Coelho de Albuquerque. A qual aqui, por mim, tabelião, foi registrada hoje, 25 de 
+outubro de 1566. Heitor Carvalho. Na primeira regra acima, onde diz que já é forra, livre e 
+
+isenta, deste dia para todo o sempre, há de dizer que já é deste dia para todo o sempre forra, 
+livre e isenta. O qual traslado eu, Luís Freire, escrivão das execuções da Fazenda, Alfândega e 
+Guarda dos livros dela, trasladei do Livro dos Registros de sesmarias, que está em meu poder 
+bem e fielmente, e na verdade, sem coisa que dúvida faça, e com o dito registro o consertei e 
+me assinei de meu sinal raso e costumado, e ao dito registro me reporto. Olinda, 17 de abril de 
+1626. Luís Freire. Posse que se deu por virtude desta carta. Ano do nascimento de Nosso 
+Senhor Jesus Cristo de 1626, aos 28 dias do mês de julho do dito ano, junto ao rio de Jaguaribe, 
+termo da vila de Santos Cosme e Damião, capitania de Pernambuco, partes do Brasil, onde o 
+alcaide Gonçalo Fernandes, comigo tabelião, fomos e sendo por Antônio Gonçalves, morador 
+na vila de Olinda, desta dita capitania, nos foi requerido e apresentada a carta de sesmaria junta, 
+requerendo-nos que por virtude dela lhe dessemos posse da terra conteuda na dita carta, tudo 
+na forma dela, a qual terra lhe pertence a ele, Antônio Gonçalves, por ser herdeiro do dito seu 
+sogro, Vicente Fernandes, por ser casado com com uma filha a face da Igreja, pela qual razão 
+nos fazia o dito requerimento em presença das testemunhas adiante escritas e assinadas, pelo 
+que visto pelo dito alcaide seu requerimento e carta, lha aceitou e com ela na mão disse em voz 
+alta e inteligível, se havia alguma pessoa ou pessoas que contradissesse a dita posse que queria 
+tomar o dito Antônio Gonçalves fez, tornando a dizer outras duas vezes na dita maneira, se 
+havia alguma pessoa ou pessoas que contradissessem a dita posse tomada pelo dito Antônio 
+Gonçalves por virtude da dita carta, que ele dito alcaide lhe dava que viesse dizer e requerer de 
+sua justiça, e por não haver quem contradissesse a dita posse, o dito alceide houve logo por 
+metido e investido da posse real; e atualmente, quanto de direito se requer, de hoje para todo 
+sempre, com todas as solenidades necessárias, o houve por empossado na dita forma da dita 
+terra e propriedade dela, para ele e seus filhos, herdeiros ascendentes e descendentes, que após 
+ele vierem e dele descenderem, tudo na melhor forma que se puder, em direito concedido e 
+outorgado, e pelo dito Antônio Gonçalves foi requerido a mim, tabelião, diante das ditas 
+testemunhas, que de todo o sobredito lhe fizesse e passasse ato de posse, que tomado tinha para 
+constar a todo o tempo de tudo em que foram testemunhas presentes Domingos Fernandes da 
+Costa e Manuel Ferreira, seu genro, e Antônio Vaz, Francisco Lopes, Gaspar Vaz, todos 
+estantes e moradores no dito limite e termo da dita vila, pessoas de mim, tabelião, reconhecidas 
+que assinaram, em este dito ato com o dito Antônio Gonçalves e alcaide Gonçalo Fernandes, a 
+qual posse foi tomada junto a uma casa onde mora Margarida Leite, e a uma árvore por nome 
+Piuba e junto do dito rio de Jaguaribe da banda da estrada que vai para a vila de Olinda para o 
+oeste, e eu, Pero Froes, tabelião que o escrevi. Antônio Gonçalves Fernandes. Manuel Ferreira. 
+Antônio Vaz. Francisco Lopes Pessoa. Gaspar Vaz. Petição por virtude da qual se deu esta 
+
+posse: Antônio Gonçalves, morador na vila de Olinda, que a seu sogro Vicente Fernandes, 
+piloto da carreira da Índia, lhe foi dada uma sorte de terra, conforme a carta que oferece do 
+donatário Duarte Coelho de Albuquerque , capitão e governador desta capitania, e porque a 
+terra está no termo desta vila, nos limites de Jaguaribe, lhe é necessário tomar posse dela, e 
+porque não o pode fazer sem autoridade de justiça, pelo que: Pede a vossa mercê mande por 
+seu despacho que qualquer oficial de justiça, alcaide-mor ou meirinho, com um tabelião lhe dê 
+a dita posse na forma da sua carta. E receberá justiça e mercê. Despacho do juiz, como pede. 
+Igaraçu, hoje, 26 de julho de 1626. Franco. Não se continha mais em dito documento que eu, 
+Filipe Nery Correa, tabelião do público judicial e notas da cidade de Olinda, vila do Recife e 
+seus termos, capitania de Pernambuco, por Sua Majestade Fidelíssima, que Deus guarde etc. 
+Fiz trasladar do próprio, com o qual e com o oficial abaixo assinado, este conferi e consertei, 
+vai sem coisa que dúvida faça, ao próprio me reporto que tornei a entregar ao reverendíssimo 
+padre procurador geral do mosteiro da cidade de Olinda, que aqui assinou, subscrevi e assinei 
+em público e razão de meus sinais e seguintes, aos 4 dias do mês de janeiro de 1766. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 150-151. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

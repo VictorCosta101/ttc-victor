@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0029
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0055",
+  "Nome": "Caetano Dantas Passos, João Dantas Aranha, Manuel Brás Pedroso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "16-02-1713",
+  "Data da concessão": "16-03-1713",
+  "Observações da sesmaria": "Os suplicantes requereram seis léguas de comprimento e léguas de largura no rio São Francisco, próximo ao riacho da Jacobina. As terras possuíam como limite do riacho da Jacobina, afluente do rio São Francisco, até as terras Melchior Alves Camelo e da serra do Panema até as terras de Ambrósio Aranha e Braz Soares de Passos. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio São Francisco, Riacho Jacobina, Serra do Panema ",
+  "Confrontantes": "Melchior Alves Camelo, Ambrósio Aranha e Braz Soares de Passos. ",
+  "Justificativas": "Era descobridor(a) das terras com sua fazenda; Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Pretendia criar gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes pagassem o foro de 4 mil réis por légua requerida. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0029"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0029 
+ 
+Carta de doação e sesmaria de João Dantas Aranha e outros – 16/03/1713 
+ 
+SESMARIA QUE SE PASSOU AO COMISSÁRIO GERAL DA CAVALARIA DA 
+CAPITANIA DO RIO DE SÃO FRANCISCO, JOÃO DANTAS ARANHA E MAIS SÓCIOS, 
+DE SEIS LÉGUAS DE TERRA, NAS MESMAS PARTES QUE CONFRONTAM EM SUA 
+PETIÇÃO E NA FORMA QUE PARECE AO DOUTOR PROCURADOR DA COROA E 
+PROVEDOR DA FAZENDA REAL. 
+ 
+Félix José Machado de Mendonça Eça Castro e Vasconcelos, do Conselho de Sua Majestade, senhor 
+e donatário do conselho e terras de Entre Homem e Cavado, senhor das casas de Castro, 
+Vasconcelos, Barroso e dos solares delas, alcaide-mor da Villa de Mourão, comendador e alcaide-
+mor das comendas e vilas do Casal e Seixo do Ervedal, governador de Pernambuco e mais 
+capitanias anexas e etc. Faço saber aos que esta carta de doação de sesmaria virem, que o 
+comissário da Cavalaria do Rio de São Francisco e mais sócios me representaram a petição cujo 
+teor é o seguinte: Senhor, dizem o comissário da Cavalaria do Rio de São Francisco, João Dantas 
+Aranha, o capitão Manoel Braz Pedroso e Caetano Dantas Passos, que eles tem servido a Sua 
+Majestade, que Deus guarde, assim de soldados pagos em guerra dos Palmares, como no 
+descobrimento das minas do salitre à custa de suas fazendas, e porque tem descoberto alguns pastos 
+que servem para criarem gados ao sertão do dito rio de São Francisco, no porto da folha da parte do 
+Norte pelo riacho chamado Jacobina, acima de uma e outra parte nas cabeceiras das datas de 
+Melchior Alves Camelo, para a parte da serra do Panema entre o rio ............ e Panema, e datas de 
+Ambrósio Aranha e Braz Soares de Passos e mais éreos para aquela parte, em meios de umas e 
+outras datas, correndo pelos ditos meios acima para a parte do Norte, que poderá ser seis léguas em 
+comprimento e em largura três, as quais terras se podem aproveitar para criar gados, que podem 
+redundar em muito aumento da Fazenda Real e os suplicantes tem gados e mais criações e não tem 
+pastos para os criarem; pelo que pedem a Vossa Excelência seja servido, atendendo ao que alegam e 
+ao serviço que tem feito a Sua Majestade, fazer-lhe mercê em nome do dito Senhor de lhe dar de 
+sesmaria as ditas seis léguas de terra na dita parte e na forma que são declaradas para eles e seus 
+descendentes, mandando passar provisão na forma do estilo. E receberá mercê. Informe o provedor 
+da Fazenda Real, ouvindo ao procurador da Coroa. Olinda, 16 de Fevereiro de 1713. "Rubrica". 
+Haja vista ao doutor procurador da Coroa. Recife, 10 de março de 1713. "Barros". Não tenho 
+dúvida, fazendo-se a data na forma da Ordenação Livro 4.° título 43, de léguas ordinárias e 
+singelas, e sendo na forma das novas ordens de Sua Majestade, que Deus guarde, e assento da Junta. 
+Recife, 10 de março de 1713 = "Pereira" Excelentíssimo senhor, informo a Vossa Excelência com a 
+resposta do doutor procurador da Coroa e Fazenda, com quem me conformo e Vossa Excelência 
+mandará o que for servido. Recife, 10 de janeiro digo, março de 1713. "João do Rego Barros". E 
+
+havendo, outrossim respeito ao que Sua Majestade, que Deus guarde, me concede no capítulo 15 do 
+regimento deste Governo. Hei por bem fazer-lhe mercê dar aos suplicantes acima nomeados, como 
+pela presente dou de sesmaria em nome de Sua Majestade, que Deus guarde, nos mesmos lugares, 
+partes e testadas que confrontam em sua petição, seis léguas de terra de comprido e três de largo 
+ordinárias e singelas, na forma que declara o doutor procurador da Coroa, pagando de foro por cada 
+légua quatro mil reis, e serão obrigados a povoar ditas terras no tempo de cinco anos, aliás se darão 
+por devolutas e as possuirão e gozarão ditos suplicantes e seus herdeiros, não prejudicando a 
+terceiro, com todas as suas matas, águas, campos, testadas, logradouros e mais úteis que nelas se 
+acharem, e darão pelas ditas terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e 
+mandará requerer a confirmação desta data por Sua Majestade, que Deus guarde, dentro de dois 
+anos. Pelo que ordeno a todos os ministros da Fazenda e Justiça destas capitanias a que o 
+conhecimento desta carta pertencer, lhe faça dar a posse real, efetiva e atual, na forma costumada e 
+debaixo das cláusulas referidas e das mais da Ordenação título de sesmarias, que por firmeza de 
+tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual 
+se registrará nos livros da Secretaria deste Governo e nos da Fazenda e Foral Real, e sem esta 
+precisa circunstância não terá vigor nem validade alguma a presente carta de sesmaria. Dada nesta 
+Vila do Recife de Pernambuco, em 16 de março = Lizardo Ribeiro Monção a fez = ano de 1713. O 
+secretario Antônio Barbosa de Lima a fez escrever = Félix José Machado de Mendonça Eça Castro 
+e Vasconcelos. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 186 - 188. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

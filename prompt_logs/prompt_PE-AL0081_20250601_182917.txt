@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0081
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0011",
+  "Nome": "Lourenço de Brito Correa ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-06-1660",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e três léguas de largura no rio São Francisco, nas fronteiras das terras de Jerônimo Serrão de Paiva em direção ao rio Upanema. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio Upanema",
+  "Justificativas": "Era descobridor(a) das terras; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se reservar uma légua em quadra para cada aldeia indígena que houver; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0081"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0055 
+ 
+Carta de concessão de Lourenço de Brito Correa de 22/06/1660 
+Registo de outra carta de sesmaria de Lourenço de Brito Corrêa de três léguas de terra 
+pelo rio de São Francisco acima. 
+ 
+ 
+ Francisco Barreto do Conselho de Guerra de Sua Majestade governador e capitão-general 
+deste Estado do Brasil etc. Faço saber aos que esta carta de doação, e sesmaria virem que 
+Lourenço de Brito Correa me enviou a representar de cujo teor é o seguinte. Diz Lourenço 
+de Brito Corrêa que da parte do norte do rio de São Francisco por ele acima coisa de trinta 
+léguas está uma água que se chama Upanema da qual tem Jeronimo Serrão de Paiva pelo 
+rio acima duas léguas de terras de Sesmaria, e porque no fim das ditas duas léguas de 
+Jeronimo Serrão há mais três léguas de terra devoluta pelo mesmo rio de São Francisco 
+acima rumo direito ressalvando pontes e enseadas. E ele suplicante é criador de gados, e 
+povoador do mesmo rio de São Francisco de que resulta aumentos, as rendas de Sua 
+Majestade, e ora quer de novo povoar esta sobredita terra. Pede a Vossa Senhoria lhe faça 
+mercê dar de Sesmaria por devoluta em nome de Sua Majestade três léguas de terra pelo 
+dito rio de São Francisco acima rumo direito ressalvando pontes e enseadas que 
+começarão onde acabar Jeronimo Serrão de Paiva as suas duas léguas que terá o dito 
+Ribeiro de Vianna pelo rio acima, e outrossim pede para a parte do Norte ou Nordeste, e 
+rumo que melhor lhe estiver outras três léguas para ficar esta Sesmaria em quadra visto o 
+que alega e ser benemérito de Mercê e Sesmaria que pede. E Receberá Mercê. E visto a 
+Informação que o Provedor-Mor da Fazenda Real deste Estado me fez sobre este 
+particular. Hei por bem, e lhe faço mercê em nome de Sua Majestade dar de Sesmaria 
+(como pela presente faço) de seis léguas de terra três de comprido e três em quadra assim, 
+e da maneira que pede e confrontam em sua petição com todas as suas águas, campos 
+matos testadas, e logradouros e mais úteis que nela se acharem não prejudicando a terceiro 
+tudo forro livre e isento de foro pensão ou tributo algum salvo dízimo a Deus que pagará 
+dos frutos que nela houver e por elas será obrigado, a dar caminhos livres ao conselho 
+para fontes pontes e pedreiras. E porque convém conservar os índios livres em suas 
+aldeias Hei por bem de reservar nesta data uma légua de terra em quadra a cada aldeia 
+que se compreender nela para suas lavouras, e sustento. Pelo que Ordeno a todas as 
+Justiças, e Ministros que tocar o conhecimento desta ou possa pertencer lhe mande dar a 
+posse real efetiva e atual na forma costumada debaixo das cláusulas acima referidas E as 
+manda ordenação título das sesmarias. Para firmeza do que lhe mandei passar a presente 
+sob meu sinal e selo de minhas armas, e se registara nos Livros a que tocar, e se guardará 
+e cumprirá tão pontual e inteiramente como nela se contém sem dúvida embargo nem 
+contradição alguma Antônio de Souza de Azevedo a fez nesta Cidade do Salvador Bahia 
+de todos os Santos em os dois dias do mês de junho ano de 1660. Bernardo Vieira Ravasco 
+o fiz escrever. Francisco Barreto. Registada no primeiro Livro dos Registos a que toca a 
+folhas sessenta verso Bahia e Junho 2 de 1660.  Registei esta Provisão em cinco do dito 
+mês, e ano por mandado do dito Lourenço de Brito Corrêa que ora serve de Provedor-
+Mor da Fazenda deste dito Estado. Gonçalo Pinto de Freitas. 
+ 
+- Fim da Transcrição - 
+ 
+
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 20, pp. 181-
+183. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

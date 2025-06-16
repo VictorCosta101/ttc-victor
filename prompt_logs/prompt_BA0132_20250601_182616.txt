@@ -1,0 +1,79 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0132
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gaspar Rodrigues",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "13-01-1574",
+  "Observações da sesmaria": "A sesmaria possuía 1000 braças de comprimento e 200 de largura, ao longo do mar até encontrar o rio Peruaçu. Essa sesmaria é um fragmento retirado do livro de Felisbello Freire, História territorial do Brasil, por isso não contém todas as informações de uma carta de doação completa.\r\n",
+  "Localidade": "Rio Peruaçu",
+  "Marcos Geográficos": "Rio Peruaçu",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelo procurador do donatário, P. Carneiro.",
+  "Observações das exigências": "Não foram apresentadas exigências.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0132"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Gaspar Rodrigues. Carta de 12 de maio de 1574.  
+3 mil braças nas campinas ao longo do mar em terras de Dom Álvaro da Costa, armador de Sua 
+Alteza, mil braças da parte de leste, partindo com Martins Carvalho, correndo para a ilha dos 
+franceses, e 2 mil braças para o sertão, para criação de gados e aumento de seu engenho defronte 
+o Peruassú. Deitar gado dentro de 6 meses. Foi concedida por P. Carneiro, procurador de D. 
+Álvaro. 
+ 
+Referências: 
+FREIRE, Felisbello. História territorial do Brasil. Salvador: Secretaria da Cultura e Turismo, 
+Instituto Geográfico e Histórico da Bahia, 1998, p. 17. 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

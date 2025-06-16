@@ -1,0 +1,111 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0421
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Rabelo Bandeira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "08-05-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"tem povoado o sítio chamado São Paulo com gados vacum e cavalar\".\r\n",
+  "Localidade": "Sítio São Paulo",
+  "Ribeira": "Parnaíba",
+  "Confrontantes": "Sítio Bom Jesus",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0421"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0421
+Carta de Concessão a João Rabelo Bandeira - 08/05/1728
+Agnelo Neves do Espírito Santo, chefe do Arquivo anexo à Biblioteca e Arquivo Público do
+Pará, por nomeação efetiva etc.
+Certifico, de ordem do senhor doutor diretor da Biblioteca e arquivo Público do Pará e a
+requerimento verbal do senhor doutor Bernardo Borges Pires Leal, subprocurador-geral do
+Estado do Piauí, que revendo o livro número 4 de registro de cartas de datas de sesmarias,
+arquivado nesta repartição, encontrei á folhas 55, o registro de carta concedida ao senhor João
+Rabelo Bandeira em 8 de maio de 1728 e o qual é do teor seguinte:
+Registro de outras 3 léguas de comprido e uma de largo a João Rabelo Bandeira, na
+Parnaíba.
+João da Maia da Gama etc. Faço saber aos que esta minha carta de data e sesmaria virem, que
+a mim me enviou a dizer, por sua petição, João Rabelo Bandeira, que ele tem povoado o sítio
+chamado São Paulo com gados vacum e cavalar, pegando da testada do sítio chamado Bom
+Jesus, pelo Parnaíba acima, que terá 3 léguas de comprido e uma de largo, pedindo-me fosse
+servido conceder-lhe as ditas 3 léguas, por data de sesmaria; e atendendo, eu, ao suplicante e
+ao que respondeu o provedor-mor da Fazenda Real, a quem se deu vista, e visto sua
+informação. Hei por bem, de conceder ao suplicante, 3 léguas de terra de comprido e uma
+com as mais condições expressadas nas Reais Ordens, para que o dito João Rabelo Bandeira
+as haja, logre e possua como cousa sua própria e todos os seus herdeiros, ascendentes e
+descendentes, sem pensão, nem tributo algum, mais que o dízimo a Deus, Nosso Senhor, dos
+frutos que nelas tiver. A qual concessão lhe faço não prejudicando a terceiro e reservando os
+paus reais para embarcações; e com declaração que mandará confirmar esta carta, por Sua
+Majestade, dentro de 3 anos primeiros seguintes, a que as povoará e cultivará de maneira que
+dêem frutos e lucros; e dará caminhos públicos e particulares, aonde forem necessários, para
+pontes, fontes, portos e pedreiras; e se demarcará ao tempo de posse por rumo de cordas e
+braças craveiras, como é estilo e Sua Majestade manda. E outrossim, que não poderão suceder
+nelas religiões por nenhum título, e, acontecendo possuí-las, será com a obrigação de pagarem
+dízimos e ficarão obrigados e sujeitos a todos os mais encargos que Sua Majestade, que Deus
+guarde, lhes quiser mandar impor de novo como sendo possuídas por seculares; e faltando a
+qualquer dessas cláusulas, se haverão por devolutas e se darão a quem as denunciar, como o
+dito Senhor ordena. Pelo que mando ao provedor da Fazenda Real, mais ministros e pessoas a
+que pertencer, que na forma referida e com as condições declaradas, deixem ter e possuir as
+ditas terras ao suplicante e seus herdeiros como cousa própria. Cumpram e guardem esta carta
+tão inteiramente como nela se contém e sem dúvida alguma, a qual lhe mandei passar por
+mim assinada e selada com o sinete de minhas armas, que se registrará onde tocar e se passou
+por duas vias. Dada nesta cidade de São Luís do Maranhão, 8 de maio, ano do nascimento do
+Nosso Senhor Jesus Cristo de 1728. Manoel Rodrigues Tavares, secretário do Estado, a
+subscrevi. João da Maia da Gama.
+E eu, Agnelo Neves do Espírito Santo, chefe do Arquivo Público do Estado, a fiz escrever,
+certifico e assino. Belém, 14 de agosto de 1929 // Agnelo Neves do Espírito Santo // E/E por
+mim. 28/8/1929 // A. E. Santo. visto // Martinho Pinto //
+- fim da transcrição -
+
+Referência:
+APEP, Livro 4, doc. 71, fls. 55 - 55v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

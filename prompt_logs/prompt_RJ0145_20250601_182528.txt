@@ -1,0 +1,81 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0145
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Alexandre Vidal de Pinto, Domingos de Brito",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "24-07-1723",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Da carta, pode se extrair a seguinte informação a respeito do histórico da terra: \"parte delas já foram pedidas de sesmaria por várias pessoas há 14 ou 15 anos a esta parte, sem nunca as aproveitarem e ficaram sempre devolutas\".",
+  "Localidade": "Margem esquerda do rio Guapiaçu",
+  "Marcos Geográficos": "Distrito da vila de Santo Antônio de Sá",
+  "Ribeira": "Rio Guapiaçu",
+  "Confrontantes": "Terras dos religiosos da Ordem Carmelita",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; As terras eram devolutas; Tinha escravos; Alegou possuir muitos familiares; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador, assim como pelo provedor, porém a carta não indica a data nem o nome das autoridades.\r\n",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0145"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0145
+Requerimento de Afonso de Moraes de 24 de maio de 1726
+Diz Afonso de Moraes da Fonseca, morador da vila de Paraty, que o governador da capitania
+do Rio de Janeiro, Luis Vahia Monteiro lhe fez mercê em nome de vossa magestade de lhe dar
+de sesmaria as terras que havia comprado aos herdeiros do defunto Pedro Nunes, que constam
+de uma légua,  um pouco  mais ou menos. Como tudo, teve que pedir a carta junta a qual
+deseja confirmar por Sua Magestade na forma costumada.
+[Ilegível] Magestade lhe façam mercê de lhe mandar passar nova carta de confirmação na
+forma do [ilegível].
+-Fim da transcrição-
+Observações do documento
+Título original: Requerimento de Affonso de Moraes da Fonseca, no qual pede a confirmação
+regia da sesmaria, de que se lhe fizera mercê pela seguinte carta.
+O documento apresenta o seu cabeçalho ilegível.
+Referências
+AHU_ACL_CU_017-01, Cx. 23, D. 5225
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

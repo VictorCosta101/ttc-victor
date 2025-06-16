@@ -1,0 +1,210 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0017
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0427",
+  "Nome": "Domingos Rodrigues de Diniz, Domingos Rodrigues Gomes, João Gomes Bruarte, Manuel Correa Maciel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-08-1683",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e duas léguas de largura para cada um na freguesia de Goiana, ao longo do rio Capibaribe, entre as serras de Mozotoyo e Carimaossí.  \r\n",
+  "Localidade": "Freguesia de Goaiana",
+  "Marcos Geográficos": "Serra de Mozotoyo, Serra de Carimaossí",
+  "Justificativas": "Participou da guerra contra os holandeses; Pretendia criar gado; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0017"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0017 
+ 
+Carta de concessão Domingos Rodrigues de Diniz, Domingos Rodrigues Gomes, João 
+Gomes Bruarte, Manuel Correa Maciel de 06/08/1683 
+ 
+Registro do alvará e confirmação de sesmaria que se deu em nome de sua alteza a 
+Domingos Rodrigues Dinis, Manuel Correa Maciel, Domingos Rodrigues Gomes e João 
+Gomes Bruarte de duas léguas de terra de cumprido e uma de largura nas nascenças do 
+rio Capibaribe  
+ 
+Antônio de Souza de Meneses governador e capitam-general do Estado do Brasil. Faço 
+saber aos que este alvará de confirmação e doação e de sesmaria virem que havendo 
+respeito ao que por parte do Domingos Rodrigues de Diniz e Manoel Correa Macial 
+Domingos Rodrigues Gomes, João Gomes Bruarte moradores na capitania de Itamaracá 
+se me enviou a representar por sua petição pedindo lhes fizesse mercê da confirmação da 
+sesmaria junta que o capitão-mor da dita capitania lhes concedeu em nome de Sua Alteza 
+cujo traslado autentico que ofereceram é o seguinte. Antônio Botelho da Silva capitão-
+mor e Governador desta Praça da vila de Nossa Senhora da Conceição e seu termo 
+capitania de Itamaracá por Sua Alteza etc. Faço saber aos que esta minha carta de data e 
+sesmaria e doação feita em nome de Sua Alteza virem e dela o conhecimento com direito 
+deva e haja de pertencer em como me enviaram a dizer por sua petição por escrito 
+Domingos Rodrigues Dinis, Manuel Correa Maciel, João Gomes Bruarte e Domingos 
+Rodrigues Gomes todos moradores na freguesia de Goiana do distrito desta capitania 
+alguns casados e todos com obrigação da família e escravos e com suas criações de gados 
+pagando a Sua Alteza seus dízimos reais e com alguns serviços da guerra assim próprios 
+como de seus pais e avós e outros parentes não faltando ocasiões que seus maiores e lhes 
+tem ordenado para o Real serviço sendo alguns filhos desta mesma capitania a onde 
+moram a muitos anos e por não terem terras em que lavrarem e cultuarem suas lavouras 
+e criações miúdas e seus gados fizeram grandes empenhos e despesas na entrada que com 
+muita gente fizera, ao sertão dos distritos desta capitania a descobrir novas terras e por 
+que as acharam devolutas e desaproveitadas sem [ilegível] nessa pessoa alguma que a 
+goze nem em tempo algum as povoassem nas nascenças e vertentes deste rio de 
+Capibaribe que vem dar suas correntes de água nesta dita freguesia de Goana entre as 
+serras chamadas pelos índios da terra do Mozotoyo e Carymaessu pedindo me enfim e 
+conclusão de sua petição lhes fizesse mercê dar de sesmarias em nome de Sua Alteza que 
+Deus guarde na dita paragem oito léguas de terra em quadra e por que os expugnarei os 
+pináculo e quebradas das ditas serras não davam lugar a se poder fazer a dita medição e 
+demarcação e m quadra lhes concedesse que pudessem fazer do cumprimento largura e 
+da largura cumprimento pelos rumos da agulha demarcar que as ditas serras dessem 
+melhor lugar, e a eles suplicante lhes acomodar fazer a dita demarcação e receberiam por 
+mercê segundo se continha na petição dos suplicantes a qual sendo me apresentada e por 
+mim vista nela pus e pronuncio meu despacho do teor seguinte: Que o provedor da 
+Fazenda Real desta capitania me informasse sobre o deduzido nesta petição Povoação de 
+Goiana 19 de outubro de 1682. Botelho. O qual meu despacho sendo assim dado fora pelo 
+suplicante remetida o provedor da Real Fazenda desta dita capitania o capitão Sebastião 
+Lopes Grandio proprietário do dito ofício o qual mandará por seu despacho o seguinte. 
+Que o escrivão da fazenda Real e informasse-se estavam dada as terras de que os 
+suplicantes faziam menção para melhor poder informar ao senhor capitão-mor. Vila da 
+
+Conceição e de outubro 22 de 1682. Grandio. A qual petição e despacho do provedor da 
+Fazenda sendo levada ao escrivão da Real Fazenda, proprietário o alferes Antônio Vaz o 
+qual informou ao dito provedor da maneira seguinte. Senhor provedor as terras de que os 
+suplicantes fazem menção não consta do livro do tombo, e registo desta Provedoria 
+estarem dadas e que por ser assim era de muita utilidade e acrescentamento da Fazenda 
+Real e dízimos darem se as ditas terras as pessoas que as cultive e aproveite e vossa mercê 
+informará ao senhor capitão-mor o que melhor lhe parecer por bem de seu cargo e 
+regimento vila da Conceição e de outubro 22 de 1682.  Antônio Vaz. E sendo dada a dita 
+informação pelo dito alferes Antônio Vaz Escrivão proprietário da Fazenda Real fora a 
+dita petição a pedir do dito provedor da Fazenda Real o capitão Sebastião Lopes Grandio 
+e qual pôs a sua informação do teor seguinte. Senhor capitão-mor pela informação do 
+escrivão desta Real Fazenda se declara não constar dos livros dos registros desta 
+provedoria não estarem dadas as terras que os suplicantes pedem pelo que me passou que 
+vossa mercê as [ilegível] [ilegível] suplicante para a cultivarem e tirarem lucro delas em 
+que Sua Alteza tem seus direitos Reais vossa mercê fazer o que for servido. Vila da 
+Conceição de outubro 22 de 1682 anos. Sebastião Lopes Grandio. A qual petição com as 
+ditas informações do Provedor e escrivão da Real Fazenda sendo me apresentadas e por 
+mim vistas nela pus e pronunciei o meu último despacho do teor seguinte. Que vistas as 
+informações do provedor e escrivão da Real Fazenda de Sua Alteza desta capitania se 
+passasse carta de sesmaria aos suplicantes na mesma forma que a pediam haver prejuízo 
+de terceiro para que as povoem no termo da lei esta mercê lhes faço em nome de Sua 
+Alteza em remuneração de seus serviços e despesas que fizeram em as descobrir, e ser 
+em aumento da Fazenda Real. Goiana e de outubro 26s de 1682 anos. Antônio Botelho 
+da Silva. Em virtude do qual meu despacho se passou a presente minha carta de sesmaria 
+e doação informa pela qual Hei por bem e me praz de dar e doar em nome de Sua Alteza 
+deste dias para todo sempre e aso ditos suplicantes Domingos Rodrigues Dinis e Manuel 
+Correa Maciel, João Gomes Bruarte, e Domingos Rodrigues Gomes, as ditas oito léguas 
+de terra conteúdas em sua petição atrás escrita assim e da maneira que por eles se declarar 
+entre as serras do Mozotoyo e Carimaossí e nas nascenças e vertentes deste rio Capibaribe 
+pelos rumos que as ditas terras terras de mandarem podendo fazer do cumprimento largura 
+e da largura cumprimento e até se inteirarem das ditas oito léguas de terra em quadra com 
+todos o os seus pastos matos arvores madeiras águas caminhos e serventias usos e 
+logradouros com todas as mais suas pertenças as ditas terras pertencentes para eles todos 
+quatro as gozarem e possuírem por si ou por quem lhe [ilegível] e dentro do termo da lei 
+as cultivarem para suas mulheres filhos e herdeiros ascendentes e descendentes que após 
+eles vierem e seus bens herdarem ou eles as venderem darem ou traspassarem as quais 
+oito léguas de terra em quadra lhes dou livre isentas sem terem obrigação de pagar foro 
+nem tributo algum (salvo dízimo a Deus) das quais terra o deram por si ou seus 
+procuradores tornar posse real e atual sinal e corporalmente sem embargo nem 
+contradição alguma  nas quais terras cada um deles poderão lavrar e trazer seus gados e 
+tudo mais que lhe bem estiver fazenda delas como coisa sua própria que já é e fica sendo 
+por bem desta minha carta de data e possessão real que já é e fica sendo de hoje para todo 
+sempre e mando as justiças desta capitania metam e façam meter de posse das ditas terras 
+aos ditos suplicantes na sobre dita forma e esta se registará nos livros dos Registos da 
+Real Fazenda de Sua Alteza desta capitania para se saber a todo o tempo em como tenho 
+feito esta mercê e doação das ditas terras aos ditos suplicantes em certeza do que lhe 
+mandei passar a presente carta de sesmaria por mim assinada e selada com o sinete de 
+minhas armas aos 28 dias do mês de outubro do ano do nascimento de nosso senhor Jesus 
+Cristo de 1682 e eu Francisco Estácio tabelião público do judicial e notas de propriedade 
+nesta Vila de Nossa Senhora da Conceição Capitania de Itamaracá por Sua Alteza que 
+
+Deus Guarde a fiz escrever por mandado do dito capitão-mor e a subscrevi. Antônio 
+Botelho da Silva. Estava o sinete de suas armas. Escreva a resposta do Procurador da 
+Fazenda Real que é o que se segue. A data de terras de sesmaria há de ser com execução 
+do lugar e sitio aonde há de começar e com todas as confrontações necessária até fazer o 
+número das léguas que se concedem por que com incerteza e pouca declaração do 
+princípio aonde há de começar e onde ha de finalizar tomam depois a terra que requerem 
+de que nascem demandas e discórdias entre os donatários oito léguas para quatro pessoas 
+se forem capazes de as aproveitando a tempo da lei, se darão por devolutas a quem as 
+pedirem e com as mais cláusulas costumadas. Bahia 25 de agosto de 1683. Bezerra. E a 
+informação do provedor-mor da dita real Fazenda que também é o seguinte. Senhor 
+Informo a vossa senhoria com o parecer do procurador da Fazenda Real com que me 
+conformo vossa senhoria mandará o que for servido. Bahia 26 de agosto de 1683. 
+Francisco Lamberto. Hei por bem de confirmar e dar de sesmaria como pelo presente faço 
+em nome de Sua Alteza duas léguas de terra de cumprimento e uma de largura a cada um 
+dos suplicantes não prejudicando a terceiro na parte em que as pedem e confrontam em 
+sua petição com todas as suas águas campos, matos, testadas, logradouros, e mais uteis 
+que nelas se acharem tudo foro livre isento de pensão ou tributo algum (salvo dízimos a 
+Ordem de Cristo, qual pagarão dos frutos que nelas houver) e por elas serão obrigados a 
+dar caminhos públicos a todos e a particulares para fontes 
+pontes portos e pedreiras e de as povoarem no termo da lei e regimento, de demandarem 
+certidão de como as tem povoado dentro no dito termo para se registar nos livros da 
+Fazenda Real e depois de povoadas as não poderão vender sem ordem expressa de Sua 
+Alteza. Pelo que mando a todos os ministros de justiça a que o conhecimento deste com 
+direito deva ou possa pertencer lhes façam dar a posse real, efetiva e atual se o não 
+houverem feito na forma costumada de baixo das cláusulas acima referidas e as mais da 
+Ordenação título das sesmarias e para firmeza do que lhe mandou passar a presente sob 
+meu sinal e selo de minhas a qual se registrará nos livros da secretaria deste Estado e nos 
+mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nele se contém 
+sem dúvida embargo nem contradição alguma. Dada nesta Cidade do salvador Bahia de 
+todos os santos em os 6 dias do mês de agosto ano de 1683. Antônio Garcia oficial maior 
+da secretaria deste Estado do Brasil que sirvo por impedimento do secretário dele e 
+mandado do senhor Antônio de Souza de Menezes governador e capitão-general do 
+mesmo Estado o escrevi Antônio de Souza. Selo. Registada no livro segundo dos registos 
+da Secretaria do Estado do Brasil a que tocava folhas cento e três. Bahia 26 de agosto de 
+1683. Garcia. Registe-se. Bahia 30 de agosto de 1683. Lamberto. Pantaleão Freire Porto 
+a registou em o 1º de Setembro de 1683. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 231-234 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

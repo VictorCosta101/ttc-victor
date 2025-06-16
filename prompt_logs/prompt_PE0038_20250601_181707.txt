@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0038
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0081",
+  "Nome": "Domingos Rodrigues Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "09-08-1721",
+  "Data da concessão": "19-08-1721",
+  "Observações da sesmaria": "O suplicante alegou ser possuidor de um engenho, chamando engenho do Covas, e que nas fronteiras do dito engenho estavam terras devolutas por abandono de Gonçalo Dias de Souza, que possuiu mas nunca povoou a dita terra. Desta forma, o suplicante requereu meia légua de comprimento e meia légua de largura, na freguesia de Nossa Senhora da Luz, das ditas terras adjacentes ao seu engenho. ",
+  "Localidade": "Freguesia de Nossa Senhora da Luz",
+  "Marcos Geográficos": "Engenho do Covas",
+  "Confrontantes": "Engenho do Covas",
+  "Justificativas": "Alegou possuir engenhos; Pretendia ampliar engenho; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse o foro régio e seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Dom Francisco de Sousa ordenou que o suplicante pagasse o foro de 4 mil réis por légua requerida. O governador Dom Francisco de Sousa ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Francisco de Sousa ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0038"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0038 
+ 
+Carta de doação e sesmaria de Domingos Rodrigues Pereira - 17/08/1721 
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU AO CAPITÃO DOMINGOS 
+RODRIGUES PEREIRA DE UMA SORTE DE TERRAS NAS CABECEIRAS DE SEU 
+ENGENHO. 
+ 
+Dom Francisco de Souza, do Conselho de Sua Majestade e etc. Faço saber aos que esta carta de 
+doação de sesmaria virem que o capitão Domingos Rodrigues Pereira me representou a petição cujo 
+teor é o seguinte: Senhor governador. Diz o capitão Domingos Rodrigues Pereira que ele é senhor e 
+possuídor do engenho das Covas, [situado] na freguesia de Nossa Senhora da Luz, que nas 
+cabeceiras das terras do seu engenho existe uma sorte de terras que terá meia legoa de comprido, as 
+quais se chamam as Pindobas e Tapera, onde morou Gonçalo Dias de Souza, a qual terra está 
+devoluta, sem senhor e pessoa que a domine, e por lhe ser necessária para a conservação e aumento 
+de seu engenho; pede a Vossa Senhoria lhe faça mercê conceder de sesmaria a dita sorte de terras, 
+ouvindo ao provedor da Fazenda Real e seu procurador da Coroa, para que se lhe dê a dita terra de 
+sesmaria. E receberá mercê. - Despacho - Informe o provedor da Fazenda Real, ouvindo ao doutor 
+procurador da Coroa e Fazenda. Recife, 9 de agosto de 1721 = Rubrica = Haja vista ao doutor 
+procurador da Coroa. Recife, 12 de agosto de 1721 = Barros = Não tenho dúvida, sendo a data na 
+forma da Ordenação Livro 4.° título 43, e pagando o foro costumado. Recife, 12 de agosto de 1721. 
+"Pereira". Senhor governador. Sobre este requerimento do suplicante, me ordena Vossa Senhoria 
+que o informe, ouvindo ao procurador da Coroa e da Fazenda Real, o qual responde que se lhe não 
+oferece dúvida, sendo a data na forma da Ordenação Livro 4.º título 43, e pagando o foro 
+costumado e como Sua Majestade, que Deus guarde, tem ordenado por sua real ordem de 20 de 
+janeiro do ano de 1699, que nas sesmarias que se derem de futuro, se ponha nelas a declaração de 
+pagar o dízimo a ordem de Cristo, e por carta de 17 de junho de 1711, que não sucedam nelas 
+religiosos por nenhum título, e acontecendo que sucedam e as possuam seja com este mesmo 
+encargo, visto que nesta data do suplicante se ponham estas declarações com a do foro de seis mil 
+réis por légua, como está determinado pelo assento que se fez em junta, salvo sempre o prejuízo de 
+terceiro. É o que posso informar a Vossa Senhoria, que mandará o que lhe parecer mais conveniente 
+ao serviço de Sua Majestade. Recife, 14 de agosto de 1721 - João do Rego Barros = E havendo, 
+outrossim, respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste Governo e 
+a tudo o mais que o dito senhor determina em suas reais ordens neste particular. Hei por bem fazer-
+lhe mercê dar ao suplicante acima nomeado, como pela presente dou de sesmaria em nome de Sua 
+Majestade, nos mesmos lugares, partes e testadas que confrontam em sua petição a sobredita terra, 
+em quantidade de meia légua de comprido como nela declara e pede, na mesma forma que parece 
+ao provedor e ao procurador da Coroa e Fazenda Real, com declaração e condição de pagar de foro 
+
+das ditas sortes de terras a razão de quatro mil réis por légua, na forma do assento que se tomou 
+sobre este particular e de pagar o dízimo a ordem de Cristo segundo as disposições reais, o qual 
+povoará a dita terra no tempo de cinco anos, aliás se darão por devolutas e as possuirá e gozará ele e 
+seus herdeiros, não prejudicando a terceiro, com todas as suas matas, águas, campos, testadas, 
+logradouros e mais úteis que nelas se acharem, com mais a condição que não sucederão nas ditas 
+terras religiões por nenhum título, e acontecendo que sucedam nelas e possuindo-as, seja com o 
+encargo delas se deverem e pagarem dízimos como se fossem possuídas por seculares, e faltando-se 
+a isto se haverão por devolutas, como Sua Majestade ordena por sua carta de 17 de junho do ano de 
+1711; e será obrigado a dar pela dita terra caminhos livres ao Conselho para fontes, pontes ou 
+pedreiras, e a requerer a confirmação desta data pelo dito senhor em termo de dois anos. Pelo que 
+ordeno a todos os ministros da Justiça e Fazenda destas capitanias a quem o conhecimento desta 
+carta pertencer, lhe façam dar a posse real, efetiva e atual, na forma costumada e debaixo das 
+cláusulas referidas da ordenação título de sesmarias, que por firmeza de tudo lhe mandei passar a 
+presente por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da 
+Secretaria deste Governo e nos da Fazenda e Foral Real a que tocar; e sem esta precisa 
+circunstância não terá vigor nem validade a presente carta de sesmaria. Dada nesta Villa do Recife 
+de Pernambuco, aos 19 de agosto = Manoel da Silva Rosa a fez - anno de 1721 = O secretário 
+Thomé de Matos Girão a fez escrever = Dom Francisco de Souza =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 259 - 261. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

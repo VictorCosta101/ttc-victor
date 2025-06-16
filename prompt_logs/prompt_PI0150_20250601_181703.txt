@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0150
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Margarida Soares de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-05-1727",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Acerca do histórico da terra informa que \"que ela mandou descobrir um sítio no dito riacho da Gurguéia\". ",
+  "Localidade": "um sítio no dito riacho da Gurguéia chamado o Buriti",
+  "Ribeira": "riacho do Gurguéia ",
+  "Justificativas": "Era descobridor(a) das terras; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que \"que ela mandou descobrir um sítio no dito riacho da Gurguéia chamado o Buriti, a qual povoou com gado vacum e cavalar, no qual meteu fábricas e todo o mais necessário para se poder conservar na forma que é costume\". ",
+  "Observações do deferimento e da concessão": "A carta passou pelos ministros e procurador da Fazenda Real do Piauí e procurador da Coroa e Fazenda, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Na carta de concessão também consta que \"faltando-se a qualquer destas cláusulas se haverão por devolutas e se darão a quem as denunciar\".  ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0150"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0150
+Carta de concessão a Margarida Soares de Sousa - 01/05/1727
+Carta de data passada a Margarida Soares de Sousa moradora na Capitania do
+Piauí.
+ 
+João da Maia da Gama etc. Faço saber aos que esta minha carta de data e sesmaria
+virem que a mim me enviou a dizer por sua petição Margarida Soares de Sousa,
+moradora no riacho Gurguéia da capitania do Piauí deste Estado do Maranhão que ela
+mandou descobrir um sítio no dito riacho da Gurguéia chamado o Buriti, a qual povoou
+com gado vacum e cavalar, no qual meteu fábricas e todo o mais necessário para se
+poder conservar na forma que é costume. Portanto, me pedia lhe fizesse mercê mandar
+passar carta de sesmaria na forma costumada e receberia mercê. E atendendo eu as
+razões que alegava como também ao que responderam os ministros da Fazenda Real,
+pus por meu despacho o seguinte: vistas as informações do doutor provedor da Fazenda
+Real do Piauí e do provedor desta e procurador da Coroa e Fazenda e escrivão dela
+pelos quais consta não estarem dadas as ditas terras; concedo ao suplicante 3 léguas de
+terra de comprimento e uma de largo no sítio que pede, com obrigação de pagar o foro
+ou pensão que Sua Majestade, que Deus guarde, for servido impor-lhe na confirmação e
+juntamente com obrigação de registrar não somente nesta provedoria como também na
+da Vila da Mocha, capitania do Piauí; e com as mais condições expressadas nas Reais
+Ordens. E com estas declarações se lhe passe sua carta para que as haja, logre e possua
+como coisa sua própria a todos os seus herdeiros, ascendentes e descendentes pagando
+dízimos a Deus, Nosso Senhor, dos frutos que nelas tiver, reservando os paus reais que
+nelas houver para embarcações com declaração que mandará confirmar esta carta dentro
+nos primeiros 3 anos seguintes, além dos registos costumados nesta cidade, e registrará
+dentro em 6 meses na provedoria da vila da Mocha e Piauí. E cultivará as ditas terras; e
+dará caminhos públicos e particulares aonde forem necessários para pontes, fontes
+portos e pedreiras; e se demarcará ao tempo da posse por rumo de corda e braças
+craveiras, como é estilo e Sua Majestade manda. E outrossim, não poderão nelas
+suceder religiões por nenhum título, e acontecendo possuí-las será com o encargo de
+pagarem delas dízimos a Deus, como se fossem possuídas por seculares. E faltando-se a
+qualquer destas cláusulas se haverão por devolutas e se darão a quem as denunciar,
+como o dito Senhor ordena. Pelo que mando ao doutor provedor da Fazenda Real mais
+ministros e pessoas a que tocar que na forma referida e com as condições declaradas
+deixem ter e possuir as ditas 3 léguas de terra de comprimento e uma de largura no sítio
+em que pede a dita Margarida Soares de Sousa para ela e todos os seus herdeiros,
+ascendentes e descendentes como coisa própria. Cumpram e guardem esta carta tão
+inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e selada
+com o sinete de minhas armas que se registrará onde tocar e se passou por duas vias.
+Dada nesta cidade de São Luís do Maranhão em primeiro dia do mês de maio, ano do
+nascimento
+de
+Nosso Senhor
+Jesus
+Cristo
+de
+1727.
+Manoel
+Rodrigues
+Tavares, secretário do Estado, a fez. //João da Maia da Gama//.
+- Fim da Transcrição -
+Observações:
+O nome original da sesmeira, tal como consta no documento, é Margarida Soares de
+Souza.
+
+Referência:
+APEP, Livro 3, fls. 64 - 65, Doc. 74
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

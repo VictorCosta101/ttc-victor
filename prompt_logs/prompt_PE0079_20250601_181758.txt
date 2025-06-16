@@ -1,0 +1,178 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0079
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0135",
+  "Nome": "Domingos Bezerra Cavalcante",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "14-12-1748",
+  "Data da concessão": "21-04-1749",
+  "Observações da sesmaria": "O suplicante requereu quatro léguas de comprimento e quatro léguas de largura na freguesia de Santo Amaro do Jaboatão. As primeiras duas léguas tinham por confrontações o engenho das Laranjeiras até o Gurjaú e as terras de Jerônimo Rodrigues Lima, ao sul, e as terras de Antônio Conrado Vital ao norte. E outras duas léguas ao longo do rio Jaboatão.",
+  "Localidade": "Freguesia de Santo Amaro do Jabotão",
+  "Marcos Geográficos": "Rio Jaboatão, Gurjaú",
+  "Confrontantes": "Engenho das Laranjeiras, Jerônimo Rodrigues Lima, Antônio Conrado Vital",
+  "Justificativas": "As terras eram devolutas; Pretendia pagar foro régio; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda Real, João do Rego Barros, informou ao governador que o suplicante era devedor da Fazenda Real, no valor de 192 mil réis, do foro régio não pago. O provedor determinou que a sesmaria deveria ser concedida se o foro estipulado fosse o de seis mil réis por légua concedida. ",
+  "Observações das exigências": "O governador Dom Marcos de Noronha determinou que o pagamento anual do foro régio de seis mil réis por légua concedida. O governador Dom Marcos de Noronha determinou a confirmação régia no tempo de dois anos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Caetano da Silva Pereira",
+  "referencia": "PE0079"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0079
+Carta de doação e sesmaria de Domingos Bezerra Cavalcanti - 21/04/1749
+Carta de doação e sesmaria de Domingos Bezerra Cavalcanti.
+Dom Marcos de Noronha, do Conselho de Sua Majestade, governador e capitão
+general de Pernambuco e mais capitanias anexas etc. Faço saber aos que esta carta de
+doação e sesmaria virem, que o capitão-mor Domingos Bezerra Cavalcanti me fez a
+petição do teor seguinte: — Ilustríssimo e Excelentíssimo Senhor — Diz o capitão-
+mor Domingos Bezerra Cavalcanti, senhor dos Engenhos Catende e Morenos, sítios
+nas freguesia de Santo Amaro Jaboatão, que por se acharem devolutas duas léguas de
+terras no lugar e sítio das Laranjeiras, as pediu o suplicante de sesmaria em quadro
+desde o dito lugar Engenho das Laranjeiras até onde começam no seu comprimento,
+partindo para o sul com terras do Gurjaú de cima e terras de Jeronimo Rodrigues Lima,
+e do norte com terras de Antônio Conrado Vital, e o mais com quem confrontar na
+forma da sesmaria que se lhe passou, pagando o suplicante de foro seis mil réis por
+cada légua, e por que no mesmo comprimento e quadro necessita de mais duas léguas
+que se acham devolutas e quer se lhe deem de sesmaria na mesma forma, partindo pela
+parte do nascente com engenho dos Pintos e confrontando pelo poente com terras que
+já o suplicante possui por sesmaria, e pela parte do norte e sul com os éreos com quem
+confrontar diretamente, de sorte que venha o suplicante a ficar com as duas léguas de
+sesmaria que tem e com as duas que pede, com quatro contíguas em quadro, ficando
+sempre com o rio Jaboatão em meio de quadrada forma, que se acha na primeira
+sesmaria das duas léguas e as mais que se acharem devolutas; pede a Vossa Excelência
+seja servido conceder ao suplicante as duas léguas de terra que pede de sesmaria, na
+forma da primeira que se acha concedida, de maneira de quadro, digo de maneira que
+fique com sesmaria de quatro na forma que alega. E receberá mercê. — Informe o
+provedor da Fazenda Real — Recife, 14 de dezembro de 1748 — Rubrica —
+Despacho do provedor — Informe o escrivão da Fazenda e com o que disser responda
+o doutor procurador da mesma — Barros — Senhor provedor da Fazenda Real, ao
+suplicante se deram de sesmaria duas léguas de terra, que em sua petição faz menção
+em 4 de janeiro de 1732, que em 4 de junho deste presente ano fizeram dezesseis anos,
+que a razão de seis mil réis por légua importam em cento e noventa e dois mil réis, e
+não consta que até o presente tenha pago coisa alguma, e parece deve satisfazer
+
+primeiro o que deve atrasado para poder entrar neste novo requerimento que pretende,
+para não fazer maior dívida, e é o que me parece — Vossa mercê deferirá como for de
+justiça. Recife, 20 de dezembro de 1748 — José Ferreira de Menezes, digo, da Silva
+— Senhor provedor da Fazenda Real, deve o suplicante declarar se esta terra que pede
+é a mesma do Engenho das Laranjeiras, que havia pedido por sesmaria Inácio da
+Cunha e depois a renunciou a Sua Majestade por não poder pagar o foro, e satisfeito
+protesto por visto para responder ao requerimento. Recife, 23 de dezembro de l748 -
+Caetano da Silva Pereira - Despacho do Provedor — Satisfaça o que aponta o doutor
+procurador da Fazenda e satisfeito torne ao mesmo para responder — Barros — Em
+cujo cumprimento o suplicante satisfez ao que apontaram o escrivão da Fazenda Real e
+procurador da mesma, com que responderam o seguinte — Resposta do procurador da
+Coroa — Senhor provedor da Fazenda Real, parece-me se devem dar as terras que o
+suplicante pede, pagando o foro de seis mil réis por cada légua, visto alegar que carece
+delas para as aproveitar e consta pela certidão que ajunta que Inácio da Cunha desistira,
+e posto que o escrivão da Fazenda Real diga na sua resposta que o suplicante já pedira
+duas léguas e que se achava a dever dezesseis anos, devia e devem tirar rol daqueles
+foreiros para depois com a arrecadação o que cada um deve e não ir se amontoando
+tanto em prejuízo da Fazenda Real, como dos mesmos foreiros, porque é notório que o
+suplicante tem com que pagar; e assim o requer a Vossa Mercê, que mandará o que for
+de justiça – Recife, 10 de janeiro 1749 - Caetano da Silva Pereira — Informação do
+provedor — Ilustríssimo e Excelentíssimo Senhor — Da informação do escrivão da
+Fazenda consta dever o suplicante a Sua Majestade, de terras que pediu por sesmarias,
+cento e noventa e dois mil réis, os quais devem logo por em arrecadação e cobrador
+que sejam conceder-se ao suplicante as duas léguas de terras, que de novo pretende, a
+preço de seis mil réis por cada légua, como aponta o doutor procurador da Fazenda na
+sua informação junta; é quando me parece; Vossa Excelência mandará o que for
+servido – Recife, 13 de janeiro de 1749 – João do Rego Barros – Réplica –
+Ilustríssimo e Excelentíssimo Senhor - Pelo conhecimento em forma, junto tem
+satisfeito o suplicante ao que aponta o provedor da Fazenda Real, e pela sua resposta
+se mostra estar em termos de se lhe mandar passar a carta de sesmaria das léguas de
+terra que pretende e etc. — Declare o provedor se está justamente satisfeito — Recife,
+26 de março de 1749 — Rubrica — Despacho do provedor — Torne a informar o
+escrivão da Fazenda. Recife, 28 de março de 1749 — Barros — Senhor provedor da
+Fazenda Real, o suplicante tem satisfeito o que devia, como mostra pelo conhecimento
+
+em forma junto, e em quanto as duas léguas que mais requer por sesmaria, ordena Sua
+Majestade por sua real ordem registrada nos livros desta Provedoria, que para se
+concederem léguas de terras por sesmarias, sejam ouvidas as Câmaras do distrito a que
+elas pertencerem e juntamente deve ao suplicante dar fiança idônea nesta praça, ao
+foro de seis mil réis por légua cada ano, na forma praticada; Vossa mercê mandará o
+que for servido. Recife, 2 de abril de 1749 — José Pereira da Silva — Resposta do
+provedor — Ilustríssimo e Excelentíssimo Senhor — O suplicante, pelo conhecimento
+em forma junto, mostra ter satisfeito o que devia de sesmaria, porém, para se lhe
+conceder a data que de novo pretende, se deve na forma das ordens de Sua Majestade
+ouvir as Câmaras, em cujo distrito se acham as terras que o suplicante requer e dando
+o suplicante fiança idônea ao foro de seis mil réis por légua cada um ano; está em
+termos o seu requerimento de se lhe deferir; Vossa Excelência mandará o que for
+servido. - Recife, 2 de abril de 1749 — João do Rego Barros — Responda a Câmara
+do distrito. Recife, 2 de abril de 1749 - Rubrica - Resposta da Câmara — Ilustríssimo e
+Excelentíssimo Senhor — A vista dos documentos juntos, não se nos oferece dúvida a
+que se conceda ao suplicante Domingos Bezerra Cavalcanti a sesmaria das duas léguas
+de terras, faz menção em sua petição não prejudicando a terceiro; Vossa Excelência
+mandará o que for servido, com a retidão e justiça que costuma — Olinda, 16 de abril
+de 1749. E eu, José de Tavares de Mendonça, escrivão da Câmara a escrevi —
+Antônio Borges Uchoa — Bento Barboaa Cordeiro — Manoel Bezerra Monteiro —
+Passe carta de sesmaria — Recife, 18 de abril de 1749 — Rubrica — Em cujo
+cumprimento, na forma do capítulo 15 do Regimento deste Governo. Hei por bem dar
+de sesmaria em nome de Sua Majestade ao suplicante as duas léguas de terras,
+contidas e confrontadas na sua petição na forma que nela se requer, com obrigação por
+me pagar o foro de seis mil réis, como diz o provedor, a qual povoará em tempo de
+cinco anos, sob pena de se darem por devolutas; e as possuirá como suas que são e
+ficam sendo para seus herdeiros, com todas as suas pertenças, matas, águas, fontes,
+campos, rios, testadas, logradouros e mais úteis que nelas se acharem e elas
+compreenderem, não lhe sucedendo por título algum nelas religiões por, digo religiões,
+salvo pagando todos os encargos e foros como os seculares, e assim mais será
+obrigado a dar caminhos livres ao Conselho para fontes, pontes e pedreiras, e a
+requerer confirmação no termo de dois anos por Sua Majestade, pelo que ordeno aos
+ministros e pessoas a que tocar, lhe façam dar posse na forma do estilo, em firmeza do
+que lhe mandei passar a presente por mim assinada e selada com o sinete de minhas
+
+armas, que se registrará nos livros da Secretaria deste Governo e Provedoria Geral. -
+Manoel Coelho de Souza a fez no Recife de Pernambuco, a 21 de abril de 1749 = Dom
+Marcos de Noronha —.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 64 - 68.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,113 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0282
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0420",
+  "Nome": "Domingos da Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-05-1673",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Una, na fronteira das terras do padre vigário de Goaina Estevão Ribeiro da Silveira.",
+  "Localidade": "Rio Una",
+  "Confrontantes": "Estevão Ribeiro da Silveira",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alegou que havia recebido a doação da sesmaria pelo capitão-mor da Paraíba Afonso de França e que havia perdido os títulos na época da invasão holandesa. Por estas razões, requeria novamente a concessão da sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "referencia": "PE0282"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0282 
+ 
+Carta de concessão Domingos da Rocha de 13/05/1673 
+Registo de uma sesmaria de uma data de terra no Paraíba confirmada pelo senhor 
+Governador a Domingos da Rocha 
+ 
+Afonso Furtado de Castro do Rio de Mendonça etc. Faço saber aos que este alvará de 
+doação e sesmaria virem que Domingos da Rocha morador na capitania da Paraíba me 
+enviou a representar por sua petição cujo teor é o seguinte. Senhor. Domingos da Rocha 
+morador na capitania da Paraíba que ele tem um sorte de terra de uma légua em quadra 
+pelo rio de Una abaixo por uma e outra banda cortando de sul para o norte, na testada do 
+padre vigário de Goiana Estevão Ribeiro da Silveira a qual data de terra lhe foi dada pelo 
+capitão-mor da capitania da Paraíba Affonso da França, ele suplicante a está possuindo a 
+trinta e tantos anos e porque no tempo que o inimigo holandês assenhoreou com a 
+capitania de Pernambuco se lhe perderão os títulos da dita terra de que tem posse tomado 
+e o capitão-mor da dita capitania Inácio Coelho da Silva lhe retificou a dita data em nome 
+de Sua Alteza. Pede a vossa senhoria lhe faça mercê mandar confirma a dita légua de terra 
+que possui. E recebera mercê. Vista a informação do provedor-mor da Fazenda Real deste 
+Estado que é a que se segue = Senhor o suplicante pede a confirmação de uma légua de 
+terra em quadra, que diz possui a mais de trinta anos e lhe deve de sesmaria e capitão-
+mor da capitania da Paraíba por dizer se lhe davam perdido os títulos quando o inimigo 
+ocupou pese que se lhe pede conceder a confirmação não sendo em prejuízo de terceiro 
+por quanto está de posse o suplicante e ninguém o contradiz vossa senhoria mandará o 
+que for servido Bahia e maio 13 de 1673. Antônio Lopes de Ulhôa. Hei por bem de lhe 
+conceder como pela presente faço em nome de Sua Alteza a légua de terra na forma que 
+parece ao provedor-mor da Fazenda Real e da maneira que lhe deve o capitão-mor da 
+capitania da Paraíba e a pede e confronta em sua petição não prejudicando a terceiro com 
+todas suas águas, campos, matos, testadas, logradouros e mais úteis que nela se acharem 
+tudo foro livre e isento de pensão de tributo algum salvo Dizimo a Deus que a pagará dos 
+frutos que nelas houver e por elas serão obrigados a dar caminhos livres ao concelho para 
+fontes, pontes, pedreiras com declaração que povoará a dita terra no termo da lei alias 
+ficará devoluta para quem de novo as pedir e a possuirá na conformidade da posse que 
+tomou para firmeza do que mandei passar a presente sub meu sinal e selo de minhas armas 
+a qual se registrará nos livros da secretaria do Estado e nos mais a que tocar, e se guardará 
+e cumprirá tão pontual e inteiramente como nela se contém sem dúvida embargo nem 
+contradição alguma. Antônio Garcia a fez nesta cidade do Salvador Bahia de Todos os 
+Santos em os 13 dias do mês de maio ano de 1673. Bernardo Vieira Ravasco a fez 
+escrever. Afonso Furtado de Castro do Rio de Mendonça Registrado no livro Segundo 
+dos Registos da Secretaria deste Estado do Brasil a que toca folhas cento cinquenta e 
+umas Bahia e maio 15 de 1673. Antônio Lopes de Ulhôa registou-se em quinze do dito 
+neste ano. Miguel Pinto de Freitas 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 19v-20 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

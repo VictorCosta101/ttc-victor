@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0048
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Bento da Silveira Gato",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-09-1674",
+  "Observações da sesmaria": "A sesmaria possuía seis léguas quadradas e estava localizada na serra do Guairiru.",
+  "Localidade": "Serra do Guairiru",
+  "Marcos Geográficos": "Serra do Guairiru",
+  "Observações da petição": "O sesmeiro, de princípio, tinha solicitado três léguas em quadra na serra do Guairiru e mais três léguas em quadra nos Campos Largos, mas depois enviou uma réplica pedindo para receber terras apenas na serra do Guairiru, com seis léguas em quadra.",
+  "Justificativas": "Não tinha terras; Participou da conquista da Capitania com sua fazenda; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que as seis léguas em quadra que o suplicante solicitava era contra o regimento e que ele não iria conseguir aproveitá-las e que, por isso, deveriam ser concedidas duas ou três léguas em quadra. O provedor da Fazenda afirmou que poderiam ser concedidas três léguas totais e não em quadra, para as duas sesmarias que o suplicante pediu originalmente. Como depois o suplicante afirmou que não queria mais as duas sesmarias, mas apenas uma, o governador-geral decidiu conceder seis léguas quadradas, sem especificar o comprimento e a largura.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0048"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de sesmaria de 6 léguas de terra da medida ordinária concedidas ao padre 
+Bento da Silveira Gato, clérigo do hábito de São Pedro todas na serra do Gairarú. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem, que o padre Bento da Silveira Gato me representou por sua petição cujo teor é 
+o seguinte: Senhor, o padre Bento da Silveira Gato, clérigo do hábito de São Pedro, que ele 
+acompanhou na primeira entrada do sertão ao governador da conquista e tem gasto muito de 
+sua fazenda na dita entrada, atualmente o esteve fazendo na segunda e terceira que se fez ao 
+dito gentio, dando algum sustento a dita gente e ultimamente comboiando com escravos seus e 
+cavalos e porque na serra do Guairurú estão terras devolutas para a parte do sul que ainda não 
+foram dadas e nos campos largos estão também terras devolutas. Pede a Vossa Senhoria lhe faça 
+mercê conceder de Sesmaria em nome de Sua Alteza 3 léguas de terra em quadra em cada parte, 
+começando da última data que até hoje estiver dada. E receberá mercê. E visto a resposta do 
+procurador da Fazenda Real que é o seguinte: parece que o suplicante pede 6 léguas de terra em 
+quadra, como se colhe da petição que não tem lugar, porque estas 6 em quadras multiplicadas 
+são 36, que é muito grande excesso e além de se não poder aproveitar no termo da lei, o proíbe 
+o regimento e assim só 2 ou 3 léguas em quadra se devem conceder ao suplicante e visto as 
+razões que alega, obrigando-se a aproveitá-las no termo da lei e sem prejuízo de terceiro. Bahia, 
+27 de outubro de 1673 // Rocha // Informação do provedor-mor da dita Real Fazenda que é o 
+que se segue: Senhor, ao suplicante me parece que se pode conceder 3 léguas de terra na serra 
+do Guairurú para a parte do sul como aponta e nos campos largos, outras 3 mas não em quadra, 
+parece se deve tirar este título de que todos querem terras em quadra, que fazem uma grande 
+soma e assim se deve declarar na carta, que são somente 6 léguas e não em quadra e que sejam 
+com as condições do Regimento e Foral, sem prejuízo de terceiro. Vossa Senhoria mandará o 
+que for servido. Bahia, 31 de outubro de 1673// Antônio Lopes de Ulhôa // E a réplica que o 
+impetrante fez, que é o seguinte: A terra o suplicante pede a Vossa Senhoria que lhe conceda de 
+Sesmaria, é a que Vossa Senhoria for servido, na parte da Serra do Gairarú e que seja nesta parte 
+toda unida e desiste da pretensão dos campos largos, como pede na sua petição, porque se lhe 
+houvera de conceder neste lugar. Pede a Vossa Senhoria lhe dê naquela serra Gairarú. E receberá 
+Mercê. Tornando a informar o provedor-mor e respondeu o seguinte: Senhor, entendo que não 
+pode haver dúvida em que as 6 léguas de terra que se concedam todas juntas em uma parte ao 
+suplicante, não sendo em prejuízo de terceiro. Vossa Senhoria mandará o que for servido. Bahia, 
+3 de setembro de 1674 //Antônio Lopes de Ulhôa // Hei por bem de lhe conceder como pelo 
+presente faço em nome de Sua Alteza 6 léguas de terra da medida ordinária na Serra do Gairarú 
+na parte que a pede em sua petição e declara na sua réplica, como parece ao provedor-mor da 
+Fazenda Real, não prejudicando a terceiro, nem as terras que se determinou tivessem as 
+povoações que de novo se fizessem para se darem a seus povoadores, com todas suas águas, 
+campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre, isento 
+de pensão ou tributo algum, salvo dízimo a Deus que pagará dos frutos que nelas houverem e 
+por elas será obrigado a dar caminhos livres ao Conselho para fontes, pontes e pedreiras  e 
+povoá-las no termo da Lei e Regimento, pois nesta conformidade lhes concedo. Pelo que ordeno 
+e mando a todos os ministros de justiça a que conhecimento deste com direito deva ou possa 
+pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada, debaixo das cláusulas 
+acima referidas e as mais da ordenação título das Sesmarias, para firmeza do que lhe mandei 
+passar a presente sob meu sinal e selo de minhas armas, o qual se registrará nos livros da 
+Secretaria do Estado e nos mais a que tocar e se guardará e cumprirá, tão pontual e inteiramente 
+como nele se contém, sem dúvida, embargo, nem contradição alguma // Antônio Garcia o fez 
+nesta Cidade do Salvador, Bahia de todos os Santos no dia 6 do mês de setembro, ano de 1674 
+
+// Bernardo Vieira Ravasco a fiz escrever // Afonso Furtado de Castro do Rio de Mendonça // 
+Registrada no terceiro livro de registros da Secretaria do Estado do Brasil a que toca a folhas 
+19, verso. Bahia, 4 de setembro de 1674 // Ravasco // Despacho do provedor-mor, cumpra-se e 
+registre-se como Sua Alteza manda. Bahia, 4 de setembro de 1674 // Antônio Lopes de Ulhôa 
+// Registrou-se em 5 de junho de 1675 anos e se entregou ao ajudante da terra João Domingues, 
+que as deu a registrar // José Moreira de Azevedo // Registro. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Observações: 
+ 
+- O nome do suplicante no documento original consta como: “Bento da Silveira Gato” 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 90v - 91v 
+Numeração original no livro: 77 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

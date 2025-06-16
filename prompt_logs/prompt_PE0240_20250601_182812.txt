@@ -1,0 +1,83 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0240
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0240",
+  "Nome": "Alexandre Salgado Acioli Teixeira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-07-1785",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de Sirinháem, em torno do sítio Duartes na fronteira das terras do capitão Filipe Duarte Ribeiro.",
+  "Localidade": "Freguesia de Sirinháem ",
+  "Marcos Geográficos": "Sítio Duartes",
+  "Confrontantes": "Filipe Duarte Ribeiro",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0240"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0240
+Carta de concessão de Alexandre Salgado Acioli Teixeira de 08/07/1785
+A sesmaria de uma légua de terra em quadra, na freguesia de Sirinhaém, no sítio
+denominado dos Duartes, fazendo pião no mesmo sítio pela parte do nascente, sem éreo
+algum confinante, e pela parte do poente com o sítio do capitão Felipe Ribeiro,
+concedida em 8 de julho de 1785 a Alexandre Salgado Acioli Teixeira e seus herdeiros
+ascendentes e descendentes, pelo capitão-general José César de Menezes, com o foro
+anual de 6 mil réis, como determina a citada Real Ordem, e sem que possa passar a
+religiões ou outras pessoas eclesiásticas, se não com os mesmos encargos, por que
+possuem os seculares, sem poder dividir-se ou partir, como dispõe a citada ordenação,
+deixou de pertencer ao dito sesmeiro; por isso que passou a ser possuidor dela o
+sargento-mor João Afonso Rigueira, como se acha declarado a margem do livro: -
+“Pertence esta sesmaria ao sargento-mor João Afonso Rigueira, e prestou fiança ao foro
+respectivo, a folha 130 do livro 5º”. c/c. no livro 7º a folha 73.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 82.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

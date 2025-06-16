@@ -1,0 +1,81 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0236
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0309",
+  "Nome": "Antônio Cavalcante de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "27-01-1785",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Una, sendo meia légua de largura para cada lado do rio, do riacho Piranguizinho  até as terras de Antônio Francisco de Arruda (PE 0129).",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Rio Una, Riacho do Piranguizinho ",
+  "Confrontantes": "Antônio Francisco de Arruda",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "\tEsta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0236"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0236
+Carta de concessão de Antônio Cavalcante de Araújo de 27/01/1785
+Sesmaria de uma légua de terra em quadra, pelo rio de Una acima, no lugar chamado o riacho
+do Piranguizinho, pegando das testadas de Antônio Francisco de Arruda, até completar a
+referida légua, fazendo pião no mesmo riacho, com meia légua para cada parte do dito,
+correndo rumo norte e sul, concedida em 27 de janeiro de 1785 a Antônio Cavalcante de
+Araújo e seus herdeiros ascendentes e descendentes, pelo capitão-general José César de
+Menezes, com o foro anual de 6 mil réis por légua, visto ser uma das mais próximas a
+Marinha, como determina a citada Real Ordem; a qual além de não poder passar a religiões ou
+pessoas eclesiásticas por título algum, se não com os mesmos encargos, por que possuem os
+seculares, não pode ser dividida ou partida, como dispõe a citada ordenação livro 4 título 96 §
+43. c/c no livro 7º folha 9.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE EDUCACAO
+E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 80-81.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

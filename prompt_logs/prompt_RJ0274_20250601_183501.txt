@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0274
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Francisco de Torres",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-12-1737",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na freguesia chamada Itapecu",
+  "Ribeira": "Rio do Couto",
+  "Confrontantes": "Terras do capitão Lousada, caminho das Minas",
+  "Justificativas": "Esperava evitar contendas; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também ao suplicante que caso não cultivasse as terras, se dariam as mesmas a quem pudesse aproveitá-las, conforme Ordem de 22/10/1698. Da mesma forma, exigiu-se que no caso de se notificar as pessoas com quem confronta, que o fizesse \"com citação também da pessoa ou pessoas a quem primeiro foram dados os sobejos que pede\". Igualmente, exigiu-se que fosse obrigado a \"a fazer os caminhos de sua testada [fazendo pontes e estivas] onde necessário for, e descobrindo-se nelas rio caudaloso que necessita barca para se atravessar, ficará reservado de uma margem dele para ficar em público (ilegível) a proporção da que se lhe (ilegível)\". Por último, mandou-se reservar os paus reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0274"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0274
+Carta de concessão de Manuel Francisco Torres de 19 de dezembro de 1737
+Matias Coelho de Sousa, mestre de campo de um dos terços da guarnição desta praça, cujo
+cargo está o governo do Rio de Janeiro e suas capitanias, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manuel Francisco de Torres, morador na freguesia do Pilar, termo desta cidade,
+que junto ao rio do [Couto], da mesma freguesia a que chamam Itapecu, caminho que vai para
+as minas pelo dito rio (ilegível) a mão esquerda, se acham uns (ilegível) devolutos,
+principiando de onde acabam as terras do capitão (ilegível) Lousada, até chegar ao (ilegível)
+aos oficiais da Câmara desta vila, provedores da Fazenda Real e Procurador da Coroa dela, as
+quais se não ofereceu dúvida, sendo a data na forma das ordens de Sua Majestade. Hei por
+bem fazer mercê, em nome do mesmo Senhor, por sesmaria ao dito Manuel Francisco Torres
+os sobejos de terras devolutas, com as confrontações acima expressadas; com declaração que
+não excederá estes sobejos em [1] légua em quadra, na forma das ordens de Sua Majestade;
+não tendo [o suplicante data alguma que] (ilegível) em caminho de minas; não estando a data
+possuídas de pessoa alguma; sem prejuízo de terceito ou [do direito que algumas pessoas
+possam ter nelas; com delacaração que as cultivará e mandará confirmar por Sua Majestade
+dentro de 2] anos, e não o fazendo se lhe denegará mais tempo; não cultivando as ditas terras
+se poderão dar por devolutas as quem as aproveite na forma da Ordem de Sua Majestade de
+22 de outubro de 1698; antes de tomar posse delas, as fará medir e demarcar judicialmente,
+sendo para este efeito notificadas as pessoas com quem confrontar, com citação também da
+pessoa ou pessoas a quem primeiro foram dados os sobejos que pede; será obrigado a fazer os
+caminhos de sua testada [fazendo pontes e estivas] onde necessário for, e descobrindo-se nelas
+rio caudaloso que necessita barca para se atravessar, ficará reservado de uma margem dele
+para ficar em público (ilegível) a proporção da que se lhe (ilegível); não poderá suceder em
+tempo algum pessoas eclesiástivas ou religião, e sucedendo [será com encargo de pagar
+dízimos e outro qualquer que Sua Majestade for servido impuser lhe de novo, e não os
+pagando se poderão dar a quem as pagar]; como também sendo o mesmo Senhor servido
+mandar funda no distrito dela alguma vila o poderá fazer ficando estas livres, sem encargo
+algum ou pensão para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer
+gênero de metal que nas ditas terras se descobrir, reservando também os paus Reais; e
+faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade ou as
+que dispõem a Lei Foral das Sesmarias, ficará privado delas. Pelo que mando ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito Manuel Francisco
+
+Torres da referida meia légua de terras na forma acima declarada, mostrando primeiro estarem
+medidas e demarcadas e não se oferecendo dúvida aos (ilegível). E por firmeza de tudo, lhe
+mandei passar a presente por mim assinada e selada com o sinete de minhas armas , que se
+cumprirá inteiramente como nela se contém, se registrará nos Livros da Secretaria deste
+governo e nos da Fazenda Real dentro do tempo declardado no regimento debaixo da pena
+dele cuminada e nos mais a que tocar. [Dada] nesta cidade de São Sebastião do Rio de
+Janeiro. Pedro Fagundes Varela, oficial da Secretaria, a fez aos 19 dias do mês de dezembro
+de 1737. O secretário, [Antônio Ferreira da Fonte, a fez escrever].
+//Matias Coelho de Sousa//
+Carta porque Vossa Excelência há por bem fazer mercê a Manuel Francisco Torres de lhe dar
+meia légua de terras em quadra no Caminho das Minas, freguesia do Pilar, com (ilegível).
+(Ilegível)
+Registrada no Livro 1° do Tombo das Sesmarias a folha 31. Rio de Janeiro, 29 de (ilegível)
+//Francisco Xavier da Silva//
+Registrada nos Livros 21° do [registro] da Provedoria, folha [3]. Rio, 15 de janeiro de 1738.
+//(ilegível)//
+O doutor João Soares Tavares, cavaleiro professo na Ordem de Cristo do desembargo de Sua
+Majestade, seu ouvidor geral, corregedor da comarca nesta cidade do Rio de Janeiro e nas
+mais capitanias de sua repartição, juiz das justificações, etc. Aos que a presente certidão de
+justificação virem, faço saber que a mim me contou por fé do escrivão de meu cargo, que esta
+sobscreveu, ser a letra da subscrição da carta de sesmaria retro do secretário deste governo,
+José Ferreira da Fonte, e a firma parte ao pé dela do mestre de campo Matias Coelho de
+Sousa, cujo cargo está o governo desta capitania, e nesta, digo, e na mesma forma [as] firmas
+das certidões dos registros serem do tabelião Francisco Xavier da Silva e do escrivão da
+Fazenda Real Joé Inácio Soares. O hei por justificado e verdadeiro. Rio de Janeiro, 16 de
+janeiro de 1738 anos.
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Francisco Torres uma légua de terras, em quadra, no caminho das minas e freguesia
+do Pilar, com as confrontações descritas na mesma carta. Rio de Janeiro, 19 de dezembro de
+1737.
+
+Referência:
+AHU_ACL_CU_017-1, Cx. 46\Doc. 10773
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

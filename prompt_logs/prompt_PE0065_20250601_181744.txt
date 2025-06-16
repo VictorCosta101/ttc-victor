@@ -1,0 +1,149 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0065
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0121",
+  "Nome": "Miguel Dias do Rosário",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "23-01-1732",
+  "Observações da sesmaria": "O sesmeiro requereu duas braças de comprimento e doze braças de largura na vila do Recife, na rua da Senzala, no beco do Matacalombó, próximo a praia. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Beco do Matacalambó, Praia, Rua da Senzala",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alegou pagar aforamento ao padre Augusto de Ovis pelos terrenos. Com o avanço das marés, no entanto, o suplicante construiu benfeitorias e aterrou terreno para não prejudicar a construção da sua casa. E por estas razões requereu a concessão da terra com pagamento de foro a Fazenda Real.",
+  "Observações do deferimento e da concessão": "O governador solicitou o parecer do tenente-general Diogo Silveira Veloso sobre a construção das casas na região das praias, por ser território realengo. ",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento do foro régio no valor de 1410 réis anuais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0065"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0065
+Carta de doação e sesmaria de Miguel Dias Ribeiro - 23/01/1732
+Sesmaria de 23 palmos de chãos dados a Miguel Dias Ribeiro, sargento-mor dos
+Henriques, na senzala do Recife
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de
+Sua Majestade, que Deus guarde, governador e capitão-general de Pernambuco e mais
+capitanias anexas e etc. Faço saber aos que esta carta de doação e sesmaria virem, que a
+mim se me representou a petição do teor seguinte: Excelentíssimo senhor. Diz Miguel
+Dias do Rosário, que pelos despachos juntos, digo, do Rosário, sargento do terço dos
+Henriques, casado e morador nesta praça do Recife, que ele senhor e possuidor de umas
+terras de taipa situadas no beco chamado do Matacalombó, na rua da Senzala, por
+aforamento que fez dos chãos do reverendo padre Augusto de Ovis, na fronteira das
+casas do seu patrimônio, de 12 braças de fundo e 22 palmos de fronteira, e para poder
+fabricar as ditas casas, lhe foi necessário fazer o aterro a sua custa, por ser praia onde
+batia a maré e por estarem caindo e muito danificadas do tempo, fez a petição junta ao
+Senado da Câmara desta Vila, pedindo-lhe licença para as poder consertar, não lhe
+bolindo nas soleiras, nem nelas fazer coisa alguma de novidades, e lhe poderam por
+despacho, recorresse a Vossa Excelência, como dele se mostra dizendo, faça novo
+arrendamento de foro, a que se lhe não oferece dúvida, termos em que — Pede a Vossa
+Excelência faça mercê, atendendo ao referido e pobreza do suplicante mandar que se lhe
+conceda licença que pede, fazendo novo arrendamento de foro, sendo este moderado por
+ele suplicante ter feito todo o aterro a sua custa nas ditas terras, sendo praia para poder
+fazer as ditas casas que a petição faz menção = E receberá mercê = E sendo por mim
+visto a dita petição, mandei que informasse o tenente-general Diogo da Silveira Veloso,
+por despacho de 26 de novembro de 1711 — o qual respondeu que para melhor
+informar, fora ver os chãos de que se trata e achara terem 22 palmos de fundos, digo, de
+frente e 120 de fundo, em terreno que mostrava haver-se entulhado e lhe parecia serem
+realengos e se deviam aforar para a Fazenda Real, com a qual resposta mandei que
+informasse o provedor da Fazenda Real, por despacho de 29 de novembro de 1731 = o
+qual respondeu que informando-se de algumas pessoas, achara que naquilo que foi
+realengo e entulhou o povo se fizeram as casas do suplicante, como me havia informado
+o tenente-general e todas as mais que correm senha direita desde o porto chamado
+
+Matacolombó até o das Canoas, que tudo tem entulhado o povo com muita continuação,
+depois que o Senado da Câmara proibira por editais que o entulho se não lançasse para a
+parte do mar, e agora com maior efeito, depois que eu assim o mandei publicar por
+bando, pela qual razão lhe parecia que não só o suplicante devia pagar foro a Fazenda
+Real, se não também os senhores de todas as casas que estão feitas no que foi realengo,
+correndo em direitura de um para outro lugar, sem que se aproveitem da má posse que
+tem tomado do que se entulhou e vai entulhando, ao que eu devia mandar aplicar o
+remédio conveniente —. E com esta resposta mandei ouvir ao procurador da Fazenda,
+que respondeu que o seu o sítio e o lugar em que o suplicante pretende edificar casas
+realengo e deve pagar foro a Sua Majestade, não só o suplicante mas os mais que na dita
+praia tem edificado e forem edificando, era sem dúvida nem controvérsia, e que só lhe
+parecia se devia usar de ação ordinária contra aqueles que já tinham edificado e que o
+suplicante e outros que quiserem edificar se lhes proibira o fazê-lo, em quanto se não
+aforarem na provedoria e requerendo-me o suplicante por petição que a vista dos
+despachos juntos e resposta do tenente-general, provedor da Fazenda e procurador dela,
+ainda que este diga para as casas feitas, era necessário usar de ação ordinária e o
+suplicante se queira livrar de contendas e gastos e demoras, me pedia fosse servido
+mandar por meu despacho que o provedor da Fazenda Real lhe mandasse passar papel
+de foro dos chãos que ocupa, e logo mandei que o tenente-general fizesse medição dos
+palmos que o suplicante pedia, declarando o preço que lhe pareça justo que o suplicante
+devia pagar a Fazenda Real cada ano por despacho de 25 de dezembro de 1731, o qual
+respondeu que fazendo a tal medição achara terem os ditos chãos na frente 231/2 palmos
+e de fundo 105, e que lhe parecia segundo o sítio que devia pagar a razão de 60 réis o
+palmo, que vinha a importar 1.410. E mandando ouvir o provedor da Fazenda Real, por
+despacho de 19 de dezembro, respondeu que como aquele realengo era dentro do Recife,
+lhe parecia razoável o foro que arbitrara o tenente-general, o que tudo visto mandou que
+se passasse carta de sesmaria a 60 réis por palmo de foro por ano, que principiará em dia
+de São João que vem em diante, em cuja observância — Hei por bem dar de sesmaria ao
+dito Miguel Dias do Rosario os ditos chãos de 23 palmos e meio de frente e 105 de
+fundo, com obrigação de pagar a 60 réis por palmo cada um ano, que importam 1:410
+réis, que se carregaram em receita por lembrança na provedoria da Fazenda Real, os
+quais chãos logrará ele e seus herdeiros, com todas suas pertenças e logradouros,
+começando a vencer o dito foro do dia de São João que vem em diante. Pelo que ordeno
+aos ministros da Justiça e Fazenda a que tocar, lhe façam dar posse real, efetiva e atual;
+
+que por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, que se registrará nos livros da Secretaria deste Governo e nos
+da Fazenda Real = Dada nesta praça do Recife de Pernambuco, em os 23 de janeiro —
+Bento Soares Pereira a fez — no ano de 1732 — O Secretário José Duarte Cardoso a fez
+escrever — Duarte Sodré Pereira Tibão.
+- Fim da carta -
+Referência:
+Documentação
+Histórica
+Pernambucana.
+Recife:
+Imprensa
+Oficial,
+1954.v.2.pp.11-14.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

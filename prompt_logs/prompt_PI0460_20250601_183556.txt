@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0460
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Ana de Azevedo Vilas Boas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-05-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"tem povoado o sítio que se chama São Caetano\".\r\n ",
+  "Localidade": "Sítio São Caetano",
+  "Marcos Geográficos": "Lagoa de Baixo",
+  "Ribeira": "Longá",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Apresentou-se como indígena; Pretendia aumentar as rendas reais; Não possuía as terras com justo título; Pretendia fazer curral; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Determinou-se também que a sesmeira deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0460"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0460
+Carta de Concessão a Ana de Azevedo Vilas Boas - 07/05/1728
+Registro de uma carta de data de 3 léguas de terra de comprimento e uma de largo à
+dona Ana de Azevedo Vilas boas Como nela se declara
+ 
+João da Maia da Gama, do Conselho de Sua Majestade, que Deus guarde etc. Faço saber aos
+que esta minha carta de data de sesmaria virem, que a mim me enviou a dizer por sua
+petição, dona Ana de Azevedo Vilas Boas, que ela tem povoado o sítio que se chama
+São Caetano, que corre pelo rio Longá abaixo [principiando da lagoa de [Baixo] e porque não
+tem data dele e carece de 3 léguas de terras e uma de largura, que é a quantidade que terá
+o dito sítio. Pedindo-me fosse servido de conceder por data de sesmaria e atendendo eu
+a suplicante; e ao que respondeu o provedor-mor da Fazenda Real, a quem se deu vista e ser
+em utilidade da Real Fazenda. Hei por bem, de conceder a suplicante 3 léguas de terra de
+comprimento e uma de largo no sítio e lugar que pede, sem prejuízo de terceiro e com as mais
+condições expressadas nas Reais Ordens para que as haja, logre e possua como cousa sua
+própria e todos os seus herdeiros, ascendentes e descendentes, sem pensão, nem tributo
+algum, mais que dízimos a Deus, Nosso Senhor, dos frutos que nelas tiver; a qual concessão
+lhe
+faço
+não
+prejudicando
+a
+terceiro
+e
+reservando
+os
+Paus
+Reais
+que
+nelas
+houver para embarcações
+e
+com
+declaração
+que mandará
+confirmar
+esta
+carta,
+por Sua Majestade, dentro de 3 anos primeiros seguintes; e que as povoará e cultivará de
+maneira que deem frutos e lucros; e dará caminhos públicos e particulares onde forem
+necessários para pontes, fontes, portos e pedreiras. E se demarcará ao tempo da posse por
+rumo de corda e braças craveiras, como é estilo e Sua Majestade manda; e outrossim, que não
+poderão suceder nelas religiões por nenhum titulo e, acontecendo possuí-las, será com
+obrigação de pagarem dízimos e ficarem sujeitos a todos os mais encargos que sua Majestade,
+que Deus guarde, lhe quiser mandar impor de novo, como sendo possuídas por seculares; e
+faltando a qualquer dessas cláusulas, se haverão por devolutas e se darão a quem as denunciar,
+como o dito Senhor ordena. Pelo que mando ao provedor da Fazenda Real, mais ministros e
+pessoas a que pertencer, que na forma referida e com as condições expressadas, deixem ter e
+possuir a dita terra a dita dona Ana de Azevedo Vilas Boas e seus herdeiros como cousa
+propria. Cumpram e guardem esta carta tão inteiramente como nela se contém, a qual lhe
+mandei passar por mim, assinada e selada com o sinete de minhas armas, que se registrará
+onde tocar e se passou por duas vias Dada nesta cidade de São Luís do Maranhão, aos 7 dias
+do mês de maio, ano do nascimento de Nosso Senhor Jesus Cristo de 1728. Manoel Rodrigues
+Tavares, secretário de Estado, a subscrevi // João da Maia da Gama //
+- fim da transcrição -
+Referência:
+APEP, Livro 4, Doc. 68. Fls. 53 - 54.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

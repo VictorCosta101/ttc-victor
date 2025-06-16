@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0117
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0293",
+  "Nome": "Bernardo Raimundo de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "17-07-1781",
+  "Data da concessão": "04-08-1781",
+  "Observações da sesmaria": "O suplicante requereu 2 braças de comprimento na vila do Recife. A sesmaria requerida localizava-se no bairro do Recife, na rua do Tanoeiro, na fronteira com o cais.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rua dos Tanoeiros",
+  "Observações da petição": "O suplicante não especificou a largura ou a quantidade de braças requerida.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que após haver sido concedida a sesmaria, foi indeferida pela câmara de Olinda a confirmação do aforamento por ser a terra realengo e não ser área de jurisdição desta câmara. Informado disto, o suplicante foi encaminhado para a secretaria de governo da capitania para requerer confirmação do aforamento. ",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 2800 réis. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0117"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0117 
+Carta de doação e sesmaria de Bernardo Raimundo de Souza - 04/08/1781 
+ 
+Bernardo Raimundo de Souza com 28 palmos de terra na rua dos Tanoeiros do Recife. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão 
+general de Pernambuco, Paraíba e mais capitanias anexas etc. — Faço saber aos que esta carta 
+de data de sesmaria virem, que Bernardo Raimundo de Souza me fez um requerimento do teor 
+e maneira seguinte: — Ilustríssimo e Excelentíssimo Senhor = Diz o capitão-mor Bernardo 
+Raimundo de Souza, que requerendo a Junta da Real Fazenda desta capitania a confirmação 
+do aforamento de 28 palmos de terra na rua dos Tanoeiros, que lhe havia feito a Câmara desta 
+Vila, lhe fora deferido dever requerer pela secretaria deste Governo, por não ter a dita Câmara 
+de Olinda, por não ser compreendido na sua doação por ser do cais que se reputa direito real, 
+como se mostra do despacho junto, em cujos termos pede a Vossa Excelência seja servido 
+mandar-lhe passar carta de sesmaria dos 28 palmos de terra com o foro de cem réis 
+estabelecido, ao que dará fiança. E receberá mercê = e sendo por mim visto o seu 
+requerimento, ordenei por despacho meu de 17 de julho deste presente ano de 1781, 
+informasse o doutor procurador da Fazenda Real, e constando-me pela referida informação 
+não haver impedimento algum em se conceder ao suplicante por sesmaria os ditos palmos de 
+terra pedidos e confrontados em seu requerimento, antes a Real Fazenda, digo antes utilidade 
+a Real Fazenda, na percepção do foro anual de dois mil e oitocentos réis a razão de cem mil 
+réis de que devia dar fiança na Contadoria da mesma Fazenda. Ultimamente, mandei por 
+despacho de dezenove do mesmo mês e ano, que se passasse sesmaria na forma da resposta do 
+Doutor Procurador da Real Fazenda, em cumprimento do qual, e pela faculdade que Sua 
+Majestade me permite no capítulo 15 do Regimento deste Governo. Hei por bem dar em nome 
+da dita senhora a Bernardo Raimundo de Souza 28 palmos de terra de frente, pela parte do 
+mar na rua dos Tanoeiros desta Vila, com todo o fundo de suas casas na forma, confrontada 
+em seu requerimento, pagando a Real Fazenda o foro anual de dois mil e oitocentos réis, a 
+razão de cem réis por palmo por me constar achar-se firmada a referida terra, em cais antigo 
+para o mar e se respeitar por isso Direito Real, ficando obrigado a casa que edificar ao 
+referido foro, a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e 
+descendentes, como sua que fica sendo de hoje para todo o sempre, com todos os seus 
+pertences, matas, campos, rios, águas, testadas, logradouros e mais úteis que ela compreender, 
+não prejudicando a terceiro, e não passará a dita a religiões e pessoas eclesiásticas salvo sendo 
+
+com os mesmos encargos com que as possuem os seculares, sendo obrigado a dar passagem a 
+referida rua e não embaraçar a serventia do cais, e a requerer dentro de três anos confirmação, 
+medição e demarcação, e não o cumprindo assim se dar por devoluta e novamente ser 
+conferida a quem a requerer. Pelo que ordeno aos ministros da Fazenda e Justiça e mais 
+pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de doação de sesmaria 
+como nela se contém, fazendo dar ao suplicante posse real, atual, civil e natural, na forma 
+costumada, debaixo das referidas cláusulas e das mais da Ordenação título das sesmarias, 
+visto constar por bilhete que apresentou, achar-se dada a fiança do foro anual de dois mil 
+oitocentos réis, na Contadoria da Real Fazenda, a folha 40 do Livro 2º delas. Em firmeza do 
+que lhe mandei passar a presente por mim assinada e selada com o sinete das minhas armas, 
+que se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. =  Manoel 
+Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, a fez em o Recife de 
+Pernambuco, aos 4 dias de agosto do ano Nascimento de Nosso Senhor Jesus Cristo de 1781. 
+= O secretário do Governo, Manoel de Carvalho Paes de Andrade, a fez escrever = José Cesar 
+de Menezes. 
+- Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p. 
+259 - 261. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0201
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Vieira de Melo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "27-06-1739",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio O Saquinho",
+  "Ribeira": "Itaim",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia obter as terras através da concessão do título.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0201"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0201
+Carta de concessão a José Vieira de Melo - 27/06/1739
+Registro de uma carta de data e sesmaria passada a José Vieira de Melo de 3 léguas de
+comprido e uma de largo situado junto à Ribeira do Itaim
+João
+de
+Abreu
+de
+Castelo Branco do concelho de Sua Majestade, governador e
+capitão-general do Estado do Maranhão, etc. Faço saber aos que esta minha carta de data e
+sesmaria virem que José Vieira de Melo, morador na freguesia de Nossa Senhora da Vitória
+da Vila da Mocha, me representou que ele possuía um sítio de terras de criar gados vacuns e
+cavalares, chamado o Saquinho situado junto à Ribeira do Itaim, e o houvera por compra que
+dele fez a Felix da Rocha e sua mulher Teodora de Magalhães, os quais o possuíram pelo
+haverem descoberto e povoado, achando-o deserto, inculto, e devoluto; e da mesma sorte
+estava o suplicante possuindo mansa e pacificamente; e porque não havia data do dito sítio a
+pessoa alguma, nem outro algum título que válido haja. Me pedia fosse servido conceder-lhe,
+em nome de Sua Majestade, data do dito sítio chamado o Saquinho com 3 léguas de comprido
+e uma de largo, correndo de Norte a Sul e fazendo pião na mesma casa onde está situado. Ao
+que atendendo, e a informação do provedor-mor da Fazenda Real a quem se deu vista e ser
+em utilidade da mesma Fazenda o cultivarem-se as terras neste Estado. Hei por bem conceder,
+em nome de Sua Majestade, ao dito José Vieira de Melo 3 léguas de terra de comprido e uma
+de largo, digo, de comprido correndo de Norte a Sul e fazendo pião na mesma casa aonde está
+situado, e uma de largo na forma requerida, e com as condições expressadas nas Reais
+Ordens. E com a de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma,
+religião ou comunidade sem que primeiro dê parte na Casa da Fazenda  ao provedor-mor
+dela para se me fazer presente se se deve ou não consentir no tal trespasse, sob pena de ficar
+nula esta data para se poder conceder novamente a outrem. E nesta forma se lhe passa
+carta para que o dito José Vieira de Melo haja, logre e possua as ditas terras como coisa sua
+própria para ele e todos os seus herdeiros, ascendentes e descendentes sem pensão nem tributo
+algum mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver; a qual concessão
+lhe faço, não prejudicando a terceiro nem a Sua Majestade se no dito sítio quiser mandar
+fundar alguma vila, reservando os paus reais que nelas houver para embarcações, com
+declaração que mandará confirmar esta data por Sua Majestade dentro de 3 anos primeiros
+seguintes e cultivará as ditas terras de maneira que deem frutos, e dará caminhos públicos e
+particulares aonde forem necessários para pontes, fontes, portos e pedreiras e se demarcará ao
+tempo da posse por rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E
+outrossim, não sucederão nelas religiões e nem pessoas eclesiásticas, por nenhum título que
+seja, e acontecendo possuí-las, será com o encargo de pagarem delas dízimos a Deus como se
+fossem possuídas por seculares; e faltando a qualquer destas cláusulas se haverão as ditas
+terras por devolutas e se darão a quem as denunciar, como o dito Senhor ordena. Pelo que
+mando ao provedor-mor da Fazenda Real, e mais ministros e pessoas a que tocar que na forma
+referida deixem ter e possuir as ditas terras ao dito José Vieira de Melo para ele e todos os
+seus herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha carta de data e
+sesmaria tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas que se registará aonde tocar. E se passou por duas vias.
+Dada na cidade de São Luís do Maranhão, aos 27 de junho do ano do nascimento de
+Nosso Senhor, Jesus Cristo, de 1739. E eu, José Gonçalves da Fonseca, secretário do Estado,
+a fiz escrever.
+-Fim da Transcrição-
+
+Observações:
+No documento original o nome do sesmeiro consta como Jozé Vieyra de Mello, o que,
+seguindo a padronização proposta, foi atualizado para José Vieira de Melo.
+Referência:
+APEP, Livro 9, doc. 186, fls. 127v-128.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

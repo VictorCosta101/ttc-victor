@@ -1,0 +1,159 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0185
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0201",
+  "Nome": "Antônio da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "29-11-1801",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura na ribeira do rio Una, na freguesia dos Garanhuns, do rio Una até a Cachoeira Grande, confrontando as terras de Carlos de Azevedo, Francisco Soares Quintão e e o capitão-mor Domingos Bezerra Cavalcante. ",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Rio Una, Cachoeira Grande",
+  "Ribeira": "do Rio Una",
+  "Confrontantes": "Carlos de Azevedo, Francisco Soares Quintão, Domingos Bezerra Cavalcante",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores interinos determinaram o pagamento anual do foro régio no valor de 4 mil réis. Os governadores interinos também determinaram a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0185"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0185 
+ 
+Carta de concessão de Antônio da Silva de 1801 
+ 
+Antônio da Silva com três léguas de terra de comprimento e uma de largura no lugar de 
+Una freguesia de Santo Antônio de Garanhuns principiando da Barra da Xata vindo por 
+Una abaixo até a Cachoeira grande partindo por uma banda com terras de Carlos de 
+Azevedo, e de outra parte com terras de Francisco Soares Quintão no lugar chamado 
+Acapivara. 
+ 
+Dom José Joaquim da Cunha Azevedo Coutinho do Concelho de Sua Alteza Real bispo 
+de Pernambuco, Pedro Sheverim chefe de esquadra e intendente da Marinha e o 
+desembargador José Joaquim Nabuco de Araújo, ouvidor-geral desta comarca etc. Data 
+de sesmaria virem que Antônio da Silva, nos fez um requerimento do teor e maneira 
+seguinte = Excelentíssimo e ilustríssimos senhores = Diz Antônio da Silva negociante 
+nesta Praça, que Antônio Pereira de Carvalho alcançou por sesmaria três léguas de terra 
+em quadra na ribeira de Uma freguesia de Garanhuns, pegando da barra da Xata vindo 
+por Una abaixo até a Cachoeira Grande, partindo por uma banda com terras de Carlos de 
+Azevedo, e da outra parte com terras de Francisco Soares Quintão no lugar chamado a 
+Capivara donde teve fazenda de Gados o capitão-mor Domingos Bezerra Cavalcante; e 
+porque as ditas terras se acham devolutas e desaproveitadas como se mostra do 
+documento junto, e o suplicante as quer situar, beneficiar e cultivar em benefício da 
+Coroa, e do Estado por requerer a vossas excelências ilustríssimas lhes hajam de conceder 
+por sesmaria em nome de Sua Alteza Real, pagando anualmente o foro com que já foram 
+concedidas aquele sesmeiro, visto que o suplicante tem as necessárias posses para encher 
+os fins a que se propõe = Pede a vossas excelências ilustríssimas sejam servidos conceder-
+lhe por sesmaria as ditas três léguas de terra na forma que requerido tem = E recebera 
+mercê = E sendo visto por nós o seu requerimento Ordenamos por despacho de 17 de 
+outubro de 1801 que a câmara respectiva mandasse por editais por tempo de 30 dias no 
+respectivo distrito, para se saber ao certo se  há, ou não terceiro prejudicado, e com 
+certamente do oficial que assim o praticar informe, o que satisfaz, e com a informação do 
+doutor procurador da Coroa e Fazenda que apresentou, por outro nosso despacho de 13 
+de novembro do presente ano, e informação do escrivão da Fazenda de 28 de novembro 
+deste mesmo ano; e constando-nos por todos estes documentos, com que uniformemente 
+nos responderam estar nos termos de se dar ao suplicante a terra pedida de sesmaria na 
+forma confrontada em seu requerimento, e termo da sesmaria concedida das mesmas 
+terras que se acha por levantamento junta e da medição feita das ditas terras pelo sesmeiro 
+que as havia tirado Antônio Pereira de Carvalho, pagando de foro anual a quantia, de 
+quatro mil réis por cada uma légua, por ser das que estão mais remotas da Marinha, do 
+que deve dar fiança na Contadoria da Real Fazenda; e ultimamente mandarmos por 
+despacho do corrente mês de dezembro que se passasse carta de sesmaria, na forma da 
+resposta do doutor procurador da Fazenda e Coroa, escrivão da receita e despesa em 
+cumprimento do qual, e pela faculdade que usarmos conceder no capítulo 15 do regimento 
+deste Governo Havemos por bem dar em nome da dita secretaria ao dito Antônio da Silva 
+três léguas de terra de comprimento, e uma de largura no lugar de Una da freguesia de 
+Santo Antônio de Garunhuns, pegando da Barra da Xata vindo por Una abaixo, até a 
+Caixeira grande, partindo por uma banda com terras de Carlos de Azevedo, e de outra 
+parte com terras de Francisco Soares Quintão no lugar chamado a Capivara, donde teve 
+
+fazenda de gado vacum e cavalar o capitão-mor Domingos Bezerra Cavalcante, que 
+trespassou a dita terra aquele sesmeiro Antônio Pereira de Carvalho, carta fez demissão 
+dela a Real Fazenda, como tudo constado dos documentos junto, pagando o foro anual da 
+quantia de quatro mil réis por cada uma légua, visto ser terra das mais afastadas da Mainha 
+como determinar a real ordem de 28 de setembro de 1700; a qual terra a possuirá e gozará 
+ele suplicante e seus herdeiros ascendentes e descendentes como sua que fica senão de 
+hoje para todo sempre, com todas as suas pertenças matas, campos, águas, rios, testadas, 
+logradouros, e mais úteis que ela compreender não prejudicando a terceiro e não passará 
+a dita terra a religiões, e pessoas eclesiásticas, salvo a dar ao concelho caminhos livres 
+para pontes, frontes, pedreiras e requerer dentro de três anos confirmação, medição, 
+demarcação, povoá-las e cultivá-las na conformidade da ordem régia de 20 de outubro de 
+1753 e não o cumprindo assim se dar por devolutas, novamente ser conferidas a quem as 
+requerer, com a mais condições de que as ditas terras nunca se dividiram em porções, 
+nem se repartirá, senão por estimação, andarem encabeçada em uma só pessoa na forma 
+da Ordenação livro 4º título 96 parágrafo 23, sendo obrigado a não derrubar, e nem 
+queimar as madeiras de sucupira, amarelo e pau-brasil que haja nas ditas terras, por serem 
+precisas ao uso, e serviço de Sua Alteza Real e assim mais não passará as ditas terras a 
+herdeiros, ou pessoas outras sem concessão da Junta da Real Fazenda, para nela se dar 
+nova fiança, e se fazerem as devidas escriturações. Pelo que ordenamos aos ministros da 
+Fazenda, e Justiça, e mais pessoas a quem tocar cumpram e façam cumprir, e guardar esta 
+cartas de data de sesmaria como nela se contem, fazendo dar ao suplicante posse real, 
+efetiva e atual na forma costumada, debaixo das cláusulas referidas, e das mais da 
+Ordenação título das sesmarias, visto constar por bilhete que apresentou achar-se dada a 
+fiança do foro anual a razão de quatro mil réis por légua, na Contadoria da Real Fazenda 
+a folha 147 do Livro 5º delas. Em firmeza do que lhe mandamos passar a presente por 
+nós assinada e selada com o selo das armas reais, que se registará na secretaria deste 
+Governo, e Contadoria da Real Fazenda, Manuel Freire Mariz oficial da secretaria do 
+Governo, a fez dada no Recife de Pernambuco de Nosso Senhor Jesus Cristo de 1801. 
+Manuel da Cunha de Azevedo Coutinho Souza Chichorro secretário do Governo a fez 
+escrever = Dom José Bispo de Pernambuco = Pedro Sheverin = José Joaquim Nabuco de 
+Araújo. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 69-71. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

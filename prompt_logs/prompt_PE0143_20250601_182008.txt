@@ -1,0 +1,223 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0143
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0255",
+  "Nome": "João Davi Madeira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "16-04-1821",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de São José dos Bezerros, no termo da vila de Santo Antão. A sesmaria localizava-se ao redor da lagoa Xucurú e confrontava-se a oeste com a fazenda Jacarati. ",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Lagoa Xucurú",
+  "Ribeira": "do Ipojuca",
+  "Confrontantes": "Fazenda do Jacarati",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O suplicante alegou ter comprado um sítio de terras de João Alves Vital, mas não ter recebido os legítimos títulos de posse da terra. Por esta razão, o suplicante requereu a sesmaria. Após pedir a terra, algumas pessoas se opuseram por se sentirem prejudicadas ou lesadas com a concessão: Rosa Maria dos Santos, Manuel Cipriano de Albuquerque e Melo. Após constituições amigáveis, os opositores desistiram de se interpor a concessão. ",
+  "Observações das exigências": "O governador Luiz do Rego Barreto determinou o pagamento anual do foro régio no valor de seis mil réis. O governador Luiz do Rego Barreto determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0143"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0143
+Carta de doação de data e sesmaria de João David Madeira - 11/04/1821
+Carta de data de sesmaria que se concedeu ao reverendo padre João Davide
+Madeira de uma légua de terra na freguesia de São José dos Bezerros, termo de
+Vila de Santo Antão.
+Luis do Rego Barreto, do Conselho de Sua Majestade, fidalgo da Casa Real,
+comendador da Ordem de Cristo, torre e espada condecorado com a Cruz Grande das 7
+Batalhas, por Sua Majestade britânica, marechal de campo dos reais exércitos,
+comandante em chefe de divisão militar de Pernambuco, governador e capitão general
+da capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria
+virem, que o padre João David Madeira me fez o requerimento do teor seguinte =
+Ilustríssimo e excelentíssimo senhor = diz o padre João David Madeira que ele é senhor
+e possuidor de um sítio de terras de cultura e criação de gados na ribeira de Ipojuca,
+freguesia de São José dos Bezerros, no território da vila de Santo Antão, denominada
+Xucuré por compra que dele fizera a João Alves Vital, e porque não recebeu deste
+vendedor legítimos títulos que o possam segurar com legalidade no domínio destas
+terras, de seu mesmo se denuncia e requer a Vossa Excelência se digne conceder-lhe de
+sesmaria uma légua de terras no mencionado lugar, pegando da lagoa Xucurú com meia
+légua por qualquer dos lados, pois que não prejudica a terceiro, e declara que estas
+terras contestam pelo nascente com a serra verde, para o poente com a fazenda do
+Jacarati, para o norte com terras do Caropoto e pelo sul veio contestar com as terras de
+Ipojuca. Pede a Vossa Excelência se sirva conceder ao suplicante a sesmaria das
+referidas terras, visto que o reverendo suplicante é o mesmo possuidor delas e que não
+prejudica a terceiro, procedendo-se às diligências do estilo. E receberá mercê = e sendo
+por mim visto o seu requerimento por despacho de 25 de outubro de 1819, mandei a
+Câmara respectiva que postos os editais na forma da lei por tempo de 30 dias me
+informasse se havia 3° prejudicado, e informando-me esta que o dito padre era morador
+e possuidor daquelas terras, mas não de toda a légua pedida e que se haviam oposto a
+viúva Rosa Maria dos Santos e o capitão Manuel Cipriano de Albuquerque, ele se
+compôs com os ditos opositores por termos judiciais, cujos teores são o seguinte: Aos
+13 dias do mês de abril de 1820, nesta vila do Recife, e meu escritório viera a saber
+como convencionantes Dionizio Gonçalves de Freitas, morador no lugar do Caruru
+
+termo da vila de Santo Antão, como procurador bastante da suplicante Rosa Maria dos
+Santos a qual neste ato me foi apresentada, e como aceitante o reverendo Padre João
+David Madeira, também morador em Caruru. E por este sobredito procurador, bastante
+foi
+dito
+em
+presença
+das
+testemunhas
+adiante
+nomeadas
+e
+assinadas
+que
+convencionaram em que do meio da a lagoa para o nascente: usa este ponto por onde
+passar o rumo d’agulha de norte e sul, ficando esta linha servindo de divisão entre o
+poente, dito reverendo padre João David: e logo por este foi dito que aceitava a
+convenção, como fica nesta estipula. Em testemunho de verdade assim o difurão,
+outorgarão, aucitarão e pedirão posse feito este termo em que assinarão com as
+testemunhas ao diante assignadas, e em virtude do requerimento e despacho retro, eu
+José Pereira de Lima Gondim, escrivão o escrevi e todos assinaram depois de lido este
+em sua presença – Dionizio Gonçalves de Freitas – O padre João David Madeira –
+Manoel Soares de Souza Galvão – Pedro Ignacio do Sacramento. Aos 29 de fevereiro de
+1820 neste vila do Recife e escritório veio José Francisco de Sousa como bastante
+procurador de Manoel Cipriano de Albuquerque e Melo que reconheço pelo próprio de
+que se trata e disse que por parte do dito seu constituinte desiste, como desde já pelo
+presente desistido, tem da oposição que fizera ao reverendo suplicando João David
+Madeira sobre a posse que pretendia tomar das terras, de que trata o seu requerimento
+retro, afim de que possa requerer de seu direito e justiça a sua mesma posse, e domínio
+perante qualquer justiças tudo na forma da sua petição como requerido tem, e fez este
+termo que assinou com as testemunhas presentes, e eu José Francisco de Souza [M.es],
+escrivão, o escrevi – José Francisco de Souza – Pedro José Tavares de Farias = Feliz
+José de Melo. E vistar por mim a informação da Câmara, e desistências referidas por
+despachos de 14 de abril e 15 de maio de 1820, mandei ouvir o doutor procurador da
+Real Coroa e Fazenda e o escrivão deputado da mesma Real Fazenda, os quais lhe não
+puseram impedimento algum, em consequência do que com data de 10 de junho do
+mesmo ano lhe mandei passar portaria para medição e demarcação, a qual é do teor
+seguinte: O juiz das sesmarias da vila de Santo Antão, junto com um piloto idôneo e
+mais pessoas necessárias passaram ao lado esquerdo do rio Ipojuca, e reconhecendo a
+lagoa Hucururú do centro dela para a parte do nascente, tiraram uma linha de 10 braças,
+em cujo extremo, como princípio da medição a que vão proceder por parte João David
+Madeira, colocaram o primeiro marco, e deste soltaram para um e outro lado o rumo
+Norte Sul, que servirá de base a sua medição. Sobre este rumo avançaram para um, e
+outro lado 1500 braças, pouco mais ou menos, conforme acharem ou não verdadeiros
+
+opositores, e quando tenham perdido por um lado, completarão por outro, como mais
+legítimo for, e nos extremos deste rumo levantarão outros, contestando pelo norte com
+os sesmeiros de Coropoto e pelo sul com os de Ipojuca, medindo por estes segundos, e
+terceiro rumos quanto possam até uma légua ou menos se antes disso encontrarem os
+rumos os terras da fazenda Jaracatia, deixando marcos postos em todas as divisões e
+mudanças de rumos. Concluída por esta forma a medição e demarcação, o mesmo juiz
+me remeterá no arquivo da Câmera o translado, e no dito auto fará menção da extensão
+total de cada um dos rumos e de todos os acidentes de terreno, como pântanos, lagoas,
+regatos, rios, caminhos, estradas, planícies, elevações de terreno, montes, serras, pedras
+notáveis e tudo quanto possa servir de guia e prova na certificação dos mesmos rumos,
+para o que determinará ao piloto que declare sempre o número de braças com que
+chegar a cada um de tais acidentes e as direções donde e para onde eles correm. O juiz
+desta medição durante ela não aceitará oposição, nem embargo com suspensão que não
+seja fundado em uma carta de sismaria conferida por Sua Majestade , ou que pelo
+menos não tenha excedido o prazo para a confirmação, e de todas as outras oposições ou
+embargos dará vista as pastas em auto separado continuando sempre a medição e
+demarcação até a passar por sentença: este minha portaria não terá vigor por mais de um
+ano, findo o qual ficará de nenhum efeito como se nunca fora passada. Recife, 15 de
+junho de 1820. Em virtude da qual o referido juiz passou a fazer a dita medição e pelo
+auto que me remeteu te vê que tirando uma linha de 10 braças do meio da lagoa
+Hucururú para Leste no seu extremo cravarão um marco, e dele seguirão o rumo de
+norte, e a 1500 braças se cravou uma baliza de pedra, e revertindo ao primeiro marco
+dele seguirão o rumo sul, e a 260 braças se cravou uma baliza de pedra a Leste da casa
+do demarcante, e 1210 braças outra baliza no caminho de Maria Clara, a 1445 outra no
+caminho que vai para Pitiá, e a 1500 braças um marco sobre uma pequena elevação, e
+deste seguio se o rumo de oeste, e em 1500 braças se cravou outro qual principiou um
+rumo de Norte, e em 920 braças no caminho que vai ter ao das barreiras se cravou uma
+baliza, outra 1355 braças no caminho da cacimba cercada que vai para os barreiros,
+outra a 3260 no cmainho que vai da fazenda do Carapató para a lagoa da Urçula e
+seguindo o mesmo rumo a 3280 braças encontrarão o riacho Carapató em cuja margem
+ao Sul se pôs um marco: e logo voltando a baliza que se havia plantado 1500 braças ao
+Norte do primeiro marco, dela seguirão o rumo Norte, e a 3000 braças do dito marco se
+cravou outro, e seguindo o mesmo rumo a 420 braças do marco antecedente se
+encontrou o riacho Carapató em cuja margem do Sul no lugar da barra do riacho
+
+salgadinho se cravou um marco, e logo volvendo a testada de Oeste junto ao marco
+plantando na margem do Sul ao riacho, e no fim da linha de 3280 braças daqui seguirão
+o rumo de Leste e em 285 braças se encontrou a picada da presente demarcação que
+tinham corrido do Sul para o Norte onde porão outro marco, e darão porfinda a medição
+e demarcação, ficando o riacho Carapató servindo de divisão entre esta sesmaria e a de
+Joaquim de Barros Cavalcante. E sendo assim examinada, e vista a dita demarcação, e
+medição mandei por despacho de 14 do corrente que se passasse carta de sesmaria. E
+portanto pela faculdade que me é concedida no capitulo 15 do regimento deste governo.
+Hei por bem dar em nome de Sua Majestade El Rei nosso senhor ao dito padre João
+David Madeira a referida légua de terra pagando o foro anual de 6000 em observância
+da Real Ordem de 28 de setembro de 1700 do que deu fiança na contadoria da junta da
+Real Fazenda a folha [?], livro competente a qual sesmaria possuirá, e gozará ele
+suplicante e seus herdeiros, ascendentes e descendentes, como sua que fica sendo de
+hoje para todo sempre com todas as matas, campos, rios, água, testadas, logradouros, e
+mais úteis que nela se compreenderem não prejudicando a 3º, e não passará a religião, e
+pessoas eclesiásticas, salvo sendo os encargos, digo, com os mesmo encargos com que
+as possuem os seculares, e nunca se dividirá em porções, nem se partirá se não por
+estimação andando encabeçada em uma só pessoa na forma da ordenação do livro 4º
+titulo 96 §23, e assim não passará a herdeiros ou qualquer outra pessoa sem
+consentimento da junta da Real Fazenda para nela se darem novas fianças, e se fazerem
+as devidas escriturações, ficando livres para a serventia dos povos todas as estradas,
+rios, fontes, e pedreiras, e reservadas ao Real Patrimônio as madeiras de construção, pau
+brasil, e vieiros de quaisquer metais, e como se acha medido e demarcado será obrigado
+a requerer confirmação com os mesmos autos e planta, e a povoá-la e cultivá-la dentro
+de terceiras na forma da Real Ordem de 20 de outubro de 1753 e alvará de 25 de janeiro
+de 1809, e não o cumprindo assim se haverá por devoluta, e novamente se dará a quem
+a requerer. Pelo que ordeno aos ministros da fazenda, e justiça, e mais pessoas a quem
+tocar, cumpram, e façam cumprir, e guardar como nela se contém fazendo dar ao
+suplicante posse real, efetiva, e atual na forma da ordenação titulo das sesmarias. Na
+firmeza do referido lhe mandei passar apresente sendo por mim assinada, e selada com
+o sinete de minhas armas a qual se registrará na secretaria deste governo, na junta da
+Real Fazenda e aonde mais tocar. Manoel dos Passos e Figueiroa, oficial Maior da
+secretaria a fez no Recife de Pernambuco, em 16 de abril de 1821 = José Francisco
+Maciel Monteiro, secretário do Governo a fez escrever = Luiz do Rego Barreto = carta
+
+de data de sesmaria pela qual Vossa Excelência há por bem conceder ao padre João
+David Madeira o terreno nela declarado na freguesia de São José dos Bezerros, termo da
+Vila de Santo Antão, em nome de Sua Majestade, ElRei Nosso Senhor. Para Vossa
+Excelência ver = por despacho do ilustríssimo e excelentíssimo senhor general, de 11
+d’abril de 1821.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 189-192.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

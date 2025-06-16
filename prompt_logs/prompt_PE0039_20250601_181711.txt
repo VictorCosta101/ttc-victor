@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0039
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Referência da antiga plataforma SILB": "PE 0084",
+  "Nome": "Antônio Gomes da Silveira ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "25-03-1723",
+  "Data da concessão": "02-06-1723",
+  "Observações da sesmaria": "O sesmeiro requereu uma légua de comprimento e uma légua de largura no sertão do Ararobá. As terras requeridas possuíam como limite ao sul as terras de Domingos Pereira e Rafael de Araújo, ao norte com as do capitão-mor Felipe Pais e o sargento-mor Leonel Abreu e para o oeste na serra do Catembaú. ",
+  "Localidade": "Sertão do Ararobá",
+  "Marcos Geográficos": "Sertão do Ararobá, Serra do Catembaú",
+  "Confrontantes": "Felipe Pais, Leonel de Abreu",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Citou a Carta Régia de 15/06/1711; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse o foro régio e seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura ordenou que o suplicante pagasse o foro de 4 mil réis por légua requerida. O governador Dom Manuel Rolim de Moura ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Manuel Rolim de Moura ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0039"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0039 
+ 
+Carta de doação e sesmaria de Antônio Gomes da Silveira - 02/06/1723 
+ 
+CARTA DE SESMARIA QUE SE PASSOU A ANTÔNIO GOMES DA SILVEIRA DE UMA 
+LEGOA DE TERRA EM QUADRO EM SITIO CHAMADO O BREJO DO COQUEIRO 
+D1STRICTO DA CAPITANIA DO ARAROBA ETC. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general e etc. 
+= Faço saber aos que esta carta de doação de sesmaria virem que Antônio Gomes da Silveira me 
+apresentou a petição cujo teor é o seguinte: Senhor governador. Diz Antônio Gomes da Silveira, 
+morador nos campos do [Boique], distrito da capitania do Ararobá, que ele descobriu no sertão 
+daquele distrito uma légua de terra em quadro devoluta, no sítio chamado Brejo do Coqueiro, a qual 
+o suplicante tem a sua custa por tempo de dois a três anos, a bem de as poder cultivar, o que tem 
+feito sem contradição alguma nem embargo de qualquer outra pessoa, confrontação para a parte do 
+sul com as terras que são de Domingos Pereira e do capitão Raphael de Araújo, para a parte do norte 
+ou nascente com as que são do capitão-mor Felipe Paes e do sargento-mor Leonel de Abreu, para a 
+parte do poente com a serra chamada Catembaú, e porque pelas referidas razões pretende o 
+suplicante que Vossa Senhoria lhe faça mercê dar em nome de Sua Majestade, que Deus guarde, a 
+sobredita légua de terra em quadro nos mesmos lugares, observando-se as condições reais que o 
+dito senhor impõe nas datas que se concedem: portanto, pede a Vossa Senhoria seja servido mandar-
+lhe passar carta de doação de sesmaria de uma légoa de terra em quadro na forma referida, com suas 
+testadas e partes que acima confronta em sua petição, como é estilo. = E receberá mercê. = 
+Despacho - Informe o provedor da Fazenda Real, ouvindo ao doutor procurador da Coroa. Recife, 
+25 de março de 1723. = Rubrica = Informação - Não tenho dúvida no que o suplicante pede = digo, 
+despacho do provedor. Haja vista ao doutor procurador da Coroa - Recife, 25 de março de 1723 = 
+Barros = Informação - Não tenho dúvida no que o suplicante pede, fazendo-se a data na forma da 
+Ordenação Livro 4.° título 43, e pagando o foro que se assentou por ano = Recife, 25 de março de 
+1723. Pereira = Senhor governador e capitão general = Informo a Vossa Senhoria, com o parecer do 
+doutor procurador da Coroa e Fazenda, a que me conformo: Vossa Senhoria mandará o que for 
+servido. São Lourenço, 28 de março de 1723 = João do Rego Barros = E havendo, outrossim, 
+respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste Governo, e a tudo o 
+mais que o dito senhor determina em suas reais ordens neste particular abaixo declaradas. Hei por 
+bem fazer-lhe mercê dar ao suplicante acima nomeado, como pela presente dou de sesmaria em 
+nome d'El Rei, Nosso Senhor, nos mesmos lugares, partes e testadas que confrontam em sua petição 
+a sobredita légoa de terra em quadro, que declara e pede, como parece ao doutor procurador da 
+Coroa e ao provedor da Fazenda Real, com a condição que pagará de foro por ela quatro mil réis 
+por ano, na forma do assento que se tomou sobre este particular e no de pagarem dízimo a ordem de 
+
+Cristo, segundo as disposições reais; o qual povoará a dita terra no tempo de cinco anos, aliás serão 
+dadas por devolutas e as possuirá e gozará ele e seus herdeiros, não prejudicando a terceiro, com 
+todas as suas matas, águas, campos, testadas, logradouros e mais úteis que nelas se acharem, com 
+mais a condição de que não sucederão na dita terra religiosos por nenhum título, e acontecendo que 
+sucedam nelas possuindo-as, seja com o encargo de pagarem dízimos como se fossem seculares; e 
+faltando a isto, se dará por devoluta como Sua Majestade ordena por sua carta de 17 de junho do 
+ano de 1711; e será obrigado a dar pela dita terra caminhos livres ao Conselho para fontes, pontes 
+ou pedreiras, e a requerer a confirmação desta data pelo dito senhor no termo de dois anos. Ordeno, 
+portanto, a todos os ministros da Justiça e Fazenda desta capitania a quem o conhecimento desta 
+carta de doação pertencer, lhe façam dar a posse real, efetiva e atual, na forma costumada e debaixo 
+das cláusulas referidas e da Ordenação título de sesmarias: que por firmeza de tudo lhe mandei 
+passar a presente por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos 
+livros da Secretaria deste Governo e nos da Fazenda e Foral Real a que tocar; e sem esta precisa 
+circunstância não terá efeito nem validade alguma a presente carta de sesmaria. Dada nesta Vila do 
+Recife de Pernambuco, aos 2 do mês de junho de 1723 = Eu, Manoel da Silva Rosa, secretário, a 
+escrevi = Dom Manuel Rolim de Moura. =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 271 - 273. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

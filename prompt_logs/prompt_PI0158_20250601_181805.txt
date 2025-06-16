@@ -1,0 +1,168 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0158
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manoel Gomes Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-08-1729",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Marcos Geográficos": "Serra da Ibiapaba",
+  "Ribeira": "Piauí",
+  "Confrontantes": "\"Testadas das terras que se concederam a Manuel de Medeiros Graces\", ",
+  "Justificativas": "Não possuía as terras com justo título; Tinha escravos; Tinha gado; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Pretendia apascentar gado; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0158"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0158
+Carta de concessão a Manuel Gomes Pereira - 08/08/1729
+Registro de uma carta de data e sesmaria passada a Manuel  Gomes Pereira.
+ 
+ 
+Alexandre de Sousa Freire, etc. Faço saber aos que esta minha carta de data e sesmaria
+virem, que a mim me enviou a dizer, por sua petição, Manuel Gomes Pereira, filho
+do capitão Maurício Gomes Pereira, .morador nesta cidade, que a ele, suplicante, lhe dá
+seu pai gados e escravos para poder povoar uma fazenda, e não tem terras próprias em
+que a possa apascentar. E porque, em cima da serra da Ibiapaba no Riacho chamado
+Piaû, águas vertentes para a capitania do Piauí, e por isso da jurisdição do governo
+deste Estado. Se acham devolutas umas sobras de terra que terão por mais ou menos até
+3
+léguas
+de
+terra
+de
+comprido
+e
+uma
+de
+largo,
+meia
+por
+cada
+banda
+do dito Riacho, que principia nas testadas das terras que se concederam a Manuel de
+Medeiros Graces. E por não haver delas carta de data e sesmaria legítima, e menos
+confirmação de  Sua Majestade, que Deus guarde, por não se teve confirmado dentro de
+3 anos. E
+o
+suplicante
+carece
+das ditas sobras
+de
+terra,
+principiando
+o dito
+comprimento nas testadas da terra concedida por este governo ao dito Manuel de
+Medeiros Graces, correndo para o Poente, por se acharem devolutas as ditas sobras de
+terras, que terão 3 léguas de comprido e meia de largo por cada banda do dito Rio. E
+o suplicante tem posses para os povoar e cultivar, assim, de gado vacum como cavalar.
+Portanto, me pedia lhe fizesse mercê mandar passar carta de data e sesmaria das ditas
+sobras com todas as pontas e abras na forma sobredita e receberia mercê. E atendendo
+eu as razões que alegava, como também ao que respondeu o provedor-mor da Fazenda
+Real a quem se deu vista, e ser em utilidade da mesma Fazenda cultivarem-se as terras
+neste Estado. Hei, por bem de conceder ao suplicante, em nome de Sua Majestade, na
+parte que pede as ditas sobras de terra que terão pouco mais ou menos até 3 léguas de
+terra de comprido e uma de largo, meia por cada banda do dito riacho que principiam
+nas testadas das terras, que se concederam a Manuel de Medeiros Graces com todas as
+pontas e abras que se acharem nas ditas sobras. Inclusive, com as confrontações nela
+declaradas, e condições expressadas nas Reais Ordens. E com a condição de não fazer
+trespasse por meio algum, em nenhum tempo, a nenhuma pessoa ou comunidade e
+religião, sem que primeiro dê parte na casa da Fazenda ao provedor dela, para se me
+fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de ficar
+a dita carta de data nula para se poder novamente conceder a outrem. Nesta forma, se
+lhe passa carta, para que haja, logre e possua como coisa sua própria e todos os seus
+herdeiros, ascendentes e descendentes, sem pensão nem tributo algum mais que o
+dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver, a qual concessão lhe faço não
+prejudicando a terceiro, reservando os paus Reais que nelas houver para embarcações
+com declaração que mandará confirmar esta carta, por Sua Majestade, dentro de 3
+anos primeiros seguintes. E cultivará a dita terra de maneira que dê frutos; e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes, portos,
+pedreiras. E se demarcará, ao tempo da posse, por rumo de corda e braças craveiras,
+como é estilo, e Sua Majestade manda. E outrossim, não poderão nelas suceder religiões
+por nenhum título, e, acontecendo, possuí-las será com o encargo de pagarem delas
+dízimos a Deus, como se fossem possuídas por seculares. E, faltando a qualquer destas
+cláusulas, se haverá por devolutas e se darão a quem as denunciar, como o dito
+Senhor ordena. Pelo que mando ao provedor-mor da Fazenda Real, mais ministros e
+pessoas a quem tocar, que, na forma referida e com as condições declaradas, deixem ter
+
+e possuir a dita terra ao dito Manuel Gomes Pereira, para ele e todos os seus herdeiros,
+ascendentes e descendentes como coisa sua própria. Cumpram e guardem esta minha
+carta tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada
+e selada com o sinete de minhas armas, e se registrará aonde tocar, e se passou por duas
+vias.
+Dada
+nesta cidade de
+São
+Luís
+do
+Maranhão,
+aos
+8
+de agosto, ano
+do nascimento de
+Nosso Senhor Jesus
+Cristo
+de
+1729.
+E
+eu,
+João
+Antonio.
+Freire, secretário do Estado, a fiz escrever. //Alexandre de Sousa Freire//.
+- Fim da Transcrição -
+Observações:
+O nome do sesmeiro, como consta no documento, é Manoel Gomes Pereira. Cumprindo
+com a homogeneização dos nomes para a plataforma SILB, o nome de Manuel de
+Medeiros Graces na documentação original aparece como Manoel de Medeyros Graces.
+Referência:
+APEP, Livro 5, Doc. 121, fls. 82v-83v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

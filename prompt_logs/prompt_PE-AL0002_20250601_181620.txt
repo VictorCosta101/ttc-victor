@@ -1,0 +1,113 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0002
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0035",
+  "Nome": "Cristóvão de Mendonça Arrais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "21-02-1702",
+  "Data da concessão": "27-02-1702",
+  "Observações da sesmaria": "O suplicante requereu quatro léguas de comprimento e quatro léguas de largura na região dos Palmares, da fronteira do rio Quaraguassú até o riacho João Mulato, para cada lado do dito riacho, e seguindo sertão acima até o rio Jacuípe. ",
+  "Localidade": "Palmares",
+  "Marcos Geográficos": "Rio Jacuípe, Rio Quaraguassú, riacho João Mulato",
+  "Justificativas": "Solicitou pagar somente o dízimo; Solicitou isenção de pagamento de foro régio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0002"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0002 
+ 
+Carta de doação e sesmaria do sargento-mor Christovão de Mendonça – 27/02/1702 
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU AO SARGENTO-MOR 
+CHRISTOVÃO DE MENDONÇA, DE QUATRO LÉGUAS DE TERRA NO SÍTIO DOS 
+PALMARES. 
+ 
+Dom Fernando Martins Mascarenhas de Lencastro e etc. etc. Faço saber aos que esta carta de 
+doação e sesmaria virem que o sargento-mor Christovão de Mendonça me representou a petição 
+cujo teor é o seguinte: Senhor. Diz o sargento-mor Christovão de Mendonça, cabo do Arraial São 
+Caetano dos Palmares, distrito da cidade de Porto Calvo, que Sua Majestade, que Deus guarde, foi 
+servido conceder-lhe quatro léguas de terra em quadro nos ditos Palmares, e como ele suplicante 
+anda fazendo e quer fazer fundamento nas ditas terras; pede a Vossa Senhoria lhe mande passar sua 
+carta de sesmaria, descendo a ladeira grande, correndo a testada pelo rio Quaraguassú acima, 
+fazendo pião no riacho de João Mulato, de uma e outra parte, e fazendo quadro pelo rio Iacoipe 
+acima para o sertão até se inteirar nas ditas quatro léguas de terra em quadro, que são [dezesseis], 
+não pagando foro algum das ditas terras, só dizimo a Deus, conforme a ordem de Sua Majestade – E 
+receberá mercê. “Informe o provedor da Fazenda Real, ouvindo o procurador da Coroa. Recife, 21 
+de fevereiro de 1702. “Rubrica”. Vista ao procurador da Coroa. Recife, 21 de fevereiro de 1702 =. 
+“Barros”. Não tenho dúvida a que se conceda ao suplicante o que pede […] que Sua Majestade, que 
+Deus guarde, lhe conceda por carta sua de 26 de setembro do ano de 1699. “Pereira”. Senhor, com a 
+resposta do procurador da Coroa, informo a Vossa Senhoria para mandar o que for servido. Recife, 
+22 de fevereiro de 1702. “João de Barros Rego”. E havendo, outrossim, respeito ao que Sua 
+Majestade, que Deus guarde, me encomenda no capítulo 15 do regimento deste Governo e ordem 
+que do dito senhor tenho por carta de 28 de setembro de 1695. Hei por bem dar ao suplicantes 
+acima nomeado, como pela presente dou de sesmaria, em nome de Sua Majestade, nos mesmos 
+lugares, partes e testadas que confrontam em sua petição quatro léguas de terra em quadro, as quais 
+gozará ele suplicante e seus herdeiros, com todas as suas matas, campos, testadas, águas, 
+logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de tributo, foro ou pensão 
+alguma, salvo dízimo a Deus, e só será obrigado a dar pela dita terra caminhos livres ao Conselho 
+para fontes, pontes ou pedreiras, o que assim se lhe concede em virtude da mercê que Sua 
+Majestade concedeu ao […] conquistadores das terras dos Palmares em que […] de foro. Pelo que 
+ordeno a todos os ministros da Fazenda e Justiça destas capitanias a quem o conhecimento desta 
+pertencer, lhe façam dar posse real, efetiva e atual, na forma costumada e debaixo das cláusulas 
+referidas e das mais da Ordenação título das sesmarias, que por firmeza de tudo lhe mandei passar a 
+presente por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da 
+Secretaria deste Governo e nos da Fazenda Real. Dada neste Recife de Pernambuco, em os 27 dias 
+
+do mês de fevereiro, Lizardo Ribeiro Mendonça a fez, no ano de 1702. Bartolomeu de Siqueira 
+Cordovil, a fez escrever em ausência do secretário. Dom Fernando Martins Mascarenhas de 
+Lencastro. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 97 - 98. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0005
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0066",
+  "Nome": "Bartolomeu Pereira de Castro, Manuel de Araújo de Vasconcelos, Miguel Pereira de Castro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "22-08-1713",
+  "Data da concessão": "19-09-1713",
+  "Observações da sesmaria": "Os suplicantes requereram que fossem concedidas a quantidade que se achar viável de terras segundo as ordens reais, sendo os limites do rio Traipú até os campos de  Garanhuns.",
+  "Localidade": "Rio Traipú",
+  "Marcos Geográficos": "Rio Traipú, campos dos Garanhuns.",
+  "Observações da petição": "Os suplicantes não especificaram a quantidade de léguas requeridas, mas o governador fez a concessão de seis léguas, sendo duas para cada sesmeiro. ",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; As terras eram devolutas; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43. Na carta de concessão não consta o nome do escrivão que a redigiu.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0005"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0005
+ESTAVAANEXAAO LIVRO DE SESMARIAS A PETIÇÃO DO TEOR SEGUINTE, COM
+AS RESPECTIVAS INFORMAÇÕES -
+Senhor. Dizem Miguel Pereira de Castro e Bartolomeu Pereira de Castro, moradores na Bahia, e
+Manoel de Araújo de Vasconcelos, morador no rio de São Francisco, que eles suplicantes tem por
+notícias haver terras despovoadas no rio chamado Traipú, e por quanto os suplicantes tem por
+notícia, digo, tem muitos gados e não tem terras capazes para os poderem criar, de que recebem
+grandes perdas e por ser muito útil aos suplicantes povoar as ditas terras como também para os
+dízimos de Sua Majestade, que Deus guarde, portanto; pedem a Vossa Excelência lhe faça mercê
+conceder por sesmaria as terras que se acharem devolutas pelo dito rio acima, começando nas serras
+das mãos de uma e outra parte até confinar, até confinar com os campos de Granhü. E receberá
+mercê. — Responda o doutor procurador da Coroa. Olinda, 22 de agosto de 1713. = “Rubrica” =
+Senhor. Não se costuma conceder de sesmarias mais léguas de terra que as que se contém nas suas
+ordens; devem os suplicantes declarar quantas pedem e quantas há devolutas, nas partes que
+confrontam. É o que posso dizer; Vossa Excelência mandará o que for servido. Recife, 22 de agosto
+de 1713. = "Antônio Rodrigues Pereira" = Como parece ao doutor procurador da Coroa. Recife, 1
+de setembro de 1713 = Rubrica = Excelentíssimo senhor. Os suplicantes na sua petição confrontam
+demonstrando os lugares e termos por onde confinam as terras de que tem notícia estarem devolutas
+e desaproveitadas; e pela dita demonstração, conforme o direito, fica explicada a quantidade como
+que fora por léguas, que os suplicantes não podem saber antes de medidas, e ainda, que os
+suplicantes pedem com esta incerteza de léguas ou generalidade do lugar, pode Vossa Excelência
+sendo servido, conceder aquela quantidade de terra que for conforme as ordens de Sua Majestade,
+que Deus guarde, e havendo no lugar demonstrado mais léguas, essa quantidade que sobra sempre
+fica livre para se darem a outros, e havendo menos quantidade essa diminuição fica só sendo em
+prejuízo dos suplicantes e nunca prejudica a terceiros, pois sempre as datas se passam com a
+ressalva do direito de terceiro, portanto pede Vossa Excelência seja servido conceder aos suplicantes
+as terras que pedem com a correspondência devida as ordens do dito senhor. E receberá mercê. = Na
+forma das ordens de Sua Majestade não se podem dar mais que duas léguas em sesmaria a cada
+pessoa que as pede, e essas ordinárias e contínuas. Também pelo assento feito em junta se deve
+pagar para légua de foro a Sua Majestade o que constar do dito assento, e assim pode vir a dar aos
+três suplicantes seis léguas de terra na forma referida, quando se queiram sujeitar ao dito foro ou
+justificarem não acharem tanta terra onde confrontam, para se lhe por verba em seu assentamento
+nos livros dos foros das sesmarias e fazendo a data na forma da Ordenação livro 4.° título 43. É o
+que posso informar; Vossa Excelência mandará o que for servido. Recife, 14 de setembro de 1713.
+= "Antonio Rodrigues Pereira". Passe-se carta de sesmaria aos suplicantes, suposta a informação do
+
+procurador da Coroa e na forma que ele aponta e das ordens de Sua Majestade, que Deus guarde.
+Recife, 19 de setembro de 1713. "Rubrica". = E nada mais ela continha. =.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 215 - 217.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

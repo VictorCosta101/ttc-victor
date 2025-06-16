@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0061
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Góis de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-11-1679",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas de comprimento e uma de largura e estava localizada entre os rios Vaza-Barris e o rio das Pedras.",
+  "Localidade": "Entre os rios Vaza-Barris e o rio das Pedras",
+  "Marcos Geográficos": "Rio Vaza-Barris e rio das Pedras",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; Tinha terras contíguas às pleiteadas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que uma outra sesmaria tinha sido concedida a ele, no entanto, quando foi tomar posse, afirmou que Sebastião Pedrozo de Góis passou a ocupar a terra que ele pretendia, então para evitar os gastos e o tempo para resolver esse problema, resolveu pedir uma nova sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0061"
+}
+
+            **Conteúdo Original** (extrato):
+            SE 
+Registro de um alvará de sesmaria do desembargador João de Góis de Araújo de uma légua de 
+largo e duas de comprimento, entre o Rio das Pedras e o de Vazabarris correndo para cima. 
+Roque da Costa Barreto do Conselho de Sua Alteza lhe faço saber aos que este alvará de doação 
+e sesmaria virem; que havendo ao que por parte do desembargador João de Góis de Araújo se 
+enviou a representar por sua petição cujo teor é o seguinte: Senhor diz o desembargador João 
+de Góis de Araújo, que é senhor e possuidor de uma sorte de terra no Rio das Pedras na 
+Itabaiana. Termo da Capitania de Sergipe de El Rei que houve por título de compra e entre o 
+dito Rio das Pedras e o Vaza Barris, correndo cima há terra que está devoluta que poderá ser 
+uma légua de largo e duas de comprimento e parte dela serve já de logradouro dos gados do 
+suplicante há muitos anos por seus antecessores e posto que Vossa Senhoria lhe fornece de 
+outra sesmaria o ano passado da terra do leite na mesma Itabaiana antes de tomar posse dela se 
+meteu nela violentamente o licenciado Sebastião Pedrozo de Góis vigário que foi daquela 
+capitania com uma suposta sesmaria e não poderá o suplicante aproveitar-se dela sem demandas 
+e muitos gastos e despesas e muita dilação que as demandas trazem e é um ministro com 
+obrigações de filhas que está servindo a Sua Alteza com a satisfação que Vossa Senhoria é 
+presente. Pede a Nossa Senhoria que lhe faça mercê da sesmaria a dita légua de terra de largo e 
+duas de comprimento na forma em que a pede com as pontas [?] que fizer o Rio Vaza Barris. E 
+receberá mercê e vista a resposta do procurador da fazenda real, que é a seguinte não se me 
+oferece duvida e se conceder ao suplicante de sesmaria a légua de terra de largo e duas de 
+comprido que pede com as cláusulas ordinárias dízimos e ordem de Cristo sem prejuízo de 
+terceiros cultura no termo da lei demarcação ao da posse estradas públicas e particulares para 
+fontes, pontes, portos e pedreiras. Bahia 3 de Novembro de 1679 // Freitas // a informação do 
+provedor-mor da dita real fazenda que também é a que se segue Senhor parece que se deve 
+conceder ao suplicante a légua de terra de largo com duas de comprido de sesmaria no lugar 
+que pede com as condições de regimento que são sem prejuízo de terceiro e as mais que o 
+procurador da fazendo a aponta Vossa Senhoria mandara o que servido. Bahia, Novembro 6 de 
+1679 // Antônio Lopes de Ulhôa // Hei por por bem de lhe conceder e dar de sesmaria em nome 
+de Sua Alteza uma legal de terra de largo e duas de comprido assim como a pede e confronta 
+em sua petição como parece dos dois ministros da fazenda e não prejudicando a terceiro com 
+todas suas águas, campos, matos, testadas e logradouros e mais uteis que nelas se acharem, tudo 
+forro livres, e isento de pensão ou tributo algum, salvo dízimos a Ordem de Cristo, que pagará 
+dos frutos que nelas houver cultivando as no termo da lei, e demarcando no tempo da posse, e 
+será obrigado a dar estradas publicasse particulares para fontes, pontes, portos e pedreiras. Pelo 
+que ordeno a todos os ministros de justiça a que o conhecimento deste com direito deva ou 
+possa pertencer lhe façam dar a posse real e efetiva e atual na forma costumada de baixo das 
+clausulas acima referidas e as mais da ordenação título das semsarias para firmeza do que lhe 
+mandei passar a presente sob meu sinal e selo de minhas armas o qual se registrará nos livros 
+da secretaria do estado e nos mais a que tocar e se guardará e cumprirá tão pontual e 
+inteiramente como nele se contem sem duvidas embargo nem contradição alguma.. Antônio 
+Garcia o fez nesta cidade do Salvador Bahia de Todos os Santos em os 17 dias do mês de 
+Novembro de 1679. // Bernardo Vieira Ravasco o fez escrever // Roque da Costa Barreto // selo 
+e alvará de doação e semaria de uma légua de terra de largo e duas de comprimento que Vossa 
+Senhoria teve por bem conceder e dar em nome de Sua Alteza ao desembargador João de Góis 
+de Araújo assim como a pede e confronta em sua petição não prejudicando a terceiros e com as 
+mais clausulas que apontam os dois ministros da fazenda real pelos respeitos acima declarados 
+
+para Vossa Senhoria ver registrada no livro segundo dos registros da secretaria do estado do 
+Brasil a que toca a folhas 69 verso. Bahia Novembro 17 de 1679. // Ravasco// Despacho do 
+provedor-mor. Registro nos livros da fazenda a que toca. Bahia, dezembro 1679. // Antonio 
+Lopes de Ulhoa // registrou-se em dito dia mês e ano acima. // João Dias da Costa//  
+ 
+Observações do documento: 
+ 
+Referências: 
+NA, Códice 427. fls. 162 - 163 
+Número original no livro: 122 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

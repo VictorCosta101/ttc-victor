@@ -1,0 +1,101 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0243
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0317",
+  "Nome": "Manuel Martins de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-12-1787",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Una, termo da vila de Sirinháem. A sesmaria tinha por limite a  barra do rio Una para o sul, das cabeceiras de Domingos Mendes no lugar chamado as Lages do Faria, até a barra da Lama e as terras de Francisco da Costa Guimarães (PE 0235), e pela parte do norte com terras do mestre de campo José Lelis",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Rio Una, Lages do Faria, Barra da Lama",
+  "Confrontantes": "Francisco da Costa Guimarães, José Lélis",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0243"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0243 
+ 
+Carta de concessão de Manuel Martins de Sousa de 12/04/1787 
+ 
+Sesmaria de uma légua de terra em quadra, na ribeira do rio de Una termo de Sirinhaém, 
+principiando da barra do dito rio para a parte do sul, e pegando nas cabeceiras de 
+Domingos Mendes no lugar chamado as Lages do Faria, até onde chegar sua demarcação, 
+correndo pelo referido rio acima pela mesma parte do sul, até a barra da Lama a demarcar 
+com as terras de Francisco da Costa Guimarães, e pela parte do norte com terras do mestre 
+de campo José Lelis, concedida em 12 de abril de 1787 a Manoel Martins de Souza e seus 
+herdeiros ascendentes e descendentes, pelo capitão general José César de Menezes, com 
+o foro anual de 6 mil réis por légua, como determina a citada Real Ordem de 26 de 
+setembro de 1700; a qual não poderá passar a religiões ou outras pessoas eclesiásticas, se 
+não com os mesmos encargos e nem poderá se dividir ou partir, salvo por estimação, 
+como dispõe a citada ordenação. Com cópia no livro 7º folha 144. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.84. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

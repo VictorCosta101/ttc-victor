@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0115
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Rios",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "07-03-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Sobre o histórico, a carta fornece as seguintes informações: \"que a ele lhe vendeu Antônio Fernandes, sombreireiro, um chão ao redor do Ribeiro de São Bento por dizer ter dado por devoluto o Senhor Salvador Correia de Sá, que foi capitão e governador desta dita cidade, por haver perdido um Bento Loureiro, a quem foi dado no ano de 79 como constara da carta\".",
+  "Localidade": "Chão ao redor do Ribeiro de São Bento",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Ribeira": "Ribeiro de São Bento",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Pretendia fazer casa; Pretendia fazer benfeitoria; Tinha escravos; Alegou possuir muitos familiares; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia obter a concessão legítima da terra, pelo fato de Antônio Fernandes, o sombreireiro (este, por sua vez, especificado na própria carta, pois haviam várias pessoas com esse nome na época na cidade do Rio de Janeiro) alegar que o sesmeiro antigo, Bento Loureiro, haver perdido a confirmação de 1569, quando Fernandes vendeu a terra para o requerente e não poder a repassar.",
+  "Observações das exigências": "Determinou-se também que \"haja a posse e senhorio do dito chão, para sempre\", assim como exigiu-se que \"viva e resida nesta dita cidade ou em seu termo ao menos três anos, dentro do qual tempo ele não poderá vender, nem enlear o dito chão por nenhuma via que seja, sem licença do dito Senhor, capitão e governador ou de quem adianta tiver poder para a dar, e da dita maneira me dava o dito chão, e acabados os ditos três anos, tendo ele feito no dito chão casas e benfeitorias, ele poderá dar, trocar, descambar, doar e fazer dele tudo o que lhe bem vier, como coisa sua própria, isenta que é, o qual chão lhe deu em nome de El Rei, nosso Senhor, forro e isento, sem foro e nem tributo algum, somente o dízimo a Deus\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0115"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0115
+Carta de pedido de concessão de sesmaria de Manuel de Rios de 7 de março de 1603
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem, que no ano do nascimento do
+nosso Senhor, Jesus Cristo, de 1603, aos 7 dias do mês de março do dito ano, nessa cidade de
+São Sebastião do Rio de Janeiro do Brasil, nas casas de morada de mim escrivão adiante
+nomeado, apareceu Manuel de Rios, morador nesta cidade, e me apresentou uma petição com
+despacho nela do Senhor Martim de Sá, capitão e governador dita cidade, capitania e
+governança neste dito Rio de Janeiro, por El Rei, nosso Senhor. Da qual petição o despacho
+dela e o traslado é o seguinte: Manuel de Rios, morador nesta cidade, que a ele lhe vendeu
+Antônio Fernandes, sombreireiro, um chão ao redor do Ribeiro de São Bento por dizer ter
+dado por devoluto o Senhor Salvador Correia de Sá, que foi capitão e governador desta dita
+cidade, por haver perdido um Bento Loureiro, a quem foi dado no ano de 79 como constara da
+carta, e por até ora o dito Antônio Fernandes lhe não ter dado a carta, por dizer a ter perdido, e
+o dito Manuel de Rios o está há muitos anos de posse da dita dada e chão por virtude da dita
+venda e até hoje não ter outra dada nesta cidade, e ser morador, e sempre estar prestes com
+sua família e escravos em todas as ocasiões, pede à Vossa Senhoria, havendo respeito ao
+alegado, lhe faça mercê de lhe dar de novo de sesmaria por perdido o dito chão, que foi de
+Bento Loureiro, assim e da maneira que em sua petição e carta é declarado, com a largura e
+comprimento que lhe foi dado, com as confrontações nele declarado, por assim o haver
+perdido o dito Bento Loureiro, no que receberá mercê. Despacho do Senhor, capitão e
+governador. Dou o dito chão na forma de sua petição. Rio de Janeiro, a 7 de março de 1603
+anos. Martim de Sá. E tudo visto pelo dito Senhor, capitão e governador, a petição do dito
+suplicante Manuel de Rios, e o que ele pedia visto ser justo e havendo respeito ao proveito
+que se pode seguir acerca da República, e ao serviço de Deus e Del Rei, nosso Senhor, e para
+a terra se povoar, deu ao dito suplicante Manuel de Rios, o chão contido na sua petição,
+conforme o dito seu despacho, pelas razões e causas contidas na sua petição para o aproveitar
+e fazer casas e benfeitorias neles, não sendo já dado à outra pessoa primeiro, o qual chão diz
+que está no dito lugar, que parte pelas ditas confrontações como em sua petição diz. O qual
+chão lhe deu e concedeu na maneira adiante declarada, segundo forma do Regimento Del Rei,
+nosso Senhor, de que o traslados é o seguinte: as terras que estiverem dentro do termo e limite
+da dita cidade de São Sebastião, que são 6 léguas para cada parte que não foram dadas a
+pessoas que as aproveitarem ou, posto que o fossem, se pôr as pessoas a que se deram, as não
+aproveitarem no tempo que são obrigadas, por esta via ou por qualquer outra estiverem vagas,
+as podereis dar de sesmaria a quem a vós pedir, e tereis lembrança que não derdes a cada
+pessoa mais terra que aquela que segundo sua possibilidade virdes, ou vos parecer que podem
+granjear e aproveitar, as quais terras assim dareis livremente sem outro algum foro, somente o
+dízimo à Ordem do Mestrado de Nosso Senhor Jesus Cristo, com as condições e obrigações
+do foral dado as ditas terras de minha Ordenação do Livro 4º, título das sesmarias, com a
+condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras
+que lhe assim foram dadas ao menos três anos, e que dentro do dito tempo as não possam
+vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade e
+estiverem perdidas, por não aproveitarem, e a vós tornarem a pedir, vós as podereis de novo
+dar, com as condições e obrigações contidas neste capítulo, o qual se trasladada nas cartas,
+porque as assim derdes e isso se entenderá não sendo as ditas terras dadas à outras pessoas.
+Com as quais condições, obrigações e declarações lhe assim deu o dito Senhor, capitão e
+governador, o dito chão ao dito Manuel de Rios pela dita maneira e para sua guarda e
+segurança, lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio do
+
+dito chão, para sempre, para ele e todos os seus herdeiros, sucessores, ascendentes e
+descendentes que após dele vierem com a tal condição e entendimento que ele viva e resida
+nesta dita cidade ou em seu termo ao menos três anos, dentro do qual tempo ele não poderá
+vender, nem enlear o dito chão por nenhuma via que seja, sem licença do dito Senhor, capitão
+e governador ou de quem adianta tiver poder para a dar, e da dita maneira me dava o dito
+chão, e acabados os ditos três anos, tendo ele feito no dito chão casas e benfeitorias, ele
+poderá dar, trocar, descambar, doar e fazer dele tudo o que lhe bem vier, como coisa sua
+própria, isenta que é, o qual chão lhe deu em nome de El Rei, nosso Senhor, forro e isento,
+sem foro e nem tributo algum, somente o dízimo a Deus, o que tudo manda que se cumpra e
+guarde, sem dúvida nem embargo algum, que lhe a ele seja posto, que esta carta seja
+registrada dentro de um ano nos livros da Fazenda Real, como diz o Senhor em Regimento
+manda, sob as penas nele contidas e declaradas,
+e porque o sobredito Manuel de Rios,
+suplicante , tudo prometeu de ter, manter e cumprir pela sobredita maneira lhe mandou o dito
+senhor, capitão e governador, passar esta carta de sesmaria, e por verdade, eu Pero da Costa,
+escrivão das sesmarias e tabelião das notas por El Rei, nosso Senhor, nesta dita cidade de São
+Sebastião e em seus termos, que este instrumento de carta de sesmaria escrevi e tomei nos
+meus livros de nota e tombo das cartas das sesmarias desta dita cidade, que em meu poder
+ficam e estão, onde o dito instrumento fica assinado pelo dito Senhor, capitão e governador.
+Diz o emendado borrado: "sessenta e nove" no que não faça dúvida. //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta do chão que pediu Manuel de Rios que diz que foi de Bento Loureiro
+que diz que o vendeu Antônio Fernandes sombreireiro.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+143-146;   Documento Original : Fl.36v.
+Original no livro
+Arquivo: DHBN_VOL.CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,78 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0467
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Jacinto Teixeira de Abreu",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "09-05-1747",
+  "Observações da sesmaria": "A sesmaria possuía 3 léguas de comprimento e 1 de largura e estava localizada na vila da Cachoeira, no sertão do Piratigi, por trás da serra da Guirangam fazendo fronteira com as terras de Simão de Abreu Teixeira, seu pai. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria. ",
+  "Localidade": "Vila da Cachoeira",
+  "Marcos Geográficos": "Sertão do Piratigi; serra da Guirangam",
+  "Confrontantes": "Simão de Abreu Teixeira",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1746, acredita-se que foi o vice-rei, André de Melo e Castro, que concedeu a sesmaria.\r\n",
+  "Observações das exigências": "As do Foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "referencia": "BA0467"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Padre Jacinto Teixeira de Abreu. - Alvará de 9 de maio de 1747. - Uma légua de largo 
+e 3 de comprido. - Na vila da Cachoeira e sertão Piratigi, nas cabeceiras das serras de 
+Simão de Abreu Teixeira, seu pai, para o nascente e Norte no sítio por de trás da serra 
+da Guiranga com 3 léguas de comprido para o Norte e uma légua de largo e para o 
+Nascente, partindo pelo poente com o dito Simão de Abreu e pelos outros lados com 
+terras incógnitas, com todas as águas, campos, pastos e mais logradouros úteis; salvo 
+prejuízo de terceiro. - Condições: as do foral e etc.  
+ 
+Referência:Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 
+169 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

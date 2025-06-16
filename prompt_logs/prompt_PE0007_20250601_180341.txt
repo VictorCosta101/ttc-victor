@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0007
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0012",
+  "Nome": "Gonçalo de Barros, Gonçalo Dias Fonseca, Gonçalo Soares da Fonseca, João Espínola de Vasconcelos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-04-1693",
+  "Data da concessão": "22-05-1693",
+  "Observações da sesmaria": "Os suplicantes requereram as terras devolutas entre as fronteiras das terras do alferes Manuel Castro Flores e as terras do capitão-mor Bernardo Vieira de Melo, próximas ao rio Capibaribe.  Os suplicantes não informaram o tamanho e nem as medidas territoriais da sesmaria requerida.",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Confrontantes": "Terras do alferes Manuel Castro Flores e as terras do capitão-mor Bernardo Vieira de Melo",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Participou da guerra contra os holandeses; Pretendia criar gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes declarassem a quantidade de léguas que desejavam adquirir e que deveriam provar que as terras se encontravam desaproveitadas e devolutas, por se tratar de uma região próximo ao litoral. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0007"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0007 
+ 
+Carta de doação e sesmaria de Gonçalo Soares da Fonseca, Gonçalo de Barros, Gonçalo Dias 
+Fonseca e João de Espindola de Vasconcelos – 22/05/1693 
+ 
+CARTA DE SESMARIA E DOAÇÃO DE UMAS TERRAS QUE SE DERAM A GONÇALO 
+SOARES E A OUTRAS PESSOAS NO PASSIRA MEIRIM, TERMO DESTA CAPITANIA, 
+NA FREGUESIA DE SÃO LOURENÇO 
+ 
+Dom Antônio Felix Machado, do Conselho de Sua Majestade, marquês de Monte-bello, e etc. Faço 
+saber aos que esta carta de doação e sesmaria virem que a mim se representou a petição cujo teor é 
+o seguinte: “Senhor governador” Dizem Gonçalo Soares da Fonseca, Gonçalo de Barros, Gonçalo 
+Dias Fonseca e o alferes João Espindola de Vasconcelos, todos moradores na Alagoa Grande, 
+freguesia de São Lourenço da Mata, que os pais e avôs dos suplicantes serviram no tempo das 
+guerras destas capitanias a Sua Majestade, que Deus guarde, passando muitos trabalhos e perdas 
+nas ocasiões das ditas guerras, e sem até o presente se lhes haver dado terra alguma, sendo naturais 
+destas capitanias, e porquê de presente lhes são necessárias terras para poderem povoar com seus 
+gados e que é em utilidade da Fazenda de Sua Majestade e bem comum; porque no Passira Meirim 
+deste distrito, na nascença de Colungieba, desde as testadas das terras do alferes Manoel de Castro 
+Flores, Antônio Baptista, correndo para o sertão até uma Alagoa que chamam de (espaço em branco 
+no original) e daí correndo até as testadas das terras do capitão-mor Bernardo Vieira de Melo até 
+dar no rio Capibaribe, há terras devolutas, sem serem aproveitadas nem povoadas e os suplicantes 
+as querem aproveitar e povoar com os seus gados, para maior utilidade dos dízimos de Sua 
+Majestade e bem comum: pedem a Vossa Senhoria seja servido conceder-lhes de sesmaria todas as 
+ditas terra, digo, testadas do alferes Manoel Castro Flores, digo, as ditas terras que se acharem 
+devolutas e desaproveitadas entre as ditas confrontações das mesmas testadas do alferes Manoel de 
+Castro Flores, Alagoa da (espaço em branco no original), testada do capitão-mor Bernardo Vieira e 
+Rio Capibaribe, vistas as razões apresentadas, receberão mercê. Informe o provedor da Fazenda 
+Real, ouvindo o procurador dela. Olinda, 13 de abril de 1693. “Rubrica”. Haja vista o procurador da 
+Coroa e Fazenda Real. Olinda, 14 de abril de 1693. “Barros”. Devem os suplicantes declarar as 
+léguas de terras que pedem de sesmaria e também provar como estão devolutas ou desaproveitadas, 
+visto que estão em paragem tão pouco distante. Recife, 14 de abril de 1693. “Pereira”. Senhor, com 
+a resposta do procurador da Coroa, informe a Vossa Senhoria para mandar o que for servido. 
+Recife, 18 de maio de 1693. “João Rego Barros”. Satisfação a dúvida que aponta o procurador da 
+Coroa. Olinda, 19 de maio de 1693. “Rubrica”. Senhor, o suplicante tem justificação de como as 
+terras de que fazem menção estão devolutas e desaproveitadas, e sendo a Vossa Senhoria servido, 
+deem-se lhes o que pedem sendo na forma do estilo e regimento, sem não achar-se dúvida. Recife, 
+20 de maio de 1693. “João do Rego Barros”. Passe-lhe sesmaria na forma que parece ao provedor 
+
+da Fazenda Real. Olinda, 20 de maio de 1693. “Rubrica”. E havendo outrossim, respeito ao que Sua 
+Majestade, que Deus guarde, me encomenda no capítulo quinze do regimento desse Governo: Hei 
+por bem de lhes fazer mercê dar aos suplicantes acima nomeados, (como em virtude da presente 
+dou) de sesmaria as ditas terras que pedem, nos mesmos lugares, partes e testadas que confrontam 
+na sua petição, assim e da maneira que parece ao provedor e procurador da Fazenda Real, pelo que 
+constou da justificação que fizeram de estarem as ditas terras devolutas e desaproveitadas, as quais 
+terras possuirão e gozarão os ditos suplicantes, ele e seus herdeiros, achando-se devolutas e não 
+prejudicando a terceiros, com todas as suas águas, campos, matas,  testadas, logradouros e mais 
+úteis que nelas se acharem, tudo foro livre e isentos de tributo, foro ou pensão alguma, salvo dízimo 
+a Deus; e só serão obrigados a dar pelas ditas terras caminhos livres ao Conselho para fontes, 
+pontes ou pedreiras; pelo que ordeno a todos os ministros da Fazenda e Justiça destas capitanias ou 
+aos que  o conhecimento desta carta pertencer, lhe façam dar posse real, efetiva e atual na forma 
+costumada e debaixo das cláusulas referidas, e da mais da Ordenação título de sesmarias; que para 
+firmeza de tudo lhes mandei passar a presente por mim assinada e selada com o selo de  minhas 
+armas, a qual se registrará nos livros da Secretaria destas capitanias e nos mais a que tocar. Dada 
+nesta cidade de Olinda, em os 22 do mês de maio. Antônio Pereira a fez, ano de 1693. O secretario 
+Antônio Barbosa de Lima a fez escrever = Marquês de Monte-bello =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 29 - 31. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

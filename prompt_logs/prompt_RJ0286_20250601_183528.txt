@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0286
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Barbosa Barreto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-03-1724",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio do Iguaçu",
+  "Marcos Geográficos": "Alto da Serra",
+  "Ribeira": "Iguaçu",
+  "Confrontantes": "Terras de Matias de Mendonça, terras dos herdeiros de Manuel Martins Brito e terras de Manuel Pereira Ramos",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0286"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0286
+Carta de concessão de Francisco Barbosa Barreto de 11 de março de 1724
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do sereníssimo infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão-general da capitania do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Francisco Barbosa Barreto, que pelo rio do Iguaçu acima se acha uma sorte de
+terras devolutas, e ele, com bastantes escravos para as poder cultivar para melhor sustentação
+de sua pessoa e família, pede-me que lhe mandasse dar por sesmaria as ditas terras que fazem
+sua testada pelo rio acima da parte esquerda, onde acaba a sesmaria de Matias de Mendonça,
+toda a terra que se achar devoluta até o mais alto da serra, fazendo sertão com os herdeiros de
+Manuel Martins Brito, às do sargento–mór Manuel Pereira Ramos e toda a mais que se achar
+devoluta, com seus outeiros, vargens vertentes, brejos, arvoredos, entradas, saídas e
+logradouros que se acharem nas ditas terras. Dando se vista deste requerimento ao provedor
+da Fazenda Real e ao procurador da Coroa, não se lhes oferecendo dúvida. Hei por bem fazer
+mercê de lhe dar de sesmaria, em nome de Sua Majestade, que Deus guarde, ao dito
+Francisco Barbosa Barreto as referidas terras; não excedendo, porém, 1 légua em quadra, na
+forma das Ordens do mesmo Senhor; sem prejuízo de terceiro ou do direito que algumas
+pessoas possam ter a elas; e com declaração que as cultivará e mandará confirmar esta minha
+carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não a fazendo se lhe denegará
+mais tempo. Pelo que mando ao ministro ou oficial de justiça, a quem o conhecimento desta
+pertencer, dê posse ao dito Francisco Barbosa Barreto das referidas terras na forma e maneira
+acima declarada. Por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada
+com o sinete de minhas armas, que se cumprirá inteiramente como nela se contém, se
+registrará nos Livros da Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de
+São Sebastião do Rio de Janeiro aos 11 dias do mês de março de 1724. João Paes de Paredes
+a fez. O secretário, José Ferreira da [Fonte].
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+[Carta porque Vossa Senhoria] há por bem fazer mercê de dar por sesmaria, em nome de Sua
+Majestade, (ilegível) Francisco Barbosa Barreto as referidas terras na forma e maneira acima
+declarada.
+Para Vossa Senhoria ver.
+
+Registra no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+175. Rio, a 11 de março de 1724.
+//José Ferreira da Fonte//
+Cumpra-se e registre-se nos Livros da Fazenda Real. Rio, 11 de março de 1724.
+//Cordovil//
+Registrada no Livro 21 dos registros da Fazenda Real a folha 176. Rio, a 15 de março de
+1724.
+//José Leitão//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Francisco Barbosa Barreto umas terras n'uma das margens do Rio Aguassû, com as
+confrontações descriptas na mesma carta.
+Referência:
+AHU_ACL_CU_017-1, Cx. 22\Doc. 4878
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

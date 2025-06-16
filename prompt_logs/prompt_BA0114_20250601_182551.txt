@@ -1,0 +1,157 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0114
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco de Araújo Aragão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-03-1702",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento e estava localizada ao longo do rio Jacuípe, fazendo fronteiras com as terras de João Gonçalves São Tomé e Gaspar de Barros.",
+  "Localidade": "Rio Jacuípe",
+  "Marcos Geográficos": "Rio Jacuípe",
+  "Confrontantes": "João Gonçalves São Tomé; Gaspar de Barros",
+  "Observações da petição": "o suplicante solicitou 2200 braças de largura e duas léguas e meia de comprimento.",
+  "Justificativas": "Não tinha terras; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O  provedor da fazenda afirmou que as medidas das terras que seriam dadas ao suplicante não poderiam ultrapassar as três léguas que costumava se conceder, dando a entender que as medidas solicitadas pelo suplicante ainda poderiam ser maiores, uma vez que elas foram menores do que as 3 léguas totais, e também afirmou que o suplicante não poderia cortar as madeiras que seriam usadas para a construção das naus.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Faria",
+  "referencia": "BA0114"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registo do alvará pelo qual se concedeu e deu de sesmaria em nome de Sua Majestade, que 
+Deus guarde, a Francisco de Araújo Aragão para ele e seus descendentes a terra que confronta 
+em sua petição, não excedendo de uma légua de largura e 3 de comprimento. 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que Francisco de Araújo Aragão me representou a 
+petição cujo o teor é o seguinte: diz Francisco de Araújo Aragão que nesta Bahia, distrito de 
+Ilhéus, se deu de sesmaria a João Gonçalves São Tomé meia légua de terra de largura com uma 
+légua de comprimento para o sertão, caminho do norte, e depois  desta sesmaria sobe ela nas 
+suas cabeceiras da parte do leste se deu outra sesmaria a João Gonçalves de Aguiar de 800 
+braças de largura e meia légua de comprimento para o sertão ao rumo do norte e depois sobe 
+esta sesmaria de João Gonçalves de Aguiar nas suas cabeceiras. Se deu outra sesmaria aos 
+Reverendos Padres da Companhia, e em cabeceiras de outro até o rio Jacuípe por seu 
+comprimento rumo ao norte com que ficarão devolutas 700 braças de terra nas cabeceiras do 
+dito João Gonçalves de Aguiar e dos Reverendos Padres da companhia, rumo ao norte até o 
+dito rio Jacuípe, e outro rio da parte do leste junto ao dito João Gonçalves São Tomé, partindo 
+com ele se deu de sesmaria outra meia légua de terra de largura a Gaspar de Ramos de 
+Magalhães, cujas cabeceiras até o dito rio Jacuípe estão devolutas, juntas e unidas com outras 
+atrás do dito João Gonçalves São Tomé, que se divide neste rumo que é entre eles. E porque o 
+suplicante não tem nesta capitania terra que lhe fosse dada de sesmaria e por aproveitar esta que 
+não estão dadas por ter para isso cabedal e gente, pede a Vossa Senhoria [que] lhe faça mercê 
+dar de sesmaria ao suplicante toda a terra que se achar devoluta sobre as cabeceiras dos ditos 
+João Gonçalves São Tomé e Gaspar de Barros que poderão ser 2200 braças de largura com seu 
+comprimento até o rio Jacuípe que podem ser 2 léguas e meia, pouco mais ou menos, ou o que 
+achar até o dito rio que é marco natural e permanente. Por escusar dúvidas divergências com os 
+éreos e circunvizinhos. E receberá mercê. E visto o parecer do doutor procurador da Coroa que 
+é a que se continua: sem embargo que pelo sítio e vários confinantes de que faz isenção o 
+suplicante, pode haver alguma confusão nesta data. Não se oferece dúvida a que se lhe conceda 
+na forma da lei, sem prejuízo de terceiro e para que não suceda havê-lo para os tempos feitores, 
+se deve procurar alvará com cláusula de que lhe não valerá sem termos de possem dentro de 2 
+meses da data deste, fazendo citar a todos os éreos confinantes para virem se tem embargos a 
+data parte que cuja as diligencias e posse se estenderá cláusulas na carta do dito alvará. Bahia, 
+5 de março de 1701 // Faria // E a informação do provedor-mor da Fazenda Real do dito Estado 
+que é a que se segue: Senhor, a quantidade de terra que o suplicante pede de sesmaria não 
+excede as 3 léguas que Vossa Majestade manda que se possam dar, e no mais me parece o 
+mesmo que ao doutor procurador da Fazenda Real. E sob as mais cláusulas e condições da lei 
+de sesmarias e a de não poder o suplicante cortar madeiras algumas que possam ser de préstimo 
+para a fábrica das naos de Sua Majestade, como é de estilo e ordenação do Reino as posses que 
+parecer a Vossa Senhoria mandar-lhe enviar a carta que lhe passar. Vossa Senhoria mandará o 
+que convier. Bahia, 6 de março de 1702 // Francisco Lamberto // Hei por bem de conceder e dar 
+de sesmaria me nome de Vossa Majestade, que Deus guarde, ao dito Francisco de Araujo 
+Aragão para ele e seus descendentes a terra que pede e confronta em sua petição nesta inserta, 
+não prejudicando a terceiro e com as mais cláusulas que apontam e declaram os ministros da 
+Fazenda Real em seu parecer também acima inserta para de que contando o contrário, lhe não 
+valerá este alvará e perderá todo o benefício que houver feito nas ditas terras as quais outro se 
+aproveitará  dentro do termo da lei, e as não poderá alhear nem passará a outro algum domínio 
+sem as ter aproveitado com condição de se darem logo neste caso a quem a outra pessoa, nem 
+o poderá fazer sem expressa ordem de Sua Majestade e com as mais cláusulas contidas na 
+ordenação do Reino, título de sesmarias e forma do capítulo 26 do regimento novo deste 
+
+governo geral as quais terras terá e possuirá com todas as suas águas, matas, testadas, 
+logradouros e mais úteis que nelas se acharem com foro livre e isento de pensão salvo o dizimo 
+a ordem de Cristo que pagará pelos frutos que delas houver, e por elas serão obrigados a dar 
+caminhos públicos e particulares para fontes, pontes, portos e pedreiras com declaração que se 
+havendo nas ditas terras alguma aldeia de índios, não fique o dito Francisco de Araujo Aragão 
+senhor dela e nem das terras que ocuparem os índios na forma das novas ordens de Sua 
+Majestade. Pelo o que ordeno a todos os ministros e oficiais de justiça, a que o conhecimento 
+deva ou possa pertencer, [que] lhe façam dar e deem posse real, efetiva e atual demarcando-se 
+no tempo dela citados os éreos, que enviarão certidão a casa dos contos de onde se registrará. 
+Para a firmeza do que lhe mandei lavrar a presente sob o sinal e selo de minhas armas do qual 
+se registrará nos livros da secretaria do Estado, e nas mais a que tocar da Fazenda Real dele e 
+nos do escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente com nele se 
+contém sem dúvida, embargo nem contradição alguma. // Luiz da Costa Sepúlveda // o fez nesta 
+cidade do Salvador, Bahia de Todos os Santos aos 9 dias do mês de março, ano de 1702 e será 
+obrigado a mandar confirmar por Sua Majestade esta sesmaria dentro de um ano, seguinte a 
+data desta forma das novas ordens do mesmo // Manuel Rogerio // oficial maior da secretaria 
+do Estado do o recebeu por impedimento do secretário dela e mandado do // Dom João de 
+Lencastro // governador e capitão general do mesmo Estado // Dom  João de Lencastro // selo 
+// Alvará porque Vossa Senhoria Ilustríssima teve de conceder e dar em nome de Sua Majestade, 
+que Deus o guarde, a Francisco de Araújo Aragão, para ele e seus descendentes a terra que pede 
+e confronta em sua petição neste inserta, não excedendo uma légua de largura e 3 de 
+comprimento e nem prejudicando a terceiro com todas as cláusulas que apontam os ministros 
+da Fazenda Real em seus pareceres também neles informados, e os mais na ordenação do reino 
+e título de sesmarias com as mais costumadas de não prejudicar as aldeias e terras dos índios 
+que nelas se acharem nas condições apontadas e se demarcar e confirmar esta por Sua 
+Majestade, dentro de um ano pelos respeitos acima declarados. Para Vossa Ilustríssima ver. 
+Registrado no livro 5° dos registros da secretaria do Estado do Brasil, que tocava as folhas 178. 
+Bahia, 20 de março de 1702 // Lamberto // Leonardo Lopes de Carvalho a registrou em 22 do 
+dito mês e ano. 
+ 
+- Fim da Transcrição - 
+ 
+Observações: 
+- O nome do suplicante consta no documento original como: “Francisco de Araujo Aragão” 
+ 
+Referências: 
+AN, Códice, fls. 162v – 164. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

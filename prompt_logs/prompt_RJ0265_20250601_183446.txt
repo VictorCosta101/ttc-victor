@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0265
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Luís Peixoto da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-11-1721",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas por detrás da Serra do Frade",
+  "Marcos Geográficos": "Serra do Frade",
+  "Confrontantes": "Terras do sargento-mor Bernardo Soares de Proença, caminho geral que se há de abrir da Paraíba",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0265"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0265
+Carta de concessão de Luís Peixoto da Silva de 12 de novembro de 1721
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que tendo respeito a representar-me
+por sua petição o capitão Luís Peixoto da Silva, que no distrito desta cidade onde acabam as
+terras que pede por sesmaria o sargento-mor Bernardo Soares de Proença, atrás da Serra do
+Frade, no fim da dita se acham mais terras devolutas, sem nunca terem sido [a]proveitadas de
+pessoa alguma, e ele suplicante se acha com obrigações de filhos e com escravos para as
+poder cultivar, pedindo-me lhe mandasse dar por sesmaria 1 légua de terras em quadra,
+fazendo esta [a] testada na cabeceira do sertão do dito, correndo a dita légua de sertão pelo
+mesmo rumo que correr o caminho geral que se há de abrir da Paraíba, e vir buscar a saída da
+quebrada da dita Serra do Frade, ficando o dito caminho geral dividindo pelo meio a dita
+légua de terra em quadra desde o fim do seu sertão até o princípio, para que assim fique igual
+quantidade da dita terra para uma e outra parte do dito caminho geral; para efeito de mais e
+utilidade a serventia das ditas terra, para melhor se aproveitarem e de que também se seguia
+proveito aos dízimos Reais e bem comum. Dando-se vista deste requerimento ao provedor da
+Fazenda Real e ao procurador da Coroa, não se lhes oferecendo dúvida. Hei por bem fazer
+mercê ao dito capitão Luís Peixoto da Silva de lhe dar, em nome de Sua Majestade, que Deus
+guarde, as referidas terras por sesmaria; não excedendo, porém, uma légua em quadra, na
+forma das ordens do mesmo Senhor; sem prejuízo de terceiro ou do direito que algumas
+pessoas possam ter a elas; com declaração que as cultivará e mandará confirmar esta minha
+carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará
+mais tempo. Pelo que mando ao ministro ou oficial de justiça, a que conhecimento desta
+pertencer, dê posse do dito capitão Luís Peixoto da Silva da referida légua de terra na forma e
+maneira acima declarada. E por firmeza de tudo, mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se cumprirá inteiramente como nela se contém e se
+registrará nos Livros da Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de
+São Sebastião do Rio de Janeiro aos 12 dias do mês de novembro de 1721. João Paes de
+Paredes a fez. O secretário, José Ferreira da [Fonte], a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+
+Carta porque Vossa Excelência há por bem fazer mercê ao capitão Luís Peixoto da Silva, de
+lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, 1 légua de terras em
+quadra na forma e maneira acima declarada.
+Para Vossa Excelência ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo à folha
+114. Rio, a 12 de novembro de 1721.
+//José Ferreira da Fonte//
+Lançada neste Cartório das Sesmarias no Livro da Nota à folha 231. Rio, 18 de [novembro]
+de 1721.
+//Manoel de Vasconcelos Velho//
+Registre-se nos Livros da Fazenda Real. Rio, 14 de novembro de 1721.
+Registrada no Livro 21 de registro que serve nesta Provedoria à folha 21. Rio de Janeiro, 17
+de novembro de 1721.
+//Francisco de Oliveira Leitão//
+O doutor Antônio de Sousa de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral, corregedor da comarca com alçada no civel e crime nesta cidade do
+Rio de Janeiro e nas mais capitanias de sua repartição, e juiz das justificações, etc. Aos que a
+apresente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que esta fez ser a letra dela, fez posta no fim da carta de sesmaria retro do
+governador e capitão general desta praça, Aires de Saldanha e Albuquerque, e a letra e firmas
+dos registros acima são das pessoas neles declaradas. O que hei por justificado e verdadeiro.
+Rio de Janeiro, 6 de [dezembro] de 1722. E eu, Domingos Rodrigues Tavora, escrivão das
+justificações, a fiz e escrevi.
+//(não identificada)//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro fez mercê a Luiz Peixoto da
+Silva de lhe dar por sesmaria uma légua de terras em quadra, com as confrontações descritas
+na mesma carta. Rio de Janeiro, 12 de novembro de 1721 (anexa ao n° 4.278).
+Luiz Peixoto da Silva foi atualizado para Luís Peixoto da Silva.
+Referência:
+AHU_ACL_CU_017-1, Cx. 19\Doc. 4279
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

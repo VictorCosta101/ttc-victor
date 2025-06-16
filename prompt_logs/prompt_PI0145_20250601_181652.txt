@@ -1,0 +1,172 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0145
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Veríssimo Manuel Robalo Freire",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "17-06-1727",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Em relação ao histórico da terra, ainda que o requerente não seja o descobridor da terra, o documento oferece dados importantes que tratam dos ocupantes anteriores: \"Comprou aos herdeiros de Miguel Martins, que foi o comprou a José Garcia como testamenteiro do padre Custódio Rodrigues, que o descobriu e povoou antes de outra alguma pessoa\".",
+  "Localidade": "Sítio A Capoama",
+  "Marcos Geográficos": "Sertão de Itaquera",
+  "Ribeira": "Gurgueia, Piauí",
+  "Justificativas": "Alegou possuir curral; Alegou que já pagava o dízimo havia um tempo; Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha escravos; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0145"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0145
+Carta de concessão ao Veríssimo Manuel Rabelo Freire - 17/06/1727
+Carta de data e sesmaria de 3 léguas de terra de comprimento e uma de largura
+passada a Veríssimo Manuel Rabelo Freire no sítio chamado a Capoama, no sertão
+da Itaquera, entre a Ribeira da Gurguéia como abaixo se declara.
+João da Maia da Gama. Faço saber aos que esta minha carta de data e sesmaria
+virem, que a mim me enviou a dizer por sua petição, Veríssimo Manuel Rabelo Freire,
+que ele é senhor e possuidor de um sítio de terras chamado a Capoama no sertão da
+Itaquera, entre a Ribeira da Gurgueia e Piauí, que houve por título de compra de Maria
+Simões,
+viúva de Antonio Rodrigues Gato, como herdeira de seu filho Miguel
+Martins, que foi o que desinfestou o dito sítio, em que finalmente por sua nas mãos dos
+bárbaros que infestavam. E está ocupando o suplicante com casa de vivenda currais,
+escravos e homens brancos, com quantidade de gados vacuns e cavalares de que está
+pagando dízimo a Deus com considerável aumento da Fazenda Real. E porque o possui,
+vai
+em
+8 anos a
+esta parte sem título algum.
+Portanto,
+me
+pedia
+lhe
+fizesse mercê conceder-lhe de sesmaria o dito sítio da Capoama na forma das Ordens
+de Sua Majestade, no seu mesmo curral e receberia mercê. E atendendo eu às razões
+que alegava, como também ao que responderam os ministros da Fazenda Real, pus por
+meu despacho o seguinte visto à
+informação
+do provedor-mor
+e
+mais oficiais da Fazenda desta capitania, pelas quais consta não estarem dadas estas
+terras; e vista a informação do doutor provedor-mor da Fazenda do Piauí e sumário
+de testadas, pelas quais consta estar o suplicante senhor e possuidor do sítio que pede, e
+tê-lo povoado com gados vacuns e cavalares, e escravos, e homens brancos que o
+beneficia. E com casa de vivenda, pelo que cessa a dúvida que aponta o procurador
+da Fazenda, de
+se
+não
+dar
+mais que uma
+data
+a
+cada
+pessoa,
+por
+ter
+o suplicante povoado na forma referida o dito sítio das Capoama. Comprou aos
+herdeiros
+de
+Miguel
+Martins, que foi
+o
+comprou
+a
+José
+Gracia
+como testamenteiro do padre Custódio Rodrigues, que o descobriu e povoou antes de
+outra alguma pessoa, como consta da dita informação e sumário. Pelo que concedo
+ao suplicante, em nome de Sua Majestade, que Deus guarde, 3 léguas de terra de
+comprimento e uma de largura no sítio e lugar que pede, com condição de pagar o foro
+ou arrendamento que Sua Majestade, que Deus guarde,
+for
+servido
+impor-lhe
+na
+confirmação e de registrar nos livros da Fazenda Real desta capitania e na do Piauí. E
+com as mais condições apontadas e expressadas nas Reais Ordens para que as haja,
+logre e possua como coisa própria, e todos os seus herdeiros, ascendentes e
+descendentes pagando dízimos a Deus, Nosso Senhor, dos frutos que nelas tiver,
+reservando
+os
+paus
+reais que nelas
+houver para embarcações.
+Com
+declaração que mandará confirmar esta carta dentro dos primeiros 3 anos seguintes,
+além dos registros costumados nesta cidade, e registrará dentro em 6 na provedoria da
+vila da Mocha e Piauí. E cultivará as dita terras; e dará caminhos públicos e particulares
+onde forem necessários para pontes, fontes, portos e pedreiras; e se demarcará ao tempo
+da posse por rumo de corda e braças craveiras como é estilo e Sua Majestade manda. E
+outrossim, não poderão nelas suceder religiões por nenhum título, e acontecendo
+possuí-las, será com o encargo de pagarem delas dízimos a Deus como se fossem
+possuídas por seculares. E faltando-se a qualquer dessas cláusulas, se haverão por
+devolutas e se darão a quem as denunciar, como o dito Senhor ordena. Pelo que mando
+ao doutor provedor da Fazenda Real, mais ministros e pessoas a que tocar, que na forma
+referida e com as condições declaradas, deixem ter e possuir as dita terras ao dito
+
+Veríssimo Manuel Robalo Freire, para ele e todos os seus herdeiros, ascendentes e
+descendentes como coisa própria. Cumpram e guardem esta carta tão inteiramente como
+nela se contém, a qual lhe mandei passar por mim assinada e selada com o sinete de
+minhas armas, que se registrará onde tocar e se passou por duas vias. Dada
+nesta cidade de São Luís
+do Maranhão,
+17
+de
+junho,
+ano
+do nascimento de
+Nosso Senhor Jesus Cristo de 1727. Manoel Rodrigues Tavares, secretário do Estado, a
+fez escrever. //João da Maia da Gama//.
+-Fim da Transcrição-
+Observação:
+Veríssimo Mel Robalo Freire. Forma como está escrito o nome do sesmeiro na
+documentação original.
+Referência:
+APEP, Livro 3, doc. 162, fls. 135v-136v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

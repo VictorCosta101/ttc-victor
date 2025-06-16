@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0190
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Ignácio Ferreira da Cruz",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "10-05-1748",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita.",
+  "Localidade": "Terras no caminho do Inhomirim",
+  "Marcos Geográficos": "Sertão",
+  "Confrontantes": "Fazenda do Secretário, Caminho do Couto (Caminho Novo)",
+  "Justificativas": "Pretendia cultivar; Pretendia plantar; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pelas instâncias da Câmara, da procuradoria e da provedoria, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se ainda obrigar o então suplicante a \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma das margens dele até que baste para a serventia pública\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0190"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0190
+Carta de concessão de Ignácio Ferreira da Cruz de 10 de maio de 1748
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mór de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro e Minas Gerais.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo representar-me por sua
+petição Ignácio Ferreira da Cruz, morador em Inhomirim, termo desta cidade, que ele tinha
+seus escravos para o que havia entrado na diligência de procurar matos e terras para plantar
+mantimentos, e as achou na testada da fazenda a que chamavam do Secretário da parte de
+leste e para o sertão correndo ao Caminho chamado do Couto. Porque as queria cultivar e não
+podia fazer sem se lhe conceder por sesmaria uma légua de terras em quadra, pedindo-me lhe
+mandasse passar a dita sesmaria na forma do estilo. Sendo visto seu requerimento em que foi
+ouvida a Câmara desta capitania, a quem se não ofereceu dúvida, e o que sobre ele informou o
+provedor da Fazenda Real e o procurador dela, a quem se deu vista. Hei por bem dar de
+sesmaria, em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho de
+1711, em que me dá faculdade para conceder sesmarias ao dito Ignácio Ferreira da Cruz uma
+légua de terras em quadra no caminho de Inhomirim, com as confrontações acima
+expressadas, sem prejuízos de terceiro ou do direito que alguma pessoa tenha a elas, com
+declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade dentro
+de 2 anos, e não o fazendo se lhe denegará mais tempo, e antes de tomar posse delas as fará
+medir e demarcar judicialmente, sendo para esse feito notificadas as pessoas com quem
+confrontar, e será obrigado a fazer os caminhos de sua testada com pontes e estivas onde
+necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar,
+ficará reservada de uma das margens dele até que baste para a serventia pública, e nesta data
+não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o
+encargo de pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os
+pagando se poderão dar a quem a denunciar, como também sendo o dito Senhor servido
+mandar fundar no distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum
+ou pensão para o sesmeiro, e não compreenderá esta data vieiros ou minas de qualquer gênero
+de metal que nela se descobrir, reservando também os paus Reais, e faltando a qualquer das
+ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõem a Lei e
+Foral das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou oficial de justiça a
+que o conhecimento desta pertencer, dê posse ao dito Ignácio Ferreira da Cruz das referidas
+terras na forma acima declarada. E por firmeza de tudo lhe mandei passar a presente por mim
+assinada e selada com o signete de minhas armas, que se cumprirá como nela se contém,
+
+registrando-se nesta secretaria do Governo e nas mais partes a que tocar. Dada nesta cidade de
+São Sebastião do Rio de Janeiro. João de Souza e Melo a fez em 10 de maio de 1748. //O
+secretário do governo, Antônio da Rocha Machado, a fez escrever// //Gomes Freire de
+Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Ignácio Ferreira da Cruz uma légua de terras em quadra para o caminho de Inhomerim com as
+confrontações acima expressadas e na forma que nesta se declara. Para Vossa Excelência ver.
+Registrada no Livro 9° das Provisões do Governo a folha 296. Rio, a 10 de maio de 1748.
+//Antônio da Rocha Machado//
+Cumpra-se.
+//Da petição vai o despacho, porque se manda (não identificado) a coisa da ordem que se acha
+as terras se devem dar no Caminho das Minas. Lisboa, 7 de junho de 1751. (ilegível)//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Ignacio Ferreira da Cruz uma legua de terras, em quadra, no caminho de Inhomerim. Rio,10
+de maio de 1748.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 15777, a Provisão
+15779 e a Portaria n° 15780.
+Nomes originais: Ignacio Ferreira da Cruz.
+A Fazenda do Secretário estava localizada em Vassouras. O Caminho do Couto é o Caminho
+Novo.
+Luste foi alterado para leste.
+Referências:
+AHU_ACL_CU_017-01, Cx. 67, D. 15778
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,107 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0194
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João da Silveira Vilas Lobos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-06-1725",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na cachoeira do Rio de Anhangá",
+  "Marcos Geográficos": "Cachoeira, alto da serra do Anhangá",
+  "Ribeira": "Anhangá",
+  "Confrontantes": "Data de João Cardoso de Albernaz",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0194"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0194
+Carta de concessão de João da Silveira Vilas Lobos de 12 de junho de 1725
+Luís Vaía Monteiro, do conselho de sua Magestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição João da Silveira Vila Lobos, que na cachoeira do Rio de Anhangá, distrito desta
+cidade, estão devolutas umas terras que tinham uma légua de largura, as quais queria cultivar
+por se achar com bastante escravos, pedindo-me lhe mandasse dar por sesmaria as ditas terras,
+principiando estas onde acaba a data de João Cardoso de Albernás até chegar ao alto da serra
+chamada também do Anhangá, ficando a cachoeira do dito rio ao meio também, e dando vista
+o seu requerimento ao provedor da Fazenda Real e ao procurador da Coroa, aos quais se não
+ofereceu dúvida. Hei por bem fazer mercê ao dito João da Silveira Vilas Lobos de lhe dar por
+sesmaria, em nome de Sua Magestade, que Deus guarde, as referidas terras; não excedendo,
+porém, 1 légua em quadra; na forma das ordens do mesmo Senhor e sem prejuízo de terceiros
+ou do direito que algumas pessoas possam ter a elas; com declaração que as cultivará e
+mandará confirmar esta minha carta por sua Magestade, que Deus guarde, dentro de 2 anos, e
+não o fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a
+que o conhecimento desta pertencer, dê posse ao dito João da Silveira Vila Lobos das
+referidas terras na forma e maneira acima declarada. E por firmeza de tudo, lhe mandei passar
+a presente por mim assinada e selada com sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém, se registrará nos Livros da Secretaria deste governo e nos
+mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, João Silveira da Silva
+a fez em 12 de junho de 1725. O secretário, José Ferreira da Fonte, a fez escrever.
+//Luís Vaía Monteiro//
+Carta porque Vosso Senhor há por bem fazer mercê a João da Silveira Vila Lobos de lhe dar
+por sesmaria, em nome de Sua Magestade, que Deus guarde, 1 data de terras na forma e
+maneira acima declarada.
+//Para Vosso Senhor Ver//
+Registrada a página 3 do Livro que serve nesta Secretaria do governo de registro das patentes
+e cartas de sesmarias. Rio, a 12 de junho de 1725. //José Ferreira da Fonte//
+-Fim da Transcrição-
+
+Observações do documento
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+João da Silveira Vilas Lobos uma data de terras, com as confrontações n'ella indicadas. Rio de
+Janeiro, 12 de junho de 1725.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 7412 e à Portaria n°
+7414.
+Nome original do sesmeiro: João da Sylveyra Villa Lobos.
+Referência
+AHU_ACL_CU_017-01,Cx. 32, D. 7413
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

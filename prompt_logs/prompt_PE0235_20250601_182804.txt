@@ -1,0 +1,80 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0235
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 308",
+  "Nome": "Francisco da Costa Guimarães",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "21-11-1783",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura nas duas margens do rio Una, do riacho da Lama até a cachoeira Danta e confrontando as terras de Francisco de Arruda (PE 0129) e de Manuel José dos Santos (PE 0127). ",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Riacho da Lama, Cachoeira Danta",
+  "Confrontantes": "Francisco de Arruda, Manuel José dos Santos",
+  "Exigências do Deferimento": "Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0235"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0235
+Carta de concessão de Francisco da Costa Guimarães de 21/01/1783
+A sesmaria de uma légua de terra em quadra, pela margem do rio Una acima, da parte do
+poente, pegando do riacho da Lama até a cachoeira Danta, entre as datas de Antônio
+Francisco de Arruda e de Manoel José dos Santos, concedida em 21 de janeiro de 1783 a
+Francisco da Costa Guimarães e seus herdeiros ascendentes e descendentes, pelo capitão-
+general José César de Menezes, com o foro anual de 6 mil réis por légua, por ser uma das
+mais próximas a Marinha, como determina a citada Real Ordem, não pertence mais ao dito
+sesmeiro, porém, sim a Torquato Lopes Ribeiro Guimarães, como se acha declarado a
+margem do livro: “Pertence esta sesmaria a Torquato Lopes Ribeiro Guimarães; e prestou
+fiança ao foro respectivo a folha 191 do livro 5º delas. Bastos c/c no livro 7º folha 48.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE EDUCACAO
+E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 80.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

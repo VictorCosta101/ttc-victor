@@ -1,0 +1,163 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0157
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0270",
+  "Nome": "Antônio José da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "02-01-1822",
+  "Data da concessão": "14-04-1823",
+  "Observações da sesmaria": "O suplicante requereu terras no termo da vila de Sirinháem. A sesmaria localizava-se no rio Pirangi, nas fronteiras das terras do coronel engenheiro Francisco José de Souza Soares de Andrea. ",
+  "Localidade": "Vila de Sirinháem",
+  "Marcos Geográficos": "Rio Pirangi",
+  "Confrontantes": "Francisco José de Souza Soares de Andrea",
+  "Observações da petição": "O suplicante não especificou a quantidade de largura e de comprimento da sesmaria requerida. Do mesmo modo, a junta provisória de governo da província de Pernambuco não especificou a quantidade dos limites das terras concedidas. ",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória de governo da província de Pernambuco, composta por: Afonso de Albuquerque Maranhão, presidente; Francisco Pais Barreto e José Marinho Falcão Padilha. ",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de 6 mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0157"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0157 
+Carta de doação e sesmaria de Antônio José da Silva – 20/01/1823 
+O padre [Antonio Joze] da Silva com huma légua de terra em quadro por sesmaria 
+junto ao rio Pirangi no termo da Villa de Serinhaem. 
+ 
+Nós, o presidente e membros da Junta Provisória do Governo da província de 
+Pernambuco. Fazemos saber aos que esta carta de data de sesmaria virem, que o padre 
+Antônio José da Silva dirigiu a Junta Provisória, nossa antecessora, o requerimento do 
+teor seguinte = Illustrissimos e excelentíssimos senhores = Com respeito e submissão, o 
+padre Antônio José da Silva representa que na conformidade do despacho do 
+requerimento, expõem o direito e mais razões que lhe assistem sobre objeto de sua 
+sesmaria, procedeu a medição perante o juiz sobre o terreno requerido, que era por sua 
+natureza até aquele momento, na verdade livre e isento de possessão de qualquer, só sim 
+pertencente ao patrimônio régio, isto é, terras livres com todas as circunstâncias do seu 
+primitivo requerimento, em seu inteiro rigor. Esta medição foi feita e julgada por 
+sentença, sem contradição de pessoa alguma, visto confinar com terras realengas, assim 
+o está julgado na dita sentença e assim o é: desta terra em virtude do despacho do ex-
+governador e medição, acha-se o suplicante de posse e com administração há dois anos 
+para mais. A graça de sua carta de sesmaria que Vossas Excelências lhe concedem, é 
+sobre o terreno que o suplicante achou medido e com marcos do coronel-engenheiro 
+Francisco José de Souza Soares de Andrea, e agora com culturas e administração do 
+dito Soares; roga, portanto, a Vossas Excelências lhe mandem expedir a carta sobre o 
+terreno de que se acha o suplicante de posse e isento de qualquer novidade de terceiro 
+prejudicado, visto que aquele outro oferece ao suplicante contestações futuras; para o 
+suplicante a face da carta proceder nova medição ou ratificação da primeira, a fim de 
+obter a sua confirmação e nela se proceder de conformidade com a Lei, visto que é dada 
+a carta com a condição sem prejudicar terceiro. Estando o suplicante na humanidade de 
+Vossas Excelências lhe concedem, é sobre o terreno que o suplicante achou medido e 
+com marcos do coronel-engenheiro Francisco José de Souza Soares de Andrea, e agora, 
+com culturas e administração do dito Soares; roga, portanto, a Vossas Excelências lhe 
+mandem expedir a carta sobre o terreno de que se acha o suplicante de posse e isento de 
+qualquer novidade de terceiro prejudicado, visto que aquele outro oferece ao suplicante 
+contestações futuras; para o suplicante, a face da carta proceder nova medição ou 
+ratificação da primeira, afim de obter a sua confirmação e nela se proceder de 
+
+conformidade com a Lei, visto que é dada a carta com a condição, sem prejudicar 
+terceiro. Estando o suplicante na humanidade de Vossas Excelências, que atederam suas 
+razões, filhas da verdade e sinceridade, defiram o suplicante como tem requerido ou 
+como Vossas Excelências o julgassem; pois a tudo receberá o suplicante e receberá 
+mercê. Recife, 2 de agosto; ordenou que cumprisse o despacho de 29 de julho do 
+mesmo ano, em que se lhe havia mandado passar carta e dias a Câmara respectiva, 
+mandasse por editais pelo 30 dias da Lei, e informasse se havia terceiro prejudicado: e 
+tomando o suplicante o segundo arbítrio, se puseram os mesmos editais e informasse a 
+Câmara com eles e a certidão do oficial que os afixou, que não aparecem oposição 
+alguma, e isto por ofício da mesma Câmara de 23 de novembro do referido ano: o que 
+sendo apresentado a esta Junta, mandamos informar o procurador da Coroa e Fazenda 
+Nacional, por despacho de 14 de dezembro do mesmo e por despacho de 15 de janeiro 
+do ano corrente, o escrivão deputado da Junta da Fazenda Pública foi por nós mandado 
+informar igualmente; e não oferecendo estes algum embaraço, nem se depreendendo dos 
+outros documentos que apresentou, que todos foram por nós examinados, lhe mandamos 
+passar a presente carta por despacho de 20 do referido mês e ano. E portanto, pela 
+faculdade que nos é concedida no Capítulo 15 do Regimento deste Governo, havemos 
+por bem dar em nome de Sua Majestade Imperial e Constitucional, o senhor Dom Pedro 
+primeiro, imperador e perpétuo defensor do Brasil, ao dito padre Antônio José da Silva, 
+a referida légua de terra, principiando dos marcos da testada medida e demarcada pelo 
+coronel-engenheiro Francisco José de Souza Soares de Andrea, pelo Pirangi abaixo, de 
+um e outro lado do mesmo rio, finalizando pelo norte com a medição de João Francisco 
+Bastos e pelo sul e leste com terras livres, pagando o foro anual de seis mil réis em 
+observância da real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria 
+da Junta da Fazenda Pública, folha 66 verso do livro 7º delas; a qual sesmaria possuirá 
+ele suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de 
+hoje para todo o sempre, com todas as matas, campos, rios, águas, testadas, logradouros 
+e mais úteis que nela se compreenderem: não prejudicando a terceiro, e não passará a 
+religião e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as 
+possuem os seculares; e nunca se dividirá em porções, nem se partirá, senão por 
+estimação, andando encabeçada em uma só pessoa, na forma da Ordenação do livro 4º 
+título 96, parágrafo 23; e assim, não passará a herdeiros ou qualquer outra pessoa sem 
+consentimento da Junta da Fazenda Pública, para nela se darem novas fianças e se 
+fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as 
+
+estradas, rios, fontes e pedreiras, e reservadas ao patrimônio publico as madeiras de 
+construção, pau-brazil e viveiros de quaisquer metais; e como já se acha medido e 
+demarcado esta demarcação e medição, foi julgada improcedente por sua Majestade 
+Ilustre, por ter sido feita antes da concessão da carta, como declarara a mesa do 
+desembargo do passo por sua provisão, sobre outra semelhante concessão será obrigado 
+a medir-se e demarcar-se e a requerer confirmação, povoá-la e cultivá-la dentro de três 
+anos, na forma da real ordem de 20 de outubro de 1753 e alvará de 25 de janeiro de 
+1809; e não o cumprindo, assim se haverá por devoluta e novamente se concederá a 
+quem requerer. Pelo que ordenamos aos ministros da Fazenda e Justiça e mais pessoas a 
+quem tocar, cumpram e façam cumprir e guardar esta carta da data de sesmaria, como 
+nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma da 
+Ordenação título das sesmarias. Em firmeza do referido, lhe mandamos passar a 
+presente por nós assinada e selada com o sinete nacional, a qual se registrará na 
+Secretaria deste Governo, na da Junta da Fazenda Pública e aonde mais tocar. Manoel 
+dos Passos Figueiroa, oficial maior da Secretaria, a fez em o Recife de Pernambuco, aos 
+14 de abril de 1823 – E eu, João Marinho Falcão Padilha, secretario, a fiz escrever = 
+Afonso de Albuquerque Maranhão, presidente = Francisco Paes Barreto = José Marinho 
+Falcão Padilha – Carta de data de sesmaria, pela qual Vossas Excelências hão por bem 
+conceder em nome de Sua Majestade Ilustre e Constitucional, ao padre Antônio José da 
+Silva, uma légua de terra em quadro, junto ao rio Pirangi, no termo da Vila de 
+Serinhaem, como nela se declara = Para Vossas Excelências verem – por despacho do 
+Governo, de 20 de janeiro de 1823. 
+- Fim da carta - 
+ 
+Referência: BPPE, Sesmarias de Pernambuco 1821, fls. 222-223. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

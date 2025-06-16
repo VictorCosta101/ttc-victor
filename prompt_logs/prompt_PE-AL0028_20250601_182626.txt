@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0028
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0176",
+  "Nome": "Manuel Soares de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-10-1783",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no distrito da Alagoa na serra do Pão de Açúcar.",
+  "Localidade": "Distrito da Alagoa",
+  "Marcos Geográficos": "Serra do Pão de Açúcar",
+  "Justificativas": "As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/01/1699; Citou a Carta Régia de 20/10/1753; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0028"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0002 
+Carta de doação e sesmaria de Manoel Soares de Souza - 25/10/1783 
+Manoel Soares de Souza com três léguas de terra. 
+José César de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e 
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que 
+esta carta de data de sesmaria virem, que por parte de Manoel Soares de Souza me foi feito 
+um requerimento, ao qual juntou outro feito ao meu Excelentíssimo antecessor, dos quais 
+os seus teores são os seguintes: = Ilustríssimo e Excelentíssimo Senhor = Diz Manoel 
+Soares de Souza, que pelos documentos juntos consta ter o suplicante cumprido aos 
+doutíssimos despachos de Vossa Excelência, para efeito de se lhe passar de sesmarias das 
+três léguas de terras pedidas e confrontadas em sua petição, as quais prestou fiança em 
+observância do respeitável despacho da junta da Fazenda Real, e porque não o pode 
+conseguir sem o beneplácito de Vossa Excelência mandando que na Secretaria deste Go-
+verno se passe a dita carta na forma expressa. Portanto, pede a Vossa Excelência seja 
+servido assim o mandar, visto se achar em tempo de ser deferido. E receberá mercê = 
+Segue-se o requerimento que acima se faz mensão = Ilustríssimo e Excelentíssimo Senhor 
+= Diz Manoel Soares de Souza, morador no sertão do Porto da Ilha do Rio de São 
+Francisco, termo da Vila do Penedo, desta Capitania de Pernambuco, que ele tem 
+comprado gados vacuns e cavalares, e porque debaixo da serra chamada Pão de Açúcar, 
+deste mesmo distrito, na Alagoa chamada Aldeia, de onde o suplicante está já situado com 
+seus gados, curral e casa, haverá três anos para quatro, há sobras de sesmarias concedidas a 
+Sebastião Barbosa de Almeida e do sítio que este comprou a sua irmã Maria Barbosa os — 
+espinhos — cujas sobras compreendem e são a mesma serra Pão de Açúcar e a mais terra, 
+onde se acham e há devoluta, digo, onde se acha situado o suplicante da parte do sul, que 
+uma e outra coisa se acha devoluta e nunca foram dadas a sesmeiro algum, que terão três 
+léguas de comprido e uma de largo, pouco mais ou menos a extensão da dita serra na 
+confrontação de leste a oeste no comprimento dela e em largura de norte a sul, na qual 
+nunca o suplicante teve outra data alguma e o dito lugar situado, é em utilidade a Real 
+
+Fazenda de Sua Majestade Fidelíssima, conceder de sesmaria a dita serra chamada Pão de 
+Açúcar, e o lugar debaixo dela em que já se acha, digo Sua Majestade Fidelíssima, e ser 
+pessoa que tem possibidade para conservar a sesmaria e mais situações que fizer — Pede a 
+Vossa Excelência, em atenção ao referido, lhe faça mercê em nome de Sua Majestade 
+Fidelíssima conceder de sesmaria a dita serra chamada Pão de Açúcar, e o lugar debaixo 
+dela em que já se acha situado com gados na forma da confrontação pedida, com as léguas 
+referidas da sobredita serra, que se acha situado com gados, digo, que se acha fora daquela 
+sesmaria dos éreos confinantes, e que se lhe passe sua carta pelo escrivão das sesmarias, 
+havendo na forma do estilo = E receberá mercê. O qual requerimento sendo visto pelo meu 
+Excelentíssimo Antecessor, por despacho de 28 de março de 1770, ordenou aos oficiais da 
+Câmara do respectivo distrito, mandassem fixar editais na respectiva freguesia, para se 
+saber ao certo estar ou não devoluta a referida terra e haver ou não terceiro prejudicado, e 
+constando-me por informação dos ditos oficiais que assim o mandaram executar não haver 
+pessoa alguma que aos ditos editais saísse. Por despacho meu de 20 de outubro do presente 
+ano de 1783, mandei ouvir o escrivão da Receita e Despesa da Fazenda Real e assim mais 
+responder o doutor procurador da Fazenda e Coroa por outro de 21 do sobredito mês e ano, 
+e como todos uniformemente me responderam estar nos termos de se dar ao suplicante de 
+sesmaria a terra pedida, na forma confrontada em seu requerimento, pagando anualmente o 
+foro de quatro mil réis por légua do que devia dar fiança na Contadoria. Ultimamente 
+mandei por despacho de 22 do referido mês e ano que se passasse sesmaria na forma da 
+resposta do doutor procurador da Fazenda e Coroa e escrivão da Receita e Despesa, visto 
+constar por bilhete que apresentou haver satisfeito na dita Contadoria a quantia de trinta e 
+dois mil réis, digo a quantia de trinta e dois mil duzentos e cinquenta e dois réis procedidos 
+de foro de dezesseis anos e quarenta e seis dias que devia a Real Fazenda da meia légua de 
+terra que acusa em seu requerimento, em que se acha situada a qual quantia fica carregada 
+ao tesoureiro Manoel Antônio Duarte a folha 39 = do Livro 4.º a que toca; em cum-
+primento do qual e pela faculdade que Sua Majestade me permite no Capítulo 15 do 
+Regimento deste Governo; Hei por bem dar em nome da dita senhora ao referido Manoel 
+Soares de Souza de sesmaria no lugar da serra chamada Pão de Açúcar e no lugar por baixo 
+dela chamado Aldeia, trez léguas de terra de comprido e uma de largo incluída nesta 
+extensão, a meia légua de terra em que o suplicante se acha já situado, tudo na forma 
+
+confrontada em seu requerimento, pagando o foro anual de quatro mil réis por légua, a qual 
+terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como 
+sua que fica sendo de hoje para sempre com todos os seus pertences, matas, campos, águas, 
+rios, testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiro, 
+que havendo-a ficará o suplicante a se defender a sua custa, e não passará a dita a religiões 
+e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os 
+seculares, sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes e 
+pedreiras, e requerer dentro de três anos medição, confirmação e demarcação, povoá-la e 
+cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753, e não o cumprindo 
+assim se dar por devoluta e novamente ser conferida a quem a requerer, com mais a 
+condição de que a dita terra nunca se dividirá nem se partirá, e andará sempre encabeçada 
+em uma só pessoa na forma da Ordenação do Livro 4.º título 96 § 23. Pelo que ordeno aos 
+Ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e 
+guardar esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante 
+posse real, efetiva e atual, na forma costumada debaixo das referidas cláusulas e das mais 
+da Ordenação título das sesmarias, visto constar por bilhete que apresentou haver dado a 
+fiança do foro anual de quatro mil réis por légua na Contadoria da Real Fazenda a folha 94 
+do Livro 2.º delas. Em firmeza do que lhe mandei passar a presente por mim assinada e 
+selada com o sinete das minhas armas, que se registrará na Secretaria deste Governo e 
+Contadoria da Real Fazenda = Manoel Barbosa da Silva Garcia, oficial maior da Secretaria 
+do Governo, a fez no Recife de Pernambuco aos 25 dias do mês de outubro, ano do 
+Nascimento de Nosso Senhor Jesus Cristo de 1783 = O secretário do Governo, Paes de An-
+drade, a fez escrever = José Cezar de Menezes. 
+- Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. 
+p. 300 - 304. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

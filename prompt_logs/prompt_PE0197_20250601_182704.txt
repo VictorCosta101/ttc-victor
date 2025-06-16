@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0197
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0220",
+  "Nome": "Câmara da vila de Santo Antão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-07-1814",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na vila de Santo Antão, na povoação de Bonito. A sesmaria tinha por limite ao norte com as terras de Manuel Gomes Cabral e ao sul com as de José Antônio da Silva Vieira.  ",
+  "Localidade": "Vila de Santo Antão",
+  "Marcos Geográficos": "Povoação de Bonito",
+  "Confrontantes": "Manuel Gomes Cabral, José Antônio da Silva Vieira",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Determinou-se isenção de pagamento de foro régio; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Os oficias da câmara da vila de Santo Antão requereram a concessão de terras com a justificativa de aumentar o patrimônio da câmara. Os oficiais que requereram o pedido foram: o juiz ordinário Francisco José Semon e o juiz Manuel Ferreira de Abreu Peixoto; os vereadores João de Souza Pinto, Francisco Prudentes de Nazareno, Antônio Simplício de Barros e o Procurador Alexandre José da Fonseca. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0197"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0197 
+ 
+Carta de concessão da câmara da vila de Santo Antão de 19/10/1813 
+ 
+Carta de sesmaria que se deu a câmara da vila de Santo Antão de légua e meia em quadro 
+no termo da mesma vila, sem foro, ou pensão alguma por ser para o seu patrimônio. 
+ 
+Caetano Pinto de Miranda Montenegro, do Conselho do príncipe regente nosso senhor, e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria virem, 
+que a câmara da vila de Santo Antão, nada mais nos resta a desejar se não que se 
+preencham as outras cláusulas do alvará de 27 de julho do ano próximo passado, porque 
+o conselho já começa a sentir a necessidade, em que está de rendas, que possa aplicar 
+assim a conservação da autoridade da câmara, e da justiça, como as desvairados artigos 
+de obras públicas, e outras coisas do bem comum da terra, e é com este motivo tão urgente, 
+que temo assentado de não retardar por mais tempo o dever em que nos julgamos de 
+requerer a V. Ex.ª nesta respeitosa suplica a sesmaria de uma légua e meia de terra que a 
+câmara deve haver para seu patrimônio em virtude do dito alvará, visto havê-las aqui 
+devolutas para as partes do Bonito, e que se assente da maneira que a capela da povoação 
+fique em todo o caso no centro com três quarto de légua para cada um dos pontos, ou 
+rumos principais, e quando suceda, que para algum dela não se ofereça tanta extensão de 
+terra vaga como assim será provavelmente para a parte do norte, que se possa em tal caso 
+preencher o déficit por qualquer dos outros rumos, onde melhor couber: Esperando que 
+V. Ex.ª se dignará de conferir a câmara a dita sesmaria no lugar, com as condições aqui 
+indicadas, nó requeremos outrossim a V. Ex.ª que lhe haja de mandar passar a carta, que 
+há mister para seu titulo. Deus guarde a V. Ex.ª vila de Santo Antão em vereação de 20 
+de junho de 1812/ = Ilustríssimo e excelentíssimo senhor Caetano Pinto de Miranda 
+Montenegro = O juiz ordinário Francisco José Semón = o juiz ordinário Manuel Ferreira 
+de Abreu Peixoto = Vereador João de Souza Pinto = O vereador Francsicp Prudentes de 
+Narcareno = O vereador Antônio Simplício de Barros = O procurador Alexandre José da 
+Fonseca = E sendo visto a sua representação ordenei por despacho de 25 de junho de 
+1812, que o doutor desembargador ouvidor-geral e corregedor desta comarca mandasse 
+afixar os editais do estilo, por tempo de trinta dias para se saber se haviam terceiros 
+prejudicados, e informando-me o dito ministro que se não oferecia duvida alguma, em se 
+conceder a sesmaria requerida, mandei por despacho de 18 de Junho de 1814 que 
+informasse o doutor procurador da Coroa e Fazenda, e também o escrivão deputado da 
+Junta da Real Fazenda por outro despacho de 25 do referido mês e ano, e como ambos 
+informaram que se podia dar de sesmaria a dita câmara a terra contemplada em sua 
+representação, mandei ultimamente por despacho de 7 de julho do corrente ano, que se 
+passasse carta de sesmaria, pela faculdade que me é concedida no capítulo 15 do 
+regimento deste governo, e portanto: Hei por bem conceder à dita câmara em nome de 
+Sua Alteza Real o príncipe regente nosso senhor, légua e meia em quadra, a qual se 
+demarcará da maneira seguinte: tirado um quarto de légua em quadra que julgo ser 
+conveniente deixar-se para logradouro dos moradores da povoação do Bonito, confinará 
+a sesmaria da câmara pela parte do oeste com o lado oriental do dito quarto de légua 
+reservado; pelo norte com terras de Manuel Gomes Cabral, e as que se deviam de José 
+Antônio da Silva Vieira; e pelo sul e leste com os pontos, em que terminar a referida légua 
+e meia em quadra, sem foro ou pensão alguma para a Real Fazenda por ser para 
+
+patrimônio da referida câmara, em conformidade do alvará de 27 de julho de 1811; a qual 
+sesmaria lhe fica pertencendo de hoje para todo sempre, com todos os úteis que nela se 
+acharem sem prejuízo de terceiro, não podendo alienar-se por forma ou maneira aguma: 
+e dentro de três anos deverá requerer confirmação, depois de demarcada na forma do 
+alvará de 25 de Janeiro de 1809. Pelo que ordeno aos ministros da Fazenda, e Justiça, e 
+mais pessoas a quem tocar, cumpram e façam cumprir, e guardar esta carta de data de 
+sesmaria, como nela se contém, fazendo dar posse real, efetiva e atual na forma 
+costumada. Em firmeza do referido mandei passar a presente por mim assinada e selada 
+com o sinete das minhas armas, a qual se registrará na secretaria deste governo, na da 
+Junta da Real Fazenda, e mais partes a que tocar. Manuel Freire Mariz oficial maior da 
+secretaria a fez em o Recife aos 11 de julho de 1814/ José Carlos Mairink da Silva Ferrão 
+secretário do governo a fez escrever = Caetano Pinto de Miranda Montenegro = Carta de 
+data de sesmaria pela qual V. Ex.ª há por bem dar a câmara da vila de Santo Antão em 
+nome de Sua Alteza Real o príncipe regente nosso senhor uma légua e meia de terra em 
+quadra no termo do mês, sem foro ou pensão alguma para a Real Fazenda, por ser para o 
+seu patrimônio, como nela se declara = para V. Ex.ª ver = Por despacho do ilustríssimo e 
+excelentíssimo senhor general de 7 de Julho de 1814./. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+ 
+ 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 123-124. 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

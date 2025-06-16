@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0130
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Abreu",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "17-11-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras no Campo Grande",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Confrontantes": "Jujari, Costa Brava",
+  "Justificativas": "Era morador(a) da Capitania; Pretendia fazer benfeitoria; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou o suplicante também que possuía mulher e filhos.",
+  "Observações das exigências": "Determinou-se ao suplicante também que \"haja posse o senhorio da terra e águas para sempre\", assim como exigiu-se que \"rompa, aproveite e frutifique a dita terra data desta em 3 anos primeiro seguintes, e outrossim fará de maneira que dentro de 4 meses tenha feito na dita ter algum proveito  e plantado alguns mantimentos e cumpridos os 3 anos que as tenha aproveitado, como dito é, por que não o fazendo ele assim, passados ditos 3 anos, se darão as ditas terras e águas que aproveitadas não tiverem de sesmaria a quem as pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver e sobretudo pagar a 1000 réis para as obras do Conselho e dará pela dita terra caminhos e serventias ordenadas e necessários para o Conselho e para fontes, pontes, vieiras e pedreiras que necessário forem. As quais terras e águas pela maneira lhe assim deu forras e isentas sem foro nem tributo, somente de tudo que lhe Nosso Senhor der nelas de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme o dito regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0130"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0130
+Carta de concessão de sesmaria de Manuel de Abreu 17 de novembro de 1603
+Forra
+Saibam quantos este instrumento de carta de sesmaria virem, que no ano do nascimento
+do nosso Senhor Jesus Cristo de 1603 anos, aos 17 dias do mês de novembro do dito
+ano, nesta cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim
+escrivão adiante nomeado, apareceu Manuel de Abreu, morador nesta dita cidade e me
+apresentou uma petição com despacho nela do senhor Martim de Sá, capitão e
+governador desta cidade, capitania e governança deste dito Rio de Janeiro por El-Rei
+nosso Senhor. Está com a petição o despacho dela e o translado é o seguinte: Manuel de
+Abreu, morador nesta cidade, com sua mulher e filhos que ele não tem terras no Campo
+Grande em que lavrar e fazer benfeitorias e fazenda para seu remédio pede a Vossa
+Senhoria que lhe faça mercê de lhe dar 1 légua de terra no Campo Grande, acabando
+Pero da Costa com uma carta que foi dada primeiro a Antônio Anes, Sacura, a qual terra
+Pero da Costa pediu por medida correndo mesmo pela mesma banda que é indo para
+Jujari a mão esquerda com a largura que se achar para Costa Braba com todas as águas
+houver nelas e que sendo dadas lhe faça, digo, Vossa Senhoria mercê delas perdidas
+visto se ninguém as aproveitar. E receberá mercê. Despacho do senhor capitão e
+governador: Dou ao suplicante a meia légua de terra que em sua petição pede não sendo
+dadas a morador desta cidade do Rio de Janeiro, a 17 de novembro de 1603, e sendo
+dadas corra adiante com suas águas. //Martim de Sá//. E tudo visto pelo dito senhor
+capitão e governador a petição do dito suplicante Manuel de Abreu e o que ele e lhe
+pedia, visto ser justo e havendo respeito ao proveito que se pode seguir acerca da
+República e ao serviço de Deus e Del-Rei nosso Senhor, e por a terra se povoar, deu ao
+dito Manuel de Abreu a terra e águas contidas no dito seu despacho e conforme a ele
+porquanto dizia que estavam devolutas e por aproveitar para aproveitar e fazer suas
+roças e benfeitorias como diz nela não sendo já dadas a pessoa primeiro, as quais terras
+e águas diz que estão no dito lugar que têm dita medida, e que partem pelas ditas
+confrontações com como nela diz e que a braça pela qual se medir será a braça craveira,
+convém a saber: 2 varas de medir por 1, como no Reino se costuma de medir. O que
+tudo lhe concedeu em nome Del-Rei nosso Senhor pela maneira adiante declarada,
+segundo forma o seu regimento Del-Rei Nosso Senhor de que o translado é o seguinte:
+as terras que estiverem dentro do termo e limite da cidade São Sebastião que são 6
+léguas para cada parte que não forem dadas as pessoas que lhes aproveitarem ou, posto
+que o fossem, e pelas pessoas a que se deram as não aproveitarem no tempo em que
+eram obrigadas por esta via ou por outra qualquer estiverem vagas, as poderei dar de
+sesmaria aquém a vós pedir e tereis lembrança que não dei a cada pessoa mais terra do
+que aquela que segundo sua possibilidade virdes e vos parecer que podem granjear e
+aproveitar, as quais terras assim dareis livremente sem outro algum foro, somente o
+dízimo a Ordem do Mestrado de nosso Senhor Jesus Cristo e com as condições e
+obrigações do Foral dado as ditas terras da minha Ordenação do Livro 4º, título das
+sesmarias com a condição que a pessoa ou pessoas residam na povoação dessa dita
+capitania ou das terras que lhes assim forem dadas ao menos 3 anos e que dentro do dito
+tempo não possam vender nem enlear, e se algumas pessoas a que forem dadas no termo
+
+da dita cidade e estiverem perdida por não aproveitarem e a vós tornarem a pedir, as
+poderei de novo dar, com as condições e obrigações contidas neste capítulo, o qual se
+transladará nas cartas, porque as assim derdes e entenderá não sendo as ditas terras
+dadas a outras pessoas. Com as condições, e declarações se assim deu o dito senhor,
+capitão governador a dita terra e águas ao dito Manuel de Abreu suplicante pela dita
+maneira e para sua guarda e segurança lhe mandou ser feita esta carta pela qual manda
+que ele haja posse o senhorio da terra e águas para sempre, para ele e seus filhos, netos
+herdeiros, sucessores ascendentes e descendentes que dele vierem com a tal condição e
+entendimento que ele rompa, aproveite e frutifique a dita terra data desta em 3 anos
+primeiro seguintes, e outrossim fará de maneira que dentro de 4 meses tenha feito na
+dita ter algum proveito e plantado alguns mantimentos e cumpridos os 3 anos que as
+tenha aproveitado, como dito é, por que não o fazendo ele assim, passados ditos 3 anos,
+se darão as ditas terras e águas que aproveitadas não tiverem de sesmaria a quem as
+pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não
+tiver e sobretudo pagar a 1000 réis para as obras do Conselho e dará pela dita terra
+caminhos e serventias ordenadas e necessários para o Conselho e para fontes, pontes,
+vieiras e pedreiras que necessário forem. As quais terras e águas pela maneira lhe assim
+deu forras e isentas sem foro nem tributo, somente de tudo que lhe Nosso Senhor der
+nelas de suas novidades, lavouras e criações, pagará o dízimos a Deus conforme dito
+regimento, o que tudo manda que se cumpra e guarde sem dúvida, nem embargo algum
+que lhe seja posto, e que esta carta seja registrada dentro de 1 ano nos livros da Fazenda
+Real como dito senhor em seu regimento manda sob as penas nela contidas e
+declaradas, e porque o sobredito Manuel de Abreu, suplicante tudo prometeu de ter,
+manter e cumprir pela dita maneira lhe mandou o dito senhor, capitão e governador
+passar esta carta de sesmaria, e por verdade eu Pero da Costa, escrivão das sesmarias e
+tabelião das notas por El-Rei nosso Senhor, nesta cidade de São Sebastião e em seus
+termos, que este instrumento de carta de sesmaria escrevi e tomei nos livros de Notas e
+tombo das cartas de sesmaria nesta dita cidade que em meu poder ficam, e com o dito
+instrumento fica assinado pelo dito senhor capitão e governador. //Martim de Sá//
+- Fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria da terra de Manuel de Abreu que pede no Campo
+Grande
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL. Tombo das
+Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.
+pg. 190-192. Livro Original  85v-88.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

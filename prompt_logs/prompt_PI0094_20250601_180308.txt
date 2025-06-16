@@ -1,0 +1,118 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0094
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Batista Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "30-06-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Uma Ilha na Barra do Canindé",
+  "Ribeira": "Canindé",
+  "Justificativas": "Era descobridor(a) das terras; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "E porque pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. Além disso, não é informado o escrivão responsável pela redação e assinatura do documento.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0094"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0094
+Carta de concessão a João Batista Pinto - 30/06/1728
+Registro de uma carta de data concedida a João Batista Pinto na paragem que
+abaixo se declara.
+ 
+ 
+Alexandre de Sousa Freire, do conselho de Sua Majestade, governador e capitão geral
+do Estado do Maranhão. Faço saber aos que esta minha carta de data e sesmaria virem
+que a mim me enviou a dizer por sua petição, João Batista Pinto, que ele tem descoberto
+na Barra do Canindé uma Ilha que terá de comprido 3 léguas de terra e uma de largo.
+Portanto, me pedia fosse servido de lhe conceder em nome de Sua Majestade as ditas 3
+léguas de comprido e uma de largo e receberia mercê. E atendendo eu as
+razões que alegava como também ao que respondeu o provedor-mor da Fazenda Real a
+quem se deu vista e ser em utilidade da Real Fazenda o cultivarem-se as terras neste
+Estado. Hei por bem de conceder ao suplicante em nome de Sua Majestade 3 léguas de
+terra de comprido, e uma de largo na parte onde com as confrontações nela declaradas, e
+com as condições expressadas nas Reais Ordens, nesta forma se lhe passe carta para que
+as haja, logre e possua como coisa sua própria e todos seus herdeiros, ascendentes e
+descendentes. Sem pensão nem tributo algum mais que o dízimo a Deus Nosso Senhor
+dos frutos que nelas tiver, a qual conceção lhe faço não prejudicando a terceiro
+reservando os paus reais para embarcações com declaração  que mandará confirmar esta
+carta por Sua Majestade dentro de 3 anos primeiros seguintes e cultivará as ditas terras
+de
+maneira
+que
+deem
+frutos
+e
+dará
+caminhos
+públicos
+e
+particulares onde
+forem necessários para pontes, fontes, portos e pedreiras e se demarcará ao tempo da
+posse por rumo de corda, braças craveiras como é estilo e Sua Majestade manda. E
+outrossim, não poderão nelas suceder religiões por nenhum título e acontecendo
+possuí-las será com encargo de pagarem delas dízimos a Deus como se fossem
+possuídas por seculares. E faltando a qualquer dessas cláusulas se haverão por devolutas
+e se darão a quem as denunciar como o dito Senhor ordena. Pelo que mando ao
+provedor-mor da Fazenda Real e mais ministros e pessoas a quem tocarem que na forma
+referida, e com as condições declaradas deixem ter e possuir as ditas terras ao dito João
+Batista Pinto para ele e todos seus herdeiros, ascendentes e descendentes como coisa
+própria. Cumpram e guardem esta carta tão inteiramente como nela se contém, a qual
+lhe mandei passar por mim assinada e selada com o sinete de minhas armas e se
+registrará onde tocar, e se passou por duas vias. Dada nesta cidade de São Luís do
+Maranhão, aos 30 de junho do ano do nascimento de Nosso Senhor Jesus Cristo de
+1728. //Alexandre de Souza Freire//.
+-Fim da Transcrição-
+Observações do documento:
+O nome original do sesmeiro, como consta no documento, é João Baptista Pinto.
+Referência:
+APEP, Livro 4, doc. 168, fls. 114v.
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0104
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Afonso Gonçalves, João Martins (RJ 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "08-06-1602",
+  "Data da concessão": "08-06-1602",
+  "Localidade": "Dádiva de Rui Gonçalves vindo para Santo Antônio",
+  "Confrontantes": "Terras dos herdeiros de Francisco Dias Pinto",
+  "Justificativas": "Alegou não ter casa própria; Era morador(a) da Capitania; Não tinha terras; Pretendia fazer casa; Sesmeiro anterior falecera sem deixar herdeiros ou procurador; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "As 12 braças seriam repartidas igualmente entre os dois, sendo 6 a cada um. A sesmaria nada diz a respeito do comprimento, apenas se limita a informar que \"onde a dádiva do dito Rui Gonçalves chegar\" demarca-se o comprimento.",
+  "Observações das exigências": "Citou-se o Regimento de El Rei Nosso Senhor, o qual diz: \" as terras que estiverem dentro do termo e limites da dita cidade de São Sebastião que são 6 léguas para cada parte que não forem já dadas as pessoas que as aproveitem ou, posto que o fossem, se for as pessoas que as possuem não as aproveitarem no tempo que eram obrigadas, por esta via o ou por qualquer outra estivessem vagas, as poderei dar de sesmaria a quem vos pedi e terei lembrança que não deis a cada pessoa mais terra que aquela que segundo a sua possibilidade virdes, ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente sem outro algum foro, somente os dízimos a Ordem do Mestrado de nosso Senhor, e com as condições e obrigações do foral dado as ditas terras e de minha ordenação do Livro 4º, título das sesmarias, com a condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras que ele assim foram dadas ou menos três anos e que dentro do dito tempo as não possam vender, nem enlear, e se algumas pessoas a que foram dadas terras no tempo no termo da dita cidade já as estiverem perdidas por não as aproveitarem no tempo que eram obrigadas, por esta via ou qualquer outra via estiverem vagas, as podereis dar de sesmaria, digo, estiverem perdidas por não as aproveitarem e vos tornarem a pedir, vós as poderei de novo dar, com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas, por que assim derdes e isto se entenderá não sendo as ditas terras dadas as outras pessoas\". Determinou-se aos suplicantes que \"hajam a posse e senhorio dos ditos chãos para sempre\", assim como exigiu-se deles viverem e residirem \"vivam e residam nesta dita cidade, ou em seu termo ao menos os ditos três anos no dito regimento declarados, dentro do qual tempo eles não poderão vender, nem enlear, nem por outra alguma via transpassar os ditos chãos a outra nenhuma pessoa sem licença do dito senhor capitão e governador ou de quem adiante tiver poder para as dar e da dita maneira lhes dava os ditos chãos, e acabado os ditos três anos, tendo eles feito nos ditos chãos casas e benfeitorias, eles poderão vender, trocar, dar, doar e fazer de tudo que eles bem vier e a prover como causa a sua própria isenta que é\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0104"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0104
+Carta de concessão de sesmaria de Afonso Gonçalves e João Martins de 8 de junho de 1602
+[FI.I.] Gade Vacum que é no termo desta cidade com dois despachos do senhor Francisco de
+Mendonça de Vasconcelos, capitão e governador, que foi desta dita cidade e capitania deste
+dito Rio de Janeiro, por El Rei nosso Senhor e outro do senhor Martin de Sá, capitão e
+governador que ora é desta cidade, capitania e governança deste dito Rio de Janeiro pelo dito
+senhor. Da qual petição e despachos dela o translado de todo de verbo a verbo é o seguinte:
+Diz Afonso Gonçalves, condestável do Forte da Barra, e João Martins, castelhano, moradores
+nesta cidade, que eles não tem chão para fazer casas onde morarem e há uma dádiva de Rui
+Gonçalves vindo para Santo Antônio, a qual dádiva há 25 anos, pouco mais ou menos, é dada
+sem nela fazerem obras nem benfeitoria alguma, e está de mato virgem, e ele ser ausente da
+terra e não haver herdeiro que o beneficie, pedem eles suplicantes a Vossa Senhoria que lhes
+faça mercê de 12 braças de largo, e 6 a cada 1 e o comprimento onde a dádiva do dito Rui
+Gonçalves chegar, para fazerem cada um sua casa e que e que comecem a medir onde
+acabarem os herdeiros de Francisco Dias Pinto. E receberam mercê. Despacho do senhor
+capitão e governador Francisco de Mendonça de Vasconcelos: não sendo dada e estando
+devoluta em nome de Sua Majestade, lhe faço mercê das 12 braças a 6 a cada 1 e outro tanto
+de cumprido. Rio de Janeiro, a 8 de junho de 1602 anos. Mendonça. Despacho do senhor
+capitão e governador Martim de Sá. Passe a carta pelo despacho acima, na forma que lhe foi
+dado. Rio de Janeiro, a 2 de junho de 1602 anos. Martim de Sá. E tudo visto pelo dito senhor
+capitão e governador Martim de Sá, a petição dos ditos suplicantes Afonso Gonçalves e João
+Martins, e o despacho do dito capitão e governador que foi Francisco de Mendonça de
+Vasconcelos e o que eles pediam, visto ser justo e havendo respeito aproveito que se pode
+seguir acerca da República e ao serviço de Deus e Del Rei nosso Senhor, e por a terra se
+povoar, lhes deu aos ditos suplicantes Afonso Gonçalves e João Martins os chãos que pediram
+ao dito capitão e governador, que no dito tempo era nesta dita cidade Francisco de Mendonça
+de Vasconcelos, e conforme o sobredito seu despacho, portanto, diziam que estavam
+devolutos e em matos, sem nenhuma benfeitoria para cada um deles aproveitarem para
+fazerem casas como dizem eles, não sendo já dados a outra pessoa ou pessoas primeiro, os
+quais chãos que diziam que estão no dito lugar, tem a dita medida e que partem pelas ditas
+confrontações como na petição dizem e como na sua petição dizem, e a braça é braça craveira.
+A saber duas varas de medir por uma, como no Reino se costuma de medir, os quais chãos lhe
+deu e concedeu, conforme o dito seu despacho e ao despacho do dito capitão e governador
+Francisco de Mendonça de Vasconcelos, e pela maneira adiante declarada, segundo forma do
+Regimento de El Rei nosso Senhor, de que o traslado é o seguinte: as terras que estiverem
+dentro do termo e limites da dita cidade de São Sebastião que são 6 léguas para cada parte que
+não forem já dadas as pessoas que as aproveitem ou, posto que o fossem, se for as pessoas que
+as possuem não as aproveitarem no tempo que eram obrigadas, por esta via o ou por qualquer
+outra estivessem vagas, as poderei dar de sesmaria a quem vos pedi e terei lembrança que não
+deis a cada pessoa mais terra que aquela que segundo a sua possibilidade virdes, ou vos
+parecer que podem granjear e aproveitar, as quais terras assim dareis livremente sem outro
+algum foro, somente os dízimos a Ordem do Mestrado de nosso Senhor, e com as condições e
+obrigações do foral dado as ditas terras e de minha ordenação do Livro 4º, título das
+sesmarias, com a condição que a tal pessoa ou pessoas que residam na povoação da dita
+capitania ou das terras que ele assim foram dadas ou menos três anos e que dentro do dito
+tempo as não possam vender, nem enlear, e se algumas pessoas a que foram dadas terras no
+tempo no termo da dita cidade já as estiverem perdidas por não as aproveitarem no tempo que
+eram obrigadas, por esta via ou qualquer outra via estiverem vagas, as podereis dar de
+
+sesmaria, digo, estiverem perdidas por não as aproveitarem e vos tornarem a pedir, vós as
+poderei de novo dar, com as condições e obrigações contidas neste capítulo, o qual se
+trasladará nas cartas, por que assim derdes e isto se entenderá não sendo as ditas terras dadas
+as outras pessoas. Com as quais condições, obrigações e declarações lhes assim deu dito
+senhor capitão e governador os ditos chãos aos ditos suplicantes Afonso Gonçalves e ao dito
+João Martins, pela sobredita maneira e para sua guarda e segurança, lhes mandou ser feita esta
+carta pela qual manda que eles hajam a posse e senhorio dos ditos chãos para sempre, para
+eles e todos os seus herdeiros, sucessores, ascendentes e descendentes que após deles virem
+com tal condição e entendimento, que eles vivam e residam nesta dita cidade, ou em seu
+termo ao menos os ditos três anos no dito regimento declarados, dentro do qual tempo eles
+não poderão vender, nem enlear, nem por outra alguma via transpassar os ditos chãos a outra
+nenhuma pessoa sem licença do dito senhor capitão e governador ou de quem adiante tiver
+poder para as dar e da dita maneira lhes dava os ditos chãos, e acabado os ditos três anos,
+tendo eles feito nos ditos chãos casas e benfeitorias, eles poderão vender, trocar, dar, doar e
+fazer de tudo que eles bem vier e a prover como causa a sua própria isenta que é, os quais
+chãos lhes deu e concedeu em nome Del Rei nosso Senhor, forros e isentos sem foro nem
+tributo algum, somente o dízimo a Deus conforme o dito regimento, o que tudo manda que se
+compra e guarde sem dúvida, nem embargo algum, que lhes a eles seja posto, e que esta carta
+seja registrada dentro de um ano nos livros da Fazenda Real, como dito senhor em seu
+regimento manda sobre as penas nele contidas e declaradas, e porque os sobreditos Afonso
+Gonçalves e João Martins, suplicantes, tudo prometeram de ter, manter e cumprir pela dita
+maneira lhes mandou passar esta carta de sesmaria, conforme ao despacho do dito capitão e
+governador Francisco de Mendonça de Vasconcelos e por verdade, eu Pero da Costa, escrivão
+das sesmarias e tabelião das notas, por El Rei nosso Senhor, nesta cidade de São Sebastião e
+em seus termos, que este instrumento de carta de sesmaria escrevi e tomei nos meus livros de
+notas e tombo das cartas das sesmarias desta dita cidade, onde o dito instrumento fica
+assinado pelo dito senhor capitão e governador //Martins de Sá//
+-Fim da Transcrição -
+Observações:
+Título original: Final da sesmaria de Afonso Gonçalves e João Martins
+Referências: 
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.pg.113-115.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação
+Biblioteca Nacional, Vol. 2, dep. Nacional do livro, 1967. pg.113. Códice 778 e 779. Pg. F.1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

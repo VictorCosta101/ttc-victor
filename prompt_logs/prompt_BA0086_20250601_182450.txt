@@ -1,0 +1,174 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0086
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "André Ferreira, Antônio de Aguiar Barriga, Manuel da Silva e Sousa, Pantaleão Freire Porto, Pasqual Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "28-04-1675",
+  "Observações da sesmaria": "A sesmaria possuía 25 léguas quadradas divididas igualmente entre os cinco sesmeiros e estava localizada nas cabeceiras do rio Jiquiriçá, fazendo fronteira com as terras do capitão Francisco Teixeira.",
+  "Localidade": "Rio Jiquiriçá",
+  "Marcos Geográficos": "Rio Jiquiriçá",
+  "Confrontantes": "Francisco Teixeira",
+  "Observações da petição": "Os sesmeiros solicitaram cinco léguas de comprimento e duas de largura para cada um.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; Pretendia cultivar; As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda afirmou que deveriam ser concedidas aos suplicante cinco léguas de comprimento e uma de largura ao invés das duas léguas solicitadas. O governador-geral concordou com o parecer do provedor.",
+  "Observações das exigências": "Determinou-se mandarem certidão de como as tem povoado dentro no dito termo;",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "referencia": "BA0086"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro da sesmaria, porque se dirão 5 léguas de terra de comprimento e uma de largura a 
+Manuel da Silva e Sousa, Antônio de Aguiar Barriga, e outros.  
+ 
+Dom Antônio Luiz de Sousa Telo de Menezes Marques das minas do conselho de El Rei, meu 
+senhor. Faço saber aos que este alvará de doação e sesmaria virem que, havendo respeito ao 
+que por parte do alferes Manuel da Silva e Sousa, Antônio de Aguiar Barriga, André Ferreira, 
+Pascoal Silva, Pantaleão Freire Porto, se me enviou por apresentar por sua petição, cujo teor é 
+o seguinte: senhor, dizem o alferes Manuel da Silva e Sousa, [?] [?] [?] Antônio de Aguiar 
+Barriga, que aviste a condição das [?] para a já [?] [?], André Ferreira, Pascoal da Silva, 
+Pantaleão Freire Porto, que eles tem seus gados vacuns e cavalares, não tem terras em que as 
+povoar e arar, e porque nas cabeceiras do Jiquiriçá, e subindo o rio de norte a sul, há terras 
+devolutas e desaproveitadas que até os [?] querem aproveitas, o que é em utilidade da Fazenda 
+de Sua Majestade, e aumento de seus vassalos [??], lhe faça mercê conceder e dar de sesmaria 
+a cada um deles, em nome de Sua Majestade, para ele e seus herdeiros descendentes e 
+ascendentes as 5 léguas de terras de comprimento, e duas de largura, começando donde acaba 
+a data do capitão Francisco Teixeira, correndo para o sul até entestas com quem pertencer, e 
+para o [??] com a serra do Ajirarú, e sendo caso que em algum tempo fossem dados a outrem, 
+as pedem por devolutas na forma da lei e ordens do dito senhor para as aproveitarem. E receberá 
+mercê. E vista a resposta do procurador da Fazenda Real, por não terem dúvida a que se deem 
+de sesmaria aos suplicantes as léguas que pedem com as condições e clausulas da lei, e 
+costumadas, tendo possibilidade para as cultivarem e aproveitarem na forma do regimento das 
+sesmarias, despacho do provedor-mor da dita Real Fazenda em que se declarem os suplicante, 
+se pedem as duas léguas de largura para cada um, com 5 de comprimento, sendo para o sul 
+donde acaba a data que apontam em sua petição ou se pedem a largura que houver para a parte 
+do poente até a serra que chamam do Ajirarú, e que léguas havia desta serra até a dita data, por 
+que devia ser certa a largura e comprimento da terra que se pediam de sesmaria, e a declaração 
+que os suplicantes fizeram em que pediam para cada um deles 5 léguas para o portão até entestar 
+com a serra do Ajirarú, de lá chegarem e passando até onde chegasse duas léguas de largura, as 
+quais começariam donde acabar a data do capitão Francisco Teixeira, em informação do dito 
+provedor-mor, em que se declara que [?] léguas quadradas de terra montaram as 5 léguas de 
+comprimento e duas de largura, que cada um dos suplicantes pedia para si de sesmaria nesta 
+sua petição, como titulo de as ocuparem com gados, e que em outras semelhantes petições tinha 
+feito presente o prejuízo que se seguia ao serviço das fábricas com outros dos naus de Sua 
+Majestade, em se de[?] as matas das melhores madeiras para este [minister], com [?]. Pelo que 
+lhe parecia que com a cláusula de não tirarem nem destruírem, para outro algum serviço de 
+madeiras [?] de se poderem conduzir do porto do mar ou pudessem por dar as terras os que as 
+tiverem de sesmaria, se lhe podiam conceder com as mais condições da lei e, costumadas, e que 
+a este façam de [?] a esta petição, na qual tinha maior merecimento os 12 sócios, o Antônio de 
+Aguiar Barriga, André Ferreira, que estavam obrigados a dar madeiras e tábuas para as naus de 
+Sua Majestade, que se fabricara nesta Bahia de que andaram tratando, e tinham gados. Pelo que 
+não duvidar, se lhe concedessem as léguas de terra que me parece debaixo das ditas cláusulas e 
+a resposta do procurador da Fazenda, a que se deu vista, em que declara que, pelo regimento 
+das sesmarias [?] na ordenação, livro 4 º, título 43, se não limitava nem declarava, o que se 
+devia dar de sesmaria a cada uma pessoa, que as que parcamente parece ao sesmeiro que poderia 
+aproveitar e cultivar no tempo de 5 anos, ou no que se lhe assinalasse, porque tal possibilidade 
+poderia ter algumas pessoa, que 5 léguas serviam poucas, poderia haver outra, que nem duas 
+poderia aproveitas, e que não sabia a possibilidade dos suplicantes, se poderiam aproveitar as 
+léguas que pediu, e que por isso havia dito depois da sua petição que se lhes dessem as que 
+
+pudessem aproveitar na forma do regimento, e a ultima informação do dito provedor-mor, que 
+é também a que se segue. Senhor, parece-me que com 5 léguas de comprimento e uma de largura 
+ficaram bem acomodados os suplicantes, que todos fazem 25 léguas na forma que as pedem. 
+Vossa Excelência mandará o que for servido. Bahia, 27 de abril de 1675. Francisco Lamberto// 
+Hei por bem de conceder e dar de sesmaria, como pelo presente faço em nome de El Rei, meu 
+senhor, aos suplicantes e seus herdeiros descendentes e ascendentes, 5 léguas de comprimento 
+e um de largura, que todos fazem 25 léguas de terra na forma que as pedem, como parece ao 
+provedor-mor da Fazenda Real na sua ultima informação, na parte que as pedem e confrontam 
+com sua petição e declaração com todas suas águas, campos, matos, testadas, logradouros, e 
+mais úteis que nelas se acharem, todo foro livre e isento de pensão ou tributo algum, salvo o 
+dizimo a Ordem de Cristo, que pagaram dos frutos que nelas houver, e por elas serão obrigados 
+a dar caminho públicos a todos os particulares para fontes, pontes, pastos e pedreiras, e de se 
+cultivarem no termo da lei e regimento, com pena de se lhe estarem por devolutas, e de 
+mandarem certidão de como as tem povoado dentro no dito termo para se registrar nos livros 
+da Fazenda Real, e cada um aproveitará as léguas que lhe tocarem por [?] as [?] nem até de 
+outros sócios, debaixo da pena de se darem a outras [?] quais terras lhes concedo, sem prejuízo 
+de terceiro, e com declaração de não tirarem nem distribuírem para outro alguém serviço, as 
+madeiras capazes para a fábrica e conserto dos navios de Sua Majestade, pelo prejuízo que se 
+segue, a qual serviço em se devotarem como pareceu ao mesmo provedor-mor da Fazenda as 
+que forem capazes de se conduzir a porto do mar. Pelo que mando a todos os ministros de 
+justiça, a que o conhecimento deste com direito deva ou possa pertencer, lhes façam dar a posse 
+real efetiva e atual na forma costumada debaixo das cláusulas acima referidas, as mais da 
+ordenação, título das sesmarias. Para firmeza do que lhes mandei passar apresente sob meu sinal 
+e selo de minhas armas, o qual se registrará nos livros da secretaria deste Estado, Fazenda Real 
+dele, e nos do escrivão das sesmarias, e se guardará e cumprirá tão pontual e inteiramente como 
+nela se contém, sem dúvida embargo nem contradição alguma. Dado nesta cidade do Salvador, 
+Bahia de Todos os Santos, em os 28 dias do mês de abril, ano de 1675. Antônio Garcia, oficial 
+maior da [?] deste Estado do Brasil, que sirvo por impedimento dos secretários dele, em ano 
+dado do senhor. Marques das Minas do conselho de Sua Majestade, governador e capitão geral 
+do mesmo Estado o escrevi. Marques das Minas// Selo. Alvará de doação e sesmaria de 5 léguas 
+de terra de comprimento e uma de largura, que todos fariam 25 léguas, que Vossa Excelência 
+teve por bem conceder ao alfares Manuel da Silva e Sousa, Antônio de Aguiar Barriga, André 
+Ferreira, Pascoal da Silva, Pantaleão Freire Porto, na forma que se pedem, não prejudicando a 
+terceiros com as cláusulas de se não tirarem nem destruírem para outro alguém as madeiras 
+capazes de se poderem conduzir ao porto de mar para as fábricas e consertos dos navios de Sua 
+Majestade, pelo prejuízo que se segue em se devotarem e com as mais neste incertos pelos 
+respeitos acima declarados. Para Vossa Excelência ver. Registrado no livro segundo dos 
+registros da secretaria do Estado do Brasil, a que toca a folha 133, verso. Bahia, 29 de abril de 
+1675. Garcia// Registre-se. Bahia, 29 de abril de 1675. Lamberto// Pantaleão Freire Porto o 
+registrou-se em dito dia. Francisco Dias do Amaral// 
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+ 
+Os nomes dos sesmeiros no documento original são: Manoel da Silva e Sousa, Antônio de 
+Aguiar Barriga, e outros. 
+ 
+Referência:  
+ 
+
+AN, Códice 427, fls. 267 – 269.  
+Numeração original no livro: 287 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

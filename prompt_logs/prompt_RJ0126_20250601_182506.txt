@@ -1,0 +1,175 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0126
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Aleixos Manuel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "18-10-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Águas e terras defronte à sesmaria do suplicante, na direção noroeste",
+  "Confrontantes": "Terras do Jaguará",
+  "Justificativas": "Era descobridor(a) das terras com sua fazenda; Tinha poucas terras; Pretendia fazer engenho; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também ter muitos filhos.",
+  "Observações das exigências": "Determinou-se também ao suplicante que \"haja a posse e senhorio da dita água e terra, para sempre\", assim como exigiu-se do suplicante que \"rompa e aproveite a dita terra e água, e frutifique da dada desta em três anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses, tenha feito na dita terra algum proveito, e plantado alguns mantimentos, cumpridos os ditos três anos que a tenha aproveitado como dito é, porque não assim fazendo ele assim passado os ditos três anos, se dará a dita terra que aproveitada não tiver de sesmaria a quem a vós pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver, sobretudo, pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenados e necessárias para o Conselho, para fontes, pontes, vieiras e pedreiras que necessárias forem. A  qual terra e água pela dita maneira lhe deu assim forra e isenta\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0126"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0126
+Carta de pedido de concessão de sesmaria de Aleixo Manuel de Alvernos de 18 de outubro de
+1603
+Forra
+[F.69] Saibam quantos este instrumento de carta de sesmaria virem, que no ano do nascimento
+do nosso senhor Jesus Cristo 1603, aos 18 dias do mês de outubro do dito ano, nesta cidade de
+São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante nomeado,
+apareceu o reverendo padre Pero Homem, filho de Aleixo Manuel, morador nesta dita cidade,
+do Regimento dela, e me apresentou uma petição feita em nome do dito seu pai, com
+despacho nela do senhor Martim de Sá, capitão e governador nesta dita cidade, capitania e
+governança, deste dito Rio de Janeiro por El-Rei Nosso Senhor. Da qual petição o despacho
+dela e o translado é o seguinte: diz Aleixo Manuel Alvernos, que defronte das casas da
+fazenda e currais de gado que ele tem em suas terras de Jaguará e ao rumo do noroeste está
+uma serra que tem uma agua para engenho, junto e perto de um pico, o mais alto que está na
+mesma serra pelo dito rumo, a qual agua e rio, ele suplicante, não sabe se chama, mas tem os
+sinais seguintes que convêm a saber: quando sai do centro da serra tem um penedo muito
+grande em que bate a água, e vem uma metade por uma parte e a outra metade por outra, e
+logo na banda de baixo tem uma pouca de areia com umas arvores pequenas, e ao pé delas
+tem um salto da altura de um homem mais ou menos, e para baixo, corre a dita agua por cima
+de muito calhau miúdo até chegar areia branca, e tem uma ilha pequena na parte onde tem um
+calhau que corre a agua para ambas as bandas e assim mais, vindo do pé da serra para baixo,
+tem uma várzea a mão esquerda e da outra banda tem um serro alto que vem ao som do rio, a
+qual agua ele suplicante, levou muito trabalho para descobrir, pelo que pede a Vossa Senhoria
+lhe faça mercê em nome de sua Majestade, da dita agua com um pedaço de terra ao redor dela
+na maneira seguinte: que se começará a medir de comprido 1 légua do é da serra para baixo a
+corrente da água e para cada banda da dita água 6 léguas que vem a dizer 3000 de largura e de
+comprimento do pé da serra para baixo, e para cima lhe dê até o cume da serra, havendo
+Vossa Senhoria respeito aos muitos filhos que tem e não ter uma outra para fazer fazenda, e
+assim as mais águas que na dita terra houver. E receberá mercê. Dou ao suplicante a água e a
+terra que pede em sua petição conforme ao que nela diz, não sendo dadas. Rio de Janeiro a 16
+de outubro de 1603. Martim de Sá. E tudo visto pelo dito senhor capitão e governador, a
+petição do dito Aleixo Manuel Alvernos, suplicante, e o que ele pedia visto ser justo e
+havendo respeito ao proveito que se pode seguir acerca da República e ao serviço de Deus e
+Del Rei nosso senhor, e para a terra povoar, deu o dito suplicante Aleixo Manuel Alvernos, a
+água e terras que em sua petição pede, conforme ao dito seu despacho e onde pede, porquanto,
+dizia que estava tudo vago e devoluto e por aproveitar e pelas razões na sua petição contidas
+para as aproveitar e fazer sua fazenda como diz nela não sendo já dado a outra pessoa ou
+pessoas primeiro, a qual terra e agua diz que estão no dito lugar, que tem a dita medida e que
+parte pelas ditas confrontações como em sua petição diz, a braça pela qual irá se medir a dita
+terra, é a braça craveira. ss. a saber duas varas de medir por uma como no Reino se costuma
+de medir, a qual terra lhe deu e concedeu pela maneira adiante declarada, segundo a forma do
+Regimento de El-Rei, Nosso Senhor, de que o translado é o seguinte: as terras que estiverem
+dentro do termo e limites da cidade de São Sebastião que são 6 léguas para cada parte que não
+foram dadas as pessoas que aproveitem, ou posto que o fossem, se as pessoas para quem se
+
+deram as não aproveitarem no tempo que são obrigadas, por esta via ou por qualquer outra
+estiverem vagas, as poderei dar de sesmarias a quem a vós pedir, e tereis lembrança que não
+deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes, ou vos parecer
+que podem granjear e aproveitar, as quais terras assim as dareis livremente sem outro algum
+foro, somente o dízimo a Ordem do Mestrado do nosso senhor Jesus Cristo, com as condições
+e obrigações do foral dado as ditas terras de minha Ordenação do Livro 4º, título das
+sesmarias, com a condição que a tal pessoa ou pessoas que residam na povoação da dita
+capitania ou das terras que lhe assim foram dadas ao menos três anos, que dentro do dito
+tempo as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no
+termo da dita cidade e as tiverem perdidas porque não as aproveitaram, e a vós tornarem a
+pedir, vós as podereis de novo dar com as condições e obrigações contidas neste capítulo, o
+qual se transladara nas cartas, porque as assim derdes e isto se entenderá não sendo as ditas
+terras dadas a outras pessoas. As águas dos ribeiros que estiverem dentro do dito termo que
+não forem dados e que houver disposição para se fazerem engenhos de açucares ou de outras
+quaisquer coisas, dareis também pela sobredita maneira de sesmaria, livremente, sem foro
+algum. E as que derdes para engenhos de açucares, serão às pessoas a que tiverem
+possibilidade para as poderem fazer dentro do tempo que limitardes, que será o que vos bem
+parecer. E para serviço e meneio dos ditos engenhos de açucares e granjearia deles, lhes dareis
+aquela terra que virdes que lhes é necessária. E as ditas pessoas a que assim derdes as ditas
+aguas e terras, serão obrigadas de cada um em sua terra fazer uma torre ou casa-forte de cerca
+e grandeza, que segundo lugar onde estiver vos parecer necessária para segurança do dito
+engenho e povoadores de seu limite, de que fará declaração nas cartas que lhes passardes das
+ditas sesmarias, e serão obrigados a aproveitarem as ditas aguas e terras como dito é, sem as
+poderem vender, nem traspassar a outras pessoas, nem por outra via enlear por tempo de três
+anos, e para se assim cumprir se trasladará nas cartas que lhes passardes das ditas sesmarias
+este capitulo e assim o que está antes deste, e se algumas pessoas a que forem dadas agua no
+termo da dita cidade de São Sebastião, as tiverem perdidas por não fazerem benfeitorias que
+eram obrigadas, e as quiserem ora aproveitar , a vós pedirem para isso, vós as dareis com as
+condições, obrigações e declarações lhe assim deu o dito senhor capitão e governador a dita
+água e terra ao dito suplicante, Aleixo Manuel Alvernos, pela dita maneira e para sua guarda e
+segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio da
+dita água e terra, para sempre, para ele e todos os seus herdeiros, filhos, netos, sucessores,
+ascendentes e descendentes que após dele vierem, com a tal condição e entendimento que ele
+rompa e aproveite a dita terra e água, e frutifique da dada desta em três anos primeiros
+seguintes, outrossim, fará de maneira que dentro de quatro meses, tenha feito na dita terra
+algum proveito, e plantado alguns mantimentos, cumpridos os ditos três anos que a tenha
+aproveitado como dito é, porque não assim fazendo ele assim passado os ditos três anos, se
+dará a dita terra que aproveitada não tiver de sesmaria a quem a vós pedir para aproveitar, e
+lhe será deixado alguns logradouros do que aproveitado não tiver, sobretudo, pagará r$ 1000
+para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenados e
+necessárias para o Conselho, para fontes, pontes, vieiras e pedreiras que necessárias forem. A
+qual terra e água pela dita maneira lhe deu assim forra e isenta, sem foro nem tributo, nem
+pensão, somente de tudo que lhe nosso Senhor der nela de suas novidades, lavouras e
+criações, pagará os dízimos a Deus conforme o dito Regimento, o que tudo manda que se
+cumpra e guarde sem dúvida nem embargo algum, que lhe a ele seja posto e que esta carta
+seja registrada dentro de um ano nos livros da Fazenda Real, como dito senhor em seu
+Regimento manda, sobre as penas nele contidas e declaradas, e porque o sobredito Aleixo
+
+Manuel Alvernos, suplicante, tudo prometeu de ter, manter e cumprir pela dita maneira lhe
+mandou passar esta carta de sesmaria, e por verdade, eu Pero da Costa, escrivão das sesmarias
+e tabelião das notas por El-Rei nosso senhor, desta cidade de São Sebastião e em seus termos,
+que este instrumento de carta de sesmaria escrevi e tomei nos meus livros das notas e tombo
+das cartas de sesmaria, desta cidade que em meu poder ficam, onde o dito instrumento fica
+assinado pelo dito senhor, capitão e governador. //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta das águas e terras d’Aleixo Manuel que estão em Gagaral defronte das
+suas casas e curral.
+Foi mudado no corpo do texto a para grandura para grandeza.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+174-177; Documento Original : Fl.69.
+Original no livro
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

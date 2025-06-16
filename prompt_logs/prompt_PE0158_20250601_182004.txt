@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0158
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0272",
+  "Nome": "Antônio Gonçalves das Fontes, José Gonçalves da Madre de Deus Fontes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-06-1823",
+  "Observações da sesmaria": "Os suplicantes requereram meia légua de comprimento e meia légua de largura para cada um no termo da vila de Sirinháem, no rio Água Preta. A sesmaria tinha por limite as terras do comandante Manuel de Araújo Lima, do comandante Francisco de Sá Cavalcante e a barra do riacho Ribeirão, sendo meia légua de largura para cada lado do dito riacho. ",
+  "Localidade": "Vila de Sirinháem",
+  "Marcos Geográficos": "Rio Água Preta, Riacho Ribeirão",
+  "Confrontantes": "Manuel de Araújo Lima; Francisco de Sá Cavalcante",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Afonso de Albuquerque Maranhão, presidente; Francisco de Paula Cavalcante de Albuquerque, José Marinho Falcão Padilha e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de 6 mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0158"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0158 
+Carta de doação e sesmaria do padre José Gonlçalves da Madre de Deus Fontes – 
+21/05/1823 
+Padre Joze Gonlçalves da Madre de Deus Fontes, com uma légua de terra em 
+quadro na freguesia da Água Preta, termo de Serinhaem. 
+Nós, presidente e membros da Junta Provisória do Governo da provincia de 
+Pernambuco, fazemos saber aos que esta carta de sesmaria virem, que o padre José 
+Gonçalves da Madre de Deus Fontes e seu irmão Antônio Goncalves da Fonte, 
+apresentaram a Junta Provisória, nossa antecessora, o requerimento do teor seguinte: = 
+Ilustríssimos e excelentíssimos senhores = Dizem o padre José Gonçalves da Madre de 
+Deus Fontes e seu irmão Antônio Gonçalves da Fonte, residentes no termo da Vila de 
+Serinhaem, que desejando os suplicantes serem empregados com os seus escravos em 
+várias plantações de lavouras, em benefício do estado e bem público desta capitania, e 
+havendo porção de terras pertencentes a Sua Majestade Fidelíssima, na freguesia de 
+Água Preta, domicílio daquele mencionado termo de Serinhaem, realengas, devolutas e 
+livres de matas para a construção real, requerem a Vossas Excelencias lhes concedam 
+por sesmaria a cada um dos mesmos suplicantes, a quantidade de meia légua de terras 
+em quadra em testadas das terras do rio Água Preta, do comandante Manuel de Araújo 
+Lima e de outras denominadas Cousseiro do comandante Francisco de Sá Cavalcante, 
+principiando as mais demarcações da barra do riacho Ribeirão acima, e completando-se 
+a cada um da dita meia légua na medição e quadra para uma e outra parte do dito riacho 
+ribeirão acima, e pelos ventos gerais de leste a oeste e de norte a sul, cujas terras não 
+ocupam éreos alguns, e pagando o suplicante de per si o competente foro e de as 
+fazerem demarcar e proseguir na forma das reais ordens, em consequência das mesmas 
+sesmarias; por título pedem a Vossas Excelências que atendidas as razões expostas a 
+graça de assim lhes deferir, fazendo-se proceder as diligências do estilo = E receberá 
+mercê = E sendo visto este requerimento pela referida junta, em data de 30 de março de 
+1822, deferiu na forma seguinte: = A Câmara respectiva mande por editais na forma da 
+Lei, por tempo de 30 dias, e informe a este Governo se há terceiro prejudicado = E 
+informando esta em ofício de 2 de outubro do mesmo ano, acompanhado dos editais e 
+certidão do oficial que os afixou, que não houvera oposição alguma, se nos apresentou 
+com ele o requerimento que examinamos e mandamos por despachos de 2 de dezembro 
+
+do mesmo ano e 30 de maio do corrente, ouvir o desembargador procurador da Coroa e 
+Fazenda e o escrivão deputado da Junta da mesma Fazenda Pública, que nenhum deles 
+tão bem lhe pôs embaraço: a vista do que mandamos por despacho de 31 de maio 
+próximo passado, que se lhes passasse esta carta. E portanto, pela faculdade que nos é 
+concedida no Capútulo 15 do regimento deste Governo e mais ordem régias a este fim 
+dirigidas; havemos por bem dar em nome de Sua Majestade, o Augusto Imperador 
+Constitucional e defensor perpétuo do Brasil, aos ditos padres José Gonçalves da Madre 
+de Deus Fontes e seu irmão Antônio Gonçalves da Fonte, uma légua de terra em quadro 
+para ficar pertencendo a cada um deles meia légua de terra em quadro, para ficar 
+pertencendo a cada hum deles meia légua de frente com uma de fundo, tudo no lugar e 
+com as confrontações constante do seu requerimento, pagando o foro anual de seis mil 
+réis, em observância da real ordem de 28 de setembro de 1700, de que deu fiança na 
+Contadoria da Junta da Fazenda Pública, a folha 74 do livro 7 delas; a qual sesmaria 
+possuirão e gosarão eles suplicantes e seus herdeiros ascendentes e descendentes, como 
+sua que fica sendo de hoje para todo o sempre, com todas as matas, campos, rios, águas, 
+testadas, logradouros e mais úteis, que nela se compreenderem, não prejudicando a 
+terceiro. E não passará a religiões e pessoas eclesiásticas, salvo sendo com os mesmos 
+encargos com que as possuem os seculares, e nunca se dividirá em porções, nem se 
+partirá, senão por estimação, andando encabeçada em uma só pessoa, na forma da 
+ordenação, livro 4º, titulo 96§23, e assim não passará a herdeiros ou outras quaisquer 
+pessoas sem consentimento da Junta da Fazenda Pública, para nela se darem novas 
+fianças e se fazerem as devidas escriturações, ficando livres para a serventia dos povos 
+todas as estradas, rios, fontes e pedreiras, e reservadas ao patrimônio público as 
+madeiras de construção, pau-brazil e viveiros de quaisquer metais, e serão obrigados a 
+requerer dentro de três anos confirmação a medir e demarcar, em cujo ato poderão 
+preencher-se para o lado ou lados em que houver terras devolutas, caso encontrem 
+obstáculo dos éreos confinantes na medição quadrada, a povoá-la e cultivá-la na forma 
+da ordem régia de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e não o 
+cumprindo assim, se haverá por devoluta e novamente se concederá a quem requerer. 
+Pelo que ordenamos aos ministros da Fazenda da Justiça e mais pessoas a quem tocar, 
+cumpram e façam cumpir esta carta de data de sesmaria como nela se contém, fazendo 
+dar aos suplicantes posse real, efetiva e atual, na forma da Ordenação título das 
+sesmarias. Em firmeza do referido, lhe mandamos passar a presente por nós assinada e 
+selada com o sinete nacional, a qual a registrará na Secretaria deste Governo, na Junta 
+
+da Fazenda Pública e aonde mais tocar. Manoel dos Passos e Figueiroa, oficial maior da 
+Secretaria, a fez em o Recife de Pernambuco, aos 4 dias do mês de junho de 1823, 
+segundo da Independência e Império do Brasil. E eu, José Marinho Falcão Padilha, 
+secretário, a fiz escrever = Afonso de Albuquerque Maranhão, presidente = Francisco 
+de Paulo Cavalcante de Albuquerque = Manuel Ignácio Bezerra de Melo = José 
+Marinho Falcão Padilha, secretário = Carta de data de sesmaria, pela qual Vossas 
+Excelências hão por bem conceder em nome de Sua Magestade Imperial e 
+Constitucional, uma légua de terra em quadra na freguesia de Água Preta, termo da Vila 
+de Serinhaem, ao padre José Gonçalves de Madre de Deus Fontes e seu irmão Antônio 
+Gonçalves da Fonte, como nela se declara. = Para Vossas Excelências verem = Por 
+despachos do Governo de 31 de maio de 1823. 
+- Fim da carta - 
+Referência: BPPE, Sesmarias de Pernambuco 1821, fls. 224-225. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

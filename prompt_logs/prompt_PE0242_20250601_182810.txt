@@ -1,0 +1,101 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0242
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0315",
+  "Nome": "Francisco Casado Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "30-03-1786",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Una, freguesia de São José dos Bezerros, do rio da Prata, na barra do riacho Capema, até as fazendas Gado Bravo e Riachão",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Rio Una",
+  "Confrontantes": "Fazenda Gado Bravo, Fazenda Riachão",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0242"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0242 
+ 
+Carta de concessão de Francisco Casado Lima de 30/03/1786 
+ 
+Sesmaria de uma légua de terra em São José, vertentes do rio de Una, freguesia dos 
+Bezerros termo de Olinda, pegando do rio da Prata, onde faz barra o riacho Capema 
+acima, meia légua por um lado do mesmo riacho, e meia pelo outro, com o qual faz pião 
+pelos rumos do poente, confrontando com as fazendas do agreste, Gado Bravo, e Riachão, 
+e pelos do norte, sul e nascente sem heréus confrontantes, concedida em 30 de março de 
+1786 ao sargento-mor  Francisco Casado Lima e seus herdeiros ascendentes e 
+descendentes, pelo capitão general José César de Menezes, com o foro anual de quatro 
+mil réis, por não ser das mais próximas a Marinha; a qual, além de não poder passar a 
+religiões ou outras pessoas eclesiásticas, salvo com os mesmos encargos, não pode ser 
+dividida ou partida, se não por estimação como dispõe a citada ordenação. Com cópia no 
+livro 7º folha 46. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.83. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

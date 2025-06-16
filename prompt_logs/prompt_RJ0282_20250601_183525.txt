@@ -1,0 +1,86 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0282
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João de Barros de Alarcão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "05-02-1710",
+  "Observações da sesmaria": "A carta de concessão encontra-se completamente ilegível, não sendo possível identificar o histórico da terra.",
+  "Localidade": "Não identificado",
+  "Justificativas": "Pretendia fazer casa; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta encontra-se completamente ilegível, não sendo possível identificar as instâncias pelas quais passou.",
+  "Observações das exigências": "A carta encontra-se completamente ilegível, não sendo possível identificá-las.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0282"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0282
+Carta de concessão de João de Barros de Alarcão de 5 de fevereiro de 1710
+(Ilegível)
+//João Barros de Alarcão//
+O doutor João Alves Simões, do desembargo de Sua Majestade, seu ouvidor geral e
+corregedor da comarca nesta cidade do Rio de Janeiro e nas mais capitanias de sua repartição,
+juiz das justificações, etc. Aos que a presente certidão de justificação virem, faço saber que a
+mim me constou por fé do escrivão de meu cargo, que esta subscreveu, ser a letra [da
+subscrição] acima, o sinal público raso dele do [capitão] Custódio da Costa Gouvea. O que
+hei por justificado. Rio de Janeiro, 17 de março de 1744 anos. E eu, Domingos Rodrigues
+Távora, escrivão a subscrevi.
+//João Alves Simões//
+- Fim da Transcrição -
+Observação:
+Título AHU: Carta pela qual o Governador Antonio de Albuquerque Coelho de Carvalho,
+concedeu e deu de sesmaria a João de Barros de Alarcão, residente no Rio de Janeiro, uma
+porção de terreno para nele edificar uma morada de casas. Rio de Janeiro, 5 de fevereiro de
+1710.
+O documento encontra-se ilegível quase em sua totalidade. A carta concessão número 12.246
+encontra-se completamente apagada, o único trecho cuja transcrição é possível, é o que está
+acima. Encontramos também a petição de confirmação de Bento de Oliveira Braga, sucessor
+de João de Barros de Alarcão, relativa a essa carta de concessão.
+Referência:
+AHU_ACL_CU_017-01, Cx. 52, D. 12246
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

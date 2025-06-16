@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0176
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0327",
+  "Nome": "José Pereira da Costa, Lourenço Rodrigues Vilas Boas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-11-1791",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura na Terra Vermelha, termo de Igarassú, entre os rios Tracunhaém e Sirigi, limitando-se com o engenho Tamatupe de Flores, que pertencia aos herdeiros de Cristóvão de Holanda Cavalcante até o rio Nataupe. ",
+  "Localidade": "Rio Tracunháem",
+  "Marcos Geográficos": "Rio Tracunháem, Rio Sirigi, Rio Nataupe",
+  "Confrontantes": "Engenho Tamatupe das Flores",
+  "Justificativas": "As terras eram devolutas; Pretendia fazer engenho; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "Não foi possível identificar a data exata da concessão.",
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis. O governador Dom Tomás José de Melo também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0176"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0176
+Carta de doação e sesmaria de José Pereira da Costa e padre Lourenço Rodrigues Vilas
+Boas - 1791
+José Pereira da Costa e o padre Lourenço Rodrigues Vilas Boas, com duas léguas de terras
+no lugar da terra vermelha, entre os dois rios Tracunhaém e Sirigi.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavaleiro da Sagrada
+Religião de Malta, chefe da divisão da Armada Real, governador e capitão general de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem que José Pereira da Costa e o padre Lourenço Rodrigues Vilas Boas me fizeram
+um requerimento do teor e maneira seguinte: = Ilustríssimo e Excelentíssimo Senhor. Dizem o
+capitão-mor José Pereira da Costa e o padre Lourenço Rodrigues Vilas Boas, moradores na terra
+Vermelha, termo de Igarassú, que eles suplicantes pretendem tirar por sesmaria as terras que se
+acham devolutas e desaproveitadas entre os rios Tracunhaém e Sirigi, principiando nas testadas
+onde acabar a terra do Engenho Tomataupe de Flores, que é hoje dos herdeiros do capitão-mor
+Cristóvão de Olanda Cavalcante; cujas terras não há dúvida que estão devolutas pelo rio Nataupe
+acima, que corre entre os dois rios Tracunhaém e o Sirigi, porque ainda que seja certo terem
+algumas pessoas tirando datas pelos ditos dois rios, distantes um do outro quatro léguas ou mais,
+é certo que tiradas as sesmarias que se acham dadas pelo Tracunhaém e Sirigi acima, assim como
+tirada a terra do Engenho de Nataupe, que é somente do Engenho para cima meia légua, fica
+muita terra devoluta e de sobras entre estes éreos, e os que ficam pela parte do poente na situação
+da Palma; cujas terras de sobras e devolutas, sem moradores nem povoação alguma, pois são
+matos que existem sem cultura desde o princípio do mundo, nem há vestígio que gente humana
+ali habitasse, plantasse, rossasse ou fizesse algum ato possessório, sinais certos de que as ditas
+terras estão devolutas; e como Sua Majestade interessa em que as terras se povoem não estejão
+incultas, do que não resulta bem ao Estado, pertencendo aos suplicantes povoá-las, situá-las,
+plantando lavouras e levantando engenho de fazer açucar; recorrem a Vossa Excelência para que
+se digne conceder aos suplicantes sesmaria das terras que se acharem de sobras e desaproveitadas
+entre os dois rios Tracunhaem e Sirigi e entre as testadas da data do Engenho Tomataupe e os
+éreos da Palma, enchendo-se cada um pelos títulos justos que tiveram das terras que lhes
+pertencerem, ficando aos suplicantes as sobras na forma dita, que as gozarão em comum
+enquanto quiserem, e não querendo mais assim possuírem, partirão as ditas sobras em duas partes
+iguais comum rumo do norte ao sul, ficando cada um dos suplicantes ou seus herdeiros com a sua
+
+metade; para o que recorrem a Vossa Excelência mande proceder às diligências do estilo pela
+respectiva Câmara de Igarassú, pagando os suplicantes de foro o que for justo. Pedem a Vossa
+Excelência seja servido conceder aos suplicantes as sesmarias que pretendem na forma requerida,
+para o que mandará Vossa Excelência proceder na forma do estilo. E receberá mercê: E sendo por
+mim visto o seu requerimento e constando dos documentos que a ele juntaram estar devoluta e
+livre a terra pedida por sesmaria, e que os impedimentos com que sairão o capitão Manoel
+Cavalcante de Albuquerque ao capitão Domingos Lopes Barbosa e mais herdeiros do capitão-mor
+Cristóvão de Olanda Cavalcante a mencionada terra, na ocasião em que foram postos os editais
+pela Câmara respectiva, em observância do despacho do meu excelentíssimo antecessor da data
+de 8 de maio de 1782, se achavam decididos a fazer dos suplicantes pela sentença que juntaram
+da casa da suplicação da cidade de Lisboa; mandei por despacho meu de 18 de outubro do
+corrente ano, ouvir o escrivão da Fazenda Real e assim mais responder ao doutor procurador da
+Fazenda e Coroa por outro de 21 do dito mês e ano; e como todos uniformemente me
+responderam estar nos termos de se dar aos suplicantes a terra pedida por sesmaria, na forma
+confrontada em seu requerimento, pagando anualmente o foro de 6 mil réis, por ser das que estão
+mais próximas a Marinha, do que devia dar fiança na Contadoria; ultimente mandei por despacho
+de 25 de outubro do presente ano que se passasse sesmaria na forma de resposta do doutor
+procurador da Fazenda e Coroa e escrivão da Receita e Despesa da mesma Fazenda: Em
+cumprimento do qual e pela facudaldade que Sua Majestade Fidelíssima me permite no Capítulo
+15 do Regimento deste Governo. Hei por bem dar em nome da dita Senhora aos ditos José Pereira
+da Costa e padre Lourenço Rodrigues Vilas Boas, de sobras por sesmaria 2 léguas de terra de
+comprido de uma de largo, ficando para cada um dos suplicantes uma légua em quadra, no lugar
+da terra vermelha, entre os dois rios Tracunhaém e Sarigi e entre as testadas da data do Engenho
+Tomataupe e éreos do Palma, tudo na forma confrontada em seu requerimento, pagando o foro
+anual de 6 mil réis por légua, visto ser dar mais próximas da Marinha, que determina a Real
+Ordem de 28 de setembro de 1700, a qual terra possuirão e gozarão eles suplicantes e seus
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo o sempre, com
+todas as suas pertenças, matas, campos, águas, rios, testadas, logradouros e mais úteis que ela
+compreender, não prejudicando a terceiro, e não passará a dita terra a religiões e pessoas
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, sendo
+obrigados a dar ao Conselho caminhos livre para fontes, pontes e pedreiras, e requerer dentro de
+três anos medição e demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia de 20 de
+outubro de 1753, e não o cumprido assim se dar por devoluta e novamente ser conferida a quem
+requer; com mais a condição de que a dita terra nunca se dividirá em porções mas andará
+
+encabeçada em uma só pessoa, segundo a natureza dos bons foreiros, na forma expressada na
+Ordenação Livro 4º título 96 § 23; e de que não cortarão as árvores do pau-brasil e os que
+servirem para construção dos navios de alto bordo da Coroa, e de não passar a dita terra a
+herdeiros dos suplicantes ou outra qualquer pessoa sem concessão da Junta da Fazenda Real. Pelo
+que ordeno aos ministros da Fazenda e Justiça e mais pessoas e quem tocar, cumpram a façam
+cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo dar aos
+suplicantes posse real, efetiva e atual, na forma costumada debaixo das cláusulas referidas e das
+mais da Ordenação Título das Sesmarias; visto constar por bilhete que apresentou achar-se dada a
+fiança ao foro anual de 6 mil réis por légua, na Contadoria da Real Fazenda a folha 140 verso 3º
+delas. Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas, que se registará na Secretaria deste Governo e Contadoria da Real Fazenda.
+Manoel Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, o fez em o Recife de
+Pernambuco, de 1791 ||
+Dom Antonio Pio de Lucena e Castro, secretário do Governo, o fez
+escrever || Dom Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco, 1821, fls. 21-23.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

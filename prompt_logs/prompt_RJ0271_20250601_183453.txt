@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0271
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Ventura dos Reis",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-06-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na vila de Parati",
+  "Marcos Geográficos": "Praia das Antas",
+  "Confrontantes": "Terras de André de Castro",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; As terras eram devolutas; Alegou possuir muitos familiares; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado \"a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para serventia pública\". Determinou-se também que reservasse os paus reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0271"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0271
+Carta de concessão de Ventura dos Reis de 9 de junho de 1750
+Gomes Freire de Andrade, do conselho de Sua Magestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Ventura dos Reis, que ele estava morando havia 22 anos em uma ponta de terras
+que poderia ter meia légua em quadra, que tinha princípio de onde acabavam as terras de
+André de Castro, correndo pela praia das Antas até entestar com a mesma ponta, trabalhando,
+plantando e desfrutando sem haver quem lhe proibisse, e desse posse e razão porque julgava o
+suplicante [a estarem] devolutas as ditas terras, e como o suplicante às quer cultivar, e com 11
+filhos que tem, queria por sesmaria as mencionadas terras pois não possuía outras algumas e
+nem as tinhas pedido, pedindo-me lhe mandasse passar a dita sesmaria na forma do estilo. E
+sendo visto o seu requerimento, em que foi ouvida a Câmara da vila de Parati, a quem se não
+ofereceu dúvida, nem ao provedor da Fazenda Real e procurador da Coroa dela, a quem se
+deu vista. Hei por bem dar de sesmaria, em nome de Sua Magestade e em virtude da ordem do
+dito Senhor de 15 de junho de 1711 em que me da faculdade para conceder sesmarias ao dito
+Ventura dos Reis meia légua de terras em quadra na parte acima declarada; com as
+confrontações expressadas; sem prejuízo de terceiros ou do direito que alguma pessoa tenha a
+elas; com declaração que as cultivará e mandará confirmar esta minha carta por Sua
+Magestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar
+posse delas, as fará medir e demarcar judicialmente, sendo para este efeito notificados as
+pessoas com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes e
+estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se
+atravessar, ficará reservada de uma das margens dele a terra que baste para serventia pública;
+nesta data não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo
+será com encargo de pagar dízimos e outro qualquer que Sua Magestade lhe impuser de novo,
+e não os pagando se poderá dar a quem a denunciar; como também sendo do dito Senhor
+servido mandar fundar no distrito dela alguma vila o poderá fazer ficando livre, sem encargo
+algum ou pensão para o sesmeiro; não compreenderá esta data vieros ou minas de qualquer
+gênero de metal que nela se descobrir, reservando também os paus Reais; e faltando a
+qualquer das ditas cláusulas, por serem conforme as ordens de Sua Magestade e as que
+dispõem a Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito Ventura dos Reis das
+
+referidas terras na forma acima declarada. E por firmeza de tudo, lhe mandei passar a presente
+por mim assinada e selada com o sinete de minhas armas, que se cumprirá como nela se
+contém, se registrará nesta Secretaria de governo e nas mais partes a que tocar. Dada nesta
+cidade de São Sebastião do Rio de Janeiro. João de Souza e Melo a fez aos 9 de junho de
+1750. O secretário do governo, Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta para Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Magestade, a
+Ventura dos Reis meia légua de terras em quadra no distrito da vila de Parati na parte e forma
+acima declarada.
+Para Vossa Excelência ver.
+Registrada no Livro 20 das Provisões de governo, a folha 145. Rio, 11 de junho de 1750.
+//Antônio da Rocha Machado//
+Cumpra-se e registra-se. Vila de Parati, 26 de junho de 1750.
+//Maciel//
+Registrada à folha 73 e folha 74 do Livro 14 de notas desta Vila de Parati, 21 de agosto de
+1752.
+//João de Sousa Maciel//
+Registre-se nos Livros da Fazenda Real. Rio, 15 de junho de 1750.
+//Melo//
+Registrada no Livro 33 a folha 129. Rio, 15 de junho de 1750.
+//André Francisco Xavier//
+O doutor Inácio da Cunha de [Toar], cavaleiro professo na Ordem de São Bento de Avis do
+desembargo de Sua Magestade, seu desembargador da relação desta cidade de São Sebastião
+do Rio de Janeiro, e nela ouvidor geral da cível e juiz da justificações de Índia e Mina, etc.
+Faço saber aos que a presente certidão de justificações virem, que a mim me constou por fé do
+escrivão de meu cargo, que esta subscreveu, ser a letra da subscrição da carta de sesmaria
+retro de secretário do governo, Antônio da Rocha Machado, e o sinal da assinatura é do
+próprio (palavra não identificada) ilustríssimo e excelentíssimo Gomes Freire de Andrade,
+governador capitão general desta cidade e Minas. E os mais sinais são próprios dos nele
+contidos e que (palavra não identificada). Hei por justificado. Rio de Janeiro, 28 de agosto de
+1752 anos. E eu, Antônio Machado Freire, a sobrescrevi.
+//Inácio da Cunha de Toar//
+-Fim da Transcrição-
+
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Ventura dos Reis meia légua de terras, em quadra, no distrito da Vila do Parati. Rio, 9 de
+junho de 1750.
+Referência:
+AHU_ACL_CU_017-1, Cx. 72\Doc. 16805
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

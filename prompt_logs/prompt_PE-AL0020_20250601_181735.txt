@@ -1,0 +1,82 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0020
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0107",
+  "Nome": "Gonçalo da Costa Teixeira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "NA",
+  "Observações da sesmaria": "O suplicante havia requerido uma légua de comprimento e meia légua de largura na freguesia das Alagoas.",
+  "Localidade": "Freguesia das Alagoas",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante desistiu da sesmaria requerida e por isto foi considerada nula, não possuindo despacho ou condições de concessão.",
+  "Observações do deferimento e da concessão": "O suplicante desistiu da sesmaria requerida e por isto foi considerada nula, não possuindo despacho ou condições de concessão.",
+  "Observações das exigências": "O suplicante desistiu da sesmaria requerida e por isto foi considerada nula, não possuindo despacho ou condições de concessão.",
+  "referencia": "PE-AL0020"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0020 
+ 
+O CAPITÃO GONÇALO DA COSTA TEIXEIRA, DE UMA LÉGUA DE TERRA DE 
+COMPRIDO E MEIA DE LARGO, NA FREGUESIA DAS ALACOAS - EM 12 DE 
+SETEMBRO DE 1727. 
+ 
+Dom Manoel Rolim de Moura e etc., etc., etc. 
+Não teve efeito a sesmaria passada a este indivíduo, porque fez deixação dela, segundo consta  na 
+provedoria da Fazenda desta capitania, por cuja causa se não cobra o foro dela. – Vide original fl. 97 
+v. 
+- Fim da carta - 
+ 
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a 
+esta sesmaria. 
+ 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 317. 
+ 
+Em 12 de 
+setembro 
+de 1724. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

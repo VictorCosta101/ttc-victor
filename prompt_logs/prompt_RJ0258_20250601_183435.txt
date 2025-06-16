@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0258
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Pedro da Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "04-02-1749",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio do Louro, vila de São Salvador dos Campos dos Goitacazes",
+  "Marcos Geográficos": "Lagoa Feia, lagoa de Jesus, lagoa Água Limpa, ilha das Pedras, serra",
+  "Ribeira": "Quilombo",
+  "Justificativas": "Pretendia aumentar suas terras; Tinha escravos; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas [onde necessário] for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se também, que em sua data concedida, fossem reservados os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0258"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0258
+Carta de concessão de Pedro da Rocha de 4 de fevereiro de 1749
+[Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro, Minas Gerais, Goiás
+e Cuiabá, etc.]
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Pedro da Rocha, [morador] desta cidade, que ele era possuidor de umas terras sitas
+[na vila] de São Salvador dos Campos dos Goitacazes, a beira da lagoa Feia onde vulgarmente
+chamavam sítio do Louro, que houve por título de compra que fez delas por instrumento
+público a Francisco Manhães Barreto, as quais terras partiam por uma banda para a lagoa
+chamada de Jesus, fazendo fundos para o sertão e de outra parte correndo do mesmo Louro
+até o boqueirão que sai para fora da lagoa chamada da Água Limpa, correndo para a ilha das
+Pedras e rio chamado Quilombo, partindo para a serra, como constava das confrontações
+insertas na mesma escritura, e porque o suplicante tinha bastante fábrica de escravos, gados
+vacuns e cavalares, e as ditas terras não eram suficientes para a mesma fábrica e seu
+custeamento, queria lhe concedesse por sesmaria 1 légua de terras em quadra, com o sertão
+que se achasse, e não havendo em quadra por ser limitado em razão de alguns ereos
+confinantes, se lhe preenchesse a dita légua pelo mesmo sertão correndo para a serra tendo
+principio a dita légua até o sertão onde finalizavão as terras compradas de que fazia menção.
+Pedindo que lhe mandasse passar a dita sesmaria na forma do estilo. E sendo visto o seu
+requerimento, em que foi ouvida a Câmara da dita vila de São Salvador dos Campos, a quem
+se não ofereceu dúvida, e ao provedor da Fazenda Real e procurador da Coroa dela, a quem se
+deu vista. Hei por bem dar de sesmaria, em nome de Sua Majestade e em virtude da Ordem do
+dito Senhor de 15 de junho de 1711, em que me dá faculdade para conceder sesmarias ao dito
+Pedro da Rocha 1 légua de terras em quadra com as confrontações acima expressadas; sem
+prejuízo de terceiro ou do direito que alguma pessoa tenha a elas; com declaração que as
+[cultivará e mandará] confirmar esta minha carta por Sua Majestade dentro de 2 anos, [e não o
+fazendo] se lhe denegará mais tempo; antes de tomar posse delas, as fará [medir e demarcar]
+judicialmente, sendo para este efeito notificadas as pessoas com [quem confrontar]; será
+obrigado a fazer os caminhos de sua testada com pontes e estivas [onde necessário] for, e
+descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada
+de uma das margens dele a terra que baste para a serventia pública; nesta data não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o encargo de
+pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se
+
+poderá dar a quem a denunciar; como também sendo o dito Senhor servido mandar fundar no
+distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum ou penção para o
+sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de metal que nela
+se descobrir, reservando também os paus Reais; e faltando a qualquer das ditas cláusulas, por
+serem conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias,
+ficará privado desta. Pelo que mando ao ministro ou oficial de justiça, a quem o conhecimento
+desta pertencer, dê posse ao dito Pedro da Rocha das referidas terras na forma acima
+declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com
+o sinete de minhas armas, que se cumprirá como nela se contém, se registrará nesta Secretaria
+do [governo] e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do [Rio] de
+Janeiro. João de Sousa e Melo a fez aos 4 de fevereiro de [1749]. O secretário do governo,
+Antônio da [Rocha Machado], a fez escrever.
+//Gomes Freire de Andrade//
+[Carta porque Vossa] Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Pedro da Rocha 1 légua de terras em quadra na [vila dos] Campos dos Goitacazes na forma
+acima declarada.
+Para Vossa Excelência ver.
+Registrada nos Livros das Provisões do governo a folha [116]. Rio, a 5 de fevereiro de 1749.
+//Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Pedro da Rocha uma légua de terras, em quadras, à beira da légua feia e com as confrontações
+expressas na mesma carta. Lisboa, 4 de fevereiro de 1749.
+Referência:
+AHU_ACL_CU_017-01, Cx. 62, D. 14593
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

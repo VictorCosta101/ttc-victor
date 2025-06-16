@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0236
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Azevedo (RJ1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "06-02-1709",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"princípio e sítio de roça no Caminho Novo\".\r\n",
+  "Localidade": "Sítio de roça no Caminho Novo",
+  "Confrontantes": "Terras do doutor Manuel Correa Vasquez, roça de Manuel de Araújo",
+  "Justificativas": "Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se ao suplicante o cumprimento de todas as cláusulas, do contrário, a terra seria vendida e retornaria à condição de devoluta, conforme Ordem Régia de 22/10/1698.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0236"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0236
+Carta de concessão de Manuel de Azevedo de 6 de fevereiro de 1709
+Dom Fernando Martins Mascarenhas Lencastre, do conselho de Sua Majestade, general e
+capitão geral do Rio de Janeiro e das mais capitanias do sul, etc.
+Faço saber aos que esta minha carta fez sesmaria virem que havendo [respeito] aos que por
+sua petição [mencionou] a dizer Manuel de Azevedo, morador e casado nesta cidade, que ele
+tem um princípio e sítio de roça no Caminho Novo de minas para maior continuação (não
+identificado) tendo provimentos para eles, entre a data do doutor Manuel Correa Vasques e a
+roça de Manuel de Araújo, e porque o dito sítio se lhe deve dar por sesmaria na forma do foral
+e ordens de Sua Majestade, que Deus guarde, quer o suplicante que Vossa Senhoria lhe de
+sesmaria 1 légua de testada onde acaba a data do doutor Manuel Correa Vasques, que de uma
+e outra partido caminho ficando este em meio, com [partes] de sertão correndo para as minas
+rumo direito pelo dito Caminho, portanto, me pedia enfim e conclusão de sua petição lhe
+fizesse mercê dar de sesmaria a dita légua de testada com 3 de sertão, na forma confrontada e
+conforme o foral e ordens de Sua Majestade, que Deus guarde, e receberia mercê, e visto o
+seu requerimento e respostas do provedor da Fazenda Real e procurador da Coroa, a que se
+deu vista e senão ofereceu duvida. Hei por bem fazer mercê ao dito Manuel de Azevedo, em
+nome de Sua Majestade, que Deus guarde, de lhe dar de sesmaria as ditas terras declaradas na
+sua petição; por estarem devolutas; sem prejuízo de terceiro, nem do direito que algumas
+pessoas possam ter nelas; assim, do mesmo modo, que são com todas a suas duvidas
+confrontações; sem dúvida alguma que esta minha carta de sesmaria seja posta com
+declaração que as cultivarão e povoarão as ditas terras dentro de 2 anos, e não o fazendo neles
+se venderiam a quem as cultive, se lhe denegará mais tempo e julgarão as ditas terras por
+devolutas, na forma da ordem de Sua Magestade de 22 de outubro de 1698. Pelo que ordeno a
+qualquer oficial de justiça desta capitania, a que o conhecimento desta minha carta de
+sesmaria pertencer, dê posse das ditas terras acima referidas ao dito Manuel de Azevedo na
+forma do pedido em sua petição e do estilo, e façam copiar e guardar esta minha carta de
+sesmaria como nele se contém, sem dúvida alguma que por firmeza de tudo lhe mandei passar
+a presente por mim assinada e selada com o sinete de minhas armas, que se registrará nos
+Livros da Secretaria deste governo e no mais a que tocar. Dada nesta cidade de São Sebastião
+do Rio de Janeiro, nos 6 dias do mês de fevereiro, ano de 1709. O secretário, [Francisco] de
+Siqueira Cordovil, a fez.
+//Dom Fernando Martins Mascarenhas Lencastre//
+
+Carta de sesmaria a qual Vossa Senhoria há por bem fazer mercê a Manuel de Azevedo de 1
+légua de terras de testada com 3 de sertão, em nome de Sua Magestade, que Deus guarde, no
+Caminho das Minas, entre a roça do doutor Manuel Correa Vasques e de Manuel de Araújo,
+por estar devolutas e sem prejuízo de terceiro, como acima se declara.
+Para Vossa Senhoria ver.
+Registrada no Livro de registro de sesmarias que [serve na Secretaria deste governo] a folha
+36. [Rio, 6 de fevereiro de 1709].
+//(Ilegível)//
+Registre-se nos Livros da Fazenda Real. Rio, 9 de fevereiro de 1709.
+//(ilegível)//
+Registrado no Livro dos recibos das sesmarias a que toca, na forma das ordens de Sua
+Magestade, que Deus guarde, a folha 15. Rio de Janeiro, 9 de fevereiro de 1709 anos.
+//Manuel Rodrigues de Morais//
+Registrada no Livro 5° que serve de registros na Fazenda Real a folha 96. Rio, 9 de fevereiro
+de 1709.
+//(não identificada)//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Azevedo uma légua de terra em quadra, no caminho novo das minas do ouro. Rio, 6
+de fevereiro de 1709.
+Referências:
+AHU_ACL_CU_017-01, Cx. 40, D. 9358
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

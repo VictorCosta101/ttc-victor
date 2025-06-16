@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0051
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0219",
+  "Nome": "José Inácio Borges",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-06-1813",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura em terrenos vazios no distrito da vila de Atalaia, comarca das Alagoas.",
+  "Localidade": "Comarca das Alagoas",
+  "Marcos Geográficos": "Vila de Atalaia",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0051"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0025
+Carta de doação e sesmaria de José Ignácio Borges - 08/04/1813
+Carta de sesmaria que se passou a Jozé Ignacio Borges, de uma légua de terra
+em quadro, no distrito da vila de Atalaia, comarca das Alagoas.
+Caetano Pinto de Miranda Montenegro, do Conselho do Príncipe Regente, Nosso
+Senhor, e da Fazenda, comendador da Ordem de Cristo, procurador e capitão-general
+da capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria
+virem, que José Ignácio Borges, me fez o requerimento do teor seguinte: Ilustríssimo
+e Excelentíssimo Senhor. Diz José Ignácio Borges, sargento-mor e ajudante da Ordem
+do Governo, que requerendo a Vossa Excelência a sesmaria de uma légua de terra em
+quadro, no distrito da vila da Atalaia, comarca das Alagoas, com os limites apontados
+no requerimento junto, e havendo já informado o juiz conservador que aquele terreno
+e os das suas vizinhanças não eram daqueles em que Sua Alteza Real mandava proibir
+as datas, e em consequência, ordenado Vossa Excelência afixar editais naquela vila,
+aconteceu que duas ou três pessoas pedissem vista como terceiros prejudicados, e por
+essa determinou Vossa Excelência que o suplicante disputasse com os oponentes por
+meios legais as terras que pretendia, e por que não convém ao suplicante inteirar a sua
+légua de terra com a superfície devoluta que se achar para a parte do ponte, condiz um
+prejudicado nos seus embargos ou para outro qualquer rumo, aonde não encontre
+outro empossado, prevendo-lhe os limites dos seus oponentes, de periferia ao seu
+poligno e o penedo do bolão, de ponto em que se cortem os rumos de norte a sul e de
+leste a oeste, para o que: Pede a Vossa Excelência haja por bem mandar afixar novos
+editais, com as cautelas apontadas e voltando a certidão sem dúvida, passar a carta de
+sesmaria = E receberá mercê = E sendo visto seu requerimento, ordenei por despacho
+de 27 de outubro de 1812 à Câmara respectiva, que ninguém se opuzera, mandei por
+despacho de 11 de março do corrente ano que informasse o doutor procurador da
+Fazenda, e informando-me este que nenhuma dúvida se lhe oferecia, sendo a dita
+sesmaria demarcada da maneira seguinte: medida meia légua de Manoel José Ferreira
+de Leão, pelo rumo de leste a oeste, deve prolongar-se esta mesma linha para leste,
+outra meia légua que faz uma légua, e sobre esta base devem-se levantar outras duas
+léguas de cada um de seus extremos, de norte para o sul, e fechar a quadra na légua de
+terra pedida, com aparelha de leste a oeste da banda do sul; por outro despacho de 23
+
+do mesmo mês e ano, mandei informasse o escrivão deputado da Junta da Real
+Fazenda, informando-me este que nenhuma dúvida se lhe oferecia, sendo a dita
+sesmaria dada com as confrontações que declarava o doutor procurador da Fazenda;
+mandei ultimamente por despacho de 8 de abril deste referido ano, que se passasse
+carta de sesmaria pela faculdade que me é concedida no Capítulo 15 do Regimento
+deste Governo, e portanto: Hei por bem dar em nome de Sua Alteza Real, o Príncipe
+Regente, Nosso Senhor, ao dito José Ignácio Borges, uma légua de terra em quadra no
+lugar mencionado em seu requerimento, na forma requerida pelo doutor procurador da
+Fazenda, se não compreender terras que tenham madeiras de construção, pagando o
+foro anual de 6 mil réis, de que deu fiança na Contadoria da Real Fazenda, a folha 150
+verso do Livro 6.º delas; a qual sesmaria possuirá e gozará ele suplicante e seus
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo
+sempre, com todas as matas, campos, rios águas, testadas, logradouros e mais úteis
+que nela compreender, não prejudicando a terceiro; e não passará a dita terra a
+religiões e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as
+possuem os seculares; e nunca se dividira em porções, nem se partirá se não por
+estimação, andando encabeçada em uma só pessoa, na forma da Ordenação do livro 4º
+título 96 parágrafo 23; e assim, não passará a referida terra a herdeiros ou qualquer
+outra pessoa, sem consentimento da Junta da Real Fazenda, para nela se darem novas
+fianças e se fazerem as devidas escriturações, sendo também obrigado a dar ao
+Conselho caminhos livres para pontes, fontes e pedreiras, e requerer dentro de três
+anos
+confirmação,
+medição
+e
+demarcação,
+povoá-la
+e
+cultivá-la
+dentro
+da
+conformidade da Ordem Régia de 20 de outubro de 1753 e Alvará de 25 de janeiro de
+1809; e não o cumprindo assim, se haverá por devoluta e novamente se conferirá a
+quem a requerer. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a
+quem tocar, cumpram e façam cumprir e guardar esta carta de data como nela se
+contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada,
+debaixo das cláusulas referidas e das mais da Ordenação título das Sesmarias; visto
+constar por bilhete achar-se dada a fiança com o sinete das minhas armas, a qual se
+registará na Secretaria deste Governo, na da Junta da Real Fazenda e aonde mais tocar.
+Manoel Freire Mariz, oficial maior da Secretaria, a fez em o Recife de Pernambuco,
+aos 12 de junho de 1813. José Carlos Mairink da Silva Ferrão, secretário do Governo,
+a fez escrever = Caetano Pinto de Miranda Montenegro = Carta de data de sesmaria,
+pela qual Vossa Excelência há por bem dar a José Ignácio Borges, em nome de Sua
+
+Alteza Real, uma légua de terra em quadra no distrito da vila da Atalaia, da comarca
+das Alagoas, com o foro anual de 6 mil réis = Para Vossa Excelência ver = Por
+depsacho do Ilustríssimo e Excelentíssimo Senhor General, de 8 de abril de 1813.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, 120-121.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

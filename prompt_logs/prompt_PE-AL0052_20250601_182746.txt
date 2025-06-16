@@ -1,0 +1,151 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0052
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0241",
+  "Nome": "Antônio Gonçalves de Macedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "03-10-1816",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura nas fronteiras da propriedade do seu engenho, denominado Japaratuba, entre as terras do capitão Manuel de Melo e Albuquerque e o rio Japaratuba.",
+  "Localidade": "Rio Japaratuba",
+  "Marcos Geográficos": "Engenho Japaratuba",
+  "Confrontantes": "Manuel de Melo e Albuquerque",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 3 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0052"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0026 
+ 
+Carta de concessão de Antônio Gonçalves de Macedo de 03/10/1816 
+ 
+Antônio Gonçalves de Macedo com meia légua de terras quadrada de sesmaria no termo 
+da vila do Porto Calvo 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho de Sua Majestade Fidelíssima e do 
+da Fazenda, comendador da Ordem de Cristo, governador e capitão-general capitania de 
+Pernambuco etc. Faço saber aos que esta carta de sesmaria virem que Antônio Gonçalves 
+de Macedo me fez o requerimento do teor seguinte = Ilustríssimo e excelentíssimo senhor 
+= Diz Antônio Gonçalves de Macedo, senhor e possuidor do engenho de fazer açúcar 
+denominado Japaratuba, sito no terreno de Porto Calvo, havido por compra, que dele fez 
+a José Ribeiro de Queiroz, por escritura que consta do documento junto, fundado em meia 
+légua de terra em quadra que principia de onde finda a sesmaria do capitão Manuel de 
+Melo e Albuquerque, pelo rio Japaratuba acima, e na dita escritura declara o vendedor, 
+que a referida terra é do Patrimônio Régio, de que tivera sesmaria, e com este título ficou 
+o suplicante possuindo o dito engenho na boa fé, e fez alguns pagamentos do foro a Real 
+Fazenda, e de presente vem o suplicante a conhecer que o dito vendedor não chegou a 
+conseguir a carta de sesmaria posto que fizera as necessárias diligências, cujos papeis se 
+perderão antes que tivessem, a devida consequência, e faleceu o suplicante sem deixar 
+bens, pelos que se indenizasse o suplicante de qualquer prejuízo que lhe possa sobrevir, 
+por cujo princípio o suplicante novamente denuncia a sobredita terra, e a pede por desta 
+sesmaria no mesmo limite em que está situado o engenho de fazer açúcar digo o engenho, 
+e requer a V. Ex.ª seja servido deferir ao suplicante. E receberá Mercê = E sendo visto 
+seu requerim.to ordenei por despacho de 12 de setembro 1815 a câmara respectiva que 
+mandasse afixar os editais do estilo, informando-me a dita câmara que ninguém se 
+opusera mandei por despacho de 21 e 27 de março do corrente ano que informassem o 
+doutor procurador da Real Fazenda, e escrivão deputado da mesma Real Fazenda, e 
+informando-me que se lhes não oferecia dúvida alguma vistos estarem pagando foros 
+vencidos que se deviam a mesma Real Fazenda do tempo que o suplicante a possuiu sem 
+título algum, mandei ultimamente por despacho de 7 de Maio do corrente que se passasse 
+carta de sesmaria de meia légua de era quadrada em que se acha já levantado o engenho 
+de fazer açúcar. E por tanto pela faculdade que me é concedida no capítulo 15 do 
+regimento deste governo: Hei por bem dar em nome de Sua Majestade ao dito Antônio 
+Gonçalves de Macedo a referida terra, pagando o foro anual de três mil réis e observância 
+da real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria da Junta da 
+Real Fazenda a folha 197 do livro 6.º delas; a qual sesmaria possuirá e gozará ele 
+suplicante e seus herdeiros, ascendentes e descendentes, como sua que fica sendo de hoje 
+para todo o sempre com todas as matas, campos, rios, águas testadas, logradouros e mais 
+úteis que nela se compreenderem, não prejudicando a terceiro e não passará a religião e 
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os 
+seculares, e nunca se dividirá em porções, nem se partirá senão por estimação andando 
+encabeçada em uma só pessoa na forma da ordenação livro 4º título 96 parágrafo 23, e 
+assim não passará a herdeiros qualquer outra pessoa sem consentimento Junta da Real 
+Fazenda para nela se darem novas fianças e se fazerem as devidas escriturações, ficando 
+livres para a serventia dos povos todas as estradas rio fontes e pedreiras, e reservadas ao 
+Real Patrimônio as madeiras de construção, pau-brasil, e viveiros de quaisquer metais, e 
+
+será obrigado a requerer dentro de 3 anos confirmação, medição e demarcação, povoá-la 
+e cultivá-la na forma da ordem régia de outubro de 1753 e alvará de 25 de janeiro de 1809, 
+e não o cumprindo assim se haverá por devoluta, e novamente se conferirá a quem a 
+requerer. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar 
+cumpram e façam cumprir e guardar esta carta de data de sesmaria como nela se contém, 
+fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada, debaixo das 
+cláusulas referidas, e das mais da ordenação título das sesmarias. Em firmeza do referido 
+lhe mandei passar a presente que sendo por mim assignada e selada com o sinete das 
+minhas armas se registrará na secretaria deste Governo, na da Junta da Real Fazenda, e 
+aonde mais tocar. Felipe Esteves Alves a fez em o Recife de Pernambuco aos 3 de outubro 
+de 1816. No impedimento do secretário Manuel Freire Mariz oficial maior da secretaria 
+a fez escrever = Caetano Pinto de Mirada Montenegro = Carta de data de sesmaria pela 
+qual V. Ex.ª há por bem dar em nome de Sua Majestade a Antônio Gonçalves de Macedo 
+a meia légua terra quadrada como nela se declara no termo da vila de Porto Calvo = Para 
+V. Ex.ª ver = Por despacho do ilustríssimo e excelentíssimo senhor general de 7 de Maio 
+de 1816. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, 160-161. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

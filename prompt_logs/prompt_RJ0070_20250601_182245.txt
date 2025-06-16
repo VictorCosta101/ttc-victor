@@ -1,0 +1,102 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0070
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João da Silveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "16-07-1594",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \" Senhor governador Mem de Sá, que santa glória haja, lhe fez mercê de lhe dar uma dada de terra na banda de além de frente desta cidade\".",
+  "Localidade": "Ilha de Quotiata",
+  "Confrontantes": "Cabeceira de terra de Martim Afonso e de Jorge Fernandes, \"e nas cabeceiras dos mais comarcantes\"",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Não",
+  "referencia": "RJ0070"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0070
+Carta de concessão de sesmaria de João da Silveira de 16 de julho de 1594
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano de nosso Senhor
+Jesus Cristo de 1594 anos aos 16 dias do mês de julho do dito ano nesta cidade de São
+Sebastião do Rio de Janeiro do Brasil, nas casas de morada de mim escrivão adiante nomeado,
+apareceu João da Silveira, morador e meirinho em esta dita cidade, e me apresentou uma
+petição com um despacho nela do Senhor Salvador Correia de Sá, capitão e governador desta
+dita cidade e capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor. E da
+qual petição e despacho dela o traslado é o seguinte: Senhor capitão e governador, diz João da
+Silveira, morador nesta cidade, que o Senhor governador Mem de Sá, que santa glória haja,
+lhe fez mercê de lhe dar uma dada de terra na banda de além de frente desta cidade apegada
+com a dada de Martim Afonso, e na cabeceira da dada de Jorge Fernandes, que Deus tem, e
+nas cabeceiras dos mais comarcantes, lhe deu meia légua de largo e duas mil braças de
+comprido pela terra dentro como na carta constará, e assim lhe deu uma ilha de Quotiata, e
+pede ele suplicante a Vossa Senhoria, lhe de a dita ilha de Quotiata assim e da maneira que lhe
+foi dada por o Senhor governador Mem de Sá, e assim mais pede a Vossa Senhoria, lhe dê na
+cabeceira desta dada de que faz menção, outra meia légua de terra de largo e duas mil braças
+de comprido com todas as águas que na dita terra houver, tudo de sesmaria para nelas fazer
+sua fazenda e, assim mais pede a Vossa Senhoria, lhe dê na cabeceira de uma dada de chão
+que Vossa Senhoria lhe deu, os quais estão apegado com a praça onde tem Manuel de Brito
+suas casas e de frente das casas de Aleixo Rodrigues, calafate, lhe dê na dita cabeceira 20
+braças de largo e 50 de comprido pela terra adentro, o sobejo que se achar dentre ele
+suplicante e Pero Vaz, que podem ser 4 braças de largo, e sendo dado o dito chão e terra,
+correrá adiante até se encher, visto ter filhos e filhas e ser dos primeiros moradores, tudo lhe
+de sesmaria pelos poderes que tem, no que ele suplicante receberá mercê. Despacho do
+Senhor capitão e governador: dou a terra que pede e assim na cabeceira e assim mais o chão
+que diz e, sendo dado, correrá adiante assim e da maneira que pede em sua petição. Salvador
+Correia de Sá. Não houve efeito esta carta, nem foi por diante por se tornar fazer outra petição
+e outro despacho, a qual vai adiante e a abaixo e adiante escrita.
+-Fim da transcrição-
+
+Observações do documento:
+A palavra “Jhu Xpo” foi alterada para “Jesus Cristo”.
+Referências :
+Livro transcrito “Tombos das Cartas das Sesmarias do Rio de Janeiro, 1594-1595 e
+1602-1605”, p. 25-27
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.25-27.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.25-27. Códice
+778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

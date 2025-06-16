@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0102
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0044",
+  "Nome": "Atanásio de Siqueira Brandão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "30-06-1707",
+  "Observações da sesmaria": "O sesmeiro requereu uma concessão de terras no lugar denominado Japoré, distante do rio São Francisco 4 léguas.",
+  "Localidade": "Japoré",
+  "Marcos Geográficos": "Rio São Francisco",
+  "Observações da petição": "O suplicante não informou as medidas requeridas. ",
+  "Justificativas": "Pretendia ampliar engenho; Pretendia fazer engenho de açúcar; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Sebastião de Castro e Caldas determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE-AL0102"
+}
+
+            **Conteúdo Original** (extrato):
+            Carta de concessão de Atanásio de Siqueira Brandão  de 30/06/1707  
+ 
+Sesmaria que se passou ao capitão-mor Atanásio de Siqueira de uma légua de terra na 
+capitania do rio São Francisco, freguesia do Rio Grande do Sul 
+ 
+Sebastião de Castro Caldas do Conselho de Sua Majestade comendador da comenda de 
+Santa Maria de Covilhã, da ordem de Cristo, governador de Pernambuco e mais capitanias 
+anexas, e etc. Faço saber aos que esta carta de doação de sesmaria virem que o capitão 
+Atanásio de Siqueira Brandão me representou a petição cujo teor é o seguinte: Senhor. 
+Diz o Capitão mor Atanásio de Siqueira Brandão, morador no rio de São Francisco, 
+freguesia do Rio Grande do Sul, que ele descobriu umas terras em um baixo a que 
+chamam Japoré, quatro léguas distantes do Rio de São Francisco para dentro e por serem 
+terras muito capazes para planta de canas de açúcar, que para criações de gados levantou 
+nellas um engenho de fazer açúcar de que já em que vive sua família, e sem contradição 
+de pessoa alguma, e por serem terras devolutas quer o suplicante continuar com todas as 
+benfeitorias necessárias ao dito engenho, e outro sim quer fazer um hospital no mesmo 
+lugar a sua custa para agasalho dos passageiros que vão e vem dos sertões em que perecem 
+muitos por falta de hospício e agasalho por. ser obra de caridade para estes, com aumento 
+dos dízimos reais de Sua Majestade, portanto pede a vossa senhoria a que atendendo ao 
+que relata conceder-lhe em nome de Sua Majestade uma légua de terra em quadro no dito 
+brejo Japoré, fazendo o pião da casa do engenho do supplicante. E receberá mercê. 
+Informe o Provedor da fazenda real, ouvindo o Procurador da Coroa. Recife 27 de junho 
+de 1707. Barros. Não tenho dúvida, sendo a data feita na forma da Ordenação Livro 
+4º  título 43 e pagando foro na forma das ordens de Sua Majestade e assento da junta. 
+Recife 27 de Junho de 1707. Pereira. Senhor conformo-me com o parecer do Procurador 
+da fazenda de Sua Majestade que Deus guarde vossa senhoria mandará o que for servido. 
+Recife 28 de Junho de 1707. João do Rego Barros. Na forma que aponta o Procurador da 
+Coroa, e informação do Provedor da fazenda real, se passe a carta que pede o supplicante. 
+Recife 28 de Junho de 1707. Rubrica. E havendo outrossim respeito ao que Sua Majestade 
+me concede no capítulo 15 do Regimento deste Governo. Hei por bem de fazer mercê ao 
+supplicante acima nomeado, como pela presente dou de sesmaria em nome de Sua 
+Majestade que Deus guarde , nos mesmos lugares, confrontados em sua petição uma légua 
+de terra em quadro, fazendo pião na casa do engenho de novo fabricado, pagando de foro 
+quatro mil réis por cada légua, o qual suplicante povoará dita terra no tempo de cinco 
+anos, aliás se darão por devolutas, e as possuirá o dito suplicante e seus herdeiros, não 
+prejudicando a terceiro, com todas as suas águas, campos, matas, testadas, logradouros, e 
+mais úteis que nelas se acharem e será obrigado a dar pela dita terra caminhos livres ao 
+conselho para fontes, pontes, ou pedreiras, e a requerer a confirmação desta data por Sua 
+Majestade no termo de dois anos. Pelo que ordeno a todos os ministros da fazenda e 
+Justiça destas capitanias, a que o conhecimento desta carta pertencer lhe façam dar a posse 
+real efetiva, e acual, na forma costumada e debaixo das cláusulas referidas, e das mais da 
+Ord . t.º de sesmarias que p . firmeza de tudo lhe mandei passar a presente por mim 
+assinada e sellada com o sinete de minhas armas, a qual se registrará nos livros da 
+Secretaria deste governo nos da fazenda e foral real, e sem esta precisa circunstância não 
+terá vigor nem validade a presente carta de sesmaria. Dada neste Recife de Pernambuco 
+em os trinta dias do mês de Junho de 1707. José de Brito Meneses a fez. O secretário 
+Antônio Barbosa de Lima a fez escrever. Sebastião de Castro Caldas.  
+ 
+Fim da carta - 
+
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. 
+Vol. 1, p. 150 - 152 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

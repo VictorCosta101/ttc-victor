@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0066
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0122",
+  "Nome": "José Paes dos Santos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "23-05-1733",
+  "Observações da sesmaria": "O sesmeiro requereu 10 braças de comprimento e 5 braças de largura na vila do Recife, próximo ao rio Capibaribe.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Observações da petição": "O suplicante requereu 10 braças de comprimento e 5 braças de largura, porém somente foram concedidos 8 braças de comprimento e 4 braças de largura.",
+  "Justificativas": "Pretendia fazer casa; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter comprado as terras requeridas a Domingos Ramos e pagar aforamento das terras ao senado da câmara de Olinda. Por existirem terras próximas devolutas, o suplicante as requereu para si.",
+  "Observações do deferimento e da concessão": "O governador solicitou o parecer do tenente general artilheiro Diodo da Silveira Veloso sobre as terras requeridas serem próprias para construção de casas, devido a maré, e se a construção prejudicaria os terrenos próximos.",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento do foro régio no valor de 2640 réis anuais. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0066"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0066
+Carta de doação e sesmaria de José Paes dos Santos - 23/05/1733
+José Pais dos Santos, sesmaria de 44 palmos de praia da senzala desta praça para a
+parte do rio
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de
+Sua Majestade, que Deus guarde, governador e capitão-general de Pernambuco e mais
+capitanias anexas e etc. Faço saber aos que esta carta de doação e sesmaria virem, que
+por parte de José Paes se me apresentou a petição do teor seguinte: — Excelentíssimo
+senhor — Diz José Paes dos Santos, morador nesta Vila do Recife, no beco chamado
+das miudinhas na rua da senzala, que vai sair ao rio, que ele suplicante quer aforar ao
+Senado da Câmara desta dita Vila 100 palmos de terra, cordeando da testada das casas
+térreas de Narciso Barbosa para a parte do rio, na fronteira do dito beco e da mesma
+parte que é o fundo 50 palmos, em cujos chãos tem o suplicante já uma morada de casa
+pequena, térrea, que as houve por compra que dela fez a Domingos Ramos, senhor que
+foi dela, e não havendo terra para encher os ditos palmos que o suplicante quer aforar,
+obrigava o suplicante a entulhar tanto de uma como da outra parte do dito rio, o que lhe
+for necessário para se encher dos ditos palmos e o faz em termo de dois anos, e por que
+nada pode o suplicante fazer sem licença de Vossa Excelência; portanto, pede a Vossa
+Excelência lhe faça mercê conceder licença para o dito aforamento e que o senado desta
+Vila lhe afore a dita terra que o suplicante pede, pois se acha devoluta, sem aforamento
+algum, e feito isto, lhe conceda Vossa Excelência licença para o dito entulho, na forma
+acima declarada, caso que faltem alguns palmos para se encher dos sobreditos que pede.
+E receberá mercê — E sendo por mim vista a dita petição, mandei por meu despacho de
+21 de março do presente ano, que informasse o tenente-general Diogo da Silveira
+Veloso, que respondeu o seguinte, que fazendo vistoria nos chãos que o suplicante
+pretende aforar, achou que não podia ter lugar os 50 palmos de fundo que pedia para a
+parte do poente, por que não pode correr para a dita ponte o fundo das ditas casas, pois
+prejudica aos mais chãos, que pelo tempo adiante se podem ir aforando, e que assim só
+se lhe podia aforar de presente outro tanto que tem a testada das suas casas, cordeando
+com as que as lhe ficam mestiças pela parte de cima, para ficarem direitas e no que
+tirava de fundo ser para a parte do rio, lhe parecia se lhe podia dar 80 palmos,
+respeitando a frente, e que a estas se deve obrigar a entulhar a sua custa, sendo que lhe
+
+mande dar e aforar os ditos chãos, se medirão os palmos que tem para se saber o que
+deve pagar, o que agora se não podia fazer por estar o terreno ocupado com casas; e
+com esta resposta mandei que informasse o provedor da Fazenda, por despacho de 6 de
+maio deste ano, ao que respondeu o dito provedor que como o aforamento que o
+suplicante pretendia era no realengo, sem dúvida pertencia a Fazenda, assim como tem
+sido outras de várias pessoas a quem eu havia mandado passar cartas de sesmarias, com
+o foro que ordinário costumavam pagar, e que fazendo-se a data na forma que declara o
+tenente-general Diogo da Silveira Veloso, segundo a arte e tudo como eu entendesse,
+era mais conveniente ao serviço de Sua Majestade, que Deus Guarde, e tornando a
+mandar ao tenente-general que declarasse quantos palmos tem de frente a casa que alega,
+para se poder declarar na carta de sesmaria, por despacho de 16 de maio deste ano;
+respondeu o dito tenente-general que as casas do suplicante ocupam 29 palmos de frente,
+dos quais 25 se incluem nos 190 palmos que tem aforado a Câmara de Olinda Leonardo
+Santos e os 14 já entram no que é realengo, e tem de fundo cordeando com os que lhe
+ficam místicas 30 palmos, e que assim mais tem o suplicante para a parte do rio um
+quintal cercado que tem 30 palmos de comprido e o mesmo de largo, declarando mais
+que os 14 palmos que ocupa a dita casa do suplicante já são em terras do realengo, e
+assim já devem entrar no foro o aforamento que pretende fazer a Fazenda Real, e da
+mesma sorte os trinta que ocupa com o cercado, digo, com a cercado, digo, com seu
+quintal, porque os 15 palmos pertencem aos 190 que tem aforado a dita Leonarda dos
+Santos à Câmara de Olinda, e ao que toca ao preço do aforamento que tem feito por
+aqueles preços de 60 réis o palmo, com cujas respostas mandei que informasse o
+procurador da Coroa por despacho de 21 de maio, aos que respondeu serem os ditos
+chãos no realengo e que devia ser feito o aforamento na Provedoria da Fazenda Real,
+obrigando-se o suplicante a pagar de foro aquele preço, por que já em outros tem
+aforado na forma que declara o tenente-general; o que tudo visto mandei por meu último
+despacho que se passasse carta de sesmaria ao suplicante de 44 palmos de praia, como
+aponta o tenente-general engenheiro, pagando de foro a Fazenda Real a 60 réis, por
+palmo que começará a correr do 1.° de janeiro do ano de 183, digo de 1733. E em
+observância do que e pela faculdade que Sua Majestade me concede no Capítulo 15 do
+regimento deste. Hei por bem de lhe dar de sesmaria os ditos 44 palmos de praia
+confrontados na petição acima, e como aponta o tenente-general engenheiro, com
+obrigação de pagar de foro por palmo a 60 réis por ano, que perfazem a 2:640 réis, que
+começará a correr em 1.° de janeiro de 1733, fazendo-se cargo por lembrança para a sua
+
+arrecadação, e os suplicantcs e seus sucessores lograrão a dita terra e seus logradouros
+não prejudicando a 3.°—: pelo que ordeno aos ministros da Justiça ou Fazenda, lhe
+façam dar posse na forma costumada, de que se fará assento nas costas desta, que por
+firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas, que se registrará nos livros da Secretaria deste Governo e mais a que
+tocar. Dada nesta praça do Recife de Pernambuco, em os 23 de maio de 1733 – O
+secretário José Duarte Cardoso a fez escrever = Duarte Sodré Pereira Tibão –.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 21 - 23.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

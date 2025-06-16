@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0022
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Rodrigues dos Reis",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía quatro léguas em quadra e estava localizada ao longo do rio Paraguaçu, fazendo fronteiras com as terras do capitão Baltazar da Mota Peixoto (BA0012).",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Baltazar da Mota Peixoto",
+  "Observações da petição": "O sesmeiro solicitou cinco léguas em quadra.",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que teve bastante dispêndio de sua fazenda servindo à Coroa como contratador dos dízimos, por isso queria ser recompensado.",
+  "Observações do deferimento e da concessão": "O procurador e o provedor acharam que seria melhor conceder quatro léguas em quadra ao invés das cinco solicitadas pelo suplicante. O governador-Geral decidiu conceder as quatro léguas em quadra.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0022"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de Sesmaria concedida ao capitão João Rodrigues dos Reis de 4 léguas 
+de terra em quadra no fim da data do capitão Baltazar da Mota Peixoto. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação de 
+Sesmaria virem, que o capitão João Rodrigues dos Reis me representou por sua petição cujo 
+teor é o seguinte: Senhor capitão João Rodrigues dos Reis, contratador dos dízimos desta 
+Capitania e dos sobejos de gêneros dos vinhos, azeites e aguardente do reino que há 3 anos que 
+o é dos ditos contratos, como também há 4 anos a esta parte o foi sempre do donativo que paga 
+cada caixa de açúcar e os rolos de tabaco que se embarcam para o Reino com que tem feito 
+grande serviço à Sua Alteza com dispêndio da sua fazenda pelas grandes perdas que há tido, 
+principalmente nos contratos dos dízimos Reais como é notório e deles tem todos os gados que 
+lhe tocaram de 3 anos a esta parte e quer tratar de os juntar para o que lhe faltam os sítios por 
+onde se quer valer das terras que estão vagas, que Sua Alteza faz mercê mandar dar de Sesmaria 
+às pessoas as podem cultivar pelo que pede a Vossa Senhoria havendo respeito ao que alega 
+serviço que tem feito a Sua Alteza e ter necessidade de sítios para os ditos gados, lhe faça mercê 
+dar de Sesmaria 5 léguas em quadra de terra que está devoluta pelo rio de Paraguaçu da parte 
+do sul no fim da data que pediu o capitão Baltazar da Mota Peixoto // E receberá mercê. E visto 
+o parecer do procurador da Coroa e Fazenda deste Estado cujo teor é o seguinte: bem se podem 
+conceder 4 léguas de sesmaria em quadra de terra ao suplicante, visto o serviço que tem feito a 
+Sua Alteza em lançar nos contratos e perda que é notória, teve no passado e ter tanto gado para 
+as aproveitar e isto sem prejuízo de terceiro, obrigando-se a povoá-la no termo da lei. Bahia, 13 
+de outubro de 1673 // Rocha // E a do provedor-mor da Fazenda Real do mesmo Estado, que 
+também é a que se segue: Senhor provedor da Fazenda, é de parecer que se concedam 4 léguas 
+de terra em quadra ao suplicante em seu do mesmo parecer, não só pelo serviço que tem feito a 
+Sua Alteza em lançar seus contratos com tão conhecida perda, mas pela comodidade que tem 
+gados para poder povoar sendo Vossa Senhoria servido conceder-lhes, seja com as condições 
+do Foral e Regimento, sem prejuízo de terceiro. Bahia, 14 de outubro de 1673 //Antônio Lopes 
+de Ulhôa // Hei por bem de lhe dar como pelo presente faço em nome de Sua Alteza 4 léguas 
+de terra em quadra assim como a pede e confronta em sua petição como parece ao provedor da 
+Coroa, Fazenda Real e provedor-mor dela com todas suas águas, campos, matas, testadas, 
+logradouros e mais úteis que nelas se acharem, com declaração que será obrigado a povoá-la 
+no termo da lei, pois nesta conformidade lhes conceda, não prejudicando a terceiro nem as terras 
+que se determinou tivessem as povoações, que de novo se fizessem para se darem a seus 
+povoadores tudo foro livre e isento de pensão ou tributo algum, salvo o dízimo a Deus que 
+pagará dos frutos que nelas houverem e por elas será obrigado a dar caminhos livres ao 
+Conselho para fontes, pontes e pedreiras. Pelo que ordeno e mando a todos os ministros e 
+justiças a que o conhecimento deste com direito deva ou possa pertencer lhes façam dar a posse 
+real, efetiva e atual na forma costumada de baixo das cláusulas acima referidas e as mais da 
+Ordenação, título de Sesmarias para firmeza do que lhe mandei passar a presente sob meu sinal 
+e selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado e nos mais que 
+a que tocar e se guardará e cumprirá tão pontual e inteiramente como nele se contém, sem 
+dúvida, embargo ou contradição alguma // Manuel Ferreira das neves a fez nesta cidade de 
+Salvador, Bahia de Todos os Santos, nos 3 dias do mês de novembro, ano de 1673 // Bernardo 
+Vieira Ravasco a fiz escrever // Afonso Furtado de Castro do Rio de Mendonça // Registrado 
+no primeiro livro de registros da Secretaria do Estado do Brasil a que toca folhas 181, verso. 
+Bahia, 3 de novembro de 1673 // Ravasco // Cumpra-se e registre-se como Sua Alteza manda, 
+Bahia, 9 de novembro de 1673 // de Ulhôa // Registrou-se em 3 do dito mês e ano e se entregou 
+ao suplicante // Miguel Pinto de Freitas // 
+
+ 
+- Fim da Transcrição – 
+ 
+Observações: 
+- O nome dos suplicante no documento original consta como: “João Rodrigues dos Reis” 
+ 
+Referências: 
+AN, Códice 427, fls. 39 – 40. 
+Numeração original no livro: 36 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

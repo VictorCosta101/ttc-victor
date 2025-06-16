@@ -1,0 +1,75 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0054
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0282",
+  "Nome": "Manuel Mendes da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da petição": "18-03-1727",
+  "Observações da sesmaria": "Na carta de sesmaria consta que as terras situam-se em Poço Cercado, sem constar mais informações sobre a concessão.",
+  "Localidade": "Poço Cercado.",
+  "Marcos Geográficos": "Poço Cercado.",
+  "Observações da petição": "Na Documentação Histórica Pernambucana I consta apenas que a sesmaria não teve efeito por ter sido doada a outro, mas sem constar mais informações referentes a petição.",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na Documentação Histórica Pernambucana I consta apenas que a sesmaria não teve efeito por ter sido doado a outro, mas sem constar mais informações referentes a petição.",
+  "Observações do deferimento e da concessão": "Na Documentação Histórica Pernambucana I consta apenas que a sesmaria não teve efeito por ter sido doada a outro, mas sem constar mais informações referentes a concessão. Ainda, não constam os nomes do procurador, provedor, governador e escrivão.",
+  "Observações das exigências": "Na Documentação Histórica Pernambucana I consta apenas que a sesmaria não teve efeito por ter sido doada a outro, mas sem constar mais informações referentes ao deferimento. Não foi cobrado o foro da mesma.",
+  "referencia": "PE0054"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0054
+AO CAPITÃO MANOEL MENDES DA SILVA, DEU-SE-LHE TRÊS LÉGUAS DE TERRA
+NO LUGAR DENOMINADO O POÇO CERCADO, EM 18 DE MARÇO DE 1727.
+Não teve efeito a sesmaria dada a este indivíduo acima, porque doou a outrem, como consta na
+provedoria desta capitania, por cuja razão não se cobra o foro dela.
+Vide o Livro Velho – fl. 95 –.
+- Fim da transcrição -
+Observações: Na Documentação Histórica Pernambucana I consta apenas esta parte referente a
+carta do sesmeiro mencionado.
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 310.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

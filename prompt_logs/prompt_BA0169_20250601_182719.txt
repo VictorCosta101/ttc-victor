@@ -1,0 +1,110 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0169
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos Gonçalves ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "12-03-1666",
+  "Observações da sesmaria": "A sesmaria era um sobejo de terras de duas léguas e estava localizada na Terra Nova, Bahia.",
+  "Localidade": "Terra Nova",
+  "Observações da petição": "O sesmeiro alegou que possuía o título dessa terra, mas que ele se perdeu após a invasão dos holandeses, por isso estava pedindo a terra mais uma vez.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alegou que possuía o título dessa terra, mas que ele se perdeu após a invasão dos holandeses, por isso estava pedindo a terra mais uma vez.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0169"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registo da Carta de Doação e Sesmaria que o Vice-Rei deste Estado concedeu a Domingos 
+Gonçalves  
+ 
+Dom Vasco Mascarenhas etc. Faço saber aos que esta Carta de Doação e Sesmaria virem que 
+Domingos Gonçalves me enviou a representar a petição cujo teor é o seguinte: Domingos 
+Gonçalves que ele está possuindo uns sobejos de terra na terra nova, que houve por título de 
+compra e transpasse de Atanásio de Melim; o qual o houve por título de compra dos Reverendos 
+religiosos do Convento do Carmo os quais estão com as datas das duas léguas de terra que foi 
+dada de sesmaria ao licenciado Antônio Viegas, e a data de João Gonçalves na Conformidade 
+das duas léguas: os quais sobejos também lhe foram dados de Sesmaria que se perdeu com a 
+entrada do inimigo holandês nesta cidade, e os levou, onde estava registrada. E porque por ela 
+foram sempre possuidores os antecessores do suplicante e povoadores da dita terra, e a 
+reduziram a cultura e pastos de gado. E sendo govenador e capitão General deste Estado o 
+Conde da Torre mandou justificar a perda da sesmaria, e lhe tinha mandado passar Sesmaria 
+das terras que possuía; e porque quer haver o título de sesmaria para conservação do seu direito 
+sem prejuízo de terceiro: Pede a Vossa Excelência lhe faça mercê mandar passar sesmaria das 
+terras que possui conforme os títulos que apresenta para conservação de seu direito sem prejuízo 
+de terceiro. E receberá mercê. E vista a informação do provedor-mor da Fazenda Real deste 
+Estado cujo teor é o seguinte: Senhor pelos títulos que o suplicante apresenta consta que está 
+de posse das terras de que trata há alguns anos de que já foi possuidor o Padre Cura desta Cidade 
+Antônio Viegas Giraldes, e pediu ao Senhor Conde da Torre no tempo que governou este Estado 
+lhas desse de sesmaria, que lhe concedeu, mas não teve efeito por morrer o dito Padre, e hoje 
+as possui o suplicante pelos títulos que apresenta, parece-me que se lhe deve conceder o que 
+pede não prejudicando a terceiro: Vossa Excelência mandará o que for servido. Bahia e 12 de 
+março de 1666. // Antônio Lopes de Ulhôa // Tendo eu consideração a tudo: Hei por bem e lhe 
+faço mercê em nome de E1-Rei meu Senhor dar de sesmaria como pela presente faço 
+confirmando os títulos que oferece dos sobejos da terra, assim e da maneira que confronta em 
+sua petição não prejudicando a terceiro, com todas as suas águas, campos, matos, testadas, 
+logradouros, e mais úteis que nelas se acharem, tudo forro, livre, e isento de foro, pensão, ou 
+tributo algum, salvo dízimo a Deus que pagará dos frutos que nelas houver. E por elas será 
+obrigado a dar caminhos livres ao Conselho para pontes, fontes e pedreiras. Pelo que ordeno e 
+mando a todos os Ministros de Justiça a quem o direito desta pertencer lhe mandem dar a posse 
+efetiva e atual na forma costumada debaixo das cláusulas acima referidas, e as mais da 
+ordenação título das sesmarias. Para firmeza do que lhe mandei passar a presente sob meu sinal 
+e selo de minhas armas, a qual se registará e se guardará e cumprirá tão pontual e inteiramente 
+como nela se contém sem dúvida, embargo, nem contradição alguma // Antônio de Sousa de 
+Azevedo // a fez nesta Cidade do Salvador Bahia de Todos os Santos em os 2 dias do mês de 
+abril de 1666. // Bernardo Vieira Ravasco // a fez escrever // O Conde de Óbidos //. Registada 
+no primeiro livro de registos a que toca desta secretaria deste Estado do Brasil a folhas 202 
+verso. Bahia, 13 de abril de 1666 // Ravasco //. Registe-se. Bahia, 13 de abril de 1666 // De 
+Ulhôa // Registou-se no mesmo dia. 
+ 
+Referências: 
+DHBN, vol. 22, Pg. 245 - 247 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

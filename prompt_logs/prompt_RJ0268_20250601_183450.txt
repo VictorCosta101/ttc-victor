@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0268
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Barbosa Viana",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-11-1742",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas nos sertões do rio de Macaé",
+  "Marcos Geográficos": "Sertões, matos gerais",
+  "Ribeira": "Rio de São Pedro, Macaé",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia fazer curral; As terras eram devolutas; Tinha escravos; Solicitou as terras para si e seus herdeiros; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, descobrindo-se nela rio caudaloso que necessitar de barca para se atravessar ficará reservada de uma margem dele meia légua ao menos para ficar em público\". Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria; dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0268"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0268
+Carta de concessão de Manuel Barbosa Viana de 23 de novembro de 1742
+Matias Coelho de Sousa, mestre de campo de infantaria de um dos terços da guarnição desta
+praça do Rio de Janeiro, cujo cargo está o governo dela e suas capitanias, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manuel Barbosa Viana, que nos sertões e matos gerais pelo Rio de Macaé acima
+para a parte do norte, se haviam muitas devolutas e não aproveitadas, sem senhorio mais que
+o da proteção Real, os quais queria haver 1 légua de terras em quadra por sesmaria, e esta que
+principia-se do rio chamado de São Pedro, correndo o Rio de Macaé acima, servindo-lhe este
+de testada para a parte do sul e pelas mais partes que o vento e rumo diretamente lhe
+pertencerem; para estabelecer um curral de gado, por não ser caminho de minas, para o que
+tinha bastantes escravos para si e seus herdeiros de posse, seguia utilidade ao bem público e
+aumento dos Reais dízimos, pedindo-me fosse servido conceder-lhe a dita data para a cultivar
+e aproveitar para si e seus herdeiros na forma das Reais ordens. Sendo visto o seu
+requerimento e que sobre ele responderam os doutores provedor da Fazenda Real e
+procurador da Coroa dela, a que não se não ofereceu dúvida. Hei por bem dar de sesmaria, em
+nome de Sua Majestade, ao dito Manuel Barboza Viana a dita légua de terras em quadra; com
+as confrontações acima declaradas; sem prejuízo de terceiro, do direito e posse que alguma
+pessoa tenha a elas; com declaração, porém, que a cultivará e mandará confirmar esta minha
+carta por Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo; antes
+de tomar posse delas a fará medir e demarcar judicialmente, sendo para este efeito notificados
+as pessoas com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes
+e estivas onde necessário for, descobrindo-se nela rio caudaloso que necessitar de barca para
+se atravessar ficará reservada de uma margem dele meia légua ao menos para ficar em
+público; nesta data não poderá suceder em tempo algum pessoa eclesiástica ou religião, e
+sucedendo será com cargo de pagar dízimos e outro qualquer que Sua Majestade lhe imupuser
+de novo, e não os pagando ser poderá dar a quem as denunciar; como também sendo dito
+Senhor servido mandar fundar no distrito delas alguma vila o poderá fazer ficando esta livre e
+sem encargo algum para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer
+gênero de metal que nela se descobrir, reservando também os paus Reais; faltando qualquer
+das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõe a Lei e
+Foral das Sesmarias, será privado desta. Pelo que mando ao ministro ou oficial de justiça, a
+que o conhecimento dela pertencer, dê posse ao dito Manuel Barbosa Viana da referida légua
+de terra em quadra na forma acima declarada. E por firmeza de tudo, mandei passar a presente
+
+por mim assinada e selada com sinete de minhas armas, que se cumprirá como nela se
+contém, registrando-se nos Livros desta Secretaria e nos mais a que tocar. Dada nesta cidade
+de São Sebastião do Rio de Janeiro. João de Souza e Melo a fez aos 23 dias do mês de
+novembro de 1742. O secretário do governo, Antônio da Rocha [Machado], a fez escrever.
+//Matias Coelho de Sousa//
+Carta porque Vossa Senhoria faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Manuel Barbosa de Viana 1 légua de terra em quadra, principiando do rio chamado de São
+Pedro, correndo o Rio de (não identificada) acima, tudo na forma acima declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro 7° das Provedorias deste governo a folha 150. Rio, 24 de novembro de
+1742.
+//Antônio da Rocha Machado//
+Cumpre-se e registre-se na forma das ordens de Sua Majestade. Rio, 1° de dezembro de 1742.
+//(não identificado)//
+Registrada no Livro 1° do Tombo das Sesmarias que serve neste Cartório a folha 164. Rio de
+Janeiro, 1° de dezembro de 1742.
+//Francisco Xavier da [Silva]//
+Registre-se nos Livros da Fazenda Real. Rio, 26 de novembro de 1742.
+//Melo//
+Registrada no Livro 29 dos registros desta Provedoria a folha 222. Rio, 26 de novembro de
+1742.
+//André Francisco Xavier//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Barbosa Vianna uma légua de terras, em quadra, ao longo do Rio Macaé. Rio de
+Janeiro, 23 de novembro de 1742.
+Manoel Barbosa Vianna foi atualizado para Manuel Barbosa Viana.
+Referência:
+AHU_ACL_CU_017-1, Cx. 62\Doc. 14514
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

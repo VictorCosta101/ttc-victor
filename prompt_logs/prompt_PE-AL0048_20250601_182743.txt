@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0048
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0215",
+  "Nome": "Manuel Martins da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-11-1807",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no riacho Gititituba, na freguesia de Santo Antônio Meirim, termo da vila de Porto Calvo. A sesmaria confrontava com as terras de José Cavalcante, e Antônio Feijó de Melo.",
+  "Localidade": "Vila de Porto Calvo",
+  "Marcos Geográficos": "Riacho Gititituba",
+  "Confrontantes": "José Cavalcante; Antônio Feijó de Melo.",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0048"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0022
+Carta de doação e sesmaria de Manuel Martins da Cunha - 23/111807
+Manoel Martins da Cunha, com uma légua de terra em quadro no lugar do
+riacho Gititituba, da freguesia de Santo Antônio Meirim, termo da vila do Porto
+Calvo.
+Caetano Pinto de Miranda Montenegro, do Conselho de Sua Alteza Real, o Príncipe
+Regente, Nosso Senhor, e da Sua Real Fazenda, Governador e Capitão General da
+Capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria virem,
+que Manuel Martins da Cunha me fez o requerimento do teor seguinte: = Ilustríssimo
+e Excelentíssimo Senhor = Diz Manuel Martins da Cunha, morador na vila do Porto
+Calvo, que no riacho Gititituba, da freguesia de Santo Antonio Meirim, termo da
+mesma vila, há terra devolutas e desaproveitadas, pertencentes ao Real Patrimônio,
+das quais quer o suplicante que Vossa Excelência se digne conceder-lhe por sesmaria
+uma légua em quadra nas terras contíguas aos sesmeiros José Cavalcante e Antônio
+Feijó de Melo, pelo dito riacho Gititituba acima, fazendo pião onde lhe for mais útil,
+correndo meia légua para o sul e meia para o norte, fazendo extrema dos mesmos
+sesmeiros, e toda daí para cima é do Régio Patrimônio. Pede a Vossa Excelência seja
+servido dignar-se conceder ao suplicante por sesmaria a terra pedida, pagando o
+suplicante o foro do estilo, prestando a costumada e necessária fiança; E receberá
+mercê. E sendo visto seu requerimento, ordeno por despacho do 1º de julho de 1806,
+que informasse o desembargador juiz conservador das matas reais, e informando este
+que não haviam nas ditas terras pau-brasil nem madeira de construção, e das que se
+mandam reservar para o Arsenal Real; por despacho de 11 de dezembro do dito ano,
+ordenei a Câmara do distrito que mandasse fixar os editais do estilo por tempo de
+trinta dias, para se saber se haviam terceiros prejudicados, e informando-me a dita
+Câmara que ninguém se opusera, mandei por despacho de 5 de outubro do presente
+ano, que informasse o escrivão deputado da Junta da Real Fazenda, e também o
+doutor procurador da mesma Fazenda; por outro despacho de 23 do referido mês de
+outubro e ano, como ambos informaram que esse podiam dar de sesmaria ao
+suplicante as terras contempladas em seu requerimento, pagando o foro anual de 6 mil
+réis por légua, de que deu fiança na Contadoria da Real Fazenda, as folhas 64 do livro
+6º delas; mandei ultimamente por despacho de 5 de novembro do mesmo presente ano,
+que se passasse carta de sesmaria pela faculdade que Sua Alteza Real me concede no
+
+Capítulo 15 do Regimento deste Governo: e portanto, hei por bem dar em nome do
+mesmo Augusto Senhor ao dito Manuel Martins da Cunha, uma légua de terra em
+quadro no lugar do riacho Gititituba, da freguesia de Santo Antônio Meirim, termo da
+vila do Porto Calvo, nas terras contíguas aos sesmeiros José Cavalcante e Antônio
+Feijó de Melo, pelo dito riacho Getitituba acima, fazendo pião onde lhe for mais útil,
+correndo mais légua para o sul e meia para o norte, fazendo costume as testadas dos
+mesmo sesmeiros, e toda daí para cima com as do Régio Patrimônio, a qual sesmaria
+possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como
+sua que fica sendo de hoje para todo sempre, com todas as matas, campos, rios, águas,
+testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiros;
+e não passará a dita terra a religião e pessoas eclesiásticas, salvo sendo com os
+mesmos encargos com que as possuem os seculares, e nunca se dividirá em porções,
+nem se repartirá se não por estimação, andando encabeçada em uma só pessoa, na
+forma da Ordenação do Livro 4º título 96 parágrafo 23; e assim não passará a referida
+terra a herdeiros ou a qualquer outra pessoa, sem consentimento da Junta da Real
+Fazenda, para nela se darem novas fianças e se fazerem as devidas escriturações,
+sendo também obrigado a dar ao Conselho caminhos livres para pontes, fontes e
+pedreiras, e requerer dentro de três anos confirmação, medição e demarcação, povoá-
+la e cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753; e não o
+cumprindo assim, se haverá por devoluta e novamente se conferirá a quem a requerer.
+Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de data de sesmaria, como nela se
+contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada,
+debaixo das cláusulas referidas e das mais da Ordenação título das sesmarias; visto
+constar por bilhete achar-se dada a fiança. Em firmeza do referido, lhe mandei passar
+a presente por mim assinada e selada com o selo de minhas armas, que se registrará na
+Secretaria deste Governo e na da Junta da Real Fazenda. Manuel Freire Mariz, oficial
+maior da Secretaria, a fez em o Recife de Pernambuco, aos 23 dias do mês de
+novembro. Ano do Nascimento de Nosso Senhor Jesus Cristo, de 1807 = Desta
+18$000 réis = José Carlos Mairink da Silva Ferrão, secretario do Governo, a fez
+escrever = Caetano Pinto de Miranda Montenegro = Carta de data de sesmaria, pela
+qual Vossa Excelência há por bem dar em nome de Sua Alteza Real, uma légua de
+terra em quadra no lugar do riacho Getitituba, da freguesia de Santo Antônio Meirim,
+
+termo da vila do Porto Calvo, com o foro anual de 6 mil réis por légua. = Para Vossa
+Excelência ver.
+- Fim da carta -
+Referância:
+BPPE, Sesmarias de Pernambuco 1821, 114-116.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,246 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0038
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Simão Machado (RJ 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "09-02-1579",
+  "Data da concessão": "09-02-1579",
+  "Observações da sesmaria": "Título original: [f.30, 57] Carta das terras que pediu Simão Machado na Bertioga ao Senhor Salvador Correa de Sá em nome de André de Albuquerque. \r\nA palavra “soestabelecer”  foi alterada para “se estabelecer”. \r\nA palavra “soestabaleco” foi alterada para “se estabelece ”.\r\n",
+  "Marcos Geográficos": "Bertioga",
+  "Confrontantes": "Jácome Lopes; Antão Nunes.",
+  "Justificativas": "Pretendia plantar; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0038"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0038 
+ 
+Carta de concessão de sesmaria de Simão Machado de 9 de fevereiro de 1579 
+ 
+Riscado: Saibam, quantos este instrumento de carta de sesmaria virem que no ano do 
+nascimento de nosso Senhor Jesus Cristo de 1579 anos, aos 9 dias do mês de fevereiro do dito 
+ano nesta cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, nas pousadas de 
+mim escrivão e tabelião adiante nomeado, apareceu Aires Fernandes Vitória, feitor e almoxarife 
+vos, digo, de Sua Alteza, nesta dita cidade e morador nela, e me apresentou uma petição feita 
+em nome de Simão Machado com um despacho nela do Senhor capitão e governador desta dita 
+cidade e capitania deste dito Rio de Janeiro, por El Rei nosso Senhor e da. Saibam, quantos este 
+instrumento de carta de sesmaria virem que no ano do nascimento de nosso Senhor Jesus Cristo 
+de 1579 anos em os 9 dias do mês de fevereiro do dito ano em esta cidade de São Sebastião do 
+Rio de Janeiro, costa do Brasil, em as casas da morada de mim escrivão adiante nomeado, 
+apareceu Aires Fernandes Vitória, feitor e almoxarife de Sua Alteza, em esta dita cidade e 
+morador nela, me apresentou uma petição feita em nome de Simão Machado, morador na 
+capitania de São Vicente, a qual petição vinha um despacho em ela do Senhor Salvador Correia 
+de Sá, capitão e governador desta dita cidade e capitania deste dito Rio de Janeiro, por El Rei 
+nosso Senhor e da qual petição e despacho dela o traslado é o seguinte. Diz, digo, Simão 
+Machado, escrivão da Fazenda Real do Rei nosso Senhor, na capitania de São Vicente e Santo 
+Amaro faz saber a Vossa Mercê em como ele é morador de 25 anos nestas partes, casado com 
+mulher e filhos, na dita capitania de Santo Amaro tem casas de pedra, toda sua fazenda de roças 
+e canaviais e, do dito tempo até agora, sempre ajudou a sustentar a dita capitania, assim na 
+guerra, como na paz, com sua pessoa e fazendo indo por muitas vezes guardar as fortalezas São 
+Tiago e São Filipe, dos contrários amigos que a elas por muitas vezes vinham com guerras por 
+mandado dos capitães providos, assim ajudou e andou por muitas vezes aos giros no bergantim 
+de Sua Alteza, que guardava a dita capitania dos ditos contrários amigos, assim ajudou fazer as 
+fortalezas acima nomeadas, no que tenho levado muito trabalho com sua pessoa e gasto de sua 
+fazenda, e porque ele suplicante da dita capitania de Santo Amaro não lhe são dadas terras e as 
+que tinha lhe custaram seu dinheiro, tinha necessidade das ditas terras para nelas fazer sua 
+fazenda e trazer suas criações, pede a Vossa Mercê que havendo respeito ao que dito é, pelos 
+poderes que tem do governador da dita capitania, lhe ponta da dita Bertioga partindo com 
+Jácome Lopes e Antão Nunes, indo para adiante ao longo da costa quantidade de uma légua de 
+terra para dentro para o mato e outeiros outro tanto, de maneira que seja a dita légua em quadra 
+tanto para uma parte como para a outra com todas as águas que nela houver, e cabeças de águas 
+
+de sesmaria para ele suplicante e para todos seus herdeiros ascendentes e descendentes que 
+depois dele vier, e lhe passar Vossa Mercê carta em forma das ditas terras em que vão 
+trasladados os poderes que Vossa Mercê tem do dito governador, para guarda e conservação 
+das ditas terras, e em ao prover Vossa Mercê receberá justiça e mercê. Despacho do Senhor 
+capitão e governador. Dou ao suplicante Simão Machado a terra que em sua petição pede e 
+pelas confrontações em ela declaradas, a qual terra lhe dou em nome do Senhor André de 
+Albuquerque e dos mais Senhores, cuja a dita terra é, e pelos poderes que dos ditos Senhores 
+tenho e conforme a eles lhe dei por dada de hoje para sempre, forra e isenta, sem foro, nem 
+pensão somente dízimo a Deus e, porquanto, eu estou nesta capitania do Rio de Janeiro, mando 
+a Pero da Costa, tabelião e escrivão das sesmarias desta cidade de São Sebastião do Rio de 
+Janeiro, lhe passe sua carta dela em forma qua a qual irá o traslado da procuração que dos ditos 
+Senhores tenho toda de verbo a verbo, ele aproveitará conforme a ordenação e será obrigado a 
+registrar nos livros dos registros da capitania de São Vicente dentro no tempo que Sua Alteza 
+manda, e a confirmar pelos ditos Senhores. Hoje, 9 dias do mês de fevereiro de 1579. Salvador 
+Correia de Sá. E tudo visto pelo dito Senhor capitão e governador Salvador Correia de Sá a 
+petição do dito suplicante Simão Machado e o que ele pedia, visto ser justo e havendo respeito 
+ao proveito que se pode seguir acerca da República, ao serviço de Deus, do Rei nosso Senhor, 
+pôr a terra se povoar e aproveitar, pelo proveito que resultará as tendas dos dízimos de Sua 
+Alteza e bem  proveito dos Senhores das ditas terras, acrescentamos de suas rendas, lhe deu a 
+terra contida em sua petição, porquanto, dizia que estava devoluta para aproveitar e fazer sua 
+fazenda de roças e canaviais, como diz nelas não sendo já dadas a outras pessoas 1°, a qual terra 
+diz que está no dito lugar, tem a dita medida e que parte pelas ditas confrontações como em sua 
+petição diz, e a braça, porque se medir a dita terra, será braça craveira scilicet a saber 2 varas 
+de medir por uma, como no Reino se costuma de medir, a qual terra lhe deu e concedeu em 
+nome do Senhor André de Albuquerque e dos mais Senhores, cujas as ditas terras são pela 
+maneira abaixo e adiante declarada segundo forma da procuração e poderes que para isso tem, 
+de que o traslado de verbo a verbo é o seguinte. Saibam, quantos este instrumento de procuração 
+bastante vir que no ano do nascimento de nosso Senhor Jesus Cristo de 1577 em os 13 dias do 
+mês de setembro do dito ano nesta Vila de Setúval, nas casas do Senhor André de Albuquerque, 
+fidalgo da Casa do Rei nosso Senhor, sendo aí a Senhora Dona Jerônima de Albuquerque de 
+Sousa, ele dito Senhor André de Albuquerque e bem assim a Senhora Dona Isabel de Lima de 
+Sousa e de Miranda, sua mulher, logo pelos ditos Senhores foi dito perante mim, tabelião, e 
+testemunhas adiante nomeadas, que por este público e testemunhas adiante nomeadas 
+instrumento de procuração faziam, e de fato fizeram e ordenaram por ser certo e suficiente 
+
+procurador, em tudo bastante e abundante ao Senhor Lourenço da Veiga, fidalgo da Casa do 
+Rei nosso Senhor e do seu conselho que ora vai por governador das partes do Brasil, o 
+amostrador da presente procuração ao qual dito Senhor dão e [...] passam todo seu comprido 
+poder, mandado geral e especial, e para se estabelecer outros procuradores se cumpriu, para que 
+por eles ditos Senhores constituintes e em seus nomes possa fazer capitães em os lugares da 
+Ilha de Santo Amaro e de São Sebastião, ou em quaisquer outras que parecer ao dito Senhor 
+Lourenço da Veiga, que são necessários nas cinquenta léguas da costa que tem nas ditas partes, 
+porque nas trinta que tem mais na Ilha de Tamaraguá e Patuíba lhe não dão a dita procuração 
+por já estarem providos, e assim poderá prover em todos os ofícios de apresentação dos ditos 
+Senhores, com tal declaração que as pessoas a que ele dito Senhor Lourenço da Veiga os prover, 
+os venham ou mandem confirmar pelos ditos Senhores constituintes, e bem assim poderá 
+mandar arrecadar todas e quaisquer rendas que lhe são devidas, adiante deveriam por qualquer 
+modo, via e razão, que seja assim de foros, pensões reduzidas e quaisquer outros direitos que 
+pertençam a eles, Senhores constituintes, e de todo dar conhecimentos, quitações e fazer 
+quaisquer escrituras e contratos que lhe melhor parecer, como todas as cláusulas, condições, 
+obrigações, desaforamentos e negociações que necessários forem às ditas partes e a elas 
+tocantes, bem assim poderá arrendar todas as ditas rendas e pensões às pessoas pelo preço que 
+quiser e o dinheiro delas receber, com todos os mais poderes e cláusulas que para os tais casos 
+se requerem, todos em geral e cada um deles em especial, aqui nesta procuração expressos e 
+declarados, posto que da sustância delas não façam aqui expressa menção para em tudo ser 
+bastante assim, e tão cumprido como se eles ditos Senhores a tudo fossem presentes, como 
+liberal e geral administração, como em cousa sua própria, contanto, porém, que ele dito Senhor 
+não possa ser citado por nenhuma nova ação, se não eles ditos Senhores constituintes, para dos 
+tais casos lhe darem inteira informação, bem assim ele dito Senhor Lourenço da Veiga poderá 
+dar as terras de sesmaria conforme a ordenação, e não dará mais a cada uma pessoa daquilo que 
+ela pode aproveitar e beneficiar fazendo disso escrituras como dito é, e assim poderá dar e aforar 
+águas para engenhos de açúcar e trapiches por aqueles foros e pensões que lhe bem parecer, os 
+quais foros de engenhos e trapiches serão obrigados a os mandar confirmar por eles ditos 
+Senhores com as cláusulas e condições que lhe bem parecer, e o que por ele dito Senhor 
+Lourenço da Veiga for feito, dito, outorgado, assinado e recebido, vão por bom firme e valioso 
+para todo sempre, sob obrigação de suas rendas e bens e assim o outorgarão, digo, e declararão, 
+mas eles ditos Senhores constituintes que faziam a dita procuração ao dito Senhor Lourenço da 
+Veiga, por ele querer fazer mercê ao dito Senhor André de Albuquerque de aceitar, mas não 
+como o governador que vai das ditas partes que nem lhe poderá prejudicar, esta procuração que 
+
+o dito Senhor Lourenço da Veiga levou a coisa nenhuma de sua jurisdição o que outorgarão, 
+assinarão e dele mandarão passar o traslado de quantos deste teor lhe cumprirem. Testemunhas 
+que presentes foram. Francisco Rodrigues de Cadra e Ambrósio Pereira e Gaspar Antunes, 
+criados do dito Senhor André de Albuquerque, o qual eu, sobredito Manuel Godinho público 
+tabelião de notas e judicial por El Rei nosso Senhor nesta Vila de Setúval, fiz trasladar da 
+própria que fica em meu poder no livro de notas por ter para isso provisão de Sua Alteza, bem 
+e fielmente a concertei com o próprio, subscrevi e assinei meu público sinal, fiz que tal é. 
+Traslado das justificações da dita procuração. Diogo Orelha, tabelião público por El Rei nosso 
+Senhor em Lisboa, certifico este instrumento ser feito por Manuel Godinho, tabelião público na 
+Vila de Setúval, das suas escrituras se dá inteira fé e crédito assim do judicial e nota, assim o 
+certifico a 4 de setembro de 1577, a qual certidão estava assinada de um sinal público, e a outra 
+certidão dos abaixo assinados, certificamos que o sinal público acima de que vai justificando 
+esta procuração é de Diogo Orelha, tabelião das notas nesta cidade de Lisboa, e a todas suas 
+escrituras e sinais se dá inteira fé e crédito neste Reino e fora dele, hoje em dia serve seu ofício 
+em Lisboa a 4 de outubro de 1577 anos. Fernão Rodrigues. Estabelecimento do Senhor 
+governador geral Lourenço da Veiga ao dito Senhor capitão e governador Salvador Correia de 
+Sá. Lourenço da Veiga do Conselho do Rei nosso Senhor e seu governador geral nestas partes 
+do Brasil, por este por mim feito e assinado, se estabelece por virtude desta procuração do 
+Senhor André de Albuquerque, da Senhora Dona Jerônima de Albuquerque e de Sousa, da 
+Senhora Dona Isabel de Lima e Sousa e de Miranda ao Senhor Salvador Correia de Sá, capitão 
+e governador da cidade de São Sebastião do Rio de Janeiro, ao qual dou os poderes todos que 
+me por eles são concedidos tão inteiramente, na mesma forma em que me são concedidos na 
+dita procuração para que de todos possa usar conforme a ela nesta Bahia de Salvador, 30 de 
+janeiro de 1578. Lourenço da Veiga. Por virtude do qual e da dita procuração lhe assim deu o 
+dito Senhor capitão e governador Salvador Correia de Sá a dita terra ao dito suplicante Simão 
+Machado, pela dita maneira, para sua guarda e segurança lhe mandou ser feita esta carta, pela 
+qual manda que ele haja a posse e senhorio da dita légua de terra para sempre, para ele e todos 
+seus herdeiros e sucessores ascendentes e descendentes que após dele vieram com tal condição 
+e entendimento, que ele rompa e aproveite a dita terra e a frutifique da feitura desta carta em 
+três anos primeiros seguintes, ou conforme e  como El Rei nosso Senhor manda em sua 
+ordenação e, outrossim, fará de maneira que dentro em quatro meses tenha feito na dita terra 
+algum proveito e plantado alguns mantimentos, cumpridos os ditos três anos, ou o tempo que o 
+dito Senhor em sua ordenação manda, que a tenha aproveitado como dito é, porque não o 
+fazendo ele assim, passado o dito tempo sem ele ter feito na dita terra o que dito é, se dará a 
+
+dita terra que aproveitado não tiver de sesmaria a quem a pedir para aproveitar, e lhe será 
+deixado alguns logradouros do que aproveitado não tiver e, sobretudo, pagará mil réis para as 
+obras do Conselho, e dará pela dita terra caminhos e serventias ordenados e necessários para o 
+Concelho, para fontes, pontes, viveiros e pedreiras que necessários forem a qual terra, pela dita 
+maneira lhe assim deu em nome do dito Senhor André de Albuquerque e das mais Senhoras, 
+forra e isenta, sem foro, nem tributo, nem pensão, somente de todo que lhe nosso Senhor der 
+pela de suas novidades, lavouras e criações, pagará os dízimos a Deus como dito é, o que tudo 
+manda que se cumpra e guarde sem dúvida, nem embargo algum, que lhe a ele seja posto e que 
+esta carta seja registrada nos livros dos registros da dita capitania de São Vicente, como Sua 
+Alteza em seu regimento manda sob as penas em ele contidas e declaradas e, porque o sobredito 
+Simão Machado, suplicante, tudo prometeu de ter, manter e cumprir, pela dita maneira lhe 
+mandou passar esta carta de sesmaria por virtude dos poderes que para isso tem em ela 
+declarados e por verdade eu, Pero da Costa, tabelião das notas e escrivão das sesmarias por El 
+Rei nosso Senhor em esta sua cidade de São Sebastião do Rio de Janeiro, e seus termos que este 
+instrumento de carta de sesmaria por mandado do dito Senhor capitão e governador escrevi e 
+tomei nos meus livros das notas e tombo das cartas das sesmarias desta dita cidade, que em meu 
+poder ficam onde mandou dar o traslado que lhe cumprirem aonde o dito instrumento fica 
+assinado por o dito Senhor capitão e governador com o borrado que diz “para”, com borrado 
+que diz “rero”, com o borrado que diz [“. . . . . . . .”] e com o riscado que diz “e pensões que lhe 
+bem parecer” no que não faça dúvida porque tudo se fez por fazer verdade //Salvador Correia 
+de Sá// 
+ 
+ 
+-fim da transcrição- 
+ 
+ 
+ 
+ 
+ 
+ 
+Observações do documento:  
+Título original: [f.30, 57] Carta das terras que pediu Simão Machado na Bertioga ao Senhor 
+Salvador Correa de Sá em nome de André de Albuquerque.  
+A palavra “soestabelecer”  foi alterada para “se estabelecer”.  
+
+A palavra “soestabaleco” foi alterada para “se estabelece ”. 
+ 
+Referências: 
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 154-161. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79) 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

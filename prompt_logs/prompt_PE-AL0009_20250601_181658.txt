@@ -1,0 +1,73 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0009
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0076",
+  "Nome": "Gonçalo da Silva Pereira, João da Silva Cardoso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "NA",
+  "Data da concessão": "17-09-1717",
+  "Observações da sesmaria": "Os suplicantes requereram  2 léguas de comprimento e 1 de largura no sertão de Alagoa do Norte, começando de onde se encontram os dois braços do Rio Paratagi até as terras de Simão Correia e Simão Nogueira.",
+  "Localidade": "Alagoas do Norte",
+  "Marcos Geográficos": "Alagoas do Norte",
+  "Confrontantes": "Simão Correia, Simão Nogueira",
+  "Observações da petição": "Na carta de sesmaria não consta a quantidade de léguas requerida e concedida.",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Na carta não constam as informações sobre as justificativas da petição.",
+  "Observações das exigências": "Na carta não constam as informações sobre as exigências para a concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0009"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0009
+ESTAVA NO LIVRO DE SESMARIAS A DECLARAÇÃO SEGUINTE:
+Sesmaria que se passou a João da Silva Cardoso e seu filho, Gonçalo da Silva Pereira, da Alagoa do
+Norte = 14 de Outubro de [?] "Rosa." - Secretaria, 10 de janeiro de 1865.
+Silvino Antonio Rodrigues.
+- Fim -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 243.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

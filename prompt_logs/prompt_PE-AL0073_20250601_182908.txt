@@ -1,0 +1,79 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0073
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0392",
+  "Nome": "Ana de Olinda, Manuel Rodrigues Calheiros",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-09-1701",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no rio Mundaú na fronteira das terras de João Gomes de Melo e Manuel Rodrigues Calheiros.",
+  "Localidade": "Rio Mundaú",
+  "Confrontantes": "João Gomes de Melo, Manuel Rodrigues de Calheiros",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "\tEsta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador Dom Fernando Martins Mascarenhas de Lencastre determinou o pagamento anual do foro régio no valor de 4 mil réis.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0073"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0047 
+ 
+Carta de concessão de Manuel Rodrigues Calheiros e Ana de Olinda de 10/10/1701 
+Sesmaria de 1 légua de terra em quadra nas Alagoas, pelo rio Mundaú acima da parte do 
+leste, nas cabeceiras ou confins da data de João Gomes de Melo e Manoel Rodrigues 
+Calheiros, concedida em 10 de outubro de 1701 a Manoel Rodrigues Calheiros, concedida 
+em 10 de outubro de 1701 a Manoel Rodrigues Calheiros o moço, Ana de Olinda, e seus 
+herdeiros, pelo Governador Dom Fernando Muniz Mascarenhas e Alencastro, com o foro 
+anual de 4.000 réis por légua. 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.116. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

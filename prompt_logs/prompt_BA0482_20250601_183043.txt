@@ -1,0 +1,72 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0482
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco Gonçalves Leite",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-06-1753",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e 1 de largura e estava localizada em Itapecuru de cima, no sertão do Tijuco, aonde chamam o rio do Peixe, começando de onde chamam a lagoa do Rufino para o nascente, a encontrar com o riacho dos Tocos e para o Sul até a nascença do riacho e deste para o Poente, às serras dos 3 irmãos a encontrar a estrada Real do Pinda, que vinha do Piauí. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Localidade": "Itapecuru",
+  "Marcos Geográficos": "Sertão do Tijuco; rio do Peixe; lagoa do Rufino; riacho dos Tocos; Serra dos 3 irmãos.",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1753, acredita-se que foi o vice-rei, Luís Pedro Peregrino de Carvalho e Ataíde, que concedeu a sesmaria.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "referencia": "BA0482"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Francisco Gonçalves Leite. - Alvará de primeiro de junho de 1753. - Uma légua de largo 
+e 3 de comprido. - No mesmo lugar acima, etc. - Condições: as anteriores. - Observações: 
+a folha 55 tem termo da posse registrado.  
+ 
+Referência:Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 
+174 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

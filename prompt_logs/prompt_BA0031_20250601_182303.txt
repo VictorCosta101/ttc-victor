@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0031
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Barbosa Leal, Francisco Barbosa, Pedro Salomão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "03-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía três léguas em quadra e estava localizada nas proximidades do rio Paraguaçu, fazendo fronteira com as terras de Francisco Barbosa Leal (BA0030).",
+  "Localidade": "Proximidades do rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Francisco Barbosa Leal",
+  "Observações da petição": "Os suplicantes solicitaram para eles três léguas em quadra para cada um.",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; Não tinha terras; Serviu a Sua Majestade; Tinha cabedal; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das Justificativas": "Alegou que sua casa serviu de armazém para a farinha que seria distribuída para as tropas que foram batalhar contra os indígenas na capitania.",
+  "Observações do deferimento e da concessão": "O procurador e o provedor afirmaram que deveriam ser concedidas para os suplicantes três léguas em quadra para todos eles e não para cada um, como tinham pedido. O governador-geral concordou e concedeu as três léguas em quadra para os suplicantes.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0031"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de Sesmaria de 3 léguas de terra em quadra, concedida a Francisco 
+Barbosa e seus filhos. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+Sesmaria virem, que Francisco Barbosa me representou a petição cujo teor é o seguinte: Senhor, 
+diz Francisco Barbosa, morador nesta capitania da Bahia no rio da Cachoeira há mais de 40 
+anos, casado com mulher e filhos, que ele tem servido a Sua Alteza e seus filhos Antônio 
+Barbosa e Pedro Salomão em tudo que se tem oferecido, principalmente nas tropas de guerra 
+contra o gentio bravo de 20 anos a esta parte, nas quais todas foi a sua casa naquele Porto da 
+Cachoeira e armazém dos mantimentos e fábrica de todas as coisas e agasalhos dos cabos, que 
+pelo Governo se mandaram fazer a expedição e Vossa Senhoria também quando pessoalmente 
+foi o ano passado acudir ao levantamento do gentio manso e despacho da tropa da gente de São 
+Paulo se serviu da dita sua casa e ele suplicante teve por ordem de Vossa Senhoria o 
+recebimento da farinha e mais coisas de guerra de que deu inteira conta com grande trabalho e 
+os ditos seus filhos não têm terra alguma de sesmaria e possuem seus filhos o cabedal com que 
+povoar e aproveitar o que se lhe der, da qual muita parte de matos e caatingas inúteis e faltas de 
+água e a menor parte dela se pode aproveitar. Pedem a Vossa Senhoria lhe faça mercê dar em 
+nome de Sua Alteza 3 léguas de terra em quadra para ele e para cada um de seus filhos outras 
+3, sobre a data que se tem dado ao capitão Tomé Dias Laços e ao capitão Francisco Barbosa 
+Leal nas terras [] grande para o sul na parte que melhor lhes acomodar e estando dada na dita 
+testada ou ilharga as tome mais adiante onde estiverem para dar, mais lhe acomodar e parecer 
+no que farão benefício e aumento à Fazenda de Sua Alteza. E receberá mercê. E visto a resposta 
+do procurador da Coroa e Fazenda Real deste Estado, cujo teor é o seguinte: bem se podem 
+conceder 3 léguas de terra em quadra para os suplicantes, todos 3 que estão  multiplicadas, vem 
+a ser 9 que contém e não 9 em quadra que os suplicantes pedem, que multiplicadas são 81 que 
+não tem lugar, mas somente as 3 em quadra, sem prejuízo de terceiro, obrigando-se a povoá-las 
+no termo da lei. Bahia, 9 de outubro de 1673 // Rocha // E o parecer do provedor-mor da Fazenda 
+Real, que é o que se segue: Senhor, sou do mesmo parecer do procurador da Fazenda e na 
+mesma conformidade me parece, se lhe pode conceder sem prejuízo de terceiro e nas condições 
+do Foral e Regimento, Vossa senhoria mandará o que for servido. Bahia, 11 de outubro de 1673 
+// Antônio Lopes de Ulhôa // Hei por bem de lhes dar como pelo presente faço em nome de Sua 
+Alteza de Sesmaria 3 léguas de terra em quadra assim como pede e confronta em sua petição, 
+como parece ao procurador da Coroa e Fazenda Real e provedor-mor dela, com declaração que 
+serão obrigados a povoá-las no termo da lei, pois nesta conformidade lhes concedo, não 
+prejudicando a terceiro, nem as terras, que se determinou tivessem povoações que de novo se 
+fizessem para se darem a seus povoadores, com todas suas águas, campos, matos, testadas, 
+logradouros e mais úteis que nelas se acharem, tudo foro livre, isento de pensão ou tributo 
+algum, salvo o dízimo a Deus, que pagará dos frutos que nelas houverem e por elas será 
+obrigado a dar caminhos livres ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno e 
+mando a todos os ministros e justiças a que o conhecimento deste deva ou possa pertencer, lhe 
+façam dar a posse real, efetiva e atual na forma costumada de baixo das cláusulas acima 
+referidas e as mais da ordenação, título das Sesmarias, para firmeza do que lhe mandei passar 
+a presente sob meu sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria 
+do Estado e nos mais a que tocar e se guardará e cumprirá, tão pontual e inteiramente como nela 
+se contém, sem dúvida, embargo, nem contradição alguma // Manuel Ferreira das Neves a fez 
+nesta Cidade do Salvador, Bahia de Todos os Santos e nos 3 dias do mês de novembro, ano de 
+1673 // Bernardo Vieira Ravasco o fiz escrever // Afonso Furtado de Castro do Rio de 
+Mendonça // Registrado no primeiro livro dos registros da Secretaria do Estado do Brasil, as 
+
+folhas 184. Bahia, 3 de novembro de 1673 // Ravasco // Cumpra-se e registre-se como Sua 
+Alteza manda. Bahia [] novembro de 1673 // de Ulhôa // Registrou-se e mandou-se de dezembro 
+[] // Miguel Pinto de Freitas // 
+ 
+- Fim da Transcrição - 
+ 
+Observações: 
+ 
+- Os nomes dos suplicantes no documento original constam como: “Francisco Barbosa”; 
+“Antônio Barbosa” e “Pedro Salomão” 
+- A data de registro e mando se encontram ausentes no documento original. 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 52 – 53. 
+Numeração original no livro: 49 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

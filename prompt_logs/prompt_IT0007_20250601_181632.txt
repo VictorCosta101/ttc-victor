@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0007
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0049",
+  "Nome": "Amaro Barbosa, Gonçalo de Castro Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "25-06-1708",
+  "Data da concessão": "22-08-1708",
+  "Observações da sesmaria": "Os suplicantes requereram seis léguas de comprimento, três para cada um, com uma légua de largura entre os rios Paraíba e Tracunháem. As terras requeridas localizavam-se entre as serras da Boa Vista e do Dorodongo e tinham por limites o rio Dorodongo, entre as ditas duas serras, até o rio Orobó. ",
+  "Localidade": "Rio Orobó, Rio Paraíba, Rio Tracunháem, Serra da Boa Vista, Serra do Dorodongo",
+  "Marcos Geográficos": "Rio Orobó, Rio Paraíba, Rio Tracunháem, Serra da Boa Vista, Serra do Dorodongo",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; Solicitou pagar somente o dízimo; Solicitou isenção de pagamento de foro régio; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Sebastião de Castro Caldas ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Sebastião de Castro Caldas ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Sebastião de Castro Caldas ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "IT0007"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0007 
+ 
+Carta de doação e sesmaria do padre Amaro Barbosa e capitão Gonçalo de Castro da Rocha – 
+22/08/1708 
+ 
+SESMARIA QUE SE PASSOU AO PADRE AMARO BARBOSA E AO CAPITÃO 
+GONÇALO DE CASTRO ROCHA, SEIS LÉGUAS DE TERRA, TRÊS PARA CADA UM. 
+ 
+Sebastião de Castro Caldas, do Conselho de Sua Majestade e etc. Faço saber aos que esta carta de 
+doação de sesmaria virem que o padre Amaro Barbosa, capelão-mor do terço do Assú, e o capitão 
+Gonçalo de Castro da Rocha, me representaram a petição cujo teor é o seguinte: Senhor. Dizem o 
+padre Amaro Barbosa, capelão-mor do terço do Assú, de que é mestre de campo Manoel Alvarez de 
+Moraes Navarro e o capitão Gonçalo de Castro Rocha, soldado do mesmo terço da companhia do 
+capitão João da Costa Marinho, que eles suplicantes descobriram umas terras nesta capitania entre o 
+rio da Paraíba e o rio Tracunhaém capazes de criar gado, as quais estão devolutas e desaproveitadas, 
+e porque eles suplicantes tem gados vacuns e cavalares e as querem povoar por não terem terras 
+próprias para os poderem criar e em remuneração do serviço que tem feito a Sua Majestade, que 
+Deus guarde, pedem a dita terra livre de toda a pensão, exceto o dízimo a Deus, para si e seus 
+herdeiros, uma légua entre as duas serras, Boa Vista e Dorondongo, pelo riacho que entre elas corre 
+chamado Dorondongo, fazendo pião entre as duas serras e assim mais pedem no riacho chamado 
+Jundiaí, que fica para a parte do norte cinco léguas de terra, que começam na barra que o dito riacho 
+faz no rio Orobó por ele acima, por uma e outra parte, ficando o dito riacho em meio, o que visto. 
+Pede a Vossa Senhoria, atendendo ao referido em sua petição, lhes conceda as ditas seis léguas de 
+terra conforme as ordens de Sua Majestade, que Deus guarde. = E receberá mercê. =. Informe o 
+provedor da Fazenda Real, ouvindo o procurador da Coroa. Recife, 25 de junho de 1708. "Rubrica" 
+Haja vista ao doutor procurador da Coroa. Recife, 26 de junho de 1708. "Barros" Não tenho dúvida 
+fazendo-se a data na forma da ordenação livro 4.° título 43, e pagando o foro conforme as ordens de 
+Sua Majestade e assento da Junta. Recife, 26 de junho de 1708. Senhor, com a informação do 
+doutor procurador da Coroa, informo a Vossa Senhoria que mandará o que for servido. Recife, 10 de 
+junho de 1708. João do Rego Barros. Passe carta na forma da informação do doutor procurador da 
+Fazenda Real e do estilo. Recife, 3 de julho de 1708. "Rubrica". E havendo, outrossim, respeito ao 
+que Sua Majestade me concede no capítulo 15 do regimento deste Governo. Hei por bem de lhes 
+fazer mercê e dar aos suplicantes acima nomeados, como pela presente dou de sesmaria em nome 
+de Sua Majestade, que Deus guarde, nos mesmos lugares, partes e testadas que confrontam em sua 
+petição, seis léguas de terra, três para cada um, na forma das ordens do dito senhor, pagando de foro 
+por cada uma légua quatro mil reis, os quais povoarão ditas terras no tempo de cinco anos, aliás se 
+darão por devolutas e as possuirão e gozarão os ditos suplicantes, eles e seus herdeiros, não 
+prejudicando a terceiro com todas as suas matas, campos, testadas, águas, logradouros e mais úteis 
+
+que nelas se acharem, e serão obrigados a dar pelas ditas terras caminhos livres ao conselho para 
+fontes, pontes ou pedreiras e a requerer a confirmação desta data por Sua Majestade, que Deus 
+guarde, em termo de dois anos. Pelo que ordeno a todos os ministros da Justiça e Fazenda destas 
+capitanias a que o conhecimento desta carta pertencer, lhe façam dar posse real, efetiva e atual na 
+forma costumada e debaixo das cláusulas referidas e das mais da ordenação título de sesmarias, que 
+por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas 
+armas, a qual se registrará nos livros da Secretaria deste Governo, nos da Fazenda Real e nos do 
+Foral, e sem esta precisa circunstancia não terá vigor nem validade a presente carta de sesmaria. 
+Dada neste Recife de Pernambuco, aos 22 do mês de agosto = Lizardo Ribeiro Monção, oficial 
+maior da Secretaria a fez, ano de 1708. O secretario Antônio Barbosa de Lima a fez escrever. 
+Sebastião de Castro Caldas. = 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 172 - 175. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

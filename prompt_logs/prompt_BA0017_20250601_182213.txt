@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0017
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Sousa de Menezes, João da Costa (BA1), Pedro Rodrigues Moreira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-09-1673",
+  "Observações da sesmaria": "A sesmaria possuía nove léguas qadradas, sendo três de largura e três de comprimento, começando pelo fim da Mata Grossa, pelo mesmo caminho que se foi a conquista dos maracás, até o rio Jiquiriçá, estando esse rio na borda oeste da terra solicitada. ",
+  "Localidade": "Rio Jiquiriçá",
+  "Marcos Geográficos": "Rio Jiquiriçá",
+  "Observações da petição": "Os suplicantes solicitaram nove léguas quadradas, sendo três de comprimento e três de largura, dividindo igualmente entre eles.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Era descobridor(a) das terras; Pretendia criar gado; Tinha cabedal; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0017"
+}
+
+            **Conteúdo Original** (extrato):
+            BA
+Registro de um alvará de sesmaria concedida ao capitão Antônio de Sousa de Menezes, João
+da Costa e Pedro Rodrigues Moreira das terras, que começam do fim da mata grossa pelo
+mesmo caminho que se foi a conquista dos maracás até o rio Jequiriçá.
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e
+sesmaria virem que o capitão Antônio de Sousa de Menezes, João da Costa, e Pedro
+Rodrigues Moreira me representaram por sua petição cujo teor é o seguinte: o capitão Antônio
+de Sousa de Menezes, João da Costa, e Pedro Rodrigues Moreira, que eles querem povoar
+algumas terras, pondo nelas gados, e porquanto estão agora algumas devolutas, que com a
+conquista que Vossa Senhoria mandou fazer ao gentio se descobriram e poder resultar
+algumas conveniências a Fazenda de Sua Alteza de eles as cultivarem pedem para em igual
+parte repartirem todos 3 léguas que começam do fim da mata grossa pelo mesmo caminho que
+se foi a conquista dos maracás até o rio Jequiriçá, correndo do mesmo caminho, e do fim da
+dita mata norte a sul até entestar com o dito rio Jequiriçá, que estará dela por este rumo 3
+léguas pela borda do dito rio, acima pela parte de oeste, e outras 3 pelo rio abaixo pela parte
+do leste, por estarem nesta distância muitos matos e terras que se não podem cultivar, e serem
+eles pessoas que têm posses para o poderem fazer as que forem capazes. Pede a Vossa
+Senhoria lhes dê as ditas terras em nome de Sua Alteza, e assim e da maneira confrontada em
+sua petição, e por devoluto visto não terem eles outra sesmaria alguma, estas não serem nunca
+povoadas, por esta razão as pedem eles suplicantes com todas as suas entradas, e saídas tudo o
+que dentro delas se achar. E receberá mercê. E vista a resposta do procurador da Coroa e
+Fazenda deste Estado cujo teor é o seguinte: Senhor, dúvida se me oferece a sesmaria que os
+suplicantes pedem visto terem faculdade para as povoarem no termo da lei, e ser em utilidade
+da Fazenda Real. Bahia, 25 de setembro de 1673. // Rocha // E o parecer do provedor-mor da
+Fazenda Real do mesmo Estado cujo teor é o seguinte: Senhor, parece-me que se deve
+conceder aos suplicantes a terra que pedem confrontada pela maneira que apontam não sendo
+em prejuízo de terceiro, e debaixo das condições do Regimento, e ordens de Sua Alteza Vossa
+Senhoria mandará o que for servido. Bahia, 26 de setembro de 1673. // Antônio Lopes de
+Ulhôa // Hei por bem e lhe faço mercê em nome de Sua Alteza de lhes dar como pela presente
+faço dê em sesmaria as terras, que pedem assim e da maneira que confrontam em sua petição;
+com declaração, que se lhes concedeu serão obrigados a povoá-las dentro do termo da lei, por
+nesta conformidade lhes concedo como parece ao procurador da Coroa e Fazenda, e
+provedor-mor dela não prejudicando a terceiro, nem as terras, que se determinou tivessem as
+povoações, que de novo se fizessem para se darem a seus povoadores com todas suas águas,
+campos, matos, testadas, logradouros e maus úteis, que nelas se acharem tudo forro livre e
+isento de pensão ou tributo algum salvo dízimo à Deus, que pagará dos frutos que nelas
+houver, e por elas serão obrigados a dar caminhos livres ao conselho para fontes, pontes, e
+pedreiras. Pelo que ordeno e mando a todos os ministros e justiças a que o conhecimento
+deste com direito deva, ou possa pertencer lhe mandem dar a posse real, efetiva e atual na
+forma costumada debaixo das cláusulas acima referidas e as mais da Ordenação título das
+sesmarias para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas
+armas a qual se registrará nos livros da secretaria do Estado, e nos da Fazenda Real dele e nos
+mais a que tocar e os guardará e cumprirá tão pontual, e inteiramente como nele se contém
+sem dúvida, embargo, nem contradição alguma. // Manuel Ferreira das Neves // a fez nesta
+cidade do Salvador, Bahia de Todos os Santos, aos 26 dias do mês de setembro ano de 1673. //
+Bernardo Vieira Ravasco // o fiz escrever. // Afonso Furtado de Castro do Rio de Mendonça //.
+Registrado no segundo livro dos registros da secretaria do Estado do Brasil a que toca as
+
+folhas 159. Bahia, 26 de setembro de 1673. // Ravasco // Cumpra-se, e registre-se como Sua
+Alteza manda nos livros da Fazenda. Bahia, 4 de novembro de 1673 // de Ulhôa //
+Registrou-se no mesmo dia de 4 de novembro. // Miguel Pinto de Freitas //
+- Fim da Transcrição -
+Observações:
+- Os nomes dos sesmeiros no documento original são “Antonio de Souza de Menezes”, “Joaõ
+da Costa” e “Pedro Rodrigues Moreira”.
+Referências:
+AN, Códice 427, fls. 33v-34v
+Numeração original no livro: 30
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

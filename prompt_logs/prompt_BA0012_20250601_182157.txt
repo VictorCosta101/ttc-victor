@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0012
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Baltazar da Mota Peixoto, Diogo Lopes de Ulhoa (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "18-09-1673",
+  "Observações da sesmaria": "A sesmaria possuía cinco léguas em quadra ao longo do rio Paraguassú Grande, fazendo fronteiras ao Sul com as terras do sargento-mor Antônio Soares Ferreira.",
+  "Localidade": "Rio Paraguassú Grande",
+  "Marcos Geográficos": "Rio Paraguassú Grande",
+  "Confrontantes": "Antônio Soares Ferreira",
+  "Justificativas": "Serviu a Sua Majestade; Não tinha terras para a criação de gado; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa especificou que as cinco léguas que seriam concedidas aos suplicantes deveriam ser menores, pois seria uma grande extensão de terra que não deveria ser concedida, o provedor, no entanto, afirmou que poderiam ser concedidas as cinco léguas em quadra. O governador-geral concedeu cindo léguas em quadra.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0012"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria e doação que se fez ao capitão Baltazar da Mota Peixoto, e a seu 
+sobrinho, Diogo Lopes de Ulhoa, de 5 léguas de terra em quadra no Rio de Paraguassú Grande. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça do Conselho de Sua Alteza. Faço saber aos que 
+este alvará de doação e sesmaria virem que o capitão Baltazar da Mota Peixoto me represente 
+a petição, cujo teor é o seguinte: o capitão Baltazar da Mota Peixoto, que ele serve a Sua Alteza 
+há muitos anos nesta praça e na ocasião presente em que foi fazer [queixa] ao sertão assistiu 
+com todo o cuidado e trabalho a condição dos mantimentos que se enviaram para ela, e porque 
+é morador nos campos da cachoeira, onde tem seus currais de gado, e não tem terras para eles 
+[e está] pagando renda ao dono da terra, e se não pode alugar mais por não ter terras próprias. 
+Pede a Vossa Senhoria lhe faça mercê conceder para ele, suplicante, e seu sobrinho, Diogo 
+Lopes de Ulhoa, 5 léguas de terra em quadra, começando onde acabarem as terras que se 
+concederam ao sargento-mor Antônio Soares Ferreira da banda do rio de Paraguassú Grande, 
+correndo para a banda do sul, e do leste para oeste, atravessando todos os réus que houver em 
+meio até fazer a dita quadra; estando já dada esta terra se siga na última que estiver por dar no 
+tempo presente. E receberá mercê. E visto a resposta do procurador da Coroa e Fazenda deste 
+Estado, cujo teor é o seguinte: não se me oferece dúvida a 5 léguas de terra, que os suplicantes 
+pedem, só a tenho em que sejam em quadra porque estas multiplicadas de um garim de léguas, 
+pois é certo que, conforme o dizer o que só o cumprimento das léguas se medem por 3 mil 
+braças e na largura não há termo certo, e assim se devem limitar a largura que não seja a mesma 
+que o comprimento e nesta forma sem prejuízo de terceiros, obrigando-se a povoá-la no termo 
+da lei se lhe devem conceder. Bahia, 15 de setembro de 1673. //Rocha// O parecer do provedor-
+mor da Fazenda Real do mesmo Estado que é também aqui se segue. Senhor, ao provedor da 
+Fazenda senão oferece dúvida para que se concedam aos suplicantes as 5 léguas de terra de 
+comprimento, e a mim se [seminam] oferece para que também sejam de largura, porque ficam 
+sendo delas e [meia] a cada um em quadra em que se não encontra o regimento porque permite 
+concederem-se 4 e ainda 5 a uma pessoa, tendo posses como tem o suplicante, mas há de ser 
+com as condições do mesmo Regimento sem prejuízo de terceiros. Vossa Senhoria mandará o 
+que for servido, Bahia, 16 de setembro de 1673. // Antônio Lopes de Ulhoa// Hei por bem, e 
+lhe fazer mercê em nome de Sua Alteza de lhe dar como pela presente faço de sesmaria, 5 
+léguas de terra na forma que pedem em sua petição com declaração que serão obrigados a 
+povoá-las dentro do termo da lei, pois nesta conformidade lhas concedo como parece ao 
+provedor-mor da Fazenda não prejudicando a terceiros com todas suas águas, campos, matos, 
+testadas, logradouros e mais úteis que nelas se acharem, todo forro livre e isento de pensão ou 
+tributo algum, salvo dízimo a Deus, que pagará dos frutos que nelas houver e por elas serão 
+obrigados a dar caminhos livres ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno e 
+mando a todos os ministros e justiças, a que o conhecimento desta com direito deva ou possa 
+pertencer lhe mandem dar a posse real efetiva e atual na forma costumada debaixo das cláusulas 
+acima referidas e as mais da ordenação, título das sesmarias, para firmeza de que lhe mandei 
+passar a presente sob meu sinal e selo de minhas armas, a qual se registrará nos livros da 
+secretaria do Estado e nos da Fazenda Real dele e nos mais a que tocar, e se guardará e cumprirá 
+tão pontal e inteiramente como nela se contém sem dúvida embargo nem contradição alguma. 
+Manuel Ferreira das Neves, a fez nesta cidade do Salvador, Bahia de Todos os Santos em os 18 
+de setembro de 1673. Bernardo Vieira Ravasco, o fez escrever. //Afonso Furtado de Castro do 
+Rio de Mendonça// Pelo alvará de doação, sesmaria de 5 léguas de terra concedido a Baltazar 
+da Mota Peixoto e seu sobrinho Diogo Lopes de Ulhoa assim e da maneira que as pedem em 
+sua petição, e parece ao provedor-mor da Fazenda com declaração de as povoarem e cultivarem 
+no termo da lei, não prejudicando a terceiros na forma e pelos respeitos acima declarados para 
+
+Vossa Senhoria ver. Registrado no segundo livro dos registros da secretaria do Estado do Brasil 
+a que toca a folha 57. Bahia, 18 de setembro de 1673. //Ravasco//Registre-se nos livros da 
+Fazenda desta provedoria-mor. Bahia, 19 de setembro de 1673. //de Ulhoa// Registrou-se no 
+mesmo dia. //Miguel Pinto de Freitas//.  
+ 
+-Fim da transcrição- 
+Observações do documento: 
+ 
+Os nomes dos sesmeiros, tal qual consta no documento original são: Baltazar da Mota Peixoto, 
+e seu sobrinho, Diogo Lopes de Ulhoa. 
+ 
+Referência: 
+ 
+AN, Códice 427, fls. 26-27 
+Numeração original do livro: 29 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

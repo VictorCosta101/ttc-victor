@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0046
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco de Morais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "11-10-1674",
+  "Observações da sesmaria": "A sesmaria possuía uma légua e meia quadrada de área e estava localizada ao longo do rio Paraguaçu, vizinha as terras do capitão Manuel  de Hinojosa.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Manoel de Hinojoza",
+  "Observações da petição": "O sesmeiro solicitou duas léguas em quadra.",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; Não tinha terras; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que deveria ser concedida ao suplicante uma légua quadrada ao suplicante, ou então uma e meia. O provedor concordou com o parecer do procurador. O governador-geral decidiu conceder uma légua e meia de terra.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0046"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de doação e sesmaria de légua e meia de terra da medida ordinária 
+concedida ao sargento Francisco de Morais.  
+ 
+Afonso Furtado De Castro Do Rio De Mendonça// Faço saber os que este alvará de doação e 
+sesmaria virem, que o sargento Francisco de Morais me enviou a representar por sua petição, 
+cujo teor é o seguinte: senhor, diz Francisco de Morais, sargento do capitão Manoel de 
+Hinojosa, que ele tem servido nesta praça a Sua Alteza na companhia do capitão Manoel Velho 
+na estrada que se fizeram até o presente, assistiu em companhia do seu capitão Manoel de 
+Hinojosa, assim, na condução dos mantimentos, como na guerra dos bárbaros, e, de presente, 
+vai a companhia nos descobrimentos dos sítios para a vila e povoações de gados que vai fazer. 
+E porque não tem terra nenhuma de sesmaria e nas conquistas serviu sem lucro nem partilhas, 
+e, tem gado para povoar logo algumas terras, pedem a Vossa Senhoria [que] lhe conceda 4 
+léguas de terra de sesmaria e 2 léguas de largura, que o comprimento começará de onde acaba 
+a data do capitão Manoel de Hinojoza, que tem no rio de Paraguaçu para o boqueirão de 
+Guairurû, correndo norte a sul. E a largura será da serra de Aracaoca para a parte do leste, com 
+todos os seus logradouros, entradas e saídas, e, que não as povoando no termo da lei as perderá. 
+E receberá mercê. Visto a resposta do procurador da fazenda real, que é a que se segue: bem se 
+pode conceder ao suplicante uma légua ou légua e meia de terra de sesmaria, mostrando-lhe 
+como não formada da outra e obrigando-se a povoá-las e cultivá-las no termo da lei e com as 
+mais obrigações dela e do regimento. Bahia, 5 de outubro de 1674// Rocha// Informação do 
+provedor-mor da sua real fazenda, que é a seguinte: senhor, consta que ao suplicante se lhe não 
+tem dado sesmaria e, assim, me parece que se lhe deve deferir na forma que diz o procurador 
+da fazenda. Vossa Senhoria mandará o que for servido. Bahia, 8 de outubro, 1674// Antônio 
+Lopes de Ulhôa// Hei por bem de lhe conceder e dar de sesmaria, como pelo presente faço em 
+nome de Sua Alteza, légua e meia de terra na parte que a pede e confronta em sua petição, a 
+qual légua e meia será de medida ordinária como parece ao procurador da fazenda real e 
+provedor-mor dela, não prejudicando a terceiros nem as terras que se determinou [que] tivessem 
+as povoações que de novo se fizessem para se darem a seus povoadores com todas suas águas, 
+campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo forro livre e isento 
+de pensão ou tributo algum, salvo dízimo a Deus que pagará dos frutos que nelas houver, e por 
+elas será obrigado a dar caminhos livres ao conselho para fontes, pontes e pedreiras e povoá-
+las no termo da lei e regimento. Pelo que ordeno e mando a todos os ministros de justiça a que 
+o conhecimento deste, com direito, deva ou possa pertencer: lhe façam dar a posse real, efetiva 
+e atual na forma costumada debaixo das cláusulas acima referidas e as mais da ordenação título 
+das sesmarias. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas 
+armas, a qual se registrará nos livros da secretaria do estado e nos mais a que tocar. E se guardará 
+e cumprirá tão pontual e inteiramente como nela se contém, sem dúvida, embargo nem 
+contradição alguma// Antônio Garcia o fez nesta Cidade de Salvador, Bahia de todos os santos 
+nos 11 dias do mês de outubro ano de 1674// Bernardo Vieira Ravasco o fez escrever// Afonso 
+Furtado de Castro do Rio de Mendonça// Registrado no terceiro livro dos registros da secretaria 
+do estado do Brasil a que toca a folhas 27. Bahia, 11 de outubro de 1674// Ravasco// Despacho 
+do provedor-mor. Cumpra-se e registre-se. Bahia, 25 de outubro de 1674// Ulhôa// Registrou-
+se no mesmo dia, mês e ano e se entregou ao suplicante// Miguel Pinto de Freitas. 
+- Fim da Transcrição - 
+ 
+Referências: 
+AN, Códice 427, fls. 85v-86v 
+Numeração original no livro: 74 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

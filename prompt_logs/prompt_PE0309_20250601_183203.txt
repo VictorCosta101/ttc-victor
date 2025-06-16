@@ -1,0 +1,109 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0309
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel Vaz (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "02-04-1577",
+  "Data da concessão": "12-04-1577",
+  "Observações da sesmaria": "O suplicante requereu 200 braças de comprimento e 300 braças de largura no Moribara na fronteira das terras dos padres da Companhia de Jesus. ",
+  "Localidade": "Moribara",
+  "Confrontantes": "Padres da Companhia de Jesus",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0309"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0309 
+ 
+Traslado da carta de Manuel Vaz. Jerônimo de Albuquerque, capitão e governador 
+desta capitania pelo senhor Duarte Coelho de Albuquerque, capitão e governador 
+dela, por El-Rei, Nosso Senhor, etc.  
+Faço saber a quantos esta minha carta de doação e sesmaria virem, e o conhecimento 
+dela com direito pertencer, como a mim enviou a dizer por sua petição Manuel Vaz, 
+morador nesta vila, que há 6 anos reside nela, e não tem um pedaço de terra para nela 
+fazer benfeitoria, porque na parte da Moribara, é dada uma terra aos padres de Jesus, e 
+assim a outras pessoas. Pede a Vossa Mercê lhe dê o que for servido, pegado com a 
+derradeira data, que é dada até o presente, ou aonde lhe couber, para qualquer das 
+bandas que houver. E vista sua petição e pedir, pus nela por meu despacho. Passem 
+carta ao suplicante da maneira que pede, e não havendo lhe entregarão mais além, ou 
+para qualquer das bandas que a houver 200 braças de cumprido e 300 de largo, feito 
+hoje aos 2 dias de abril de 1577 anos, a qual terra assim lhe dou de sesmaria, para ele 
+dito Manuel Vaz e sua mulher, filhos, herdeiros, netos, ascendentes e descendentes, e 
+para todas as pessoas que após ele vierem, e deles a houverem, para que logrem e 
+possuam a dita terra, e dela e nela façam o que lhes bem vier, como de coisa sua 
+própria que já é deste dia para todo sempre, forra, livre e isenta, sem o dito Manuel 
+Vaz, nem seus herdeiros em tempo algum pagarem foro nem tributo, (fl. 245) nem 
+direito, somente o dízimo a Deus das coisas que na dita terra houver, e porque assim 
+me aprouve de lhe dar a dita terra, como dito é, lhe mandei passar a presente carta, a 
+qual mando que se cumpra e guarde como nela se contém. Dada nesta vila de Olinda, 
+sob meu sinal e selo das armas do dito meu sobrinho, que ante mim serve, Vicente 
+Jorge, escrivão das dadas e demarcações a fez pelo senhor Jerônimo de Albuquerque, 
+ano do nascimento de Nosso Senhor, Jesus Cristo, de 1577 anos, feita hoje, 12 dias do 
+mês de abril de 1577 anos. Jerônimo de Albuquerque. Os quais traslados de cartas de 
+doações eu, Brás Vicente, escrivão das datas e demarcações desta capitania de 
+Pernambuco, por Duarte de Albuquerque, capitão e governador dela por El-Rei, 
+Nosso Senhor, os trasladei dos próprios livros das datas, a primeira [...] e a segunda, 
+número 14, e concertei e subscrevi em Olinda, a 3 de agosto de 1608 anos. Brás 
+Vicente. Não se continha mais no dito documento que eu, Felipe Nery Correia, 
+tabelião do público, judicial e notas da cidade de Olinda, vila do Recife e seus termos, 
+capitania de Pernambuco, para Sua Majestade Fidelíssima, que Deus Guarde, etc. Fiz 
+
+trasladar do próprio com o qual, e com o oficial abaixo assinado este conferi e 
+concertei. Vai sem coisa que dúvida faça, ao próprio me reporto, que tornei a entregar 
+a quem aqui assinou, subscrevi e assinei em público e raso de meus sinais seguintes, 
+aos 4 dias do mês de janeiro de 1766 anos.  
+Concertado por mim, tabelião. Felipe Nery Correia 
+Em fé de verdade. Felipe Nery Correia 
+- 
+Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 244-245. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

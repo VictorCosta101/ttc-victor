@@ -1,0 +1,159 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0141
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0258",
+  "Nome": "Francisco Gonçalves da Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-03-1821",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura no rio Potengi, na freguesia do Rio Preto, termo da vila de Sirinháem.  A sesmaria tinha por limite as terras de Luís da Silva pelo rio Potengi acima. ",
+  "Localidade": "Freguesia do Rio Preto",
+  "Marcos Geográficos": "Rio Potengi",
+  "Observações da petição": "O suplicante alegou que quando fez a petição para a concessão da data, João Venceslau da Rocha Cousseiro apareceu e fez pedido no mesmo local. No entanto, uma sesmaria próxima ao território foi pedida ao dito João Venceslau por ter o suplicante o pedido mais antigo.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Luiz do Rego Barreto determinou o pagamento anual do foro régio no valor de seis mil réis. O governador Luiz do Rego Barreto determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0141"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0141
+Carta de doação e sesmaria de João Venceslau da Rocha Coceiro - 15/03/1821
+Francisco Gonçalves da Rocha com uma légua de terra na testada da sesmaria que
+pediu João Venceslao da Rocha Coceiro no rio Pirangi, na freguesia de Água Preta,
+do termo da Vila de Sirinhaém.
+Luis do Rego Barreto, do Conselho de Sua Magestade, fidalgo da Casa Real,
+comendador das Ordens de Cristo, torre e espada condecorado com a Cruz Grande das
+sete Batalhas, por Sua Majestade britânica, marechal de campo dos reais exércitos,
+comandante em chefe da divisão militar de Pernambuco, governador e capitão general
+da mesma capitania, etc. Faço saber aos que esta carta de data de sesmaria virem, que
+Francisco Gonçalves da Rocha me fez o requerimento do teor seguinte. – Diz Francisco
+Gonçalves da Rocha, que documentos juntos mostra ter alcançado de Vossa Excelência
+a graça de sesmaria de meia légua de terra em quadra, pegando da testada de Luís da
+Silva pela margem do rio Potengi acima, e porque consta dos mesmos documentos não
+haver oposição alguma até os últimos suplicantes de Vossa Excelência, foi determinada
+ao juiz do lugar e piloto a medição da dita terra, em cujo ato apareceu João Venceslau da
+Rocha Cousseiro, em despacho de Vossa Excelência obtido com alguma autoridade,
+para lhe ser medida uma légua de terra em quadra naquele mesmo lugar, que com efeito
+compreende a da pretensão do suplicante, e não sendo lícito em tais circunstâncias que o
+suplicante seja preterido da dita graça, implora a Vossa Excelência que em lugar daquela
+meia légua pedida, e que vai encher ao do suplicante, se lhe dê uma légua em quadra,
+pegando das testadas do mesmo, remetam por uma contra parte do rio, ficando assim
+satisfeita as pretensões e determinando, logo Vossa Excelência seja servido deferir-lhe
+suplicante. E receberá mercê = E sendo visto o seu requerimento, ordenei por despacho
+de 22 de março de 1819 que a Câmara respetiva mandasse proceder a medição
+requerida, salvo o direito de quem o tivesse mais antigo e com o auto da medição
+corresse novos editais e os mais termos precisos; e não podendo isto concluir-se, visto
+que o dito Venceslao não estava ainda demarcado, novamente me dirigiu o seu
+requerimento do teor seguinte = Diz Francisco Gonçalves da Rocha que tendo requerido
+a Vossa Excelência a graça de sesmaria de uma légua de terra, pegando das testadas de
+João Venceslao da Tocha Consseiro pelo rio Pirangi acima, na freguesia do rio Preto,
+termo de Serinhaem, foi Vossa Excelência servido determinar a Câmara respectiva
+
+tomasse piloto e juiz, e fizesse medir a dita légua de terra, e no ato da medição fizesse
+os editais e corresse os mais termos necessários, e sendo determinada a dita medição
+pela Câmara, não foi possível concluir-se em razão de o dito Venceslao ainda senão
+achar medido por causa dos seus éreos o empedirem e não poder das testada ao
+suplicante para a sua medição, em cujos termos requer o suplicante a Vossa Excelência
+que determine a dita Câmara que fixe editais antes da dita medição para com este ato de
+ir medir em quanto os ereos do suplicante na desenvolvem e lhe dão testada. Pede a
+Vossa Excelência seja servido deferir-lhe suplicante. E recebera mercê = E visto o seu
+novo requerimento, por despacho de 14 de junho do dito ano, ordenei a Câmara
+respectiva mandasse por editais na forma da lei, segundo as confrontações declaradas
+no riquerimento que tenha o despacho referido, o que tendo-se posto em execução e
+informando-se ambos que se lhes não oferecia dúvida alguma e demarcação, e o mapa
+respectivo, os quais a parte será obrigada a apresentar alguma demarcação e o mapa
+respectivo, pelo quais se vê que principiando-se a medição do marco do norte da testada
+de oeste da sesmaria de João Venceslao da Rocha, e seguindo o rumo de oeste quarta de
+sudoeste colocou o segundo em 1500 braças do lado de oeste do rio, continuou a seguir
+o rumo até 3 mil braças, onde cravou outro marco e deste seguiu o rumo do sul 4° de
+sudeste, e a 1500 braças cravou outro marco e outro a 3 mil, e voltando ao marco do sul
+da testada de oeste da sesmaria de João Venceslao da Rocha, seguio o rumo oeste 4° do
+sudoeste, e a 360 braças encontrou o marco da sesmaria de Antonio Jose Maroquim, e
+continuou o rumo, cravando um marco a 1470 braças, e outro a 2950, encontrando-as
+neste lugar o rumo antecedente, e por este modo as deu por finda a medição feita pelo
+juiz ordinário de Sirenhaem, Antonio Jeronimo Lopes Viana com o escrivão Cristovão
+de Melo e Abuquerque, o piloto José Dias Rebeiro, o ajudante da coroa Antonio de
+Almeida Franco com assistência do demarcante por seu procurador Francisco da Cunha
+Bastos. E sendo vista a dita demarcação, mandei por despacho de 15 de março do
+corrente ano que se passasse carta de sesmaria: e portanto, pela faculdade que me é
+concedida no capítulo 15 do regimento deste governo. Hei por bem darem em nome de
+Sua Majestade, El Rei Nosso Senhor, ao dito Francisco Gonçalves da Rocha a referida
+légua de terra, pagando o foro anual de 6 mil réis em observância da Real Ordem de 28
+de setembro de 1700, de que deu fiança na contadoria da Junta da Real Fazenda, a folha
+[?] do livro competente, a qual sesmaria possuirá e gozará ele suplicante e seus
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo
+sempre com todas as matas, campos, rios, águas, testadas, logradouros e mais úteis que
+
+nela se compreenderem, não prejudicando a terceiro, e não passará a religião e pessoas
+eclesiásticas, salvo sendo com os mesmos encargos, com que as possuem os seculares, e
+nunca se dividirá em porções, nem se partirá se não por estimação, andando encabeçada
+em uma só pessoa, na forma da ordenação de livro 4º título [96$23], e assim não passará
+a herdeiros ou qualquer outra pessoa, sem consentimento da junta da Real Fazenda, para
+nela se darem novas fianças, e se fazerem as devidas escriturações, ficando livre para a
+serventia dos povos todas as estradas, rios, fontes e pedreiras, e reservadas ao Real
+patrimônio as madeiras de construcção, pau brasil e viveiros de quaisquer metais, e
+como se acha medido e demarcado, será obrigado a requerer confirmação com os
+mesmos autos e planta, e povoá-la e cultivá-la dentro de 3 anos na forma da Real Ordem
+de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e não o cumprindo assim,
+se haverá por devoluta e novamente se concederá a quem tocar. Cumpram e façam
+cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo dar ao
+suplicante posse real, efetiva e atual, na forma da ordenação título das sesmarias. Na
+firmeza do referido lhe mandei passar a presente sendo por mim assinada e selada com
+o sinete das minhas armas, a qual se registrará na secretaria deste Governo, na junta da
+Real Fazenda, aonde mais tocar. Manoel dos Passos e Figueiroa, oficial maior da
+secretaria, a fez em o Recife de Pernambuco, em 20 de março de 1821. José Francisco
+Maciel Monteiro, secretário do Governo, a fez escrever = Luis do Rego Barreto = carta
+de data de sesmaria, em que Vossa Excelência há por bem conceder em nome de Sua
+Majestade a Francisco Gonçalves da Rocha, uma légua de terra na testada da sesmaria
+pedida por João Venceslao da Rocha Cousseiro, junto ao rio Pirangi na freguesia de
+Água Preta, termo de Sirinhaém. Para Vossa Excelência ver = Por despacho do
+ilustríssimo e excelentíssimo senhor general, de 15 de março de 1821.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 184-186
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,114 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0056
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0104",
+  "Nome": "Félix Paes de Azevedo, Pedro da Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "28-05-1727",
+  "Data da concessão": "30-05-1727",
+  "Observações da sesmaria": "Foram solicitadas 3 léguas de terra no olho d'água da Aldeia Velha, passando por dois riachos para o leste, confrontando para o norte com Garanhuns e para o sul com terras vizinhas ao rio de São Lourenço.",
+  "Localidade": "Olho d'água da Aldeia Velha, Garanhuns e rio de São Lourenço.",
+  "Marcos Geográficos": "Olho d'água da Aldeia Velha, Garanhuns e rio de São Lourenço.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia criar gado; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A carta de sesmaria não consta as informações referentes ao parecer final da sesmaria, conforme a Documentação Histórica Pernambucana I.",
+  "Observações das exigências": "O governador Manuel Rolim de Moura, determinou o pagamento de 4 mil réis de foro por légua ao ano. O governador Manuel Rolim de Moura mandou confirmar a sesmaria em 2 anos e povoá-la em 5 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0056"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0056
+Carta de doação e sesmaria de Félix Paes d'Azevedo e Pedro da Rocha - 30/05/1724
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU AO SENHOR CAPITÃO-MOR
+DAS ENTRADAS, FÉLIX PAES D'AZEVEDO E PEDRO DA ROCHA.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação de sesmaria
+virem, que se me representou a petição cujo teor é o seguinte: - Dizem o capitão-mor das entradas,
+Félix Paes d'Azevedo e Pedro da Rocha, que no lugar do olho d’agua da aldeia velha se acham
+algumas terras devolutas e sem dono, que correm dos dois riachos para a parte do leste, e
+confrontam pela parte do norte com as terras de Garanhuns, e pela do sul com as mais vizinhas ao
+rio de São Lourenço, das quais querem os suplicantes três léguas em quadro, sendo légua e meia
+para cada um, para povoarem com seus gados que naqueles sertões tem, de que resultará aumento
+aos direitos de Sua Majestade, que Deus guarde; portanto, pedem a Vossa Senhoria lhes faça mercê
+dar de sesmaria em nome do dito senhor as ditas três léguas de terra em quadro na forma referida,
+mandando lhe passar sua carta de data. E receberá mercê. - Informe o provedor da Fazenda Real,
+com parecer do doutor procurador da Coroa. = Responde o doutor procurador, a quem Vossa
+Senhoria mandou ouvir, que não tem dúvida no que pedem os suplicantes, sendo a data na forma da
+Ordenação Livro 4.° título 43, e as ordens de Sua Majestade, com o foro que se assentou em Junta;
+com o que me conformo com declaração que das ditas terras se há de pagar o dízimo a ordem de
+Cristo, de seus frutos, e de não passarem a religiões por nenhum título e no caso que suceda será
+com os mesmos encargos, como se fossem possuídas por seculares, pagando o foro de quatro mil
+réis por légua cada um ano; Vossa Senhoria mandará o que lhe parecer mais conveniente ao serviço
+de Sua Majestade, com a retidão que costuma. Recife, 28 de maio de 1727 = João do Rego Barros -
+A vista do que é da faculdade que Sua Majestade me concede no Capítulo 15 do Regimento deste
+Governo. Hei por bem de dar em nome de Sua Majestade aos suplicantes as referidas três léguas de
+terra em quadro, uma légua e meia para cada um, assim e da maneira [digo] e da mesma maneira e
+no mesmo lugar e paragem que confrontam em sua petição, debaixo das cláusulas e obrigações que
+aponta o provedor da Fazenda Real, pagando dízimo a ordem de Cristo de 4$ mil réis de foro por
+cada uma légua por ano a Fazenda Real, e não passarão a religiões por nenhum título e sucedendo
+será com os mesmos encargos, as quais terras lograrão eles e seus herdeiros com todas suas
+pertenças e logradouros [...]
+Vide Original: fl. — 96.
+- Fim da carta -
+Em 30 de maio
+de 1727. Para
+confirmar em 2
+anos e povoar
+em 5 anos, aliás
+se
+darão
+por
+devolutas.
+
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a
+esta sesmaria.
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 312 - 314.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

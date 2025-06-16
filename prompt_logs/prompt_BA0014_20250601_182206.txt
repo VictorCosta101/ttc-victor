@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0014
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Amaro Homem de Almeida",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "09-10-1673",
+  "Observações da sesmaria": "A sesmaria possuía seis léguas em quadra e estava localizada nos campos largos do rio Paraguaçu. O suplicante recebeu as seis léguas em quadra para ele e seus filhos.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Observações da petição": "O suplicante solicitou quatro léguas em quadra para si e mais quatro léguas em quadra para cada um de seus cinco filhos. Como apontado na observação da sesmaria, foram concedidas seis léguas em quadra para todos eles, por iso a área total da sesmaria foi de 36.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era descobridor(a) das terras; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": " Alegou possuir mais de 1000 gados e que os coloca em pastos alheios, pagando rendas e com dificuldades acha sítios que se lhe arrendem.",
+  "Observações do deferimento e da concessão": "O suplicante solicitou quatro léguas em quadra para si e mais quatro léguas em quadra para cada um de seus cinco filhos, sem especificar o comprimento e a largura. O provedor da Fazenda, por achar que o suplicante possuía muito cabedal, afirmou que deveriam ser concedidas seis léguas em quadra para cada um deles, sugestão que foi acatada pelo governador-geral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0014"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de Sesmaria de 6 léguas de terra em quadra concedida a Amaro Homem 
+de Almeida e os seus filhos. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça do Conselho de Guerra de Sua Alteza, etc. Faço 
+saber aos que este alvará de doação de Sesmaria virem, que Amaro Homem de Almeida me 
+enviou a dizer por sua petição cujo teor é o seguinte: Senhor, diz Amaro Homem de Almeida, 
+senhor do engenho de Pirajá, que ele tem 5 filhos machos e não tem terras algumas, sendo que 
+tem mais de 1000 cabeças de gado, que traz em pastos alheios de que paga rendas e com 
+dificuldades acha sítios que se lhe arrendem e porque nos campos largos do rio de Paraguaçu 
+para o sul estão muitas terras que não estão dadas de sesmaria. Pede a Vossa Senhoria, lhe faça 
+mercê dar 4 léguas em quadra e para seus 5 filhos, outras 4 léguas a cada um em quadra nos 
+campos que ficam do Rio Paraguaçu para o sul na parte onde eles suplicantes os descobriram, 
+sendo algum rio pião das ditas terras que estejam por dar e devolutas. E receberá Mercê. E vista 
+a resposta do provedor da Coroa e Fazenda Real que é o seguinte: Bem se podem conceder para 
+o suplicante e seus 5 filhos, 5 léguas de terra de Sesmaria na forma que pedem sem prejuízo de 
+terceiro, obrigando-se a povoá-las no termo da Lei e Regimento, Bahia, 9 de outubro de 1673 
+// Rocha // E informação do provedor-mor da Fazenda que é a que se segue: Senhor, consta-me 
+que o suplicante tem cabedal para poder povoar a terra que se lhe conceder e que tem muitos 
+filhos com que vem a ser serviço de Sua Alteza conceder-lhe mais do que é uso e costume e 
+assim me parece que se lhe podem conceder para ele e seus filhos 6 léguas de terra em quadra 
+e entendo que estas serão as primeiras que se hão de povoar pela comodidade, que o suplicante 
+para o poder fazer mais que seja com as condições do Foral e Regimento de Sua Alteza  sem 
+prejuízo de terceiro, Vossa Senhoria mandará o que for servido. Bahia, 10 de novembro de 1673 
+// Antônio Lopes de Ulhôa // Hei por bem de lhe conceder como pelo presente faço em nome 
+de Sua Alteza 6 léguas de terra em quadra para ele e seus filhos, como parece ao provedor-mor 
+da Fazenda Real e como as pedem e confrontam em sua petição com declaração que serão 
+obrigados a povoá-las no termo da lei, pois nesta conformidade lhes concedo, não prejudicando 
+a terceiro, nem as terras que se determinou tivessem as povoações, que de novo se fizessem 
+para se dar a seus povoadores, com todas suas águas, campos, matas, testadas, logradouros e 
+mais úteis que nelas se acharem, tudo foro livre e isento de pensão ou tributo algum, salvo o 
+dízimo a Deus, que pagará dos frutos que nelas houverem e por elas será obrigado a dar 
+caminhos livres ao conselho para fontes, pontes e pedreiras, pelo que ordeno e mando a todos 
+os ministros e justiças, o que o conhecimento deste com direito deva ou possa pertencer lhe 
+façam dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas acima referidas 
+e as mais da ordenação, título das Sesmarias, para firmeza de que lhe mandei passar a presente 
+sob meu sinal e selo de minhas armas, a qual se registrará nos livros da Secretaria do Estado e 
+nos mais a que se tocar e se guardará e cumprirá tão pontual como nele se contém, sem dúvida, 
+embargo, nem contradição alguma // Antônio Garcia a fez nesta Cidade do Salvador, Bahia de 
+Todos os Santos no dia 9 do mês de outubro do ano de 1673 // Bernardo Vieira Ravasco a fez 
+escrever // Afonso Furtado de Castro do Rio de Mendonça // Alvará de doação e sesmaria de 6 
+léguas de terra em quadra que Vossa Senhoria teve por bem conceder de Amaro Homem de 
+Almeida e a 5 filhos seus na parte que pede e confronta em sua petição, não prejudicando a 
+terceiro pelos respeitos acima declarados, para Vossa Senhoria ver. Registrada no primeiro livro 
+dos registros da Secretaria do Estado do Brasil a que toca a folhas 168. Bahia, 9 de outubro de 
+1673 // Ravasco // Cumpra-se e registre-se como Sua Alteza manda. Bahia, 10 de outubro de 
+1673 // de Ulhôa // Registre-se em 9 do dito mês e se entregou ao suplicante // Freitas // 
+ 
+- Fim da Transcrição - 
+
+Observações: 
+ 
+- O nome do suplicante no consta no documento original como: “Amaro Homem de Almeida” 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 29v - 30v 
+Numeração original no livro: 26 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,90 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0231
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0304",
+  "Nome": "Francisco Manuel dos Santos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-02-1784",
+  "Observações da sesmaria": "O suplicante requereu dez braças de comprimento na vila do Recife. A sesmaria localizava-se por detrás do quartel dos soldados e da igreja do Santíssimo Sacramento, confrontando com a ponte da Boa Vista. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Ponte da Boa Vista",
+  "Confrontantes": "Quartel dos soldados da Praça do Recife, Igreja do Santíssimo Sacramento",
+  "Observações da petição": "O suplicante não especificou as medidas da largura, sendo impossível determinar a área total.",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0231"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0231
+Carta de concessão de Francisco Manoel dos Santos de 13/02/1784
+Sesmaria de cem palmos de terra, no fundo dos quartéis dos soldados, por detrás da
+Igreja do Santíssimo Sacramento, confinando com a praia até a ponte da Boa Vista,
+concedida em 13 de fevereiro de 1784 à Francisco Manoel dos Santos e seus herdeiros
+ascendentes e descendentes, pelo capitão general José César de Menezes, com o foro
+anual de 60 réis cada palmo; não podendo, porém, passar a religiosos ou outras pessoas
+eclesiásticas por título algum, salvo com os mesmos encargos, por que possuem os
+seculares. Esta sesmaria sofreu alguma modificação, como se vê do exposto a margem
+do livro que se extratou: - “Pelo requerimento registrado, a folha 100 do livro 2º de
+Portarias, mostrou este sesmeiro ter requerido a Sua Majestade a confirmação desta
+sesmaria. Recife, 11 de setembro de 1793 – Cunha. “Pelo requerimento registrado, a
+folha 101 verso do dito livro, se procedeu a vistoria nesta terra, ficando com diferente
+confrontação. – Cunha. c/c no livro 7º folha 50.
+- Fim da Transcrição -
+Referência:
+Documentação
+Histórica
+Pernambucana:
+sesmarias.
+Recife:
+SECRETARIA
+DE
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 78.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

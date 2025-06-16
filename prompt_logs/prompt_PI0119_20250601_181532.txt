@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0119
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Ana Francisca Pereira de Macedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-06-1739",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Ribeira": "Rio Caratius, rio Riacho Verde, barra do Cariú",
+  "Justificativas": "As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; Pretendia apascentar gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0119"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0119
+Carta de concessão a Dona Ana Francisca Pereira de Macedo - 09/06/1739
+Registro de uma carta de data e sesmaria de 3 léguas de terra de comprido e uma de
+largo na ribeira dos Caratius, passada à Dona Ana Francisca Pereira de Macedo.
+João de Abreu de Castelo Branco, do conselho de Sua Majestade, governador e
+capitão-general do Estado do Maranhão, etc. Faço saber, aos que esta minha carta de data e
+sesmaria virem, que Dona Ana Francisca de Macedo me representou que ela possuía
+bastantes gados vacuns e cavalares, os quais se achavam espalhados por diferentes sítios por
+não ter terras em que os possa apascentar, do que se lhe seguia grave prejuízo no aumento de
+sua criação. E porque, na ribeira dos Caratius, se achava um rio chamado Riacho Verde, e
+nele haviam terras devolutas capazes de se situarem, e a suplicante as não possuía próprias
+para o apascentarem do dito seu gado. Me pedia fosse servido conceder-lhe, em nome de Sua
+Majestade, por carta de data e sesmaria, 3 léguas de terra de comprido com suas ilhargas no
+dito Riacho Verde, principiando a demarcação delas na barra do Cariú pelo dito riacho acima,
+rumo direito do nascente para o poente. Ao que atendendo e a resposta do provedor-mor da
+Fazenda Real, a quem se deu vista, e ser em utilidade da mesma Fazenda o cultivarem-se as
+terras neste Estado. Hei, por bem, conceder-lhe, em nome de Sua Majestade, 3 léguas de
+terra de comprido e uma de largo na parte acima referida, com as confrontações declaradas
+na forma que pede, com as condições expressadas nas Reais Ordens e com a de não fazer
+trespasse por meio algum, em nenhum tempo, pessoa alguma, religião ou comunidade, sem
+que primeiro dê parte na casa da Fazenda ao provedor-mor dela para se me fazer presente e
+ver se se deve ou não consentir no tal trespasse, sob pena de ficar nula esta data para se poder
+conceder novamente a outrem. E, nesta forma, se lhe passa carta, para que a dita Dona Ana
+Francisca Pereira de Macedo haja, logre e possua as ditas terras como coisa sua
+própria para ela e todos os seus herdeiros, ascendentes e descendentes, sem pensão nem
+tributo algum mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas houver e lavrar,
+a qual concessão lhe faço não prejudicando a terceiro nem a Sua Majestade, se no dito sitio
+quiser mandar fundar alguma vila, reservando os paus reais que nelas houver para
+embarcações, com declaração que mandará confirmar esta data, por Sua Majestade, dentro de
+3 anos primeiros seguintes, e cultivará as ditas terras de maneira que deem frutos e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes,
+portos
+e pedreiras, e se demarcará ao tempo da posse por rumo de corda e braças craveiras, como é
+estilo e Sua Majestade manda. E, outrossim, não sucederão nelas religiões nem pessoas
+eclesiásticas por nenhum título que seja e, acontecendo, possuí-las será com o encargo de
+pagarem delas dízimos a Deus como se fossem possuídas por seculares; e, faltando a
+qualquer destas cláusulas, se haverão as ditas terras por devolutas e se darão a quem as
+denunciar, como o dito Senhor ordena. Pelo que mando ao provedor-mor da Fazenda Real,
+mais ministros e pessoas a que tocar, que, na forma referida, deixem ter e possuir as ditas
+terras a dita Dona Ana Francisca Pereira de Macedo, para ela e todos os seus herdeiros,
+ascendentes e descendentes como coisa sua própria. Cumpram e guardem esta minha carta de
+data e sesmaria tão inteiramente como nela se contém, a qual lhe mandei passar por mim
+assinada e selada com o sinete de minhas armas, que se registrará aonde tocar e se passou por
+
+duas vias. Dada na cidade de São Luís do Maranhão, aos 9 dias do mês de junho, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1739. E eu, João de Figueiredo, secretário do
+Estado, a fiz escrever.
+- Fim da Transcrição -
+Observações do documento:
+O nome original da sesmeira, tal como consta no documento, é D. Anna Francisca Pereyra de
+Macedo.
+Referência:
+APEP, Livro 9, doc 174, fls. 118-118v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

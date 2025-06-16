@@ -1,0 +1,216 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0110
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro de São Bento de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-10-1610",
+  "Observações da sesmaria": "Os suplicantes requereram cinco léguas de comprimento e cinco léguas de largura nas terras realengas de Piracinunga no Porto Calvo, na Paripueira, na fronteira das terras dos padres do Carmo e Miguel Gonçalves Vieira. ",
+  "Localidade": "Porto Calvo",
+  "Marcos Geográficos": "Piracinunga, Paripueira",
+  "Exigências do Deferimento": "Determinou-se pagar pensão por engenho, caso este seja levantado",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O capitão locotenente de Pernambuco e tutor do donatário, Francisco de Gouveia, determinou que os monges beneditinos deveriam pagar 3% do valor da moenda do engenho real e 1,5% se o engenho for trapiche. O locotenente Francisco de Gouveia determinou o pagamento de foro das terras realengas no valor de 1000 réis de foro anual por légua ao donatário e seus sucessores. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0110"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0110 
+ 
+Títulos das terras mais remotas que se deram em várias partes a este mosteiro.  
+Carta de doação de 5 léguas de terra ao mosteiro de São Bento da cidade de Olinda, sitas na 
+Paripueira, limites da Alagoa.  
+ 
+Francisco de Gouveia, Cavaleiro Fidalgo da Casa de Sua Majestade, provedor das Capelas Del-
+Rei Dom Afonso, o quarto, e da rainha Dona Beatriz, sua mulher, que Santa Glória hajam, tutor 
+do senhor Duarte de Albuquerque Coelho, capitão e governador da capitania de Pernambuco 
+das partes do Brasil, por provisão Del-Rei Nosso Senhor, etc. Faço saber a Alexandre de 
+Moura, que hora serve de capitão da dita capitania em absentia do dito senhor Duarte de 
+Albuquerque Coelho e ao ouvidor, juízes, vereadores, procurador e mais oficiais da câmara da 
+vila de Olinda, e a todas as justiças dela, a que esta minha carta de doação for apresentada e o 
+conhecimento dela com direito pertencer, que a mim me fizeram petição os padres de São Bento 
+do mosteiro da dita vila de Olinda, dizendo nela que o senhor Jorge de Albuquerque Coelho, 
+que está em Glória, mandaram os religiosos da dita Ordem à dita capitania, com promessas de 
+grandes mercês, como constava da doação que apresentaram, que estava registrada no livro dos 
+registros a folhas 204, e deitada nas notas do tabelião Domingos da Silva, no ano de 1603 anos, 
+em 19 de dezembro, na qual doação o dito senhor Jorge de Albuquerque dava ao dito mosteiro 
+14 léguas de terra no rio do Extremo, nos limites da dita vila e nas melhores terras que tinha 
+toda a dita capitania, e assim mais lhes dava para o dito mosteiro como estivesse feito com 12 
+religiosos 100 cruzados cada ano de Ordinárias, e que havia mais de 12 anos, que os religiosos 
+tinham cumprido da sua parte, e tudo até hoje se lhes devia, porque em nenhuma coisa se 
+cumpriu com eles na dita doação, nem tinham de sesmaria nenhum palmo de terra que lhes 
+fosse dado, nem o próprio sítio do mosteiro, que tudo fora comprado, e por quanto eles ditos 
+padres havia muitos anos que residiam na dita capitania (fl. 261) ajudando em tudo que era sua 
+profissão com muita satisfação de toda a terra e com muito proveito de todos, não somente 
+espiritual, senão temporal e estavam muito pobres, e não podiam viver conforme a sua Ordem 
+e profissão, me pediam de mercê lhes desse de sesmaria na Paripueira, indo para a Alagoa nas 
+cabeceiras das 5 léguas de terra que foram dadas a Miguel Gonçalves Vieira outras 5 léguas 
+em quadra em satisfação das 14 que o senhor Jorge de Albuquerque Coelho tinha prometido 
+ao dito mosteiro, e ainda que as terras da dita doação eram muito perto da dita vila, e nas 
+melhores terras dela, e as que eles suplicantes estavam muito longe 40 para 50 léguas, e muito 
+somenos, contudo eles ditos padres se davam por satisfeitos com a dita sorte de terra, e não 
+
+queriam nada das mais mercês que o dito senhor Jorge de Albuquerque Coelho tinha prometido 
+ao dito mosteiro, e ainda que as terras da dita doação eram muito perto da dita vila e nas 
+melhores terras dela, e não queriam nada das mais mercês que o dito senhor Jorge de 
+Albuquerque Coelho lhes fazia, e não havendo ali toda a terra que pediam, tomariam a que 
+faltasse atrás na cabeceira da terra que possuem os padres do Carmo, e havendo águas, terras e 
+madeiras para engenhos de todos os que fizessem, pagariam eles ditos padres, ou quem os 
+fizesse, a pensam que se costuma pagar na capitania os engenhos assim de água como trapiches, 
+e caindo alguma da dita terra no reguengo de Piracinunga no porto do Calvo, a qual demarcação 
+se faria pelos rumos de Norte, Sul, Leste e Oeste como se costuma, e receberiam justiça e 
+mercê. A qual petição por mim vista, pus nela em 10 de julho deste presente ano de 1610 o 
+despacho seguinte: vista esta petição dos padres do Bem Aventurado São Bento do mosteiro 
+sito na vila de Olinda, capitania de Pernambuco, e a doação que oferecem do senhor Jorge de 
+Albuquerque, que Deus tem, senhor que foi da dita capitania e as mercês que por ela lhe fazia, 
+que até agora não houve efeito, e ao benefício que os moradores da dita capitania recebem com 
+terem nela esta Santa Casa e religião, e o muito fruto que fazem no culto divino, hei por bem, 
+como tutor que sou dos bens e fazenda do senhor Duarte de Albuquerque Coelho, capitão e 
+governador da dita capitania, de dar de sesmaria aos ditos padres do dito mosteiro para sempre 
+as 5 léguas de terra que pedem na Paripueira, indo para a Alagoa nas cabeceiras de terras que 
+foram dadas a Miguel Gonçalves Vieira, e não havendo no dito limite tanta quantidade de terra, 
+tomarão a que faltar mais atrás nas cabeceiras das terras que possuem os padres (fl. 262) do 
+Carmo, de maneira que sejam 5 léguas em quadrado na forma e pelas medidas costumadas, e 
+com todas as águas, lenhas, madeiras, que nas ditas terras houver, e com declaração que os 
+ditos padres não haverão coisa alguma do que lhes era dado pela dita doação que lhes fez o dito 
+senhor Jorge de Albuquerque, nem haverá efeito em nada, como declaram em sua petição, e 
+fazendo engenhos nas ditas terras, serão obrigados antes de os deitar a moer, haverem-se com 
+o dito senhor governador, ou com seus sucessores, no que hão de pagar de cada engenho, e não 
+o fazendo, lhe pagarão de tudo o que nelas lavrarem a 3%, e dos trapiches 1,5%, e caindo 
+alguma das ditas terras no reguengo, pagarão por cada légua ao dito senhor governador 1000 
+réis de foro, e nesta forma se lhes faça sua carta de sesmaria na forma costumada, e na medição 
+e demarcação das ditas terras se fará declaração da quantidade que cair no reguengo. O que 
+tudo se continha na dita petição e despacho, por virtude do qual, e da quitação que Gaspar de 
+Al[...] estante hora nesta cidade, como procurador bastante dos ditos padres, deu em nome 
+deles, feita em 18 de outubro deste ano de 1610, que está nas notas de Antão Martines de 
+Ribeiro, tabelião público nesta dita cidade de Lisboa, cujo traslado autêntico me foi apresentado 
+
+com o da dita procuração dos ditos padres, feita na dita vila de Olinda, em 9 de fevereiro deste 
+presente ano de 1610 ao dito Gaspar de Al[...], o qual em nome de seus constituintes, por 
+virtude da dita procuração, que outrossim está lançada nas notas do dito Martines de Ribeira, 
+desiste de todo e qualquer direito e ação que os ditos religiosos poderão ter contra o dito senhor 
+Duarte de Albuquerque Coelho pela dita doação que lhes tinha feito o dito senhor Jorge de 
+Albuquerque Coelho e não querem dela usar em tempo algum, antes para mais abastança dão 
+por quite e livre ao dito senhor  Duarte de Albuquerque Coelho e a seus herdeiros da dita data 
+e mercê, e assim dos 100 cruzados contidos nela, e [?] de tudo se contentam e satisfazem com 
+as 5 léguas de terra em quadra, dizendo mais o dito Gaspar de Alere em nome dos ditos padres, 
+por quanto eles até o presente não possuem coisa alguma que lhes fosse dada da fazenda do 
+dito senhor capitão e governador, e que achando-se que Manuel Mascarenhas Homem, que 
+serviu de capitão da dita capitania desse algumas terras ou datas aos ditos padres, ele dito 
+Gaspar de Alere em seu nome, de agora para sempre desiste, e não quer que seus constituintes 
+usem das cartas (fl. 262 v.) de datas passadas pelo dito Manuel Mascarenhas Homem, por 
+quanto dê consentimento dos ditos constituintes se dá por satisfeito com as ditas 5 léguas em 
+quadra, e se obrigou que os ditos padres não irão contra esta quitação e desistência em tempo 
+algum, antes a cumpriram e para isso obrigou os bens do dito mosteiro por virtude da dita sua 
+procuração, o que tudo por mim hei por bem, e me praz de fazer mercê em nome do dito senhor 
+governador aos ditos padres de São Bento do mosteiro da dita vila de Olinda, de lhes dar de 
+sesmaria em satisfação da doação feita pelo dito senhor Jorge de Albuquerque Coelho, que em 
+nada terá efeito as 5 léguas de terra que pedem na Paripueira, indo para a Alagoa nas cabeceiras 
+das terras que foram dadas a Miguel Gonçalves Vieira, e não havendo no dito limite tanta 
+quantidade de terra, tomarão a que faltar mais atrás, nas cabeceiras que possuem os padres do 
+Carmo, de maneira que sejam 5 léguas em quadra na forma e pelas medidas costumadas, com 
+todas as águas, lenhas e madeiras que nas ditas terras houver, excetuando as matas do pau-
+brasil, e fazendo-se nas ditas terras engenhos, sendo elas capazes para isso, serão obrigados os 
+ditos padres antes de os deitar a moer, haverem-se com o dito capitão, digo, com o dito senhor 
+capitão e governador, ou com seus sucessores, do que hão de pagar de pensão de cada engenho, 
+segundo for de água ou de trapiche, e se nas ditas 5 léguas de terra houver mais algumas ribeiras 
+de água, além das que os ditos padres se hão de aproveitar para o engenho, ou engenhos, se os 
+fizerem eles, nem os mais que no dito mosteiro residirem pelo tempo em diante, não terão nas 
+ditas águas nenhuma ação porque o dito senhor capitão e governador, ou seus sucessores, as 
+poderão dar às pessoas que as pedirem, para com as ditas águas fazerem outros engenhos, pois 
+resultam em acrescentamento da Fazenda del-Rei Nosso Senhor, e do dito senhor capitão e 
+
+governador, e caindo alguma terra das ditas 5 léguas no reguengo, pagarão os ditos padres do 
+dito mosteiro 1000 réis de foro em cada um ano ao dito senhor capitão e governador, em cujo 
+nome lhes faço esta doação e mercê, deste dia para todo sempre, pelo que peço por mercê ao 
+dito senhor Duarte de Albuquerque Coelho, e mando às mais justiças acima declaradas que 
+tanto que esta minha carta lhes for apresentada, se fará escritura, em que os ditos padres 
+confessem e declarem aceitar esta mercê, obrigando-se assim eles em seus nomes, como nos 
+de todos os mais que pelo tempo em diante residirem no dito mosteiro, a cumprir tudo o que 
+nela se contém, e a pagar o foro como fica declarado, e não pagando (fl. 263), quando for tempo 
+de serem executados, como os mais foreiros, e as ditas 5 léguas de terra se demarcarão com 
+justiça e verdade, tendo cada uma 2400 braças, somente de 10 palmos cada braça, com 
+declaração da que cair no reguengo, para efeito do foto que dela hão de pagar, e depois de assim 
+feito, darão aos ditos padres a posse de que se fará assento nas costas desta carta, que se 
+registrará no llivro da Câmara da dita vila de Olinda, em que se porão as verbas do tempo em 
+que os ditos padres tomarem posse das ditas 5 léguas de terra, e de demarcação que deles se 
+fizer, e por certeza de tudo, lhes mandei passar a presente, dada em Lisboa aos 26 de outubro, 
+por mim assinada e selada com o selo das armas do dito senhor capitão e governador. Álvaro 
+Leal a fez, ano do nascimento de Nosso Senhor, Jesus Cristo, de 1610, e eu, Aires Tavares a 
+fiz escrever. Francisco de Gouveia. Carta de doação aos padres de São Bento do mosteiro de 
+Olinda, por que se lhes faz mercê de 5 léguas de terra em quadra na Paripueira, em satisfação 
+das 14 que o senhor Jorge de Albuquerque Coelho, que está em glória, lhes tinha prometido, 
+com outras mercês que em nada terão efeito, como mais largamente se contém nas cláusulas, 
+condições e obrigações da carta acima para ver toda. Registrada no segundo livro das mercês 
+da capitania de Pernambuco a folha de 24, em Lisboa a 30 de outubro de 1610 anos. Aires 
+Tavares. Registrada em minhas notas a folha 3 do livro deste ano de 1611 em janeiro. Antônio 
+Martins Ribeira. Registre-se. Olinda, 21 de janeiro de 1626. Gregório da Silva de Almeida. 
+Fica registrada no livro primeiro das sesmarias, que começou o ano de 1608 a folhas 208. 
+Olinda, 19 de fevereiro de 1626. Manuel Mendes de Vasconcelos. O qual traslado eu, Vicente 
+Gomes da Veiga, Cavaleiro Fidalgo da Casa del Rey, Nosso Senhor, e tabelião do público 
+judicial e notas nesta vila de Olinda e seus termos por Duarte de Albuquerque Coelho, capitão 
+e governador dela por Sua Majestade, etc. Concertei, subscrevi e assinei aos 21 dias do mês de 
+agosto de 1628 anos. Vicente Gomes de Veiga. Concertado por mim, tabelião, Vicente Gomes 
+da Veiga. Não se continha mais no dito documento que eu, Felipe Nery Correia, tabelião do 
+público judicial e notas da cidade de Olinda, vila do Recife, capitania de Pernambuco e seus 
+termos, para Sua Majestade fidelíssima, que Deus guarde, etc. - Fiz trasladar do próprio com o 
+
+qual e com o oficial abaixo (fl. 263 v.), assinado este conferi, concertei e vai sem coisa que 
+dúvida faça, ao próprio me reporto, que tornei a entregar a quem aqui assinou, subscrevi em 
+público e raso, de meus sinais seguintes, aos 4 dias do mês de janeiro de 1766 anos.  
+ 
+Concertado por mim, tabelião 
+Felipe Nery Correia 
+Em fé de verdade 
+Felipe Nery Correia 
+ 
+- 
+Fim da Transcrição -  
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 261-263v. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

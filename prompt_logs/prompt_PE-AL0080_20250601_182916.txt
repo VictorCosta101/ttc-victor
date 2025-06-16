@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0080
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0117",
+  "Nome": "Antônio Lopes Soeiro, Joana Correa de Brito, Lourenço de Brito Correa , Mateus de Mendonça",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-02-1660",
+  "Observações da sesmaria": "Os suplicantes requereram doze léguas de comprimento e doze léguas de largura nos campos de Garanhuns, sertão das Alagoas do Sul e do Norte. ",
+  "Localidade": "Alagoas do Sul",
+  "Marcos Geográficos": "Campo de Garanhuns",
+  "Justificativas": "Lutou na guerra contra Palmares; As terras eram devolutas; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0080"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0054 
+ 
+Carta de concessão de Antônio Lopes Soeiro, Joana Correa de Brito, Lourenço de Brito 
+Correa e Mateus de Mendonça de 23/02/1660 
+Registo de uma petição de Lourenço de Brito Correa e sua irmã Joana Correa de Brito e 
+do capitão Antônio Lopes Soeiro, e o padre Matheus de Mendonça, e de uma carta de 
+sesmaria dada em Pernambuco pelo governador de lá André Vidal de doze léguas de terra 
+nos pastos, e campos de Garanhuns-Mirim no sertão das lagoas do norte e sul.  
+ 
+Petição. Dizem Lourenço de Brito Correa e sua irmã Joana Correa de Brito e o capitão 
+Antônio Lopes Soeiro e o padre Mateus de Mendonça moradores, e povoadores da 
+capitania da Bahia e também nesta capitania no rio de São Francisco que todas são pessoas 
+que tão bem servido a Sua Majestade, e de posses para povoar as terras devolutas, e sertão 
+desta capitania de Pernambuco chegados, e vizinhos dos rebeldes negros dos mocambos, 
+e palmares, e não têm pastos bastantes para o crescimento dos seus gados em utilidade 
+dos dízimos reais e povoação dos sertões. E porque sobre as Alagoas do Sul e do Norte 
+há pastos devolutos acima e para os lados dos Campos de Garanhuns, que estão 
+despovoados e sem até agora se aproveitarem de que resultará aumento a Fazenda Real, 
+e a outras mais comodidades. Pedem a vossa senhoria lhes faça mercê em nome de Sua 
+Majestade dar de Sesmaria, e por devoluta doze léguas de terra em os pastos e campos de 
+Garanhuns-Mirim que é no sertão das Alagoas, do Norte e do Sul sobre os campos de 
+Garanhuns para um dos lados deles que estão confinando com o Mocambo, e Palmares 
+dos negros fugidos com todas suas ribeira lagoas matos e mais pertenças em quadra pelos 
+rumos que escolherem e melhor lhes tiver quatro léguas para o dito Lourenço de Brito e 
+Correa para sua irmã Joana Correa e as outras quatro para o capitão Antônio Lopes Soeiro 
+e o padre Mateus de Mendonça e sendo dada a tomarão aonde a houver naqueles confins 
+e com parecer do Provedor da Fazenda Real. E receberá mercê. Despacho do governador 
+André Vidal. O provedor da Fazenda de Sua Majestade desta capitania me informe com 
+seu parecer Olinda 7 de Fevereiro de 1660. Vidal. Informação do provedor da Fazenda. 
+Os suplicantes são muito beneméritos de coisas maiores e não se me oferece duvida no 
+que pedem salvo sempre o direito de terceiro. Olinda 8 de fevereiro de 1660 anos. 
+Despacho do governador. Vista a Informação passe-se aos suplicantes carta de data de 
+doze léguas de terra na forma e parte em que as pedem sem prejuízo de terceiro. Olinda 
+vinte de fevereiro de 1660. Vidal. Provisão. André Vidal de Negreiros do Conselho de 
+Sua Majestade Fidalgo de Sua Casa comendador da Comenda de São Pedro do Sul 
+alcaide-Mor das Vilas de Marialva e Moreira governador das capitanias de Pernambuco 
+etc. Faço saber aos que esta Carta virem que tendo respeito ao que na petição atrás escrita 
+me representaram Lourenço de Brito Correa sua irmã Joanna Correa o capitão Antônio 
+Lopes Soeiro e o padre Mateus de Mendonça moradores na capitania da Bahia pedindo-
+me lhes fizesse mercê dar em nome de Sua Majestade de sesmaria, e por devolutas doze 
+léguas de terra, em os pastos e Campos de Garanhuns-Mirim que é no sertão das Alagoas 
+do Sul, e Norte sobre os campos de Garanhuns para um dos lados deles, que está 
+confinando com o mocambo, e Palmares dos negros fugidos com todas suas ribeiras 
+lagoas matos e mais pertenças em quadra pelos rumos que escolherem, e melhor lhes 
+estiver a saber quatro léguas para ele dito Lourenço de Brito Correa quatro para sua irmã 
+Joanna Correa, e as outras quatro para o capitão Antônio Lopes Saraiva e o Padre Mateus 
+de Miranda digo o Padre Mateus de Mendonça tomando umas, e outras onde as houver 
+naqueles confins, e tendo respeito ao que alegam, e consta da informação do Provedor da 
+
+Fazenda de Sua Majestade nesta Capitania. Hei por bem de dar aos sobreditos Lourenço 
+de Brito Corrêa Joana Correa o capitão Antônio Lopes Tovar digo Antônio Lopes Soeiro, 
+e o padre Matheus de Mendonça de sesmaria as ditas doze léguas de terra na mesma 
+forma, e parte em que as pedem sem prejuízo de terceiro para eles seus herdeiros 
+ascendentes, e descendentes em virtude da ordem que Sua Majestade foi servido mandar 
+dar para semelhantes datas pelo que mando ao Provedor da Fazenda Real desta Capitania 
+e mais pessoas delia a que tocar lhe deem e façam dar posse das ditas terras que serão 
+demarcadas por seus rumos, e confrontações na forma que se costuma fazer, e lhes deixem 
+possuir, e a seus herdeiros ascendentes, e descendentes, e delas usar como cousa sua 
+própria com todos seus logradouros entradas e saídas serventias matos lenhas aguas 
+pastos, e tudo o mais pertencentes a ela sem das ditas terras pagar tributo ou pensão 
+alguma mais que o dízimo a Deus como é uso, e costume neste Estado. E esta carta que 
+por firmeza de tudo lhe mandei passar se cumprirá tão inteiramente como nela se contém, 
+e se registará nos livros a que tocar dada em esta vila de Olinda sob meu sinal e selo de 
+minhas armas aos 23 dias do mês de fevereiro o capitão Marcos Velho Gondin secretário 
+destas capitanias a fez ano do nascimento de nosso Senhor Jesus Cristo de 1660. André 
+Vidal de Negreiros. Registada a folhas cinquenta e cinco verso do Livro primeiro dos 
+Registos da Secretaria deste -181 — Governo. Velho. Registe-se. De La Penha. Fica 
+registrada a Carta de Sesmaria atrás no Livro quarto dos Registos a que toca da Fazenda 
+de Sua Majestade desta capitania de Pernambuco a folhas vinte e oito verso. Recife vinte 
+e seis de fevereiro de seiscentos e sessenta. Silveira. Confirmo esta Doação Bahia, e Junho 
+o primeiro de seiscentos e sessenta. Barreto. Registou-se neste Livro em quatro do dito 
+mês e ano. Gonçalo Pinto de Freitas. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 20, pp. 177-
+181. 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

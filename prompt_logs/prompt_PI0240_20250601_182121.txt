@@ -1,0 +1,133 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0240
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Moreira de Macedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "18-07-1741",
+  "Localidade": "Fazenda Piedade",
+  "Ribeira": "Riacho Lages",
+  "Confrontantes": "Fazenda Botica, Fazenda Rios de Baixo",
+  "Justificativas": "Não possuía as terras com justo título; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia obter as terras por meio da concessão de título.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0240"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0240
+Carta de concessão a Francisco Moreira de Macedo - 18/07/1741
+Registro de uma data e sesmaria de 3 léguas de terra de comprimento e uma de
+largura, concedida a Francisco Moreira de Macedo na Fazenda chamada Piedade.
+ 
+João de Abreu de Castelo Branco, etc. Faço saber aos que esta minha carta de data e
+sesmaria virem, que Francisco Moreira de Macedo morador na capitania do Piauí, me
+representou que ele situava uma fazenda chamada Piedade, em que se apascentava
+bastante número de gado que possuía; e porque desta terra não tinha título justo para a
+senhorear, me pedia fosse servido conceder-lhe em nome de Sua Majestade 3 léguas de
+terra de comprimento e uma de largura no dito sítio, começando o comprimento na
+extrema da fazenda chamada Botica e a largura começando do Riacho chamado
+Lages, para a fazenda chamada Rios de Baixo, lhe completando no comprimento a
+falta que houver na largura e da mesma sorte inteirando-se nesta a falta que houver
+para o dito comprimento. Ao que atendendo, e a informação do provedor-mor da
+Fazenda Real, e ser em utilidade da mesma Fazenda o cultivarem-se as terras neste
+Estado. Hei por bem conceder-lhe, em nome de Sua Majestade, 3 léguas de terra de
+comprimento e uma de largura na forma que pede, no sítio e confrontações acima
+mencionadas, com as condições expressadas nas Reais Ordens. E com a de não fazer
+trespasse por meio algum em nenhum tempo a pessoa alguma religião ou comunidades,
+sem
+primeiro
+dar parte na
+Casa
+da
+Fazenda
+ao provedor-mor
+dela, para se
+me
+fazer presente e ver se se deve ou não consentir no tal traspasse, sob pena de ficar nula
+esta data e se poder conceder novamente ao outrem. E nesta forma se lhe passa carta
+para que o dito Francisco Moreira de Macedo haja, logre, e possua as ditas terras como
+coisa sua própria, e todos os seus herdeiros, ascendentes e descendentes, sem pensão,
+nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas
+houver e lavrar. A qual concessão lhe faço, não prejudicando a terceiro, nem
+a Sua Majestade se no dito sítio quiser mandar fundar alguma vila reservando os paus
+reais que nelas houver para embarcações, com declaração que mandará confirmar esta
+data por Sua Majestade dentro dos 3 anos primeiros seguintes. E dará caminhos
+públicos, e particulares aonde forem necessários para pontes, fontes, portos e pedreiras;
+e se demarcará ao tempo da posse por rumo de corda e braças craveiras, como é estilo,
+e Sua Majestade manda. E outrossim, não sucederão nelas religiões, nem pessoas
+eclesiásticas por nenhum título que seja; e acontecendo possuí-las, será com o encargo
+de pagar delas dízimos a Deus, como se fossem possuídas por seculares. E faltando a
+qualquer destas cláusulas, se haverão as ditas terras por devolutas, e se darão a quem as
+denunciar como o dito Senhor ordena. Pelo que mando ao provedor-mor da Fazenda
+Real, mais ministros e pessoas a que tocar, na forma referida e com as condições
+expressadas,
+deixem
+ter
+e
+possuir
+as ditas terras
+ao dito Francisco
+Moreira
+de
+Macedo para ele e todos os seus herdeiros, ascendentes e descendentes. Cumpram e
+guardem esta minha carta de data tão inteiramente como nela se contém, a qual lhe
+mandei passar por mim assinada, e selada com o sinete de minhas armas, que se
+registrará
+onde tocar, e se passou por duas vias. Dada na cidade de São Luís
+do Maranhão aos 18 de julho, ano do nascimento de Nosso Senhor Jesus Cristo de 1741.
+Eu, José Gonçalves da Fonseca, secretário do Estado a fiz escrever. João de Abreu
+Castelo Branco.
+-
+Fim da Transcrição  -
+
+Referências:
+APEP, Livro 10, Doc. 86, fls. 66v-67.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

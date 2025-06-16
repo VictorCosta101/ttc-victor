@@ -1,0 +1,114 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0438
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Maria Pinto de Azevedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-05-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"tem povoado o sítio de São Domingos\".\r\n",
+  "Localidade": "Sítio São Domingos",
+  "Marcos Geográficos": "Riacho do Viado",
+  "Ribeira": "Longá",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Determinou-se também que a sesmeira deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0438"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0438
+Carta de Concessão a Maria Pinto de Azevedo - 07/05/1728
+Agnello Neves do Espírito Santo, chefe do Arquivo público do estado, anexo à Biblioteca e
+Arquivo público do Pará, por nomeação efetiva, etc.
+Certifico de ordem do doutor diretor da Biblioteca e Arquivo público do Pará, a requerimento
+verbal do doutor Bernardo Borges Pires Leal, subprocurador geral do estado do Piauí, que
+revendo o livro número 4 de registro de cartas de datas e sesmarias arquivado
+nesta
+repartição, encontrei as folhas 54 o registro da carta concedida à dona Maria Pinto de
+Azevedo, em 7 de maio de 1728, e o qual é do teor seguinte:
+Registro de outra de sesmaria de 3 léguas de comprido e uma de largo a Dona Maria
+Pinto de Azevedo
+João da Maia da Gama, etc. Faço saber aos que esta minha carta de data e sesmaria virem que
+a mim me enviou a dizer por sua petição Dona Maria Pinto de Azevedo que ela, suplicante,
+tem povoado o sítio de São Domingos, que principia o riacho chamado do Viado, correndo
+pelo rio do Longá abaixo, e porque não tem data e carece de 3 léguas de terra de [sic]
+comprido e uma de largo, que é o que pouco mais ou menos terá no dito sítio mencionado. Me
+pedia fosse servido conceder-lhe, por data de sesmaria, e atendendo, eu, em requerimento ao
+que respondeu o provedor-mor da Fazenda Real, a quem se deu vista, e ser em utilidade da
+Real Fazenda. Hei por bem de conceder a suplicante 3 léguas de terra de comprido e uma de
+largo no sítio e lugar que pede, sem prejuízo de terceiro e com as mais condições expressadas
+nas Reais Ordens para que as haja, logre e possua, como coisa sua própria e todos as seus
+herdeiros, ascendentes e descendentes, sem pensão, nem tributo algum mais que o dízimo a
+Deus Nosso Senhor dos frutos que nelas tiver. A qual concessão lhe faço não prejudicando a
+terceiro e reservando os paus reais que nelas houver para embarcações, com declaração que
+mandará confirmar esta carta por Sua Majestade dentro de 3 anos primeiros seguintes, e a
+povoará e cultivará de maneira que deem frutos e lucros, e dará caminhos públicos e
+particulares aonde forem necessários para pontes, fontes, portos e pedreiras, e se demarcará ao
+tempo da posse por rumo de corda e braças craveiras como é estilo e Sua Majestade manda. E
+outrossim, não poderão suceder nelas religiões por nenhum título, e acontecendo possuí-las
+será com obrigação de pagarem dízimos e ficarão sujeitos a todos os mais encargos que Sua
+Majestade, que Deus o guarde, lhe quiser mandar impor de novo [sic]. E faltando a qualquer
+dessas cláusulas se haverão por devolutas e se darão a quem as denunciar, como o dito senhor
+ordena. Pelo que mando o provedor da Fazenda Real, mais ministros e pessoas a que
+pertencer, que na forma referida e com as condições declaradas deixem ter e possuir as 3
+léguas de terra a dita Dona Maria Pinto de Azevedo e seus herdeiros, como coisa própria.
+Cumpram e guardem esta minha carta tão inteiramente como nela se contém, e sem dúvida
+alguma. A qual lhe mandei passar por mim assinada e selada com o sinete de minhas armas,
+que se registrará aonde tocar e se passou por duas vias. Dada nesta cidade de São Luís do
+Maranhão aos 7 dias do mês de maio, ano do nascimento de Nosso Senhor Jesus Cristo de
+1728 anos. Manuel Roiz Tavares, secretário do estado a sub escreveu. //João da Maia da
+Gama//
+E eu, Agnello Neves do Espírito Santo, chefe do arquivo público do estado a fiz escrever,
+certifico e assino. Belém, 16 de agosto 1929 // Agnello Neves do Espírito Santo // E/E por
+mim. 16/08/1929 // A. N. E. Santo // visto. // Martinho Pinto //
+
+- Fim da Transcrição –
+Referência:
+APEP, Livro 4, Doc. 69, fls. 54 - 55
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

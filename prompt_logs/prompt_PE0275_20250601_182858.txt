@@ -1,0 +1,89 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0275
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0382",
+  "Nome": "Agostinho Coelho Meireles, Antônio Bulhões da Cunha, Antônio da Costa da Silva, Antônio Vaz, Francisco da Costa Carneiro, Manuel Alves, Manuel de Torres, Salvador Ramalho, Simão Duarte",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-10-1683",
+  "Observações da sesmaria": "Os suplicantes requereram 20 léguas de terras no rio Gaitá, distante 22 léguas do mar, na fronteira das terras do alferes Antônio Batista pelo sul da ribeira do Cotunguba e ribeira das Pedras em direção ao rio Ipojuca e os limites das terras do mestre de campo Antônio Curado Vidal. e Bernardo Quinteiro de Melo.",
+  "Localidade": "Rio Ipojuca",
+  "Marcos Geográficos": "Rio Gaitá, Rio Ipojuca",
+  "Ribeira": "do Cotunguba",
+  "Confrontantes": "Antônio Curado Vidal, Bernardo Quinteiro de Melo",
+  "Observações da petição": "Os suplicantes não informaram a quantidade de léguas requeridas.",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 9,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0275"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0275 
+ 
+Carta de concessão de Antônio da Costa da Silva, Agostinho Coelho Meireles, Antônio 
+de Bulhões da Cunha, Antônio Vaz, Manoel de Torres, Salvador Ramalho, Francisco da 
+Costa Carneiro, Manuel Alves e Simão Duarte de 12/10/1684 
+Sesmaria de 20 léguas de terra no sítio e vizinhança do rio Gaitá, distante da beira mar 
+vinte e duas léguas pouco mais ou menos começando nas cabeceiras das terras do alferes 
+Antônio Batista, tendo por distrito do norte para o sul da ribeira chamada Cotunguba, e a 
+ribeira das pedras pelo dito rio Gaitá acima, de uma e outra parte, correndo pelas ditas 
+ribeiras até suas nascenças, e daí buscando o rio Ipojuca pelas cabeceiras das terras do 
+mestre de campo Antônio Corado Vidal, da parte do norte até entestar com as do capitão 
+Bernardo Quinteiro de Melo, concedida em 9 de outubro de 1683 a Antônio  da Costa da 
+Silva, Agostinho Coelho Meireles, o licenciado Antônio de Bulhões da Cunha, Antônio 
+Vaz, Manoel de Torres, Salvador Ramalho, Francisco da Costa Carneiro, Manuel Alves 
+e Simão Duarte moradores em Santo Amaro e seus herdeiros, pelo Governador Dom João 
+de Souza, sem foro ou pensão alguma, salvo o dízimo a Deus. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.106. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

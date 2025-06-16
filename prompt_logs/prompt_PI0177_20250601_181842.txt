@@ -1,0 +1,181 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0177
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Gaspar Neves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "05-03-1731",
+  "Observações da sesmaria": "Esta sesmaria compõe um conjunto de 8 sítios concedidos, os quais são encontrados na mesma carta de concessão. Por razões quantitativas, optará-se por separar os 8 sítios em 8 códigos diferentes, vinculados ao mesmo sesmeiro, Manuel Gaspar Neves. Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Fazenda Boa Esperança",
+  "Ribeira": "Gurgueia",
+  "Justificativas": "As terras eram devolutas; As terras eram habitadas pelo gentio; Pretendia apascentar gado; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras e sítios requeridos.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. Além disso, não foi possível identificar o escrivão responsável pela redação e assinatura do documento, sendo bem provável que o governador a tenha feito de punho próprio.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0177"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0177
+Carta de concessão a Manoel Gaspar Neves - 05/03/1731
+Registro de uma carta de data e sesmaria passada ao capitão Manoel Gaspar Neves de
+umas terras no Piauí
+Alexandre de Sousa Freire etc. Faço saber aos que esta minha carta de data e sesmaria virem
+que a mim me enviou a dizer por sua petição o capitão Manoel Gaspar Neves, cidadão desta
+cidade de São Luís do Maranhão, e nela morador com casa, mulher e muitos filhos, que ele
+suplicante
+intenta
+comprar
+as
+fazendas
+de
+gados
+vacuns,
+e
+cavalares que possui
+o Excelentíssimo Senhor Alexandre de Sousa Freire  em todo distrito da capitania do Piauí,
+sujeita
+a
+jurisdição
+do
+Governo Geral deste Estado
+a
+saber
+duas fazendas no
+lugar
+chamado vulgarmente O Riacho, uma delas com o mesmo nome Riacho, e assim também a
+outra fazenda chamada a do Sobrado que dista das ditas primeiras uma légua pouco mais ou
+menos, e também outra fazenda que tem por nome a do Jacaré que dista da outra légua e meia
+pouco mais ou menos, e assim mais outra fazenda chamada a do Juriju, que dista da outra
+duas léguas pouco mais ou menos, todas de gados vacuns, e no rio do Gurguéia também deste
+distrito, a outra fazenda chamada A Grande, e outra a que chamam Gameleira distante da
+outra 3 léguas pouco mais ou menos, e outra chamada a [Tairira] que dista da outra 3 léguas
+pouco mais ou menos, e outra por nome Boa Esperança, distante da outra 5 léguas pouco
+mais ou menos todas de gados vacuns, exceto esta que é de criação de [gados] das
+quais fazendas se acham 3 sítios delas por hora despovoados por causa do gentio do Corso
+que as tem infestado, e o suplicante as intenta reedificar e tornar a povoar com [ilegível] ditos
+gados por serem muitos e não tem outra parte perto daquela capitania [onde] possuir e situar e
+criar os quais [seus] ditos [gados] estava e esteve sempre [ilegível] Excelentíssimo Senhor
+cultivando com os seus feitores por título de doação [curadores] que dos ditos gados lhe
+fizerão
+os
+senhores
+seus sogros, sendo já de antes, possuídas pelos senhores avós
+da Excelentíssima  Senhora D. Leonora Maria de Castro em terras que então eram possuídas
+por Domingos Afonso Sertão em tempos que eram as ditas terras sujeitas ao Governo a
+jurisdição do distrito de Pernambuco e ao [ilegível]  por ordem de Sua Majestade, que
+Deus guarde,
+[ilegível]
+e
+passaram para o
+distrito
+da
+jurisdição do
+dito
+Governo Geral deste Estado onde se não acham datas algumas das sobreditas terras e sítios
+em que os ditos gados estam situados por coisa se acham devolutas e o suplicante necessita
+delas para continuar na criação dos ditos gados assim nas de que de presente estão povoadas
+como nas que de presente estão povoadas, digo, como nas que se desertaram por causa da
+infestação ao dito gentio atendida há muito considerável utilidade que se redunda a Real
+Fazenda nos rendimentos dos seus dízimos, além da utilidade pública que resulta ao bem
+comum desta cidade da capitania, e quer o suplicante haver título por carta de data
+e sesmaria das ditas terras e sítios em que estão situados, assim e na mesma forma em que
+sempre
+os
+possuíram
+tanto
+o
+dito Excelentíssimo Senhor como
+os
+senhores
+seus antepassados com a mesma posse já em memorial de mais de 50, 80 e 100 anos com a
+mesma quantidade de terra proporcionada para os ditos sítios por ter o suplicante muitos
+filhos para que os houver mister: e portanto me pedia fosse servido mandar-lhe passar carta
+de data e sesmaria das sobreditas terras na dita capitania nos mesmos lugares e sítios
+mencionados nesta em nome de Sua Majestade para haver delas confirmação Real, e
+receberia mercê. E atendendo eu as razões que alegava como também ao que respondeu
+o provedor da Fazenda Real, procurador régio e escrivão dela a quem se deu vista, como
+também estarem as ditas terras povoadas de grande quantidade de gados vacuns e cavalares
+com posse imemorial e a grandessíssima utilidade que tem a Real Fazenda de Sua Majestade
+nos copiosos dízimos que das ditas fazendas se pagam; hei por bem de conceder em nome
+
+de Sua Majestade, que
+Deus guarde, os
+sítios
+de que faz
+menção
+na
+sua petição assim
+os que se acham povoados como aqueles que por causa do gentio bravo que os infestavam
+onde estam, para que o suplicante as haja de cultivar de sorte que deem fruto, com a condição
+de não fazer trespasse por meio algum em nenhum tempo a religião ou comunidade sem que
+primeiro dê parte na Casa da Fazenda ao provedor dela para se me fazer presente se se deve
+ou não consentir no tal trespasse, e com as condições expressadas nas Reais Ordens, sob pena
+de ficar a dita carta de data nula para se poder novamente conceder a outrem. E nesta forma
+se lhe passa carta de data e sesmaria dos referidos sítios para   que as haja, logre e possua
+como coisa sua própria para todos os seus herdeiros, ascendentes e descendentes, e assim e da
+mesma forma que há tantos anos foram e são possuídas sem pensão nem tributo algum
+mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver reservando os paus reais
+que nelas tiver para embarcações, e mandará confirmar esta carta por Sua Majestade,
+que Deus guarde, dentro de 3 anos primeiros seguintes, e dará caminhos públicos e
+particulares donde forem necessários para pontes, fontes, portos e pedreiras, e faltando a
+qualquer destas cláusulas se darão a quem as denunciar como o dito Senhor ordena. Pelo que
+mando ao  provedor da Fazenda Real, e mais ministros a que tocar que na forma referida e
+com as condições declaradas, deixem ter e possuir os ditos sítios ao dito capitão Manuel
+Gaspar Neves para ele e todos os seus herdeiros, ascendentes e descendentes, como coisa sua
+própria. Cumpram e guardem esta minha carta de data e sesmaria tão inteiramente como nela
+se contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas armas
+que se registará onde tocar, e se passou por duas vias. Dada nesta cidade de São Luís
+do Maranhão aos 5 dias do mês de março de 1731. //Alexandre de Sousa Freire//.
+- Fim da Transcrição -
+Observações do documento:
+O nome original do sesmeiro, como consta no documento, é Manoel Gazpar Nevez.
+Referência:
+APEP, Livro 6, Doc. 33, fls. 13v-14.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

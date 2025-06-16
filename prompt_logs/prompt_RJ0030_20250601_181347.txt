@@ -1,0 +1,149 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0030
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Sousa (RJ 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "10-11-1578",
+  "Data da concessão": "10-11-1578",
+  "Observações da sesmaria": "Título original: Carta de sesmaria da terra de Antônio de Sousa que estão em Saracuruna onde acaba o mestre das obras.\r\nO pedido de sesmarias foi realizado por Antônio de Sousa e seu cunhado, sendo o último de nome incógnito.",
+  "Ribeira": "Rio Saracuruna",
+  "Confrontantes": "Antônio de Mariz",
+  "Justificativas": "Não tinha terras; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0030"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0030 
+ 
+Carta de concessão de sesmaria da terra de Antônio de Sousa de 10 de novembro de 1578 
+ 
+Forra 
+Saibam, quantos este instrumento de carta de sesmaria virem que, no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1578 anos em os 10 dias do mês de novembro do dito ano em esta 
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, em as pousadas de mim 
+escrivão adiante nomeado, apareceu Antônio de Sousa, morador nesta dita cidade, e me 
+apresentou uma petição com um despacho em ela do Senhor Salvador Correia de Sá, capitão e 
+governador desta dita cidade e capitania deste dito Rio de Janeiro, por El Rei nosso Senhor e 
+da qual petição e despacho dela o traslado é o seguinte. Diz Antônio de Sousa, que ele veio do 
+Reino por sua vontade [...] para esta terra, por ser a terra muito ruim se foi para a Capitania de 
+São Vicente onde casou, depois disso se tornou para esta terra com sua mulher e filhos, onde 
+não tem terra para poder fazer sua fazenda, pede a Vossa Senhoria lhe faça mercê de lhe dar de 
+sesmaria duas léguas para ele e um cunhado seu, casado, as quais serão pelo rio arriba de 
+Saracuruna, começará de medir onde acabar o mestre das obras da banda onde está Antônio de 
+Mariz, convém a saber pelo dito rio arriba duas léguas correndo pelo rumo da agulha e com 
+seus recôncavos para dentro outro tanto que receberá mercê. Despacho do Senhor capitão e 
+governador. Dou aos suplicantes e cunhado viver a esta capitania e fique ele só [...] Hoje, 17 de 
+novembro de 1578. Salvador Correia de Sá. E tudo visto pelo dito capitão e governador a 
+petição do dito suplicante Antônio de Sousa e o que lhe pedia, visto ser justo e havendo respeito 
+ao proveito que se pode seguir acerca da República, ao serviço de Deus, do Rei nosso Senhor e 
+pôr a terra se povoar, deu ao dito suplicante e a seu cunhado a terra contida no dito seu despacho 
+[...] dito seu cunhado e não vindo lhe deu [...] metade da dita terra como no dito despacho mais 
+largamente é declarado, portanto, estava vaga e devoluta e, por aproveitar em matos maninhos, 
+para ao dito suplicante aproveitar e fazer sua fazenda de roças como diz nela, não sendo já dada 
+a outra pessoa 1°, a qual terra está no dito lugar, tem a dita medida e parte pelas ditas 
+confrontações como em sua petição diz, e a braça, porque se medir a dita terra, será braça 
+craveira scilicet a saber suas varas de medir por uma, como no Reino se costuma de medir, o 
+que tudo lhe deu e concedeu na maneira abaixo declarada segundo forma do regimento do 
+governador geral Antônio Selema de que o traslado é o seguinte. § As terras que estiverem 
+dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que 
+não forem dadas a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que 
+se deram as não aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, 
+
+estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis 
+a cada pessoa ou pessoas mais terra que aquela que segundo sua possibilidade, as quais terras 
+assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado de 
+nosso Senhor Jesus Cristo, e com as condições do foral dado às ditas terras e de minha 
+ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou se digo ou pessoas 
+residem na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos três 
+anos, e que dentro no dito tempo as não possam vender, nem enlear, e se algumas pessoas a que 
+forem dadas terras no termo da dita cidade e as tiverem perdidas pôr as não aproveitarem, e vá 
+tornarem a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste 
+capítulo, o qual se trasladará nas cartas porque as assim derdes, e isto se entenderá não sendo 
+as ditas terras dadas a outras pessoas com as quais condições, obrigações e declarações, lhe 
+assim deu o dito Senhor capitão e governador a dita terra ao dito Antônio de Sousa suplicante, 
+pela dita maneira, pela sua guarda e segurança lhe mandou ser feita esta carta, pela qual manda 
+que ele haja a posse e senhorio dela para sempre, para si e todos seus herdeiros e sucessores 
+ascendentes e descendentes que após dele vierem com tal condição e entendimento, que ele 
+rompa e aproveite a dita terra e a frutifique da dada desta em três anos primeiros seguintes e, 
+outrossim, fará de maneira que [...] seu cunhado vindo que dentro em quatro meses tenha feito 
+na dita terra algum proveito e plantado alguns mantimentos, e como forem cumpridos os ditos 
+três anos que a tenha aproveita- [f.11- fragmento indevidamente aqui inserido.] do como dito é, 
+porque não o fazendo ele assim, passados os ditos três anos, se dará a dita terra que aproveitado 
+não tiver de sesmaria a quem a pedir para aproveitar, e lhe será deixado alguns logradouros do 
+que aproveitado não tiver e, sobretudo, pagará mil réis para as obras do Concelho, e dará pela 
+dita terra caminhos e serventias ordenados e necessários para o Concelho, para fontes, pontes, 
+viveiros e pedreiras que necessários forem a qual terra, pela dita maneira lhe assim deu e 
+concedeu em nome do Rei nosso Senhor fora e isenta, sem foro, nem tributo, nem pensão 
+somente de tudo o que lhe nosso Senhor der nela de suas novidades, lavouras e criações pagará 
+os dízimos a Deus conforme ao dito regimento, o que tudo manda que se cumpra e guarde sem 
+dúvida, nem embargo algum que lhe a ele seja posto e que esta carta seja registrada dentro em 
+1 ano nos livros da Fazenda Real, como o dito Senhor manda em seu regimento sob as penas 
+em ele contidas e declaradas e porque o sobredito Antônio de Sousa, suplicante, tudo prometeu 
+de ter, manter e cumprir, pela dita maneira lhe mandou passar esta carta de sesmaria, e por 
+verdade eu, Pero da Costa, escrivão das sesmarias e tabelião das notas por El Rei nosso Senhor 
+nesta cidade de São Sebastião, e seus termos que este instrumento de carta de sesmaria escrevi 
+
+e tomei nos meus livros das notas e tombo das cartas das sesmarias desta dita cidade, que em 
+meu poder ficam onde o dito instrumento fica assinado por o dito Senhor capitão e governador. 
+ 
+ 
+-fim da transcrição 
+ 
+Observações do documento:  
+Título original: Carta de sesmaria da terra de Antônio de Sousa que estão em Saracuruna onde 
+acaba o mestre das obras. 
+A palavra “Saracoruma” foi alterada para “Saracoruna”. 
+ 
+Referências : 
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 126-129. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79) 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0094
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Colégio Jesuíta da Bahia ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "23-10-1687",
+  "Observações da sesmaria": "A sesmaria possuía oito léguas em quadra e estava localizada nos campos que chamavam de Camamu.",
+  "Localidade": "Camamu",
+  "Observações da petição": "Os sesmeiros afirmaram que já ocupavam aqueles terras há mais de 120 anos e próximo a elas tinha campos que eles queriam aproveitar. O pedido foi feito pelo reitor do colégio, o padre Diogo Machado.",
+  "Justificativas": "Pretendia criar gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador afirmou que normalmente a quantidade de terras pedidas não era usual, mas como seria para a companhia de Jesus, poderia conceder essa extensão maior, pois eles precisariam delas. O governador-geral concordou com o parecer do procurador.",
+  "Observações das exigências": "Determinou-se que não poderiam vender a sesmaria sem autorização régia.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita",
+  "referencia": "BA0094"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria concedida aos religiosos da companhia desta cidade de uns campos 
+de Camamú 
+Mathias da Cunha do conselho de Sua Majestade. Faço saber aos que este alvará de doação e 
+sesmaria virem que havendo respeito do que por parte do Padre Diogo Machado da companhia 
+de Jesus, reitor do colégio desta cidade e mais religiosos dele, se me enviou a representar por 
+sua petição acerca de que por sesmaria que tinham havia mais de 120 anos possuía o dito colégio 
+as terras que chamavam de Camamú pelas doações que delas tinham que por nelas partindo-se 
+as ditas terras haviam uns campos capazes de povoarem com gado o que seria de benefício do 
+dito colégio e da casa e aldeias daquela administração. Me pediu [que] lhes fizesse mercê da 
+sesmaria ao dito colégio os ditos campos; ou estivessem ou não dentro da demarcação as ditas 
+dadas. E receberá mercê. E vista a declaração que o suplicante for pela que consta haver inteira 
+notícia da quantidade de terra que terão estes campos e que somente havia certeza de os haver 
+e nelas pedia o suplicante ao colégio 8 léguas em quadra, partindo com as datas das terras que 
+a petição alegava ter no Camamú: com declaração, quando se medissem e demarcassem se não 
+achassem dentro das ditas terras do colégio se até [?] nos campos mais vizinhos a ela que 
+estivessem na dita demarcação em qualquer termo para onde comessem os ditos campos. E o 
+parecer do procurador da Fazenda Real que é o seguinte: suposto que Sua Majestade tem 
+duvidado estas doações a 4 e 5 léguas, como conta suas procurações; contudo, isto se não deve 
+entender nos religiosos que necessitam de maior largura de terras para se pedirem sustentar 
+comodamente e assim não duvida que se conceda ao suplicante e aos seu colégio as léguas que 
+pede. Bahia, 17 de outubro de 1687 // Pita // E vista também a informação do provedor-mor da 
+dita Rel Fazenda, cujo teor é o que se segue: senhor, 64 léguas de terras quadradas, as 8 em 
+quadra que o colégio pede de sesmaria, informo a Vossa Senhoria que mandará o que convier 
+e for servido debaixo das condições costumadas da lei das sesmarias. Bahia, 23 de outubro de 
+1687 // Francisco Lamberto // Hei por bem e lhe faço mercê em nome de Sua Majestade dar de 
+sesmaria, como pela presente faço, as 8 léguas de terra em quadra que se declara na parte que 
+aponta em sua petição, aos quais concedo ao dito colégio, debaixo das condições e cláusulas 
+das sesmarias como parece aos ministros da Fazenda, não prejudicando a terceiro, com todas 
+as suas águas, matas, testadas, logradouros e mais úteis que nelas se achar com foro livre e 
+isento de pensão salvo o dizimo a ordem de Cristo que pagarão pelos frutos que delas houver, 
+e por elas serão obrigados a dar caminhos públicos e particulares para fontes, pontes e pedreiras 
+e de as cultivar no tempo da lei e regimento. Pois nesta conformidade lhe as concedo, 
+demarcando-as no termo da posse, citados os éreos de que se enviará certidão para registro nos 
+livros da Fazenda Real, se lhes não poderão vender nem alhear sem ordem expressa de Sua 
+Majestade. Pelo o que ordeno a todos os ministros de justiça, a que o conhecimento deva ou 
+possa pertencer [que] lhe façam dar posse real, efetiva e atual na forma costumada debaixo das 
+cláusulas acima referidas e as mais da ordenação título de sesmarias para a firmeza do que lhe 
+mandei passar a presente sob o sinal e selo de minhas armas do qual se registrará nos livros da 
+secretaria do Estado, Fazenda Real dele e nos escrivão de sesmaria, se assegurará e cumprirá 
+tão pontual e inteiramente com nele se contém sem dúvida, embargo nem contradição alguma. 
+// Antônio Garcia // a fez nesta cidade do Salvador, Bahia de todos os santos aos 23 dias do mês 
+de outubro, ano de 1687 // Bernardo Vieira Ravasco // a fiz escrever // Mathias da Cunha // selo 
+// Alvará de doação de sesmaria de 8 léguas de terra em quadra que Vossa Senhoria teve por 
+bem de conceder em nome de Sua Majestade e mais religiosos dele na parte que aponta e da 
+maneira que se contém em sua petição como parece aos ministros da Fazenda, não prejudicando 
+a terceiro e com mais cláusulas neles nele in[?] pelo respeito acima declarado para Vossa 
+Senhoria ver. Registrado no livro segundo dos registros da secretaria do Estado do Brasil, que 
+tocava as folhas 153. Bahia, 24 de outubro de 1687 // Ravasco // Registre-se. Bahia, 30 de 
+
+outubro de 1687 // Lamberto Manuel da Silva Lemos a registrou-se em dito dia, mês e ano 
+acima. // Francisco Dias Amaral //. 
+ 
+- Fim de Transcrição - 
+ 
+Observações: 
+- O nome do suplicante consta no documento original como: “Padre Diogo Machado” 
+ 
+Referências 
+AN, Códice, fls. 297v – 298v. 
+Numeração original no livro: 305 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

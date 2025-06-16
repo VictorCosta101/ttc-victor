@@ -1,0 +1,141 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0092
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Alvares Silva, Francisco de Oliveira (BA2), João Valério de Oliveira (BA1), Manuel de Oliveira Porto (BA1), Manuel Ribeiro (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "14-02-1687",
+  "Observações da sesmaria": "A sesmaria possuía 100 léguas quadradas dividida igualmente entre cinco sesmeiros e estava localizada na banda sul do rio Paraguaçu.",
+  "Localidade": "Banda sul do rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Observações da petição": "Os suplicantes não especificaram as medidas de comprimento e de largura, apenas solicitaram 20 léguas quadradas para cada um.",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; Tinha cabedal; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações das Justificativas": "Alegaram que as terras eram habitadas por muitos índios.",
+  "Observações do deferimento e da concessão": "O procurador mencionou que um dos suplicantes era o seu filho e que todos eles tinha bastante cabedal, por isso poderiam ser concedidas as 20 léguas quadradas para cada um.",
+  "Observações das exigências": "Determinou-se não alargar as medidas concedidas; determinou-se mandar certidão de como as tem povoado;",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "referencia": "BA0092"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro do alvará de doação e sesmaria de Manoel de Oliveira Porto, João Valério de Oliveira, 
+Antônio Alvares Silva, Francisco de Oliveira, Manuel Ribeiro e sargento-mor Francisco Ramos 
+Coelho, 20 léguas de terra quadradas em cada um no rio a que chamavam sencurá, que está na 
+banda do sul do rio de Paraguaçu. 
+ 
+Dom Antônio Luís de Souza Telo e Menezes. Faço saber aos que este alvará de doação e 
+Sesmaria virem que Manoel de Oliveira Porto, João Valério de Oliveira, Antônio Alvares Silva, 
+Francisco de Oliveira, Manuel Ribeiro e sargento-mor Francisco Ramos Coelho me 
+representaram por petição que no rio Paraguaçu, na banda do sul, havia entre rio que chamavam 
+sencurá que se metia no dito rio Paraguaçu e as terras que nele havia de uma banda a outra [que] 
+estavam devolutas e habitadas de muito gentio, e eles, suplicantes, as queriam descobrir e meter 
+nelas gado a custa de suas fazendas e risco de suas fabricas, tratando de fazer pazes com todo 
+o gentio que nelas habitava com o qual descobrimento lhe era necessário fazer., Terá despesa e 
+sendo povoadas teria Sua Majestade, que Deus guarde, muitos rendimentos em seus dízimos, 
+pelo que me pediram [que] se fizesse mercê dar de sesmaria toda a terra que houveram capazes 
+de criar gados no dito rio Sencurá de uma banda a outra de sua barra até a sua nascença que 
+ficam da banda do sul do Paraguaçu. E receberão mercê. E vista a resposta do procurador da 
+Fazenda Real, que é a seguinte: Não tenho dúvida a que se deem de Sesmaria aos suplicantes, 
+a cada um a parte inserta léguas  que pudessem aproveitar e povoar conforme suas 
+possibilidades e com as condições da lei costumada, e a réplica que ficam os suplicantes que é 
+a seguinte: o suplicante Manoel de Oliveira Porto e 3 filhos seus acima nomeados são pessoas 
+de cabedal que podem povoar todas as terras que se acharem no dito rio sencurá como é notório 
+nesta cidade a quantidade de gados que tem sem terras nenhuma, assim mais o sargento-mor, 
+meu filho, a que nomeado é Manuel Ribeiro, tem agencia e cabedal para poderem povoar as 
+ditas terras, e como assim pedem 20 léguas cada um dos suplicantes se a houver no dito rio 
+securá de sua barra até sua nascença da foz do dito rio com 5 léguas de sertão. E a informação 
+do provedor-mor da dita Real Fazenda que também é a que se segue: Senhor, a informação que 
+Vossa Excelência me denunciou se fizesse sobre o particular desta petição me pareceu dizia que 
+o suplicante eram pessoas de cabedal e gados capazes de povoarem as terras que pediram, que 
+são 20 léguas quadradas para cada um. Vossa Excelência mandara o que for servido. Bahia, 13 
+de fevereiro de 1687 // Francisco Lamberto //  Hei por bem de conceder e dar de sesmaria, como 
+pelo presente faço em nome de El Rei, meu senhor, 20 léguas de terra quadradas para cada um 
+dos suplicantes com o parece ao provedor-mor da Fazenda Real na parte em que as pedem e 
+confrontam em sua petição e replica não prejudicando a terceiro com todas as águas, campos, 
+matos, testadas, logradouros e mais úteis que nelas se acharem, tudo forro, livre e isento de 
+pensão ou tributo algum, salvo dízimos a Ordem de Cristo que pagarão dos frutos que nelas 
+houverem e por elas serão obrigados a dar caminhos públicos a todos e a particulares, para 
+fontes, pontes, portos e pedreiras, e de as cultivarem e aproveitarem no termo da lei e Regimento, 
+com pena de se lhes tirarem por devolutas, tomando posse cada um na parte que lhe couber, 
+sem alargarem e traspassarem logo a outro sócio sob mesma pena, mandarão certidão de como 
+as tem povoado dentro no dito termo, para se registrar nos livros da Fazenda Real e se 
+demarcarão ao tempo da posse, citados os éreos pelo que mando a todos os ministros de justiça 
+a que o conhecimento deste com direito deva, ou possa pertencer, lhes façam dar a posse real, 
+efetiva e atual na forma costumada, debaixo das cláusulas acima referidas e as mais da 
+Ordenação, título das sesmarias. Para firmeza do que lhes mandei passar o presente sob meu 
+sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria deste Estado, Fazenda 
+Real // selo // e nos do escrivão das sesmarias, e nos mais a que tocar, e se guardará e cumprirá, 
+tão pontual e inteiramente como nele se contém, sem dúvida, embargo, nem contradição alguma 
+
+// Antônio Garcia // o fez nesta Cidade do Salvador, Bahia de Todos os Santos aos 14 dias do 
+mês de fevereiro, ano de 1687 // Bernardo Vieira Ravasco o fiz escrever // Marquês das minas 
+// Selo // Registrada no livro dos registros da Secretaria do Estado do Brasil, a que toca a folhas 
+47. Bahia, 15 de fevereiro de 1687 // Ravasco // Despacho do provedor-mor.  Registre-se. Bahia, 
+26 de fevereiro de 1687 // Lamberto // Antônio Lopes // a registrou no dito dia // Francisco Dias 
+do Amaral // 
+ 
+ 
+- Fim da Transcrição - 
+ 
+ 
+ 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Manoel de Oliveira Porto; 
+“João Valerio de Oliveira”; “Antonio Alvares Silva”; “Francisco Ramos”; “Francisco Ramos 
+Coelho” 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 288 – 289 
+Numeração original no livro: 300 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

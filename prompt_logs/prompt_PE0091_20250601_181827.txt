@@ -1,0 +1,229 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0091
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0156",
+  "Nome": "Domingos Fernandes de Sousa (RN01)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Herdada",
+  "Data da petição": "29-01-1758",
+  "Data da concessão": "29-11-1758",
+  "Observações da sesmaria": "O suplicante requereu duas braças de comprimento e duas braças de largura na vila do Recife, nos beco Tocolombó, na rua da Senzala. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Beco Tocolombó, Rua da Senzala",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse efetiva; Mandou-se dar posse real",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que no beco do Tocolombó o preto Miguel Dias do Rosário possuía alguns chãos que pagava foro ao padre Agostinho Diniz. Miguel Dias do Rosário, posteriormente, requereu as terras que pagava foro como sesmaria e entrou em juízo contra o padre. O suplicante tornou-se herdeiro das terras por legado do padre e por ter arrematado em praça pública as ditas terras. A dívida dos foros, no entanto, também foram herdadas pelo suplicante. Por este motivo, o suplicante requereu as terras para si com desconto do pagamento do foro atrasado. ",
+  "Observações do deferimento e da concessão": "No deferimento, o provedor da Fazenda Real, João do Rego Barros, escutou as partes envolvidas, o suplicante e os herdeiros de Miguel Dias do Rosário, acerca do processo remetido para a Relação da Bahia sobre o pagamento do foro e do senhorio das terras requeridas. ",
+  "Observações das exigências": "O governador Luís Diogo Lobo da Silva determinou o pagamento do foro anual de 600 réis por braça concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0091"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0091
+Carta de doação e sesmaria de Domingos Fernandes de Sousa - 29/11/1758
+Carta de doação de sesmaria de Domingos Fernandes de Sousa de 23 palmos e
+meio de terra de frente e 105 de fundo no beco do Tocolombó, da rua da Senzala
+desta vila do Recife.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade Fidelíssima, comendador da
+comenda de Santa Maria de Moncôrvo da Ordem de Cristo, governador e capitão general
+de Pernambuco e mais capitanias anexas e etc. — Faço saber aos que esta carta de doação
+e sesmaria virem, que Domingos Fernandes de Sousa me fez o requerimento do teor e
+maneira seguinte: — Ilustríssimo e Excelentíssimo Senhor. — Diz Domingos Fernandes
+de Sousa, morador nesta vila do Recife, que estando o padre Agostinho Diniz senhor e
+possuidor de uns chãos no beco do Tocolombó, na rua da Senzala desta vila do Recife,
+lhe pagava o foro deles o preto Miguel Dias do Rosário, por umas benfeitorias de umas
+paredes velhas que o preto tinha em ditos chãos, ao depois o dito Miguel Dias pediu os
+ditos chãos por sesmaria e deu causa ao dito padre [para] correr demanda no juízo do
+geral, e falecido o dito padre, por legado pertenceu ao suplicante os ditos chãos, de que
+resultou ser penhorado o suplicante pela Fazenda Real desta capitania pelos foros, por ser
+falecido o preto e ser o suplicante também já senhor das benfeitorias, por arrematação que
+o suplicante fez em praça, pelas haver posto nela, por execução Manoel Dias Pereira e
+posto o suplicante se defendesse da penhora, foi condenado na Provedoria da mesma
+Fazenda Real a pagar os foros vencidos, por ser senhor das benfeitorias, por julgarem os
+chãos pertencerem a Fazenda Real, pelo que pagou os foros que devia o dito Miguel Dias
+e ficou reconhecendo ser foreiro a dita Fazenda Real, pelo que ficou pagando o foro que
+pagava o dito Miguel Dias, e tem pago até o presente, que por todos são vencidos 20 anos
+e tem pago 28.200 réis, como consta dos conhecimentos em forma que junta, cuja terra
+são 23 palmos e meio de frente, como consta dos mesmos conhecimentos, e como o dito
+Miguel Dias por não pagar perdeu a terra que lhe foi aforada e o suplicante tem pago
+todos os foros e tem as benfeitorias que pretende, se lhe dê a dita terra por sesmaria, com
+o mesmo foro que se deu ao dito Miguel Dias —. Pede a Vossa Excelência seja servido
+haver por bem de lhe mandar passar carta de sesmaria dos ditos 23 palmos e meio de terra
+concedida a princípio ao dito preto Miguel Dias, e com o mesmo foro visto o suplicante
+ter pago todos os vencidos até 29 de janeiro de 1758. Como consta dos ditos
+conhecimentos, em forma que apresenta de ter e possuir o suplicante as benfeitorias que
+
+foram do dito Miguel Dias — E receberá mercê —. Na qual petição sendo-me
+apresentada, mandei por despacho de 2 de março do presente ano, informar ao provedor
+da Fazenda Real, ouvindo o escrivão dela e procurador da mesma, e pedindo informações
+ao dito escrivão e mandando responder o procurador, o fizeram na forma seguinte -
+Senhor provedor da Fazenda Real -. A Miguel Dias do Rosário, homem preto, se deu por
+sesmaria 23 palmos e meio de terra de frente e 105 de fundo no beco do Tocolombó, da
+rua da Senzala, com o foro de 60 réis cada palmo por ano em 29 de janeiro de 1732, e só
+pagou o dito preto 6 anos de foro e tem o suplicante pago 20 anos do mesmo foro, que se
+completaram em 29 de janeiro do presente ano, como se mostra dos conhecimentos em
+forma juntos, a vista do que parece, que como é falecido o dito Miguel Dias do Rosário e
+seus herdeiros, não pagarão o dito foro no espaço de 20 anos, que o tem pago o suplicante
+se deve haver a dita terra por devoluta para se dar por sesmaria ao mesmo suplicante,
+sendo notificado os ditos herdeiros para assim o terem entendido e a nenhum tempo
+poderem alegar ignorância: Vossa Mercê mandará o que for servido. Recife, 3 de março
+de 1758.— Bernardo Pereira de Vasconcelos —. Senhor provedor da Fazenda Real —
+Deve o suplicante mostrar por onde lhe pertencem os ditos chãos, aliás, devem ser
+ouvidos os herdeiros; é o que me parece, Vossa Mercê informará o que for servido =
+Recife, 4 de março de 1758 - Caetano Ribeiro Soares — . Com a qual informação e
+resposta deu o dito provedor o despacho seguinte: Digam os herdeiros ou viúva do
+suplicado e torne - Barros - Senhor provedor da Fazenda Real - Os 23 palmos e meio de
+frente e 105 de fundo de terra no beco do Tocolombó, da parte da Senzala, que vem
+dizendo o suplicante que meu defunto marido Miguel Dias do Rosário perdera a posse e
+domínio que nelas tem, pelas ter aforado a Sua Majestade por este não ter pago 20 anos
+de foros que devia delas, que se completaram em 29 de janeiro do presente de 1758. Por
+cujo motivo se devia aforar ao suplicante pelos ter pago; se o suplicante o fez, foi a ver se
+por este meio se podia apossar delas, porquanto intentou o suplicante outros como fosse
+vir, dizendo que as tais terras eram suas por legado que lhe deixara o padre Agostinho
+Diniz, de que teve sentença contra si nesta Provedoria em fevereiro de 1749, sendo
+provedor da Fazenda Real o capitão-mor João do Rego Barros, desta apelou o suplicante
+para a Bahia, e são passados 9 anos sem nunca despedir a tal apelação, como tudo há de
+constar da dita sentença que se acha no cartório do escrivão dos feitos da Fazenda,
+Manoel Thomé da Silva e Câmara; e estando isto nestes termos, sem se liquidar a quem
+pertencia a dita terra por final sentença distado, não podia meu finado marido pagar nem
+eu por sua morte, e assim por nenhum dos motivos se lhe podem dar as tais terras que
+
+com tanto dispêndio e trabalhos entulhou meu defunto marido a sua custa por ser maré - é
+o que posso informar a Vossa Mercê - Recife, 12 de março de 1758 — Margarida Pereira
+de Brito — E com a dita informação, respostas e certidão do meirinho da Provedoria —
+Pedro Paulo de Faria, de 13 do mesmo mês e ano, em que certifica haver dado a dita
+petição a referida viúva do sobredito Miguel Dias do Rosario, por ser a sua a que lá deu
+como nesta se vê, me informou o mesmo provedor o seguinte: Ilustríssimo e
+Excelentíssimo Senhor. — Para informar a Vossa Excelência, mandei ouvir os herdeiros
+do suplicado, a quem se havia feito data dos chãos que pretende o suplicante, com o
+fundamento, digo, suplicante por devolutos e da resposta junta da viúva do suplicado, se
+vê impugnar o requerimento do suplicante com o fundamento de ter seu marido
+entulhado a sua custa os chãos do que se trata e de não ter pago o foro deles pelo litígio
+que corria o suplicante com a Real Fazenda, sobre os mesmos chãos em que já houve
+sentença contra o suplicante, de que apelou e até o presente não tem mostrado
+melhoramento, sendo [decursos] bastantes anos, mas como o suplicante as pede agora por
+devolutas, com isto mesmo confessa serem da Real Fazenda e se de toda que neles tinha
+termos, em que me parece que como o suplicante mostra pelos conhecimentos juntos ter
+pago os foros dos ditos chãos e declaro ter neles benfeitorias, sem que a dita viúva se
+tenha oposto nem requerido conservação de sua posse, se podem dar por devolutas com o
+mesmo foro e fianças do estilo, Vossa Excelência porém determinará o que for mais justo.
+— Recife, 31 de julho de 1758 — João do Rego Barros
+—. Com cuja informação
+mandei por despacho do 1.° de agosto do mesmo ano, que apresentando o suplicante a
+sentença que houve, na razão do estado sobre esta matéria, lhe deferiria estando em
+termos, em virtude da qual me apresentou dita sentença e o requerimento seguinte: —
+Ilustríssimo e Excelentíssimo Senhor. — Diz Domingos Fernandes de Souza, morador
+nesta vila do Recife, que fez a súplica junta a Vossa Excelência, para haver por bem de
+lhe mandar passar carta de sesmaria em 23 palmos de terra concedidos ao princípio a
+Miguel Dias e com o mesmo foro, visto o suplicante ter pago todos os vencidos até 29 de
+janeiro do presente ano de 1758, como constava dos conhecimentos, em forma que
+apresentava ter e possuir o suplicante a benfeitoria que está no dito solo, por título
+também que apresentou e com informação do escrivão da Fazenda Real e resposta do
+provedor da mesma Fazenda, do doutor procurador dela e dos interessados herdeiros do
+dito Miguel Dias, foi deferido que apresentando o suplicante a sentença que houve na
+razão do estado sobre esta matéria, lhe deferiria estando em termos que cujos termos
+apresenta o suplicante, a sentença da razão pela qual se mostra provada a súplica do
+
+suplicante e dela resulta o direito de se lhe conceder a dita sesmaria, pois o dito Miguel
+Dias caiu em comisso e a dita sua mulher, por não terem pago os foros até o tempo que
+foi penhorada a benfeitoria do suplicante, e o mais daí por diante e o suplicante tudo tem
+pago, e como se lhe tem seguido o incômodo de ter pago os foros e pago daí por diante e
+o prejuízo de não ter tido rendimento da benfeitoria, por serem umas paredes velhas em
+que o suplicante pretende, se faça edificar casas e estas sempre com ônus de pagar foro,
+parece deve ter o cômodo [...] Pede a Vossa Excelência seja servido por bem de dar por
+devoluta com o mesmo foro e fiança do estilo ao suplicante a dita terra, na forma que
+responde o provedor da Fazenda Real na sua resposta inclusa, vistas as sentenças desta
+Provedoria e da [relação] do estado não reservar direito algum a viúva do preto Miguel
+Dias e querer o suplicante fazer a sua benfeitoria para ter algum rendimento com que
+pague os mesmos foros e receberá mercê — E sendo por mim visto o dito requerimento,
+mandei por despacho de 2 de outubro do dito ano, que vista a resposta do suplicante
+informou o procurador da Fazenda e este o fez na forma seguinte —. Ilustríssimo e
+Excelentíssimo Senhor. — Pelo documento junto, se mostra que sendo penhoradas as
+benfeitorias do preto Miguel, pintor que tinha feito nos chãos de que se trata pelos foros
+vencidos, os arrematou o suplicante nesta Provedoria da Fazenda Real desta capitania,
+como consta do auto da arrematação junta e é sem dúvida que com as ditas benfeitorias
+assim arrematadas, também passou o domínio útil dos mesmos chãos, que não podia ficar
+separado do domínio do possuidor das benfeitorias e casa edificada no mesmo solo, pelo
+que parece que justamente requer o suplicante que se lhe dê título das mesmas terras
+como infiteuta que ficou, sendo pela razão sobredita a qual está em seu vigor, sem que
+obste a resposta da mulher do dito preto Miguel, pintor — também junta por que ainda
+que ao suplicante não compete o direito de propriedade dos ditos chãos pelo princípio,
+toda ação que diz lhe havia feito o padre Agostinho Diniz, de que teve sentença contra si
+no ano de [1749], não lhe pode tirar o direito que lhe dá a arrematação sobredita, para
+pretender o senhorio útil dos mesmos chãos de que a sobredita viúva ou quaisquer outros
+herdeiros do infiteuta Miguel pintor tinha nos ditos chãos antes da sobredita arrematação;
+pelo que me parece se lhe deve passar a carta pedida, salvo sempre o direito de terceiro;
+Vossa Excelência mandará o que for servido. Recife, 11 de novembro de 1758. Caetano
+Ribeiro Soares — E sendo me apresentada a dita informação, mandei ultimamente por
+despacho de 17 de novembro do mesmo ano se lhe passasse carta de sesmaria na forma
+que aposta o provedor da Fazenda na sua última informação, em virtude do qual e do
+Capítulo 15 do Regimento deste Governo: - Hei por bem dar de sesmaria ao suplicante
+
+em nome de Sua Majestade os 23 palmos e meio de terra de frente e 105 de fundo,
+pedidos em suas petições e na forma da última informação do provedor da Fazenda, a
+qual terra se havia dado de sesmaria ao preto Miguel Dias do Rosário no beco do
+Tocolombó da rua da Senzala, e pagará por cada palmo em cada ano de foro 60 réis e não
+passará a religiões por nenhum título, salvo se for com os mesmos encargos que os tem
+os seculares, cujos palmos de terra os possuirá e gozará ele e seus herdeiros ascendentes e
+descendentes, como sua que fica sendo de hoje para todo sempre não prejudicando a
+terceiro e o almoxarife da Fazenda Real, tomará a razão desta data para bem da
+arrecadação dos foros e será obrigado a requerer confirmação de Sua Majestade, na forma
+que o dito senhor ordena em suas reais ordens. Pelo que ordeno aos ministros da Fazenda
+e Justiça e mais pessoas a que tocar, cumpram e façam cumprir esta carta de doação de
+sesmaria, como nela se contém, e farão dar ao suplicante a posse real, efetiva e atual, na
+forma costumada e debaixo das cláusulas referidas e das mais da ordenação titulada e
+livros de sesmarias. Em firmeza do que lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se registrará na secretaria deste governo,
+provedoria da Fazenda Real e mais partes a que tocar — Dada nesta praça do Recife de
+Pernambuco, aos 29 dias do mês de novembro — Francisco Gonçalves Reis Lisboa a fez
+- Ano do Nascimento de Nosso Senhor Jesus Cristo de 1758 — O Secretário — Antonio
+José Corrêa a fez escrever —. Luiz Diogo Lobo da Silva —.
+- Fim da Carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 114 - 121.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

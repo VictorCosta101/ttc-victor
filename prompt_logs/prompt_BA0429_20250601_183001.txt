@@ -1,0 +1,74 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0429
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Batista de Araújo ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "17-05-1729",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada em Porto Seguro, no lugar chamado Curimaxatiba, indo em direção ao sertão daquela capitania. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Localidade": "Porto Seguro",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1728, acredita-se que foi o donatário de Porto Seguro, José Mascarenhas Lencastre, que concedeu a sesmaria.\r\n",
+  "Observações das exigências": "Determinou-se que não alheasse as terras antes de aproveitá-las.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "referencia": "BA0429"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+João Batista de Araújo - Alvará de 17 de Maio de 1729. - 1 légua de largo, e 3 de 
+comprido. - Em Porto Seguro no lugar chamado Curimaxatiba 1 légua de terra de largo, 
+no dito lugar, fazendo peão nele, e 3 léguas de comprido para o Sertão, com todas as 
+águas, campos, pastos, e mais logradouros úteis; salvo prejuízo de terceiro. - Condições: 
+As antecedentes. 
+ 
+Referência: Código 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 
+155. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

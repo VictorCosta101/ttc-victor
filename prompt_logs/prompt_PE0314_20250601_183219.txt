@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0314
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "André de Albuquerque ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-05-1595",
+  "Observações da sesmaria": "O suplicante requereu a concssão de chãos devolutos na vila de Olinda a çeste das casas de Simão Rodrigues Cardoso e de Manuel Fernandes Coimbra.",
+  "Localidade": "Vila de Olinda",
+  "Confrontantes": "Simão Rodrigues Cardoso, Manuel Fernandes Coimbra ",
+  "Observações da petição": "O suplicante não informou a quantidade de terras requeridas. ",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0314"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0314 
+ 
+Dom Felipe de Moura, capitão e governador loco-tenente nesta capitania de 
+Pernambuco, da nova Lusitânia, nesta vila de Olinda, mas partes do Brasil pelo muito 
+ilustre senhor Jorge de Albuquerque Coelho, capitão e governador desta dita capitania 
+e governança por el Rei nosso senhor etc. -  Faço saber a quantos esta minha carta de 
+doação for mostrada e o conhecimento dela com direito pertencer que a mim me 
+enviou a dizer por sua petição André de Albuquerque por escrito, da qual o traslado é 
+o seguinte: diz André de Albuquerque que ele não tem chãos em que possa fazer umas 
+casas e que na rua primeira desta vila estão uns chãos devolutos que nunca foram 
+dados a pessoa alguma e que fossem nunca fizeram neles benfeitorias nenhuma e 
+sempre estiveram e estão devolutos e sem título algum os quais partem da banda do 
+leste com casas em que vive Simão Rodrigues Cardoso, e do leste com casas e chãos 
+que foram de Manoel Fernandes Coimbra e do sul com a dita rua, e do norte com 
+quem forem éreos, me pedia lhe fizesse mercê mandar passar carta em forma do chão 
+que se achar na declaração que o suplicante faz. E receberia mercê. O que visto por 
+mim pus na dita petição. Passem carta em forma ao suplicante André de Albuquerque 
+dos chãos que pede, em Olinda 07 de janeiro de 1593 anos. Dom Felipe. Pela qual hei 
+por bem e me apraz dar e doar os ditos chãos ao dito André de Albuquerque como 
+nesta minha carta se contém para ele e sua mulher, filhos, netos e herdeiros 
+ascendentes e descendentes e para todas as pessoas que após eles vierem e deles os 
+houverem para que deles e me eles façam como de coisa sua que já é forros, livres e 
+isentos sem foro, nem tributo algum, somente dízimo a Deus do que neles lavrar e 
+houver, porque assim me aprove lhe mandei passar a presente dada nesta vila de 
+Olinda sob meu sinal e selo das armas do senhor governador que ante mim serve, aos 
+23 dias do mês de fevereiro, Gabriel Damil, escrivão das datas das terras e sesmarias, 
+águas e demarcações de toda esta capitania pelo senhor governador dela, o fiz ano de 
+1593 anos. Dom Felipe de Moura. A qual carta, eu Manoel Álvares escrivão das datas 
+e demarcações de toda esta capitania pelo senhor governador Jorge de Albuquerque 
+Coelho trasladei do próprio que fica em meu poder, bem e fielmente sem coisa que 
+dúvida faça e consertei comigo e com o tabelião aqui assinado, e assinei de meu sinal 
+que tal é, hoje 19 de maio de 1595 anos. Manoel Álvares. Consertado por mim 
+escrivão. Manoel Álvares. O qual traslado, eu Gaspar Pereira, publico tabelião do 
+judicial e notas da vila de Olinda, e seus termos, capitania de Pernambuco, por Duarte 
+
+de Albuquerque Coelho, capitão e governador dela por sua Majestade etc. - Fiz, 
+trasladei das próprias cartas, a que me reporto, que ficam em meu poder e com elas 
+consertei e com o oficial abaixo assinado, subscrevi e assinei em razão em Olinda aos 
+21 dias do mês de novembro de 1619 anos. Gaspar Pereira. Consertado por mim 
+tabelião. Gaspar Pereira. E comigo tabelião. Simão Varella. - Petição. Gaspar Pereira, 
+que a ele lhe é necessário para bem de sua justiça o traslado dos papéis que oferece. 
+Pede a vossa mercê mande se lhe der, tornando-lhes os próprios. Receberá mercê. 
+Despacho. De se lhe como pede. Soares. Traslado do que se pede. Diz André de 
+Albuquerque que ele tem para a mata do Brasil uma dádiva de terra de campina para 
+pastos conforme as datas e doações que dela tem, hora se quer valer delas. Pede a 
+vossa mercê manda a qualquer tabelião o vá meter de posse para que se possa 
+desforçar de alguma força que lhe foi feita. E receberá mercê. Despacho. De se lhe 
+posse como pede e nas matérias de força proceda na forma de ordenação, a 5 de 
+setembro de 1604. 
+- Fim da Transcrição - 
+ 
+ 
+Referência: Livro do Tombo de São Bento de Olinda, p. 223v-224v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

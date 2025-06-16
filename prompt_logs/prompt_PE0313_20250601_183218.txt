@@ -1,0 +1,90 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0313
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "André de Albuquerque ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-04-1592",
+  "Observações da sesmaria": "O suplicante requereu terras localizadas nas Tabocas, próximas as terras que já possuía no mesmo lugar (PE 0312).",
+  "Localidade": "Tabocas",
+  "Observações da petição": "O suplicante não informou a quantidade de terras requeridas. ",
+  "Justificativas": "Pretendia apascentar gado; ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0313"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0313 
+ 
+Pedro Homem de Castro, fidalgo da casa del Rei nosso senhor, capitão e governador, 
+loco-tenente nesta capitania de Pernambuco da nova Luzitânia, nesta vila de Olinda, 
+nas partes do Brasil pelo muito ilustre senhor Jorge de Albuquerque Coelho, meu tio 
+capitão e governador desta capitania e governança por el Rei nosso senhor etc. - Faço 
+saber que a mim enviou a dizer André de Albuquerque por sua petição por escrito, da 
+qual o traslado é o seguinte: Diz André de Albuquerque que na mata do Brasil, em um 
+lugar limite que chamam Tabocas, para a banda do sertão, por ser muito remota e 
+longe, estão uns capins que não servem senão pra pastos de gado me pedia que lhe 
+fizesse mercê de toda a quantidade e campinas que há. E receberá mercê. Ao que pus 
+por meu despacho que passem carta ao suplicante das terras que pede a 04 de agosto 
+de 1591 anos, Castro. Pelo qual hei por bem e me apraz de dar e doar ao dito André 
+de Albuquerque a dita terra para ele e sua mulher, filhos e netos, herdeiros 
+ascendentes e descendentes e para todas as pessoas que após eles vierem e deles 
+houverem  para que dela e nela façam o que lhes bem convier, como de coisa sua 
+própria que já é deste dia para todo sempre, forra, livre e isenta sem fora, nem tributo 
+algum, somente dízimo a Deus do que nela lavrar e houver, e porque assim me aprove, 
+lhe mandei passar a presente dada nesta vila de Olinda sob meu sinal e selo das armas 
+do senhor meu tio que perante mim serve, aos 06 dias do mês de abril, Gabriel Damil, 
+escrivão das datas das terras e sesmarias, águas e demarcações de toda esta capitania 
+pelo senhor governador dela, afiz ano de 1592 anos. Pagou desta e notas nada. Pedro 
+Homem de Castro, Ao selo nada. João de Figueiredo.  
+- Fim da Transcrição - 
+ 
+ 
+Referência: Livro do Tombo de São Bento de Olinda, p. 223v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

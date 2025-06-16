@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RN0297
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "RN 0909",
+  "Nome": "Benedita Maria Ponce, Francisco Ponce de Leon",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio Grande do Norte",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-04-1701",
+  "Data da concessão": "15-04-1701",
+  "Observações da sesmaria": "Os suplicantes requereram três léguas de comprimento e uma légua de largura no rio Assú, das fronteiras das terras de Leonardo Bezerra Cavalcante e Cosme Bezerra Monteiro (RN 0296) pelo rio Assú acima. ",
+  "Localidade": "Rio Assú ",
+  "Marcos Geográficos": "Rio Assú",
+  "Ribeira": "do Assú",
+  "Confrontantes": "Leonardo Bezerra Calvacante e Cosme Bezerra Monteiro (RN 0296)",
+  "Justificativas": "As terras eram devolutas; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a concessão fosse feita de acordo com as Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Observações das exigências": "O governador Fernando Martins Mascarenhas de Lencastre ordenou que os suplicantes pagassem o foro de 4 mil réis por légua requerida. O governador Fernando Martins Mascarenhas de Lencastre ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos.  O governador Fernando Martins Mascarenhas de Lencastre ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "RN0297"
+}
+
+            **Conteúdo Original** (extrato):
+            RN 0297 
+Carta de doação e sesmaria de Francisco Ponce de Leon e dona Benedicta Maria Ponce – 
+15/04/1701 
+ 
+CARTA DE DOAÇÃO E SESMARIA DE D. FRANCISCO PONCE DE LEON, E DONA 
+BENEDICTA MARIA PONCE 
+Dom Fernando Martins Mascarenhas de Lencastro, do Conselho de Sua Majestade, governador e 
+capitão general de Pernambuco e mais capitanias anexas etc. Faço saber aos que esta carta de 
+doação de sesmaria virem que Dom Francisco Ponce de Leon e dona Benedicta Maria Ponce me 
+representaram a petição cujo teor é o seguinte: Senhor. Diz dom Francisco Ponce de Leon e dona 
+Benedicta Maria Ponce, moradores neste Recife, que eles suplicantes tem na Ribeira do Assú vários 
+currais de gado, para pasto do qual são muito diminutas as terras que possuem, e porque pelo rio 
+acima há terra capazes e devolutas para a criação dos ditos gados, e como lhes são elas necessária a 
+eles suplicantes três léguas de terras, começando a sua confrontação na testada onde acabarem as 
+terras do sargento-mor Leonardo Bezerra Cavalcante e Cosme Bezerra Monteiro, pelo dito rio do 
+Assú acima por uma e outra banda inteirando-se sempre das ditas três léguas de terra nas que forem 
+capazes, rejeitando as inúteis, pagando foro ou pensão que Sua Majestade, que Deus guarde, manda; 
+pelo que pede a Vossa Senhoria lhes faça mercê conceder em nome de Sua Majestade as ditas três 
+léguas de terra de sesmaria, para cada um deles suplicantes, na forma declarada = E receberá mercê. 
+Informe o provedor da Fazenda Real, ouvindo o procurador da Coroa. Recife, 13 de abril de 1701. 
+“Barros”. Não tenho dúvida a que se concedam aos suplicantes seis léguas de terra de sesmaria 
+ordinárias e contínuas, na parte que confrontam em sua petição, pagando o foro conforme a ordem 
+de Sua Majestade e a sentença da junta; e sendo a data feita na forma da Ordenação Livro 4.º título 
+43. Recife, 13 de abril de 1701. “Pereira”. Haja vista o procurador da Coroa. Recife, 13 de abril de 
+1701. “Barros”. Não tenho dúvida a que se concedam aos suplicantes seis léguas, digo. Com a 
+resposta ao procurador da Coroa, informo a Vossa Senhoria para mandar o que for servido. Recife, 
+13 de abril de 1701. João do Rego Barros, digo, João de Barros Rego. Passe carta de sesmaria na 
+forma da ordenação e como parece ao procurador da Coroa. Recife, 14 de abril de 1701. “Rubrica”. 
+E havendo, outrossim, respeito ao que Sua Majestade, que Deus guarde, me encomenda no capítulo 
+15 do regimento deste Governo; hei por bem de lhes fazer mercê dar aos suplicantes acima 
+nomeados, como pela presente dou, de sesmaria em nome de Sua Majestade, nos mesmos lugares, 
+partes e testadas que confrontam em sua petição três léguas de terra para cada um, na forma da 
+ordem do dito senhor, pagando pelo foro por cada légua quatro mil réis, os quais povoarão as ditas 
+terras no tempo de cinco anos, aliás se darão por devolutas e as possuirão e gozarão os ditos 
+suplicantes, eles e seus herdeiros, não prejudicando a terceiro com todas as suas matas, águas, 
+campos, testadas, logradouros e mais uteis que nelas se acharem; e serão obrigados a dar pelas ditas 
+terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a requerer a confirmação 
+
+desta data por Sua Majestade, que Deus guarde, em termo de dois anos. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias a que o conhecimento desta carta pertencer, lhe 
+façam dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das 
+mais da ordenação título das sesmarias, que por firmeza de tudo lhe mandei passar a presente por 
+mim assignada e selada com o sinete de minhas armas, a qual se registrará nos livros da secretaria 
+deste Governo, nos da Fazenda Real e nos do foral real de que é escrivão o capitão Manoel da 
+Cunha, e sem esta precisa circunstância, não terá vigor nem validade alguma a presente carta de 
+sesmaria. Dada neste Recife de Pernambuco, em os 15 dias do mês de abril = Lizardo Ribeiro 
+Monção a fez = ano de 1701. O secretario Antônio Barboza de Lima a fez escrever. Dom Fernando 
+Martins Mascarenhas de Lencastro. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 70 - 72. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

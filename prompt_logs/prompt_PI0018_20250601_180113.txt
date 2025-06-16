@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0018
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Luís Ferreira da Silva Rosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "26-11-1763",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Fazenda de Santa Cruz, freguesia da vila de Campo Maior",
+  "Marcos Geográficos": "[Vargem do Morossi], ribeira do Mato e riacho O Riachão",
+  "Ribeira": "Marataoan",
+  "Confrontantes": "Fazenda do Riachão, fazenda de Santo Antonio de Jatobá",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Exigiu-se ainda que \"havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0018"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0018
+Carta de concessão de Luiz Ferreira da Silva Rosa de 26/11/1763
+Carta de data de sesmaria passada a Luiz Ferreira da Silva Rosa
+João Pereira Caldas alcaide mor, comendador de São Mamede de Troviscoso na Ordem
+de Cristo, coronel de cavalaria e governador da capitania de São José do Piauí etc. Faço
+saber aos que esta minha carta de data e sesmaria virem que Luís Ferreira da Silva Rosa,
+morador no distrito da vila de Campo Maior, me representou haver compra de uma sorte
+de terras que se acha povoada com gados vacuns e cavalares, chamada Santa Cruz,
+situada na ribeira da Marataoan, a qual terá três léguas de comprido e uma de largo,
+principiando o seu comprimento acima da [Vargem do Morosi] da ribeira do Mato e
+continuando pelo rio da Marataoan e riacho chamado Riachão, até as extremas da
+fazenda do Riachão de Duarte Afonso, e a largura para uma e outra parte do referido rio,
+confrontando pela parte do norte com os matos dele e pela parte do sul com a fazenda
+de Santo Antônio de Jatobá. E porque não tinha título das ditas terras e o pretendia
+haver por carta de data e sesmaria, me pedia lhe mandasse passar. Ao que atendendo e a
+informação dos oficiais da Câmara e do desembargador provedor da Fazenda Real que
+foram ouvidos e se lhe não ofereceu dúvida alguma e ser em utilidade da mesma Real
+Fazenda cultivarem-se as terras neste Estado. Hei por bem conceder-lhe em nome de
+Sua Majestade por data e sesmaria as ditas três léguas de terra de comprido e uma de
+largo, na forma e parte que pede com as confrontações que declara e com as condições
+expressadas nas Reais Ordens e com a de não fazer trespasse por meio algum, em
+nenhum tempo, a pessoa alguma religião ou comunidade sem que primeiro dê parte na
+Casa da Fazenda ao provedor dela para se me fazer presente e ver se deve ou não
+consentir no tal trespasse, sob pena de ficar nula esta data e se poder novamente
+conceder a outrem. E nesta forma se lhe passa carta para que o dito Luís Ferreira da
+Silva Rosa haja, logre e possua as sobreditas terras como coisa sua própria para ele e
+seus herdeiros, ascendentes e descendentes sem pensão nem tributo algum mais que o
+dízimo a Deus nosso senhor dos frutos que nelas tiver e lavrar, a qual concessão lhe faço
+não prejudicando a terceiros nem a Sua Majestade, se no dito sítio quiser mandar fundar
+alguma vila reservando os paus reais que nelas houver para embarcações. Com
+declaração que mandará confirmar esta data por Sua Majestade dentro de três anos
+primeiros seguintes, e cultivará as ditas terras de maneira que deem frutos, e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes, portos e
+pedreiras, e havendo nas mesmas terras estrada pública que atravesse rio caudaloso que
+necessite de barca para se atravessar, não só ficará de ambas as bandas do tal rio a terra
+que baste para uso público, mas sim também de um lado delas meia légua de terra em
+quadra para comodidade pública e de quem arrendar a dita passagem, e se demarcará ao
+tempo da posse por rumo de corda e braças craveiras como é estilo e Sua Majestade
+manda. E outrossim, não poderão suceder nelas religiões nem outras pessoas
+eclesiásticas por nenhum título que seja e acontecendo possuí-las será com o encargo de
+pagarem delas dízimos a Deus como se fossem possuídas por seculares, e faltando a
+quaisquer destas cláusulas, se haverá as ditas terras por devolutas e se darão a quem as
+denunciar, como o mesmo Senhor ordena. Pelo que mando ao provedor da Fazenda
+
+Real, mais ministros e pessoas a que tocar, que na forma referida e com as condições
+expressadas, deixem ter e possuir as sobreditas terras ao dito Luís Ferreira como coisa
+sua própria para sí e seus herdeiros, ascendentes e descendentes; e que assim também
+cumpram e guardem esta minha carta de data e sesmaria tão inteiramente como nela se
+contém; a qual lhe mandei passar por mim assinada e selada com a sinete de minhas
+armas, que se registrará nas partes aonde tocar e se passou por duas vias. Dada nesta
+cidade de Oeiras do Piauí aos 26 dias do mês de novembro do ano do nascimento de
+nosso senhor Jesus Cristo de 1763. E eu, Joaquim Antunes, secretário do governo desta
+capitania a fiz // João Pereira Caldas // lugar do selo // Carta de data de sesmaria porque
+Vossa Senhoria há por bem conceder em nome de Sua Majestade a Luís Ferreira da
+Silva Rosa três léguas de terra de comprido e uma de largo no sítio chamado a Fazenda
+da Santa Cruz na ribeira da Marataoan entre os matos do rio deste nome e das fazendas
+de Santo Antônio do Jatobá e Riachão de Duarte Afonso na freguesia da vila de Campo
+Maior com as confrontações que na mesma carta se declaram. Para Vossa Senhoria ver.
+-Fim da carta-
+Referência:
+APEPI, Livro 1, fls. 16 – 17v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

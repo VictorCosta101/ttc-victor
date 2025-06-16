@@ -1,0 +1,173 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0023
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0148",
+  "Nome": "Duarte Ramos Furtado, José da Cunha (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "27-07-1757",
+  "Data da concessão": "20-12-1758",
+  "Observações da sesmaria": "Foram suplicadas duas de léguas de terra, iniciando nas cabeceiras das terras de Francisco Vieira da Cunha, partindo acima do rio Paraíba até completar as duas quadras.",
+  "Localidade": "Rio Paraíba.",
+  "Marcos Geográficos": "Rio Paraíba.",
+  "Confrontantes": "Francisco Vieira da Cunha",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O governador, Luís Diogo Lobo da Silva, requereu um parecer da Câmara das Alagoas.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE-AL0023"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0023
+Carta de doação e sesmaria de Duarte Ramos Furtado e José da Cunha -
+20/12/1758
+Carta de doação de sesmaria do alferes do palmar - Duarte Ramos Furtado e seu
+irmão José da Cunha, como nela se declara.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade Fidelíssima, comendador da
+comenda de Nossa Senhora, digo, de Santa Maria de Moncorvo da Ordem de Cristo,
+governador e capitão general de Pernambuco e mais capitanias anexas e etc. — Faço
+saber aos que esta carta de doação e sesmaria virem, que Duarte Ramos Furtado e seu
+irmão, José da Cunha, ambos alferes de infantaria paga do Palmar, me fizeram o
+requerimento do teor seguinte: — Ilustríssimo e Excelentíssimo Senhor — Dizem
+Duarte Ramos Furtado e seu irmão, José da Cunha, alferes ambos da infantaria paga do
+Palmar, que da cópia da ordem de Sua Majestade junta, consta conceder o dito senhor a
+cada alferes da dita infantaria, por data e sesmaria duas léguas de terras em quadro no
+dito lugar, descendendo este ou outra qualquer pessoa de outra pessoa, que fosse
+restaurada do mesmo lugar, e como da sentença também junta consta serem os
+suplicantes filhos legítimos do defunto João Gonçalves Furtado, alferes e um dos
+restauradores do mesmo lugar, e assim claro fica compreenderem-se os suplicantes na
+mesma graça, para conexão das ditas duas léguas de terra em quadro que o mesmo
+senhor concede ao dito seu pai, imploram a Vossa Excelência que em virtude da dita
+ordem, por data de sesmaria, lhe conceda as ditas duas léguas de terra em quadro,
+principiando estas das cabeceiras das terras de Francisco Vieira da Cunha, pelo rio
+acima chamado Paraíba, por uma e outra parte ou por um e outro lado, servindo o
+mesmo rio de sua baliza até completarem as ditas duas léguas em quadro além da
+conexão da dita graça, se acham estas devolutas e os suplicantes as querem ocupar e
+cultivar para cujo efeito = Pedem a Vossa Excelência seja servido em atenção a dita
+ordem e da sentença de justificação de filiação junta, conceder-lhe a mesma graça das
+ditas duas léguas de terra em quadro, na forma requerida; assim mandando-lhes passar
+sua carta de data de sesmaria delas, na forma costumada — E receberá mercê — No
+qual requerimento, sendo-me apresentado mandei por despacho em de 27 de julho de
+1757, informar o provedor da Fazenda que o satisfez na forma seguinte: — Informe o
+escrivão da Fazenda = Barros = E este o fez dizendo: Senhor provedor da Fazenda Real
+
+—. Pela ordem da cópia junta, foi Sua Majestade servido conceder que se repartissem
+as terras do Palmar com os soldados, digo, com os oficiais e soldados do terço dos
+Paulistas que a conquistaram aos negros, procedendo-se na repartição com a
+formalidade que expressa a mesma ordem, o que assim se executou com os oficiais que
+então existiam, e como há sessenta anos que se expediu a dita ordem, e em todo este
+tempo não requereram data alguma os suplicantes ou seu pai enquanto vivo, e por
+ordem posterior determina Sua Majestade se não deem de terras por sesmaria, sem que
+se lhes imponha foro, parece que só com este encargo se deve conceder as que
+requerem os suplicantes; Vossa mercê mandará o que for servido. Recife, 3 de agosto
+de 1757 — Bernardo Pereira de Vasconcelos, com cuja informação mandou que
+respondesse o doutor procurador da Coroa e Fazenda, o qual satisfez na maneira
+seguinte: Senhor provedor da Fazenda Real = Ainda que pela cópia da ordem inclusa se
+mostre, foi Sua Majestade servido determinar se repartissem as terras do Palmar pelos
+oficiais e soldados do terço dos Paulistas, na forma que expressa a mesma ordem.
+Contudo, por ordem posterior foi o dito senhor servido ordenar se não deem terras de
+sesmaria sem foro, com o qual encargo só se devem conceder as duas léguas de terra
+que os suplicantes pedem no seu requerimento, estando devolutas, dando as fianças
+necessárias, na forma praticada nesta provedoria; é o que me parece, Vossa Mercê
+informará o que for servido. Recife, 4 de agosto de 1757. Caetano Ribeiro Soares — E
+com esta resposta, me informou o dito provedor da Fazenda Real o seguinte:
+Ilustríssimo e Excelentíssimo Senhor. Com a informação do escrivão da Fazenda e
+resposta do doutor procurador da mesma, informo a Vossa Excelência que mandará o
+que for servido — João do Rego Barros — Com a qual informação mandei por
+despacho de 4 de agosto do dito ano, que havendo terras devolutas no lugar em que se
+pretendia, o que examinaria a Câmara do distrito, precedendo suas diligências do estilo,
+lhe deferiria dando a pensão que a última ordem de Sua Majestade; a este respeito
+determina, e ao dito despacho satisfizeram com a informação daquela Câmara, que é a
+seguinte: Ilustríssimo e Excelentíssimo Senhor — As terras que os suplicantes
+pretendem é sem dúvida estarem devolutas e desocupadas naquele lugar, que é onde os
+paulistas serviram a Sua Majestade, que Deus guarde, na conquista dos negros
+amocambados, porém, por serviço do dito senhor e bem deste Conselho, era
+conveniente que os que tomam terras de sesmarias fossem obrigados a situá-las e
+demarcá-las dentro dos cinco anos, que se lhes concede para povoá-las porque mostra a
+experiência que alguns pedem duas léguas e debaixo da concessão delas dominam mais
+
+em fraude dos Conselhos, como também pela mesma razão quando se pedem algumas
+terras sempre há dúvidas entre eréos; o que não obstante, Vossa Excelência mandará o
+que for servido — Vila das Alagoas em Câmara de 8 de abril de 1758 — Agostinho
+Ferreira de Andrade — Escrivão da Câmara o escrevi — Antônio do Rego Teles,
+Manoel Thomaz de Queiroz — Manoel Lourenço de Magalhães — José Alvares Correa
+— Antônio Maciel de Lima — E sendo-me apresentada a dita informação, mandei
+ultimamente o despacho seguinte: Passe carta de sesmaria na forma que aponta o
+provedor da Fazenda, escrivão e procurador da mesma, visto constar pela informação
+da Câmara, achara ser devolutas as terras que os suplicantes pretendem, ficando
+obrigados ao pagamento da pensão anual a que darão fiança e a demarcarão dentro do
+tempo que a ordem determina, digo, que a ordem régia determina, salvo todo o direito
+aos prejudicados, havendo-os. Recife, 4 de agosto de 1858 - Com a rubrica - Em cujo
+cumprimento se passou carta de doação e sesmaria, pela qual tenho por bem lhes dar
+aos suplicantes e nomeado, digo, e em nome de Sua Majestade na conformidade do
+capítulo 15 do Regimento deste Governo, as duas léguas de terra em quadro pedidas e
+confrontadas em sua petição, na forma da ordem de Sua Majestade, com todas as suas
+pertenças, matas, logradouros, fontes, rios, vertentes e o mais a elas pertencentes, para
+ele e seus herdeiros ascendentes e descendentes, para que as logrem e possuam como
+suas que são e ficam sendo por virtude desta doação e sesmaria, não prejudicando a
+terceiro, pagando o foro que aponta o procurador e escrivão da Fazenda Real, por cada
+légua, para o que darão fiança e ficarão obrigados a dar livres ao Conselho estradas,
+fontes, pontes e pedreiras, não passando por nenhum título a religião, salvo for com os
+mesmos encargos que os tem os seculares e de fazerem confirmar esta por Sua
+Majestade no tempo que o mesmo senhor determina em suas reais ordens. Pelo que
+ordeno aos ministros da Fazenda e Justiça, e pessoas a que tocar, cumpram e façam
+cumprir esta carta de doação de sesmaria, como nela se contém, fazendo dar aos
+suplicantes a posse real, efetiva e atual, na forma costumada e debaixo da cláusulas
+referidas e das mais da ordenação títulos de sesmarias. Em firmeza do que lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará nos livros da Secretaria deste Governo, Provedoria da Fazenda Real e mais
+partes a que tocar. Dada nesta Praça do Recife de Pernambuco, aos 20 dias do mês de
+dezembro — Francisco Gonçalves Reis Lisboa a fez. Ano do Nascimento de Nosso
+Senhor Jesus Cristo, de 1758. Eu, Felipe Nery Correa — Oficial maior da Secretaria, a
+fiz escrever e subscrevi por impedimento do secretário. Luiz Diogo Lobo da Silva -.
+
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 121 - 125.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

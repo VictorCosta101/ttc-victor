@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0029
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel de Brito Lobo, Paulo Coelho de Vasconcelos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "03-10-1673",
+  "Observações da sesmaria": "A sesmaria possuía cinco léguas em quadra, repartidas igualmente entre os dois sesmeiros, e estava localizada entre os rios Paraguaçu, ao sul, e Jiquiriçá, ao leste.",
+  "Localidade": "Entre os rios Paraguaçu e Jiquiriçá",
+  "Marcos Geográficos": "Rio Paraguaç; Rio Jiquiriça",
+  "Observações da petição": "Os sesmeiros solicitaram cinco léguas em quadra para cada um.",
+  "Justificativas": "Era morador(a) da Capitania; Não tinha terras; Pretendia criar gado; Serviu a Sua Majestade; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Alegaram que eram ricos.",
+  "Observações do deferimento e da concessão": "Os suplicantes solicitaram cinco léguas em quadra para cada um, no entanto, tanto o procurador quanto o provedor, afirmaram que era uma quantidade extensa de terras e que por isso era melhor conceder duas léguas e meia em quadra para cada. O governador-geral concordou com o procurador e com o provedor. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0029"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de sesmaria de 2 léguas e meia de terra a cada um dos suplicantes: 
+capitão Manoel de Brito Lobo e Paulo Coelho de Vasconcelos. 
+Afonso Furtado de Castro e Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que o capitão Manoel de Brito Lobo e Paulo Coelho de Vasconcelos me 
+mandaram a representar por sua petição, cujo teor é o seguinte: diz o capitão Manoel de Brito 
+Lobo e Paulo Coelho de Vasconcelos, moradores na terras e casados com filhos nesta capitania 
+da Bahia, que eles tem servido a sua Alteza em todas as ocupações de guerra e política que se 
+tem oferecido e não se lhe tem, até hoje, concedido sesmaria alguma de terra. E nas terras em 
+que se tem descoberto de novo no rio Paraguaçu para o sul há campos para gados que eles 
+querem povoar de currais para a que são ricos e tem cabedal. Pedem a vossa senhoria [que] lhes 
+faça mercê dar sesmarias em nome de sua Alteza 4 léguas em quadra a cada um de onde 
+acabarem as datas que procederem a esta, naquela paragem de campo que ouve do rio Paraguaçu 
+para o sul e para o poente, e sul para o nascimento do rio Jiquiriçá ou junto dele de onde se 
+achar a dita terra de servir que não seja dada. E receberá mercê. E vista a resposta do procurador 
+da coroa e Fazenda Real, que é o que segue. O regimento e a ordenação não permitem ter largas 
+sesmarias como os suplicantes pedem, porque 8 léguas em quadra vem a ser, multiplicadas, 7 
+e tantas e só 5 sem serem em quadra costuma sua Alteza confirmar de que há exemplos assim 
+que só 5 léguas sem ser em quadra se podem conceder ao suplicantes, limitando-se lhes a 
+largura, visto sem prejuízo de terceiro nem do distrito que se assinar a nova povoação que se 
+manda fazer, obrigando a povoá-las no termo da lei e regimento. Bahia, 25 de setembro de 1673 
+// Rocha // O parecer do provedor-mor da Fazenda Real que é o seguinte: senhor, como o 
+procurador da Fazenda Real aponta as razões da sua resposta, não será necessário repeti-las, e 
+porque os suplicantes são pessoas de merecimento e serviços, e vem a ser o mesmo 5 léguas de 
+comprimento do que 2 e meia em quadra, me parece que sendo vossa senhoria servido se lhe 
+pode conceder, a cada um, 2 léguas e meia em quadra, passando-se a data a cada um dos 
+suplicantes separadamente das ditas 2 léguas e meia em quadra confrontadas na forma de sua 
+petição e com as condições do regimento e ordem de sua Alteza sem prejudicar a terceiro e da 
+povoação que vossa senhoria manda fazer. Vossa senhoria me mandará o que for servido. 
+Bahia, 2 de outubro de 1673 // Antônio Lopes de Ulhôa // Hei por bem de lhe conceder, como 
+pelo presente faço em nome de sua Alteza, 2 léguas e meia de terra em quadra a cada um assim 
+como a pede e confronta em sua petição e como aparece ao provedor-mor da Fazenda Real com 
+declaração que serão obrigado as povoa-las no termo da lei e regimento, pois nesta 
+conformidade lhes concedo, não prejudicando a terceiro nem as terras que se determinem 
+tivessem as povoações que de novo fizessem para se darem a seus povoadores como todas suas 
+águas, campos, matos, testadas, logradouros e tudo o que houver de mais útil, foro livre e isento 
+de pensão ou tributo algum, fora o dízimo a Deus que pagará dos frutos que nelas houver e por 
+elas serão obrigados a dar caminhos livres a fontes, pontes e pedreiras. Pelo que ordeno e mando 
+a todos os ministros e justiças a que o conhecimento possa pertencer, lhe façam dar a posse real, 
+efetiva e atual na forma costumada debaixo das cláusulas acima referidas e as mais da ordenação 
+título de sesmarias. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de 
+minhas armas a qual se registrará nos livros da secretaria do estado e nos mais a que tocar e 
+resguardará e se cumprirão pontual  e inteiramente como nela se contém sem dúvida, embargo 
+nem contradição alguma // Antônio Garcia // a fez nesta cidade do salvador, Bahia de todos os 
+santos aos 3 dias do mês de outubro de 1673 // Bernardo Vieira Ravasco // o fiz escrever  // 
+Afonso Furtado de Castro de Rio e Mendonça. Registrado no primeiro livro de registros da 
+secretaria do estado do Brasil a que toca as folhas 174. Bahia, 10 de outubro de 1673 // Ravasco 
+
+// Cumpra-se e registre-se como sua Alteza manda. Bahia, 8 de novembro de 1673 // de Ulhôa 
+// Registrou-se em 27 do dito mês de novembro // Miguel Pinto de Freitas //. 
+ 
+- Fim de Transcrição – 
+ 
+Observações: 
+- O nome de um dos suplicantes no documento original consta como “ Manoel de Brito 
+Lobo”. 
+ 
+Referências: 
+AN, Códice, fls. 48v – 49. 
+Numeração original no livro: 46 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0288
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Fagundes do Amaral",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-05-1723",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas nos sertões da Serra do Frade",
+  "Marcos Geográficos": "Serra do Frade, [Taucaia Grande]",
+  "Confrontantes": "Terras de Ambrósio Dias Raposo",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0288"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0288
+Carta de concessão de Francisco Fagundes do Amaral de 2 de maio de 1723
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do sereníssimo infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão-general da capitania do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que havendo respeito a representar-me
+por sua petição Francisco Fagundes do Amaral, que no distrito desta cidade, nos sertões da
+Serra do Frade e de [Taucaia] Grande, onde acabavam as terras de sesmaria de Ambrósio
+Dias Raposo, se acham terras devolutas sem nunca terem sido aproveitadas por pessoa
+alguma, e porque ele se achava com muitos filhos e escravos para as poder cultivar e de que
+resultará mais aumento aos dízimos Reais e utilidade ao bem comum, me pedia lhe fizesse
+mercê dar de sesmaria, em nome de Sua Majestade, que Deus guarde, 1 légua de terras em
+quadra na dita paragem na forma que mais conveniente lhe for para mais utilidade das
+serventias das ditas terras e melhor se aproveitarem. Dando-se vista deste requerimento ao
+provedor da Fazenda Real e ao procurador da Coroa, não se lhes oferecendo dúvida. Hei por
+bem fazer mercê ao dito Francisco Fagundes do Amaral de lhe dar de sesmaria, em nome de
+Sua Majestade, que Deus guarde, as referidas terras; não excedendo, porém, 1 légua de terra
+em quadra, na forma das Ordens do mesmo Senhor; sem prejuízo de terceiro ou do direito
+que algumas pessoas possam ter a elas; e com declaração que as cultivará e mandará
+confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo. Pelo que mando ou ministro ou oficial de justiça, a que
+o conhecimento desta pertencer, dê posse ao dito Francisco Fagundes do Amaral da referida
+légua de terras na forma e maneira acima declarada. E por firmeza de tudo, lhe mandei passar
+a presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém, se registrará nos Livros da Secretaria deste governo e nos
+mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro aos 2 dias do mês de
+maio de 1723. João Paes de Pereira a fez. O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a Francisco Fagundes Amaral de lhe
+dar de sesmaria, em nome de Sua Majestade, que Deus guarde, a referida légua de terras, na
+forma e maneira acima declarada.
+Para Vossa Senhoria ver.
+
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+144. Rio, a 2 de maio de 1723.
+//José Ferreira da Fonseca//
+Cumpra-se e registre-se nos Livros da Fazenda Real. Rio, 5 de maio de 1723.
+//Cordovil//
+Registrada no Livro 21 de registros desta Provedoria a folha 115. Rio, 5 de maio de 1723.
+//José Leitão//
+Lançada neste Cartório das Sesmarias por mim escrivão, no Livro da nota atual a folha 244.
+Rio, 5 de maio de 1723.
+//Manuel de Vasconcelos Velho//
+O doutor Antônio de Sousa de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral e corregedor da comarca com alçada no civel e crime nesta cidade
+do Rio de Janeiro e mais capitanias de sua repartição, juiz das justificações, etc. Faço saber
+aos que a presente certidão de justificação virem, que a mim me constou por fé do escrivão de
+meu cargo, que esta subscreveu, ser a firma posta no fim da carta de sesmaria retro do
+governador e capitão general desta praça, Aires de Saldanha de Albuquerque, e afirmado
+termos acima do próprio nele conteúdo, hei por justificado. Rio, 3 [não identificado] de 1724
+anos. (não identificado).
+//Antônio de Sousa de Abreu Grade//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Francisco Fagundes do Amaral uma legoa de terras. em quadra, no sertão da Serra do Frade.
+Rio de Janeiro, 2 de maio de 1723.
+Referência:
+AHU_ACL_CU_017-1, Cx. 22\Doc. 4.884
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

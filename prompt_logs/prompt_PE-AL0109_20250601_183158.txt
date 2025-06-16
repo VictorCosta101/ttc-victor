@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0109
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro de São Bento de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "30-05-1603",
+  "Data da concessão": "30-05-1603",
+  "Observações da sesmaria": "Os suplicantes requereram a concessão de terras entre o rio Tapacora, onde esteve o Paço Velho, e pelas Alagoas que chamam Alagoa Comprida e Alagoa Redonda, até a Mata do Brasil",
+  "Localidade": "Rio Tapacora",
+  "Marcos Geográficos": "Alagoa Comprida, Alagoa Redonda, Mata do Brasil",
+  "Observações da petição": "Os suplicantes não informaram a quantidade de léguas requeridas. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0109"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0109 
+ 
+Sesmaria de uma légua de terra que foi dada em Tapacora. 
+Dizem o padre abade e mais religiosos do Mosteiro de São Bento, desta capitania de 
+Pernambuco, que há muitos anos que residem nesta terra, ajudando e servindo em todas as 
+coisas de sua obrigação, sem terem até hoje recebido mercê alguma, nem de Sua Majestade, 
+nem do senhor da terra, porque tem muita necessidade de alguma terra para trazer algum gado 
+de que lhes fazem caridade e para plantar mantimentos para sustentação do Mosteiro: Pedem a 
+vossa mercê lhe faça mercê em nome de Sua Majestade dar de sesmaria a terra que se achar, 
+não ser dada de uma parte e outra no rio Tapacora, onde esteve o Paço Velho, e pelas Alagoas 
+que chamam Alagoa Comprida e Alagoa Redonda, até a Mata do Brasil, tanto de largo como 
+de cumprido, de modo que fique em quadra, e se algumas datas que mais velhas sejam 
+estiverem nestes ditos limites, possam eles, padres, inteirar sua sorte correndo mais adiante 
+para qualquer parte que até hoje estiver vaga, no que receberão mercê. Despacho: Passe-se 
+carta aos reverendos padres da terra que pedem, na forma de sua petição, conforme as provisões 
+que tenho de Sua Majestade. Olinda, 30 de maio de 1603. Manuel Mascarenhas Homem, 
+capitão-mor desta capitania de Pernambuco, da Nova Lusitânia nas partes do Brasil, por Sua 
+Majestade etc. - Faço saber aos que esta minha carta de doação e sesmaria for apresentada e o 
+conhecimento dela com direito pertencer, em como a mim [...] fez a petição o padre abade e os 
+mais religiosos do Mosteiro de São Bento desta capitania de Pernambuco, que havia muitos 
+anos que residem nesta terra, ajudando e servindo em todas as coisas de sua obrigação, sem 
+terem até hoje recebido mercê alguma, nem de Sua Majestade, nem do senhorio da terra, e 
+porque tem muita necessidade de alguma terra para trazerem algum gado de que lhe fazem 
+caridade e para plantarem mantimentos para sustentação do Mosteiro, me pediam lhes fizesse 
+mercê em nome de Sua Majestade dar-lhe de sesmaria a terra que se achar, não for dada de 
+uma parte e outra do rio Tapacora, onde esteve o Paço Velho, e pelas Alagoas que chamam 
+Alagoa Comprida e Alagoa Redonda, até a Mata do Brasil, tanto de largo como de cumprido, 
+de modo que fique em quadra, e se algumas datas que mais velhas sejam estiverem nestes ditos 
+limites, possam eles, padres, inteirar sua sorte correndo mais adiante para qualquer parte que 
+até hoje estiver vaga, no que receberiam mercê. Segundo o que na dita petição era conteúdo, a 
+qual vista por mim, pus nela por meu despacho o seguinte: Passe-se carta aos reverendos padres 
+da terra que pedem, na forma de sua petição, conforme as provisões que tenho de Sua 
+Majestade. Olinda, 30 de maio de 1603. Manuel Mascarenhas Homem. Pela qual hei por bem 
+e me apraz de dar e doar deste dia para todo o sempre aos reverendos padres da ordem do bem 
+
+aventurado São Bento, a terra de que em sua petição fazem menção, assim e da maneira que 
+nela declaram, conforme as provisões que tenho de Sua Majestade, para que os ditos padres 
+que hoje são e os mais que pelo tempo adiante forem, dela se poderão lograr e aproveitá-la 
+como coisa sua própria, que já é forra, livre e isenta, sem foro nem direito algum, digo sem 
+tributo nem direito algum, salvo dízimo a Deus, e porque assim hei por bem de lhes dar a dita 
+terra, lhes mandei passar esta carta, a qual mando que se cumpra e guarde como nela se contém. 
+Dada em esta vila de Olinda, capitania de Pernambuco, sob meu sinal e selo das armas de Sua 
+Majestade, que Deus guarde. E eu, Brás Vicente, escrivão das datas e demarcações desta 
+capitania de Pernambuco, pelo dito senhor a fiz, ano do nascimento de Nosso Senhor Jesus 
+Cristo, de 1603 anos. Manuel Mascarenhas Homem. Estava o selo. Registre-se. Vieira. Fica 
+registrada esta carta no Livro dos Registros da Alfândega, a folha 164, por mim, Antônio Vaz, 
+que escrevi. Antônio Vaz. - Não se continha mais em dito documento, que eu, Filipe Nery 
+Correa, tabelião do público judicial e notas da cidade de Olinda, vila do Recife e seus termos, 
+capitania de Pernambuco, por Sua Majestade Fidelíssima, que Deus guarde etc. - Fiz trasladar 
+do próprio, com o qual e com o oficial abaixo assinado, este conferi e consertei, vai sem coisa 
+que dúvida faça, ao próprio me reporto que tornei a entregar a quem aqui assinou, subscrevi e 
+assinei em público e razão de meus sinais seguintes, aos 4 dias do mês de janeiro de 1766 anos. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 246-247. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

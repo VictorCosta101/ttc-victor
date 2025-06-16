@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0081
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0138",
+  "Nome": "Manuel de Sousa Garcia ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "09-12-1749",
+  "Data da concessão": "21-12-1749",
+  "Observações da sesmaria": "O suplicante solicitou um conjunto de terras devolutas próxima ao Forte do Matos. ",
+  "Localidade": "Vila do Recife",
+  "Confrontantes": "Forte do Matos",
+  "Observações da petição": "No requerimento e no despacho não foi possível identificar a quantidade de braças requeridas e concedidas. ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ser mestre ferreiro das ferragens das carretas do rei e que para melhor trabalho na assistência e conserto das armas e das fortificações era necessário construir uma tenda com um espaço adequado para o seu ofício. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0081"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0081
+Carta de doação e sesmaria de Manuel de Souza Garcia - 21/12/1749
+Carta de sesmaria e doação que se passou a Manoel de Souza Garcia de um
+pedaço de terra no Forte do Matos desta Vila do Recife.
+Luiz José Correa de Sá, do Conselho de Sua Majestade, governador e capitão general
+de Pernambuco e mais capitanias anexas e etc. — Faço saber aos que esta carta de
+doação e sesmaria virem, que Manoel de Souza Garcia, me fez o requerimento do teor
+seguinte: — Ilustríssimo e Excelentíssimo Senhor - Diz Manoel de Souza Garcia,
+mestre ferreiro de ferragens, das carretas de Sua Majestade, que Deus Guarde, que para
+se assentarem as ferragens nas ditas carretas, as conduzem os soldados artilheiros para
+a porta da tenda do suplicante, no que tem grande trabalho, e o suplicante também o
+tem pela pouca capacidade que há na sua porta para assentar a dita ferragem, que
+forçosamente há de ser em quinto, e por que junto do trem de Sua Majestade, onde se
+fazem as ditas carretas da parte de fora dos edifícios do Forte do Matos, está um
+pedaço de terra devoluto sem serventia, quer o suplicante armar nele um telheiro de
+madeira para neste armar a tenda, por ficar mais conveniente tanto ao suplicante como
+aos soldados artilheiros, e ainda, as obras de Sua Majestade, por cuja razão — Pede a
+Vossa Excelência seja servido dar por sesmaria ao suplicante a terra que for bastante
+para armar a dita tenda, da qual quer o suplicante pagar o foro que se pratica para a
+Real Fazenda, todas as vezes que lhe for mandado — E receberá mercê — Despacho =
+Informe o provedor da Fazenda Real = Cabo, 9 de dezembro de 1749 — Estava a
+rubrica — Despacho do provedor — Informe o escrivão da Fazenda e responda o
+doutor procurador da mesma — Barros = Informação do escrivão — Senhor provedor
+da Fazenda Real — O requerimento do suplicante é atendível, para o que deve primeiro
+declarar os palmos de terra que pretende aforar [...] se lhe possa passar a carta de
+sesmaria com o foro de oito mil réis por palmo, na forma que já se concedeu no mesmo
+lugar a outro ferreiro, Manoel dos Santos, precedendo a fiança que é estilo dar-se para
+pagamento do foro anual e assinando termo de demolir, sendo necessário, na forma que
+aponta: É o que posso informar a Vossa Mercê, que mandará o que for servido. Recife,
+12 de dezembro de 1749. Bernardo Pereira de Vasconcelos — Resposta do doutor
+procurador = Senhor provedor da Fazenda Real — Parece-me que o requerimento é
+atendível, se não encontra alguma ordem de Sua Majestade sobre o terreno, de que não
+
+tenho notícia ou a terceiro, pagando o foro dos palmos que de novo declara na forma da
+informação do escrivão da Fazenda Real — Vila do Recife, 15 de dezembro de 1749.
+Silva Pereira = Réplica — O suplicante pretende aforar 100 palmos de terra, que fica
+da parte exterior da casa do trem das carretas de Sua Majestade, situada no Forte do
+Matos, que fica nas costas da mesma casa do trem. = Informação do provedor da
+Fazenda — Ilustríssimo e Excelentíssimo Senhor — Na forma que expressa o escrivão
+da Fazenda na sua informação, me parece justo se mande dar ao suplicante a terra que
+pede por sesmaria; Vossa Excelência, contudo, mandará o que for servido. — Recife,
+16 de dezembro de 1749 — João do Rego Barros — Despacho — Passe carta de
+sesmaria — Cabo, 19 de dezembro de 1749 — Estava a rubrica — E não se continha
+mais no dito requerimento e meu despacho, em virtude do qual se passou a presente
+pela qual — Hei por bem, na forma do capítulo 15 do regimento deste Governo, dar ao
+suplicante em nome de Sua Majestade aprovação da terra que sobra da parte exterior do
+trem das carretas do dito Senhor, situada no Forte do Matos, que fica nas costas da
+mesma casa do trem na atestação e cumprimento, tomados os rumos na forma que
+contém em sua petição e requerimento e meu despacho, digo, requerimento, a qual
+possuirá como sua e fica sendo por virtude desta doação e sesmaria para ele e seus
+herdeiros, não prejudicando a terceiro, pagando o foro na forma do estilo para a
+Fazenda de Sua Majestade e com obrigação [de não] passar as religiões por título
+algum, salvo se for com os mesmos encargos como aos seculares, pelo que ordeno aos
+ministros e pessoas a que tocar, lhe deem posse da dita terra, real e atual, civil, natural
+e pessoal, e pela cláusula constituída, de que se farão os termos e autos em semelhantes
+funções, costumados, tomando-se assento nas costas desta, a qual farão cumprir e
+guardar como nela se contém; que serão obrigados a requerer confirmação de Sua
+Majestade dentro do tempo que para isso dispõem as suas ordens, em firmeza do que
+lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas,
+que se registrará nos livros da Secretaria deste Governo e Provedoria Geral — Dada no
+Cabo, aos 21 do mês de dezembro — Manoel Coelho de Souza a fez, no ano de 1749.
+— Felipe Nery Correia, oficial maior, a fez escrever = Luiz José Corrêa de Sá =. Vide
+a nota a página 64 v.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 76 - 78.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

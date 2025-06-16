@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0198
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio dos Santos Maia",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "29-10-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita.",
+  "Localidade": "Caminho da cidade a sair ao Pau Grande, na sobre quadra da sesmaria concedida a Lucas de Barros",
+  "Justificativas": "Pretendia cultivar; Tinha cabedal; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e provedor, mas não há menção à data ou nome das autoridades. Da quantidade de léguas solicitada, foi concedida ao suplicante apenas a metade.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que seria \"obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0198"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0198
+Carta de concessão de sesmaria de Antônio dos Santos Maia de 29 de outubro de 1750
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais. Nesta faço saber aos que esta minha carta de sesmaria virem que atendendo a me
+representar por sua petição Antônio dos Santos Maia, que no atalho e novo caminho que se abriu
+desta cidade a sair ao Pau Grande estava indo por se conceder a sobre quadra da roça concedida a
+Lucas de Barros e como o suplicante queria cultivar a dita sobre quadra por ter posses para isso,
+queria se lhe concedesse por sesmaria 1 légua de terra de testada com 3 de sertão da parte do
+poente que ficava a mão direita do dito caminho indo para o Pau Grande, me pedia lhe mandasse
+passar a referida sesmaria na forma do estilo. Sendo visto o seu requerimento, em que foi ouvida
+a Câmara desta cidade a quem se não ofereceu dúvida, nem ao provedor da Fazenda Real e
+procurador da Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria, em nome de Sua
+Majestade e em virtude da ordem do dito Senhor de 15 de junho de 1711, ao dito Antônio dos
+Santos Maia meia légua de terra de testada com 3 de sertão na sobre quadra das terras concedidas
+a Lucas de Barros na parte acima declarada, com as confrontações expressadas, sem prejuízo de
+terceiros ou do direito que alguma pessoa tenha a elas, com declaração que as cultivará e mandará
+confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará
+mais tempo, antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para este
+efeito notificadas as pessoas com quem confrontar, e será obrigado a fazer os caminhos de sua
+testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que
+necessite de barca para atravessar, ficará reservada de uma das margens dele a terra que baste
+para a serventia pública, e nesta data não poderá suceder em tempo algum pessoas eclesiástica ou
+religião, e se sucedendo será com encargo de pagar dízimos e outro qualquer que Sua Majestade
+lhe impuser de novo, e não os pagando se poderá dar a quem denunciar, como também sendo o
+dito Senhor sevido mandar fundar no distrito dela alguma vila o poderá fazer ficando livre, sem
+encargo algum ou pensão para o sesmeiro, e não compreenderá esta data vieiros ou minas de
+qualquer gênero de metal que nela se descobrir, reservando também os paus Reais, e faltando
+qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõem a
+Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou oficial de justiça a
+quem o conhecimento desta pertencer, dê posse ao dito Antônio dos Santos Maia das referidas
+
+terras na forma acima declarada. E por firmeza de tudo lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, que se cumprirá como nela se contém e se
+registrará nesta secretaria de Governo e nas partes a que tocar. Dada nesta cidade de São
+Sebastião do Rio de Janeiro, João de Souza Melo a fez em 29 de outubro de 1750. //O secretário
+do governo, Antonio da Rocha Machado, a fez escrever// //Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a Antônio
+dos Santos Maia meia légua de terras de testada e 3 de sertão na sobre quadra da sesmaria
+concedida a Lucas de Barros no caminho que se abriu desta cidade a sair ao Pau Grande, como
+nela se declara. Para Vossa Excelência ver.
+Registrada no Livro 11 que serve de registro das provisões do governo na página 34. Rio, 29 de
+outubro de 1750. //Antônio da Rocha Machado//
+Registrada no Livro de Sesmaria atual deste Senado a página 14. Rio em 30 de outubro de 1750.
+//Francisco de Almeida Jordão//
+O doutor José Pinto de Morais Bacelar, do desembargo de Sua Majestade, ouvidor geral e
+sindicante do doutor Francisco Antônio Berquó da Silveira, provedor (não identificado) nesta
+cidade do Rio de Janeiro e juiz das justificações. Nesta, aos que a presente certidão de
+justificação virem, faço saber que a mim me constou por fé do escrivão, que esta subscreveu, ser
+a letra do subscrito da carta de sesmaria retro do secretário deste governo Antônio da Rocha
+Machado e o sinal ao pé desta do ilustríssimo excelentíssimo Gomes Freire de Andrade,
+governador e capitão general destas capitanias, o que hei por justificado. Rio, 18 de maio de
+1751. Eu, Manoel Freire Ribeiro, escrivão da ouvidoria geral, o subscrevi. //José Pinto Morais
+Bacelar//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Antonio dos Santos Maia meia legua de terras de testada, por 3 de fundo, no caminho do Rio de
+Laneiro para o Páo Grande. Rio, 29 de outubro de 1750.
+Nome original do sesmeiro- Antonio Dos Sanctos Maya.
+
+Esta carta de concessão está disponível no AHU anexada à Petição n° 15731 e à Portaria
+n°15733.
+Referência:
+AHU_ACL_CU_017-1, Cx. 67\Doc. 15732
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

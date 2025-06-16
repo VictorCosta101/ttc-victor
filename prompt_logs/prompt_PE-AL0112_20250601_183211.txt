@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0112
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Belchior Álvares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "27-02-1627",
+  "Data da concessão": "27-02-1627",
+  "Observações da sesmaria": "O sesmeiro requereu quatro léguas de comprimento e quatro léguas de largura no rio São Francisco. ",
+  "Localidade": "Rio São Francisco",
+  "Justificativas": "Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0112"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0112 
+ 
+Belchior Álvares, que há 25 anos assiste nesta capitania, servindo a Sua Majestade em 
+tudo o que trata a seu serviço e fortificações de fortalezas, até hoje, 26 de janeiro de 
+1627, e a vista de Vossa Senhoria andou sempre em todas as ocasiões que se 
+ofereceram com suas barcas, escravos e criados, em todas as fortificações para bem 
+desta capitania, sem por isso lhe ser dada coisa alguma da Fazenda de Sua Majestade, 
+nem da donataria desta capitania, e por hora tem muito gado para poder povoar terras 
+nos limites das léguas e rio de São Francisco, e por quanto é vindo a sua noticia, que 
+entre muitas que há que não são de préstimo naquela parte há alguns pedaços que 
+podem servir para pastos, em que resulta grande proveito o povoassem = Pede a 
+Vossa Senhoria lhe faça mercê de 4 léguas em quadra nas cabeceiras das Aláguas, e [?] 
+e ribeiras, da qual até o rio de São Francisco e Jassituba, devidas não as achando 
+juntas, que sejam de préstimo as possa tomar léguas e meias léguas que sempre façam 
+as 4 léguas em quadra, não prejudicando a outras cartas mais antigas tiradas pelo 
+donatário ou seus antecessores, ou quem seus poderes tiver, e receberá mercê = Passe 
+carta de data ao suplicante de 4 léguas de terra, que pede nas partes que confronta 
+nesta petição não prejudicando a terceiro de outras cartas mais antigas dadas pelo 
+donatário desta capitania e por quem seus poderes tivesse. Olinda [27] de fevereiro de 
+1627 anos = Matias de Albuquerque, alcaide mor desta capitania de Pernambuco. 
+Faço a saber aos que esta carta de data for mostrada e o conhecimento dela com 
+direito pertencer que a mim me fez a petição atrás escrita Belchior Álvares, a qual 
+vista e o que nela alega, por desejar de lhe fazer mercê, hei por bem de lhe dar e 
+conceder, em nome do senhor Duarte de Albuquerque, meu irmão cujos poderes tenho, 
+as 4 léguas de terra que pede nesta petição nas partes que nela confronta, não 
+prejudicando a terceiro de outras cartas que haja mais antigas dadas pelos donatários 
+desta capitania, ou quem seus poderes tivesse, as quais 4 léguas de terra em quadra, 
+poderá tomar divididas não nas achando de préstimo juntas fazendo-as em léguas e 
+meia como melhor lhe esteja de maneira que sempre tenham a ser 4 léguas em quadra 
+que dou e concedo ao dito Belchior Álvares com os pastos, águas e madeiras que 
+nelas houver, para que ele as possua e seus herdeiros e descendentes, de hoje para 
+sempre, sem dúvida nem contradição de pessoa alguma, e esta minha carta se 
+cumprirá como nela se contém e se registrará nos livros das datas e sesmarias desta 
+dita capitania, e da posse se fará termo nas costas dela na forma costumada = dada 
+
+nesta vila de Olinda sobre meu sinal e sinete de minhas armas = Pedro Teixeira 
+Franco a fez a 27 de fevereiro de 1627 anos = Matias de Albuquerque = Fica 
+registrada no livro primeiro do registo desta capitania, a folha 18 dele, por mim, João 
+Rodrigues Chaves, escrivão dos registros em São Lourenço, 13 de abril de 1634 anos, 
+João Rodrigues Chaves = O qual treslado da carta de data petição, despacho e rúbrica 
+de registro eu, João Rodrigues Chaves, escrivão das datas e de marcações desta 
+capitania de Pernambuco por Duarte de Albuquerque Coelho, capitão e governador 
+dela por Sua Majestade, trasladei do próprio livro por despacho do ouvidor João 
+Soares de Almeida, que fica em meu poder, e ao dito livro me reporto, com quem o 
+conferi e concertei, com a própria carta que dei ao dito Belchior Álvares, que assinou 
+aqui de como recebeu a própria a que também me reporto, e com um e o outro a 
+concertei e com o tabelião abaixo assinado em São Lourenço em 4 dias do mês de 
+abril, ano do nascimento de Nosso Senhor, Jesus Cristo, de 1634 anos = João 
+Rodrigues Chaves= Belchior Álvares = Fica registrada no livro primeiro do registo 
+desta capitania, a folha 18 dele por mim, João Rodrigues Chaves, escrivão dos 
+registros em São Lourenço, 13 de abril de 1634 anos, João Rodrigues Chaves = O 
+qual treslado da carta de data, petição, despacho e rubrica de registro eu, João 
+Rodrigues Chaves, escrivão das datas e demarcações desta capitania de Pernambuco 
+por Duarte de Albuquerque Coelho, capitão e governador dela, por Sua Majestade 
+trasladei do próprio livro por despacho do ouvidor João Soares de Almeida, que fica 
+em meu poder, e ao dito livro me reporto, com quem o conferi e concertei com a 
+própria carta que dei ao dito Belchior Álvares, que assinou aqui de como recebeu a 
+própria a que também me reporto, e com um e o outro a concertei, e com o tabelião 
+abaixo assinado em São Lourenço, aos 4 dias do mês de abril, ano do nascimento de 
+Nosso Senhor, Jesus Cristo, de 1634 anos = João Rodrigues Chaves = Belchior 
+Álvares.   
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. Livro I, p. 10-11. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

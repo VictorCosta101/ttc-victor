@@ -1,0 +1,154 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0044
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0199",
+  "Nome": "Manuel de Melo e Albuquerque (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "24-07-1801",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura próximo as terra do seu engenho, denominado de Engenho Água Fria, no termo da vila de Porto Calvo. As terras se estendiam do riacho Japaratuba até a barra do riacho Ferrão.",
+  "Localidade": "Vila de Porto Calvo",
+  "Marcos Geográficos": "Engenho Água Fria, Riacho Ferrão, Riacho Japaratuba",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores da junta interina do governo da capitania de Pernambuco determinaram o pagamento anual do foro régio no valor de 3 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0044"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0018
+Carta de doação e sesmaria de Manuel de Melo e Albuquerque - 24/07/1801
+O capitão Manoel de Melo e Albuquerque, meia légua de terra no termo da vila do Porto
+Calvo, no riacho Japaratuba, principiando na Barra do Ferrão para oeste pelo rio
+Japaratuba acima.
+Dom José Joaquim da Cunha de Azevedo Coutinho, do Conselho de Sua Alteza Real, bispo de
+Pernambuco, Pedro Sheverin, chefe de esquadra e intendente da Marinha, o desembargador José
+Joaquim Nabuco de Araújo, ouvidor geral desta comarca, governadores interinos da capitania
+geral de Pernambuco etc. Fazemos saber aos que esta carta de data de sesmaria virem, que o
+capitão Manuel de Melo e Albuquerque, fez ao nosso excelentíssimo antecessor um requerimento
+do teor e maneira seguinte = Ilustríssimo e Excelentíssimo Senhor. Diz o capitão Manuel de Melo
+e Albuquerque, morador no seu Engenho da Água Fria, no termo de Porto Calvo, que requerendo
+a Vossa Excelência a graça de meia légua de terra por sesmaria no mesmo termo daquela vila, no
+riacho Japaratuba, principiando da barra do riacho Ferrão para oeste, pelo riacho Japaratuba
+acima, servindo este de pião até completar a meia légua com 600 braças para cada banda, assim
+para o sul como para o norte, confrontando pelo leste com terras do Patrimônio Régio, que vão
+contestar com terras do Engenho Capiana, ficando em meio mais de meia légua devoluta do
+mesmo Patrimônio Régio, que vão muito avante a confinarem com as do Engenho Japaratuba, e
+para a parte do norte com as terras chamadas do sertão de José Ribeiro de Queiroz, ficando de
+premeio para todos os lados terras devolutas e desaproveitadas do Patrimônio Régio. Por Vossa
+Excelência seja servido mandar por seu respeitável despacho de 25 de fevereiro de 1795, que
+justificasse o suplicante ter posses e meio para cultivar as ditas terras que pretendia e que
+juntamente declaresse as suas confrontações, ter posse suficiente e meios para cultivar as ditas
+terras e alevantar outro engenho e mais solo, para cujo fim já tem feito roçado e aberto pastos,
+pelo que parece estar nos termos de lhe ser concedida a referida meia légua de terra por sesmaria,
+na forma pedida, pelas confrontações declaradas, portanto. Pede a Vossa Excelência seja servido
+conceder ao suplicante a devida pensão ou foro, como é estilo. E receberá mercê = E sendo visto
+no seu requerimento pelo nosso excelentíssimo antecessor, ordenou por despacho de 28 de
+novembro de 1795, que quando mostrasse que os confinantes estão demarcados, então deferida
+em consequência deste despacho, replicou o suplicante dizendo que a terra que pretendia em seu
+requerimento não tinha confinantes que se possam demarcar, como se fazia ver do próprio
+requerimento, e portanto, que estava nos termos de ser deferida = por outro despacho de 22 de
+janeiro de 1796, ordenou o dito a nosso excelentíssimo antecessor, ao desembargador ouvidor
+
+geral da comarca das Alagoas, informasse se nas terras que o suplicante pede de sesmaria havia
+madeiras que sirvam para a marinha real, e satisfazendo o dito ministro com a informação
+ordenada, declarou não haver nas mencionadas terras madeiras algumas de construção, por cuja
+razão estava o suplicante nas circunstâncias de ser atendido; a vista da dita informação, mandou o
+mencionado nosso antecessor, por despacho de 12 de outubro de 1798, que a Câmara da vila de
+Porto Calvo mandasse fixar editais no respectivo distrito, por tempo de trinta dias, por se saber ao
+certo estar ou não devoluta a mesma terra e haver ou não terceiros prejudicados; e constando-nos
+por informação dos oficiais da dita Câmara que assim o mandaram executar, não haver pessoa
+alguma que aos ditos editais saísse = Por outro despacho de 7 de agosto de 1799, mandamos
+ouvir o doutor procurador da Coroa e Fazenda e assim mais responder o escrivão da Receita e
+Despesa da mesma Real Fazenda = Por outro de 28 de janeiro de 1801, e como todos
+uniformemente responderam estar nos termos de se dar ao suplicante a terra pedida de sesmaria,
+na forma confrontada em seu requerimento, pagando o foro anual a razão de 6 mil réis por légua,
+do que devia dar fiança na Contadoria da Real Fazenda; ultimamente, mandamos por despacho de
+8 de março do dito ano que se passasse carta de sesmaria de meia légua de terra, na forma da
+resposta do doutor procurador da Coroa e escrivão da Receita e Despesa da Real Fazenda, com
+cumprimento do qual e pela faculdade que Sua Alteza Real permite no Capítulo 15 do Regimento
+deste Governo. Havemos por bem dar em nome do dito senhor meia légua de terra ao referido
+capitão Manuel de Melo e Albuquerque, meia légua de terra no termo da vila de Porto Calvo, no
+riacho Japaratura, principiando da barra do riacho Ferrão, para oeste pelo riacho Japaratuba acima,
+servindo este de pião até completar a meia légua com 600 braças para cada banda, assim para o
+sul como para o norte, confrontando pelo leste com terras do Patrimônio Régio, que vão contestar
+com terras do engenho Capiana, ficando em meio mais de meia légua devoluta do Patrimônio
+Régio, a confinar com as do engenho Japaratuba e para a parte do norte com terras que está
+tirando por sesmaria José Ignácio Coelho e para o sul com as terras chamadas do Ferrão, de José
+Ribeiro de Oliveira, tudo na forma confrontada em seu requerimento, pagando o foro anual de 3
+mil réis pela referida meia légua de terra, visto ser das que estão mais próximas a Marinha, que
+determina a Real Ordem de 28 de setembro de 1700; a qual terra possuirá e gozará ele suplicante
+e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo sempre,
+com todas as suas pertenças, matas, campos, rios, águas, testadas, logradouros e mais úteis que
+ela compreender, não prejudicando a terceiro, e não passará a dita terra a religiões e pessoas
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, sendo
+obrigado a dar ao Conselho caminhos livres para fontes, pontes, pedreiras e requerer dentro de
+três anos confirmação, medição, demarcação, povoá-la e cultivá-la na conformidade da Ordem
+
+Régia de 20 de outubro de 1753; e não o cumprindo assim, se dar por devoluta e novamente ser
+conferida a quem a requerer, com mais a condição que a dita terra nunca se dividirá em porções,
+nem repartirá senão por estimação, andando encabeçada em uma só pessoa, na forma da
+Ordenação Livro 4º título 96 § 23; sendo obrigado a pessoa que suceder na dita terra por morte ou
+outro qualquer título do próprio possuidor, a vir apresentar-se na Junta da Real Fazenda desta
+capitania, para se fazer os devidos assentos, debaixo de pena de que não a executando assim,
+ficará a dita terra devoluta para se conferir a quem a requerer. Pelo que ordenam aos ministros da
+Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de
+data de sesmaria como nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na
+forma costumada, debaixo das cláusulas referidas e das mais da Ordenação Título das Sesmarias,
+visto constar por bilhete que apresentou achar-se dada a fiança ao foro anual de 3 mil réis pela
+referida meia légua de terra na Contadoria da Real Fazenda, a folha 140 do Livro 5º delas; a qual
+confirmação lhe mandamos passar a presente por nós assinada e selada com o selo das armas
+reais, que se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. José
+Fernandes Quintela, oficial maior da Secretaria do Governo, a fez em o Recife de Pernambuco,
+aos 24 de julho. Ano do Nascimento de Nosso Senhor Jesus Cristo de 1801. Manoel da Cunha de
+Azevedo Coutinho Souza Chichorro, secretário deste Governo, a fez escrever = Dom José
+Joaquim Nabuco de Araújo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 64-66.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

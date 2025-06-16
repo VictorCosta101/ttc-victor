@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0008
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0013",
+  "Nome": "Gabriel de Sousa Carvalho, Silvestre Ribeiro Soares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "30-09-1693",
+  "Data da concessão": "07-10-1693",
+  "Observações da sesmaria": "Os suplicantes requereram três léguas de comprimento e três léguas de largura da serra da Urtiga para o leste e norte até as fronteiras da serra do Buco e ao sul até o riacho do Cordeiro. Os suplicantes requereram igualmente três léguas de comprimento e três léguas de largura para cada um.",
+  "Localidade": "Serra da Urtiga, Serra do Buco, Riacho do Cordeiro",
+  "Marcos Geográficos": "Serra da Urtiga, Serra do Buco, Riacho do Cordeiro",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia criar gado; Pretendia fazer curral; As terras eram devolutas; Pretendia ajudar no povoamento; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida de acordo com as Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0008"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0008 
+Carta de doação e sesmaria de Silvestre Ribeiro Soares e Gabriel de Souza Carvalho – 
+07/10/1693 
+ 
+CARTA DE DOAÇÃO E SESMARIAS DE UMAS TERRAS QUE DE DERAM A 
+SILVESTRE RIBEIRO SOARES E GABRIEL DE SOUZA CARVALHO PARA A PARTE 
+DO URUBÁ POR DEVOLUTAS. 
+ 
+Faço saber aos que esta carta de doação e sesmaria virem que a mim se me representou a petição 
+cujo teor é o seguinte: “Senhor governador e capitão general”. Dizem Silvestre Ribeiro Soares e 
+Gabriel de Souza Carvalho, que eles suplicantes tem notícia que estão devolutas umas terras as 
+quais nunca foram cultivadas, e lhes serão necessárias três léguas de terra em quadro que começam 
+da serra da Urtiga, correndo rumo direito para o nascente e para o norte, rumo direito até as 
+cabeceiras de uma, para o poente até a serra do Buco e para o sul o riacho do Cordeiro com todos os 
+pastos, águas, vertentes e correntes, matas, logradouros, que dentro das ditas três léguas de terra em 
+quadro se acharem, para nas ditas três léguas por seus currais de gados em que resulta grande 
+aumento a Fazenda Real; portanto, pedem a Vossa Senhoria seja servido em nome de Sua 
+Majestade, que Deus guarde, dar a eles suplicantes três léguas de terras em quadro de sesmaria por 
+haverem de povoar visto estarem devolutas, sem dano e ser distante desta praça algumas oitenta 
+léguas, estendendo-se a cada um dos suplicantes as ditas três léguas de terra em quadro de sesmaria, 
+que ao todo fazem seis léguas das mesmas terras, e receberão mercê. = Informe o provedor da 
+Fazenda Real, João do Rego Barros, ouvindo o procurador da dita Fazenda. Recife, 30 de setembro 
+de 1693. “Rubrica”. Haja vista o procurador da Coroa e Fazenda Real “Barros”. Não tenho dúvida a 
+que se concedam aos suplicantes seis léguas de terra de sesmaria, ordinárias e contínuas, 
+começando na parte que confrontam em sua petição, sendo a data na forma da Ordenação Livro 4.º 
+Título 43. Recife, 5 de outubro de 1693 “Pereira” = Com a resposta do procurador da Coroa e da 
+Fazenda. Informo a Vossa Senhoria para mandar o que for servido. Recife, 6 de Outubro de 1693. 
+“Rubrica”. E havendo outrossim respeito ao que Sua Majestade, que Deus guarde, me encomenda 
+no capítulo 15 do regimento deste Governo; Hei por bem de lhes fazer mercê dar aos suplicantes 
+acima nomeados, como em virtude da presente dou, de sesmaria as ditas terras que pedem nos 
+mesmos lugares, partes e testadas que confronta na sua petição, assim e de maneira que parece ao 
+provedor da Fazenda Real, pelo que consta estarem devolutas e despovoadas, as quais terras 
+possuirão e gozarão os ditos suplicantes, eles e seus herdeiros, achando-se devolutas e não 
+prejudicando a terceiro em todas as suas águas, campos, matas, testadas, logradouros e mais úteis 
+que nelas se acharem, tudo foro livre, isento de tributo, foro ou pensão alguma, salvo dízimo à 
+Deus, e só serão obrigados a dar pelas ditas terras caminhos livres ao Conselho para fontes, pontes 
+ou pedreiras; pelo que ordeno a todos ministros da Fazenda e Justiça destas capitanias ou aos que  o 
+conhecimento desta carta pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada e 
+
+debaixo das cláusulas referidas e das mais da Ordenação título das sesmarias, que para firmeza de 
+tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual 
+se registrará nos livros da Secretaria dessas capitanias e nos da Fazenda Real a tocar. Dada neste 
+Recife de Pernambuco, em os 7 dias do mês de outubro. Antônio Nunes de Oliveira a fez, ano de 
+1693. O secretário, Antônio Barboza de Lima, a fez escrever “Caetano de Melo de Castro”. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 31 - 33. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

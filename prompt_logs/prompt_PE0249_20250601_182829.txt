@@ -1,0 +1,83 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0249
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0344",
+  "Nome": "Manuel da Cunha Moreno",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-12-1678",
+  "Observações da sesmaria": "O suplicante requereu seis léguas de comprimento no rio de Santo Amaro, em Jaboatão, para cada lado do rio até as terras de Fulano de Tal Pinto.",
+  "Localidade": "Rio de Santo Amaro",
+  "Marcos Geográficos": "Rio de Santo Amaro, Jaboatão",
+  "Confrontantes": "Fulano de Tal",
+  "Observações da petição": "O suplicante não informou a quantidade de léguas de largura requeridas, sendo impossível calcular a área total da sesmaria.",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0249"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0249
+Carta de concessão de Manuel da Cunha Moreno de 22/12/1678
+Sesmaria de 6 léguas de terra de comprido, na ribeira do rio de Santo Amaro de
+Jaboatão acima, com toda a largura existente de uma e outra parte do dito rio, correndo
+para o sertão e começando das testadas e fim das terras de fulano de tal Pinto, concedida
+em 22 de dezembro de 1678 ao capitão Manuel da Cunha Moreno e seus herdeiros, pelo
+governador Ayres de Souza de Castro, sem foro ou pensão alguma, salvo o dízimo a
+Deus.
+- Fim da Transcrição -
+Referência:
+Documentação
+Histórica
+Pernambucana:
+sesmarias.
+Recife:
+SECRETARIA
+DE
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 94.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

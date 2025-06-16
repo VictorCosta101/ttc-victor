@@ -1,0 +1,157 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0152
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0266",
+  "Nome": "José Antônio Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-11-1822",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura no termo da vila de Santo Antão. A sesmaria tinha por limite: ao norte com terras da viúva Tereza de tal; ao sul com as terras de Lourenço José de Carvalho; a leste com terras de Duarte Dias e a oeste com terras dos herdeiros do Luiz Miguel e do capitão Manuel Francisco Pedros.",
+  "Localidade": "Vila de Santo Antão",
+  "Confrontantes": " Tereza de tal; Lourenço José de Carvalho; Duarte Dias; Luiz Miguel; Manuel Francisco Pedros.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou pagar foro do arrendamento da terra que ocupava a Lourenço José de Carvalho. Após a demarcação da terra do arrendador, descobriu-se que a terra arrendada não pertencia ao Lourenço José de Carvalho. Por estes motivos, o suplicante solicitou as terras para si. ",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de dois mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0152"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0152
+Carta de doação e sesmaria de José Antonio Pereira - 27/09/1822
+José Antonio Pereira com meia légua de terra no lugar a Lagoa do Mari, termo da
+vila de Santo Antão.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que o José
+Antonio Pereira dirigiu ao ex-capitão general desta província, Luís do Rego Barreto, o
+requerimento do teor seguinte = Ilustríssimo e excelentíssimo senhor = Desembargador
+José Antonio Pereira, morador no lugar denominado a lagoa do Mari, no termo da vila
+de Santo Antão desta capitania, que havendo ele entrado para o dito lugar por
+arrendamento que lhe fizera Lourenço José de Carvalho, por supor este que aquele
+terreno se compreendia na extensão de uma sua sesmaria, como fosse agora medida e
+demarcada essa mesma sesmaria, não se incluiu na demarcação o dito terreno, o qual
+por certo vem a ser sobra daquela e doutras sesmarias, e estando por isso no caso de se
+conceder a quem o pedia, parece que dê preferência a qualquer outro, merece o
+suplicante essa concessão, por estar ele habitando e cultivando aquelas terras há 6 anos,
+tendo já enchido o fim, para o qual são concedidas as sesmarias. Nestes termos implora
+o suplicante a Vossa Excelência seja servido conceder-lhe de sesmaria na forma das leis
+e Reais Ordens o sobredito terreno a lagoa do Mari, com as sobras que houver das
+sesmarias confinantes, e que não poderá passar de meia légua de comprimento e outro
+tanto de largura, pouca mais ou menos, contestando ao lado do norte com terras da
+viúva Teresa de tal, chamada de Facira, ao sul com as terras do sobredito Lourenço José
+de Carvalho, ao leste com terras de Duarte Dias, ao oeste e noroeste com terras dos
+herdeiros do Luiz Miguel e do capitão Manoel Francisco Pedrozo, sendo esta concessão
+para o suplicante e seus sucessores, e sem outro ônus que o dízimo a dita guardadas
+todas as disposições e claúsulas legais a este respeito = Pede a Vossa Excelência se
+digne de lhe deferir, como suplica = E receberá mercê = E sendo visto pelo dito
+ex-govenador o seu requerimento, depois de lhe fazer declarar por termo de juramento
+que não possuía outra sesmaria, determinou por despacho de 22 de novembro de 1820,
+que a câmara respectiva mandasse por editais na forma da lei por tempo de 30 dias, e
+lhe informasse se havia terceiro perjudicado; a que a câmara satisfez em ofício de 20 de
+janeiro de 1821, declarando terem-se oposto Maria de Figueiredo e o capitão Manoel
+Francisco Pedroso, cujos requerimento remeteu; a vista do que mandou por despacho de
+
+27 janeiro do mesmo ano, que a câmara de Santo Antão avisasse o suplicante e seus
+oponentes para comparecerem na secretaria do governo com seus títulos, o que assim se
+cumpriu, e sendo o dito capitão convencido da ilegalidade com que se opunha, ficou
+sendo única oponente a referida Maria de Figueiredo, em virtude do que, mandou
+informar o juiz das sesmarias, ouvindo a dita Maria de Figueiredo, por despacho de 6 de
+agosto do referido ano; e não se achando na terra o dito juiz, como fez constar por
+certidão; o suplicante apresentou desistência legal da dita, assinada por seu procurador o
+filho Cosme José de Vasconselos, judicialmente feita: em consequência de que mandou
+por despacho do 8 do dito mês e ano informar o desembargador juiz dos feitos da
+Coroa, que a vista da dita desistência, nenhum embaraço lhe pôs, e o mesmo fizera o
+doutor procurador da Coroa e Fazenda e o escrivão deputado da junta da fazenda
+pública, que mandou responder por despacho de 22 e 27 do mesmo mês o que sendo
+tudo presente a junta governativa, ordenou por despacho de 14 de setembro do dito ano,
+que se lhe passasse a competente carta, mas como por efeito do decreto das cortes
+gerais, extraordinárias e constituintes da nação portuguesa e da carta régia tudo de 2 do
+mesmo mês e ano, se procedesse a eleição legal de uma junta provisória para governar
+esta província, não teve por então efeito aquele despacho, que sendo-nos apresentado
+com todos os papéis que lhe são relativos, examinado tudo por nós e julgando-o
+conforme o mandamos cumprir por despacho de 27 de setembro do corrente ano. E
+portanto, pela faculdade que nos é concedida no capítulo 15 do regimento deste
+governo, havemos por bem dar em nome de Sua Majestade imperial constitucional, ao
+dito José Antonio Ferreira a dita meia légua de terra na forma dita, pagando o foro anual
+de 2000 réis em observância da Real Ordem de 28 de setembro de 1700, de que deu
+fiança na contadoria da junta da fazenda pública a folha 63 do livro 7º delas. A qual
+sesmaria possuirá e gozará ele, suplicante, e seus herdeiros, ascendentes e descendentes,
+como sua, que fica sendo de hoje para todo sempre, com todas as matas, campos, rios,
+águas, testadas, logradouros e mais úteis, que nelas se compreendem, não perjudicando
+a terceiro, e não passará a religiões e pessoas eclesiásticas, salvo sendo com os mesmos
+encargos, com que as possuem os seculares, e nunca se dividirá em porções, nem se
+partirá senão por estimação, andando encabeçada em uma só pessoa, na forma da
+ordenação do livro 4º titulo 96 §23, e assim não passará a herdeiros, ou quaisquer outras
+pessoas, sem consentimento da junta da fazenda pública para nela se darem novas
+fianças, e se fazerem as devidas escriturações; ficando livres para a serventia dos povos
+todas as estradas, rios, pontes e pedreiras, e reservadas ao patrimônio público as
+
+madeiras de construção, pau brasil, e viveiros de quaisquer metais: e será obrigado a
+requerer dentro de 3 anos confirmação, medição e demarcação, a povoá-la e cultivá-la
+na forma da Ordem Régia de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e
+não o cumprindo assim, se haverão por devolutas, e novamente se conferirão a quem as
+requerer. Pelo que, ordenamos aos ministros da fazenda e justiça, e mais pessoas a quem
+tocar. Cumpram e façam cumprir e guardar esta carta de data de sesmaria, como nela se
+contém, fazendo dar ao suplicante posse real, efetiva e atual na forma da ordenação,
+título das sesmarias. Em firmeza do referido lhe mandamos passar a presente, sendo por
+nós assinada e selada com o sinete de armas reais, a qual se registrará na secretaria deste
+governo, na da junta da fazenda pública e aonde mais tocar. Manoel dos Passos e
+Figueiros, oficial maior da secretaria, a fez em o Recife de Pernambuco aos 20 de
+novembro de 1822 = E eu, José Mariano de Albuquerque Maranhão = Francisco Paes
+Barreto = Francisco de Paula Gomes dos Santos = José Mariano de Albuquerque
+Cavalcante = Carta de data de sesmaria pela qual Vossas Excelências hão por bem
+conceder a José Antonio Pereira meia légua de terra no lugar denominado a lagoa do
+Mari, termo da vila de santo Antão, em nome do senhor Dom Pedro primeiro Imperador
+constitucional e defensor perpétuo do Brasil, como nela se declara = Para Vossas
+Excelências verem = por despacho do governo de 27 de setembro de 1822.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 212-214.
+Observação:
+O nome do suplicante consta como Jozé Antonio Pereira, o que foi mofidicado para
+José Antonio Pereira, seguindo o padrão proposto para a SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

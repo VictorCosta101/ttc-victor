@@ -1,0 +1,78 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0238
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0311",
+  "Nome": "Manuel da Silva Guimarães",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "07-06-1785",
+  "Observações da sesmaria": "O suplicante requereu uma légua e meia de comprimento e uma légua de largura no rio Camaragibe, freguesia de Una, a partir da Laje de Santo Antônio e da Cachoeira do Félix pelo rio acima.",
+  "Localidade": "Freguesia de Una",
+  "Marcos Geográficos": "Rio Camaragibe, Laje de Santo Antônio e Cachoeira do Félix",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.81.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0238"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0238
+Carta de concessão de Manoel da Silva Guimarães de 07/06/1785
+Sesmaria de uma légua e meia de terra de comprido e uma de largo, na freguesia de Una,
+pelo rio de Camaragibe acima, da parte do sul, principiando da Laje de Santo Antônio e
+da Cachoeira do Félix, pelo dito rio acima, concedida em 7 de junho de 1785 a Manoel
+da Silva Guimarães e seus herdeiros ascendentes e descendentes, pelo capitão-general
+José César de Menezes, com o foro anual de 6 mil réis, como determina a citada Real
+Ordem; a qual não poderá passar a religiões e pessoas eclesiásticas por título algum,
+salvo com os mesmos encargos, por que possuem os seculares, e nem ser dividida ou
+partida, como dispõe a citada ordenação. c/c no livro 7º folha 69.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 81.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

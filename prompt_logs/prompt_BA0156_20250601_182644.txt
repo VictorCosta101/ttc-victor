@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0156
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Peixoto Viegas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-04-1655",
+  "Observações da sesmaria": "Não foram informadas as medidas da sesmaria, apenas que ela se estendia entre os rios Paraguaçu e Jacuípe.",
+  "Localidade": "Entre os rios Paraguaçu e Jacuípe",
+  "Marcos Geográficos": "Rio Paraguaçu; Rio Jacuípe.",
+  "Justificativas": "Tinha cabedal; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que as terras que já possuía não eram o suficiente para a criação de gado que ele pretendia; alegou que nas proximidades das terras tinha muitos índios \"brabos\". ",
+  "Observações do deferimento e da concessão": "O provedor afirmou que as terras solicitadas pelo suplicante eram inúteis, por isso, seria de grande proveito para fazenda Real caso ele conseguisse tirar algum proveito. O governador afirmou que as terras não poderiam entrar nas terras de Luís Figueiredo, que ficavam na mesma região.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Mateus Ferreira Vilas Boas",
+  "referencia": "BA0156"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de outra carta de sesmaria de João Peixoto Viegas 
+Dom Jerônimo de Ataíde, conde de atoguia etc. Faço saber aos que esta carta de sesmaria virem 
+que esta carta de sesmaria virem que João Peixoto Viegas me enviou a representar a petição 
+cujo o teor é o seguinte: diz João Peixoto Viegas que de 5 anos a esta parte tem povoado com 
+quantidade de gados, gente e escravos as terras que chamam de Itapororocas e terra nova de 
+Jacoípe nos limites da cachoeira, termo desta cidade: as quais ele, suplicante, houve por título 
+de compra de João Lobo de Mesquita estando despovoadas e inabitadas havia 20 anos pelos 
+assaltos e mortes que nelas haviam feito e fazia muitas vezes o gentio bravo: e ele, João Peixoto 
+Viegas as povoou de gados e escravos criados e moradores com armas e casas fortes de sobrado 
+e pedra de cal e uma igreja no que tem feito muitas grandes despesas de Fazenda e dado muito 
+crescimento as rendas de Sua Majestade e segurança aos moradores que lhe são vizinhos e 
+porquanto o gado vai em crescimento e não bastam para apassentá-lo as ditas suas terras e nas 
+cabeceiras delas para o poente e noroeste que ficam entre os rios de Paraguaçu e Jacuípe até 
+suas nascenças tem notícia haver entre as grandes serras e matos inúteis que ali se estendem 
+alguns campos que se podem aproveitar e povoar os quais nunca até este dia penetrou gente 
+branca nem foram sabidos e estão devolutas pelas grandes caatingas e dificuldades de serras e 
+matos que os cercam e principalmente sujeitas do gentio brabo que as não deixa entrar nem 
+descobrir, e ele, suplicante, o tem feito nas que comprou e fará também nestas porque tem 
+cabedal e fábrica para o conseguir inda que com grande trabalho e despesa: no que receberá o 
+bem comum desta república, conveniência e utilidade, e as rendas de Sua Majestade 
+acrescentamento. Pede a Vossa Excelência lhe faça mercê em nome de Sua Majestade dar-lhe 
+de sesmaria e por devoluta e nunca povoado toda a terra que assim se achar e houver por entre 
+os dois Rios Paraguaçu e Jacuípe, ficando os ditos rios por limite e desmarcação, o Paraguaçú, 
+da banda do sul e do Jacuípe pelo norte e nascente ao entrar no mesmo Paraguaçu com todos 
+os sacos, enseadas voltas, recantos, águas, matos e salinas que dentro dos ditos rios se acharem 
+até suas nascenças. E receberá mercê. E vista a informação que sobre a dita petição me fez o 
+provedor da Fazenda Real deste Estado que é a seguinte: as terras que pede o suplicante são 
+inúteis e nelas descobrir algumas que povoar será de muito serviço de Sua Majestade e aumento 
+de sua Real Fazenda e para o fazer tem cabedal e posses, não prejudicando a terceiro, pode 
+Vossa Excelência sendo servido conceder-lhe a sesmaria que pede em nome de Sua Majestade. 
+Bahia, 2 de abril de 1655 // Mateus Ferreira Vilas Boas // e os capítulos dos regimentos sobre 
+as sesmarias que nestas hei por expressados constar do cabedal do suplicante digo do impetrante 
+e o particular serviço que fará a Sua Majestade e benefício a esta república em cultivar aquelas 
+terras. Hei por bem e lhe faço mercê em seu Real nome dar de sesmaria toda a terra que se achar 
+e houver por entre os 2 Rios Paraguaçu e Jacuípe até suas nascenças assim e da maneira que 
+pede e confronta na petição acima inserta com todas as suas águas, pontas, enseadas, campos, 
+madeiras, testadas e logradouros as quais lhe dou livres, isentas e desimpedidas de foro, tributo 
+ou pensão alguma, salvo o dízimo a Deus que pagará dos frutos e criações que nelas houver e 
+por elas será obrigado a dar caminhos livres ao conselho para pontes, fontes e pedreiras com 
+cláusula de não prejudicar a terceiro e porquanto a mulher, filhos e mais herdeiros de Miguel 
+de Figueiredo como tinham 20 léguas de terra em quadra do pé da serra de Jacuabína para o 
+norte e para o este das quais pertenciam a metade do capitão Bernardo Vieira Ravasco a qual 
+não estava povoada nem tinham tomado posse, assim por sua morte, como pelo impedimento 
+do gentio bárbaro que ora se evitara e entenderam que lhe podia prejudicar esta data me pediam 
+mandasse declarar a carta dela que se concedia ao impetrante não prejudicando a terceiro as 
+suas 20 léguas de terra. Hei por bem de declarar que terá efeito esta presente carta, não 
+prejudicando a referida data de Luís Figueiredo sem embargo de não haver tomado posse dela 
+
+pelas sobreditas causas. Pelo que mando aos oficiais e justiça a que toca lhe deem a pose real, 
+efetiva e atual, e aos ministros e justiças a que o conhecimento desta com direito pertencer a 
+cumpram e façam cumprir e guardar, tão pontual e inteiramente como nela se contém, sem 
+dúvida, embago e nem contradição alguma. Para firmeza do que lhe mandei passar a presente 
+sob meu sinal e selo de minhas armas a qual se registrará nos livros a que tocar // Manuel Velho 
+Seixas // a fez nesta cidade de Salvador, Bahia de Todos os Santos em os 10 dias do mês de 
+abril, ano de 1655 // Bernardo Vieira Ravasco // o fiz escrever. O conde de atoguia. Por 
+despacho de 5 de abril de 1655. Registre-se nos livros da Fazenda. Bahia, 18 de abril de 1655 
+anos // Ferreira // E em 19 do dito mês e ano se registrou // Gonçalo Pinto de Freitas // 
+ 
+Referências: 
+DHBN, vol. 18, Pg. 351 - 354 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

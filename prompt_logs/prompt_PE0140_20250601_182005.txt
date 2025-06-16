@@ -1,0 +1,188 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0140
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0260",
+  "Nome": "Miguel Bezerra da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "16-10-1820",
+  "Observações da sesmaria": "O suplicante requereu a concessão dos títulos da fazenda Pedra Miúda que possuía na ribeira do Ipojuca, freguesia de São José dos Bezerros, termo da vila de Santo Antão. A fazenda possuía uma légua de comprimento e uma légua de largura e possuía por limites a leste o alferes José Camelo da Silva, a oeste o capitão mor João Luiz da Rocha, a norte o capitão Aleixo Felix e pelo sul o rio Ipojuca,",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Rio Ipojuca",
+  "Ribeira": "do Ipojuca",
+  "Confrontantes": "José Camelo da Silva, João Luiz da Rocha, Aleixo Felix ",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Luiz do Rego Barreto determinou o pagamento anual do foro régio no valor de seis mil réis. O governador Luiz do Rego Barreto determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0140"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0140
+Carta de doação e sesmaria de Miguel Bezerra da Silva - 30/09/1820
+Capitão Miguel Bezerra da Silva com uma légua de terra de sesmaria na freguesia
+de São José dos Bezerros, termo da vila de Santo Antão.
+Luiz do Rego Barreto, do Conselho de Sua Majestade, Fidalgo da Casa Real,
+comendador das Ordens de Cristo, e torre e espada condecorado com a Cruz Grande das
+sete Batalhas, por Sua Majestade britânica, marechal de campo dos reais exércitos,
+comandante em chefe da divisão militar de Pernambuco, governador e capitã- general
+da mesma capitania etc. Faço saber aos que esta carta de data de sesmaria virem que o
+capitão Miguel Bezerra da Silva me fez o requerimento do teor seguinte = Ilustríssimo e
+excelentíssimo senhor = Diz o capitão Miguel Bezerra da Silva, que ele é senhor e
+possuidor de uma propriedade de terras de criar gado, onde o suplicante tem
+estabelecido sua fazenda denominada Pedras-Miúdas, situada na ribeira do rio Ipojuca
+da parte do norte, freguesia de São José dos Bezerros, termo de Santo Antão, cujo
+terreno de sua pertenção terá a superfície de uma légua quadrada, segundo as
+confrontações irregulares dos éreos testantes, que são pelo lado de leste o alferes José
+Camelo da Silva e outros do oeste o capitão-mor João Luiz da Rocha e o capitão Alexo
+Feliz do norte com que deva e haja de confrontar e pelo sul a direção do mesmo rio
+Ipojuca, e porque o suplicante em consequência das respeitáveis ordens de Vossa
+Excelência quer assegurar a sua posse e títulos com as solenidades que unicamente
+podem autorizá-la, vem por isso requerer a Vossa Excelência seja servido conceder-lhe
+em nome de Sua Majestade fidelíssima a dita légua de terras por sesmaria, e quando não
+possa preenchê-la, por se lhe oferecerem oposições legais por qualquer dos indicados
+pontos, nesse caso se entenderá sobre o lado que se oferecer devoluto ou do contrário
+restringir-se aos limites que lhe assinarem os títulos legais que na sua medição
+houverem de se lhe apresentar, e portanto: pede o suplicante a Vossa Excelência seja
+servido deferir-lhe na forma requerida, mandando proceder as diligências do estilo: E
+receberá mercê = E sendo visto o seu requerimento, ordenei por despacho de 28 de
+março e 18 de abril do mesmo presente ano, que informassem o doutor provedor da
+Real Coroa e Fazenda e escrivão deputado da mesma Real Fazenda, e informando-me
+ambos que se lhes não oferecia dúvida alguma por despacho de 8 de maio do mesmo,
+mandei passar a portaria do teor seguinte = o juiz das sesmarias ou o juiz ordinário da
+
+vila de Santo Antão, junto com um piloto idôneo e mais pessoas necessárias, passaram
+ao lugar das pedras miúdas na margem esquerda do rio Ipojuca, freguesia de São José
+dos Bezerros, entre as propriedades do capitão-mor João Luiz da Rocha e do alferes
+José Camelo da Silva, e no rumo da primeira junto à margem do rio, e por parte de
+Miguel Bezerra da Silva fará assentar o primeiro marco, e seguindo rio abaixo com a
+medição, colocará outro marco aonde encontrar o rumo dos referidos éreos, seguirá por
+eles tanto quanto baste para poder ficar com um quarto rumo um terreno equivalente a
+uma légua quadrada, se tanto houver devoluto, e não o havendo até onde encontrar
+legítima oposição, e ficarão postos marcos em todas as divisões e mudanças de rumo.
+Concluída por esta forma a medição e demarcação, o mesmo juiz me remeterá com esta
+o auto original passado por sentença e deixará no arquivo da Câmara o traslado, e no
+dito auto fará menção da extensão total de cada um dos rumos e de todos os acidentes
+do terreno como pântanos, lagoas, regatos, rios, caminhos, estradas, planícies, elevações
+de [terreno], montes, serras, pedras notáveis e tudo quanto possa servir de guia e prova
+na verificação dos mesmos, para o que determinará ao piloto que declare sempre o
+número de braças com que chegar a cada um de tais acidentes e as direções donde e
+para onde eles correm. O juiz desta medição, durante ela não aceitará oposição nem
+embargo com suspensão que não seja fundado em uma carta de sesmaria, confirmada
+por Sua Majestade ou que pelo menos não tenha exercido o prazo para a confirmação e
+de todas as outras oposições ou embargos, dará vista às partes em auto separado,
+continuando sempre a medição e demarcação até a passar por sentença. Essa minha
+portaria não terá vigor por mais de um ano, findo o qual ficará de nenhum efeito, como
+se nunca fora passada. Recife, 18 de maio de 1820. Em virtude da qual me remeteu o
+juiz competente o auto de medição e demarcação e o mapa respectivo, que a parte será
+obrigada a apresentar com esta carta quando subir a confirmação, pelos quais se vê que
+assentendo-se o primeiro marco na margem esquerda do rio Ipojuca, no rumo da testada
+do capitão-mor João Luis da Rocha, seguirão o rumo de leste pela margem do rio
+Ipojuca com as suas voltas, e colocarão o segundo marco na margem do mesmo rio e
+defronte do poço denominado do Acari, onde divide e faz extremo das terras
+demarcadas com as do éreo Manoel Ferreira d’Azevedo, 1900 braças distante do
+primeiro marco na direção geral de oeste para leste, proximamente e tomando o rumo de
+norte, colocarão um marco a 360 braças na dita direção, outro a 720 braças, outro a 870
+ditas, outro a 1670, outro a 2440, outro a 3 mil, outro a 3650, outro a 3930, outro a
+4500, outro a 4640 e o último a 4913, e neste lugar foram cravados dois por ser
+
+finalizado este rumo, e seguirão a direção e rumo de oeste, cravando um marco a 600
+braças de distância, outro a 1800 ditas, outro a 1320 e o último a 1900, e 50
+incompletas, finalizando o rumo; e neste lugar foram igualmente cravados dois marcos,
+indicando um rumo de sul, que continuando a seguir colocando um marco a 420 braças,
+outro a 450 ditas, outro a 1130, outro a 1920, outro a 2220, outro a 3120, outro a 3550,
+outro a 3740 e o último a 4973, junto ao primeiro marco indicando a direção de norte e
+sul. O primeiro rumo segue a margem do rio com as suas voltas e vem a terminar 60
+braças mais ao norte que o primeiro marco, de modo que supondo o primeiro e segundo
+marcos unidos com uma linha e dando aos outros rumos a sua devida extenção, vem a
+ser esta sesmaria um quadrilátero semelhante ao quadrilátero ABCD (figura de um
+retângulo). Cujos valores são AB igual a 1900 braças, BC a 4913 ditas, CD a 1950, DA
+a 4973, ângulo DAB a 90 graus dito DAB a 88 graus, 47 minutos e 13 segundos, e que
+compreende em braças quadradas 9.513.466 equivalentes a superfície de um quadrado
+de 3084 braças de lado, porém como nas voltas dos rios vem a perder para dentro da
+linha AB 500 e 13.500 quadrados de braça, resta para dentro da verdadeira demarcação
+uma superfície de 9 milhões de quadrados de braça, com diferença para menos de 34
+braças, o que é desprezível. E sendo assim examinada e vista a dita demarcação e
+medição, mandei por despacho de 30 de setembro deste ano que se passe carta de
+sesmaria. E portanto, pela faculdade que me é concedida no capítulo 15 do regimento
+deste Governo. Hei por bem dar em nome de Sua Majestade, El Rei Nosso Senhor, ao
+dito capitão Miguel Bezerra da Silva, a referida légua de terra, pagando o foro anual de
+6$ em observância da Real Ordem de 28 de setembro de 1700, de que deu fiança na
+contadoria da Junta da Real Fazenda, a folha 24 do livro com PE., a qual sesmaria
+possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua
+que fica sendo de hoje para todo o sempre com todas as matas, campos, rios, águas,
+testadas, logradouros e mais úteis que nela se compreenderem, não prejudicando a
+terceiro, e não passará a religião e pessoas eclesiásticas, salvo sendo com os mesmos
+encargos com que as possuem os seculares, e nunca se dividirá em porções nem se
+partirá se não por estimação, andam encabeçada em uma só pessoa na forma da
+ordenação do livro 4º título 96 § 23, e assim não passará a herdeiros ou qualquer outra
+pessoa sem consentimento da Junta da Real Fazenda, para nela se darem novas fianças e
+se fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as
+estradas, rios, fontes e pedreiras, e reservadas ao Real Patrimônio as reais madeiras de
+construção, pau-brasil e viveiros de qualquer metais, e como se acha medido e
+
+demarcado, será obrigado a requerer confirmação com os mesmos autos e planta, e
+aprová-la e cultivá-la dentro de 3 anos na forma da Real Ordem de 20 de outubro de
+1753 e alvará de 25 de janeiro de 1809, e não o cumprindo assim, se haverá por
+devoluta, e novamente se concederá a quem tocar. Cumpram e façam cumprir e guardar
+esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante posse
+real, efetiva e atual, na forma da Ordenação Título das sesmarias. Em firmeza do
+referido, lhe mandei passar por mim a presente sendo assinada e selada com o sinete das
+minhas armas, a qual se registrará na Secretaria deste Governo na Junta da Real
+Fazenda e aonde mais tocar, Manoel dos Passos e Figueiroa, oficial maior da Secretaria,
+a fez em o Recife de Pernambuco, aos 16 de outubro de 1820. Francisco José de Souza
+Soares d’ Andrea, secretário do Governo, a fiz escrever = Luiz do Rego Barreto = Carta
+de data de sesmaria, pela qual Vossa Excelência há por bem dar em nome de Sua
+Majestade, El Rei Nosso Senhor, ao capitão-mor Miguel Bezerra da Silva, o terreno
+nela declarado na freguesia de São José dos Bezerros, termo da vila de Santo Antão =
+Para Vossa Excelência ver = Por despacho do ilustríssimo e excelentíssimo senhor
+general, de 30 de setembro de 1820.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 181-184.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

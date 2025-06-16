@@ -1,0 +1,170 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0110
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Aleixos Manuel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Comprada",
+  "Data da petição": "03-09-1602",
+  "Data da concessão": "03-09-1602",
+  "Observações da sesmaria": "A terra havia sido comprada pelo suplicante a João Botelho 23 anos atrás, porém ele não a podia possuir por conta que ela já havia sido dada a Francisco Antunes, mas que acabou por abandoná-la. ",
+  "Localidade": "Não identificado",
+  "Justificativas": "Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A justificativa apresentada pelo suplicante diz respeito à compra, bem como às obras que realizou às suas expensas: \"e por ele suplicante tem feito no dito chão casas e benfeitorias que valem mais de r$ 500.000 e ora se teme que por alguma via lhe movam demanda ao tal chão\". Também alegou ter muitos filhos para amparar.",
+  "Observações do deferimento e da concessão": "A carta não dá especificações com relação às medidas da concessão.",
+  "Observações das exigências": "Citou-se o Regimento de D. Manuel, o qual diz: \"as terras que estiverem dentro do termo e limite da dita cidade de São Sebastião, que são 6 léguas para cada parte que não forem dadas a pessoas que as aproveitem ou, posto que o fossem, se as pessoas a que se deram as não aproveitarem no tempo que eram obrigadas por esta via ou por qualquer outra estiverem vagas, as podereis dar de sesmaria a quem a vós pedir e terei lembranças que não derdes a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente sem outro algum foro, somente o dizimo à Ordem do Mestrado de Nosso Senhor Jesus Cristo e com as condições e obrigações do foral dado às ditas terras do foral, digo, de minha Ordenação do Livro 4º, Título das sesmarias, em condição que a pessoa ou pessoas que residam na povoação da dita capitania ou nas terras que lhe assim forem dadas ao menos três anos, e que dentro do dito tempo as não possam vender, nem enlear, e se algumas pessoas a que foram dadas terras no termo da dita cidade e as estiveram perdidas por não as aproveitarem, e a vós tornarem a pedir, vós as podereis dar de novo com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes e isso se entenderá não sendo as ditas terras já dadas à outras pessoas. As águas dos ribeiros que estiverem dentro do dito termo que não foram dadas em que houver disposição. Ss. para se poderem fazer engenhos de açúcares ou de outras quaisquer coisas, dareis também pela dita maneira de sesmaria livremente, sem foro algum a que derdes para engenho de açúcar serão às pessoas que têm possibilidade para os poder fazer dentro do tempo que limitardes que será o que vos bem parecer e para serviço meneio dos ditos engenhos e açúcares, e granjearia deles lhes dareis aquela terra que virdes que para eles ( dareis aquela terra que virdes que para eles lhe) e necessário e as ditas pessoas a que assim derdes as ditas terras serão obrigadas de cada um em sua terra fazerem uma torre ou casa forte de cerca e grandura que segundo o lugar onde estiver vos parecer necessária para segurança do dito engenho e povoadores de seu limite diz que se fará declaração nas cartas que lhes passardes das ditas sesmarias, serão obrigados a aproveitarem as ditas águas e terras, como dito é, sem as poderem vender, nem traspassar à outras pessoas, nem por outra via enlear por tempo de três anos, e para se assim cumprir se trasladará nas cartas que lhe passardes das ditas sesmarias e serão este Capítulo, e assim o que está antes deste e se algumas pessoas a que forem dadas águas no termo da dita cidade de São Sebastião, assim presentes como ausentes e as tiverem perdidas, por não fazerem as benfeitorias, que eram obrigadas e as quiserem ora aproveitar e a vós pedirem para isto, vós as darei com as condições e obrigações contidas neste capítulo, não sendo já dadas à outras pessoas\". Ainda se impôs a exigência de \"haja a posse senhorio da dita água e chão das casas\", assim como determinou-se que \"aproveite e frutifique a dita água da dada desta em três anos primeiro seguintes, e cumpridos os ditos três anos que a tenha aproveitado como dito é, porque não fazendo ele assim, passados os ditos três anos, se dará a dita água que aproveitada não tiver de sesmaria, a quem as pedir para aproveitar, havendo nas ditas terras que se diz em sua petição, e quanto ao chão das casas que dito é, dentro dos ditos três anos ele o não poderá vender nem por alguma via enlear, nem transpassar sem licença do dito senhor capitão e governador ou de quem adiante tiver poder para a dar, e da dita maneira lhe dava e dá o dito chão e acabados os ditos três anos, ele não poderá vender, trocar, descambar, dar, doar ou fazer dele tudo que lhe bem vier, como causa sua própria, isenta que é, visto ter já feito no dito chão as casas e benfeitorias que diz nele\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0110"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0110
+Carta de pedido concessão de sesmaria de Aleixo Manuel Alvernos de 7 de setembro de 1602
+[F.19] Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento do
+nosso Senhor Jesus Cristo de 1602. Aos 7 dias do mês de setembro do dito ano, na dita cidade
+de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante
+nomeado, apareceu Aleixo Manuel Alvernos, cidadão desta dita cidade e morador nela, e me
+apresentou uma petição com despacho nela do Senhor Martim de Sá, capitão e governador da
+cidade, capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor. Da qual a
+petição de despacho dela o traslado é o seguinte: Aleixo Manuel Alvernos, morador nesta
+cidade há vinte três anos que ele comprou o chão em que mora por ora pelo preço de r$
+30.000 a um João Botelho, oleiro, os quais chãos ele suplicante não possuía no tal tempo que
+o dito João Botelho os não podia vender, por razão do dito chão não ser de direito seu, por ter
+dado o primeiro muito tempo um Francisco Antunes, o qual se foi desta terra antes de viver
+nela três anos contidos, conforme ao foral e tem pedido o dito chão por não fazer benfeitorias
+nele, e por ele suplicante tem feito no dito chão casas e benfeitorias que valem mais de r$
+500.000 e ora se teme que por alguma via lhe movam demanda ao tal chão, pede a Vossa
+Senhoria, sem embargo de lhe custar seu dinheiro, lhe faça mercê de lhe dar por perdido
+assim e da maneira que eu tinha por carta o proprietário dele Francisco Antunes, visto ter
+perdido, digo, visto ter aproveitado e beneficiado e assim lhe faça mercê de lhe dar qualquer
+água para engenho de açúcar que estiver nas terras que assim foram dadas pelo senhor
+Salvador Correia de Sá, ou em outra qualquer terra, que ele suplicante, tenha comprado por
+seu dinheiro, visto ter muitos filhos para amparar. No que receberá mercê. Despacho do
+senhor capitão e governador: Dou ao suplicante os chãos e águas na forma em que sua petição
+pede, sendo como diz. Rio de Janeiro, aos 3 dias de setembro de 1602. Martim de Sá. E tudo
+visto pelo dia senhor capitão e governador a petição do dito suplicante Aleixo Manuel, e o
+que ele pedia, visto ser justo e havendo respeito as razões que na sua petição diz e alega e o
+proveito que se pode seguir acerca da República e ao serviço de Deus
+e Del Rei nosso
+Senhor, e para a terra se povoar, deu ao dito Aleixo Manuel os ditos chãos e águas que pede,
+porquanto, dizia que eu tinha aproveitado efeito as ditas benfeitorias, não sendo já dado a
+outra pessoa ou pessoas primeiro, o qual chão diz que está no, digo, o qual chão e água diz
+que estão nos ditos lugares que partem pelas ditas confrontações como em sua petição diz, o
+que tudo lhe deu e concedeu pela maneira adiante declarada, segundo forma do Regimento de
+El Rei nosso Senhor de que o traslado é o seguinte: as terras que estiverem dentro do termo e
+limite da dita cidade de São Sebastião, que são 6 léguas para cada parte que não forem dadas a
+pessoas que as aproveitem ou, posto que o fossem, se as pessoas a que se deram as não
+aproveitarem no tempo que eram obrigadas por esta via ou por qualquer outra estiverem
+vagas, as podereis dar de sesmaria a quem a vós pedir e terei lembranças que não derdes a
+cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que
+podem granjear e aproveitar, as quais terras assim dareis livremente sem outro algum foro,
+somente o dizimo à Ordem do Mestrado de Nosso Senhor Jesus Cristo e com as condições e
+obrigações do foral dado às ditas terras do foral, digo, de minha Ordenação do Livro 4º, Título
+das sesmarias, em condição que a pessoa ou pessoas que residam na povoação da dita
+capitania ou nas terras que lhe assim forem dadas ao menos três anos, e que dentro do dito
+tempo as não possam vender, nem enlear, e se algumas pessoas a que foram dadas terras no
+termo da dita cidade e as estiveram perdidas por não as aproveitarem, e a vós tornarem a
+pedir, vós as podereis dar de novo com as condições e obrigações contidas neste capítulo, o
+qual se trasladará nas cartas porque as assim derdes e isso se entenderá não sendo as ditas
+
+terras já dadas à outras pessoas. As águas dos ribeiros que estiverem dentro do dito termo que
+não foram dadas em que houver disposição. Ss. para se poderem fazer engenhos de açúcares
+ou de outras quaisquer coisas, dareis também pela dita maneira de sesmaria livremente, sem
+foro algum a que derdes para engenho de açúcar serão às pessoas que têm possibilidade para
+os poder fazer dentro do tempo que limitardes que será o que vos bem parecer e para serviço
+meneio dos ditos engenhos e açúcares, e granjearia deles lhes dareis aquela terra que virdes
+que para eles ( dareis aquela terra que virdes que para eles lhe) e necessário e as ditas pessoas
+a que assim derdes as ditas terras serão obrigadas de cada um em sua terra fazerem uma torre
+ou casa forte de cerca e grandura que segundo o lugar onde estiver vos parecer necessária para
+segurança do dito engenho e povoadores de seu limite diz que se fará declaração nas cartas
+que lhes passardes das ditas sesmarias, serão obrigados a aproveitarem as ditas águas e terras,
+como dito é, sem as poderem vender, nem traspassar à outras pessoas, nem por outra via
+enlear por tempo de três anos, e para se assim cumprir se trasladará nas cartas que lhe
+passardes das ditas sesmarias e serão este Capítulo, e assim o que está antes deste e se
+algumas pessoas a que forem dadas águas no termo da dita cidade de São Sebastião, assim
+presentes como ausentes e as tiverem perdidas, por não fazerem as benfeitorias, que eram
+obrigadas e as quiserem ora aproveitar e a vós pedirem para isto, vós as darei com as
+condições e obrigações contidas neste capítulo, não sendo já dadas à outras pessoas, com as
+quais condições, obrigações e declarações que assim deu o dito senhor capitão e governador o
+dito chão e água ao dito Aleixo Manuel Alvernos, pela sobredita maneira e para sua guarda e
+segurança lhe mandou ser feita esta carta pela qual manda que ele haja a posse senhorio da
+dita água e chão das casas, que dito é, para sempre para ele, seus filhos e seus netos,
+herdeiros, sucessores, ascendentes e descendentes que após dele vierem com a tal condição e
+entendimento, que ele aproveite e frutifique a dita água da dada desta em três anos primeiro
+seguintes, e cumpridos os ditos três anos que a tenha aproveitado como dito é, porque não
+fazendo ele assim, passados os ditos três anos, se dará a dita água que aproveitada não tiver de
+sesmaria, a quem as pedir para aproveitar, havendo nas ditas terras que se diz em sua petição,
+e quanto ao chão das casas que dito é, dentro dos ditos três anos ele o não poderá vender nem
+por alguma via enlear, nem transpassar sem licença do dito senhor capitão e governador ou de
+quem adiante tiver poder para a dar, e da dita maneira lhe dava e dá o dito chão e acabados os
+ditos três anos, ele não poderá vender, trocar, descambar, dar, doar ou fazer dele tudo que lhe
+bem vier, como causa sua própria, isenta que é, visto ter já feito no dito chão as casas e
+benfeitorias que diz nele, o que tudo lhe deu e concedeu em nome Del Rei Nosso Senhor, o
+que tudo manda que se cumpra e guarde, sem alguma outra via nem embargo que lhe a ele
+seja posto, e que esta carta seja registrada dentro de um ano nos livros da Fazenda Real, como
+o dito senhor em seu Regimento manda, sob as penas nele contidas e declaradas, porque o
+sobredito Aleixo Manuel Alvernos, suplicante, tudo prometeu de ter, manter e cumprir pela
+dita maneira lhe mandou passar esta carta de sesmaria e por verdade, eu Pero da Costa,
+escrivão das sesmarias e tabelião das notas por El Rei Nosso Senhor, na cidade de São
+Sebastião e em seus termos, que este instrumento de carta de sesmaria escrevi e tomei nos
+livros de notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam,
+onde o dito instrumento fica assinado pelo dito senhor capitão e governador, com a entrelinha
+que diz: "fizer". //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria do chão para casas e águas que pediu Aleixo Manuel
+Alvernos.
+
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+129-132;   Documento Original : Fl.19.
+Original no livro
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

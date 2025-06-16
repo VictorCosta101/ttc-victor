@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0006
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pero Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "16-10-1573",
+  "Data da concessão": "16-10-1573",
+  "Observações da sesmaria": "Título original: Carta do chão para casas de Pero Dias trabalhador que está com os padres da companhia.",
+  "Localidade": "Rio de Janeiro",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse direito aos sucessores; Mandou-se dar posse atual; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Provisão",
+  "referencia": "RJ0006"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0006 
+ 
+Carta de concessão de sesmaria de Pero Dias de 16 de outubro de 1573 
+ 
+Forra 
+Saibam quantos este instrumento de carta de sesmaria virem que no ano do nascimento do nosso 
+Senhor Jesus Cristo de 1573 anos, aos 16 dias do mês de outubro do dito ano nesta cidade de 
+São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas de mim escrivão abaixo 
+nomeado, apareceu Pero Dias, homem trabalhador que ora está com os padres da Companhia 
+mora digo de Jesus desta dita cidade e morador nela, e me apresentou uma petição com os 
+despachos nela do Senhor Cristóvão de Barros, capitão e governador desta dita cidade e 
+capitania e gover- [falta folha.][...] //Cristóvão de Barros// Traslado da provisão do Senhor 
+capitão e governador. Eu El Rei faço saber aos que em meu alvará virem, que pela confiança 
+que tenho em Cristóvão de Barros que nas coisas que o encarregar me servirá e fará com o 
+recado e felicidade que o meu serviço cumpre, ei por bem e me apraz de lhe fazer mercê de 
+capitão e governador da capitania e cidade de São Sebastião do Rio de Janeiro, nas partes do 
+Brasil, por tempo de quatro anos que servirá com os poderes e alçada que teve e de que usou 
+Salvador Correia de Sá, sobrinho de Mem de Sá do meu Conselho, que ora está por meu 
+governador nas ditas partes o tempo que serviu por dela prover o dito Mem de Sá, seu tio e 
+conforme o regimento que lhe para isso foi dado e portanto notifico assim ao dito Mem de Sá 
+e mando-lhe que meta o dito Cristóvão de Barros em posse da dita capitania governança para a 
+servir pelos ditos quatro anos como dito e governança, em minha Chancelaria lhe será dado 
+juramento que bem e verdadeiramente sirva guardando em tudo meu serviço e o direito as partes, 
+e antes que o dito Cristóvão de Barros parta deste Reino me dará menagem pela fortaleza da 
+dita capitania segundo ordenança e de como a deu apresentará certidão nas custas deste de 
+Duarte Dias, fidalgo de minha casa e meu secretário o qual hei por bem que valha e tenha força 
+e vigor como se fosse carta feita em meu nome e asselada do meu selo pendente sem embargo 
+da ordenação do Livro 2º, título 20, que diz que as coisas cujo efeito houver de durar mais de 
+um ano passem por cartas e passando por alvarás não valham. André Vidal o fez em Lisboa a 
+31 de outubro de 1571. Sebastião da Costa o fez de escrever. E sendo caso que Cristóvão de 
+Barros vá de rota abatida daqui tomar a dita cidade de São Sebastião, por esta causa lhe não 
+poder dar a posse a Mem de Sá como acima é declarado, mando aos juízes e vereadores da dita 
+cidade que lhe deem a dita posse e cumpram este alvará como se nele contém. Rei. O qual 
+alvará estava assinado e tinha todas as verbas, descrições, registros e certidão que a dita 
+provisão requer por virtude do qual eu escrivão dou fé. Mem de Sá governador geral nos poderes 
+que concedeu a Salvador Correia de Sá de que usou nesta capitania lhe deu poder para dar de 
+sesmaria terras e chãos conforme o regimento e capítulo Del Rei nosso Senhor, por onde as ele 
+dava na Baía de Todos os Santos, o qual capítulo é o seguinte. §As terras e águas dos ribeiros 
+que estiverem dentro do termo e limite da dita cidade, que são 6 léguas para cada parte que não 
+forem dadas as pessoas que as aproveitem e estiverem vagas e devolutas, para mim e por 
+qualquer via ou modo que seja podereis dar de sesmaria as pessoas que vo-las pedirem as quais 
+terras assim dareis livremente sem outro algum foro, nem tributo somente os dízimos a Ordem 
+de nosso Senhor Jesus Cristo com as condições e obrigações do foral dado as ditas terras de 
+minha ordenação do 4º Livro 4º, título, das sesmarias com tal condição que o tal pessoa ou 
+pessoas residam na povoação da dita Baía ou das terras que lhe assim forem dadas ao menos 
+três anos,  que dentro do dito tempo as não possam vender, nem enlear e tereis lembrança que 
+não deis a cada pessoa mais terra que aquela que virdes ou vos parecer que segundo sua 
+possibilidade pode aproveitar, essas algumas pessoas a que forem dadas terras no dito termo e 
+as estiverem perdidas por as não aproveitarem e vo-las  tornarem a pedir-vos, as dareis de novo 
+para as aproveitarem como as condições e obrigações contidas neste capítulo, a qual se 
+
+trasladará nas cartas das ditas sesmarias. Com as quais condições, obrigações e declarações que 
+lhe assim deu o dito chão do dito Senhor capitão e governador ao dito suplicante Pero Dias, 
+pela sobredita maneira,  para sua guarda lhe mandou ser feita esta carta pela qual manda que 
+lhe haja a posse e senhorio dele para sempre para si e todos seus herdeiros, sucessores, 
+ascendentes e descendentes que após dele vierem com tal condição e entendimento que ele viva 
+nesta dita cidade ou em seu termo os ditos três anos, em dito regimento declarados dentro do 
+qual tempo ele não poderá vender, nem enlear o dito chão por qualquer via que seja sem licença 
+do dito Senhor capitão e governador, ou de quem ao diante tiver poder para a dar e da dita 
+maneira lhe dava o dito chão e acabados os ditos três anos tendo ele no dito chão feito casas e 
+benfeitorias, ele poderá vender, trocar, descambar, dar, doar e fazer dele o que lhe bem vier 
+como de coisa sua própria isenta que é porque o sobredito Pero Dias suplicante tudo prometeu 
+de ter, manter e cumprir pela dita maneira lhe mandou passar esta carta de sesmaria a qual 
+manda que se cumpra e guarde sem dúvida, nem embargo que lhe seja posto, que esta carta seja 
+registrada dentro de um ano nos livros da Fazenda Real como dito Senhor em seu regimento 
+manda só as penas neles contidas e declaradas e por verdade o Pero da Costa escrivão das 
+sesmarias e tabelião das notas por El-Rei nosso Senhor, nesta cidade de São Sebastião e seus 
+termos que este instrumento de carta de sesmaria escrevi nos meus livros das notas e tombo das 
+cartas as sesmarias, desta cidade que em meu poder ficam, onde o dito instrumento fica assinado 
+pelo dito senhor, capitão e governador com entrelinha que diz "e conforme o regimento que lhe 
+para isso foi dado". //Cristóvão de bairros// 
+ 
+- 
+Fim da Transcrição - 
+ 
+Observações: 
+Título original: Carta do chão para casas de Pero Dias trabalhador que está com os padres da 
+companhia. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 41;  
+Documento Original :  f. VIIIv. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.41. Códice 50.5.3A(1573-4). 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

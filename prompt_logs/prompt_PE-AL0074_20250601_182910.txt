@@ -1,0 +1,84 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0074
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0393",
+  "Nome": "João Gomes Calheiros, Maria de Amorim Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-10-1705",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no termo da vila das Alagoas na fronteira do engenho da Garça Torta em direção ao rio Mundaú acima.",
+  "Localidade": "Rio Mundaú",
+  "Confrontantes": "Engenho da Garça Torta",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "\tEsta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador Francisco de Castro Morais determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0074"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0048 
+ 
+Carta de concessão de João Gomes Calheiros e Maria de Amorim Barbosa de 10/10/1705 
+Sesmaria de 1 légua de terra no termo da Vila das Alagoas pelo rio Mundaú acima, nas 
+cabeceiras ou confins das do engenho da Garça Torta, fazendo quadra para o oeste, e 
+fazendo do comprimento largura ou da largura comprimento, concedida em 10 de outubro 
+de 1705 a João Gomes Calheiros e Maria de Amorim Barbosa,  e seus herdeiros, pelo 
+Governador Dom Fernando Muniz Mascarenhas e Alencastro, com foro de 4.000 réis por 
+légua.  
+Na margem do respectivo livro achava-se a seguinte observação: 
+Fica pertencendo esta sesmaria a Antonio Marinho Falcão, como herdeiro de João Gomes 
+Calheiros e Maria de Amorim Barbosa; pelo que se abriu nova conta no Livro de Contas 
+Correntes número 7º folha 180. Recife de Pernambuco 1º de outubro de 1804. 
+. 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.117. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

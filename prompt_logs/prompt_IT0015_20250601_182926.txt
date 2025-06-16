@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0015
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0419",
+  "Nome": "Manuel de Barros Rego (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-05-1673",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura na freguesia de Goiana, ao longo do rio Capibaribe acima, entre as terras de Gonçalo Gonçalves, Diogo Dias, Salvador Moura, Fernando Bezerril e Digo Carneiro Viegas. \r\n",
+  "Localidade": "Freguesia de Goiana",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Confrontantes": "Gonçalo Gonçalves, Diogo Dias, Salvador Moura, Fernando Bezerril e Digo Carneiro Viegas",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "referencia": "IT0015"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0015
+Carta de concessão de Manuel de Barros Rego de 03/05/1673
+Registro de uma sesmaria que o governador confirmou ao alferes Manuel de Barros
+Rego.
+Afonso Furtado de Castro do Rio de Mendonça etc. Faço saber aos que este alvará de
+doação e sesmaria virem, que o alferes Manuel de Barros Rego, morador na freguesia de
+Goiana, me enviou a representar por sua petição, cujo teor é o seguinte: = Senhor, o
+alferes Manuel de Barros Rego, morador na freguesia de Goiana, termo de Itamaracá,
+que pela carta de data que oferece, lhe fez mercê o capitão de Itamaracá, Jerônimo da
+Veiga Cabral, dar por devolutas umas sobras de terra situadas pelo rio de Capibaribe
+acima para a banda do sul, freguesia de Goiana, da qual tomou posse por autoridade de
+Justiça; e para a haver de lograr e possuir com sua mulher e filhos, carece confirmação
+de Vossa Senhoria, cuja data é entre as datas onde acaba Gonçalo Gonçalves e Diogo
+Dias e começa nas de Salvador Moura, Fernando de Bezerril e Diogo Carneiro Viegas,
+as quais terras nunca foram cultivadas, portanto = Pede a Vossa Senhoria lhe faça mercê,
+considerando em que tem servido a sua Alteza à 26 anos, tem mulher e filhos e com
+pouco cabedal para os aumentos, confirma-lhe em nome de Sua Alteza como
+governador e capitão-general deste Estado, a dita data de sesmaria na forma que o dito
+capitão-mor lhe fez, dada como também faz presente a Vossa Senhoria, lhe faça mercê
+mandar dar 1400 braças de terra por devolutas e desaproveitadas, abaixo de onde está o
+marco por João Ferreira, cortando para a banda do sul pelas nascenças do Rio [Srge] até
+a ponta da Caveira, pelo rio abaixo e daí cortando pelo dito rumo = E receberá mercê =
+E visto o parecer do procurador da Coroa e Fazenda Real, que é o que se segue = Pela
+certidão do escrivão da Fazenda Real de Itamaracá, consta que o suplicante não tem
+mais que as 2 léguas de terra de sesmaria, que lhe deu o capitão-mor daquela capitania,
+e de que pede confirmação e visto haver servido com satisfação tantos anos a Sua
+Alteza, que Deus guarde, não tenho dúvida a que se lhe confirme a dita sesmaria das 2
+léguas, que para mais não tem lugar por não ser possível poder o suplicante aproveitar
+tanta terra, como é obrigado no termo de 5 anos que a Lei e Regimento lhe assinam.
+Bahia, 20 de abril de 1663 = Rocha = Informação do provedor-mor da Fazenda Real,
+que é o seguinte: Senhor, parece-me que sendo a Vossa Senhoria servido, se podem
+confirmar ao suplicante as 2 légoas de terra, não sendo em prejuízo de terceiro e
+conforme as Ordenações e Foral de Sua Alteza. Bahia, 6 de 1673 = Antônio Lopes de
+Ulhoa. Hei por bem de lhe conceder, como pelo presente faço, em nome de Sua Alteza,
+as 2 léguas de terra, na forma que parece ao procurador da Coroa e Fazenda Real, e
+provedor-mor dela; e da maneira que a pede e confronta em sua petição, não
+prejudicando a terceiro, com todas suas águas, campos, matos, testadas, logradouros e
+mais úteis que nelas se acharem, tendo foro livre e isento de pensão ou tributo alguns,
+salvo dízimo a Deus, que pagará dos frutos que nelas houver e por ela será obrigado a
+dar caminhos livres ao Conselho, para fontes, pontes e pedreiras, com declaração que
+povoará a dita terra no termo da Lei e Regimento. Aliás, ficará devoluta para se dar a
+
+quem de novo a pedir, as quais 2 léguas de terra gozará debaixo da posse que tem
+tomado, exceto as 1400 braças que pede mais em sua petição, porque: as hei por
+devolutas para firmeza do que lhe mandei passar a presente, sob meu sinal e selo de
+minhas armas, a qual se registará nos Livros da Secretaria do Estado e nos mais a que
+tocar. Antônio Garcia a fez nesta cidade do Salvador, Bahia de Todos os Santos, em os
+12 dias do mês de maio ano de 1673 = Bernardo Vieira Ravasco, o fez escrever =
+Afonso Furtado de Castro do Rio de Mendonça = Registado no 2º livro dos Registros da
+Secretaria do Estado do Brasil, a que toca as folhas 170. Bahia, [?] de maio de 1673 =
+Ravasco = Despacho do provedor-mor = Registre-se nos livros da Fazenda a que toca.
+Bahia, 13 de maio de 1673 = de Ulhoa = Registou-se em 13 de maio do dito mês e ano;
+e se entregou a quem a representou, que foi o capitão-mor Jerônimo da Veiga Cabral =
+Miguel Pinto de Freitas =.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 17v-18v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

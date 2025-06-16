@@ -1,0 +1,106 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0191
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Pereira de Pinho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-06-1725",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Ilha de terras no distrito da Vila de Santo Antônio de Sá, entre os rios Urindi e Riacho",
+  "Marcos Geográficos": "[Vergões], matos virgens",
+  "Ribeira": "Urindi, Riacho",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante também alegou que \"fez sítio e roçados com plantas e árvores de espinhos\" nas terras para as quais solicitava o título.",
+  "Observações do deferimento e da concessão": "A carta passou pelas instâncias da Câmara, da procuradoria e da provedoria, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que se desse posse ao suplicante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0191"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0191
+Carta de concessão de Manuel Pereira de Pinho de 12 de junho de 1725
+Luís Vaía Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição o sargento-mor Manuel Pereira de Pinho, que no distrito da Vila de Santo Antônio
+de Sá, entre os rios chamados Vrindi e Riacho, está uma ilha de terras que consta de [vergões]
+e matos virgens devoluta, na qual ele suplicante fez sítio e roçados com plantas e árvores de
+espinhos, da qual ilha não tinha título e se queria conservar na posse dela, pedindo-me lhe
+mandasse dar por sesmaria. E dando-se vista deste requerimento ao provedor da Fazenda Real
+e ao procurador da Coroa, aos quais não oferece dúvida. Hei por bem fazer mercê ao dito
+Manuel Pereira de Pinho de lhe dar por sesmaria, em nome de Sua Magestade, que Deus
+guarde, a referida ilha de terras; não excedendo, porém, 1 légua em quadra, na forma das
+ordens do mesmo Senhor; sem prejuízo de terceiros ou do direito que algumas pessoas
+possam ter a elas; com declaração que cultivará e mandará confirmar esta minha carta por Sua
+Magestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo.
+Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento deste pertencer, dê
+posse ao dito Manuel Pereira de Pinho da referida ilha na forma e maneira acima declarada. E
+por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas, que se cumprirá inteiramente como nela se contém, se registrará nos Livros da
+Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de Sebastião do Rio de
+Janeiro. João Moreira da Silva a fez aos 12 dias do mês de junho de [1725]. O secretário, José
+Ferreira da Fonte, a fez escrever.
+//Luís Vaía Monteiro//
+[Carta] porque Vossa Senhoria por bem faz mercê ao sargento-mor Manuel Pereira de Pinho
+de lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, uma ilha de terras na
+forma e maneira que acima se declara.
+Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Patentes que serve nesta Secretaria do governo a folha 4.
+Rio, 12 de junho de 1725.
+//José Ferreira da Fonte//
+
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria ao
+sargento-mor Manuel Pereira de Pinho, uma Ilha situada no distrito da vila de Santo Antônio
+de Sá, entre os Urindy e Riacho. Rio de Janeiro, 12 de junho de 1725.
+Referências:
+AHU_ACL_CU_017-1, Cx. 25\Doc. 5731
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0214
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José dos Santos Chaves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-10-1740",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em Campos dos Goitacazes",
+  "Marcos Geográficos": "Sertão",
+  "Ribeira": "Rio do Imbé",
+  "Confrontantes": "Data de Agostinho de Almeida",
+  "Justificativas": "As terras eram devolutas; Tinha escravos; Tinha cabedal; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também ao suplicante que fosse \"obrigado a fazer os caminhos de sua testada, e havendo no lugar desta data rio caudaloso que necessite de barca para se atravessar, principiará a sua demarcação depois de se destinar meia légua ao menos na margem dele para o uso e serventia pública\". Além disso, exigiu-se dele também que reservasse madeiras.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0214"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0214
+Carta de concessão de José dos Santos Chaves de 05 de outubro de 1740
+Matias Coelho de Souza, mestre de campo de infantaria de um dos terços de guarnição da
+praça do Rio de Janeiro, com o governo dela e suas capitanias.
+Faço saber aos que esta minha carta de sesmarias virem que atendendo a representar-me por
+sua petição José dos Santos Chaves, que na capitania dos Campos dos Goitacazes pelo Rio do
+Imbé acima e ao sul dele acabando a data de Agostinho de Almeida, se acham muitas terras
+devolutas, e porque tinha escravos e posses para cultivar uma data, me pedia lhe desse de
+sesmaria, em nome de Sua Majestade, uma légua de terras em quadra, principiando a sua
+demarcação de onde acabava a do dito Agostinho de Almeida, correndo rumo direito pelo Rio
+acima até onde (ilegível) a dita légua (ilegível) da mesma para o sertão do dito Rio para a
+parte do sul, e sendo visto seu requerimento e o que sobre ele informaram o provedor da
+Fazenda Real e procurador da Coroa. Hei por bem dar de sesmaria, em nome de Sua
+Majestade, ao dito José dos Santos Chaves uma légua de terras em quadra na forma acima
+confrontada, sem prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas,
+com declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade
+dentro de 2 anos, e não o fazendo se lhe denegará mais tempo, e antes de tomar posse delas as
+fará medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas com quem
+confrontar, e será obrigado a fazer os caminhos de sua testada, e havendo no lugar desta data
+rio caudaloso que necessite de barca para se atravessar, principiará a sua demarcação depois
+de se destinar meia légua ao menos na margem dele para o uso e serventia pública, e nas ditas
+terras não poderá suceder em tempo algum pessoa eclesiatica ou religião, e sucedendo será
+com encargo de pagar dizimos e outro qualquer que de novo se lhe impuser, e não os pagando
+se poderá dar a quem as denunciar, como também sendo o mesmo Senhor servido mandar
+fundar no distrito delas alguma vila o poderá fazer ficando então livre, sem encargo algum ou
+pensão para o sesmeiro, e não compreenderá esta data vieiros ou minas de qualquer gênero de
+metal que nelas se descobrir, reservando também os paus Reais, e faltando a qualquer das
+expressadas claúsulas e as que dispõem a Lei e Floral das Sesmarias, ficará privado desta.
+Pelo que mando ao ministro a quem o conhecimento dela pertencer, dê posse ao dito José dos
+Santos Chaves das referidas terras na forma declarada. E por firmeza de tudo lhe mandei
+passar a presente por mim assinada e selada com o signete de minhas armas, que se cumprirá
+como nela se contém, registrando-se nos Livros a que tocar. Dada na cidade de São Sebastião
+do Rio de Janeiro, aos 5 de outubro de 1740. O oficial maior da secretaria, Pedro Fagundes
+
+Varela, a fez. O secretário, Antônio da Rocha Machado, a fez escrever. //Matias Coelho de
+Souza//
+Carta porque Vossa Senhoria há por bem dar de sesmaria, em nome de Sua Majestade, a José
+dos Santos Chaves uma légua de terras em quadra na capitania dos Campos. Para Vossa
+Senhoria ver.
+(ilegível)//Antônio da Rocha Machado//
+Registre-se nos Livros da Fazenda Real. Rio, 7 de outubro de 1740. //Melo//
+Registrada no Livro 1º do Tombo das Sesmarias que serve neste Cartório a folha 49. Rio de
+Janeiro, 8 de outubro de 1740. //Francisco Xavier da Silva//
+Registrada no Livro 29º dos Registros desta Procuradoria a folha 20. Rio, 8 de outubro de
+1740. //Antônio de Faria e Melo//
+Cumpra-se como nela se contém. São Salvador, 29 de abril de 1741. //Pereira//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta de sesmaria pela qual o Governador do Rio de Janeiro, concedeu e deu de
+sesmaria a José dos Santos Chaves, uma legoa de terras, em quadra, nos Campos de
+Goytacazs, ao sul do Rio Embé. Rio de Janeiro, 5 de outubro de 1740.
+Esta Carta de Concessão encontra-se no Projeto Resgate anexado à Petição n° 11453 e a
+Portaria n° 11455.
+O rio tem sua nascente no município de Trajano de Moraes. Atravessa Campos dos
+Goitacazes.
+Referência:
+AHU_ACL_CU_017-01, Cx. 49, D. 11454
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

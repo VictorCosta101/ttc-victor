@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0021
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0109",
+  "Nome": "João Pais de Mendonça Arrais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "06-12-1727",
+  "Data da concessão": "13-12-1727",
+  "Observações da sesmaria": "\r\nO suplicante requereu uma légua de comprimento e uma légua de largura na região dos Palmares. A terra requerida localizava-se no riacho Doce, local do primeiro Arraial do Terço dos Paulistas, nas fronteiras das terras do padre Antônio Alves de Carvalho ao norte e para o sul até o riacho Jacaneira e as terras de Apolinário Ferreira Padilha e a sudeste a Lagoa das Antas e o rio Bebedóro.\r\n",
+  "Localidade": "Palmares",
+  "Marcos Geográficos": "Riacho Doce, Rio Bebedóro, Lagoa das Antas, Riacho Jacaneira",
+  "Confrontantes": "Antônio Alves de Carvalho, Apolinário Ferreira Padilha",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura determinou que o suplicante requeresse a confirmação régia dentro do tempo de dois anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE-AL0021"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0021 
+ 
+Carta de doação e sesmaria do sargento João Paes de Mendonça - 13/12/1727 
+ 
+SESMARIA DE UMA LÉGUA DE TERRA NOS PALMARES AO SARGENTO JOÃO PAES 
+DE MENDONÇA. 
+ 
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de Sua 
+Majestade e capitão general de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta 
+carta de doação virem, que por parte do sargento João Paes de Mendonça Arrais, do batalhão de 
+guarnição dos Palmares, que ele suplicante de Paulista que veio a campanha dos negros levantados 
+dos Palmares em companhia de seu pai, o mestre de campo Cristovão de Mendonça Arrais, e do 
+cabo da dita conquista, e como Sua Majestade, que Deus guarde, foi servido conceder aos paulistas 
+as terras conquistadas e por conquistar dos Palmares, mandando-se com efeito meter-se de posse 
+que outras pessoas por antecedentes sesmarias as pretendam, como consta das cópias e ordens reais 
+juntas, onde manda dar aos sargentos uma légua de terra em quadro, sem foro nem pensão mais que 
+dízimo a Deus, - pretende o suplicante tirar por sesmaria do lugar do Riacho Doce, onde foi o 
+primeiro Arraial situado pelo mestre de campo, que então era Domingos Jorge Velho, por estar 
+devoluta e o suplicante por inteirar da mercê que Sua Majestade foi servido fazer-lhe -, começará a 
+légua de terra realenga de três mil braças coaneiras, onde acabar a terra que foi do padre Antônio 
+Alves de Carvalho, correndo o rumo competente por testada de norte a sul para a parte do riacho 
+Jacaneira, se tanto couber para se inteirar, aliás se inteirará a dita légua nas sobras que se acharem 
+entre a parte do Conego da Água do Ferro e a Lagoa das Antas, pegando das terras que foram de 
+Apolinário Ferreira Padilha, do sul para o norte, cujo centro ou fundo será de leste a sudeste para o 
+rio Bebedóro. Portanto, pede a Vossa Senhoria seja servido conceder e dar por sesmaria em nome de 
+Sua Majestade, a légua de terra que o suplicante requer, na forma das sobreditas ordens, com as 
+confrontações que alega. E receberá mercê. - Despacho - Informe o provedor da Fazenda Real, 
+ouvindo o doutor procurador da Coroa - Recife, 6 de dezembro de 1827 - Rubrica - Resposta do 
+provedor da Fazenda e procurador da Coroa. - Senhor governador e capitão general - Responde o 
+doutor procurador e Fazenda Real, que Vossa Senhoria mandou ouvir, que a vista das certidões 
+juntas se lhe não oferece dúvida, a qual também a mim se me não oferece, sendo a data de dita 
+légua de terra de que nomeia, não passará a religiosos por nenhum título e no caso que suceda, será 
+como se fossem possuídas por seculares, como Sua Majestade, que Deus guarde, tem ordenado; e 
+outrossim, será a dita data nas terras que se conquistaram e ficaram por conquistar para o sertão, 
+como Sua Majestade assim declara pela real ordem junta, se tanto couber nas terras dos Palmares 
+que foram conquistadas, sem foro nem pensão mais que o dízimo a Deus, Vossa Senhoria mandará 
+o que lhe parecer mais conveniente ao serviço de Sua Majestade, com a retidão que observa. - 
+Em 13 de 
+dezembro 
+1727 
+
+Recife, 10 de dezembro de 1727 = João do Rego Barros – O que tudo visto e pela faculdade que 
+Sua Majestade me concede no capítulo 15 do regimento deste Governo, título de sesmarias - Hei 
+por bem de lhe dar em nome de Sua Majestade de sesmaria, como pela presente faço, uma légua de 
+terra nas conquistadas e por conquistar dos Palmares, da mesma paragem e lugar que confronta em 
+sua petição, sem foro nem pensão alguma salvo dízimo a Deus, tudo em observância das ordens de 
+Sua Majestade e mais cláusulas que apontam o provedor e doutor procurador da Coroa e Fazenda, 
+que não passará dita terra a religiões por nenhum título e de dar por elas caminhos e estradas livres 
+ao Conselho para pedreiras, fontes e pontes, e requererá a confirmação de Sua Majestade dentro de 
+dois anos. Pelo que ordeno aos ministros de Justiça e Fazenda lhe façam dar posse efetiva, real e 
+atual, de que se fará termo nas costas deste para que ele e seus herdeiros logrem a dita terra na 
+forma referida, que por firmeza de tudo lhe mandei passar a presente por mim assinada e selada 
+com o sinete de minhas armas, a qual se registrará nos livros da Secretaria deste Governo e aos da 
+Provedoria Geral. Dada nesta praça do Recife de Pernambuco, em os 13 dias do mês de dezembro 
+de 1727 - Bento Soares Pereira a fez. - O secretário José Duarte Cardozo, a fez escrever = Duarte 
+Sodré Pereira Tibão. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 319 - 321. 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

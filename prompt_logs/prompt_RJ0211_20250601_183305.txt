@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0211
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Domingos Rodrigues Távora",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-06-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas entre o Caminho Novo de Inhomirim e a roça de Domingos Vieira Ribeiro",
+  "Ribeira": "Inhomirim",
+  "Confrontantes": "Terras de Domingos Vieira Ribeiro, terras de Bernardo Soares de Proença e terras de Domingos Vieira da Costa",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0211"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0211
+Carta de concessão de sesmaria de Domingos Rodrigues Távora de 25 de junho de 1728
+Carta de sesmaria de Domingos Rodrigues Távora de uma data de terras no caminho novo de
+Inhomirim.
+Saibam quantos este publico instrumento de carta de sesmaria virem que no ano de
+nascimento do nosso senhor Jesus Cristo de 1728, aos 13 dias do mês de julho do dito ano,
+nesta cidade de São Sebastião do Rio de Janeiro, em casas de morada de mim tabelião e
+escrivão das sesmarias adiante nomeado, apareceu presente Domingos Rodrigues Távora e
+por ele me foi apresentada uma carta de sesmaria que alcançou do governador atual desta
+capitania, Luís Vaía Monteiro, pela qual lhe fez mercê, em nome de Sua Magestade, dar de
+sesmaria uma légua de terra (ilegível) no caminho novo de Inhomirim, na forma que consta da
+dita carta, que é do teor seguinte: Luís Vaía Monteiro, do conselho de Sua Majestade, que
+Deus guarde, cavaleiro professo da ordem de Cristo, coronel de um regimento de infantaria
+paga e governador da capitania do Rio de Janeiro. Faço saber aos que esta minha carta de
+sesmaria virem que atendendo a representar-me por sua petição Domingos Rodrigues Távora,
+que tinha notícia que entre o caminho novo de Inhomirim e a roça que foi do capitão (ilegível)
+Domingos Vieira Ribeiro, se acham terras devolutas, as quais (ilegível) utilidade dos dízimos
+Reais. Pedindo-me lhe mandasse dar por sesmaria uma légua das ditas terras, que se conta
+(ilegível) principiando onde acaba a légua que se concedeu a Domingos Vieira (não
+identificado), correndo para o dito caminho novo de Inhomirim, até entestar com terras dadas
+por sesmaria ao tenente coronel Bernardo Soares de Proença e as mais confrontações com que
+se concederam ao dito Domingos Vieira da Costa, e dando-se vista deste requerimento ao
+provedor da Fazenda Real e ao procurador da Coroa aos quais se não ofereceu dúvida. Hei por
+bem fazer mercê ao dito Domingos Rodrigues Távora de lhe dar por sesmaria, em nome de
+Sua Majestade, que Deus guarde, os ditos sobejos de terras, não excedendo, porém, uma légua
+em quadra, na forma das ordens do mesmo Senhor, e sem prejuízo de terceiro ou do direito
+que algumas pessoas possam ter delas, com declaração que as cultivará e mandará confirmar
+esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se
+lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça a que o
+conhecimento desta pertencer, dê posse posse ao dito Domingos Rodrigues Távora dos
+referidos sobejos de terras na forma e maneira acima declaradas. E por firmeza de tudo lhe
+mandei passar a presente por mim assinada e selada com o signete de minhas armas, que se
+cumprirá inteiramente como nela se contém e se registrará nos Livros deste Governo e nos
+mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro. Belchior Francisco
+
+da Costa a fez aos 25 de junho de 1728. O secretário, José Ferreira da Fonte, a fez escrever.
+//Luís Vaía Monteiro// Lugar do selo.
+Carta porque Vossa Senhoria há por bem de dar por sesmaria, em nome de Sua Majestade,
+que Deus guarde, a Domingos Rodrigues Távora as terras acima declaradas. Para Vossa
+Senhoria ver.
+Registrada no Livro das Sesmarias e Procurações que serve nesta secretaria do Governo a
+folha 100. Rio de Janeiro, 25 de junho de 1728. //José Ferreira da Fonte//
+Cumpra-se e registra-se nos Livros da Fazenda Real. Rio, (ilegível) de 1729. //Cordovil//
+Registrado no livro 22° que serve de registro nesta Provedoria da Fazenda Real, folhas 199.
+Rio de Janeiro, 2 de julho de 1728. //Antônio de Faria Melo//
+E não contém mais a dita carta de sesmaria que tornei a entregar ao dito Domingos Rodrigues
+Távora, o que lancei está na verdade e me reporto a própria em fé de que a escrevi, assinei e
+conservei. //Manoel de Vasconcelos Velho// Conservado por mim tabelião e escrivão de
+sesmaria com a própria. //Manoel Vasconcelos Velho// A qual carta de sesmaria eu, sobredito
+tabelião e escrivão do teor, a que fiz tresladar do Livro atual das Notas em que se acha
+lançada, e a que me reporto e se vai na verdade em fé do que subscrevi e assinei. Em fé de
+verdade. //Manoel Vasconcelos Velho//
+O doutor Manoel Costa Mimoso, do desembargo de Sua Majestade, que Deus guarde, seu
+desembargador da relação do Porto, ouvidor geral, corregedor da comarca nesta cidade do Rio
+de Janeiro e nas mais capitanias de sua repartição e juiz das justificações. Nesta, aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que está subscreveu, ser a letra da subscrição (não identificado) bastante atrás
+sinal posto e raro letra do tabelião Manoel de Vasconcelos Velho nela contido, o que hei por
+justificado. Rio de Janeiro, 17 de Agosto de 1728 anos. Eu, Domingos Rodrigues Távora,
+escrivão, a subscrevi //Manoel da Costa Mimoso//
+- Fim da Transcrição -
+Observações:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Domingos Rodrigues Tavora uma legoa de terra, em quadra, no caminho novo de Inhomerim.
+Rio de Janeiro, 25 de junho de 1728.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 6156 e à Portaria n°
+6158.
+
+Referências:
+AHU_ACL_CU_017-01, Cx. 27, D. 6157
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,89 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0013
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0349",
+  "Nome": "Cosme Dias, Cosme Pais de Almeida, Domingos de Freitas da Cunha, João de Freitas da Cunha, João Manuel, João Pacheco Pereira, Manuel Soares Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-05-1680",
+  "Observações da sesmaria": "Os suplicantes requereram 18 léguas de comprimento em Goiana, no rio Serigi. A terra possuía por limites as terras de João Saraiva, Domingos da Costa, Cristóvão Pais e Antônio de Lima em direção as terras de Manuel Gomes Medelas, Antônio Nunes Tinoco e Manuel da Costa Tinoco, ao sul; e do rio Serigi até as terras do governador André Vidal de Negreiros, ao norte. \r\n\r\n",
+  "Localidade": "Goiana",
+  "Marcos Geográficos": "Rio Serigi",
+  "Confrontantes": "João Saraiva, Domingos da Costa, Cristóvão Pais, Antônio de Lima, Manuel Gomes Medelas, Antônio Nunes Tinoco, Manuel da Costa Tinoco e André Vidal de Negreiros",
+  "Observações da petição": "Os suplicantes não informaram a largura da terra requerido, sendo impossível calcular a área total. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0013"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0013
+Carta de concessão de João de Freitas da Cunha, Cosmo Pais de Almeida, Manuel
+Soares Barbosa, Domingos de Freitas da Cunha, João Pacheco Pereira, Cosmo Dias e
+João Manuel de 20/05/1680
+Sesmaria de 18 léguas de terra de comprido, em Goiana, pelo rio chamado Serigi, de
+uma e outra parte nas sobras que se acham entre as datas de João Saraiva, Domingos da
+Costa, Cristovão Pais e Antônio de Lima, começando a correr o rumo das testadas das
+ditas datas até as de Manuel Gomes Medela, Antônio Nunes Tinoco e Manuel da Costa
+Tinoco, que ficam pela parte do sul do dito rio e do norte até as do governador André
+Vidal, concedida em 20 de maio de 1680 ao capitão João de Freitas da Cunha, o capitão
+Cosmo Pais de Almeida, o capitão Manuel Soares Barbosa, Domingos de Freitas da
+Cunha, João Pacheco Pereira, Cosmo Dias e João Manuel, e seus herdeiros, pelo
+governador Ayres de Souza de Castro, sem foro ou pensão alguma, salvo o dízimo a
+Deus.
+- Fim da Transcrição -
+Referência:
+Documentação
+Histórica
+Pernambucana:
+sesmarias.
+Recife:
+SECRETARIA
+DE
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 96-97.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

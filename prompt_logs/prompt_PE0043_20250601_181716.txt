@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0043
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0089",
+  "Nome": "Antônio Correa da Silva (PE 1), Antônio Correa da Silva (PE 2), José Correa da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "19-04-1724",
+  "Data da concessão": "26-04-1724",
+  "Observações da sesmaria": "Os suplicantes requereram 3 léguas de terra para cada um, na capitania do Araroba, indo para o rio Panema e passando pelo rio Piripiry, daí para a pedra do Puxinaña confrontando com as terras do coronel Pedro Aranha Pacheco.",
+  "Localidade": "Araroba, rio Panema, rio Piripiry e pedra do Puxinaña.",
+  "Marcos Geográficos": "Araroba, rio Panema, rio Piripiry e pedra do Puxinaña.",
+  "Confrontantes": "Coronel Pedro Aranha Pacheco",
+  "Justificativas": "Não tinha terras; As terras eram devolutas; Tinha gado; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem constar os detalhes do parecer final.",
+  "Observações das exigências": "A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem constar os detalhes do parecer final.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0043"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0043
+Carta de doação e sesmaria de Antônio Correa da Silva e seus filhos José Correa da Silva e
+Antônio Correa da Silva -
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU EM NOME DE SUA
+MAJESTADE, QUE DEUS GUARDE, AO CAPITÃO-MOR ANTÔNIO CORREA DA SILVA,
+E A SEUS FILHOS, JOSÉ CORREA DA SILVA E ANTÔNIO CORREA DA SILVA,
+MORADORES NO SERTÃO DO PAJAÚ, CAPITANIA DO RIO DE SÃO FRANCISCO.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general etc.
+Faço saber aos que esta carta de doação de sesmaria virem que me representaram a petição do teor
+seguinte: Senhor. Dizem o capitão-mor Antônio Correa da Silva e seus filhos, José Correa da Silva
+e Antônio Correa da Silva, ora moradores no sertão do Pajáu, capitania do rio São Francisco, que
+eles suplicantes tem notícia que o sítio chamado a Cruz, do qual são senhores por compra que dele
+fizeram ao capitão Cosme de Brito Cação na capitania do Araroba, em o qual se acha com terras
+bastantes devolutas e nelas pretendem os suplicantes povoar três léguas em quadro, uma légua para
+cada um confrontadas na forma seguinte: do mesmo sítio da Cruz para a parte do Araróba até o rio
+Panema, que se passa quando sobem para o dito Araroba, daí cortando rumo direito pelo dito rio
+acima até topar com terras que pertencem ao sítio do Piripiry, do sargento-mor João de Souza de
+Vasconcelos, daí cortando rumo direito para a pedra do Puxinanã até topar com terras do coronel
+Pedro Aranha Pacheco, daí cortando rumo direito buscando o mesmo rio Panema até topar com
+terras do sargento-mor Bernardo Vieira de Melo, daí cortando rumo direito pelo dito rio acima,
+buscando o mesmo rio Panema que sobe para o Araroba; e por quanto os suplicantes se acham com
+copioso número de gados vacuns e cavalares, sem terras capazes do seu posto, nem sítio suficiente
+em que eles hajão viver; pede a Vossa Senhoria seja servido fazer-lhe mercê de mandar passar sua
+carta de doação de sesmaria em nome de Sua Majestade, que Deus guarde, de três légoas de terra
+em quadro, assim e na mesma forma em que eles suplicantes a confrontam no deduzido de que esta
+petição faz menção, pagando o foro que da dita terra ficarem devendo, conforme o estilo observado.
+E receberá mercê. Informe o provedor da Fazenda Real, ouvindo o procurador da Coroa. Recife, 19
+de abril de 1724. = Rubrica = Haja vista ao doutor procurador da Coroa e Fazenda. Recife, 21 de
+abril de 1724. “Barros”. Não tenho dúvida em que se deem aos suplicantes as três légoas de terra
+em quadro de sesmaria, sendo a data nas partes que confrontam, feita na forma da Ordenação Livro
+4.º título 43, e o assento que se fez em Junta para o foro de Sua Majestade – Recife, 22 de abril de
+1724 = Pereira = Senhor governador e capitão general – Responde o doutor procurador da Coroa e
+Fazenda Real, a quem Vossa Senhoria me mandou ouvir que não tem dúvida em que se deem aos
+suplicantes as três léguas de terra em quadro, sendo as datas nas partes que se confrontam, feita na
+forma da Ordenação e o assento que se fez em Junta para o foro, ao que me conformo observando-
+
+se as ordens de Sua Majestade, que Deus guarde, as quais se acham na Secretaria deste Governo,
+não se me oferece dúvida; Vossa Senhoria, porém, mandará o que se lhe parecer mais conveniente
+ao serviço do dito senhor. Com a retidão que costuma. Recife, 26 de abril de 1724 = João do Rego
+Barros = E havendo, outrossim, respeito ao que Sua Majestade me concede no capítulo 15 do
+regimento deste Governo e a tudo o mais que o dito senhor determina em suas reais ordens neste
+particular. Hei por bem fazer-lhe mercê aos suplicantes acima nomeados, como pela presente dou de
+sesmaria em nome de Sua Majestade nos mesmos lugares, partes e testadas que confrontam em sua
+petição as sobreditas três léguas de terra em quadro que declara e pede.
+- Fim da carta -
+Observação:
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem
+constar os detalhes do parecer final.
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 281 - 282.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

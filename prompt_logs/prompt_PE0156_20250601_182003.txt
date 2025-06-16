@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0156
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0271",
+  "Nome": "Antônio José de Moura Varejão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-04-1823",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila do Limoeiro. A sesmaria localizava-se entre o riacho Mulungu, na fronteira das terras de Antônio Barbosa da Silva, até as terras dos herdeiros do João de Deus Bezerra e João Gonçalves.",
+  "Localidade": "Vila do Limoeiro",
+  "Marcos Geográficos": "Riacho Mulungu",
+  "Confrontantes": "Antônio Barbosa da Silva; Herdeiro de João de Deus Bezerra; Herdeiros de João Gonçalves",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Jose Mariano de Albuquerque Cavalcante, presidente; Francisco Pais Barreto e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de 6 mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0156"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0156 
+Carta de doação e sesmaria de Antônio José de Moura Verejão – 06/02/1823 
+ 
+[Antonio Joze de Moura Verejão] com uma légua de terra em quadra por sesmaria 
+no sítio do Chambá. 
+Nós, o presidente e membros da Junta Provisória do Governo da província de 
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que o capitão 
+Antônio José de Moura Verejão dirigiu ao ex-governador desta província, Luiz do Rego 
+Barreto, o requerimento do teor seguinte: = Illustrissimo e excelentíssimo senhor = Diz 
+o capitão Antônio José de Moura Verejão, que de presente correndo a demarcação do 
+capitão Antônio Barbosa da Silva, no termo da Vila do Limoeiro, aparecendo sobras; 
+para o que requer o suplicante a Vossa Excelência lhe mande dar a dita légua pedida, 
+procedendo-se as diligências necessárias, principiando do marco do capitão-mor que se 
+acha enfincado na barra do riacho Mulungú, correndo o rumo para o norte e daí para o 
+oeste, até topar com os herdeiros do falecido João de Deus Bezerra e João Gonçalves, e 
+ao depois correrão aos mais ventos, pois o suplicante tem fábrica suficiente para as 
+cultivar e aproveitar, uma vez que se acham devolutas, a que para o aumento deste 
+convém o terreno: portanto = Para a Vossa Excelência em nome de Sua Magestade lhe 
+conceda a sesmaria; atendendo ao seu justo requerimento = E receberá mercê = Antônio 
+José de Moura Verejão = Sobre o qual deu o dito ex-governador o despacho seguinte = 
+A Câmara respectiva mandará afixar os editais do estilo, e passado trinta dias me 
+informará como a competente certidão. Recife, 15 de junho de 1821 = ao que a Câmara 
+satisfez em ofício de 14 de agosto do mesmo ano, com os editais e certidão, mostrando 
+não ter havido impedimento algum; e tendo sido tudo apresentado a junta provisória, 
+nossa antecessora mandou por despacho de 10 de julho de 1822, informar o doutor 
+procurador da Coroa e Fazenda, que igualmente nenhum embaraço lhe pôs; o que sendo 
+por nós visto, mandamos por despacho de 28 de setembro do mesmo ano, ouvir o 
+escrivão deputado da junta da Fazenda Pública, e não oferecendo este alguma dúvida, 
+mandamos por despacho de 6 de fevereiro do corrente ano, que se lhe passasse a 
+presente carta. E portanto, pela faculdade que nos é concedida no Capítulo 15 do 
+Regimento deste Governo e mais ordens régias a este fim dirigidas, havemos por bem 
+dar em nome de Sua Majestade Ilustre ao dito Antônio José de Moura Verejão a referida 
+légua de terra na forma dita, pagando o foro anual de seis mil reis, em observância da 
+real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria da Junta da 
+
+Fazenda Pública a folha 70 livro 7º delas; a qual sesmaria possuirá e gozará ele 
+suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje 
+para todo sempre, com todas as matas, campos, rios, águas, testadas, logradouros e mais 
+úteis que nela se compreenderem, não prejudicando a terceiro, e não passará a religiões 
+e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os 
+seculares; e nunca se dividirá em porções, nem se partirá, senão por estimação, andando 
+encabeçada em uma só pessoa, na forma da Ordenação do livro quarto, Título 96, 
+parágrafo 23; e assim não passará a herdeiros ou quaisquer outras pessoas, sem 
+consentimento da Junta da Fazenda Pública, para nela se darem novas fianças e se 
+fazerem as devidas escriturações: ficando livres para a serventia dos povos todas as 
+estradas, rios, fontes e pedreiras, e reservadas ao patrimônio público as madeiras de 
+construção, pau-brasil e viveiros de quaisquer metais, e será obrigado a requerer dentro 
+de três anos confirmação, medição e demarcação, povoá-la e cultivá-la, na forma da 
+ordem régia de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809; e não o 
+cumprindo, assim se haverá por devoluta e novamente se concederá a quem requerer. 
+Pelo que ordenamos aos ministros da Fazenda e Justiça,e mais pessoas a quem tocar, 
+cumpram e façam cumprir e guardar esta carta de data de sesmaria, como nela se 
+contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma da Ordenação 
+Título das sesmarias. Em firmeza do referido, lhe mandamos passar a presente por nós 
+assinada e selada com o sinete das armas imperiais, a qual se registrará na Secretaria 
+deste Governo, na da junta da Fazenda Pública e aonde mais tocar. Manoel dos Passos e 
+Figueiroa, oficial-maior da Secretaria, a fez escrever em o Recife de Pernambuco, aos 2 
+de abril de 1823 = E eu, José Marinho Falcão Padilha, secretario, a fiz escrever = [Para 
+o] presidente, Francisco Paes Barreto = Manoel Ignacio Bezerra de Melo = José 
+Marinho Falcão Padilha = Carta de data de sesmaria, pela qual Vossas Excelências hão 
+por bem dar em nome de Sua Magestade Imperial e Constitucional ao capitão Antônio 
+José de Moura Varejão, uma légua de terra em quadra, fazendo testada com a sesmaria 
+concedida ao defunto capitão-mor Antônio Barbosa da Silva, no sítio Chambá e peão no 
+marco do mesmo capitão-mor, posto junto a barra do riacho Mulungú e mais 
+confrontações declaradas no seu requerimento = Para Vossas Excelências verem = Por 
+despacho do Governo, de 6 de fevereiro de 1823.    
+- Fim da carta - 
+ 
+Referência: BPPE, Sesmarias de Pernambuco 1821, fls. 220 - 221. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

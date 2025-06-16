@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0228
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Pedro Freire Vital",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-04-1753",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem O Campo Novo, sertão chamado O Funil, vila de São Salvador dos Campos dos Goitacazes",
+  "Marcos Geográficos": "Lagoa das Saudades",
+  "Confrontantes": "Testada das terras de Antônio Ribeiro Mendonça",
+  "Justificativas": "Pretendia aumentar suas terras; As terras eram devolutas; Tinha cabedal; Tinha gado vacum; Pretendia aumentar sua criação de gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria pertence ao Rio de Janeiro, porém foi concedida pelo donatário da capitania da Paraíba do Sul. Por essa razão, não foi possível identificar se passou pela Câmara, pela procuradoria ou pela provedoria.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0228"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0228
+Carta de concessão de Pedro Freire Vital de 25 de abril de 1753
+Martim Correia de Sá e Benevides, Visconde de Asseca do conselho de Sua Majestade,
+alcaide-mor da cidade de São Sebastião do Rio de Janeiro, comendador na Ordem de Cristo da
+comendas de São Salvador de Ribas de Basto, Santa Maria de Mesquitela, São Julião de Cássia e
+São Salvador da Lagoa. Senhor e capitão donatário da capitania da Paraíba do Sul e das suas vilas
+de São Salvador e São João da Barra.
+Faço saber aos que esta minha carta de data de sesmaria virem que havendo respeito aos que por
+sua petição me representou Pedro Freire Vital, morador na cidade do Rio de Janeiro, dizendo-me
+nela que na vila de São Salvador dos Campos dos Goitacazes, de que eu sou senhor e donatário,
+tem o suplicante seus gados vacuns sem que tenha terras próprias para os aumentar, e o suplicante
+se acha com posses para poder fazer, e que na forma das minhas doações e foral me era permitido
+dar de sesmarias as terras que for servido, e na paragem vulgarmente chamada o Campo Novo,
+sertão dentro para a parte chamada o funil, em que se acham muitas terras com matos maninhos e
+brejas a beira de sua lagoa chamada a das Saudades nas quais pertence o suplicante légua e meia
+de testada com 3 de fundos, fazendo testada aonde acabar as de Antônio Ribeiro Mendonça pela
+parte do leste, e pela parte do norte beirando a lagoa da parte do sul, ficando lhe está para a parte
+do norte correndo para o sul e fazendo fundos para o oeste com todos as beiras, matos e campinas
+que se acharem dentro da serra confrontada, pelo que me pedia lhe fizesse mercê de lhe dar de
+sesmaria a dita légua e meia testada com 3 de fundos na forma declarada na dita petição, e lhe
+manda-se passar carta de sesmaria na forma do meu foral e doação e receberia mercê, a qual
+petição, sendo-me apresentada, por mim vista e com atenção ao que nela a me assegurava, lhe
+mandei passar sua carta de sesmaria, obrigando-lhe a fazer demarcação judicialmente pelo
+ouvidor da minha capitania e fazendo o termo de cultivar as terras dentro do tempo da lei, e
+nestes termos. Hei por bem de fazer mercê ao dito Pedro Freire Vital e a seus herdeiros
+ascendentes e descendentes de todas as terras mencionadas nas ditas petições para as que a
+possam lograr e possuir como coisa sua própria desde hoje para todo o sempre, não prejudicando
+a terceiros, nem os dízimos a Deus e a dízima. Se reservará os paus reais que servirá para as
+embarcações, caminhos públicos e particulares onde forem necessários para pontes, fontes e
+pedreiras, como é estilo observado. Cultivará as ditas terras de maneira que deem frutos, e se
+demarcará ao tempo da posse por rumo da corda e braças craveiras na forma da lei e como é
+
+costume, e nesta forma lhe faço mercê da dita data de sesmaria, que por está lhe hei por dada e
+confirmada na forma da lei e das minhas doações não prejudicando a terceiro. Pelo que mando ao
+meu ouvidor e mais justiças, oficiais da minha capitania e mais pessoas a quem tocar, deixam
+lograr e possuir ao dito Pedro Freire Vital e seus herdeiros ascendentes e descendentes da dita
+légua e meia de terra, com seus fundos e todas as mais confrontações na paragem declarada na
+sua petição, e está se cumprirá muito inteiramente como nela se contém e declara, e esta será
+registrada no Livro do registro da Câmara da mesma vila de que se passará certidão nas costas
+deste, e por firmeza de tudo lhe mandei passar a presente carta de data de sesmaria por mim
+assinada e selada com o selo das minhas armas que vai por 2 vias e das quais irá valer uma. Dada
+em Lisboa em 25 de abril de 1753. E eu, Manoel de Barros Marques, a escrevi.
+//Visconde de Asseca//
+Carta de data das terras de sesmaria de que Vossa Excelência há por bem fazer mercê delas a
+Pedro Freire Vital para ele e seus herdeiros como nela se declara. Para Vossa Excelência ver.
+A folha 24 e 25 do Livro do registro das mercês da casa do excelentíssimo Visconde de Asseca
+fica registrada esta carta de sesmaria. Lisboa, 6 de abril de 1753. //Manoel de Barros Marques//
+Antônio da Silva Freire, tabelião público de notas pelo Rei, novo senhor nesta cidade de Lisboa.
+Reconheço o sinal posto ao pé desta carta de sesmaria ser do ilustríssimo Visconde de Asseca,
+Martim Correia de Sá, nela contido. Lisboa, 9 de maio de 1753.
+//Antônio da Silva Freire//
+O doutor Baltazar Ignácio Francisco de Moura, cavaleiro professo na ordem de Cristo do
+desembargo, seu juiz de Índia, Mina e justificações ultramarinas. Faço saber aos que certidão
+virem que a mim me constou por fé do escrivão, que esta subscreveu, ser o sinal público e a letra
+do tabelião Antônio da Silva Freire nesta contido. O que hei por justificado. Lisboa, 9 de maio de
+1753. E eu, João Caetano da Silva Pereira, a subscrevi.
+//Baltazar Ignácio Francisco de Moura//
+-Fim da Transcrição-
+Observações do documento:
+
+Título AHU: Carta pela qual o Visconde de Asseca, Martim Corrêa de Sá e Benavides, Alcaide
+mór do Rio de Janeiro e Donatário da Capitania da Parahyba do Sul, fez mercê a Pedro Freire
+Vital de 3 leguas de terra, com uma de testada na mesma Capitania. Lisboa, 25 de abril de 1753.
+Referência
+AHU_ACL_CU_017-1, Cx. 82\Doc. 18947
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,162 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0168
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": " Bento Barbosa,  Pedro Ferreira, Sebastião Barbosa de Almeida (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "22-03-1665",
+  "Observações da sesmaria": "A sesmaria possuía 30 léguas em quadra e estava localizada no rio Joanes, Bahia.",
+  "Localidade": "Rio Joanes",
+  "Marcos Geográficos": "Rio Joanes",
+  "Observações da petição": "Os suplicantes alegaram que eles  tinham recebido essas terras de herança de Bento Barbosa de Almeida, no entanto, como existiam muitos indígenas com relações conflituosas próximos a elas, eles não a povoaram, mas agora as relações com esses indígenas tinha melhorado, por isso agora poderiam povoar a terra recebida.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Era morador(a) da Capitania; Pretendia cultivar; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O provedor afirmou que devido aos cabedais que os suplicantes possuíam, as terras deveriam ser concedidas. O governador determinou que o alferes Sebastião Barbosa de Almeida seu Irmão, Bento Barbosa Barrada  ,ficarão com 26 léguas em quadra e o padre Pedro Ferreira com quatro léguas em quadra.",
+  "Observações das exigências": "Determinou-se que os supliciantes residissem na terra doada; determinou-se que não poderiam vender as terras; determinou-se que fizessem benfeitorias em até três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Pereira",
+  "referencia": "BA0168"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registo da Carta de Sesmaria do alferes Sebastião Barbosa de Almeida, de uma data de terra 
+de 30 léguas, dada a ele e a seu Irmão Bento Barbosa e ao Padre Pedro Ferreira. 
+Saibam quantos este público Instrumento de Carta e data de Sesmaria virem, que no ano do 
+Nascimento de Nosso Senhor Jesus Cristo de 1665 aos 21 dias do mês de maio do dito ano, 
+nesta Cidade do Salvador Bahia de Todos os Santos, e pousadas de mim Escrivão das Sesmarias 
+apareceu o alferes Sebastião Barbosa de Almeida, e me apresentou e deu uma sua petição, e de 
+Bento Barbosa de Almeida, e do Licenciado Padre Pedro Ferreira com despacho nela do Senhor 
+Conde de Óbidos Dom Vasco Mascarenhas, Gentil-Homem da Câmara de El-Rei, meu Senhor, 
+e do seu Conselho de Estado, Vice-Rei e Capitão General de mar e terra de todo o Estado do 
+Brasil, da qual e o dito despacho teor é o seguinte: Senhor, o Alferes João Barbosa de Almeida 
+e Pinto Barbosa Barradas o Licenciado Padre Pedro Ferreira moradores nesta Cidade, que o 
+Capitão-Mor e Governador que foi desta Capitania Dom Francisco de Moura deu de Sesmaria 
+a seu pai Diogo Mendes Barradas, e ao Licenciado Manuel Ferreira e Jeronimo Serrão de Paiva, 
+e a outras pessoas toda a terra confrontada e pedida na Carta que com esta apresenta a Vossa 
+Excelência por onde consta não haverem nunca povoado até o presente com receio do Gentio 
+doméstico que a cultivava. E porquanto agora estão de pazes, e é de utilidade grande aos 
+Dízimos Reais, e ao bem comum povoarem-se as terras com toda a largueza; e eles suplicantes 
+querem cultivar e povoar esta que já foi concedida ao ditos Seus Pais, e o não podem fazer sem 
+Vossa Excelência ser servido dar de Sesmaria a dita terra acima e da maneira que se concedeu 
+a seus antecessores, pela não haverem povoado e eles suplicantes têm gados bastantes e mais 
+criações para as cultivarem. Pedem a Vossa Excelência lhes faça Mercê em nome de Sua 
+Majestade dar de Sesmaria toda a terra pedida e confrontada na data que se concedeu ao Capitão 
+Diogo Mendes Barradas ,e ao licenciado Manuel de Figueredo, Jeronimo Serrão de Paiva, e a 
+outras pescas pelo capitão-mor e Governador desta capitania Francisco de Moura, visto o não 
+povoá-la a e vem a ser trinta léguas de terra em quadra a que começarão correndo nos termos 
+das terras que hoje são de Gaspar Rodrigues Adorno, e das que foram de Francisco de Barros, 
+onde está rena Serra que chamam do Tuitai; e com todos os seus Campos por uma outra parte 
+dela, e assim justo campo que vá continuando que chamam Nhunasú, por nãos serem nunca 
+cultivadas destas tais pessoas quais pediram, as quais são algumas falecidas, e lhes faça 
+juntamente mercê conceder-lhe os rumos que melhor lhes estiver para todas as partes que o 
+quiserem deitar para suas demarcações. E receberá Mercê. Segundo se continha na dita petição 
+que sendo presente ao Senhor Vice-rei, e vista por ele nela pôs por seu despacho o seguinte: 
+Informe o Provedor-Mor da Fazenda Real. E dado o dito despacho e indo com ele ao Sargento-
+Mor Antônio Pereira, que servia de Provedor-Mor da Fazenda Real deste Estado, deu o parecer 
+e informação seguinte: Senhor, não encontra ao Foral e ordenação que o suplicante pede, visto 
+terem cabedal para as poderem povoar, e haverem-se lhe concedida seus pais, e estarem 
+atualmente servindo a Sua Majestade; e assim, não prejudicando a terceiro, sendo Vossa 
+Excelência servindo-lhes deve conceder na forma que pedem. Bahia 22 de março de 1665 
+//Antônio Pereira // E não diz mais a resposta e informação do dito Provedor-Mor, está por ele 
+assignada de seu sinal; e com ela tornara a dita petição ao Senhor Vice-rei, que sendo por ele 
+vista, por último despacho mandou o seguinte. Faço mercê dar de Sesmaria aos Suplicantes, em 
+nome d’El-Rei, meu Senhor, toda a terra pedida e confrontada em sua petição, como lhe foi 
+concedida por Dom Francisco de Moura. Com declaração que o Alferes Sebastião Barbosa 
+D’Almeida seu Irmão Bento Barbosa Barradas ficará com 26 léguas em quadra em Onhunaçu; 
+e o Licenciado o Padre Pedro Ferreira com 4 em quadra partindo com eles, visto estarem 
+servindo atualmente a El-Rei meu Senhor neste Estado, e constar-me terem cabedal para as 
+povoarem; passasse-lhe Carta de Sesmaria na forma do estilo. Bahia 22 de março de 1665. 
+Rubrica do Senhor Vice-Rei. E depois de continuado o sobredito trasladei aqui o capítulo do 
+
+Regimento d'El-Rei nosso Senhor, que é o seguinte: as terras e aguas das Ribeiras que estiverem 
+dentro no termo e limite da dita Cidade que são seis léguas para cada parte, que não forem dadas 
+ás pessoas que as aproveitem, estiverem vagas e devolutas para mina por qualquer via ou modo 
+que seja, podereis dar de Sesmarias pessoas que vol-as pedirem, as quais terras assim dareis 
+livremente, sem foro nem tributo algum, somente o Dizimo á Ordem de Nosso Senhor Jesus 
+Cristo, e com as condições e obrigações do foral dado ás ditas terras, e de minha Ordenação 
+titulo das Sesmarias: condição que a tal pessoa, ou pessoas residam-na povoação da dita Bahia, 
+ou das terras que assim lhe forem dadas, ao menos três anos; que dentro em dito tempo não as 
+possam venderem alhear: e tereis lembrança que não deixa cada pessoa mais terra que aquela 
+que segundo sua possibilidade virdes, e vos parecer que pode aproveitar, e se alguma pessoa a 
+que fiquem dado terras no dito termo, as tiverem perdidas por as não aproveitarem, e vol-as 
+tornarem a pedir, vós lhas dareis de novo para as aproveitarem, com as condições, e obrigações, 
+e declarações contidas neste Capítulo, o qual se trasladará nas Cartas das ditas Sesmarias. E 
+com estas condições, e obrigações e declarações deu o dito Senhor Vice-Rei em nome de Sua 
+Majestade aos Suplicantes o Alferes Sebastião Barbosa de Almeida, Bento Barbosa, e o Padre 
+Pedro Ferreira, tudo o que pedem em sua petição atrás trasladada, e as léguas de terra que pedem 
+de Sesmaria, com declaração que os Alferes Sebastião Barbosa de A1meida, e seu Irmão Bento 
+Barbosa Barradas ficaram com 26 léguas de terra em quadra para-nos em Onhasu'; e o Padre 
+Pedro Ferreira com 4 léguas de terra em quadra partindo com eles, e com as confrontações, e 
+demarcações contendas na dita sua petição, seguindo os rumos que declaram, e nas paragens 
+que pedem, e toda a terra que relatam, tudo assim e da maneira que pedem, e é declarado, e 
+contido na dita petição e despacho do Senhor Vice-Rei que atrás fica declarada e lançado; com 
+rodas suas entradas e saídas, serventias e logradouros, e possessões; águas, matos, campos 
+pastos, ladeiras,e todas as mais cousas a elas pertencentes e contido que nelas houver, para que 
+os Suplicantes seus Herdeiros, e sucessores as logrem, e possuam para si e seus herdeiros que 
+pós eles vierem, de hoje em diante para todo sempre; e fazendo na dita terra como em coisa sua 
+própria que fica sendo por bem desta carta de Sesmaria que lhas dá e concede livremente, sem 
+obrigações, nem tributo algum que o Dízimo a Deus somente do que nelas lavrarem, cultivarem 
+e disfrutarem, contanto que esta data não prejudique a terceiro, e ao direito dela com tal 
+condição e obrigação que dentro de 3 anos seguintes tenham feitos Suplicantes benfeitorias nas 
+ditas terras; e por elas darão caminhos para pontes, fontes, e vidros, com pedreiras necessárias 
+ao conselho. E fará registar esta Carta de Sesmaria nos Livros da Fazenda de Sua Majestade, 
+dentro de um armo primeiro seguinte. E para constar do sobredito mandou o dito Senhor Vice-
+rei lançar neste Livro das Sesmarias esta de que se trata para dela se daremos Suplicantes os 
+traslados necessários para seus títulos: e por eles haverão posse real, cível, natural, e atual das 
+ditas terras que lhes deu em nome de Sua Majestade pela maneira já dita, e assignou aqui. Conde 
+de Óbidos. Qual traslado de Carta de Sesmaria eu, Francisco da Rocha Barbosa, Tabelião do 
+Público Judicial, e notas nesta Cidade do Salvador e seu Termo por Sua Majestade, fiz trasladar 
+do meu Livro de Sesmarias onde a lancei como Escrivão a que me reporto, e o subscrevei assim 
+de meu público sinal seguinte // Sinal Público //. Em testemunho de verdade // Francisco da 
+Rocha Barbosa // Registe-se nos Livros da Fazenda. Bahia, agosto 17 de 1665 // De UIhoa // 
+Registou-se em 22 do dito mês e ano // Gonçalo Pinto de Freitas // 
+ 
+- Fim de Transcrição - 
+Referências: 
+DHBN, vol. 22, Pg. 157 - 162 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

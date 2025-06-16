@@ -1,0 +1,142 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0046
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gonçalo de Aguiar",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "01-04-1579",
+  "Data da concessão": "01-04-1579",
+  "Observações da sesmaria": "A palavra “Guaxandiva” foi alterada para “Guaxandiba”.\r\n",
+  "Ribeira": "Rio de Guaxindiba; Rio de Margoí",
+  "Confrontantes": "João Carrasco; Marim Parim.",
+  "Observações da petição": "Não é possível saber o dia do mês de abril de 1579 que foi realizada a petição. ",
+  "Justificativas": "Não tinha terras; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0046"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0046
+Carta de concessão de sesmaria da terra de Gonçalo de Aguiar de [não identificado] de abril
+de 1579
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1579 anos em os [. . . . . .] dias do mês de abril do dito ano em
+esta cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, em as casas de morada
+de mim escrivão adiante nomeado, apareceu Gonçalo de Aguiar, morador nesta dita cidade, e
+me apresentou uma petição com um despacho em ela do Senhor Salvador Correia de Sá,
+capitão e governador desta dita cidade e capitania deste dito Rio de Janeiro, por El Rei nosso
+Senhor e da qual petição o traslado dela e do dito despacho é o seguinte. Diz Gonçalo de
+Aguiar, morador nesta cidade, que haverá 12 anos, ou um pouco mais ou menos, que está
+nesta cidade e nela está casado ajudando a povoar, sem até o presente momento ter nenhuma
+terra para lavrar nem fazer benfeitoria nenhuma, pelo que pede a Vossa Senhoria lhe faça
+mercê de lhe dar de sesmaria na cabeceira de João Carrasco e de Marim Parim, no Rio de
+Guaxindiba e no Rio de Margoí, meia légua de terra ao longo das cabeceiras e uma légua para
+o sertão e, sendo caso que seja dada, possa correr por diante onde lhe couber no que receberá
+mercê. Despacho do Senhor capitão e governador. Dou ao suplicante mil braças de largo onde
+pede e duas mil de comprido e, sendo dado, correrá adiante onde lhe couber. Hoje, 28 de
+março de 1579. Salvador Correia de Sá. E tudo visto pelo dito Senhor capitão e governador a
+petição do dito suplicante Gonçalo de Aguiar e o lhe ele pedia, visto ser justo e havendo
+respeito ao proveito que se pode seguir acerca da República, ao serviço de Deus, do Rei nosso
+Senhor e por a terra se povoar lhe deu a terra contida no dito seus despachos, digo, seu
+despacho e, porquanto, estava devoluto e por aproveitar, e para ao dito Gonçalo de Aguiar
+aproveitar e fazer benfeitorias de roças nela como diz, não sendo já dada a outra pessoa 1°, a
+qual terra está no dito lugar, tem a dita medida e parte pelas ditas confrontações como em sua
+petição diz, e a braça, porque se medir a dita terra, será braça craveira scilicet a saber 2 varas
+de medir por uma, como no Reino se costuma de medir, o que tudo lhe deu e concedeu na
+maneira abaixo, digo, adiante declarada segundo forma do regimento do governador geral
+Antônio Salema de que o traslado é o seguinte. § As terras que estiverem dentro do termo e
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas
+a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não
+aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem
+
+vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada
+pessoa mais terra que aquela que virdes ou vos parecer que podem granjear e aproveitar, as
+quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do
+Mestrado de nosso Senhor Jesus Cristo, e com as condições e obrigações do foral dado às
+ditas terras e de minha ordenação do Livro 4°, título das sesmarias, com condição que a tal
+pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem
+dadas ao menos três anos, e que dentro no dito tempo as não possam vender, nem enlear, e se
+algumas pessoas a que forem dadas terras no termo da dita cidade e as tiverem perdidas por as
+não aproveitarem, e vá tornarem a pedir, vós lhes podereis de novo dar com as condições e
+obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes, e
+isto se entenderá não sendo as ditas terras dadas a outras pessoas com as quais condições,
+obrigações e declarações, lhe assim deu o dito Senhor capitão e governador a dita terra ao dito
+Gonçalo de Aguiar, suplicante, pela dita maneira, para sua guarda e segurança, lhe mandou
+ser feito esta carta, pela qual manda que ele haja a posse e senhorio dela para sempre, para ele
+e todos seus herdeiros e sucessores ascendentes e descendentes que após dele vierem com tal
+condição e entendimento, que ele rompa e aproveite a dita terra e a frutifique da data desta em
+três anos primeiros seguintes e, outrossim, fará de maneira que dentro em quatro meses tenha
+feito na dita terra algum proveito e plantado alguns mantimentos, e cumpridos os ditos três
+anos que a tenha aproveitado como dito é, porque não o fazendo ele assim, passados os ditos
+três anos, se dará a dita terra que aproveitado não tiver de sesmaria a quem a pedir para
+aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver e, sobretudo,
+pagará mil réis para as obras do Conselho e dará por ela caminhos e serventias ordenados e
+necessários para o Concelho, para fontes, pontes, viveiros e pedreiras que necessários forem a
+qual terra, pela sobredita maneira lhe assim deu e concedeu forra e isenta, sem, digo, em
+nome do Rei nosso Senhor sem foro, nem tributo, somente de tudo o que lhe nosso Senhor der
+nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme ao dito
+regimento, o que tudo manda que se cumpra e guarde sem dúvida, nem embargo algum, que a
+ele seja posto e que esta carta seja registrada dentro em 1 ano nos livros da Fazenda Real,
+como o dito Senhor em seu regimento manda sob as penas nele contidas e declaradas, e
+porque o sobredito Gonçalo de Aguiar, suplicante, tudo prometeu de ter, manter e cumprir,
+pela dita maneira lhe mandou passar esta carta de sesmaria e por verdade eu, Pero da Costa,
+escrivão das sesmarias e tabelião das notas por El Rei nosso Senhor em esta sua cidade de São
+Sebastião, e seus termos que este instrumento de carta de sesmaria escrevi e tomei nos meus
+livros das notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam
+
+onde o dito instrumento fica assinado por o dito Senhor capitão e governador //Salvador
+Correia de Sá//
+-fim da transcrição-
+Observações do documento:
+A palavra “Guaxandiva” foi alterada para “Guaxandiba”.
+Referências:
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro:
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 187-189.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79)
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

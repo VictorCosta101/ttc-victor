@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0111
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Andrade",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-09-1698",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento e estava localizada entre os rios Jaguari e das Caravelas, Porto Seguro, fazendo fronteira com as terras de Manuel Gomes de Abreu (BA0109) e com as terras de Gervásio de Andrade Machado (BA0110), seu pai.",
+  "Localidade": "Porto Seguro",
+  "Marcos Geográficos": "Rio Jaguari; rio das Caravelas",
+  "Confrontantes": "Manuel Gomes de Abreu;  Gervásio de Andrade Machad",
+  "Justificativas": "As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda foi favorável ao pedido dos suplicantes, mas afirmou que era para o governador conceder as sesmarias de forma separada, como era costume, por isso nessa sesmaria apenas João de Andrade recebeu a carta, o seu pairecebeu a sesmaria em outro registro (BA0110) O governador-geral concordou com o parecer do provedor.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Ramires ",
+  "referencia": "BA0111"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de alvará de doação e sesmaria que se concedeu a João de Andrade, para ele e seus 
+descendentes uma légua de terra de largura no Jaguari do das caravelas e 2 de comprimento 
+para o sertão, começando de onde acaba a data de Gervásio de Andrade Machado. 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que Gervásio de Andrade Machado e João de Andrade 
+se me enviaram a apresentar a petição cujo o teor é o seguinte: Senhor, diz Gervásio de Andrade 
+Machado e seu filho João de Andrade que eles, suplicantes tem por notícia no rio das caravelas, 
+de onde chamam o rio do Jaguari, estão por eles acima muitas terras devolutas e sem senhorio, 
+e que Vossa Senhoria faz mercê em nome de Sua Majestade, que Deus o guarde, um légua  de 
+terra de largura e 3 de comprimento as pessoas que tem parece cabedais para as cultivar a 
+povoar, e porque os suplicantes se acham com pastos suficientes para aceitarem a dita mercê. 
+Portanto, pedem a Vossa Senhoria [que] lhes faça mercê conceder a cada um, uma légua de 
+terra de largura com 3 para o sertão que começam no Jaguari onde acaba a data de Manuel 
+Gomes de Abreu, onde outra qualquer que no dito rio esteja livre, sem prejuízo de terceiro. E 
+receberá mercê. E vista a informação do procurador da Fazenda a que se deu vista que é a 
+seguinte: na parte e lugar de onde os suplicantes pedem a terra para cultivar, acho que é 
+conveniente dar-lhes pela utilidade que se segue aos rendimento dos dízimos e seus moradores 
+que haver frentes para o seus feudos, e assim se não me oferece dúvida a que lhe defira com as 
+cláusulas e condições da lei e com declaração que com quanto não cultivarem a não poderão 
+traspassar nem vender. Bahia, 19 de setembro de 1698 // Ramires // E o parecer do provedor-
+mor da Fazenda Real que também é a que se segue: Senhor, convenho na resposta do doutor 
+procurador da Fazenda Real, mas com a condição de não poderem os suplicantes cortar 
+madeiras algumas das que tivessem préstimo para a fábricas de Sua Majestade, digo, das mãos 
+que sua Majestade, que Deus o guarde, tem mandado estabelecer neste estado pelo grande 
+prejuízo que do contrário se segue a seu Real serviço, com condição de se lhe terras e data e 
+perderem todas as benfeitorias que houver feito nas 6 léguas de terra que pedem, em contando 
+que faltarão a esta cláusulas, além da forma que mais insere. Vossa Senhoria mandará o que 
+mais convier. Bahia, 18 de setembro de 1698. E também parece necessário que a mercê se faça 
+a cada um separadamente, com é estilo ainda sendo do pai e filho os suplicantes, contando que 
+ambos tem cabedais para as aproveitar e povoarem no termo da lei // Francisco Lamberto // Hei 
+por bem conceder e dar em nome de Sua Majestade, que Deus guarde, ao dito Gervásio de 
+Andrade Machado, para ele e seus descendentes a dita légua de terra légua de terra de largura 
+com 3 de comprimento para o sertão que começam no Jaguari das caravelas onde acaba a data 
+de Gervásio de Andrade Machado na forma composta em sua petição neste inserta, não 
+prejudicando a terceiro, como parece aos ministros da Fazenda Real, e as aproveitará dentro do 
+termo da lei, e as não poderá alhear nem passará a outro algum domínio sem as ter aproveitado 
+com condição de se darem logo neste caso a quem a outra pessoa, nem o poderá fazer sem 
+expressa ordem de Sua Majestade e com as mais cláusulas contidas na ordenação do Reino, 
+título de sesmarias e forma do capítulo 26 do regimento novo deste governo geral as quais terras 
+terá e possuirá com todas as suas águas, matas, testadas, logradouros e mais úteis que nelas se 
+acharem com foro livre e isento de pensão salvo o dizimo a ordem de Cristo que pagará pelos 
+frutos que delas houver, e por elas serão obrigados a dar caminhos públicos e particulares para 
+fontes, pontes, portos e pedreiras com declaração que se havendo nas ditas terras alguma aldeia 
+de índios, não fique o dito Gaspar da Costa senhor dela e nem das terras que ocuparem os índios 
+na forma das novas ordens de Sua Majestade. Pelo o que ordeno a todos os ministros e oficiais 
+de justiça, a que o conhecimento deva ou possa pertencer, [que] lhe façam dar e deem  posse 
+real, efetiva e atual  demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa 
+dos contos de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o sinal 
+
+e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, e nas mais a que 
+tocar da Fazenda Real dele e nos do escrivão de sesmarias, se guardará e cumprirá tão pontual 
+e inteiramente com nele se contém sem dúvida, embargo nem contradição alguma. // Antônio 
+Lopes Vieira, frei nesta cidade do Salvador, Bahia de todos os santos aos 19 dias do mês de 
+setembro, ano de 1698 // Gonçalo Ravasco Cavalcante e Albuquerque // a fiz escrever // Dom 
+João de Lancastro // selo // Alvará de doação e sesmaria pelo qual foi Vossa Senhoria 
+Ilustríssima servido conceder em nome de Sua Majestade, que Deus o guarde, ao Gervásio de 
+Andrade Machado, para ele e seus descendentes a dita légua de terra légua de terra de largura 
+com 3 de comprimento para o sertão que começam no Jaguari das caravelas onde acaba a data 
+de Gervásio de Andrade Machado como confronta em sua neste inserta e não prejudicando a 
+terceiro como parece aos ministros da Fazenda Real, nem as aldeias e terras dos índios que 
+nelas se acharem com as cláusulas e respeitos acima declarados. Para Vossa Ilustríssima ver. 
+Registrado no livro 5° dos registros da secretaria do Estado do Brasil, que tocava as folhas --. 
+Bahia, 23 de setembro de 1698 // Ravasco // Lamberto // Leonardo Lopes de Carvalho // o 
+registrou-se no dito dia, mês e era. 
+ 
+- Fim de Transcrição- 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Gervasio de Andrade 
+Machado” e “João de Andrade” 
+- As folhas das quais a carta se encontra no livro de registros da secretaria do Estado do Brasil 
+encontram-se ausentes 
+ 
+Referências: 
+AN, Códice, fls. 109 – 110v. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

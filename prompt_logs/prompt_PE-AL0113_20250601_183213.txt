@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0113
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Matias de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "04-08-1632",
+  "Data da concessão": "04-08-1632",
+  "Observações da sesmaria": "O suplicante requereu seis léguas de comprimento e seis léguas de largura do rio São Miguel até o rio São Francisco.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio São Miguel",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0113"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0113 
+ 
+Diz Matias de Albuquerque que ele tem servido a Vossa Senhoria muitos anos na sua 
+capitania de Pernambuco, pelo que pede a Vossa Senhoria lhe faça mercê das 6 léguas 
+de terra em quadra de sesmaria desde o rio de São Miguel até o rio de São Francisco 
+onde quer que as achar ou ao longo do mar ou do sertão, e que delas poderá fazer 
+largura de comprimento, e de comprimento largura, e as poderá tornar as meias léguas 
+ou léguas ou pedaços em uma e muitas partes até por fazer as ditas 6 léguas de terra 
+em quadra na forma sobredita e receberá mercê = Passe carta de data ao suplicante de 
+6 léguas de terra que para nas partes que confrontava na conformidade desta petição, 
+não sendo dadas nem prejudicando a terceiro de outras cartas que haja mais antigas 
+dadas por meus antecessores ou por quem seus poderes tivesse  [?]  4 de agosto de 
+1632 anos. Duarte de Albuquerque Coelho, capitão e governador da capitania de 
+Pernambuco no citado do Brasil, etc. Faço saber aos que esta minha carta for 
+mostrada e o conhecimento dela com direito pertencer que o senhor Matias de 
+Albuquerque meu irmão me fez a petição acima escripta, e visto o que nela alega, hei 
+por bem de lhe dar 6 léguas de terra em quadra de sesmaria deste o rio de São Miguel 
+até o rio de São Francisco onde quer que se achar ou ao longo do mar ou ao sertão e 
+nelas poderá fazer larguras e as poderá tomar a légua, ou a meias léguas, ou pedaços 
+em uma e em muitas partes até por fazer as ditas 6 léguas em quadra na forma 
+sobredita, não sendo dada nem prejudicando a terceiro de outras cartas que haja mais 
+antigas dadas por mim ou por meus antecessores ou quem nossos poderes tivessem as 
+quais assim como aspede na dita petição e concedo ao dito Matias de Albuquerque 
+meu irmão para que as pessoas ele e seus herdeiros e descendentes de hoje para todo 
+sempre com todas as águas, pastos e madeiras que nelas houver, sem dúvida nem 
+contradição de pessoa alguma e da posse se fará termo nas costas desta minha carta na 
+forma costumada e se registará nos livros das datas e sesmarias desta capitania, e se 
+cumprirá sem dúvida nem embargo algum como nela se contém, dada neste arraial de 
+Parnamirim sobre meu sinal e sinete de minhas armas, Francisco de Sousa a fez aos 4 
+de agosto de 1732 anos = Duarte Albuquerque Coelho = Por esta por mim feita e 
+assinada, e por ser minha vontade e desejar fazer mercê a Belchior Álvares e 
+satisfação de serviços que me tem feito lhe dou todo o direito desta data de terra ao 
+dito Belchior Álvares e seu filho para ele e seus herdeiros, e para a poder haver [?] e 
+trespasse todo o direito que nela tenho assim e da maneira que o senhor Duarte de 
+
+Albuquerque, meu irmão, me deu com declaração que mantendo antes de 14 anos ou 
+sem filhos, por sua morte ficaram as terras dele à pessoa ou pessoas que os ditos seus 
+pais nomear. Dado neste arraial do Bom Jesus, aos 12 dias de fevereiro de 1634 = 
+Matias de Albuquerque = Fica registrada esta carta e trespasse dela e no livro primeiro 
+dos registros das folhas 7 e 8 dele por mim, João Rodrigues Chaves, escrivão das 
+datas e registros desta capitania, São Lourenço, 3 de abril de 1634 = João Rodrigues 
+Chaves = O qual treslado de petição carta de data e trespasse dela e rubricada de 
+registro, eu, João Rodrigues Chaves, escrivão das datas e demarcações por Duarte de 
+Albuquerque Coelho, capitão e governador desta capitania de Pernambuco, por Sua 
+Majestade, etc. a trasladei do próprio livro por despacho do ouvidor João Soares de 
+Almeida, que fica em meu poder e ao dito livro e cartas me reporto, com quem o corri 
+e concertei, e com o tabelião abaixo assinado, e me assinei, e a própria tornei ao dito 
+Belchior Álvares, que assinou aqui como a recebeu, feita em São Lourenço, aos 4 dias 
+do mês de abril, ano do nascimento de Nosso Senhor, Jesus Cristo, 1634 anos = João 
+Rodrigues Chaves = Concertado por mim, escrivão das datas e demarcações = João 
+Rodrigues Chaves = Belchior Álvares = reconhecimento = Luís Marreiros, tabelião do 
+público, judicial e notas da vila de Olinda, capitania de Pernambuco, por Duarte de 
+Albuquerque Coelho, capitão e governador dela por El Rei, Nosso Senhor, etc. 
+Certifico que a letra da carta dada atrás e traspasso dela, e assim mais os sinais que 
+estão ao pé dela, porque [?] treslado que se tirou dos livros das ditas demarcações é de 
+João Rodrigues Chaves, escrivão deles contido no dito treslado, de que passei este 
+reconhecimento por mim feito e assinado, em público e raso no rio de São Francisco, 
+aos 17 dias do mês de janeiro de 1636 anos = Sinal público de Luís Marreiros. 
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. Livro I, p. 11. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

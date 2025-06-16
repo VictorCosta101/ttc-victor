@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0160
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0046",
+  "Nome": "Diogo Soares de Albuquerque Uchoa, José da Costa Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "05-12-1822",
+  "Data da concessão": "19-07-1823",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no termo da vila de Sirinháem. A sesmaria tinha por limites o engenho Bastião a leste e ao norte as terras de José Rodrigues Sini.",
+  "Localidade": "Vila de Sirinháem",
+  "Confrontantes": "Engenho Bastião, José Rodrigues Sini",
+  "Justificativas": "Não tinha terras; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Afonso de Albuquerque Maranhão; Francisco Pais Barreto, Francisco de Paula Cavalcante de Albuquerque e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provisória de governo da província de Pernambuco determinou o pagamento anual do foro régio no valor de 6 mil réis. A junta provisória também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0160"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0160 
+Carta de doação e sesmaria de Diogo Soares de Albuquerque Uchoa e José da 
+Costa Pereira – 10/06/1823 
+ 
+Diogo Soares de Albuquerque Uxoa e José da Costa Pereira com uma légua de 
+terra em quadro no termo da Vila de Sirinhaém. 
+Nós, o presidente e membros da junta do Governo da província de Pernambuco, 
+fazemos saber aos que esta carta de data de sesmaria virem, que Diogo Soares de 
+Albuquerque Uchoa e José da Costa Pereira nos dirigiram seu requerimento do teor 
+seguinte: = Ilustríssimos e excelentíssimos senhores – Dizem Diogo Soares de 
+Albuquerque Uchoa e José da Costa Pereira, nacionais desta província, que eles vi[v]em 
+da agricultura, e não tendo terreno próprio para seu cultivo, aspiram tê-lo; e por que 
+chega a notícia dos suplicantes que no termo da vila de Sirinhaém se acha uma porção 
+de terras devolutas e desaproveitadas, as quais pegam da parte d’leste das testadas do 
+engenho denominado Bastião, em busca do oeste e do norte dividem com terras de José 
+Rodrigues de Sini, que se acham demarcadas, e por este lado buscam ao sul, por 
+requerem a Vossa Excelência, que na conformidade das ordens régias se dignou 
+conceder aos suplicantes uma légua por sesmaria de dita em quadra, principiando a 
+medição de ditas testadas do engenho Bastião e dos marcos de Sini, sendo medida a 
+légua quadrada por todos os quatro ventos principais, e no caso de não haver terras que 
+preencha a légua pedida, se contentam os suplicantes com o intermédio que se achar, 
+pelas confrontações expedidas, que protestam o rótulo de marcá-los, requerer 
+confirmação e lançar na torre do santo no tempo em que determina a lei, e satisfazer a 
+pensão que lhe for imposta = Pede a Vossas Excelências por mercê lhes concedam a 
+sesmaria requerida = E receberá mercê = Recife, 5 de dezembro de 1822 = Como 
+procurador, Felipe Messias = E sendo por nós visto o seu requerimento, mandamos por 
+despacho de 5 de dezembro de 1822, que a Câmara respectiva fizesse por editais e 
+procedesse as mais diligências do estilo; ao que a mesma satisfez informando-nos em 
+ofício de 26 de abril do corrente ano, a que acompanhavam os próprios editais e certidão 
+do oficial que os afixou, asseverando não ter havido oposição alguma, a vista do que por 
+despachos de 17 e 30 de maio mandamos ouvir o desembargador procurador da Coroa e 
+Fazenda e o escrivão deputado da Junta da Fazenda Pública, e não pondo estes tão bem 
+embaraço algum, por despacho de 10 de junho do presente ano, lhe mandamos passar a 
+presente carta; e portanto, pela faculdade que nos é concedida no Capítulo 15 do 
+
+regimento deste Governo, e mais ordens régias a este fim dirigidas, havemos por bem 
+dar aos ditos Diogo Soares de Albuquerque Uchoa e José da Costa Pereira, em nome de 
+Majestade Ilustre e Constitucional, a referida légua de terra na forma dita, pagando o 
+foro anual de 6 mil reis, em observância da Real Ordem de 28 de setembro de 1700, de 
+que deu fiança na contadoria da Junta da Fazenda Pública, a folha 75 verso do livro 7º 
+delas; a qual sesmaria possuirão e gozarão eles suplicantes e seus herdeiros ascendentes 
+e descendentes, como sua que fica sendo de hoje para todo o sempre, como todas as 
+matas, campos, rios, águas, testadas logradouros e mais úteis que nela se 
+compreenderem, não prejudicando a terceiro. E não passará a religiões e pessoas 
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, e 
+nunca se dividirá em porções, nem se partirá, senão por estimação, andando encabeçada 
+em uma só pessoa, na forma da Ordenação livro 4º título 96 §23; e assim não passará a 
+herdeiro ou outras quaisquer pessoas sem consentimento da Junta da Fazenda Pública, 
+para nela se darem novas fianças e se fazerem as devidas escriturações, ficando livres 
+para a serventia dos povos todas as estradas, rios, fontes e pedreiras, e reservadas ao 
+patrimônio público as madeiras de construção, pau-brasil e viveiros de quaisquer 
+metais, e serão obrigados a requerer dentro de três anos confirmação, a medir e 
+demarcar, em cujo ato poderão preencher-se para o lado ou lados em que houver terras 
+devolutas, caso encontrem obstáculo dos éreos confinantes na medição quadrada, a 
+povoá-la e cultivá-la na forma da Ordem Régia de 20 de outubro de 1753 e alvará de 25 
+de janeiro de 1809, e não o cumprindo assim se haverá por devoluta e novamente se 
+concederá a quem requerer. Pelo que ordenamos aos ministros da Fazenda, da Justiça e 
+mais pessoas a quem tocar, cumpram e façam cumprir esta carta de data de sesmaria, 
+como nela se contém, fazendo dar aos suplicantes posse real, efetiva e atual na ordem da 
+Ordenação Título das sesmarias. Em firmeza do referido, lhe mandamos passar a 
+presente por nós assinada e selada com o sinete nacional, a qual se registrará na 
+Secretaria deste Governo, na da Junta da Fazenda Pública e aonde mais tocar. Manoel 
+Paulo Quintela, segundo oficial da Secretaria, a fez em o Recife de Pernambuco, aos 19 
+dias do mês de julho de 1823; segundo da independência e império do Brasil. E eu, 
+Manoel dos Passos e Figueiroa, oficial maior da secretaria, no impedimento do 
+secretário, a fiz escrever = Estava o sinete das armas do império = Afonso de 
+Albuquerque Maranhão, presidente = Francisco Paes Barreto = Francisco Paes Barreto 
+= Francisco de Paula Cavalcante de Albuquerque = Manoel Ignácio Bezerra de Melo = 
+Carta de data de sesmaria, pela qual Vossas Excelências hão por bem conceder em 
+
+nome de Sua Majestade Imperial e Constitucional, uma légua de terra em quadro no 
+termo da vila de Sirinhaém a Diogo Soares de Albuquerque Uchoa e José da Costa 
+Pereira, como nela se declara. = Para Vossas Excelências verem = Por despacho do 
+Governo de 10 de junho de 1823. 
+- Fim da carta – 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 228-229. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0115
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gaspar de Freitas Rabelo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-03-1702",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento e estava localizada ao longo do rio Santa Cruz, em Porto Seguro.",
+  "Localidade": "Porto Seguro",
+  "Marcos Geográficos": "Rio Santa Cruz",
+  "Observações da petição": "O sesmeiro tinha solicitado quatro léguas para o capitão-mor de Porto Seguro que tinha concordado em conceder essas quatro léguas.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas as justificativas.",
+  "Observações do deferimento e da concessão": "O provedor afirmou que não deveriam ser dadas as quatro léguas que o capitão-mor de Porto Seguro tinha concedido, mas sim as três léguas já costumadas. O governador-geral concordou com o parecer do provedor.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.\r\n",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": " Francisco Lamberto ",
+  "Nome do procurador": "Faria",
+  "referencia": "BA0115"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro do alvará pelo qual se confirmou e deu se novo em nome de Sua Majestade ao alferes 
+Gaspar de Freitas Rabelo, para ele e seus descendentes uma légua de terra de largura e 3 de 
+comprimento na parte que demarca e pede em sua petição. 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e confirmação virem que o alferes Gaspar de Freitas Rabelo se me enviou 
+apresentar a petição do teor seguinte: Senhor, diz o alferes Gaspar de Freitas Rabelo, morador 
+no sítio da Santa Cruz, termo na Vila de Porto Seguro, que o capitão-mor daquela capitania, 
+Gaspar Borges Novais, lhe deu de sesmaria uma légua de terra correndo pelo rio da Santa Cruz 
+acima e 4 para o sertão, começando a demarcar em um riacho que chamam de Tiocra o qual 
+fica para a banda do sul do dito rio ali de onde chega a dita légua, como lendo consta na carta 
+de sesmaria junta e om condição de mandar confirmar pelo governador e capitão-geral deste 
+Estado do Brasil. Pelo o que pede Vossa Senhoria, lhe faça mercê confirmar a dita sesmaria 
+para o suplicante poder lograr as ditas terras de que foi e está de posse, sem contradição de 
+pessoa alguma como consta no exceto de posse junto. E receberá mercê. E visto o parecer do 
+doutor procurador da Coroa que é o que continua: não se me oferece dúvida que se passe ao 
+suplicante alvará de confirmação. E para evitar os futuros danos das posses clandestinas, se lhe 
+deve passar com cautela que faça citar os confrontantes desta data para virem a dúvida que 
+tiverem a posse tomada e se estender nas cortes do alvará e certidão da diligenciam dentro de 2 
+meses depois do alvará, passando na forma do estilo. Bahia, 21 de fevereiro de 1702 // Faria // 
+E a informação do provedor-mor da Fazenda Real deste Estado que é a seguinte: Senhor, feita 
+noticia que se me disse é este rio, onde o capitão-mor da capitania de Porto Seguro deu ao 
+suplicante de sesmaria as 4 léguas de carta que junta oferece o mais abundante de madeiras 
+capaz de fábrica das naus de Sua Majestade e de outros ministros do seu real serviço, e ainda 
+que na mesma carta não se lhe proíba que corte pau algum de préstimo para as ditas naus, se 
+lhe não a possa, que pelo fazer deve ter e é o mesmo que se lhe não proibir o corte de todas as 
+madeiras em que o serviço de Sua Majestade tem irreparavelmente mais perda do que todo o 
+Porro Seguro lhe pode dar de utilidade nas mais lavouras e seus dízimos, nem o capitão-mor 
+poderá dar mais de 3 léguas que é faculdade de Sua Majestade para estas datas e a pessoas de 
+cabedais que possam aproveitar as terras e não procurem só o domínio para a vender e as 
+arrendarem, como sempre se tem visto neste Estado. E quanto aos mais, me conformo com o 
+que parecer ao doutor procurador da Coroa e Fazenda Real. Vossa Senhoria mandará o que 
+mais convier. Bahia, 28 de fevereiro de 1702 // Francisco Lamberto // Hei por bem de confirmar 
+e dar de novo se necessário for, em nome de Vossa Majestade, que Deus guarde, ao dito Gaspar 
+de Freitas Rabelo para ele e seus descendentes, uma légua de terra de largura e 3 de 
+comprimento na parte que pede e confronta em sua petição nesta inserta, começando onde nela 
+ditara, e não terá vigor em mais quantidades das léguas referidas a carta que passe das mesmas 
+terras o capitão-mor  da capitania de Porto Seguro nos 20 dias do mês de junho do ano de 99, o 
+qual légua de largura e de comprido lhe dou,  não prejudicando a terceiro e com todas as 
+cláusulas expressadas no parecer dos ministros da Fazenda, também nesta inserta, e constando 
+faltou a qualquer delas, não lhe valerá este alvará, e perderá  a benfeitoria que houver feito nas 
+ditas terras as quais outro se aproveitará  dentro do termo da lei, e as não poderá alhear nem 
+passará a outro algum domínio sem as ter aproveitado com condição de se darem logo neste 
+caso a quem a outra pessoa, nem o poderá fazer sem expressa ordem de Sua Majestade e com 
+as mais cláusulas contidas na ordenação do Reino, título de sesmarias e forma do capítulo 26 
+do regimento novo deste governo geral as quais terras terá e possuirá com todas as suas águas, 
+matas, testadas, logradouros e mais úteis que nelas se acharem com foro livre e isento de pensão 
+salvo o dízimo a ordem de Cristo que pagará pelos frutos que delas houver, e por elas serão 
+obrigados a dar caminhos públicos e particulares para fontes, pontes, portos e pedreiras com 
+
+declaração que se havendo nas ditas terras alguma aldeia de índios, não fique o dito Gaspar de 
+Freitas Rabelo senhor dela e nem das terras que ocuparem os índios na forma das novas ordens 
+de Sua Majestade. Pelo o que ordeno a todos os ministros e oficiais de justiça, a que o 
+conhecimento deva ou possa pertencer, [que] lhe façam dar e deem posse real, efetiva e atual 
+demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa dos contos de onde 
+se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o sinal e selo de minhas 
+armas do qual se registrará nos livros da secretaria do Estado, e nas mais a que tocar da Fazenda 
+Real dele e nos do escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente 
+com nele se contém sem dúvida, embargo nem contradição alguma. // Luiz da Costa Sepúlveda 
+// o fez nesta cidade do Salvador, Bahia de Todos os Santos aos 15 dias do mês de março, ano 
+de 1702 // Manuel Rogerio // oficial maior da secretaria do Estado do o recebeu por 
+impedimento do secretário dela e mandado do // Dom João de Lencastro // governador e capitão 
+general do mesmo Estado // Dom  João de Lancastro // selo // Alvará porque Vossa Senhoria 
+Ilustríssima teve de conceder, digo, confirmar e dar de novo se necessário for em nome de Sua 
+Majestade, que Deus o guarde, ao Alferes Gaspar de Freitas Rabelo, para ele e seus 
+descendentes uma légua de terra de largura e 3 de comprimento na parte que as pede e confronta 
+em sua petição neste inserta, não excedendo uma légua de largura e 3 de comprimento e nem 
+prejudicando a terceiro com todas as cláusulas que apontam os ministros da Fazenda Real em 
+seus pareceres também neles informados, e os mais na ordenação do reino e título de sesmarias 
+com as mais costumadas de não prejudicar as aldeias e terras dos índios que nelas se acharem 
+nas condições apontadas e se demarcar e confirmar esta por Sua Majestade, dentro de um ano 
+pelos respeitos acima declarados. Para Vossa Senhoria Ilustríssima ver. Registrado no livro 5° 
+dos registros da secretaria do Estado do Brasil a que toca. Bahia, 23 de março de 1702 // 
+Lamberto // Leonardo Lopes de Carvalho a registrou em 19 do dito mês e ano. 
+ 
+- Fim da Transcrição - 
+  
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Gaspar de Freitas Rabelo” 
+ 
+Referências: 
+AN, Códice, fls. 164 – 166. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

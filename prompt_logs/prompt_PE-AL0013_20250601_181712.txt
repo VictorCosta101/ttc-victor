@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0013
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0433",
+  "Nome": "Domingos Rodrigues da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "11-02-1723",
+  "Data da concessão": "11-02-1723",
+  "Observações da sesmaria": "O suplicante requereu três léguas de terra no distrito do Cucaú, na Vila de Serinhaem, confrontando com as terras do alferes Antônio de Freitas, encontrando o rio Camaragibe para o sertão, para as terras conquistadas dos Palmares.",
+  "Localidade": "Distrito da Vila de Serinhaem, Cucaú e rio Camaragibe.",
+  "Marcos Geográficos": "Distrito da Vila de Serinhaem, Cucaú e rio Camaragibe.",
+  "Confrontantes": "Antônio de Freitas",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Não possuía as terras com justo título; Não tinha terras; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alegou que requereu a sesmaria por ter sido nomeado cabo no distrito ao qual se refere e que participou da conquista dos Palmares.",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Manuel Rolim de Moura ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0013"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0013
+Carta de doação e sesmaria de Domingos Rodrigues da Silva - 11/02/1723
+CARTA DE SESMARIA QUE SE PASSOU A DOMINGOS RODRIGUES DA SILVA,
+CAPITÃO DO TERÇO PAGO DA CAMPANHA DOS PALMARES.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade - Governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação de sesmarias
+virem, que Domingos Rodrigues da Silva, capitão do terço pago da Campanha dos Palmares, e ao
+presente cabo atual do Arraial de Cucaú, me apresentou a petição seguinte: Diz Domingos
+Rodrigues da Silva, capitão de uma das Companhias de Infantaria paga da Campanha dos Palmares,
+que pelos documentos juntos, todos fundados nas ordens de Sua Majestade, que Deus guarde,
+consta haver o dito senhor reduzido o dito terço a seis Companhias, ordenando que em sítios
+proporcionados se assentassem três Arraiais, a saber: uma no distrito da Vila das Alagoas, com duas
+companhias e um dos capitães por cabo delas, que de próximo é André Furtado de Mendonça; no
+outro, no distrito da Vila do Porto Calvo, com outras duas Companhias e um dos capitães por cabo,
+que hoje é Miguel de Godoi de Vasconcelos; outro no distrito da Vila de Serinhaem, em o lugar
+chamado o Cucaú, com outras duas Companhias do qual o suplicante foi nomeado por cabo, em
+cujo sítio e Arraial de posse em observância das ditas reais ordens há onze para doze anos. E por
+quanto Sua Majestade foi servido mandar, pela que logo se segue a esta petição vinda ao
+governador e capitão general Caetano de Melo de Castro, que as terras conquistadas dos Palmares
+se repartisse entre todos os oficiais maiores e menores, e soldados do mesmo terço, dando-se a cada
+um a quantidade das léguas conforme ao seu posto, como na própria ordem se declara, fazendo
+mercê aos capitães de três léguas de terra a cada um em quadro, sendo que para todos hajão terras
+das que foram conquistadas; e estando todos os mais capitães acomodados, se acha o suplicante sem
+a sua data, sem embargo de havê-la requerido já na capacidade das terras do sítio do Cucaú, onde
+tem assentado o seu Arraial, e mostrado com a justificação feita perante o provedor da Fazenda Real,
+também apença a estes documentos, em como as terras que pretende o suplicante, são dentro das
+que se conquistaram na guerra dos Palmares, como Sua Majestade adverte na mesma ordem, que
+Vossa Senhoria será servido mandá-la inserir na carta de doação de sesmaria que o suplicante espera,
+se lhe passe seguindo-se também essa a da isenção do foro das ditas terras de que o dito senhor lhe
+fez mercê. Pede a Vossa Senhoria seja servido, atendendo ao que o suplicante alega nesta petição,
+tudo aprovado com as ordens de Sua Majestade mandar-lhe passar sua carta de doação de sesmaria
+de terras confrontadas pelo rio de Serinhaem acima, pegando das cabeceiras do alferes Antônio de
+Freitas, já defunto, três léguas de terras em quadro a rumo direito pelo rio acima, fazendo pião no
+mesmo rio, por estarem devolutas e o suplicante situado nelas com o seu Arraial na forma das
+
+ordens d'ElRei, Nosso Senhor, e para a parte do norte, buscando o rio de Camaragibe, pelas
+cabeceiras das datas, buscando até encher as ditas três legôas de terra em quadro e para a parte do
+sul demandando o rio das Ilhêtas, pelas cabeceiras das datas, até sempre fazerem as ultimas três
+léguas em quadro para o sertão; terras conquistadas aos negros rebeldes dos Palmares, tendo Vossa
+Senhoria em consideração a que os moradores da Vila de Serinhaem fazem muita aceitação de que o
+suplicante assim naquele distrito, como se vê da certidão anexa dos oficiais da Câmara dela. – E
+receberá mercê - Segue-se a primeira carta - Caetano de Melo de Castro - Amaro. Eu, EIRei, vos
+envio muito saudar. Havendo visto o que aqui se me representou por parte dos paulistas sobre a
+forma que se deu as sesmarias, cuidando que os ministros deputados a elas as hão de ir distribuir ao
+sertão; o que primeiro se hão de decidir, ainda que sumariamente, os prejuízos de terceiros que lhe
+sejam entregues as terras; e atendendo as razões que se me ofereceram e propuseram a favor do
+mestre de campo Domingos Jorge Velho, que na assistência da Campanha em movimento das
+guerras dos negros dos Palmares, se tem assinalado e merecido tanto. Me pareceu mandar-vos que
+no sítio que ele nomear, se lhe deem seis léguas de terra; e observado o que informa o dito provedor
+em seu despacho, que não contém mais que duas condições no que respeita a concessão desta carta
+de sesmaria, sendo a primeira a precedência de uma justificação pela qual contém, que as terras que
+são dadas ao suplicante são dentro dos sítios dos Palmares, que se conquistarão e ficarão de
+conquistar para os sertões que o suplicante mostra haver justificado a seu favor, em observância da
+ordem real aqui incorporada a que o dito provedor se refere, e a segunda que não sucedam nas terras
+religiões por nenhum título, e acontecendo que sucedam, possuindo-as, seja com o encargo de
+pagarem dízimo como se fossem possuídas por seculares, e faltando-se a isto se haverão por
+devolutas, e darão a quem as denunciar. E havendo, outrossim, respeito ao que Sua Majestade me
+concede no capítulo 15 do regimento deste Governo. Hei por bem fazer-lhe mercê dar ao suplicante
+acima nomeado, como pela presente dou de sesmaria em nome de Sua Majestade, que Deus guarde,
+nos mesmos lugares, partes e testadas que confrontam em sua petição três léguas de terra em quadro
+no próprio sítio em que as pede e na mesma forma que parece ao provedor da Fazenda Real e ao
+doutor procurador da Coroa e Fazenda, livres e isentas da pensão do foro de cada légua, exceto o
+dízimo a Deus, como o dito senhor manda pela segunda ordem expressa inclusa também nesta
+mesma carta de data de sesmaria: o qual povoará a dita terra no tempo de cinco anos, aliás se dará
+por devoluta e a possuirá e gozará o suplicante e seus herdeiros, não prejudicando a terceiro, com
+todas as suas matas, ágoas, campos, testadas, logradouros e mais úteis que nela se acharem; e serão
+obrigados a dar por elas caminhos livres ao Conselho para fontes, pontes e pedreiras, e a requerer a
+confirmação desta data por EIRei, Nosso Senhor, no tempo de dois anos. Pelo que ordeno aos
+ministros da Fazenda e Justiça desta capitania, a quem o conhecimento desta carta pertencer, lhe
+deem a posse real, efetiva e atual, na forma costumada e debaixo das cláusulas referidas na
+
+ordenação título de sesmarias; que por firmeza de tudo lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, a qual se registratará nos livros da Secretaria deste
+Governo e nos da Fazenda e foral real e nos mais aque tocar. Dada nesta cidade de Olinda, aos 11
+de fevereiro de 1723. O secretario Manoel da Silva Rosa o escreve = Dom Manoel Rolim de Moura.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 265 - 271.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0048
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0098",
+  "Nome": "Índios da Aldeia de Limoeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura nas adjacências da aldeia e igreja do Limoeiro.",
+  "Localidade": "Aldeia do Limoeiro",
+  "Justificativas": "Tinha poucas terras para acomodar familiares; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O requerente, padre prepósito da Congregação do Oratório da igreja da Madre de Deus da vila do Recife, em nome dos índios da Aldeia do Limoeiro, alegou que os indígenas não possuíam terras para seus sustento já que as terras da aldeia, adquiridas por meio da compra pelo missionário João Duarte do Sacramento, não eram suficientes para os casais e moradores. ",
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto, não foi possível identificar as informações referentes ao despacho e a concessão.",
+  "Observações das exigências": "Devido ao documento encontrar-se incompleto, não foi possível identificar as informações referentes ao despacho e a concessão.",
+  "referencia": "PE0048"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0048 
+ 
+Carta de doação de doação e sesmaria aos indíos da Aldeia do Limoeiro -  
+ 
+CARTA DE SESMARIA QUE SE PASSOU AOS ÍNDIOS D'ALDEIA DO LIMOEIRO, DE 
+UMA LÉGUA DE TERRA EM QUADRO. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta e doação de sesmaria 
+virem, que por quanto por parte do reverendo padre preposito da Congregação da Madre de Deus, 
+desta Vila do Recife, se me representou a petição do teor seguinte: Diz o padre preposito da 
+Congregação do Oratório da Madre de Deus deste Recife, prefeito das missões, que entre as que 
+tem a seu cargo e uma chamada do Limoeiro, em a qual estão muitos casais de índios aldeados, 
+situados na dita paragem, por ser muito conveniente ao serviço de Sua Majestade, pois estão como 
+em presídio desta praça e fecho de todo o sertão que pela dita paragem confina, e os mais prontos 
+por as deligências que Vossa Senhoria lhes ordenar, que indo ele suplicante visitar a dita aldeia, 
+achou que a melhor parte, digo, a maior parte dos índios andavam espalhados por toda esta 
+capitania, pela inconveniência de não terem nenhuma braça de terra em que plantar para seu 
+sustento mais que a que está fundada a Aldeia e Igreja, cuja lhes comprou com o dinheiro da 
+Congregação o padre João Duarte do Sacramento, a quem Sua Majestade tinha concedido o poder 
+de aldear os índios e repartir as missas, achando ser este lugar o mais conveniente ao serviço de Sua 
+Majestade, e como pelo seu falecimento não tiveram estes quem lhes procurasse terra para as suas 
+lavouras, para comodamente poderem-se sustentarem-se e querendo-os obrigar assistirem na sua 
+Aldeia, pelos inconvenientes que [...] as suas almas e me representou o missionário me rogaram 
+quizesse interceder por eles a Sua Majestade, para serem providos de terras suficientes para 
+remirem sua vexação, pondo-me por diante o grande trabalho que tiveram doze anos com a sua 
+igreja e o muito que os missionários gozaram com ela da Congregação, pelo que se não podiam 
+mudar para outra parte, deixando a dita igreja uma das melhores que há da praça em fora, como é 
+patente, e sabendo que pela ordem junta manda Sua Majestade dar aos índios aldeados uma légua 
+de terra, sem atenção aos donatários e sesmeiros, e os ditos índios senão podem conservar sem a 
+dita terra pela sua necessidade, portanto peço a Vossa Senhoria lhes faça mercê mandar  passar carta 
+de sesmaria da dita légua de terra, que Sua Majestade manda consignar a todas as aldeias, e que o 
+doutor ouvidor geral, segundo a mesma ordem, manda os meta de posse da dita terra onde for mais 
+conveniente aos mesmos índios, e que havendo algum que o queira impedir sem embargo dela, se 
+dê cumprimento a ordem de Sua Majestade. - E receberá merce. 
+- Fim da carta - 
+ 
+ 
+ 
+
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a 
+carta, faltando a parte restante correspondente a concessão. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 299 - 301. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

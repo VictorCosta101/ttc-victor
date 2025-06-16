@@ -1,0 +1,112 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0195
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0029",
+  "Nome": "Índios aldeados do Pajeú",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-10-1812",
+  "Observações da sesmaria": "Os suplicantes requereram meia légua de comprimento e meia légua de largura no entorno da Missão de Nossa Senhora das Dores da Baixa Verde na Serra Grande da Ribeira do Pajeú.",
+  "Localidade": "Serra Grande",
+  "Marcos Geográficos": "Missão de Nossa Senhora das Dores da Baixa Verde ",
+  "Ribeira": "do Pajeú",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Determinou-se isenção de pagamento de foro régio; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O frei Ângelo Maurício de Niza requereu, em nome dos índios aldeados do Pajéu, a concessão de sesmaria para a referida missão de acordo com as normas do Diretório. ",
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0195"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0195 
+ 
+Carta de concessão dos índios aldeados na missão de Nossa Senhora das Dores de Baixa 
+Verdes de 08/10/1812 
+ 
+Carta de sesmaria se passou aos índios aldeados na nova missão de Nossa Senhora das 
+Dores de Baixa Verdes na serra da Ribeira do Pajeú, de meia légua de terra quadrada 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho do príncipe regente Nosso Senhor, e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco, etc. Faço saber aos que esta carta de data de sesmaria virem, 
+que requerendo me frei Ângelo Maurício de Nissa por parte  dos Índios aldeados do Pajéu  
+lhe mandasse demarcar a terra que o Diretório, e reais ordens determinam lhe sejam 
+dadas, e conformando-me o parecer do doutor desembargador ouvidor-geral e corregedor 
+da comarca do Sertão dado em oficio de 30 de julho de 1811, e com a resposta do doutor 
+procurador da Coroa e Fazenda desta capitania de 6 de agosto do corrente ano: Hei por 
+bem conceder aos ditos índios em nome do príncipe regente Nosso Senhor meia légua de 
+terra quadrada em observância do alvará com força de leis de 23 de novembro de 1700, a 
+qual o mesmo ministro fará demarcar na forma do citado alvará devendo compreender o 
+local em que está situada a dita missão, de que  não pagarão algum como determina a lei 
+de 7 de junho de 1755, a qual sesmaria possuirão, e gozarão eles súditos índios e seus 
+descendentes como sua que fica sendo de hoje para todo sempre, com todas as matas, 
+campos, rios, águas, testadas, logradouros e mais úteis que nela se compreenderem, sendo 
+obrigados a dar ao conselho caminhos livres para pontes, fontes e pedreiras, e requererem 
+dentro de três anos confirmação, povoá-la e cultivá-la na conformidade da ordem régia 
+de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809. Pelo que ordeno aos ministros 
+da Fazenda, e Justiça, e mais pessoas a quem tocar cumpram, e façam cumprir e guardar 
+esta carta de data de sesmaria como nessa se contém, fazendo dar aos mencionados índios 
+posse real, efetiva e atual na forma costumada, debaixo das cláusulas referidas, e das mais 
+da Ordenação título das sesmarias. Em firmeza do referido lhes mandei passar a presente 
+por mim assinada e selada com o sinete das minhas armas, a qual se registrará na 
+secretaria deste Governo, e mais parte a que tocar. Manuel Freire Mariz oficial maior da 
+Secretaria a fez em Recife Pernambuco aos oito de outubro de mil 1812 = José Carlos 
+Marink da Silva Ferrão secretário do Governo a fez escrever = Caetano Pinto de Miranda 
+Montenegro = Carta de data de Sesmaria pela qual vossa excelência há por bem conceder 
+aos índios aldeados na nova Missão de Nossa Senhora das Dores da Baixa Verde na Serra 
+grande da Ribeira do Pajeú, meia légua de terra quadra, devendo compreender o local em 
+que está situada a dita Missão, de que não pagarão foro algum = Para V. Ex.ª ver = Por 
+sespacho do ilustríssimo e excelentíssimo senhor general de 5 de Outubro de 1812/ 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 119-120. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

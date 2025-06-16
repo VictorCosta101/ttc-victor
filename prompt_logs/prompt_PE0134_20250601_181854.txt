@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0134
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0248",
+  "Nome": "Antônio Barbosa da Silva ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "28-05-1818",
+  "Data da concessão": "05-06-1818",
+  "Observações da sesmaria": "Foi requerida uma sesmaria na Vila do Limoeiro, Comarca de Olinda, que parte para o oeste confrontando com terras de dom Feliciano, vizinho ao Ipojuca, indo para o norte do rio Capibaribe, de meia légua de terra.",
+  "Localidade": "Vila do Limoeiro, Ipojuca e rio Capibaribe.",
+  "Marcos Geográficos": "Vila do Limoeiro, Ipojuca e rio Capibaribe.",
+  "Confrontantes": "Dom Feliciano",
+  "Justificativas": "Tinha poucas terras; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/09/1700; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, Luiz do Rego Barreto, determinou o pagamento do foro anual de três mil reis ao sesmeiro e recomendou a confirmação dentro de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0134"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0134
+Carta de data e sesmaria de Antônio Barbosa da Silva - 26/05/1818
+O capitão-mor Antonio Barbosa da Silva, com meia légua de terra quadrada no
+termo da Vila do Limoeiro, comarca de Olinda.
+Luiz do Rego Barreto, do Conselho de Sua Majestade, fidalgo da Casa Real,
+comendador das Ordens de Cristo, torre e espada condecorado com a Cruz Grande das 7
+Batalhas por Sua Majestade britânica, marechal de campo dos reais exércitos, general
+chefe da divisão dos voluntários reais d'ElRei, governador e capitão general da capitania
+de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria virem, que
+Antonio Barbosa da Silva fez o requerimento do teor seguinte: Ilustríssimo e
+excelentíssimo senhor – Diz o capitão-mor Antonio Barbosa da Silva que ele é senhor e
+possuidor de uma propriedade de terras denominadas Chambá, constante da sua
+sesmaria, da qual paga pensão a Sua Majestade fidelíssima, possuindo mais outra anexa
+a mesma por título de compra, e como tem fábrica grandíssima de escravos e as terras
+que possui são poucas para a sua cultura, por isso requer a Vossa Excelência que em
+nome de Sua Majestade lhe dê por sesmaria as terras de sobras que houver para a parte
+do poente da testada do suplicante, [e] testar com terras de dom Feliciano ou do éreos
+do Ipojuca, para a parte do norte do rio Capibaribe a testar com terras de Manoel
+Gonçalves e as que [anexam] com João de Deus Bezerra e mais éreos do rio Capibaribe,
+pagando o suplicante a pensão da mesma. Pede a Vossa Excelência lhe mande passar
+sesmaria na forma do estilo. E receberá mercê – E sendo visto o seu requerimento,
+mandei por despacho de 28 de março do corrente ano que informasse a Câmara
+respectiva, mandado afixar os editais do estilo e informando-me a dita Câmara que
+ninguém se opusera, mandei por despacho de 18 e 22 de maio que informassem o
+doutor procurador da Real Fazenda e escrivão deputado da junta da mesma Real
+Fazenda, e informando-me ambos que se lhe não oferecia dúvida alguma, mandei por
+despacho de 26 do dito mês que se passasse carta de data de sesmaria, medindo 1000
+braças na frente e 2250 de fundo, o que fará meia légua de terra quadrada. E portanto,
+pela faculdade que me é concedida no Capítulo 15 do regimento deste Governo: Hei por
+bem dar em nome de Sua Majestade, El Rei, Nosso Senhor, ao dito Antonio Barbosa da
+Silva a referida terra na forma dita, pagando o foro anual de 3 mil réis, em observância
+
+da real ordem de 28 de setembro de 1700, de que deu fiança na contadoria da junta da
+Real Fazenda, a folha 8 verso do livro 7° delas; a qual sesmaria possuirá e gozará ele
+suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje
+para todo sempre, com todas as matas, campos, rios, águas, testadas, logradouros e mais
+úteis que nela se compreenderem, não prejudicando a terceiro, e não passará a religiões
+e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que a possui os
+seculares, e nunca se devidirá com porções, nem se partirá se não por estimação
+andando encabeçada em uma só pessoa, na forma da Ordenação livro 4º Título 96,
+parágrafo 23, e assim não passará a herdeiros ou qualquer outra pessoa sem
+consentimento da junta da Real Fazenda, para nela se darem novas fianças e se fazerem
+as devidas escriturações, ficando livre para a serventia dos povos todas as testadas, rios,
+fontes e pedreiras, e reservadas ao real patrimônio as madeiras de construção, pau-brasil
+e viveiros de quaisquer metais, e será obrigado a requerer dentro de 3 anos confirmação,
+medição e demarcação, povoá-la e cultivá-la na forma da ordem régia de 20 de outubro
+de 1753, e lavrará de 25 de janeiro de 1809, e não o cumprindo assim se haverá por
+devoluta e novamente se conferirá a quem a requerer. Pelo que ordeno aos ministros da
+Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta
+carta de data de sesmarias como nela se contém, fazendo dar ao suplicante posse real,
+efetiva e atual, na forma da Ordenação título das sesmarias. Em firmeza do referido, lhe
+mandei passar a presente que sendo por mim assinada e selada com o sinete de minhas
+armas, se registrará na Secretaria deste Governo, na da junta da Real Fazenda e onde
+mais tocar = Felipe Esteves Álvares a fez em o Recife de Pernambuco, aos 5 de junho
+de 1818 = Francisco José de Sá Soares de [Andrade], tenente coronel do real corpo de
+engenheiros, encarregado da Secretaria do Governo, as subscrevi = Luiz do Rego
+Barreto = Carta de data de sesmaria, pela qual Vossa Excelência há por bem dar em
+nome de Sua Majestade, El Rei, Nosso Senhor, a Antonio Barbosa da Silva de meia
+légua de terra quadrada, com 1000 braças de frente e 2250 de fundo, no termo da Vila
+do Limoeiro, comarca de Olinda = Para Vossa Excelência ver = por despacho do
+ilustríssimo e excelentíssimo senhor general de 26 de maio de 1818.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 169-170.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

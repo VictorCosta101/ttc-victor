@@ -1,0 +1,81 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0103
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Jacinto Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-10-1725",
+  "Observações da sesmaria": "O sesmeiro requereu três léguas de comprimento e uma légua de largura no sertão do rio São Francisco, na fronteia das fazendas do desembargador André Leitão de Melo. A sesmaria tinha por fronteira o Porto da Folha, na capitania de Penedo, pelo sertão da Pedra Branca e da Serra do Urubu até atravessar a Serra Rachada, o riacho Panema e o rio Cabaças na fronteira das terras de Paulo de Viveiros Afonso.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Capitania de Penedo, Serra Branca, Serra Rachada, Riacho Panema, Rio Cabaças, Serra do Urubu",
+  "Observações da petição": "\tEssa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1725, acredita-se que foi o governador, Dom Manuel Rolim de Moura, que concedeu a sesmaria.",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura determinou que deveriam ser observadas as condições do foral. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0103"
+}
+
+            **Conteúdo Original** (extrato):
+            Carta de concessão de Jacinto Barbosa de 05/10/1725 
+ 
+Jacinto Barbosa. Alvará de 5 de outubro de 1725. Uma légua de largura e 3 de 
+comprimento. No sertão do rio de São Francisco, nas cabeceiras das fazendas do 
+desembargador André Leitão de Melo, e do fim das sesmarias de outros, no Porto da 
+Folha, capitania do Penedo, pelo sertão dentro da serra da Pedra Branca, buscando a serra 
+do Urubu e atravessando a serra Rachada e a do Agetroá, entre as ilhargas do riacho 
+Panema do rio Cabaças; e seguindo de uma e outra banda até o riacho seco chamado 
+Copea, que faz barra no mesmo rio Cabaças, onde se acham alguns olhos d’água, com 
+todas águas etc., principiando de onde acaba a data de Paulo de Viveiros Afonso. – 
+Condições: as do foral e todas as mais.  
+ 
+- Fim da Transcrição -  
+ 
+Referência:  
+Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 150. 
+Numeração SILB: PE-AL 0103 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

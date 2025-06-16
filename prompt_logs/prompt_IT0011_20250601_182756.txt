@@ -1,0 +1,83 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0011
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 02836",
+  "Nome": "Fernão Camelo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "07-07-1623",
+  "Observações da sesmaria": "O suplicante requereu quatro mil braças de terra ao longo do rio Tracunháem e o rio Capibaribe, ao norte e ao sul e a leste das terras de Gregório de Barros. ",
+  "Localidade": "Rio Tracunháem",
+  "Marcos Geográficos": "Rio Tracunhaém, Rio Capibaribe",
+  "Observações da petição": "O suplicante não informou os dados referentes ao comprimento e a largura da terra requerida.",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0011"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0011
+Carta de concessão de Fernão Camelo de 07/07/1623
+Sesmaria de 4.000 braças de terra em quadra, confrontando da parte do norte e sul com
+os rios Tracunhaém e Capibaribe, de leste com terras de Gregório de Barros e de oeste
+correndo para o sertão, concedida em 7 de julho de 1623 a Fernão Camelo e seus
+herdeiros, pelo capitão-mor Mathias de Albuquerque. Esta sesmaria por deixa digo,
+porém, deixou de ter efeito, visto terem o capitão Domingo Lopes Barbosa e os
+herdeiros de Dionísio Velho Barbosa provado que as ditas braças de terra já lhe
+pertenciam, por compra que fizeram, como se acha declarado no final da mesma
+sesmaria, de que extraímos.
+- Fim da Transcrição -
+Referência:
+Documentação
+Histórica
+Pernambucana:
+sesmarias.
+Recife:
+SECRETARIA
+DE
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 53.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

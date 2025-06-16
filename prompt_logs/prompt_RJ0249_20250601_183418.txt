@@ -1,0 +1,107 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0249
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Peixoto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "25-03-1719",
+  "Data da concessão": "25-03-1719",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas às margens do rio Atum.",
+  "Ribeira": "Atum",
+  "Confrontantes": "Terras de Clemente Pereira, terras do padre João Alures de Barros",
+  "Justificativas": "Pretendia cultivar; Pretendia plantar; As terras eram devolutas; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0249"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0249
+Carta de concessão de Manuel Peixoto de 25 de março 1719
+Antônio de Brito de Meneses, senhor e comendador da comenda e vila de Santa Maria de
+Midões, governador desta capitania do Rio de Janeiro, para Sua Majestade, que Deus guarde.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manuel Peixoto, que achando-se sem terra alguma em que possa cultivar e plantar
+os mantimentos de que necessita para com melhor cômodo poder sustentar sua família, e sabia
+que pelo Rio Atum acima, onde acaba a terra de Clemente Pereira até entestar com as terras
+do padre João Alures de Barros, estão umas devolutas, que nunca foram povoadas e nem
+cultivadas, pedindo-me lhe fizesse mercê dar de sesmaria para as cultivar e povoar, e visto seu
+requerimento e respostas do provedor da Fazenda Real e procurador da Coroa, a que se deu
+vista, e se lhes não ofereceu dúvida. Hei por bem fazer mercê, como pela presente faço, em
+nome de Sua Majestade, que Deus guarde, ao dito Manuel Peixoto de lhe dar de sesmaria as
+ditas terras, com todos os outeiros, vargens e sangradouros que nelas se acharem, como
+também entradas, saídas e alagadiços no sítio referido, não excedendo, porém, 1 légua em
+quadra na forma das ordens do dito Senhor; sem prejuízo de terceiro ou do direito que
+algumas pessoas possam ter a elas; com declaração que as cultivará e mandará confirmar esta
+minha [carta] por Sua Majestade, que Deus guarde, dentro de 2 anos e não o fazendo se lhe
+denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento
+desta pertencer, dê posse ao dito Manuel Peixoto das referidas terras na forma e maneira
+acima declarada. E por firmeza de tudo lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se cumprirá como nela se contém e se registrará nos
+Livros da Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de São Sebastião
+do Rio de Janeiro, aos 25 dias do mês de março de 1719. Luis da Silva Camacho a fez. O
+secretário, Gaspar de Oliveira, a fez escrever.
+//Antônio de Brito de Meneses//
+Carta porque Vossa Excelência faz mercê a Manuel Peixoto de lhe dar de sesmaria 1 légua de
+terras em quadra no sítio e forma acima declarada. Para Vossa Excelência ver.
+Registrado no Livro das Sesmarias que serve nesta Secretaria do governo a folha 14. Rio, a 25
+de março de 1719. //Gaspar de Oliveira//
+Cumpra-se registre-se nos Livros da Fazenda Real. Rio, 3 de abril de 1719. //Cordovil//
+Registrada a folha 917 do Livro 19 que serve de registros nesta Provedoria da Fazenda Real.
+Rio de Janeiro, 3 de abril de 1719. //[Francisco] Moreira da Costa//
+
+-Fim da Transcrição-
+Observações:
+Nome original do sesmeiro: Manoel Peixoto.
+Título AHU: Carta pela qual o Governador do Rio de Janeiro fez mercê a Manuel Peixoto, de
+lhe dar de sesmarias umas terras nas margens do Rio Athum. Rio de Janeiro, 25 de março de
+1719.
+Referência:
+AHU_ACL_CU_017-01, Cx. 29, D. 6666.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

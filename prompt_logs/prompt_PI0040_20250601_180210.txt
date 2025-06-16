@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0040
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Gaspar Luís de Sales",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "20-07-1772",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Na carta de concessão não foi possível inferir o histórico da terra, apenas informa que o pleiteante \"estava povoando uma terra na paragem chamada olho d’água das pimbas, e porque se declara com gados e escravos para as cultivar, e as queria possuir com verdadeiro título\". \r\n",
+  "Localidade": "freguesia de São João da Parnaíba; \"paragem chamada olho d’água das pimbas\". ",
+  "Confrontantes": "fazenda São José; fazenda de [ilegível]; fazenda de Campo Largo; fazenda do [Enjeitado]. ",
+  "Justificativas": "Não possuía as terras com justo título; Tinha escravos; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que o pleiteante \"se declara com gados e escravos para as cultivar, e as queria possuir com verdadeiro título\". ",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. Além disso, também consta que \"havendo nas mesmas terras estrada pública que atravesse rio caudaloso que necessite de barca para a travessia não só ficará reservados de ambos os lados as bandas de tal rio a terra que baste para uso público, mas sim tão bem de uma delas meia légua de terra em quadra para a comodidade pública, e de quem arrendar a dita passagem\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0040"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0040
+Carta de concessão de Gaspar Luís de Sales 20/07/1742
+Registro de uma Carta de data e sesmaria passada à Gaspar Luís de Sales.
+Gonçalo Lourenço Botelho de Castro, coronel de infantaria dos exércitos de Sua Majestade
+ﬁdelíssima, Governador da Capitania de São José do Piauí, etc. Faço saber, aos que esta
+minha carta de data e sesmaria virem, que Gaspar Luís de Sales, morador na freguesia de São
+João da Parnaíba, me representou que estava povoando uma terra na paragem chamada olho
+d’água das pimbas, e porque se declara com gados e escravos para as cultivar, e as queria
+possuir com verdadeiro título. Me pedia lhe mandasse passar carta de data e sesmaria das
+ditas terras, com três léguas de comprido e uma de largo, a saber, fazendo pião com o morro
+onde tem casas e currais, légua e meia para a parte do norte, confrontando com a fazenda São
+José légua e meia para a parte de sul, confrontando com a fazenda [?], meia légua para o
+poente, confrontando com a fazenda de Campo Largo, e meia légua para a partes de nascente,
+confrontando com a fazenda do [Enjeitado] tudo nesta capitania. Ao que atendendo, e à
+informação dos oﬁciais da câmara, e do doutor provedor da Fazenda Real, que foram
+ouvidos, e se lhes não ofereceu dúvida alguma, e ser em utilidade da mesma Real Fazenda
+cultivarem-se nas terras neste Estado. Hei, por bem, conceder-lhe, em nome de Sua
+Majestade, por data e sesmaria, as ditas três léguas de terra de comprido e uma de largo, na
+forma e parte que toca, com as confrontações declaradas e com as condições expressadas nas
+Reais Ordens, e com a de não fazer trespasse por meio algum, em nenhum tempo, a pessoa
+alguma, religião ou comunidade, sem que primeiro dê parte na Casa da Fazenda ao provedor
+dela, para se me fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de
+ﬁcar nula esta data, e se poder novamente conceder a outrem. Nesta forma se lhe passa carta,
+para que o dito Gaspar Luís haja, logre e possua as sobreditas terras como coisa sua própria,
+para ele e seus herdeiros, ascendentes e descendentes, sem pensão nem tributo algum mais
+que o Dízimo a Deus, Nosso Senhor, dos frutos que nela tiver e lavrar, a qual concessão lhe
+faço não prejudicando a terceiros, nem a Sua Majestade, se no dito sítio quiser mandar fundar
+alguma vila, reservando os paus reais que nelas houverem para embarcações. Com declaração
+que mandará conﬁrmar esta data por Sua Majestade dentro dos três anos primeiros
+seguintes,e cultivará as ditas terras de maneira que deem frutos, e dará caminhos públicos e
+particulares aonde forem necessários para pontes, fontes, portos e pedreiras, reservando nas
+mesmas terras estradas públicas, que atravesse rio caudaloso, que necessite de barcas para se
+atravessar, não só ﬁcará, de ambas as bandas do tal rio, a terra que baste para o uso público,
+mas sim também de uma delas meia légua da terra em quadra para a comodidade pública, e
+de quem arrendar a dita paragem, e se demarcará ao tempo da posse por rumo de corda e
+braças craveiras, como é estilo e Sua Majestade manda. Outrossim, não poderão suceder
+nelas religiões, nem outras pessoas eclesiásticas por nenhum título que seja e, acontecendo,
+possuí-las será com o encargo de pagarem delas dízimos a Deus, como se fossem possuídas
+por seculares, faltando a quaisquer destas cláusulas, se haverão as ditas terras por devolutas, e
+se darão a quem as denunciar, como o mesmo senhor ordena. Pelo que mando ao provedor da
+
+Fazenda Real, mais ministros e pessoas a que tocar, que na forma referida, e com as
+condições expressadas, deixem ter e possuir o as ditas terras ao dito Gaspar Luís de Sales
+como coisa sua própria, para ele e todos os seus herdeiros. ascendentes e descendentes, e que
+assim também; cumprão e guardem esta minha carta de data e sesmaria tão inteiramente
+como nela se contém, a qual lhe mandei passar por mim assinada e selada com o sinete das
+minhas armas, que se registrará nas partes onde tocar, e se passou por duas vias. Dada nesta
+Cidade de São José do Piauí, aos 20 dias do mês de julho do ano de nascimento de nosso
+senhor Jesus Cristo de 1742. E eu [padre] Francisco Bruce, secretário do governo da
+capitania, a ﬁz // Gonçalo Lourenço Botelho de Castro // lugar do selo // carta de data e
+sesmaria, e porque Vossa Senhoria há por bem conceder, em nome de Sua Majestade, a
+Gaspar Luís de Sales, três léguas de terra de comprido e uma de largo, no paragem chamada
+Olho d’água das Pimbas, entre as fazendas de [São José] Chapada, Campo largo, Enjeitado na
+freguesia de São João do Parnaíba, com as confrontações que na mesma [carta] se declaram.
+Para Vossa Senhora ver.
+-
+Fim da carta-
+Referência:
+APEPI, Livro 1, ﬂs. 39v - 41.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

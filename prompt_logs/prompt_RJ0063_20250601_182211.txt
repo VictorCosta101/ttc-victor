@@ -1,0 +1,160 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0063
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Gaspar de Magalhães",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "21-04-1594",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Mesmo que a solicitação esteja em nome de Gaspar de Magalhães, o suplicante \"pede para ele e seus 7 filhos que tem\".",
+  "Localidade": "Várzea da Olaria",
+  "Confrontantes": "[Chãos de] Antônio Leão e Antônio Fernandes, banda de São Cristóvão",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que a terra requerida \"não é aproveitada por ser várzea e alagadiços\".",
+  "Observações do deferimento e da concessão": "Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.09-12. Códice 778-1 (1594-1595).\r\n",
+  "Observações das exigências": "Exigiu-se também que \"viva e resida nesta dita cidade ou em seu termo, ao menos os ditos 3 anos, no dito regimento declarado, dentro do qual tempo eles não poderão vender, nem enlear o dito chão por nenhuma via que seja sem licença do dito Senhor capitão e governador\".",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0063"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0063 
+ 
+Carta de concessão de sesmaria de Gaspar de Magalhães de 21 de abril de 1594 
+ 
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1594 anos aos 21 dias do mês de abril do dito ano nesta cidade de 
+São Sebastião do Rio de Janeiro, desta costa do Brasil, nas pousadas de mim escrivão abaixo 
+nomeado, apareceu Gaspar de Magalhães, morador nas Olarias que é termo desta dita cidade, e 
+me apresentou uma petição com um despacho em ela do Senhor Salvador Correia de Sá, capitão 
+e governador desta dita cidade e capitania e governança deste dito Rio de Janeiro, por El Rei 
+nosso Senhor. E da qual petição e despacho dela o treslado é o seguinte: diz Gaspar de 
+Magalhães, morador nesta cidade, que há um ano tivera notícia, vendo que na Várzea da Olaria 
+está um pedaço de chão, digo, de terra devoluta de matos maninhos para aproveitar, e porque 
+toda não é aproveitada por ser várzea e alagadiços, pede-lhe faça mercê onde acabar Antônio 
+Leão e Antônio Fernandes, lhe de 60 braças em quadra, assim e da maneira que correm as outras 
+dadas dos sobreditos, e sendo dado no dito lugar, que corra adiante da outra banda de São 
+Cristóvão, a qual terra pede para ele e para 7 filhos que tem, visto morrer seu pai nas guerras 
+da terra. E receberá mercê. Despacho do Senhor capitão e governador. Dou ao suplicante onde 
+pede os ditos chãos 40 braças e correrá, como diz em sua petição. Salvador Correia de Sá. E 
+tudo visto pelo dito Senhor capitão e governador a petição do dito suplicante Gaspar de 
+Magalhães e o que ele pedia, visto ser justo e havendo respeito ao proveito que pode seguir 
+acerca da República, ao serviço de Deus, de El Rei nosso Senhor e por a terra se povoar, deu 
+ao dito suplicante as ditas 40 braças de chão onde o pede e, conforme o seu despacho, porquanto 
+dizia que estava devoluto, e para aproveitar para o dito suplicante as ditas 40 braças de chão 
+onde o pede e aproveitar e fazer casa como diz nele, não sendo já dado a outra pessoa 1°, o qual 
+chão diz que está no dito lugar, tem a dita medida e parte pelas ditas confrontações como na sua 
+petição diz, e a braça, porque se medir o dito chão, será braça craveira a saber 2 varas de medir 
+por uma, como no Reino se costuma de medir. O que tudo lhe deu e concedeu na maneira 
+adiante declarada, segundo forma do regimento do governador geral, que foi nesta cidade 
+Antônio Salema, de que o traslado é o seguinte. E as terras que estiverem dentro do termo e 
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas 
+a pessoas que as aproveitem, ou posto que o fossem, se por as pessoas a que se deram as não 
+aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, 
+as podereis dar de sesmaria a que vá pedir, e tereis lembrança que não deis a cada pessoa mais 
+terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e 
+
+aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à 
+Ordem do Mestrado de nosso Senhor Jesus Cristo, e com as condições e obrigações do foral 
+dado às ditas terras e da minha ordenação do Livro 4°, título das sesmarias, com a condição que 
+a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem 
+dadas ao menos 3 anos, e que dentro no dito tempo as não possam vender, nem enlear, e se 
+algumas pessoas a que forem dadas terras no termo da dita cidade, as tiverem perdido por as 
+não aproveitarem, vá tornarem a pedir, vós lhes podereis de novo dar com as condições e 
+obrigações contidas neste capítulo, o qual se trasladará nas cartas, porque as assim derdes, e 
+isto se entenderá não sendo as ditas terras dadas a outras pessoas, com as quais condições, 
+obrigações e declarações, lhe assim deu o dito Senhor capitão e governador o dito chão que dito 
+é ao dito Gaspar de Magalhães, suplicante, pela sobredita maneira, para sua guarda e segurança 
+lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio do dito chão 
+para sempre, para ele e todos seus herdeiros e sucessores ascendentes e descendentes que após 
+dele vierem com tal condição e entendimento, que ele viva e resida nesta dita cidade ou em seu 
+termo, ao menos os ditos 3 anos, no dito regimento declarado, dentro do qual tempo eles não 
+poderão vender, nem enlear o dito chão por nenhuma via que seja sem licença do dito Senhor 
+capitão e governador ou de quem adiante tiver poder para lhe dar e, da dita maneira, lhe dava o 
+dito chão e, acabados os ditos 3 anos, tendo ele feito nele casas e benfeitorias, eles o poderão 
+vender, trocar, descambar, dar e doar e fazer de tudo o que lhes bem vier, como cousa sua 
+própria isento que é. O que manda que se cumpra e guarde sem dúvida, nem embargo algum, 
+que a ele seja posto e que esta carta seja registrada dentro em 1 ano nos livros da Fazenda Real, 
+como o dito Senhor em seu regimento manda sob as penas em ele contidas e declaradas, e 
+porque o sobredito Gaspar de Magalhães, suplicante, tudo prometeu de ter, manter e cumprir e, 
+pela dita maneira, lhe mandou passar esta carta de sesmaria, e por verdade eu, Pero da Costa, 
+escrivão das sesmarias e tabelião das notas por El Rei nosso Senhor em esta cidade de São 
+Sebastião, e seu termos que este instrumento de carta de sesmaria escrevi e tomei nos meus 
+livros das notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam 
+onde o dito instrumento fica assinado por o dito Senhor capitão e governador. E não faça dúvida 
+a entrelinha atrás onde diz "no dito Gaspar de Magalhães suplicante", em os riscados que diz: 
+"aos ditos Jaques Motete", digo, em os riscados que dizem "aos sobreditos Jaques Motete, a 
+dita sua enteada e seu genro", na outra entrelinha que diz: "Gaspar de Magalhães", no riscado 
+que diz: "Jaques”, no outro riscado que diz: "Motete",  no borrado que está onde diz "lhe", no 
+borrado que está onde diz "ele", no borrado que está onde diz "viva", no borrado que está diante 
+de onde diz: "resida", em o borrado que está em, digo, que está diante de onde diz "que ele", no 
+
+borrado que está entre onde diz "ele não", no borrado que está entre onde diz "poderá vender", 
+no borrado que está diante de onde diz "lhe", no borrado que está entre onde diz "ele feito", no 
+borrado que está onde diz "que lhe", no borrado que está onde diz "lhe", no borrado que está 
+onde diz "dera", no que não faça dúvida, porque tudo se fez por fazer verdade. E eu sobredito 
+Pero da Costa, escrivão das sesmarias e tabelião das notas, que o escrevi como dito é, e com o 
+outro borrado que está onde diz "lhe", com a entrelinha que diz "para sempre" //Salvador 
+Correia de Sá// 
+ 
+ 
+-Fim da Transcrição- 
+ 
+Observações do documento:  
+A palavra “Jhu Xpo” foi alterada para “Jesus Cristo”. 
+Título original: Carta de concessão de sesmaria da terra de Gaspar de Magalhães que está onde 
+esteve a roça do Padre Salsa aonde acabar Antônio Lião e Antônio Fernandes.  
+Referências:  
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas 
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg. 09-12. 
+ 
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.09-12. Códice 
+778-1 (1594-1595). 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

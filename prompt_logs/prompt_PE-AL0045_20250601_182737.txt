@@ -1,0 +1,143 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0045
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0211",
+  "Nome": "João de Deus do Amaral",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "28-04-1806",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de São Miguel, distrito das Alagoas. A tinha tinha por limites o rio Sibaúna até as terras do capitão José da Silva Albuquerque.",
+  "Localidade": "Freguesia de São Miguel",
+  "Marcos Geográficos": "Rio Sibaúna",
+  "Confrontantes": "José da Silva Albuquerque",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0045"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0019
+Carta de doação e sesmaria de João de Deus do Amaral - 30/01/1806
+João de Deus do Amaral, com uma légua de terra em quadra no lugar da
+Sibaúna grande, na freguesia de São Miguel, distrito da comarca das Alagoas.
+Caetano Pinto de Miranda Montenegro, do Conselho de Sua Alteza Real, o Príncipe
+Regente, Nosso Senhor, e da Sua Real Fazenda, governador e capitão-general da
+capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria virem,
+que João de Deus do Amaral, me fez um requerimento do teor seguinte: = Ilustríssimo
+e Excelentíssimo Senhor = Diz João de Deus do Amaral, que no lugar da Sibaúna
+grande, pelo rio acima, em a freguesia de São Miguel, distrito das Alagoas, se acham
+terras devolutas e incultas, e porque o suplicante tem posse para cultivar, para maior
+utilidade para a Real Coroa, é portanto que requer a Vossa Excelência se sirva
+conferir-lhe a graça de lhe mandar passar carta de sesmaria na forma do estilo, de uma
+légua de terras no dito lugar em quadra, pelo rio acima principiando a dita légua
+aonde findarem as que tirou o capitão José da Silva Albuquerque, em até inteirar a
+referida légua de cumprido, e quanto de largura meia para uma parte do rio e meia
+para a parte, e desta havendo éreos que encontre, se carregue para a parte que se
+acharem devolutas a inteirar a referida légua em quadra, no mencionado lugar = Pede
+a Vossa Excelência seja servido deferir como o suplicante requer = E receberá mercê.
+E sendo visto seu requerimento, ordenei por despacho de 9 de agosto de 1805, que
+informsse o doutor desembargador, juiz conservador das matas reais, o que satisfez; e
+por outro meu despacho de 9 de outubro do dito ano, mandei a Câmara do respectivo
+distrito mandasse fixar editais por tempo de trinta dias, para se saber se haverá ou não
+terceiros prejudicados, e com a certidão do oficial que assim o praticasse, me
+informasse, e constando-me por informação da dita Câmara não haver pessoa alguma
+que se opusesse; por outro meu despacho de 14 de dezembro do dito ano, mandei
+informar o escrivão deputado da Junta da Real Fazenda e assim mais ao doutor
+procurador da referida Fazenda, por outro despacho de 10 de janeiro de 1806; e como
+todos uniformemente me responderam estar nos termos de se dar ao suplicante a terra
+pedida de sesmaria, na forma confrontada em seu requerimento, pagando o foro anual
+de 6 mil réis por légua, por ser das que estão mais próximas a Marinha, de que devia
+
+dar fiança na Contadoria da Real Fazenda; ultimamente, mandei por despacho de 30
+do referido mês e ano, que se passasse carta de data de sesmaria, na forma da resposta
+do doutor procurador da Coroa e Fazenda e escrivão deputado da mesma, em
+conformidade da qual e pela faculdade que Sua Alteza Real me concede no Capítulo
+15 do Regimento deste Governo. Hei por bem dar em nome do mesmo Senhor, ao
+dito João de Deus do Amaral, uma légua de terra em quadra, no lugar chamado
+Sibaúna grande, pelo rio acima em a freguesia de São Miguel, distrito da comarca das
+Alagoas, principiando a dita aonde findarem, ao que tirou o capitão José da Silva
+Albuquerque, até inteirar a referida légua, na forma confrontada em seu requerimento,
+pagando o foro anual de 6 mil réis por légua, visto ser das mais próximas a Marinha,
+como determina o Real Ordem de 28 de setembro de 1700; a qual terra possuirá e
+gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua que fica
+sendo de hoje para todo sempre, com todas as suas pertenças, matas, campos, rios,
+águas, testadas, logradouros e mais úteis que ela compreender, não prejudicando a
+terceiros; e não passará a dita a religiões e pessoas eclesiásticas, salvo sendo com os
+mesmos encargos com que as possuem os seculares, sendo obrigado a dar ao
+Concelho caminhos livres para fontes, pontes, pedreiras, e requerer dentro de três
+anos confirmação, medição e demarcação, povoá-la e cultivá-la na conformidade da
+Ordem Régia de 20 de outubro de 1753; e não o cumprindo assim, se dar por devoluta
+e novamente ser conferida a quem a requerer, com mais as condições de que a dita
+terra nunca se dividirá em porções, nem se partirá, senão por estimação, andando
+encabeçada em uma só pessoa, na forma da Ordenação Livro 4º título 96 § 23; e assim
+mais, não passará a referida terra a herdeiros ou outra qualquer pessoa sem concessão
+da Junta da Real Fazenda, para nela se darem novas fianças e se fazerem as devidas
+escriturações. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a
+quem tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria, como
+nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma
+costumada, debaixo das cláusulas referidas e das mais da Ordenação Título de
+Sesmaria; visto constar por bilhete que apresentou, achar-se dada a fiança ao foro
+anual de 6 mil réis por légua na Contadoria da Real Fazenda, [folha [?]] do Livro 6º
+delas. Em firmeza do referido, lhe mandei passar a presente por mim assinada e selada
+com o selo de minhas armas, que se registrará na Secretaria deste Governo e na da
+Junta da Real Fazenda. Manoel Freire Mariz, oficial maior da Secretaria do Governo,
+a fez em o Recife de Pernanbuco, aos 28 de abril. Ano do Nascimento de Nosso
+
+Senhor Jesus Cristo, de 1806 = Desta 18$000 réis = José Carlos Mairink da Silva
+Ferrão, secretário do Governo, a fez escrever = Caetano Pinto de Miranda
+Montenegro = Carta de data de sesmaria, pelo que Vossa Excelência há por bem dar
+em nome de Sua Alteza Real, a João de Deus do Amaral, uma légua de terra em
+quadra no lugar da Sibaúna grande, da freguesia de São Miguel, distrito da comarca
+das Alagoas, com o foro anual de 6 mil réis por légua = Para Vossa Excelência ver =
+Por despacho do Ilustríssimo e Excelentíssimo Senhor General, de 30 de janeiro de
+1806.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, 101-102.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

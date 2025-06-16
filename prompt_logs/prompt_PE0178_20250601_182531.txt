@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0178
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0180",
+  "Nome": "Miguel Francisco Guimarães",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-06-1792",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de Una, no sítio Verde, da barra do Daqui, pelo rio Una, até a serra dos Cocos. ",
+  "Localidade": "Freguesia de Una",
+  "Marcos Geográficos": "Rio Una, Serra dos Cocos, Barra do Daqui",
+  "Justificativas": "Alegou que já ocupava a terra requerida; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis. O governador Dom Tomás José de Melo também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0178"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0178
+Carta de doação e sesmaria de Miguel Francisco Guimarães - 06/07/1792
+Miguel Francisco Guimaraens, com uma légua de terra em quadra no Sítio chamado Verde,
+da Freguesia de Una.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe da divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que Miguel Francisco Guimarães me fez um requerimento do teor e maneira
+seguinte: = Ilustríssimo e Excelentíssimo Senhor. = Diz Miguel Francisco Guimarães que no sítio
+chamado Verde, freguesia de Una, se acha uma légua de terra devoluta, que principia da Barra do
+Daqui e vai á Serra dos Cocos, de uma e outra parte do rio de Una, que o suplicante por si e
+Antonio Alves de Aguiar tem desanimado já e cultivado; por cuja razão deve preferir ao outro
+qualquer pretendente, como seja Francisco Soares e seu filho José Felipe, pela despesa e
+benefício que já tem feito o suplicante; e assim requer se lhe dê a dita légua de terra em quadra
+por sesmaria, com indicada confrontação, por se achar na sua posse, mandando-se à Câmara
+respectiva por editais na forma do estilo, para se lhe conceder a dita graça, não prejudicando a
+terceiro. Pede a Vossa Excelência seja servido deferir ao suplicante na forma requerida. E
+receberá mercê. E sendo por mim visto o seu requerimento, ordenei por despacho meu de 7 de
+fevereiro do corrente ano aos oficiais da Câmara do distrito, que mandessem fixar editais na
+respectiva freguesia para se saber ao certo estar ou não devuluta a mesma terra e haver ou não
+terceiro prejudicado; e constando-me por informação dos ditos oficiais que assim o mandaram
+executar, não haver pessoa alguma que aos ditos editais saísse, por outro meu despacho de 19 de
+maio do dito ano, mandei ouvir o escrivão da Fazenda Real e assim mais responder o doutor
+procurador da Coroa e Fazenda por outro de 22 do referido mês, como todos uniformemente me
+responderam estar nos termos de se dar ao suplicante a terra pedida por sesmaria, na forma
+confrontada em seu requerimento, pagando anualmente o foro de 6 mil réis por légua, por ser das
+que estão mais próximas a Marinha, do que devia dar fiança na Contadoria; ultimamente, mandei
+por despacho de 23 de maio do corrente ano que se passasse sesmaria na forma da resposta do
+doutor procurador da Fazenda e escrivão da Receita e Despesa da Fazenda Real. Em
+cumprimento da qual e pela faculdade que Sua Majestade me permite no Capítulo 15 do
+Regimento deste Governo. Hei por bem dar em nome de Sua Majestade ao dito Miguel Francisco
+Guimarães uma légua de terra em quadra, no sítio chamado Verde e freguesia de Una,
+principiando da Barra chamada Daqui me vou à Serra dos Cocos, de uma e outra parte do rio de
+
+Una, na forma confrontada e declarada em seu requerimento, pagando o foro anual de 6 mil réis
+por léguas, visto ser das mais próximas a Marinha, que determina a Real Ordem de 28 de
+setembro de 1700; a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e
+descendentes, como sua que fica sendo hoje para todo o sempre, com todas as suas pertenças,
+matas, campos, águas, rios, testadas, logradouros e mais úteis que ela compreender, não
+prejudicando a terceiro; não passará a dita a religiões e pessoas eclesiásticas, salvo sendo
+obrigado a dar ao Conselho caminhos livres para fontes, pontes, pedreiras, e requerer dentro de
+três anos confirmação, medição e demarcação, povoá-la e cultivá-la na conformidade da Ordem
+Régia de 20 de outubro de 1753, e não o cumprindo assim se dará por devoluta e novamente se
+conferida a quem a requerer; com mais as condições de que a dita terra nunca se dividirá em
+porções, mas andará emcabeçada em uma só pessoa como determina a Ordenação do Reino do
+Livro 4º título 96. § 23, e de que será obrigado a não derrubar nem queimar as madeiras de
+sucupira, amarelo, pau-brasil que houver na dita terra, por ficarem reservadas para construção das
+naus e fragatas de Sua Majestade; e assim mais não passará a dita terra a herdeiros ou outra
+qualquer pessoa, sem concessão da Junta da Real Fazenda, para nela se dar nova fiança e se
+fazerem as devidas escriturações. Pelo que ordeno aos ministros de Fazenda e Justiça e mais
+pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria, como
+nela se contêm, fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada,
+debaixo das cláusulas referidas e das mais da Ordenação Título de Sesmarias; visto constar por
+bilhete que apresentou achar-se da dita fiança, ao foro anualmente mil réis por légua na
+Contadoria da Real Fazenda, a folha 164 do Livro 3º delas. Em firmeza do que lhe mandei passar
+a presente por mim assinada e selada com o sinete de minhas armas, que se registrará na
+Secretraria deste Governo e Contadoria da Real Fazenda. Manoel Barbosa da Silva Garcia, oficial
+maior da Secretaria do Governo, a fez em o Recife de Pernambuco, aos 6 dias de junho. Ano do
+Nascimento de Nosso Senhor Jesus Cristo de 1792 || Dom Antônio Pio de Lucena e Castro,
+secretário do Governo, o fez escrever || Dom Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco, 1821, fls. 28-29.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

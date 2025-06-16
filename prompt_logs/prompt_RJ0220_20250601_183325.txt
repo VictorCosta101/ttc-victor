@@ -1,0 +1,118 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0220
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Pereira Rebelo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "15-06-1740",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"ao mar da barra de Macaé, distância de uma légua, se acha uma ilha deserta com o título de Ilha de Sant’Ana\".",
+  "Localidade": "Ilha de Santana, barra de Macaé",
+  "Justificativas": "Não tinha terras; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse \"obrigado a fazer o caminho de sua testada com pontes estivas onde necessário for, e descobrindo-se rio caudaloso que necessite de barca para atravessar, ficará reservado de uma das margens dele meia légua ao menos para ficar em público\". Além disso, determinou-se que fossem reservados os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0220"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0220
+Carta de concessão de José Pereira Rebelo de 15 de junho de 1740
+Matias Coelho de Sousa, mestre de campo de infantaria de um dos terços da guarnição desta
+praça, cujo cargo está o governo do Rio de Janeiro e suas capitanias.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar me a petição
+de José Pereira Rebelo, que ao mar da barra de Macaé, distância de uma légua, se acha uma ilha
+deserta com o título de Ilha de Sant’Ana, e como ele se achava com bastantes escravos para a
+povoar em utilidade dos Reais dízimos, me pedia lhe mandasse dar de sesmaria uma légua de
+terras em quadra na dita ilha, na forma que Sua Majestade ordena, e sendo visto o seu
+requerimento e o que sobre ele informaram o provedor da Fazenda Real o procurador da Coroa.
+Hei por bem dar de sesmaria, em nome de Sua Majestade, ao dito José Pereira Rebelo uma légua
+de terras em quadra na mencionada ilha, com as confrontações necessárias, sem prejuízo de
+terceiro ou do direito e posse que algumas pessoas possam ter a elas, com as declaração que as
+cultivará e mandará confirmar esta minha carta pelo mesmo Senhor dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo, e antes de tomar posse delas as fará medir e demarcar
+judicialmente sendo para este efeito notificadas as pessoas com quem confrontar, e será obrigado
+a fazer o caminho de sua testada com pontes estivas onde necessário for, e descobrindo-se rio
+caudaloso que necessite de barca para atravessar, ficará reservado de uma das margens dele meia
+légua ao menos para ficarem público, e nas ditas terras não poderá suceder em tempo alguma
+pessoa eclesiástica ou religião e sucedendo será com encargo de pagar dízimos ou outro qualquer
+que Sua Majestade for servido impor-lhe de novo, e não os pagando se poderão dar a quem as
+denunciar, como também sendo o mesmo Senhor servido mandar fundar no distrito dela alguma
+vila o poderá fazer ficando livre, sem encargo algum ou pensão para o sesmeiro, e não
+compreenderá esta data vieiros ou minas de qualquer gênero de metal que nela se descobrir,
+reservando também os Paus Reais, e faltando qualquer das ditas cláusulas, por serem conforme a
+ordem de Sua Majestade e as que dispõem da Lei Foral das Sesmarias, ficará privado desta. Pelo
+que mando ao ministro ou oficial de justiça a que o conhecimento desta pertencer, dê posse ao
+dito José Pereira Rebelo das referidas terras na forma acima declarada. E por firmeza de tudo lhe
+mandei passar a presente por mim assinada e selada com o signete de minhas armas que se
+cumprirá como nela se contém registrando-se nos Livros desta Secretaria e nos mais a que tocar.
+Dada na cidade de São Sebastião do Rio de Janeiro aos 15 dias do mês de junho de 1740. O
+
+oficial maior da secretaria, Pedro Fagundes Varela, a vez. O escrivão, Antônio da Rocha
+Machado, a fez escrever.
+//Matias Coelho de Sousa//
+Carta de sesmaria que Vossa Senhoria manda passar a José Pereira Rebelo de uma légua de terras
+na Ilha de Sant’Ana que fica ao mar da barra de Macaé, na forma das ordens de Sua Majestade e
+sem prejuízo de terceiros.
+Para Vossa Senhoria ver.
+Registrada no Livro que nesta Secretaria serve de Provisões a folha 165. Rio de Janeiro, 15 de
+junho de 1740. //Antônio da Rocha Machado//
+Cumpra-se e registre-se. Rio, 27 de junho de 1740.
+Fica lançada no Livro 1° do Tombo das Sesmarias que serve neste Cartório a folha 44. Rio de
+Janeiro, 30 de junho de 1740. //Francisco Xavier da Silva//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a José
+Pereira Rebello uma legoa de terras, em quadra, na Ilha deserta de Santa Anna. Rio de Janeiro, 15
+de junho de 1740.
+Santa Anna foi atualizado para Sant’Ana.
+O nome original do sesmeiro é José Pereira Rebello.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 11979 e à Portaria n°
+11981.
+Referência
+AHU_ACL_CU_017-1, Cx. 51\Doc. 11980
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

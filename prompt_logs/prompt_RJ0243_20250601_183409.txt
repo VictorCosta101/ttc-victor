@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0243
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Neto Barreto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "06-03-1720",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita.\r\n",
+  "Localidade": "Terras no rio Bacaxá, paragem da cidade de Cabo Frio",
+  "Ribeira": "Bacaxá",
+  "Confrontantes": "Terras de Teodoro Manuel da Cunha",
+  "Justificativas": "Tinha escravos; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0243"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0243
+Carta de concessão de Manoel Neto Barreto de 06 de março 1720
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manoel Neto Barreto, morador nesta cidade, que acha-se com bastantes escravos e
+sem terras em que plantar os mantimentos de que necessita para alimento de sua pessoa e
+família, pedindo-me lhe fizesse mercê dar por sesmaria 1 légua de terras em quadra na
+margem do rio Bacaxá, paragem da cidade de Cabo Frio, fazendo testada nordeste, sudoeste, e
+atravessam nordeste e sueste, partindo com a data de Teodoro Manoel da Cunha, e dando-se
+vista deste requerimento ao provedor da Fazenda Real e procurador da Coroa, não se lhes
+oferecendo dúvida. Hei por bem fazer mercê ao dito Manoel Neto Barreto de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, 1 légua de terras em quadra na forma
+das ordens do dito Senhor no sítio acima referido, sem prejuízo de terceiro ou do direito que
+algumas pessoas possam ter a elas, com declaração que as cultivará e mandará confirmar esta
+minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe
+denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça a que o conhecimento
+desta pertencer, dê posse ao dito Manoel Neto Barreto das referidas terras na forma e maneira
+acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se cumprirá como nela se contém e se registrará nos
+livros da Secretaria de governo e nos mais a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro, aos 6 de março de 1720. João Pais de Paredes a fez. O secretário (ilegível).
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha //
+Carta porque Vossa Senhoria há por bem fazer mercê a Manoel Neto Barreto de lhe dar por
+sesmaria 1 légua de terras em quadra da (ilegível) e forma acima declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro das Provisões e Cartas de Sesmarias, no livro que serve nesta Secretaria
+do governo a folha 60. Rio, 6 de março de 1720. //Gaspar (ilegível)//
+Registre-se nos Livros da Fazenda Real. Rio, 26 de março de 1720. //(palavra não
+identificada)//
+
+Lançada neste Cartório das sesmarias a folha 62 no Livro das Notas. Rio, 30 de março de
+1720. //Manoel de Vasconcelos Velho//
+Registrada no Livros 19 de Registros que serve nesta Provedoria da Fazenda Real. Rio, 30 de
+março de 1720. //Moreira//
+Fica lançado no Livro de Notas 10° a folha 106 até a folha 108. No Cartório, 12 de julho de
+1720 anos. Cabo Frio.
+O Doutor Paulo (ilegível), cavaleiro professo da Ordem de Cristo, (ilegível) Sua Majestade,
+que Deus guarde, seu ouvidor geral e corregedor da comarca com alçada cível e crime nesta
+cidade do Rio de Janeiro e nas mais capitanias de sua repartição, juiz das justificações
+(ilegível). Aos que a presente certidão de justificação virem, faço saber que a mim me constou
+por fé do escrivão de meu cargo (ilegível). Hei por justificado e verdadeiro. Rio de Janeiro 27
+de julho de 1720 anos. Eu, Domingos Rodrigues Távora, escrivão das justificações, a
+subscrevi. //Paulo de Torres Rijo Vieira//
+- Fim da Transcrição -
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Netto Barreto, uma legoa de terra, em quadra, na margem do Rio de Bacaxa, termo da
+cidade de Cabo Frio, com as confrontações na mesma carta indicada. Rio de Janeiro, 6 de
+março de 1720.
+Referência:
+AHU_ACL_CU_017-01, Cx. 18, D. 3891
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

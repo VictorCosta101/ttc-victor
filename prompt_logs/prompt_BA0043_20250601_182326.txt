@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0043
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel de Lima Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "30-12-1673",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas em quadra e estava localizada ao Noroeste do rio de Contas.",
+  "Localidade": "Rio de Contas",
+  "Marcos Geográficos": "Rio de Contas",
+  "Observações da petição": "O suplicante solicitou três léguas em quadra.",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que deveriam ser concedidas duas léguas quadradas ao sesmeiro e não em quadra, como foi solicitado. Já o provedor da Fazenda afirmou que as duas léguas em quadras solicitadas poderiam ser concedidas, pois o sesmeiro tinha muitos filhos que poderiam aproveitá-las. O governador-geral decidiu conceder as duas léguas em quadra.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0043"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA 
+Registro de uma sesmarias de duas léguas de terra em quadra, concedida ao Manuel de 
+Lima Pereira nas terras que se conquistaram ao gentio. 
+ 
+Afonso Furtado de Castro do Rio de Mendoça, faço saber aos que este alvará de doação 
+e sesmarias, virem, que Manoel Lima Pereira me representou a petição cujo o teor é o 
+seguinte:[diz] Manoel Lima Pereira, alferes reformado morador da cidade de São Paulo, que 
+veio a esta cidade em tempo governava Francisco Barreto, na leva do capitão-mor Domingos 
+Barboza Calheiros, a conquista desse sertão se não conseguiu em razão das doenças. E de novo, 
+o suplicante foi motivo de se intentar, mandou vim esta gente de São Paulo pela proposta que 
+o suplicante fez, Alexandre de Souza Freire no princípio do seu governo e ficou aqui, por ser 
+o procurador nas primeiras duas entradas e acompanhou nessa entrada ao capitão-mor Brás 
+Rodrigues de Aragão, e lhe pertencem partes das terras conquistadas. Pede a vossa senhoria 
+lhe faça uma mercê dar sesmarias de três léguas de terra em quadra pelo rio acima das Contas 
+da parte do noroeste, receberá a mercê. Em vista a resposta do procurador da coroa deste estado, 
+cujo o teor é o seguinte: Bem, se podem conceder ao suplicante duas léguas terra, sem ser em 
+quadra, limitando-se lhe a largura, visto que alega, obrigando-o a cultivar e a povoar no termo 
+da lei  e sujeitando-o às penas dela, sem prejuizo de terceiro. Bahia, 20 de setembro de 1673. 
+\\Rocha\\. E o parecer do provedor-mor da fazenda real deste estado digo real do mesmo estado, 
+cujo teor é seguinte: Senhor, constam que o suplicante além dos serviços que relata, tem muitos 
+filhos que com eles poderá bem povoar e lavrar a terra, que pedem,  assim me parece que lhe 
+pode duas léguas de terra em quadra, que lhe não fica meia légua de terra para cada filho, 
+confrontadas como declara, sem prejuízo de terceiro com as condições do regimento e ordens 
+de sua alteza, vossa senhoria mandará o que for servido. Bahia, 28 de setembro de 1673. 
+\\Antônio Lopes de Ulhôa\\. Hei, por bem e lhe faço mercê em nome de sua alteza real, de lhe 
+dar e como pelo presente faço de sesmarias duas léguas de terra em quadra, e assim como 
+confronta em sua petição, com declaração será obrigado a povoar no termo da lei, pois nesta 
+conformidade lhe-as concedo, não prejudicando a terceiro, nem as terras, que se determinou 
+tiverem as povoações, que de novo se fizerem sem para se darem a seus povoadores, como 
+parecer do provedor-mor da Fazenda Real, com todas as suas águas campos, matas, testadas, 
+logradouros e mais úteis que nela se acharem, tudo foro livre isento de pensão ou tributo algum, 
+salvo o dízimo a Deus que pagará com os frutos que nela houver, por elas serão obrigados a 
+dar caminhos livre ao concelho para fontes, pontes e pedreiras. Pelo que ordeno e manda todos 
+os ministros de justiças que conhecimento deste com direito deva ou possa pertencer, lhe 
+mando dar posse real efetiva e atual na forma costumada, de baixo da cláusulas acima, as mais 
+da ordenação do título das sesmarias, para firmeza do que mandei, possa o presente soube meu 
+sinal e selo de minhas armas a qual se registrou  nos livros da Secretaria do estado e nos da 
+Fazenda Real e nos mais que tocar, se guardará e cumprirá tão pontual inteiramente como nela 
+se contém, sem duvida ou embargo nem contradição. \\Manuel Ferreira das Neves o fez nesta 
+cidade de Salvador, Bahia de Todos os Santos, 30 de setembro de 1673. \\Bernardo Vieira 
+Ravasco o fez escrever. \\Afonso Furtado de Castro do Rio Mendonça\\. Registrado no primeiro 
+livro do registro da secretaria do estado do estado do Brasil a que toca a folha 171, Bahia 20 
+de setembro de 1673. Ravasco, registrado como sua alteza manda, Bahia ,30 de julho de 1674, 
+de Ulhoa. Registrou-se em 4 de agosto do dito ano e se entregou a Miguel Pinto de Freitas 
+ 
+Fim da transcrição    
+BA, AN, Códice 427, fls: 74v-75v 
+
+Numeração original no livro: 67 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

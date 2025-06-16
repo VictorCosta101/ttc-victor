@@ -1,0 +1,137 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0235
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Ferreira da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-02-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem chamada Manizes",
+  "Ribeira": "Macacu",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida por força da Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse \"obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma margem dele a terra que parte para serventia pública\". Determinou-se ainda que fossem reservados os Paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0235"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0235
+Carta de concessão de Manuel Ferreira da Silva de 26 de fevereiro de 1751
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mor de batalha de seus
+exercitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Manuel Ferreira da Silva, morador no distrito da vila de Santo Antônio de Sá, que
+no rio de Macacu, na paragem chamada Manizes, se acham uns sobejos de terra que poderão
+ser 500 e 600 braças, as quais terras faziam testada no dito rio e partiam por uma e outra
+banda com outras que o suplicante possuía, e pedindo-me, que por se acharem devolutas, lhe
+mandasse dar por sesmaria, em nome de Sua Majestade, os ditos sobejos com o sertão que
+[diretamente] lhe pertencerem para os aproveitar. Sendo visto o seu requerimento, em que foi
+ouvida a Câmara da dita vila de Santo Antônio de Sá, a quem se não ofereceu dúvida, nem ao
+provedor da Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por bem dar
+de sesmaria, em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho
+de 1711, ao dito Manuel Ferreira da Silva os referidos sobejos com o sertão que lhe tocar; não
+excedendo, porém, uma légua em quadra; sem prejuízo de terceiro ou do direito que alguma
+pessoa tenha a eles; com declaração que as cultivará e mandará confirmar esta minha carta por
+Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar
+posse deles as fará medir e demarcar judicialmente, sendo para este efeito notificados os
+hereos com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes e
+estivas onde necessário for, e descobrindo-se rio caudaloso, que necessite de barca para se
+atravessar, ficará reservada de uma margem dele a terra que parte para serventia pública; nesta
+data não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será
+com encargo de pagar dízimos e outra qualquer que Sua Majestade lhe impuser de novo, e não
+o fazendo se poderá dar a quem a denunciar; como também sendo o dito Senhor servido
+mandar findar no direito dela alguma vila o poderá fazer ficando livre, sem encargo ou pensão
+para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de metal
+que nela se descobrir, reservando também os Paus Reais; será obrigado a dar caminho para os
+que ficarem no sertão desta; e faltando a qualquer das ditas cláusulas, por serem conforme as
+ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias, ficará privado desta.
+Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê
+posse ao dito Manuel Ferreira da Silva das referidas terras na forma acima declarada. E por
+firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de
+
+minhas armas, que se cumprirá como nela se contém, se registrará nesta Secretaria do governo
+e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro. João de
+Sousa e Melo a fez em 26 de fevereiro de 1751. O secretário do governo, Antônio da Rocha
+Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, uns
+sobejos de terras a Manuel Ferreira da Silva no rio de Macacu, distrito da vila de Santo
+Antônio de Sá, que não excederá de 1 légua em quadra na forma que nela se declara.
+Para Vossa Excelência ver.
+Registrada no Livro 11 que serve de registro das Provisões do governo à folha 90 Rio, a 25 de
+fevereiro de 1751.
+//Antônio da Rocha Machado//
+O doutor José Pinto de Moraes Bacelar, do dezembargo de Sua Majestade, ouvidor geral,
+sindicante do doutor Francisco Antônio Berquó da Silveira Pereira, seu oficial nesta cidade do
+Rio de Janeiro, juiz das justificaçãoes, etc. Aos que a presente certidão de justificação virem,
+faço saber que a mim me constou por fé do escrivão, que esta subscreveu, ser a letra da
+subscrição da carta de sesmaria retra de Antônio da Rocha Machado, secretário deste governo,
+e o sinal ao pé dela do ilustríssimo e excelentíssimo Antônio, digo, do ilustríssimo e
+excelentíssimo Gomes Freire de Andrade, governador e capitão general desta capitania, e o
+sinal acima posto ao pé da carta do registro da dita Secretaria, e a letra e rubrica do [despeito]
+do registro retro do provedor da Fazenda Real, Francisco Cordovil de Siqueira e Melo, e o
+sinal posto ao pé da carta do registro. Luis Melo de Faria, escrivão da Fazenda Real. (não
+identificado) O que hei por justificado. Rio, a 18 de março de 1751. E eu, Manuel Francisco
+Ribeiro, escrivão da ouvidoria geral, o subscrevi.
+//José Pinto de Moraes Bacelar//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Ferreira da Silva, uns sobejos de terra junto ao rio Macacú, não excedendo uma légua
+em quadra. Rio, 26 de fevereiro de 1751.
+Manoel Ferreira da Silva foi atualizado para Manuel Ferreira da Silva.
+
+No DOCs a palavra hereo aparece como um erro ortográfico, contudo, localizei no Dicionário
+Bluteau o seguinte significado: “HEREO , f.m. na Ord.Manuel L.1 .T.49. § 30. parece
+fignificar o Senhor, ou proprietário, do latim herus. § O que paga ao Emphyteuta os redditos
+da parte do chão, ou campo, que tomou à sua conta para beneficiar.”
+Referência:
+AHU_ACL_CU_017-1, Cx. 68\Doc. 15917
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

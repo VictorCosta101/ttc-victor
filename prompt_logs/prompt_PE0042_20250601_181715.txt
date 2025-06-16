@@ -1,0 +1,118 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0042
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0042",
+  "Nome": "João Peixoto Vilela, João Pereira Campos, Paulo Ferreira Pacheco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "06-03-1724",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua e meia de comprimento e uma légua e meia de largura para cada um no sertão do Ararobá no rio dos Cabaços. A sesmaria possuía como limite ao norte os Campos do Buíque e as terras do capitão dos Pascoal Araújo, para o oeste com as terras do coronel Garcia de Ávila Pereira e o riacho do Mocotó, para o leste com as terras do mestre do campo Nicolau Aranha Pacheco e com o rio Panema.",
+  "Localidade": "Ararobá",
+  "Marcos Geográficos": "Rio Panema, Rio dos Cabaços, Campos do Buíque",
+  "Confrontantes": "Pascoal Araúoj, Garcia de Ávila Pereira, Nicolau Aranha Pacheco",
+  "Justificativas": "Pretendia criar gado; Tinha gado; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "Por o documento estar incompleto, não foi possível identificar as informações referentes ao despacho e ao deferimento.",
+  "Observações das exigências": "Por o documento estar incompleto, não foi possível identificar as informações referentes ao despacho e ao deferimento.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0042"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0042 
+ 
+Carta de doação e sesmaria de João Pereira Campos - 15/03/1724 
+ 
+CARTAS DE DOAÇÃO DE SESMARIA QUE SE PASSOU EM NOME DE SUA 
+MAJESTADE, QUE DEUS GUARDE, AO PADRE JOÃO PEREIRA CAMPOS, O 
+COMISSÁRIO GERAL JOÃO PEIXOTO VILELA E AO ALFERES PAULO FERREIRA 
+PACHECO DE UMAS SORTES DE TERRAS NA CAPITANIA DO ARARÓBA ETC. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general e etc. 
+Faço saber aos que esta carta de doação de sesmaria virem, que me representaram a petição do teor 
+seguinte: Senhor. Dizem o padre João Pereira Campos, o comissário geral João Peixoto Vilela e ao 
+alferes Paulo Ferreira Pacheco, moradores na capitania do Araroba, que eles suplicantes tem notícia 
+de umas sortes de terras chamadas do olho d'agua da Cana-brava, o Brejo do Manerí e o brejo 
+chamado da Gameleira, que da parte do sul confrontam com as cabeceiras do rio dos Cabaços e da 
+parte do norte com os campos do Buique, terras do capitão Paschoal de Araújo, para parte do poente 
+com terras do coronel Garcia d'Ávila Pereira, chamadas o riacho do Mocotó, e para a parte do 
+nascente com terras do mestre de campo Nicolau Aranha, chamadas o rio Panema, e porque estas 
+sortes de terras estão devolutas e nunca forão povoadas e os suplicantes as querem haver por 
+sesmaria para criarem seus gados vacuns e cavalares, portanto pedem a Vossa Excelência lhes faça 
+mercê mandar passar sua carta de sesmaria de légua e meia de terra em quadro, do brejo da 
+Gameleira para o brejo do Pirabé, para criarem seus gados vacuns e cavalares, pagando de foro cada 
+um o que é estilo depois de povoadas, visto as terem descoberto. E receberá mercê. Primeiro 
+despacho = Informe o provedor da Fazenda Real. Recife, 6 de março de 1724. – Rubrica = Haja 
+vista ao doutor procurador da Fazenda. Recife, 7 de março de 1724 – Não tenho dúvida, fazendo-se 
+a data que os suplicantes pedem na forma da Ordenação Livro 4.º título 43, e assento tomado em 
+Junta. Recife, 9 de março de 1724 = Pereira = Senhor governador e capitão general – Responde o 
+doutor procurador da Coroa, a quem Vossa Senhoria me mandou ouvir que se lhe não oferece 
+dúvida, fazendo-se a data na forma da Ordenação Livro 4.º título 43, e assento tomada na Junta. 
+Recife, 9 de março de 1724. = Pereira, digo, e assento que se fez em Junta, isto é, que se pague por 
+cada légua de terra no sertão quatro mil réis, e sendo a data com condições de pagar dízimos, como 
+Sua Majestade, que Deus guarde, manda em suas reais ordens, as quais se acham na Secretaria deste 
+Governo, e de não passarem a religiosos por seculares, e o mais que nas ditas ordens declara: se me 
+não oferece dúvida em que Vossa Senhoria defira aos supplicantes, é o que me parece; Vossa 
+Senhoria mandará o que for servido, com a retidão que costuma. Recife, 10 de março de 1724. = 
+João do Rego Barros. – E havendo, outrossim, respeito ao que Sua Majestade me concede no 
+capítulo 15 do regimento deste Governo e a tudo o mais que o dito senhor determina em suas reais 
+ordens neste particular. Hei por bem fazer-lhes mercê. [...] 
+Em 15 de 
+março de 1724 
+Silvio Barbo 
+
+- Fim da carta - 
+ 
+Observação: 
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem 
+constar os detalhes do parecer final. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 279 - 280. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

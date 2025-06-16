@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0088
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Lourenço Álvares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-06-1692",
+  "Observações da sesmaria": "O suplicante requereu seis léguas de comprimento e duas de largura nos Campos de Santa Luzia, entre o rio Coruípe e Cabotão, em direção a estrada geral para o rio São Francisco.",
+  "Localidade": "Campos de Luzia",
+  "Marcos Geográficos": "Rio Coruípe, Rio Caboatão, Estrada geral para o rio São Francisco",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0088"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0062
+Carta de doação de Lourenço Álvares de 03/06/1792
+Registro de alvará de doação e sesmaria de seis léguas de terras quadradas, que se concedeu em nome de
+Sua Majestade à Lourenço Álvares
+Antônio Luís Gonçalves da Câmara Coutinho, do Conselho d’ElRei, meu Senhor. Faço saber aos que este
+alvará de doação e sesmaria virem, que por parte de Lourenço Álvares, cinco pessoas mais moradores nas
+Alagoas, termo de Pernambuco, se me enviou a representar por sua petição, pedindo-me por devolitas nos
+campos de Santa Luzia, 6 léguas de terra de comprido, principiando a medir-se da estrada geral que vai para
+o rio de São Francisco, da passagem de caminho do rio Corohuipe, correndo o rumo diverso por eles acima,
+para a parte de sua nascença, e do mesmo rio Corohuipe 2 léguas de largo para a parte do norte e uma para a
+parte do sul, servindo em todos os rumos o dito rio de pião, assim na largura como no comprimento,
+pedindo-me, outrossim, mais o dito Lourenço Álvares com as cinco pessoas acima nomeadas, na estrada
+geral que [...] o dito rio de São Francisco, na passagem do caminho do rio Caboatão, 6 léguas de comprido, 3
+para a parte do norte e 3 para a do sul, correndo rumo direito por ele abaixo, com duas léguas de largura para
+a parte do leste e uma para o oeste, servindo em todos os rumos o dito rio de pião, tanto a largura como do
+cumprimento, para dela se principiar a dita medição – e vista a informação de provedor-mor da Fazenda
+Real deste Estado, cujo teor é o seguinte: Nas 36 léguas quadradas que o suplicante pedem de sesmaria, nos
+dois rios que afrontam ficam rocando 6 léguas de terras quadradas a cada um que parece se lhes pedem
+conceder, e constando que tem cabedais para as poderem cultivar e aproveitar a cada um separadamente para
+se cuidar, que ao título que lhe perecer, passem ao domínio e senhorio de um só, como as experiências tem
+mostrado neste estado, sem que antes despendesem fazenda alguma no aproveitamento das terras que se lhe
+deram de sesmaria, ficando assim um só vendendo e arrendando os sítios de que os mais vasalos de Sua
+Majestade necessitam, não tendo nisto particular maiores razões em que outros vassalos e outros a forma da
+lei, e com obrigação de as aproveitarem no termo da mesma lei e com as mais cláusulas e condições dela =
+Vossa Senhoria mandará o que mais convier. Bahia, 17 de maio de 1692 – Francisco Lamberto - E [...] visto
+o procurador da Fazenda, a que se deu vista e não duvida darem aos ditos seis impetrantes as 36 léguas
+quadradas que pedem de sesmaria, havendo eles declarado que nunca as ditas terras foram dadas nem
+povoadas por pessoa alguma e só serviam de entrada por onde desciam os negros levantados dos Palmares a
+fazer várias hostilidades aos moradores daquelas partes. Hei por bem e faço mercê em nome d’ElRei, meu
+Senhor, na forma que aponta o dito provedor-mor de lhe dar em uma e outra terra, assim confrontam 6
+léguas quadradas, a saber 3 em cada uma das ditas datas pedidas, e não prejudicando a terceiro e tendo
+cabedais para as cultivar, com tal condição de que as aproveitará dentro no termo da lei, e as não poderá
+alhear antes dele e nem passar a outros algum domínio, sem as ter aproveitado com cominação de se darem
+neste caso logo a outra pessoa, nem o poderá fazer sem ordem expressa de Sua Majestade, e com as mesmas
+cláusulas entreadas na Ordenação Título das Sesmarias e forma do Capítulo 15 do Regimento novo deste
+
+Governo, as quais 6 léguas quadradas nas ditas datas terá e possuirá com todas as suas águas, campos, matas,
+testadas, logradouros e mais úteis que nelas se acharem, tudo forro, livre, isento de foro, tributo ou pensão
+alguma, salvo dízimo a Ordem de Cristo, que pagará dos frutos que nelas houver e por elas será obrigado a
+dar caminhos públicos e particulares para fontes, pontes, portos e pedreiras, com declaração que havendo
+nas ditas 6 léguas quadradas alguma aldeia de índios, não fique o dito Lourenço Álvares, senhor dela, nem
+das terras que se ocupassem os índios, na forma das novas ordens de Sua Majestade. Pelo que ordeno e
+mando a todas os ministros e oficiais da justiça a que o conhecimento desta doação possa pertencer, lhe
+façam dar e deve a posse real, efetiva e atual, demarcando-se ao tempo dela, citados os lucros de que enviará
+certidão a casa dos contos, onde se registrará. Para firmeza do que mandei passar a presente sob meu sinal e
+selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado, Fazendo Real dela e nos do
+escrivão das sesmarias, e se guardará e cumprirá tão puntual e inteiramente como nele se contém, sem
+dúvida, embargo, nem contradição alguma – João Lopes de Carvalho, a fiz nesta cidade do Salvador, Bahia
+de Todos os Santos, aos 2 dias do mês de junho de 1692. Bernardo Vieira Ravasco, a fiz escrever. Antônio
+Luís Gonçalves da Câmara Coutinho “Sello”. Alvará de doação e sesmaria de 6 léguas quadradas de terra,
+que Vossa Senhoria teve por bem conceder em nome de Sua Majestade a Lourenço Álvares, morador nas
+Alagoas, termo de Pernambuco. A saber, três em cada uma das duas datas pedidas e nesta confrontação, na
+forma que aponta o provedor-mor da Fazenda, não prejudicando a terceiro, nem as aldeias e terra dos índios,
+com as mesmas cláusulas ordinárias, pelos respeitos acima declarados. Para Vossa Senhoria ver. Registrado
+no livro 5º dos registros da Secretaria do Estado do Brasil, a que toca a folha [...] Bahia, 3 de junho de 1692.
+Ravasco = Registre-se. Bahia, 3 de junho de 1692 = Lamberto – Mathias Miranda de Oliveira, registrou em
+dito dia.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 32v-34.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

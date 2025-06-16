@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0032
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Tomé Dias Laços",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "19-09-1673",
+  "Observações da sesmaria": "A sesmaria possuía cinco léguas quadradas, sem serem especificadas as medidas da largura e do comprimento, e estava localizada ao longo do rio Paraguaçu.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Observações da petição": "A sesmaria foi solicitada por dois sesmeiros, o capitão Francisco Barbosa Leal e o capitão-mor Tomé Dias Laços. Eles pediram cinco léguas em quadra para cada um.",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; Não tinha terras; Tinha cabedal; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegaram terem abertos caminhos nos matos para condução dos mantimentos para as tropas.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa e o provedor da Fazenda afirmaram que deveriam ser concedidas quatro léguas em quadra para  ambos os suplicantes. O governador-geral decidiu conceder cinco léguas quadradas sem especificar as medidas do comprimento e da largura para cada um, no entanto, concedeu as sesmarias de forma separada. Nessa concessão apenas o nome de Tomé Dias Laços foi citado, ficando a concessão do outro solicitante em outro registro.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0032"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de sesmaria de 5 léguas de terra de medição ordinária, concedida ao 
+capitão-mor Tomé Dias Laços. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça// Faço saber aos que este alvará de doação e 
+sesmaria virem, que o capitão-mor Thomé Dias Laços e o capitão Francisco Barbosa Leal me 
+representou a dizer por sua petição, cujo teor é o seguinte: dizem, o capitão-mor Thomé Dias 
+Laços e o capitão Francisco Barbosa Leal, que eles são naturais desta cidade da Bahia, 
+moradores no limite da cachoeira, e tem servido a Sua Alteza em tudo que se lhe ordenou pelos 
+senhores governadores antecessores de Vossa Senhoria, e, atualmente, estão fazendo por ordem 
+de Vossa Senhoria [e assistindo] como Vossa Senhoria é presente nos expedientes das tropas 
+de guerra que Vossa Senhoria mandou contra o gentio brabo estes 3 anos, havendo feito o 
+mesmo serviço nas ocasiões antecedentes, como consta das suas certidões e é notório. E 
+particularmente, o capitão Antônio Barbosa Leal foi abrir e fazer o caminho nos matos para a 
+condução dos mantimentos por ordem de Vossa Senhoria, e nunca se lhes deu sesmaria de terra 
+alguma e as não tem em que por seus gados e criações. E, porque nas que correm pelo rio 
+Paraguaçu, acima da banda do sul, tem notícia haver alguma terras de pastos de que ainda se 
+ignoram as paragens e nomes e tem cabedal para as aproveitar e povoar, pede a Vossa Senhoria 
+lhe faça mercê dar de sesmaria 5 léguas em quadra a cada um, onde se acharem de pastos no 
+rio Paraguaçu, começando sobre a data antecedente pelo mesmo rio acima da banda do sul, 
+cercando o Rio Paraguaçu de demarcação da banda do norte. E estando já dadas à beira do dito 
+rio ou não as havendo junto dele de servir para gados, [astonebde onde] mais junto do dito rio 
+as acharem por dar, encostando na data que preferir desta nas terras daquela banda do sul do rio 
+Paraguaçu, com declaração que não se achando juntas as ditas 5 léguas em quadra que cada um 
+pede em um só lugar, [se inteirarão] delas onde mais proximamente se acharem por dar. E 
+receberá mercê. E visto a resposta do procurador da coroa e fazenda deste estado, cujo teor é o 
+seguinte: visto os serviços que os suplicantes alegam, não se me oferece dúvida a que se lhe 
+concedam 4 léguas de sesmaria em quadra para ambos, que vem a ser 8 multiplicadas, ou se lhe 
+deem as que mais parecer, limitando-se lhes então a largura na forma que já tinha apontado em 
+outras sesmarias, e isto sem prejuízo de terceiros. Bahia, 17 de setembro de 1673// Rocha// E a 
+informação do provedor-mor da fazenda real do mesmo estado que é a que se segue: parece me 
+que se deve deferir aos suplicantes dando-se para ambos 4 léguas de terra em quadra porque 
+são pessoas que têm posses e as podem povoar, mas deve ser com as condições do regimento e 
+as ordens de Sua Alteza, não encontrando as ditas ordens e sem prejuízo de terceiro. Vossa 
+Senhoria mandará o que for servido. Bahia, setembro 17 de 1673// Antônio Lopes de Ulhôa// 
+Hei por bem e lhe faço mercê em nome de Sua Alteza ao capitão-mor Thomé Dias Laços de 
+lhe dar, como pelo presente faço, de sesmaria 5 léguas de terra sem ser em quadra de medida 
+ordinária, assim como pede e confronta na dita petição, com declaração que serão obrigados a 
+povoá-las no termo da lei, pois nesta conformidade lhes concedo, não prejudicando a terceiros 
+nem as terras que se determinou [que] tivessem as povoações, que de novo se fizessem para se 
+darem a seus povoadores com todas as suas águas, campos, matas, testadas, logradouros e mais 
+úteis que nelas se acharem, tudo forro livre e isento de pensão ou tributo algum, salvo dízimo a 
+Deus que pagará dos frutos que nelas houver. E por elas serão obrigados a dar caminhos livres 
+ao conselho para fontes, pontes, e pedreiras, pelo que ordeno e mando a todos os ministros e 
+justiças a que o conhecimento desta, com direito, deva ou possa pertencer: lhe façam dar a posse 
+real, efetiva e atual debaixo das cláusulas acima referidas e as mais da ordenação e título das 
+sesmaria. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas 
+armas, o qual se registrará nos livros da secretaria do estado e nos mais a que tocar. E se 
+guardará e cumprirá tão pontual e inteiramente como nela se contém, sem dúvida, embargo ou 
+
+contradição alguma. Manuel Ferreira das Neves o fez nesta Cidade do Salvador, Bahia de todos 
+os santos com os 19 dias do mês de setembro, ano de 1673. Bernardo Vieira Ravasco, a fiz 
+escrever// Afonso Furtado de Castro do Rio Mendonça// Registrado no primeiro livro de 
+registros da secretaria do Estado do Brasil, a que toca as folhas 189. Bahia, setembro, 19 de 
+1673// Ravasco// Cumpra-se e registre-se como sua Alteza manda. Bahia, novembro 14 de 
+1673// de Ulhôa// Registrou-se em 2 de dezembro do mesmo ano// Miguel Pinto de Freitas. 
+ 
+- Fim da Transcrição – 
+ 
+Referencias: 
+AN, Códice 427, fls. 53v-54v 
+Numeração original no livro: 50 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,112 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0040
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0086",
+  "Nome": "Antônio Paes, Manuel de Araújo de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-09-1723",
+  "Data da concessão": "18-09-1723",
+  "Observações da sesmaria": "Os suplicantes requereram três léguas de comprimento e uma légua de largura para cada um entre os riachos do Batatão e do Acracituba. ",
+  "Localidade": "Riacho do Batatão, riacho do Acracituba",
+  "Marcos Geográficos": "Riacho do Batatão, riacho do Acracituba",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; Tinha gado; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "Devido ao documento estar incompleto, não foi possível identificar o nome do escrivão, do procurador da Coroa e os despachos do deferimento. ",
+  "Observações das exigências": "Devido ao documento estar incompleto, não foi possível identificar as exigências demandadas para a concessão. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0040"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0040 
+ 
+Carta de doação e sesmaria de Manuel de Araújo de Carvalho e Antônio Paes -  
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU AO ALFERES MANUEL DE 
+ARAÚJO DE CARVALHO E ANTÔNIO PAES, DE SEIS LÉGOAS DE TERRA PARA 
+AMBOS NO LUGAR CHAMADO RIACHO DE BATATÃO E ACRACITÚBA, TAMBÉM 
+RIACHO, DISTRITO E JURISDIÇÃO DESTA CAPITANIA. 
+ 
+Dom Manuel Rolim de Moura, do Conselho de Sua Majestade e etc. Faço saber aos que esta carta 
+de doação de sesmaria virem, que o alferes Manuel de Araújo de Carvalho e Antônio Paes me 
+apresentaram a petição cujo teor é o seguinte: Senhor. Dizem o alferes Manuel de Araújo de 
+Carvalho e Antônio Paes, que eles tem notícia que acima do riacho do Batatão e Acracituba, 
+também riacho, por eles acima de uma banda e da outra ficando os riachos em meios, há terras 
+devolutas e desaproveitadas, e porque os suplicantes tem seus gados e há de mister terras para os 
+acomodar, o que é em utilidade dos vassalos de Sua Majestade, que Deus guarde, e dar dízimos 
+reais; pede a Vossa Senhoria lhes faça mercê mandar passar carta de sesmaria de seis léguas de terra 
+ordinária na parte que dizem, três légoas para cada um, confrontando de uma e outra banda dos 
+riachos com os éreos que se acharem = E recebrá mercê. = Despacho = Informe o provedor da 
+Fazenda Real, ouvindo o doutor procurador da Coroa. Recife, 18 de setembro de 1723 = Rubrica = 
+Haja vista ao doutor procurador da Coroa e Fazenda Real = Recife, 23 de setembro de 1723 = 
+Barros = Não tenho dúvida, sendo a data na forma da Ordenação Livro 4.º título 43, e pagando o 
+foro assentado em junta. Recife, 23 de setembro de 1723 = Pereira = Senhor governador e capitão 
+general. Responde o doutor procurador da Coroa, a quem Vossa Senhoria me mandou ouvir, que se 
+lhe não oferece dúvida na data na forma da Ordenação, pagando-se o foro na forma do assento da 
+Junta, ao que me conformo e me é preciso representar a Vossa Senhoria que Sua Majestade, que 
+Deus guarde, foi servido declarar por carta de 20 de janeiro do ano de 1699, que nas datas de 
+sesmarias, além das obrigações de pagar o dízimo a ordem de Cristo e as mais costumadas, se 
+ponha a de um foro segundo a grandeza das ditas terras, e que sendo estas convenientes para o seu 
+real serviço, se não deem e fiquem para a sua Real Fazenda, e que não passarão as ditas terras 
+religiões por nenhum título e sucedendo pagarão dízimo como seculares, com o foro, digo, pagarão 
+o foro também de quatro mil réis por légua, como está determinado; se me não oferece dúvida. 
+Vossa Senhoria dará nova ordem, se julgar necessário, ao serviço de Sua Majestade, como costuma. 
+Recife, 23 de setembro de 1723 = João do Rego Barros = E havendo, outrossim, respeito ao que Sua 
+Majestade me concede no capítulo 15 do regimento deste Governo, e a tudo mais que determina em 
+suas reais ordens nesse particular. Hei por bem fazer-lhe mercê [...]. 
+- Fim da carta - 
+ 
+Observação: 
+
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem 
+constar os detalhes do parecer final. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 273 - 275. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

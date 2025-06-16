@@ -1,0 +1,160 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0105
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Diogo Teixeira de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-07-1602",
+  "Data da concessão": "18-07-1602",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobejos de terras que foram de João Carrasco e de Pero de Lucas",
+  "Ribeira": "Rio Guaxindiba",
+  "Confrontantes": "Rumo da Agulha",
+  "Justificativas": "Era morador(a) da Capitania; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou o suplicante também que vivia \"há muitos anos com casa, roças e fazenda no rio de Guaxindiba\", assim como apresentou como justificativa ter terras insuficientes para implantar lavouras.",
+  "Observações do deferimento e da concessão": "A carta de concessão não dá informações exatas a respeito da medição solicitada pelo requerente, limitando-se apenas a informar que eram sobejos de terras e que os mesmos haviam sido concedidos, de acordo com a própria petição, que não foi encontrada.",
+  "Observações das exigências": "Citou-se as Ordenações Manuelinas, a qual diz: \"as terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte que não forem já dá outras pessoas que aproveitem ou, posto que o fossem, se pôr as pessoas a que se deram não aproveitem no tempo que são obrigadas, por esta via ou por qualquer outra estiverem vagas, as poderei dar de sesmaria a quem as pedirem, e tereis lembrança de que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes, ou vos parecer  que podem granjear e aproveitar, as quais terras assim dareis livremente sem outro algum foro, somente o dízimo a ordem do nosso Mestrado do Senhor Jesus Cristo, com as condições e obrigações do foral dado as ditas terras e de minha ordenação do livro 4º, título das sesmarias, e com a condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras que lhe assim foram dadas ao menos três anos, que dentro do dito tempo, as não poderão as vender, nem enlear e se algumas pessoas a que forem dadas terras no termo da dita cidade, e as estiveram perdidas, por as não aproveitarem e vos a tornarem a pedir, darei de novo com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas, porque as assim derdes e isto se entenderá não sendo as ditas terras dadas as outras pessoas\". Determinou-se também ao suplicante que \"haja a posse e senhoril da dita terra e sobejos que dito é para sempre\", assim como exigiu-se ainda que \"rompa e aproveite a dita terra e sobejos e frutifique da dada desta em três anos primeiros e seguintes, outrossim, faça de maneira que dentro de quatro meses tenha feito da dita terra algum proveito e plantado alguns mantimentos, e cumprido os ditos três anos, que a tem aproveitado como dito é, porque não fazendo ele assim, passados os ditos três anos, se darão os ditos sobejos de terra de sesmaria, a quem vos pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver e sobretudo pagará mil réis para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenadas e necessárias para o para o Conselho e para fontes, pontes, vieiras e pedreiras que necessárias forem, a qual terra e sobejos que dito é lhe assim deu e concedeu forra e isenta, sem foro nem tributo algum\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0105"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0105
+Carta de concessão de sesmaria de Diogo Teixeira de 19 de julho de 1602
+[Fl.4] Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento
+de Nosso Senhor Jesus Cristo de 1602, aos 19 dias do mês de julho do dito ano, nesta dita
+cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante
+nomeadas, apareceu Francisco Lopes, ora instante assistente nesta dita cidade, e me
+apresentou uma petição feita em nome de Diogo Teixeira de Carvalho, morador nesta cidade,
+com despacho nela do Senhor Martim de Sá. Capitão e governador desta dita cidade, capitania
+e governança, deste dito Rio de Janeiro, por El Rei nosso Senhor. Da qual petição de
+despacho dela o traslado é o seguinte: Diogo Teixeira, morador nesta cidade, que ele vive há
+muitos anos com casa, roças e fazenda no rio de Guaxindiba. Assim outros moradores e a
+terra que assim tem é pouca para suas lavouras, porque no dito rio em todo ele assim da banda
+das terras que foram de João Carrasco, como das que foram de Pero de Lucas, fazendo-se as
+medições
+como
+se
+devem
+diretamente
+pelo
+rumo
+da
+agulha,
+até
+o
+Rio...........
+algumas................. de que de necessidades onde ficam como sobejos ou por qualquer maneira
+que haja, pede a Vossa Senhoria que lhe faça mercê de todos os sobejos que é assim houver
+em todo o rio, assim de uma banda dele como da outra inteiradas as pessoas de suas medições
+por qualquer maneira que as haja e lhe mande passar carta. E receberá mercê. Despacho do
+senhor capitão o governador: dou ao suplicante sobejos de que faz menção pelas
+confrontações que diz, não sendo dadas. Rio de Janeiro, a 18 de julho de 1602, Martim de Sá.
+E visto pelo dito senhor capitão e governador, a petição do dito Diogo Teixeira de Carvalho,
+suplicante, e o que ele pedia, visto ser justo e havendo respeito ao proveito que se pode seguir
+acerca da República, e ao serviço de Deus e Del Rei nosso Senhor, por a terra se povoar, deu
+ao dito Diogo Teixeira os sobejos de terra que pede, onde os pede, conforme o dito seu
+despacho, portanto, dizia que estavam devolutos e por aproveitar para os aproveitar e fazer
+suas roças e fazenda na dita terra e sobejos como diz não sendo já dadas a outra pessoa ou
+pessoas primeiro, os quais sobejos de terra diz que estão no dito lugar e que partem pelas ditas
+confrontações como em sua petição diz, os quais sobejos de terra lhe deu e concedeu em
+nome Del Rei nosso Senhor, pela maneira adiante declarada, segundo forma do regimento Del
+Rei nosso Senhor, de que o translado é o seguinte: as terras que estiverem dentro do termo e
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte que não forem já dá
+outras pessoas que aproveitem ou, posto que o fossem, se pôr as pessoas a que se deram não
+aproveitem no tempo que são obrigadas, por esta via ou por qualquer outra estiverem vagas,
+as poderei dar de sesmaria a quem as pedirem, e tereis lembrança de que não deis a cada
+pessoa mais terra que aquela que segundo sua possibilidade virdes, ou vos parecer que podem
+granjear e aproveitar, as quais terras assim dareis livremente sem outro algum foro, somente o
+dízimo a ordem do nosso Mestrado do Senhor Jesus Cristo, com as condições e obrigações do
+foral dado as ditas terras e de minha ordenação do livro 4º, título das sesmarias, e com a
+condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras
+que lhe assim foram dadas ao menos três anos, que dentro do dito tempo, as não poderão as
+vender, nem enlear e se algumas pessoas a que forem dadas terras no termo da dita cidade, e
+as estiveram perdidas, por as não aproveitarem e vos a tornarem a pedir, darei de novo com as
+condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas, porque as
+
+assim derdes e isto se entenderá não sendo as ditas terras dadas as outras pessoas. Com as
+quais medições, obrigações e declarações lhe assim deu o dito senhor capitão e governador os
+ditos sobejos terra ao dito suplicante Diogo Teixeira de Carvalho, pela dita maneira, com a tal
+condição, digo, e para sua guarda de segurança, lhe mandou ser feita esta carta pela qual
+manda que ele haja a posse e senhoril da dita terra e sobejos que dito é para sempre para ele e
+todos os seus herdeiros, sucessores, ascendentes e descendentes que após dele vierem com tal
+condição e entendimento que ele rompa e aproveite a dita terra e sobejos e frutifique da dada
+desta em três anos primeiros e seguintes, outrossim, faça de maneira que dentro de quatro
+meses tenha feito da dita terra algum proveito e plantado alguns mantimentos, e cumprido os
+ditos três anos, que a tem aproveitado como dito é, porque não fazendo ele assim, passados os
+ditos três anos, se darão os ditos sobejos de terra de sesmaria, a quem vos pedir para
+aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver e sobretudo
+pagará mil réis para as obras do Conselho e dará pela dita terra, caminhos e serventias
+ordenadas e necessárias para o para o Conselho e para fontes, pontes, vieiras e pedreiras que
+necessárias forem, a qual terra e sobejos que dito é lhe assim deu e concedeu forra e isenta,
+sem foro nem tributo algum, somente de tudo que nosso Senhor lhe der nela de suas
+novidades, lavouras e criações pagará os dízimos a Deus conforme o regimento, o que tudo
+manda que se cumpra e guarde sem dúvida nem embargo, que lhe a ele seja posto e que esta
+carta seja registrada dentro de um ano nos livros da Fazenda Real, como o dito senhor em seu
+regimento manda sobre as penas neles contidas e declaradas, porque o sobredito Diogo
+Teixeira, suplicante, tudo prometeu de ter, manter e cumprir pela dita maneira lhe mandou
+passar esta carta de sesmaria, e por verdade, eu Pero da Costa, escrivão das sesmarias e
+tabelião das notas por El Rei nosso Senhor, nesta cidade de São Sebastião e seus termos, que
+este instrumento de carta de sesmaria escrevi e tomei nos meus livros de notas e tombo das
+cartas de sesmarias desta cidade que em meu poder estão, onde o
+dito instrumento fica
+assinado pelo dito senhor capitão e governador //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria dos sobejos de terra que pediu Diogo Teixeira no Rio de
+Guaxandiva.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+113-115;   Documento Original : Fl.4.
+Original no livro
+Arquivo: DHBN_VOL.CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

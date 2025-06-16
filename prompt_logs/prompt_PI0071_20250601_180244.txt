@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0071
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "André de Couto Souza",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "05-10-1798",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Sobre o histórico da terra, a carta de concessão apenas informa que o pleiteante \"descobrira [sítio] no lugar denominado [Sauté]\". ",
+  "Localidade": "\"lugar denominado [Sauté]\"",
+  "Confrontantes": "\"da parte do norte com a Fazenda da [Iranquira]\"; \"para o nascente com a Fazenda da [Torta]\"; \"para a do poente, com a Fazenda da Ilha\". ",
+  "Justificativas": "Era descobridor(a) das terras; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que o pleiteante \"descobrira [sítio] no lugar denominado [Sauté]\" e \"porque queria cultivar o dito sítio, me requereu lhe conceder, em nome de Sua Majestade\". ",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Na carta de concessão também consta que \"havendo nas mesmas terras estrada pública que atravesse rio caudaloso que necessite de barca para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para o uso público, mas sim também de uma delas meia légua de terra em quadra para a comodidade pública e de quem arrendar a dita paragem\" e que \"faltando a qualquer destas cláusulas, se haverão as ditas terras por devolutas e se darão a quem as denunciar”. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0071"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0071
+Carta de concessão de André de Couto Souza - 05/10/1798
+Registro da carta de data e sesmaria passada a André de Couto Souza etc.
+Dom João de Amorim Pereira, cavaleiro da Ordem de Cristo, sargento-mor de infantaria,
+fidalgo da Casa Real e governador da capitania de São José do Piauí etc. Faço saber aos que
+esta minha carta de data e sesmaria virem que André de Couto Souza, morador na [Valhada],
+termo desta cidade, me representou que ele descobrira [sítio] no lugar denominado [Sauté]
+lagoa entre a [?] Canindé e Itaím, cujo sítio confrontava da parte do norte com a Fazenda da
+[Iranquira], pela do sul com caatingas gerais, para o nascente com a Fazenda da [Torta] para a
+do poente, com a Fazenda da Ilha e porque queria cultivar o dito sítio, me requereu lhe
+conceder, em nome de Sua Majestade, por data e sesmaria 3 léguas de terras de comprido e 1
+de largo no dito lugar, correndo o seu comprimento ou de norte a sul, ou de nascente a poente,
+conforme melhor convier ao suplicante, ao que a atendendo também a informação da Câmara
+e provedor da Fazenda Real que foi ouvido e se lhe não ofereceu dúvida alguma e ser uma
+utilidade da mesma Fazenda Real cultivarem-se as terras neste Estado; haja por bem
+conceder-lhe, em nome de Sua Majestade, por data e sesmaria 6 léguas, digo, 3 léguas de
+terras de comprido e uma de largo, na forma e parte que pede, com as confrontações que
+declara com as condições expressadas nas Reais Ordens; e com a de não fazer trespasse por
+meio algum, em nenhum tempo e a pessoa alguma, religião, comunidade, sem que primeiro
+dê parte na Casa da Fazenda ao provedor dela para me fazer presente e ver se deve ou não
+conceder no tal trespasse, sob pena de ficar nula esta data e se puder novamente conceder a
+outro; e se lhe passa carta para que o dito André de Couto Souza haja, logre e possua a
+sobredita terra como coisa sua própria, para si e seus herdeiros ascendentes e descendentes,
+sem pensão nem tributo algum mais que dízimo a Deus Nosso Senhor, dos frutos que nelas
+tiver ou lavrar; a qual concessão lhe faço não prejudicando a terceiro nem a Sua Majestade; se
+no dito sítio quiser fundar alguma vila reservando os paus Reais que nelas houver para
+embarcações, com declaração que mandará confirmar esta data por Sua Majestade dentro de 3
+anos primeiros seguintes; e cultivará as ditas terras de maneira que deem frutos; e dará
+caminhos públicos e particulares onde forem necessários para pontes, fontes, portos, e
+pedreiras, e havendo nas mesmas terras estrada pública que atravesse rio caudaloso que
+necessite de barca para se atravessar, não só ficará de ambas as bandas de tal rio a terra que
+baste para o uso público, mas sim também de 1 delas meia léguas de terra em quadra para a
+comodidade pública e de quem arrendar a dita paragem; se demarcará ao tempo de posse por
+rumo de cordas e braças craveiras, como é estilo e Sua Majestade manda. E outrossim, não
+poderá suceder nelas religiões nem outras pessoas eclesiásticas por nenhum título que seja, e
+acontecendo possuí-las será com o encargo de pagarem delas dízimo a Deus como se fossem
+possuídas por seculares; e faltando a quaisquer destas cláusulas se haverão as ditas terras por
+devolutas, e se darão a quem as denunciar, como a mesma Senhora ordena. Pelo que mando
+ao provedor da Fazenda Real, mais ministros e pessoas a que tocar, que na forma requerida,
+digo, referida e com as condições expressadas, deixe-se ter e possuir as sobreditas terras ao
+dito André de Couto Souza, como coisa sua própria para si e seus herdeiros ascendentes e
+descendentes, e que assim também cumpram e guardem esta minha carta de data e sesmaria
+tão inteiramente como nela se contém, a qual mandei passar e vai assinada por mim e selada
+
+com o selo de minhas armas e se registrará nas partes onde tocar, [e vai se] passar por duas
+vias. Dada e passada nesta cidade de Oeiras, 5 de outubro, ano do nascimento de Nosso
+Senhor, Jesus Cristo, de 1798. Eu, Thomas de Aquino Ozório, secretário do ilustríssimo
+governador desta capitania, a fiz escrever. Dom João de Amorim Pereira // Estava o selo.
+Carta de data e sesmaria, por que Vossa Senhoria há por bem conceder, em nome de Sua
+Majestade, a André de Couto Souza 3 léguas de terras de comprido e uma de largo na forma e
+parte que pede, com as confrontações que na mesma se declaram. Para Vossa Senhoria ver.
+Primeira via.
+– Fim da carta –
+Referência:
+APEPI, Livro 1, fls. 152-153.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

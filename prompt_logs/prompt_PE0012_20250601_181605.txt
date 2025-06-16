@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0012
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0020",
+  "Nome": "Antônio Ferreira, Augusto Ferreira, Gonçalo Gomes Pereira, Manuel da Cruz, Manuel Ferreira Gomes, Matias Ferreira, Pedro Moreira (PE1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "14-07-1696",
+  "Data da concessão": "31-07-1696",
+  "Observações da sesmaria": "Os suplicantes requereram 21 umas léguas de terras, situadas entre o rio São Francisco e a serra da Borborema. As terras requeridas confrontavam com os limites de João Ferreira de Melo e com a do capitão-mor Teodósio de Oliveira Ledo. E por outra parte com as de Cristóvão Alves e com as terras dos padres da Congregação do Oratório. ",
+  "Localidade": "Serra da Borborema, Rio São Francisco",
+  "Marcos Geográficos": "Serra da Borborema, Rio São Francisco",
+  "Confrontantes": "Cristóvão Alves, Teodósio de Oliveira Ledo, João Ferreira de Melo e Congregação do Oratório",
+  "Observações da petição": "Na petição, os suplicantes informaram apenas a área total das terras requeridas, 21 léguas, sem especificar o tamanho do comprimento ou da largura. Os suplicantes requereram que as léguas fossem concedidas de forma salteada. ",
+  "Justificativas": "Pretendia aumentar as rendas reais; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que as terras fossem concedidas de forma contígua e de acordo com as Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0012"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0012 
+ 
+Carta de data e sesmaria de Antônio Ferreira e outras pessoas – 31/07/1696 
+ 
+CARTA DE SESMARIA DE UMAS TERRAS QUE SE DERAM NO SERTÃO A ANTÔNIO 
+FERREIRA E A OUTRAS PESSOAS MAIS 
+ 
+Caetano de Melo de Castro, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc. Faço saber ao que esta carta de doação e sesmaria 
+virem que Antônio Ferreira, Manoel da Cruz, Matias Ferreira, Manoel Ferreira Gomes, Gonçalo 
+Gomes Ferreira, Pedro Moreira e Augusto Ferreira, me representaram a petição cujo teor é o 
+seguinte: “Senhor” Dizem Antônio Ferreira, Manoel da Cruz, Mathias Ferreira, Manoel Ferreira 
+Gomes, Gonçalo Gomes Pereira, Pedro Moreira, moradores na freguesia de São Lourenço, e 
+Augusto Ferreira, morador nesta praça, que eles suplicantes tem seus gados vacuns, cavalgaduras e 
+mais criações e nunca tiveram data alguma para criarem os ditos gados, lhe falta terra para o 
+poderem fazer e porque tem notícia que no sertão pertencente a esta jurisdição de Pernambuco, ao 
+norte do rio de São Francisco, entre o dito rio e a serra da Borborema, há terras devolutas e 
+desaproveitadas e sem títulos, e eles suplicantes querem ver se com a sua indústria, trabalho e 
+dispêndio de suas fazendas podem aproveitar o que for possível, e por ser isto em utilidade da 
+Fazenda Real, pelo que pede a Vossa Senhoria seja servido conceder-lhes vinte e uma léguas de 
+terras salteadas nos riachos chamados, conforme a língua do gentio, Imaingú, Goinsa, Procopimoa e 
+Chocamcuimoá, confrontando por uma parte com as terras de João Ferreira de Melo e pela outra 
+com as terras de Teodorico de Oliveira Ledo, capitão-mor, e pela outra com as de Cristóvão Alves, 
+e pela outra com as terra dos padres da Congregação, principiando as ditas vinte e uma léguas de 
+terra ao redor e ilharga dos riachos nomeados até confrontarem com as terras referidas pelas 
+haverem com sua indústria descobertas. E receberá mercê. “Informe o provedor da Fazenda Real, 
+ouvindo o procurador da Coroa” “Rubrica”. Haja vista o procurador da Coroa e Fazenda Real. 
+Recife, 14 de julho de 1696 “Barros” Não tenho dúvida a que se concedam aos suplicantes de 
+sesmaria as vintes e uma léguas de terra que confrontam em sua petição, sendo ordinárias e 
+contínuas, e sendo a dita feita na forma da Ordenação Livro 4.º título 43. Recife, 14 de julho de 
+1696. “Pereira”. Senhor, com a resposta do procurador da Coroa, informa a Vossa Senhoria para 
+mandar o que for servido. Recife, 20 de julho de 1696. “João do Rego Barros” E havendo, 
+outrossim, respeito ao que Sua Majestade, que Deus guarde, me encomenda no capítulo 15.º do 
+regimento deste Governo; hei por bem de lhes fazer mercê dar aos suplicantes acima nomeados, 
+como pela presente dou, de sesmaria as ditas terras que pedem nos mesmos lugares, partes, testadas 
+que confrontam em sua petição, vinte e uma léguas de terra, assim e de maneira que parece ao 
+provedor e procurador da Fazenda Real, que povoarão com os ditos gados e criações no termo de 
+
+cinco anos, aliás se darão por devolutas pelo que consta estarem despovoadas, as quais terras 
+possuirão e gozarão os ditos suplicantes e seus herdeiros, não prejudicando a terceiro com todas as 
+suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre, 
+e isento de tributo, foro ou pensão alguma salvo dízimo a Deus, e só serão obrigados a dar pelas 
+ditas terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, pelo que ordeno a todos 
+os ministros da Fazenda e Justiça destas capitanias ou aos que o conhecimento desta carta pertencer, 
+lhe façam dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e 
+das mais da ordenação título das sesmarias, para a firmeza de tudo lhe mandei passar a presente por 
+mim assinada e selada com o sinete das minha armas, a qual se registrará nos livros da secretaria 
+destas capitanias e nos da Fazenda Real a que tocar. Dada nesta cidade de Olinda, aos 31 de julho – 
+Antônio Nunes de Oliveira a fez, ano de 1696 “O secretario Antônio Barbosa de Lima a fez 
+escrever” “Caetano de Mello de Castro”. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 49 - 51. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,112 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0312
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "André de Albuquerque ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-08-1591",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura na Mata do Brasil, na ribeira do Guatape, na estrada para as Tabocas.",
+  "Localidade": "Tabocas",
+  "Marcos Geográficos": "Mata do Brasil",
+  "Ribeira": "do Guatape",
+  "Justificativas": "Tinha escravos; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0312"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0312 
+ 
+Sentença dos reverendos padres de São Bento de Olinda contra Dona Catarina de 
+Mello e mais herdeiros de André de Albuquerque. A própria desta sentença anda em 
+uns atos de demanda que trouxemos com o cônego Simão Rodrigues. 
+ 
+Pedro Homem de Castro, fidalgo da casa de el Rei nosso senhor, capitão e governador 
+loco tenente nesta capitania de Pernambuco da nova Lusitânia, nesta vila de Olinda 
+das partes do Brasil, pelo muito ilustre senhor Jorge de Albuquerque Coelho, meu tio, 
+capitão e governador desta capitania e governação por el Rei nosso senhor etc. Faço 
+saber a quantos esta minha carta de doação e sesmaria for mostrada e o conhecimento 
+dela com direito pertencer que a mim me enviou a dizer André de Albuquerque por 
+sua petição por escrito, da qual traslado é o seguinte. Diz André de Albuquerque que 
+ele tem filhos e que sempre se achou em todas as guerras assim de gentios como de 
+franceses com suas armas, e cavalos e escravaria, e com muito gasto de sua fazenda, 
+como é notório sem até hoje ao presente lhe serem dadas terras algumas, tendo tudo 
+bem merecido pelo que me pedia lhe fizesse mercê de duas léguas de terra em quadra, 
+na banda da mata do Brasil, as quais se começarão a medir do pé de uma ladeira que 
+desca para uma ribeira que se chama Guatape que fica a estrada, que ia para a mata 
+por extrema de légua da banda do leste e outra légua para a mesma banda do oeste, 
+que vem a ser duas léguas em quadra, correndo com o cumprimento para o sul e 
+sendo que não chegue as ditas duas léguas a extrema em quadra até um lugar, que 
+chamam Tabocas, que toda a mais que for de comprido possa tomar até aquele lugar, 
+e que não havendo as ditas duas léguas para o sul o mais que menos fique, possa 
+tomar para qualquer parte que melhor lhe parecer, para o comprimento das ditas 
+léguas de terra em quadra e que sendo outrossim caso, que se queiram arrumar as duas 
+léguas para a banda do leste, o possa fazer, a qual terra pede isenta de foro e pensão 
+algumas, somente dízimo a Deus. E receberia mercê. - O que visto por mim, pus por 
+meu despacho na dita petição. Passe carta ao suplicante das ditas léguas de terra em 
+quadra no lugar aonde pede e não achando em quadra no lugar que pede e na mais 
+havendo em quadra a tomarão para qualquer das partes que melhor lhe parecer, as 
+quais lhe dou sem foro e pensão alguma, hoje 04 de agosto de 1591. Castro. Pela qual 
+hei por bem, e me apraz dar e doar ao dito André de Albuquerque a dita terra nesta 
+carta conteúda para ele e sua mulher, filhos e netos, e herdeiros ascendentes e 
+descendentes, e para todas as pessoas que após eles vierem, deles descendem, digo, e 
+deles houverem para que dela e com ela façam o que lhes bem vier, como coisa sua 
+
+própria que já é deste dia para todo sempre, forra, livre e isenta sem foro, sem tributo 
+algum, somente dízimo a Deus do que nela lavrar e houver e por que assim aprove, 
+lhe mandei passar a presente dada nesta vila de Olinda sob sinal e selo das armas do 
+senhor, meu tio, que ante mim serve, aos 6 dias do mês de abril, Gabriel Damil, 
+escrivão das datas de terras de sesmarias, águas e demarcações de toda esta capitania 
+pelo senhor governador a fiz ano de 1592 anos, com os riscados que descem até este 
+lugar, sobredito o escrevi. - Pagou desta e notas nada.  
+- Fim da Transcrição - 
+ 
+ 
+Referência: Livro do Tombo de São Bento de Olinda, p. 223-223v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

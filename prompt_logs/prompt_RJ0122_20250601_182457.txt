@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0122
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Álvares da Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-07-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobejos de terra no rio Nhumirim",
+  "Ribeira": "Rio Nhumirim",
+  "Confrontantes": "Terras de João Botelho, de Domingos Fernandes e de Tomé Rodrigues",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que tinha mulher e filhos.",
+  "Observações das exigências": "Determinou-se ao suplicante que \"haja a posse e senhorio da dita terra, para sempre\", assim como exigiu-se que \"rompa e aproveite a dita terra,  e a frutifique da dada desta em três anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses, tenha feito na dita terra algum proveito, e plantado alguns mantimentos, cumpridos os ditos três anos que a tenha aproveitado como dito é, porque não assim fazendo ele assim passado os ditos três anos, se dará a dita terra que aproveitada não tiver de sesmaria a quem a vós pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver, sobretudo, pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenados e necessárias para o Conselho, para fontes, pontes, vieiras e pedreiras que necessárias forem, a qual terra pela dita maneira lhe deu assim forra e isenta, sem foro nem tributo, somente de tudo que lhe nosso Senhor der nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme o dito Regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0122"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0122
+Carta de pedido de concessão de sesmaria de Francisco Alvares da Fonseca de 15 de julho de
+1603
+Forra
+[F.56] Saibam quantos este instrumento de carta de sesmaria virem, que no ano do nascimento
+do nosso senhor Jesus Cristo 1603, aos 15 dias do mês de julho do dito ano, nesta cidade de
+São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante nomeado,
+apareceu Francisco Alvares da Fonseca, morador nesta dita cidade, e me apresentou uma
+petição com despacho nela do senhor Martim de Sá, capitão e governador nesta dita cidade,
+capitania e governança, deste dito Rio de Janeiro por El-Rei Nosso Senhor. Da qual petição o
+despacho dela o translado é o seguinte: Francisco Alvares da Fonseca, morador nesta cidade,
+que ele há 23 anos que reside nesta dita cidade com a mulher e filhos, a ele foram dados
+sobejos de terra no Rio Numirim, ora pela medição que se fez a João Botelho se achou não as
+haver porque presume que no dito rio entre a terra que foi dada a Domingos Fernandes e a
+terra de Tomé Rodrigues pode haver alguma terra por dar, pede a Vossa Senhoria que havendo
+respeito aos muitos filhos que têm, lhe dê de sesmarias as terras que houver entre as ditas
+dadas, não sendo já dadas a outra e sendo dada a outrem e sendo dada corra adiante. E
+receberá mercê. Despacho do senhor capitão e governador: dou ao suplicante a terra que
+houver entre uma dada e outra, como pede em sua petição, pede assim como nela diz. Rio de
+Janeiro, 14 de julho de 1603. Martim de Sá. E tudo visto pelo dito senhor capitão e
+governador, a petição do dito suplicante Francisco Alvares da Fonseca, e havendo respeito ao
+proveito que se pode seguir acerca da República e ao serviço de Deus e Del Rei nosso senhor,
+e para a terra povoar, deu ao suplicante a terra que pede em sua petição e conforme ao seu dito
+despacho, porquanto dizia que estava vago e devoluto e por aproveitar, para o dito suplicante
+Francisco Alvares aproveitar e fazer suas roças e benfeitorias como diz não sendo já dadas a
+outra pessoa ou pessoas, primeiro. A qual terra diz que está no dito lugar, que parte pelas ditas
+confrontações como em sua petição diz a qual terra lhe deu e concedeu pela maneira adiante
+declarada, segundo a forma do Regimento de El-Rei Nosso Senhor de que o translado é o
+seguinte: as terras que estiverem dentro do termo e limites da cidade de São Sebastião que são
+6 léguas para cada parte que não foram dadas as pessoas que aproveitem, e posto que o
+fossem, se as pessoas para quem se deram as não aproveitarem no tempo que são obrigadas,
+por esta via ou por qualquer outra estiverem vagas, as poderei dar de sesmarias a quem a vós
+pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua
+possibilidade virdes, ou vos parecer que podem granjear e aproveitar, as quais terras assim as
+dareis livremente sem outro algum foro, somente o dízimo a Ordem do mestrado do nosso
+senhor Jesus Cristo, com as condições e obrigações do foral dado as ditas terras de minha
+Ordenação do Livro 4º, título das sesmarias, com a condição que a tal pessoa ou pessoas que
+residam na povoação da dita capitania ou das terras que lhe assim foram dadas ao menos três
+anos, que dentro do dito tempo as não possam vender, nem enlear, e se algumas pessoas a que
+forem dadas terras no termo da dita cidade e as tiverem perdidas porque não as aproveitaram,
+e a vós tornarem a pedir, vós as podereis de novo dar com as condições e obrigações contidas
+neste capítulo, o qual se a qual se transladara nas cartas, porque as assim derdes e isto se
+entenderá não sendo a dita as terras dadas a outras pessoas primeiro, com as quais condições,
+obrigações e declarações lhe assim deu o dito senhor capitão e governador a dita terra ao dito
+
+Francisco Alvares da Fonseca, suplicante, pela dita maneira e para sua guarda e segurança lhe
+mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio da dita terra, para
+sempre, para ele e todos os seus herdeiros, sucessores, ascendentes e descendentes que após
+dele vierem, com a tal condição e entendimento que ele rompa e aproveite a dita terra, e a
+frutifique da dada desta em três anos primeiros seguintes, outrossim, fará de maneira que
+dentro de quatro meses, tenha feito na dita terra algum proveito, e plantado alguns
+mantimentos, cumpridos os ditos três anos que a tenha aproveitado como dito é, porque não
+assim fazendo ele assim passado os ditos três anos, se dará a dita terra que aproveitada não
+tiver de sesmaria a quem a vós pedir para aproveitar, e lhe será deixado alguns logradouros do
+que aproveitado não tiver, sobretudo, pagará r$ 1000 para as obras do Conselho e dará pela
+dita terra, caminhos e serventias ordenados e necessárias para o Conselho, para fontes, pontes,
+vieiras e pedreiras que necessárias forem, a qual terra pela dita maneira lhe deu assim forra e
+isenta, sem foro nem tributo, somente de tudo que lhe nosso Senhor der nela de suas
+novidades, lavouras e criações, pagará os dízimos a Deus conforme o dito Regimento, o que
+tudo manda que se cumpra e guarde sem dúvida nem embargo algum, que lhe a ele seja posto
+e que esta carta seja registrada dentro de um ano nos livros da Fazenda Real, como dito
+senhor em seu Regimento manda, sobre as penas nele contidas e declaradas, e porque o
+sobredito Francisco Alvares da Fonseca, suplicante, que tudo prometeu de ter, manter e
+cumprir pela dita maneira lhe mandou passar esta carta de sesmaria, e por verdade, eu Pero da
+Costa, escrivão das sesmarias e tabelião das notas por El-Rei nosso senhor, desta cidade de
+São Sebastião e em seus termos, que este instrumento de carta de sesmaria escrevi e tomei nos
+meus livros das notas e tombo das cartas de sesmaria, desta cidade, onde o dito instrumento
+fica assinado pelo dito senhor, capitão e governador. Com a entrelinha que diz “ou vos
+parecer”, diz a entrelinha “para sempre”. //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria das terras de Francisco Alvares da Fonseca, escrivão da
+Ouvidoria nesta cidade, que estão em Nhumirim.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+162-164; Documento Original : Fl.56.
+Original no livro
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0057
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Oliveira de Vasconcelos, Fernando de Oliveira, Gregório de Oliveira de Vasconcelos, João de Oliveira (BA1), José de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-08-1678",
+  "Observações da sesmaria": "A sesmaria possuía 1000 braças de largura e 3000 braças de comprimento e estava localizada no Jaguaripe, fazendo fronteira com as terras de Antônio Rodrigues Pinheiro e João Nunes de Oliveira e com as terras de Ursula da Fonseca.",
+  "Localidade": "Jaguaripe",
+  "Confrontantes": "Antônio Rodrigues Pinheiro; João Nunes de Oliveira;  Ursula da Fonseca",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; Tinha cabedal; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda afirmou que poderiam ser concedidas até mais braças de terra, sendo 1500 braças de largura e uma légua e meia de comprimento. O governador concedeu as medidas solicitantes pelos suplicantes.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0057"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+  
+Registro de uma carta de sesmaria, que se deu a Antonio de Oliveira de Vasconcelos e 
+aos seus filhos o licenciado Gregorio de Oliveira de Vasconcelos,  Fernando de Oliveira, João 
+de Oliveira, José de Oliveira de 1000 braças de terra  de largo e uma légua de comprido. 
+ 
+ 
+Roque da Costa Barreto do conselho de Sua Alteza, etc. Faço saber aos que este alvará 
+de doação e sesmaria virem que Antônio de Oliveira de Vasconcelos natural e morador nesta 
+cidade, e seus filhos o licenciado Gregório de Oliveira de Vasconcelos, Fernando de Oliveira, 
+João de Oliveira, José de Oliveira, me representaram por sua petição cujo teor é o seguinte: 
+Antonio de Oliveira de Vasconcelos, natural e morador nesta cidade, e seus filhos o licenciado 
+Gregorio de Oliveira de Vasconcelos, Fernando de Oliveira, João de Oliveira, e José de 
+Oliveira, que ele tem uma sorte de terra de 500 braças em Jaguaripe na estiva que houve por 
+título de compra da data, que foi de Andre Ferreira Pinheiro, que parte com terras de Antonio 
+Rodrigues Pinheiro, e João Nunes de Oliveira, e com Ursula da Fonseca, e com os mais 
+confrontadores em redondo, porque cheias as ditas datas tem por notícia que haja alguns 
+sobejos,  e eles suplicantes tem posses para as povoar, e cultivar, e fazer frutos de que cresça a 
+renda real, e eles suplicantes pagam fintas, e pedidas no que tem feito serviço a Sua Alteza. 
+Pedem a Vossa Senhoria lhes faça mercê dar de sesmaria em nome de Sua Alteza, e por devoluta 
+a terra dos ditos sobejos que poderão ser 1000 braças de largo e uma légua de comprido, 
+correndo os mesmos rumos das datas, e não prejudicando a elas para ele e ditos seus filhos em 
+igual parte. E receberá mercê. E visto o parecer do provedor da Fazenda Real, que é o seguinte. 
+Não tenho dúvida a que se dê aos suplicantes as sobras que pedem tendo de largo 1000 braças 
+e uma légua de comprido com as cláusulas ordinárias, dízimo a Ordem de Cristo, sem prejuízo 
+de terceiro, cultura no termo do regimento, demarcação, citados os hereos ao tempo da posse. 
+Bahia, 13 de agosto de 1678 // Freitas // E a informação do provedor-mor de sua Real Fazenda, 
+que é a que se segue. Senhor, parece-me que se deve deferir aos suplicando concedendo-se lhes 
+a terra dos sobejos que pedem com as condições do regimento, sem prejuízo de terceiro, ainda 
+que sejam 1500 braças de largo, e légua e meia de comprido visto serem 4 filhos, além de seu 
+pai Antonio de Oliveira. Vossa Senhoria mandará o que for servido. Bahia, de agosto 13 de 
+1678 // Antônio Lopes de Ulhôa // Hei por bem de conceder e dar aos suplicantes de sesmaria 
+como pelo presente faço em nome de Sua Alteza as sobras que pedem tendo de largo 1000 
+braças, e uma légua de terra de comprido na parte que pedem, confrontam em sua petição, como 
+parece ao procurador da Fazenda Real, não prejudicando a terceiro com todas suas águas, 
+campos, matas, testadas, logradouros, e mais úteis que nelas se acharem, tudo forro, livre e 
+isento de pensão, ou tributo algum salvo dízimo a Deus que pagarão dos frutos que nelas houver 
+e por elas serão obrigados a dar caminhos livres ao concelho para fontes, pontes e pedreiras e a 
+cultivá-las no termo da lei e regimento, demarcando-se, citados os hereos ao tempo da posse. 
+Pelo que ordeno a todos os ministros de justiça a que o conhecimento deste com direito deva, 
+ou possa pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada e debaixo 
+das cláusulas acima referidas e as mais da ordenação título das sesmarias. Para firmeza do que 
+lhes mandei passar a presente sob meu sinal, e selo de minhas armas o qual se registrará nos 
+livros da secretaria do Estado, e nos mais a que tocar, e se guardará, e cumprirá tão pontual, e 
+inteiramente como nele se contém, sem dúvida, embargo nem contradição alguma. Antônio 
+Garcia a fez nesta cidade do Salvador, Bahia de Todos os Santos nos 17 dias do mês de agosto, 
+ano de 1678. Bernardo Vieira Ravasco o fez escrever. Roque da Costa Barreto. Registradas no 
+livro segundo dos registros da secretaria do Estado do Brasil a que toca a folhas 52. Bahia, de 
+agosto 17 de 1678 // Ravasco // Despacho do provedor-mor // Registre-se nos livros da fazenda 
+a que toca. Bahia e agosto 19 de 1678 // De Ulhoa // Pantaleão Freire Porto o fez em dito dia, 
+mês e ano // João Dias da Costa // 
+
+Fim da transcrição. 
+ 
+ 
+Referências: 
+BA - AN, Códice 427, fls 131 - 132v 
+Numeração original no livro: 102 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

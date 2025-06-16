@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0204
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio da Costa Freire",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-03-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem chamada Tinguá",
+  "Confrontantes": "Terras dos heréus de Macacu, ilhargas das terras do capitão Antônio Coelho de Brito e dona Ascensão",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0204"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0204
+Carta de concessão de sesmaria de Antônio da Costa Freire de 22 de março de 1728
+Luís Vaía Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do Rio de
+Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por sua
+petição Antônio da Costa Freire, morador em Tapacurá, que na paragem chamada Tanguá estão
+várias terras devolutas e ele se acha com escravos para as poder cultivar, pedindo-me lhe
+mandasse dar de sesmaria uma légua das ditas terras em quadra com as suas (ilegível) e
+logradouros fazendo testada pelo sertão das datas do hereos de Macacu e (ilegível) pelas ilhargas
+do capitão Antônio Coelho de Brito e dona Ascenção. Dando-se vista deste requerimento ao
+provedor da Fazenda Real e ao Procurador da Coroa, aos quais se não (ilegível). Hei por bem
+fazer mercê ao dito Antônio da Costa Freire de lhe dar de sesmaria, em nome de Sua Majestade,
+que Deus Guarde, as referidas terras, não excedendo porém uma légua em quadra na forma das
+ordens do mesmo Senhor, e sem prejuízo de terceiro ou do direito que algumas pessoas possam
+ter a elas, com declaração que as cultivará e mandará confirmar esta (ilegível). Pelo que mando
+ao ministro ou oficial de justiça a que o conhecimento desta pertencer, dê posse ao dito Antônio
+da Costa Freire das referidas terras na forma e maneira acima (ilegível). E por firmeza de tudo lhe
+mandei passar a presente por mim assinada e selada com o signete de minhas armas, que se
+cumprirá inteiramente como nela se contém (ilegível). Dada nesta cidade de São Sebastião do Rio
+de Janeiro, aos 22 dias de março de 1728. O secretário, José Ferreira da Fonte, a fez escrever//
+//Luís Vaía Monteiro//
+Carta de sesmaria porque Vossa Senhoria há por bem fazer mercê a Antônio da Costa Freire de
+lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, uma légua de terras em
+quadra na forma e maneira acima declara. Para Vossa Excelência ver.
+-Fim da Transcrição-
+
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Antonio da Costa Freire uma legoa de terras, em quadra, na paragem de Tamgoá. Rio de Janeiro,
+22 de março de 1728.
+No DOCs a palavra hereo aparece como um erro ortográfico, contudo, localizei no Dicionário
+Bluteau o seguinte significado: “HEREO , f.m. na Ord.Manuel L.1 .T.49. § 30. parece fignificar o
+Senhor, ou proprietário, do latim herus. § O que paga ao Emphyteuta os redditos da parte do
+chão, ou campo, que tomou à sua conta para beneficiar.”
+Conforme o trabalho de Mauricio de Almeida Abreu intitulado Um quebra cabeça (quase)
+resolvido: os engenhos da capitania do Rio de Janeiro, séculos XVI e XVII (2006), foi possível
+descobrir que “Tapacurá/Cacerebu, área que compreende, grosso modo, as terras servidas pelos
+tributários da margem esquerda do baixo Macacu, excluído o vale do Guaxindiba, estendendo-se
+por grande dos atuais municípios de Itaboraí e Tanguá”
+Esta carta de concessão está disponível no AHU anexada à Petição n° 5792 e à Portaria n° 5794.
+Nome original: Antonio da Costa Freyre.
+O documento se encontra bastante apagado.
+Referência
+AHU_ACL_CU_017-1, Cx. 25\Doc. 5793
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,151 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0106
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel de Salinos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "28-06-1602",
+  "Data da concessão": "28-06-1602",
+  "Observações da sesmaria": "A solicitação dos sobejos de terra, do qual o suplicante pretendia obter a concessão de título, iniciou-se no tempo de Salvador Correia de Sá. Embora tenha servido ao lado do governador em tempos passados, como é enfatizado na própria petição, a carta não informa as razões pelas quais Correia de Sá não lhe concedeu mercê.",
+  "Localidade": "Sobejos de terra que houver entre as de Diogo de Braga, da banda dalém e entre as que Duarte Martins possui",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; Serviu a Sua Majestade; Participou das guerras de conquista; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Apresentou também como justificativa o fato de ter servido nas guerras ao lado do próprio Salvador Correia de Sá, ex-governador da Capitania, o que talvez tenha dado um tom mais pessoal para a sua concessão.",
+  "Observações do deferimento e da concessão": "A carta não especifica a respeito das medidas de largura e comprimento da terra requerida, mas informa que a mesma foi concedida nos conformes do solicitado.",
+  "Observações das exigências": "Citou-se um trecho das Ordenações Manuelinas, o qual diz que \"As terras que estiverem dentro do termo e limite da dita cidade de São Sebastião, que são 6 léguas para cada parte que não forem já dadas as pessoas que as aproveitem ou, posto que o fossem, se pôr as pessoas a que se deram as não aproveitarem no tempo que eram obrigadas, por esta via ou qualquer outra estiverem vagas, as podereis dar de sesmaria a quem a vós pedir, e tereis lembrança que não derdes a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear, as quais terras dareis livremente e sem outro algum foro, somente os dízimos a ordem do Mestrado de Nosso Senhor Jesus Cristo, com as condições e obrigações do foral dado as ditas terras de minha ordenação do Livro 4º, título das sesmarias, com a condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras que lhe assim foram dadas ao menos três anos, e que dentro do dito tempo as não possam vender, nem enlear, e se algumas pessoas a que foram dadas terras no termo da cidade, estiverem perdidas por não as aproveitarem e a vós tornarem a pedir, as podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas, porque as assim derdes e isto se entenderá não sendo as ditas terras dadas à outras pessoas\". Determinou-se também que \"haja a posse e senhorio dos ditos sobejos de terra, para sempre\", assim como exigiu-se que \"rompa e aproveite a dita terra e sobejos que dito é e a frutifique da dada desta em três anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses tenha feito na dita terra e sobejos algum proveito, plantado alguns mantimentos e cumpridos os ditos três anos que a tenha aproveitado, como dito é, porque não fazendo lhe assim, passado os ditos três anos se dará a dita terra e sobejos  que aproveitados não tiverem de sesmaria  a quem nos pedir para aproveitar, lhe será deixado alguns logradouros do que aproveitado não tiver, e sobretudo pagará r$ 1000 para as obras do Conselho, e dará pela dita terra, caminhos e serventias ordenadas e necessárias para o Conselho e para as fontes, pontes, vieiras e pedreiras que necessários forem, os quais sobejos de terra lhe assim deu e concedeu em nome de Del Rei nosso Senhor, forra e isenta, sem foro nem tributo algum, somente de tudo que nosso Senhor der na dita terra de suas novidades, lavouras e criações pagará os dízimos a Deus, conforme o dito regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0106"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0106
+Carta de concessão de sesmaria de Manuel de Salinos de 29 de julho de 1602
+Saibam, quantos este instrumento de carta de sesmaria, virem que no ano do nascimento do
+nosso Senhor Jesus Cristo de 1602 anos. Aos 29 dias do mês de julho do dito ano, nessa
+cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante
+nomeado, apareceu Manuel de Salinos, morador nesta cidade, e me apresentou uma petição
+com despacho nela do Senhor Martim de Sá, capitão e governador desta dita cidade, capitania
+e governança, deste dito Rio de Janeiro por El Rei nosso Senhor. Da qual petição o despacho
+dela o traslado é o seguinte: Miguel de Salinos, morador na cidade, que é casado com Maria
+Delgada, filha que foi de João Delgado, irmão de Diogo de Braga e os mais que todos foram
+enquanto viveram leais cavaleiros e servidores de El Rei nosso Senhor, em seu serviço na
+conquista desta cidade e suas terras gastaram toda sua fazenda, seu sangue e vidas como é
+notório, em campanha dos senhores ilustres sobre os capitães e governadores que foram desta
+dita conquista predecessores de Vossa Senhoria, principalmente em companhia do senhor
+Salvador Correia de Sá, pai Vossa Senhoria, e ele suplicante com sua pessoa sempre serviu na
+forma do foral e não tem terras donde lavorar, pelo qual respeito este pobre avexado, pede a
+Vossa Senhoria que havendo respeito as justas razões que ele deu, lhe faça mercê de dar de
+sesmaria todos os sobejos que houver entre as terras de Diogo de Braga, da banda dalém e
+entre as que Duarte Martins possui, depois dos ditos heréus, conforme as suas cartas pedem,
+visto ele suplicante está no dito lugar dos ditos sobejos que pede há muitos anos da mão do
+senhor Salvador Correia de Sá, como é notório. E receber a justiça e mercê. Despacho do
+Senhor capitão e governador: dou ao suplicante os sobejos que pede depois das partes que em
+sua petição nomeia se encherem por suas cartas de sesmaria, como em sua petição me pede,
+visto serem todos os parentes de sua mulher povoadores desta cidade, pelo que mando se lhe
+passe a dita carta de sesmaria. Rio de Janeiro, hoje aos 28 dias de junho de 1602. //Martim de
+Sá// E tudo visto pelo tudo visto pelo dito Senhor e capitão e governador a petição do dito
+suplicante Manuel Salinos, e o que ele lhe pedia visto ser justo e havendo respeito ao proveito
+que se pode seguir acerca da República e ao serviço de Deus e Del Rei nosso Senhor, para a
+terra se povoar lhe deu os sobejos de terra que pede contidos em sua petição, conforme o dito
+despacho, por quanto dizia que estavam devolutos, e por aproveitar pelas razões contidas em
+sua petição, para os aproveitar e fazer suas roças, fazendas e benfeitorias como diz na dita
+terra e sobejos como diz, não sendo já dados os ditos sobejos de terra a outra da pessoa ou
+pessoas primeiro, os quais sobejos de terra diz que estão no dito lugar e parte pelas ditas
+confrontações como em sua petição diz, os quais sobejos de terra que é dito é lhe deu e
+concedeu pela maneira adiante declarada, segundo forma do regimento de Del Rei nosso
+Senhor de que o traslado é o seguinte: As terras que estiverem dentro do termo e limite da dita
+cidade de São Sebastião, que são 6 léguas para cada parte que não forem já dadas as pessoas
+que as aproveitem ou, posto que o fossem, se pôr as pessoas a que se deram as não
+aproveitarem no tempo que eram obrigadas, por esta via ou qualquer outra estiverem vagas, as
+podereis dar de sesmaria a quem a vós pedir, e tereis lembrança que não derdes a cada pessoa
+mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem
+granjear, as quais terras dareis livremente e sem outro algum foro, somente os dízimos a
+ordem do Mestrado de Nosso Senhor Jesus Cristo, com as condições e obrigações do foral
+dado as ditas terras de minha ordenação do Livro 4º, título das sesmarias, com a condição que
+
+a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras que lhe assim
+foram dadas ao menos três anos, e que dentro do dito tempo as não possam vender, nem
+enlear, e se algumas pessoas a que foram dadas terras no termo da cidade, estiverem perdidas
+por não as aproveitarem e a vós tornarem a pedir, as podereis de novo dar com as condições e
+obrigações contidas neste capítulo, o qual se trasladará nas cartas, porque as assim derdes e
+isto se entenderá não sendo as ditas terras dadas à outras pessoas. Com as quais condições,
+obrigações e declarações lhe assim deu o dito Senhor capitão e governador os ditos e sobejos
+de terra ao dito Manuel de Salinos, suplicante, pela sobredita maneira e para sua guarda e
+segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio dos
+ditos sobejos de terra, para sempre, para ele e todos os seus herdeiros, sucessores, ascendentes
+e descendentes que após dele vierem com tal condição e o entendimento que ele rompa e
+aproveite a dita terra e sobejos que dito é e a frutifique da dada desta em três anos primeiros
+seguintes, outrossim, fará de maneira que dentro de quatro meses tenha feito na dita terra e
+sobejos algum proveito, plantado alguns mantimentos e cumpridos os ditos três anos que a
+tenha aproveitado, como dito é, porque não fazendo lhe assim, passado os ditos três anos se
+dará a dita terra e sobejos que aproveitados não tiverem de sesmaria a quem nos pedir para
+aproveitar, lhe será deixado alguns logradouros do que aproveitado não tiver, e sobretudo
+pagará r$ 1000 para as obras do Conselho, e dará pela dita terra, caminhos e serventias
+ordenadas e necessárias para o Conselho e para as fontes, pontes, vieiras e pedreiras que
+necessários forem, os quais sobejos de terra lhe assim deu e concedeu em nome de Del Rei
+nosso Senhor, forra e isenta, sem foro nem tributo algum, somente de tudo que nosso Senhor
+der na dita terra de suas novidades, lavouras e criações pagará os dízimos a Deus, conforme o
+dito regimento. O que tudo manda que se cumpra e guarde sem dúvida nem embargo algum
+que ele seja posto. E que esta carta seja registrada dentro de um ano nos livros da Fazenda
+Real, como o dito Senhor em seu regimento manda, sob as penas nele contidas e declaradas,
+porque o sobredito Manuel de Salinos, suplicante, tudo prometeu de ter, manter e cumprir
+pela dita maneira lhe mandou o dito senhor capitão e governador, passar esta carta de
+sesmaria e por verdade eu, Pero da Costa, escrivão das sesmarias e tabelião das notas de El
+Rei nosso Senhor, nessa cidade de São Sebastião e em seus termos, que este instrumento de
+carta de sesmaria escrevi e tomei nos meus livros de notas e tombos das cartas das sesmarias,
+nesta dita cidade que em meu poder ficam, e estão onde o dito instrumento fica assinado pelo
+dito senhor capitão e governador. //Martim de Sá//
+-Fim da Transcrição -
+Observações:
+Título original: Carta de sesmarias dos sobejos de terra que pediu Manuel de Salinos.
+Heréus: herdeiros
+Referências: 
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.pg.121-124.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação
+Biblioteca Nacional, Vol. 2, dep. Nacional do livro, 1967. pg.118. Códice 778 e 779. Pg. F.1
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

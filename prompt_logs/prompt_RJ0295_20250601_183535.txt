@@ -1,0 +1,97 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0295
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "09-06-1734",
+  "Observações da sesmaria": "A carta de concessão encontra-se completamente ilegível, o que impossibilitou a identificação de dados referentes ao histórico da terra.",
+  "Localidade": "Sobejos de terra às margens do rio Maruguy",
+  "Ribeira": "Maruguy",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta encontra-se em estado completamente ilegível, o que impossibilitou a identificação das justificativas.",
+  "Observações do deferimento e da concessão": "A carta encontra-se em estado completamente ilegível, o que impossibilitou a identificação das instâncias pelas quais passou.",
+  "Observações das exigências": "A carta encontra-se em estado completamente ilegível, o que impossibilitou a identificação das exigências para a concessão da sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0295"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0295
+Carta de concessão de Manuel de Lima de 9 de junho de 1734
+(Ilegível)
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel de Lima uns sobejos de terra em uma das margens do Rio Maruguy. Rio de Janeiro. 9
+de junho de 1734.
+O documento encontra-se ilegível em sua totalidade. Encontramos também a petição de
+confirmação de Manuel de Lima código 9.347 e a portaria de confirmação do mencionado
+sesmeiro, código 9.349. A fim de fornecer mais informações da sesmaria e do sesmeiro,
+fornecemos abaixo respectivamente a transcrição da petição de confirmação e a portaria de
+confirmação.
+Petição de confirmação:
+“Diz Manuel de Lima que pela carta de data de sesmaria consta haver-lhe dado o governador
+da capitania do Rio de Janeiro, em nome de Vossa Majestade, 1 légua de terra em quadra, e
+porque necessitava de confirmação de Vossa Majestade.
+Para Vossa Majestade seja servido ordenar-lhe passe carta de confirmação, na forma do estilo.
+E faça mercê.
+Passa carta de sesmaria na forma forma do estilo. Lisboa, 23 de maio de 1732.”
+Portaria de confirmação:
+“A Manuel de Lima se há de passar carta de confirmação de sesmaria de uns sobejos de terra,
+não excedendo, porém, de 1 légua em quadra no rio de Marugui, na capitania do Rio de
+Janeiro, e para pagar o novo direito que deve se lhe passou este bilhete. Lisboa, 24 de janeiro
+de 1736.
+//Manuel Caetano Lopes de Sousa//
+A folha 36 do Livro 2º desta (não identificado) ditos ficam carregados deles, 400 réis. Lisboa
+Real, 25 de janeiro de 1736.
+//Luís de Sousa Miranda//”
+
+Referência:
+AHU_ACL_CU_017-1, Cx. 40\Doc. 9.348
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

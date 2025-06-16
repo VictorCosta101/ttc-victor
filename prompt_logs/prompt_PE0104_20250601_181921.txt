@@ -1,0 +1,150 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0104
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0161",
+  "Nome": "Antônio Pereira de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da petição": "10-11-1772",
+  "Data da concessão": "09-02-1773",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no sertão da Ribeira de Una, na freguesia de Santo Antônio dos Garanhuns. A sesmaria possuía como limite o sertão da Ribeira de Una na Freguesia de Santo Antonio de Garanhuns, da barra da Chata, correndo pelo rio Una abaixo até a cachoeira grande, partindo por uma banda com terras de Carlos de Azevedo, e da outra parte com terras de Francisco Soares Quintão no lugar chamado a Capivara.",
+  "Localidade": "Freguesia de Santo Antônio dos Garanhuns",
+  "Marcos Geográficos": "Cachoeira Grande, Rio Una, Barra da Chata",
+  "Ribeira": "do Una",
+  "Confrontantes": "Carlos de Azevedo, Francisco Soares Quintão",
+  "Justificativas": "Pretendia criar gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador Manuel da Cunha Meses requereu o parecer do ouvidor da capitania de Pernambuco, José Theotonio Sedron Zuzarte. O ouvidor foi favorável a concessão da sesmaria ao suplicante. ",
+  "Observações das exigências": "O governador Manuel da Cunha Menses determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0104"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0104
+Carta de doação e sesmaria de Antônio Pereira de Carvalho - 09/02/1773
+Antônio Pereira de Carvalho com três léguas de terra.
+Manoel da Cunha Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que
+esta carta de doação de sesmaria virem, que Antonio Pereira de Carvalho me fez um
+requerimento cujo teor é da maneira e forma seguinte = Ilustríssimo e Excelentíssimo
+Senhor = Diz Antonio Pereira de Carvalho, morador nesta Praça, que o capitão-mor
+Domingos Bezerra Cavalcante tirara uma sesmaria no sertão, ribeira de Una, na freguesia
+de Santo Antônio de Garanhuns, de três léguas de terra a qual pega, digo, a qual terra pega
+na barra da Chata, correndo por Una abaixo até a cachoeira grande, partindo por uma
+banda com terras de Carlos de Azevedo e da outra parte com terras de Francisco Soares
+Quintão, no lugar chamado a Capivara, de onde o dito capitão-mor teve fazenda de gado
+vacum e cavalar com currais e casas, pagando o foro da dita terra a Fazenda Real, e porque
+o dito capitão-mor lhe não fez mais conveniência possuir a dita terra dela de sítio e sua
+mulher, traspassando-a ao suplicante, quer situar e beneficiar as ditas terras com gado e
+mais criações, o que não pode fazer sem que se lhe passe sesmaria da dita terra
+confrontada, na forma que sempre a possuiu o dito capitão-mor; portanto, pede a Vossa
+Excelência lhe faça mercê conceder-lhe as ditas terras por sesmaria, da forma que declara
+nas confrontações, na forma do estilo = E receberá mercê — Sendo por mim visto o dito
+requerimento, com o papel de traspasso assinado pelo dito Domingos Bezerra Cavalcante
+e sua mulher, dona Bernardina da Assumpção Ferreira, e reconhecido competentemente,
+mandei por despacho de 10 de novembro do mesmo ano que informasse o doutor ouvidor
+geral que o satisfez, da forma seguinte = Ilustríssimo e Excelentíssimo Senhor = pela data
+de sesmaria que alcançou Domingos Bezerra Cavalcante e posse que dela tomou, adquiriu
+todo o domínio em a mesma para a possuir e desfrutar, se deve traspassar a quem quiser,
+com as condições da sua mesma data. E como pela sessão e trespasso que o suplicante
+junta, aprovado pela mulher do cedente, consta desistir o mesmo da dita sesmaria em
+benefício do suplicante, obrigando-se este a cumprir com as condições da mesma data.
+
+Tendo o suplicado cedente satisfeito o foro dos anos da sua posse, não se segue prejuízo
+alguma a Real Fazenda, Vossa Excelência determinará o que for servido. Recife, 4 de
+dezembro de 1772 — O ouvidor desta Câmara, José Theotonio Sedron Zuzarte -- Com
+esta informação, mandei por despacho de 7 do dito mês e ano, que tendo o suplicado
+satisfeito o foro da mencionada terra, como dizia o dito ouvidor na sua informação, seria o
+suplicante deferido em termos. Veio satisfeito este meu despacho com uma certidão do
+escrivão da Contadoria, passada em requerimento do dito suplicado Domingos Bczerra
+Cavalcante, a qual o seu teor é o seguinte = Bernardo Pereira do Vasconcelos. Escrivão da
+receita e despesa da Junta da Administração e Arrecadação da Real Fazenda, nesta
+capitania de Pernambuco --- Certifico que no livro primeiro de contas correntes dos
+devedores da Real Fazenda folha 75, consta estarem pagos os foros das três léguas de terra
+que se deram ao suplicante por sesmarias nos sertões da ribeira de Una, que pega da barra
+Chata por Una abaixo, até 30 de junho de 1771, e ao dito livro me reporto de onde passei a
+presente certidão, pelo despacho retro nesta Vila do Recife de Pernambuco, aos 17 dias do
+mês de dezembro de 1772 = Subscrevi e assinei — Ronaldo Pereira de Vasconcelos ---
+com esta certidão e novo requerimento do dito Antônio Pereira de Carvalho, em que diz
+faz com ele certo ter o suplicado pago o foro até 30 de junho de 1771, e do mesmo em
+diante não ter dúvida na satisfação dele a Real Fazenda e do que se for vencendo;
+ultimamente mandei por despacho de 7 de janeiro do corrente ano de 1773, que mostrando
+o suplicante ter pago o resto e dado fiança dos mais foros que se vencessem, se lhe
+passasse carta de sesmaria, e por que a folha do livro 4.º da receita dos foros ficam
+carregados ao tesoureiro dos miúdos, Manoel Antônio Duarte, doze mil réis de foro
+vencido até o último de junho de 1772 desta sesmaria, e a folha 63 do Livro 1.º de fiança,
+que serve na Contadoria só ter dado a fiança pelos foros que se forem vencendo; Hei por
+bem na conformidade do Capítulo 15 do Regimento deste Governo, dar como por esta
+carta dou em nome de Sua Majestade Fidelíssima ao dito Antonio Pereira de Carvalho, as
+três léguas de terra pedidas e confrontadas em seu requerimento, na mesma forma que
+foram concedidas e as possuía Domingos Bezerra Cavalcanti, satisfazendo por cada légua
+o mencionado foro que ele pagava, fitando a légua de permeio para logradouro dos éreos
+confinantes, como determina a Real Ordem de 20 de outubro de 1753, cuja terra possuirá e
+gozará ele suplicante, seus herdeiros ascendentes e descendentes, como sua que fica sendo
+
+de hoje para todo o sempre, com todos os seus pertences, matas, campos, águas, rios,
+fontes, pontes, testadas, logradouros e mais úteis que elas compreenderem, não
+prejudicando a terceiro, e não passará a religiões e pessoas eclesiásticas, salvo for com os
+mesmos encargos com que as possuem os seculares, sendo obrigado a dar ao Conselho
+caminho livre para pontes, fontes e pedreiras, e a requerer dentro em três anos
+confirmação real, medição e demarcação, povoá-la e cultivá-la tudo na forma da dita
+Ordem Régia de 20 de outubro do 1753, e não o cumprindo assim se dará por devoluta.
+Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram,
+façam cumprir e guardar esta carta de doação de sesmaria como nela se contém, fazendo
+dar ao Suplicante a posse real, efetiva e atual, na forma costumada, debaixo das cláusulas
+referidas e das mais da ordenação, títulos de sesmarias. Em firmeza do que lhe mandei
+passar a presente por mim assinada e selada com o sinete das minhas armas, que se
+registrará na Secretaria deste Governo e Contadoria da Real Fazenda. Dada no Recife de
+Pernambuco, aos 9 dias do mês de fevereiro. Francisco Gonçalves dos Reis Lisboa, oficial
+maior da Secretaria do Governo, a fez. Ano do Nascimento de Nosso Senhor Jesus Cristo
+de 1773 — O secretário do Governo, José Gonçalves da Fonseca, a fez escrever = Manoel
+da Cunha Meneses —.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+223 - 226.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

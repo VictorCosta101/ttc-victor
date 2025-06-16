@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0259
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Pedro Coelho Ribeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-07-1743",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras no Caminho Novo de Inhomirim para as Minas",
+  "Ribeira": "Inhomirim",
+  "Justificativas": "Era descobridor(a) das terras com risco de vida por causa dos índios; Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo nelas rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se ainda ao mesmo que, em sua terra concedida, reservasse os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0259"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0259
+Carta de concessão de Pedro Ribeiro Coelho de 4 de julho de 1743
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mor de batalha de seus
+exércitos, governador e capitão general das capitanias do Rio de Janeiro e Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Pedro Ribeiro Coelho, que da banda do poente da data de terras sitas no caminho
+novo que ia de Inhomerim para as Minas, que [ficou] do mestre de campo Bernardo Soares de
+Proença, havia pedido Antônio de Proença e Eusébio Dias há tempos passados 1 légua de
+terras [discorrendo] para o Caminho do Couto porque se vai para as mesmas [Minas] e porque
+indo depois de acabada a dita légua de terras proximamente pedido (ilegível) se achavam
+terras devolutas discorrendo para o mesmo Caminho do Couto, e se achava com escravos
+(ilegível) para a sua cultura de que não só é (ilegíveis) mas também a Sua Majestade a
+respeito dos dízimos (ilegível) de sesmaria 1 légua de (ilegível) o dito Caminho do Couto
+(ilegível) pedida pelos ditos Antônio [de Proença] (ilegível). Procurador da Coroa, a quem se
+não [ofereceu duvida. Hei por bem dar de sesmaria, em nome de] Sua Majestade, ao dito
+Pedro Ribeiro Coelho a dita légua de terra com as confrontações acima expressadas; sem
+prejuízo de terceiros ou do direito e posse que alguma pessoa tenha a elas; com declaração
+que a cultivará e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e
+não fazendo se lhe denegará mais tempo; antes de tomar posse delas, a fará medir e demarcar
+judicialmente, sendo para este efeito notificadas as pessoas com quem confrontar; será
+obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e
+descobrindo nelas rio caudaloso, que necessite de barca para se atravessar, ficará reservada de
+uma das margens dele a terra que baste para a serventia pública; nesta data não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o encargo de
+pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se
+poderão dar a quem as denunciar; como também sendo o mesmo Senhor servido mandar
+fundar no distrito dela alguma vila o poderá fazer ficando livres, sem encargo algum ou
+pensão para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de
+metal que nela se descobrir, reservando também os paus Reais; [e faltando a qualquer das
+ditas cláusulas, por serem] conforme as ordens de Sua Majestade e as que dispõem a Lei e
+Foral das Sesmarias, ficará privado desta. Pelo que mando do ministro ou oficial de justiça, a
+que conhecimento desta pertencer, dê posse do dito Pedro Ribeiro Coelho dos referidos
+sobejos de terras na forma acima declarada. E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá como nela
+
+se contém, se registrará nesta Secretaria do governo e nas mais partes a que tocar. Dada nesta
+cidade de São Sebastião do Rio de Janeiro. João de Sousa e Melo a fez (não identificado). O
+secretário do governo, Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Pedro Ribeiro Coelho 1 légua de terras nas confrontações expressadas como acima se declara.
+Para Vossa Excelência ver.
+Registrada no Livro 7 das Provisões deste governo a folha 188. Rio, 5 de julho de 1743.
+//Antônio da Rocha Machado//
+- Fim da Transcrição -
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Pedro Ribeiro Coelho uma légua de terras, situadas no caminho de Inhumerim para as Minas.
+Rio de Janeiro, 4 de julho de 1743.
+Referências:
+AHU_ACL_CU_017-01, Cx. 55, D. 12964
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,80 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0137
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Belchior Dias Porcalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "16-04-1574",
+  "Observações da sesmaria": "A sesmaria possuía meia légua em quadra e estava localizada ao longo do rio Jaguaripe. Essa sesmaria é um fragmento retirado do livro de Felisbello Freire, História territorial do Brasil, por isso não contém todas as informações de uma carta de doação completa.",
+  "Localidade": "Rio Jaguaripe",
+  "Marcos Geográficos": "Rio Jaguaripe",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelo procurador do donatário, P. Carneiro.\r\n",
+  "Observações das exigências": "Determinou-se iniciar a criação do gado em até seis meses.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0137"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Matias de Carvalho. Carta de junho de 1574. 2200 braças. Em Peroassú e terras de D. Alvaro, 
+nas terras devolutas e matos maninhos, 400 braças craveiras ao longo do mar e mil para o sertão, 
+começando as 400 braças do fim da dada de Luiza Alvares e encontrar o rio de Canapotimerim 
+para a barra do peruaçu e mais 200 braças de terra ao longo do mar de 600 para o sertão 
+começando as 200 braças no fim da dada de Diogo Fernandes. Dentro de ano e meio, povoar a 
+terra, pena de perdê-la e dar-se a outrem, independente de autoridade judiciária. Foi concedida 
+por P. Carneiro. 
+ 
+Referências: 
+FREIRE, Felisbello. História territorial do Brasil. Salvador: Secretaria da Cultura e Turismo, 
+Instituto Geográfico e Histórico da Bahia, 1998, p.18.  
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

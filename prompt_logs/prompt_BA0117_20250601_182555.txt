@@ -1,0 +1,149 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0117
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João da Costa Ribeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "01-06-1706",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada ao longo do rio Itapicuru, ao lado do curral da Gameleira, fazendo fronteira com as terras de Antônio Guedes de Paiva.",
+  "Localidade": "Rio Itapicuru",
+  "Marcos Geográficos": "Rio Itapicuru",
+  "Confrontantes": "Antônio Guedes de Paiva",
+  "Observações da petição": "A petição foi feita por João da Costa Ribeiro e mais outros quatro sesmeiros: o capitão Manuel Brito Casado, o alferes Antônio de Sousa Pereira,  o sargento-mor Francisco Machado Peçanha e o capitão-mor Pasqual Rodrigues de Brito.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; As terras eram devolutas; Tinha gado; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador foi de acordo com o pedido dos suplicantes, mas afirmou que deveria ser respeitada uma légua de terra para aldeia dos índios da região. O procurador afirmou que não deveriam ser concedidas mais do que três léguas de comprimento e uma de largura e também que era preciso averiguar se essas terras já não foram concedidas a outra pessoa. O governador concedeu três léguas de comprimento e uma de largura à João da Costa Ribeiro, não mencionando os demais suplicantes, pois como era frequente, em diversas ocasiões, quando tinha mais de um suplicante, as concessões das sesmarias ocorriam em registros diferentes, dando a  cada um uma doação individual.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Luiz da Costa Faria",
+  "Nome do procurador": "Pacheco ",
+  "referencia": "BA0117"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro do alvará porque se concedeu e deu de sesmaria em nome de Sua Majestade, que Deus 
+guarde, a João da Costa Ribeiro para ele e seus descendentes uma légua de terra de largura e 3 
+de comprimento na parte que as pede e confronta em sua petição. 
+Luiz César de Menezes, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que tendo respeito ao se me representar do teor seguinte: 
+Senhor, dizem o capitão Manuel Brito Casado, o alferes Antônio de Sousa Pereira, João da 
+Costa Ribeiro, o sargento-mor Francisco Machado Peçanha e o capitão-mor Pasqual Rodrigues 
+de Brito que eles tem quantidade de gados em terras alheias pelas não terem própria e 
+precisando de expropriarem delas seus donos, no que também resulta em prejuízo a Fazenda de 
+Sua Majestade, que Deus guarde, nos dízimos que me tocam. E veio a notícia dos suplicantes 
+que nas cabeceiras de uma sesmaria do coronel Antônio Guedes de Paiva, a beira do Itapicuru 
+grande por ele acima, estão sobejos de terra devoluta que nunca foram povoadas e nem 
+cultivadas, começando do curral que chamam da Gameleira, e se em algum tempo foi dada sua 
+terra, o que não se sabe, se não ocupou dentro do tempo da lei, com que fica inválida a doação 
+e sesmaria que dela se deu, e os suplicantes necessitam dela para acomodar seus gados. 
+Portanto, pedem a Vossa Senhoria [que] lhes faça mercê dar de sesmaria a dita terra, começando 
+do dito curral da Gameleira para cima do Itapicuru Grande, até topar com a terra povoada ou 
+sesmaria mais velha com águas vertendo do Itapicuru Grande e Itapicuru, onde está uma aldeia 
+de gentio Uory, que tem pouca comunicação com os brancos, para as ditas terras acomodarem 
+os suplicantes e criarem os seus gados. E receberão mercê. E visto o que sobe este regimento, 
+referindo o doutor procurador da Fazenda Real a que se deu vista que o é o que se segue: não 
+se me oferece dúvida que se dê de sesmaria aos suplicantes nas terras que pedem a porção junta 
+na formas das ordens de Sua Majestade e sem prejudicar a terceiro, excepitando, porém, a aldeia 
+de índios, e uma légua ao restar em 4 como o dito Senhor mandar dar em caso de uma madra 
+de 100 curais dos ditos índios. Bahia, 24 de março de 1706. // Pacheco // E a informação que 
+me fez o provedor-mor da mesma Fazenda Real que é a seguinte: Senhor, como os suplicantes 
+alegam que as terras que pedem estão por cultivar, se lhe deviam conceder de sesmaria ainda 
+que a outrem tivessem sido dadas, tendo passado 5 anos sem as povoar e cultivar. Parece-me 
+que Vossa Senhoria lhe conceda aos suplicantes a sesmaria que pedem, de maneira que fique 
+livre as aldeias de índios de que a petição fala com uma légua em quadra e demais que ficarem 
+de a cada um dos suplicantes terra que não exceda 3 léguas de comprimento e uma de largura 
+ou légua em quadra, na forma das ordenações de Sua Majestade, visto que tanta terra houver 
+neste sítio pedido, sem ser dado a outrem ou sem ser povoada ou cultivada na forma da lei. 
+Porém, com as condições de que não entrarão na posse desta terra sem primeiro fazerem citar 
+os éreos confinantes para ela, e se acaso tiver sido dada já a outo esta terram será também citado 
+para a dita posse que se não dará, havido quem a embargue sem ser ouvido, das quais diligências 
+referidas. Aliás, lhe não valerá tal posse, mesmo antes será a todo tempo injusta por ser tomado 
+contra em titulo repugnante. Vossa Senhoria ordenará o que for servido. Bahia, 26 de março de 
+1706 // Luiz da Costa Faria // Hei por bem de conceder e dar de sesmaria, em nome de Sua 
+Majestade, que Deus guarde, ao suplicante João da Costa Ribeiro, para ele e seus descendentes, 
+uma légua de terra de largura e 3 de comprimento na parte que a pede e confronta em sua petição 
+nesta inserta que principiará onde acabar a data do alferes Antônio de Souza Pereira, não 
+prejudicando a terceiro e com todas as cláusulas que os ministros da Fazenda Real acima 
+apontam em seus pareceres os quais tendo satisfeito os mais adiante declarados, terá e 
+aproveitará as ditas terras com todas as suas águas, matas, testadas, logradouros e mais úteis 
+que nelas se acharem com foro livre e isento de pensão salvo o dizimo a ordem de Cristo que 
+pagará pelos frutos que delas houver, e por elas serão obrigados a dar caminhos públicos e 
+particulares para fontes, pontes, portos e pedreiras com declaração que se havendo nas ditas 
+
+terras alguma aldeia de índios, digo, e pedreiras, com aproveitando-as na forma da lei, e não 
+poderá alhear nem passará a outro algum domínio sem as ter aproveitado com condição de se 
+darem logo neste caso a quem a outra pessoa, nem o poderá fazer sem expressa ordem de Sua 
+Majestade e com as mais cláusulas contidas na ordenação do Reino, título de sesmarias e forma 
+do capítulo 26 do regimento novo deste governo geral, com a dita declaração que havendo nas 
+ditas terras alguma aldeia de índios não ficará o dito João da Costa Ribeiro senhor dela e nem 
+das terras que ocuparem os tais índios como apontam os ministros da Fazenda Real, na forma 
+das novas ordens de Sua Majestade. Pelo o que mando aos ministros e oficiais de justiça, a que 
+o conhecimento pertencer, que tendo precedido diligências apontadas pelo provedor-mor da 
+Fazenda Real ao seu parecer, deem e lhe façam dar ao suplicante João da Costa Ribeiro a posse 
+real, efetiva e atual demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa 
+da Fazenda Real de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob 
+o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, e nas 
+mais a que tocar da Fazenda Real dele e nos do escrivão de sesmarias desta cidade a que tocar. 
+// Luiz da Costa Sepúlveda // o fez nesta cidade do Salvador, Bahia de Todos os Santos ao 1° 
+dia do mês de junho, ano de 1706 // Gonçalo Ravasco Cavalcante de Albuquerque // a fiz 
+escrever // Luís Gerardo de Menezes // Selo // Registrado a folha 185 do livro 5° dos registros 
+da secretaria do Estado do Brasil, a que toca. Bahia, 11 de junho de 1706 // Faria // Leonardo 
+Lopes de Carvalho a registrou em 1° de julho do dito ano. 
+ 
+- Fim da Transcrição - 
+   
+Observações: 
+-  Os nomes originais dos suplicantes no documento original constam como: “João da Costa 
+Ribeiro”; “Paschoal Roíz de Brito”; “Manoel de Brito Casado”; “Antonio de Souza Pereira” e 
+“Francisco Machado Peçanha”. 
+ 
+Referências: 
+AN, Códice, fls. 186 – 187v. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

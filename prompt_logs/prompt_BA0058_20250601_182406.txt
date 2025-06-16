@@ -1,0 +1,137 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0058
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Afonso Lopes, Antão Lopes de Sousa, Manuel Alvares Souto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-10-1678",
+  "Observações da sesmaria": "A sesmaria possuía seis léguas de comprimento e três de largura e estava localizada no rio Vaza-Barris, em frente do mocambo de Matheus da Viúva, fazendo fronteira com as terras de  Pedro Garcia.",
+  "Localidade": "Rio Vaza-Barris",
+  "Marcos Geográficos": "Rio Vaza-Barris",
+  "Confrontantes": "Pedro Garcia.",
+  "Observações da petição": "Os sesmeiros solicitaram 12 léguas em quadra para dividir entre eles.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Serviu a Sua Majestade; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O Procurador da Fazenda afirmou que as medidas solicitadas pelos suplicantes eram muito extensas e que eles não iriam conseguir povoar as terras, por isso deveriam ser concedidas apenas duas léguas quadradas para cada um. O provedor da Fazenda concordou com o parecer do procurador e o governador-geral também.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0058"
+}
+
+            **Conteúdo Original** (extrato):
+            Registro de um Alvará de doação e sesmaria de duas léguas de terra em comprimento e uma 
+em largura que se concedeu ao ajudante Afonso Lopes, Antão Lopes de Souza e Manoel Alvares 
+Souto 
+ 
+Roque da Costa Barreto do Conselho de Sua Alteza. Faço saber aos que este Alvará de doação 
+e sesmaria virem que o ajudante Afonso Lopes me representou por sua petição, cujo teor é o 
+seguinte. Senhor. O ajudante Afonso Lopes, morador na freguesia de Nossa Senhora do 
+Socorro, que ele, suplicante, serviu a Sua Alteza de soldado de infantaria na Praça de Castro 
+Mari, e nesta praça de alferes da ordenança na companhia do capitão Gaspar Pereira de 
+Magalhães, e agora de presente está servindo de ajudante no terço do coronel Sebastião de 
+Araújo, com todo o tempo que serviu, assim de alferes como de ajudante, sempre o fez a sua 
+custa assistindo com grande satisfação de seu ofício nas ocasiões que se ofereceram do serviço 
+de Sua Alteza, como consta dos papeis juntos, e porquanto ele, suplicante, tem notícia de uma 
+sorte de terra da outra banda do rio Vaza Barris em frente do mocambo de Matheus da Viúva, 
+parte de onde está situado um curral de Pedro Garcia que se dividiu com o dito rio, e as ditas 
+terras em nenhum tempo tiveram possuidor nem pessoa alguma a quem pertencessem, e ele, 
+suplicante, as quer cultivar para bem comum desta cidade e tributos de Sua Alteza. Pede a Vossa 
+Senhoria lhe faça mercê dar 12 léguas em quadra da dita terra com pastos, águas e matos que 
+nelas se achar, as quais 12 léguas da dita começarão defronte do curral de Pedro Garcia da outra 
+banda do dito rio Vaza Barris pelo dito rio acima, e do mesmo rio cortando para o sertão ao 
+mocambo do Barba, entrançada com cominação de que serão 6 léguas para ele, suplicante, e as 
+outras 6 para seu primo Antão Lopes de Souza e Manoel Alvares Souto. E receberá mercê. E 
+visto o parecer do procurador da Fazenda Real que é o seguinte. Segundo minha lembrança, 
+cuido que está pedida esta terra por outra petição em que se pediam nesta costa 10 léguas em 
+quadra, e é estranho ignorar-se que 10 léguas em quadra são 100 léguas, que ninguém deve 
+pedir porque ninguém pode cultivar, e agora vejo pedida 12 em quadra, que são 144 léguas 
+quadradas, que os suplicantes nem os sócios que culmina no fim da petição poderão cultivar, e 
+assim se deve dar a cada um duas léguas em comprimento e uma em largura, em caso que não 
+esteja dada esta, às condições costumadas e dízimos a Ordem de Cristo, sem prejuízo de 
+terceiro, cultura em tempo e demarcação na posse. Bahia, 14 de outubro de 1678 // Freitas // E 
+a informação do provedor-mor da dita Real Fazenda que é a que se segue. Senhor. Sou do 
+mesmo parecer que o procurador da Fazenda. Vossa Senhoria mandará o que for servido. Bahia, 
+15 de outubro de 1678 // Antônio Lopes de Ulhôa // Hei por bem de conceder e dar de sesmaria, 
+em nome de Sua Alteza, a cada um dos suplicantes, duas léguas de terra de comprimento e uma 
+de largura na parte que pedem e confrontam em sua petição, como parece ao provedor-mor da 
+Fazenda e procurador dela, não prejudicando a terceiro, com todas suas águas, campos, matos, 
+testadas, logradouros e mais úteis que nelas se acharem, tudo forro, livre e isento de pensão ou 
+tributo algum, salvo dízimo a Deus que pagarão dos frutos que nelas houver, e por elas serão 
+obrigados a dar caminhos livres ao conselho para fontes, pontes e pedreiras, e cultivá-las no 
+termo da lei e regimento, demarcando-se, citados os héreus no tempo da posse. Pelo que ordeno 
+a todos os ministros de justiça a que o conhecimento deste com direito deva ou possa pertencer, 
+lhe façam dar a posse real, efetiva e atual, debaixo das cláusulas acima referidas, e as mais da 
+Ordenação, título Das Sesmarias. Para firmeza do que lhes mandei passar o presente, sob meu 
+sinal e selo de minhas armas, o qual se registrará nos Livros da Secretaria do Estado, e nos mais 
+a que tocar e se guardará e cumprirá tão pontual e inteiramente como nela se contém, sem 
+dúvida, embargo nem contradição alguma. Antônio Garcia o fez nesta Cidade do Salvador, 
+Bahia de Todos os Santos, aos 19 dias do mês de outubro, ano de 1678. Bernardo Vieira 
+Ravasco o fiz escrever // Roque da Costa Barreto // Alvará de doação e sesmaria que Vossa 
+Senhoria teve por bem conceder ao ajudante Afonso Lopes, Antão Lopes de Souza e Manoel 
+Alvares Souto de duas léguas de terra em comprimento e uma em largura na parte que pedem 
+
+e confrontam em sua petição, não prejudicando a terceiro, na forma e pelos respeitos acima 
+declarados para Vossa Senhoria ver. Registrada no Livro Segundo dos Registros da Secretaria 
+deste Estado do Brasil, a que toca à folhas 55. Bahia, 19 de outubro de 1678 // Ravasco // 
+Despacho do provedor-mor. Registre-se nos Livros da Fazenda a que toca. Bahia, 25 de outubro 
+de 1678 // de Ulhoa // Registrou-se em 25 de outubro do dito ano acima // João Dias da Costa. 
+ 
+- Fim da transcrição - 
+ 
+Observações do documento: 
+ 
+- O nome original dos sesmeiros é Afonço Lopes, Antão Lopes de Souza e Manoel Alvares 
+Soutto; 
+- Tal carta não está contida na SILB; 
+ 
+Referências: 
+ 
+AN, Códice 427, fl 135v – 137 
+Numeração original no livro: 105 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

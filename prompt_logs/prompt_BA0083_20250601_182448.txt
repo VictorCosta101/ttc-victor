@@ -1,0 +1,141 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0083
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Barros, João de Sousa Fragoso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "04-11-1684",
+  "Observações da sesmaria": "A sesmaria possuía três léguas em quadra e estava localizada no rio Paratigi, fazendo fronteira com as terras do ajudante Manuel Fernandes Teixeira e o licenciado Antônio Garcia (BA0013). ",
+  "Localidade": "Rio Paratigi",
+  "Marcos Geográficos": "Rio Paratigi",
+  "Confrontantes": "Manuel Fernandes Teixeira e Antônio Garcia",
+  "Observações da petição": "Os sesmeiros solicitaram três léguas, mas não definiram as medidas especificas do comprimento e da largura.",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das exigências": "Determinou-se mandarão certidão de como as tem povoado; determinou-se que não poderia alargar ou traspassar as terras concedidas",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Bezerra",
+  "referencia": "BA0083"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro da sesmaria dos capitães Antônio de Barros e João Coutinho, de 3 léguas de terra pelo 
+rio de Paratigi acima. 
+ 
+Dom Antônio Luís de Souza Telo e Menezes, marquês das minas. Faço saber aos que este alvará 
+de doação e Sesmaria virem, que havendo respeito ao que por parte os capitães Antônio de 
+Barros e João Coutinho, se me enviou a representar por sua petição cujo teor é o seguinte: 
+Senhor, dizem o capitão Antônio de Barros e o capitão João Coutinho, que eles suplicantes 
+servem a Sua Majestade, que Deus Guarde, a mais de 25 anos, com boa satisfação, sem nenhum 
+deles ter alcançado mercê alguma de seus serviços e ambos são casados com obrigações a que 
+devem acudir e não têm de sua outra coisa mais que os soldos, e porque sabem que pelo rio de 
+Paratigi acima está devoluta uma data de 3 léguas de terra, que parte com outra do ajudante 
+Manuel Fernandes Teixeira e o licenciado Antônio Garcia, a qual havia dado o senhor 
+governador Afonso Furtado de Sesmaria a Alexandre Pereira e Antônio da Maia, os quais 
+ambos faleceram sem povoarem a dita terra no termo da lei e além disso a nenhum dos ditos 
+ficaram herdeiros alguns, e porque os ditos capitães querem criar algumas cabeças de gado para 
+com elas se puderem ajudar, e não ter onde as situar, portanto pedem a Vossa Excelência lhe 
+faça mercê em nome de Sua Majestade, que Deus Guarde, dar de Sesmaria para ambos as ditas 
+3 léguas de terra na mesma forma e com as mesmas confrontações que se haviam dito aos ditos 
+Alexandre Pereira e Antônio da Maia, visto estarem devolutas e nunca nelas se povoar. E 
+receberão mercê. E vista a resposta do procurador da Fazenda Real, que é a seguinte: Não tenho 
+dúvida a que se deem de Sesmaria aos suplicantes as 3 léguas de terra que pedem, estando por 
+aproveitar e tendo passado o termo da lei, porque isso mesmo é o que ela dispõe e ordena. Bahia, 
+30 de outubro de 1684 // Bezerra // E a informação do provedor-mor da dita Real Fazenda, que 
+também é a que se segue: Senhor, conforme com o parecer do procurador da Fazenda e cláusulas 
+que aponta Vossa Excelência mandará o que for servido, digo, o que mais convir e for servido. 
+Bahia, 3 de novembro de 1684 // Francisco Lamberto // Hei por bem de conceder e dar de 
+Sesmaria aos suplicantes como pelo presente faço em nome de El Rei, meu Senhor, as ditas 3 
+léguas de terra para ambos estando por aproveitar e tendo passado o termo da lei como parece 
+aos ministros da Fazenda na mesma forma e com as mesmas confrontações que se haviam 
+concedido ao dito Alexandre Pereira e Antônio da Maia pelo governador e capitão geral que foi 
+deste dito Estado Afonso Furtado de Mendonça, e na parte em que as pedem e confrontam em 
+sua petição, não prejudicando a terceiro, com todas suas águas, campos, matos, testadas, 
+logradouros e mais úteis que nelas se acharem, tudo forro, livre e isento de pensão ou tributo 
+algum, salvo dízimos a Ordem de Cristo que pagarão dos frutos que nelas houverem e por elas 
+serão obrigados a dar caminhos públicos a todos e a particulares, para fontes, pontes, portos e 
+pedreiras, e de as cultivarem e aproveitarem no termo da lei e Regimento, com pena de se lhes 
+tirarem por devolutas, tomando posse cada um na parte que lhe couber, sem alargarem e 
+traspassarem logo a outro sócio sob mesma pena, mandarão certidão de como as tem povoado 
+dentro no dito termo, para se registrar nos livros da Fazenda Real e se demarcarão ao tempo da 
+posse, citados os éreos pelo que mando a todos os ministros de justiça a que o conhecimento 
+deste com direito deva, ou possa pertencer, lhes façam dar a posse real, efetiva e atual na forma 
+costumada, debaixo das cláusulas acima referidas e as mais da Ordenação, título das sesmarias. 
+Para firmeza do que lhes mandei passar o presente sob meu sinal e selo de minhas armas, o qual 
+se registrará nos livros da Secretaria deste Estado, Fazenda Real dele, e nos mais a que tocar, e 
+se guardará e cumprirá, tão pontual e inteiramente como nele se contém, sem dúvida, embargo, 
+nem contradição alguma // Antônio Garcia o fez nesta Cidade do Salvador, Bahia de Todos os 
+Santos aos 4 dias do mês de novembro, ano de 1684 // Bernardo Vieira Ravasco o fiz escrever 
+// Marquês das minas // Selo // Alvará de doação e Sesmaria de 3 léguas de terra que se 
+
+concederam a Alexandre Pereira e Antônio da Maia, que parte com outra do ajudante Manuel 
+Fernandes Teixeira e o licenciado Antônio Garcia pelo rio Paratigi acima, que Vossa Excelência 
+teve por bem conceder em nome de Sua Majestade aos capitães Antônio de Barros e João 
+Coutinho, estando por aproveitar e tendo passado o termo da lei, sem prejuízo de terceiro, como 
+parece aos ministros da Fazenda, com as mais cláusulas nele insertas pelos respeitos acima 
+declarados, para Vossa Excelência ver. Registrada no livro dos registros da Secretaria do Estado 
+do Brasil, a que toca a folhas 121, Bahia, 4 de novembro de 1684 // Ravasco // Registre-se. 
+Bahia, 15 de novembro de 1684 // Ravasco // Tomás Moreira a registrou em 16 do dito mês e 
+ano // Francisco Dias do Amaral // 
+ 
+ 
+- Fim da Transcrição - 
+ 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Antonio de Barros”; 
+“João Coutinho” 
+ 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 254 – 255v 
+Numeração original no livro: 179 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

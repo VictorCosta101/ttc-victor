@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0036
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Gomes Pereira, Manuel Soares Barreto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía três léguas em quadra e estava localizada no rio Paratigi, fazendo fronteira com as terras de Alexandre Pereira (BA0033), Antonio da Maia Gonçalves (BA0034) e José Cardoso Pereira (BA0035).",
+  "Localidade": "Rio Paratigi",
+  "Marcos Geográficos": "Rio Paratigi",
+  "Confrontantes": "Alexandre Pereira; Antonio da Maia Gonçalves; José Cardoso Pereira",
+  "Observações da petição": "Os suplicantes solicitaram seis léguas em quadra.",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "O suplicante alegou que disponibilizou um escravo para ajudar na companhia de Manuel Ferreira e que o escravo voltou muito machucado, morrendo logo em seguida e que isso o fez ter um prejuízo de  60 mil réis.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que não poderia conceder as seis léguas em quadra, pois isso ia contra o regimento e ordenação, por isso, afirmou que deveriam ser concedidas três léguas em quadra. O provedor da Fazenda afirmou que poderiam ser concedidas as três léguas em quadra, conforme sugerido pelo procurador, ou então cinco léguas de comprimento e duas de largura. O governador-geral decidiu conceder três léguas em quadra par os suplicantes.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0036"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria de 3 léguas de terra em quadra concedida a João Gomes Pereira e 
+Manoel Soares Barreto, a quem se passaram suas sesmarias, de um teor que apresentam e se 
+segue 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este Alvará de doação e 
+sesmaria virem que João Gomes Pereira e Manoel Soares Barreto me enviaram a representar 
+por sua petição cujo teor é o seguinte. Senhor. Dizem João Gomes Pereira, escrivão do 
+tesoureiro e casado com obrigação de filhos, e Manoel Soares Barreto, lavrador de canas e 
+morador em Cotegipe, que eles, suplicantes, têm servido à Sua Alteza, a saber João Gomes 
+Pereira na expedição da gente de São Paulo para a conquista em tudo que tocou o seu ofício 
+com muita diligência, assim mais acodindo para as ditas entradas do seu curral da cachoeira, 
+com farinha, negros, cavalos, em que foi [em branco] sem nunca faltar ao que lhe foi pedido e 
+ordenado, e assim mais na mesma forma Manoel Soares Barreto de um curral que tem no Aporã, 
+e assistiu com as fintas em que foi fintado na sua fazenda de canas de Cotegipe, de onde é 
+morador, em todas as entradas que se fizeram, principalmente na que se fez o ano passado, foi 
+João Gomes Pereira fintado em um negro que andou lá todo o tempo, que foi necessário em 
+companhia do ajudante Manoel Ferreira, e sendo o melhor negro que ele tinha, veio tão cheio 
+de frialdades de que poucos dias depois de vir, lhe morreu, em que perdeu 60 mil réis, e 
+porquanto tem por notícia que as terras conquistadas estão algumas devolutas, acabando a 
+sesmaria que Vossa Senhoria foi servido dar aos oficiais da Casa dos Contos, Alexandre Pereira, 
+Antonio da Maia Gonçalves e José Cardoso Pereira, correndo pelo rio de Paratigi acima da parte 
+do norte, ou oeste, e eles, suplicantes, as querem povoar [com] seus gados que têm na cachoeira 
+Aporã. Pedem a Vossa Senhoria lhes faça mercê, respeitando as razões referidas, dar de 
+sesmaria, em nome de Sua Alteza, 6 léguas de terra em quadra, reservando matos na parte 
+referida, sobre a data dos ditos oficiais da parte do norte ou oeste, de onde se achar, visto serem 
+das terras conquistadas. E receberá mercê. E visto a resposta do provedor da Fazenda Real, que 
+é a que se segue. [As] 6 léguas de terra em quadra que os suplicantes pedem, multiplicadas, são 
+36, conforme o regimento e Ordenação, se lhes não podem conceder tantas, e parece que 
+somente 3 léguas em quadra, que são 9 multiplicadas, se lhe devem dar, nem eles poderão 
+aproveitar mais no termo da lei, e farão muito em cultivarem as 3, que sem prejuízo de terceiro, 
+e obrigando-se a aproveitá-la como manda a Ordenação, se lhes devem dar. Bahia, 16 de 
+novembro de 1673 // Rocha // E informação do dito provedor-mor da dita Real Fazenda, que é 
+a seguinte. Senhor. Parece-me que bem se podem conceder aos suplicantes as léguas de terra 
+que diz o procurador da Fazenda, que são 3 em quadra, ou 5 em comprimento com duas de 
+largura, vem a ser mais uma, porque são pessoas que têm gado para poderem povoar, mas que 
+seja com as condições do regimento e foral, sem prejuízo de terceiro. Vossa Senhoria mandará 
+o que for servido. Bahia, 17 de novembro de 1673 // Antônio Lopes de Ulhôa // Hei por bem 
+de conceder e dar, como pelo presente faço, de sesmaria, em nome de Sua Alteza, 3 léguas de 
+terra em quadra para ambos os suplicantes, assim como parece ao procurador da Fazenda Real, 
+na parte que as pedem e confrontam em sua petição, não prejudicando a terceiro, nem as terras 
+que se determinou tivessem as povoações que de novo se fizessem para se darem a seus 
+povoadores, com todas suas águas, campos, matos, testadas, logradouros e mais úteis que nelas 
+se acharem, tudo forro, livre e isento de pensão ou tributo algum salvo dízimo a Deus que pagará 
+dos frutos que nelas houver, e por elas serão obrigados a dar caminhos livres ao conselho para 
+fontes, pontes e pedreiras. Pelo que ordeno e mando a todos os ministros de justiça a que o 
+conhecimento deste, com direito deva ou possa pertencer, lhe façam dar a posse real, efetiva e 
+atual na forma costumada debaixo das cláusulas acima referidas, e as mais da Ordenação, título 
+Das Sesmarias. Para firmeza do que lhes mandei passar o presente, sob meu sinal e selo de 
+
+minhas armas, o qual se registrará nos Livros da Secretaria do Estado e nos mais a que tocar, e 
+se guardará e cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, embargo 
+nem contradição alguma. Antônio Garcia o fez nesta Cidade do Salvador, Bahia de Todos os 
+Santos, aos 25 dias do mês de novembro, ano de 1673. Bernardo Vieira Ravasco o fiz escrever 
+// Afonso Furtado de Castro do Rio de Mendonça // Registrado no segundo Livro dos Registros 
+da Secretaria do Estado do Brasil, a que toca à folhas 05. Bahia, 25 de novembro de 1673 // 
+Ravasco // Cumpra-se e registre-se como Sua Alteza manda. Bahia, 05 de dezembro de 1673 // 
+de Ulhoa // Registrou-se em 06 do dito mês e ano, e a outra que se passou do dito Manoel Soares 
+Barreto é do mesmo teor, do mesmo tempo e data de todos os despachos, e somente no princípio 
+do Alvará se mudam os nomes, e tem primeiro o do suplicante Manoel Soares Barreto, e por 
+esta razão se não registrou aqui, mas levou certidão do registro como a outra registrada // Miguel 
+Pinto de Freitas // 
+ 
+- Fim da transcrição - 
+ 
+Observações do documento: 
+ 
+- O nome original dos sesmeiros citados é João Gomes Pereira e Manoel Soares Barreto; 
+- A carta não está contida na SILB; 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 58v – 59v. 
+Numeração original no livro: 54 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

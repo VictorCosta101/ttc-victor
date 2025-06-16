@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0253
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Martins da Mota",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-04-1741",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio Paraíba do Sul",
+  "Ribeira": "Suruí",
+  "Confrontantes": "Terras de João Gomes de Medina",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0253"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0253
+Carta de concessão de José Martins da Mota de 10 de abril de 1741
+Gomes Freire de Andrada, do conselho de Sua Majestade, governador e capitão-general da
+capitania do Rio de Janeiro com o governo das Minas Gerais.
+Faço saber aos que esta minha carta de sesmaria com salva virem que atendendo a
+representar-me por sua petição José Martins da Mota, que o governador que fora desta
+capitania, Luís Vaía Monteiro, lhe havia concedido, em nome de Sua Majestade, 1 légua de
+terras em quadra como constava da cópia que apresentou tirada dos Livros da Secretaria deste
+governo do teor seguinte:
+Luís Vaía Monteiro, do conselho de Sua Majestade, coronel de um regimento de infantaria
+paga, governador da capitania do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição José Martins da Mota, morador na vila de São Salvador dos Campos dos
+Goitacazes, que no rio Paraíba do Sul há muitas terras devolutas, pedindo-me lhe mandasse
+dar uma data para as cultivar, fazendo testada pelo dito rio acima, principiando onde acaba a
+data de João Gomes de Medina e com sertão para o rio Sorohi, e dando-se vista deste
+requerimento ao provedor da Fazenda Real e ao procurador da Coroa, as quais se não
+ofereceu dúvida. Hei por bem fazer mercê ao dito José Martins da Mota de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, as referidas terras, não excedendo,
+porém, 1 légua em quadra, na forma das Ordens do mesmo Senhor; sem prejuízo de terceiro
+ou do direito que algumas pessoas possam ter a elas; com declaração que as cultivará e
+mandará confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e
+não o fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a
+quem o conhecimento desta pertencer, dê posse ao dito José Martins da Mota as referidas
+terras na forma e maneira acima declarada. Por firmeza de tudo, lhe mandei passar a presente
+por mim assinada e selada com sinete de minhas armas, que se cumprirá inteiramente como
+nela se contém, se registrará no Livro da Secretaria deste governo e nos mais que tocar. Dada
+nesta cidade de São Sebastião do Rio de Janeiro. João Moreira da Silva a fez aos 12 dias do
+mês de maio de 1726. O secretário, José Ferreira da Fonte, a fez escrever. Luís Vaía Monteiro,
+representando-me, que porquanto mandando confirmar a dita carta se lhe havia perdido no
+correio da Corte, me pedia que lhe mandasse passar outra com salva. Sendo visto seu
+requerimento e o que sobre ele me determinou Sua Majestade por ordem de 19 de outubro de
+1739, expedida pelo seu Conselho Ultramarino. Hei por bem dar de sesmaria, em nome do
+dito Senhor, ao referido José Martins da Mota 1 légua de terras em quadra na capitania dos
+
+Campos, da mesma forma com as cláusulas que lhe foi concedida pela carta nesta
+incorporada. Pelo que mando ao ministro ou oficial de justiça a que o conhecimento dela
+tocar, cumpra e guarde ao dito José Martins da Mota o seu direito e justiça, posse e ação que
+nas referidas terras por estas lhe pertencer. E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com sinete de minhas armas que se cumprirá como nela se
+contém, registrando-se nos Livros a que tocar. Dada nesta cidade de São Sebastião do Rio de
+Janeiro aos 10 de abril de 1741. O secretário, Antônio da Rocha Machado, o fez escrever.
+//Gomes Freire de Andrade//
+Carta de sesmaria com salva a Vossa Excelência que há por bem mandar passar a José Martins
+da Mota 1 légua de terras nos Campo dos Goitacazes por se lhe haver perdido a que dela lhe
+passou o governador Luís Vaía Monteiro na forma das ordens de Sua Majestade e como nela
+se declara.
+Para Vossa Excelência ver.
+Registrada no Livro dos Registros desta Secretaria de folha 44 até folha 45. Rio de Janeiro, 20
+de julho de 1741. //Antônio da Rocha Machado//
+Registre-se na Ouvidoria. Rio, 21 de julho de 1741. //(não identificado)//
+Registre nos Livros da Fazenda Real. Rio, 20 de julho de 1741. //Mello//
+Registrada no Livro 1° do Tombo das Sesmarias que serve neste Cartório a folha 56. Rio de
+Janeiro, 21 de julho de 1741. //Francisco Xavier da Silva//
+Registrada no Livro 29 dos registros desta Provedoria a folha [746]. Rio, 20 de julho de 1741.
+//José Monteiro dos Reis//
+O doutor João Alvares Simões, do desembargo de Sua Majestade, seu ouvidor geral,
+corregedor da comarca nesta cidade do Rio de Janeiro e juiz das justificações, etc. Aos que a
+apresentação certidão de justificação virem, faço saber que assim me constou por fé do
+escrivão de meu cargo, que esta sobscreveu, ser a letra do sinal posto no fim da carta retro do
+ilustríssimo e excelentíssimo senhor Gomes Freire de Andrade, e os sinais postos atrás da dita
+ser dos sobreditos. O que tudo hei por justificado. Rio de Janeiro, 21 de julho de 1741 anos.
+Eu, Domingos Rodrigues Tavora, escrivão, sobscrevi.
+//(não identificado)//
+-Fim da Transcrição-
+Observações:
+
+Título AHU: Carta patente pela qual o governador do Rio de Janeiro, concedeu e deu de
+sesmaria a José Martins da Motta, uma légua de terras, em quadra, nos campos de
+Goytacazes. Rio de Janeiro, 10 de maio de 1726.
+Nome original do sesmeiro: Joseph Matins da Motta.
+Não foi possível identificar a localização do rio Sorohi.
+Referência:
+AHU_ACL_CU_017-1, Cx. 49\Doc. 11446
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

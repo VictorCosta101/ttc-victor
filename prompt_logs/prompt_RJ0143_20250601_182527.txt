@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0143
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Miguel Aires Maldonado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-09-1604",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobejo de terras entre os rios Guaxindiba (Goxandiva) e Macacu",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Ribeira": "Guaxindiba, Macacu",
+  "Confrontantes": "Terras dos reverendos padres da Companhia de Jesus, terras de Pero de La Cruz e Gastão Franco, Salvador de Paiva, terras da Ordem de São Bento e Manuel dos Rios",
+  "Justificativas": "Alegou não ter casa própria; Era morador(a) da Capitania; Não tinha terras; Pretendia fazer casa; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou ter mulher e filhos",
+  "Observações do deferimento e da concessão": "Em relação ao deferimento, foi feita a seguinte observação: \"Dou aos suplicantes os sobejos que pede até encher meia légua em quadra correndo até onde não foram dados e assim mais os chãos como em sua petição pede e, não sendo dados, a morador assistente na terra\".",
+  "Observações das exigências": "A parte referente às determinações do rei encontra-se incompleta.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0143"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0143
+Carta de pedido de concessão de sesmaria de Miguel Aires Maldonado de 23 de dezembro de
+1605
+Forra
+(Fl. 1170) Saibam, quantos este instrumento de carta de sesmaria virem que no ano do
+nascimento de Nosso Senhor Jesus Cristo de 1605 anos, em os 23 dias do mes de dezembro
+do dito ano nesta cidade de São Sebastião do Rio de Janeiro do Brasil, por João d'Anhaia,
+digo, Miguel Aires Maldonado, morador nesta dita cidade, me foi apresentado a mim escrivão
+adiante nomeado uma petição com um despacho em ela do Senhor capitão e governador deste
+dito Rio de Janeiro e governança por sua Majestade El Rei nosso Senhor, de que o traslado da
+petição e despacho é o seguinte: diz Miguel Aires Maldonado, morador nesta cidade, que
+haverá 3 anos que a ela veio morar com mulher e filhos, ajudando sempre nos rebates e
+negócios que se oferecem com sua pessoa e escravos, em presença de Vossa Senhoria sem lhe
+ser dado nela terras em que roce e chãos em que possa fazer casas para si e sua família, pelo
+que pede a Vossa Senhoria lhe faça mercê dar em nome de Sua Magestade sesmaria para ele e
+seus herdeiros deste dia para todo sempre o remanescente de todos os matos e sobejos de
+terras que se achar sobejar entre o Rio de Govandiva e o de Macacu entre as terras dos
+reverendos padres da companhia de Jesus e de Pero de la Cruz e Gastão Franco que ora é de
+Amador de Medeiros e os mais sobejos e águas que se acharem pelo Rio de Goxandiva de
+ambas as bandas com mais 100 braças de chão em quadra nesta cidade, partindo com os
+reverendos padres da Ordem de São Bento e com as cabeceiras de Salvador de Paiva e
+Manuel dos Rios e, sendo dados, que corra por diante onde os houver, o qual lhe fique dados
+por devoluto visto não fazerem sus donos benfeitorias neles. No que em tudo receberá mercê.
+Despacho do Senhor capitão e governador: -Dou aos suplicantes os sobejos que pede até
+encher meia légua em quadra correndo até onde não foram dados e assim mais os chãos como
+em sua petição pede e, não sendo dados, a morador assistente na terra. Passe-lhe carta. Rio de
+Janeiro, dia 4 de setembro de 1605. //Martim de Sá//. E tudo visto pelo dito Senhor capitão e
+governador a petição do dito suplicante Miguel Aires Maldonado e o que ele pedia, visto ser
+justo, havendo respeito ao proveito que se pode seguir acerca da República, serviço de Deus,
+d'El Rei nosso Senhor e por a terra se povoar, deu ao dito suplicante Miguel Aires Maldonado
+os sobejos de terra e chãos que ele pedia conforme o seu despacho, para os aproveitar, fazer
+neles casas, benfeitoria e lavouras, não sendo dadas a outra pessoa ou pessoas 1°. Os quais
+chãos e sobejos de terra diz que estão nos ditos lugares e partem pelas ditas confrontações
+como em sua petição diz, e a braças com que se medir, será braça craveira a saber duas varas
+de medir por uma, como no Reino se costuma de medir, o que tudo lhe deu e concedeu pela
+maneira adiante declarada, segundo forma do regimento d'El Rei nosso Senhor de que o
+traslado é o seguinte: as terras que estiverem dentro do termo e limites da dita cidade de São
+Sebastião, que são 6 léguas para cada (Faltam o resto)
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de Sesmaria de sobejos de terras e chãos de Miguel Aires Maldonado.
+
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+222-223; Documento Original : Fl.117.
+Original no livro
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

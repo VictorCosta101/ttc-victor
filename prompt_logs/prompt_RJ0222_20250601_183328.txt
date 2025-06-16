@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0222
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Viegas Lisboa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-11-1722",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio das Ostras",
+  "Marcos Geográficos": "Rio de São João",
+  "Ribeira": "Rio das Ostras",
+  "Justificativas": "Pretendia lavrar; Tinha escravos; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0222"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0222
+Carta de concessão de José Viegas Lisboa de 6 de novembro de 1722
+Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São Martinho
+de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da dita vila, gentil
+homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus guarde, governador
+e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que havendo respeito a representar-me por
+sua petição José Viegas Lisboa, morador nesta cidade, que acha-se sem terras para cultivar, tendo
+escravos para este efeito e haver no dito Rio das Ostras umas terras devolutas as quais partem do
+mesmo rio para o de São João, fazendo testada para a banda do mar com todos os cantos e
+recantos que faz a dita praia, e dando-se vista deste requerimento ao provedor da Fazenda Real e
+procurador da Coroa e não se lhes ofereceu dúvidas. Hei por bem fazer mercê ao dito José Viegas
+Lisboa de lhe dar de sesmaria, em nome de Sua Majestade, que Deus guarde, as referidas terras
+acima declaradas, sem prejuízo de terceiros ou do direito que algumas pessoas possam ter a elas,
+não excedendo porém uma légua em quadra na forma das ordens do mesmo Senhor, com
+declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade, que Deus
+guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo. Pelo que mando ao
+ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito José Viegas
+Lisboa das referidas terras. E por firmeza de tudo mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas que se cumprirá inteiramente como nela se contém. Se
+registrará nos Livros das Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de
+São Sebastião do Rio de Janeiro aos 6 dias do mês de novembro de 1722. João Paes de Parede a
+fez. O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha de Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a José Viegas Lisboa de lhe dar de
+sesmaria, em nome de Sua Majestade, que Deus guarde, (ilegível) de terras no sítio acima
+declarado.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha 134.
+Rio, a 6 de novembro de 1722. //José Ferreira da Fonte//
+Cumpra-se e registre-se nos Livros da Fazenda Real. Rio, 15 de novembro de 1722. //Cordovil//
+
+Lançada neste Cartório das Sesmarias no Livro na nota atual a folha 153. Rio, 23 de novembro de
+1722. // Manoel de Vasconcelos Velho//
+Registrada no Livro 21 dos registros desta Provedoria a folha 86. Rio de Janeiro, 19 de novembro
+de 1722. //Francisco de Oliveira Leitão//
+O doutor Antônio de Sousa Abreu Frade, do desembargo de Sua Majestade, que Deus guarde, seu
+ouvidor geral e corregedor da comarca com alçada no cível e crime nesta cidade do Rio de
+Janeiro e mais capitanias de sua repartição e juiz das justificações, etc. Aos que a presente
+certidão de justificação virem, faço saber que a mim me constou por fé do escrivão do meu cargo,
+que está subscreveu, ser a firma da assinatura da sesmaria atrás do governador e capitão general
+Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, e as mais são nelas contidos, o
+que hei por justificado. (Palavra não identificada). Rio de Janeiro, 26 de novembro de 1722. Eu,
+Domingos Rodrigues Távora, escrivão das justificações, a subscrevi.
+-Fim da Transcrição-
+Observações:
+Nome original do sesmeiro: Joseph Viegas Lisboa
+Título AHU: Carta pela qual o Governador do Rio de Janeiro fez mercê a José Viegas Lisboa de
+lhe dar de sesmaria umas terras na margem do Rio das Ostras, com as confrontações marcadas na
+mesma carta. Rio de Janeiro, 6 de novembro de 1722.
+Esta carta de concessão está disponível no AHU anexada à petição n° 4258.
+Referência
+AHU_ACL_CU_017-1, Cx. 19\Doc. 4259
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

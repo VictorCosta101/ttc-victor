@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0118
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0292",
+  "Nome": "José Alves de Morais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "22-11-1781",
+  "Data da concessão": "22-11-1781",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no rio Una, da cachoeira de Manuel Muniz até a cachoeira do Pirangi.",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Rio Una, Cachoeira de Manuel Muniz, Cachoeira do Pirangi",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0118"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0118 
+Carta de doação e sesmaria de José Alves de Morais – 22/11/1781 
+ 
+José Alves de Morais, três léguas de terra da banda do sul do rio de Una, que principiam 
+em a cachoeira de Manoel Muniz até a cachoeira do Pirangi. 
+José César de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão 
+general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de 
+data de sesmaria virem, que José Alves de Morais me fez um requerimento do teor e forma 
+seguinte = Ilustríssimo e Excelentíssimo Senhor = Diz José Alves de Morais, morador na 
+freguesia de Una, que pelo rio Una acima estão devolutas três léguas de terra pertencentes a 
+Sua Majestade, a saber de cada banda do mesmo rio légua e meia, que fazem as ditas três 
+léguas, que pegam da cachoeira de Manoel Muniz até a cachoeira do Pirangi, com outro tanto 
+de fundo, as quais confrontam pela parte do nascente e poente com terras de Sua Majestade, e 
+pela parte do norte e sul com terras pertencentes a mesma senhora, as quais quer o suplicante 
+tirar por sesmaria para as cultivar e tratar na forma das ordens de Sua Majestade, pagando o 
+que se costuma de foro por título. Pede a Vossa Excelência seja servido mandar-lhe passar sua 
+carta de sesmaria na forma do estilo, observando-se a este respeito o praticado. E receberá 
+mercê = e sendo por mim visto o seu requerimento, ordenei por despacho meu de dois de 
+dezembro de 1780 aos oficiais da Câmara do respectivo distrito mandassem fixar editais na 
+respectiva freguesia, para se saber ao certo estar ou não devoluta a referida terra e haver ou 
+não terceiro prejudicado, e constando-me por informação dos ditos oficiais que assim o 
+mandaram executar, não houve pessoa alguma que aos ditos editais saísse. Por outro meu 
+despacho de data de 15 de setembro de 1781, mandei ouvir o escrivão da Receita e Despesa, e 
+assim mais o doutor procurador da Fazenda e Coroa. Por outro de 20 de setembro do mesmo 
+ano, e como todos uniformemente me responderam estar nos termos de se dar ao suplicante de 
+sesmaria a terra pedida, na forma confrontada em seu requerimento, pagando anualmente o 
+foro de seis mil réis por légua, por ser das que estão mais próximas a Marinha, do que devia 
+dar fiança na Contadoria. Ultimamente, mandei por despacho de 21 de novembro do presente 
+ano, que se passasse sesmaria tão somente da terra pedida da banda do sul do rio de Una, na 
+forma da resposta do doutor procurador da Fazenda e Coroa e escrivão da Receita e Despesa. 
+Em cumprimento do qual e pela faculdade que Sua Majestade me permite no Capítulo 15 do 
+Regimento deste Governo. Hei por bem dar em nome da dita senhora ao dito José Alves de 
+Morais, légua e meia de comprido e uma de largo da parte do sul do rio de Una, principiando 
+
+na cachoeira de Manoel Martins e fazendo testada pelo dito rio acima até a cachoeira do 
+Pirangi, cujas terras da banda debaixo da cachoeira de Manoel Martins partem com terras 
+realengas onde mora Martins, digo, onde mora Antonio Francisco de Arruda, e da parte de 
+cima da cachoeira do Pirangi com terras realengas, sem éreo algum, na forma confrontada em 
+seus requerimentos, pagando anualmente o foro de seis mil réis por légua, visto ser mais 
+próximas a marinha, que determina a Real Ordem de 28 de setembro de 1700, a qual terra 
+possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua que 
+fica sendo de hoje para sempre, com todos os seus pertences, matas, campos, águas, rios, 
+testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiro, que 
+havendo-a, ficará o suplicante a se defender a sua custa, e não passará a dita a religiões e 
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, 
+sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes e pedreiras, e requerer 
+dentro de três anos confirmação, medição e demarcação, povoá-la e cultivá-la na 
+conformidade da Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim se dar por 
+devoluta e novamente ser conferida a quem a requerer. Pelo que ordeno aos ministros da 
+Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta 
+de data de sesmaria como nela se contém, a qual nunca se dividirá nem se partirá se não por 
+estimação, na forma da Ordem Livro 4.º título 96 § 23, e fazendo dar ao suplicante posse real, 
+efetiva e atual, na forma costumada, debaixo das referidas cláusulas e das mais da Ordenação 
+título das sesmarias, visto constar por bilhete que apresentou haver dado a fiança do foro 
+anual de seis mil réis por légua na Contadoria da Real Fazenda, a folha 46 v. do livro 2º delas. 
+Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o sinete das 
+minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. 
+Manoel Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, a fez no Recife de 
+Pernambuco, aos 22 dias de novembro, Ano do Nascimento de Nosso Senhor Jesus Cristo de 
+1781 = O secretário do Governo, Paes de Andrade, a fez escrever = José Cezar de Menezes. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação 
+Histórica 
+Pernambucana. 
+Recife: 
+Imprensa 
+Oficial, 
+1954.v.2.pp.264-266. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

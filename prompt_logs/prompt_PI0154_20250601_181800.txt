@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0154
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Delgado da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "21-03-1729",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Acerca do histórico da terra, apenas informa que o requerente \"descobriu e povoou um sítio nesta capitania do Piauí . \r\n",
+  "Localidade": "\"junto a uma lagoa chamada vulgarmente a lagoa do Mocambo, pegado as terras pertencentes à freguesia do Mocha\"",
+  "Ribeira": "\"lagoa do Mocambo\"",
+  "Justificativas": "Era descobridor(a) das terras; Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que ele \"descobriu e povoou um sítio\" e \"por que não tem mais outro títulos que o ter povoado\" solicitava carta de data e sesmaria.  ",
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor-mor da Fazenda Real, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Na carta de concessão também consta que \"faltando a qualquer destas cláusulas se haverão por devolutas, e se darão a quem as denunciar\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0154"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0154
+Carta de concessão ao sargento-mor Manuel Delgado da Silva - 21/03/1729
+Registro de uma carta de data e sesmaria passada ao sargento-mor Manuel
+Delgado da Silva
+Alexandre de Sousa Freire etc. Faço saber aos que esta minha carta de data e sesmaria
+virem que a mim me enviou a dizer por sua petição o sargento-mor Manuel Delgado
+Gracia que em 1723 descobriu e povoou um sítio nesta capitania do Piauí junto a uma
+lagoa chamada vulgarmente a lagoa do Mocambo, pegado as terras pertencentes à
+freguesia do Mocha e por que não tem mais outro títulos que o ter povoado. Portanto,
+me pedia fosse servido mandar-lhe passar carta de data e sesmaria do dito sítio em nome
+de Sua Majestade com
+duas
+léguas
+de
+terra
+de
+comprido
+e
+uma
+de
+largo
+na dita paragem, e receberá mercê. E atendendo eu as razões que alegava como também
+ao que respondeu o provedor-mor da Fazenda Real a quem se deu vista, e ser
+em utilidade da mesma Fazenda a cultivarem-se as terras neste Estado. Hei por bem de
+conceder ao suplicante em nome de Sua Magestade as ditas duas léguas de terra de
+comprido e duas de largo na parte que pede, com a condição que não fará trespasse
+algum em nenhum tempo, a nenhuma pessoa ou comunidade e religião, sem que
+primeiro dê parte na Casa da Fazenda ao provedor dela para se me fazer presente se se
+deve ou não consentir no tal trespasse sob pena de ficar a dita carta de data nula para se
+poder novamente conceder a outrem. Nesta forma se passou carta para que as haja, logre
+e possua como coisa sua própria e todos os seus herdeiros, ascendentes e descendentes
+sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor, mais que os
+frutos, digo, Nosso Senhor, dos frutos que nelas houver, a qual concessão lhe faço não
+prejudicando a terceiros e reservando os paus Reais que nelas houver para embarcações
+com declaração que mandará confirmar esta carta por Sua Magestade dentro de 3 anos
+primeiros seguintes. E cultivará as ditas terras de maneira que dêem frutos; e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes, portos e
+pedreiras; e se demarcará ao tempo da posse por rumo de corda e braças craveiras, como
+é estilo e Sua Majestade manda. E outrossim, não poderam nelas suceder religiões por
+nenhum título, e acontecendo possuí-las será com o encargo de pagarem delas dízimos a
+Deus como se fossem possuídas por seculares. E faltando a qualquer destas cláusulas se
+haverão por devolutas, e se darão a quem as denunciar, como o dito Senhor ordena.
+Pelo que mando
+ao
+provedor-mor
+da
+Fazenda
+Real,
+e
+mais
+ministros
+e pessoas a quem tocar na forma referida e com as condições declaradas deixem ter e
+possuir as ditas terras ao dito sargento-mor Manoel Delgado Gracia para ele e todos os
+seus herdeiros, ascendentes e descendentes, como coisa sua própria. Cumpram e
+guardem esta minha carta tão inteiramente como nela se contém, a qual lhe mandei
+passar por mim assinada, e selada com o sinete de minhas armas. Registrado onde tocar
+e passou-se por duas vias. Dada nesta cidade de São Luís do Maranhão aos 21 dias do
+mês de abril do ano do nascimento de Nosso Senhor Jesus Cristo de 1728, digo, e 1729.
+E eu, João Antonio Freire, secretário do Estado, a fiz. //Alexandre de Sousa Freire//.
+-  Fim da Transcrição -
+Observação:
+No documento original o nome do sesmeiro aparece primeiro como Manuel Delgado da
+Silva, e posteriormente no corpo da carta, como Manuel Delgado Gracia.
+
+Referências:
+APEP, Livro 4, doc. 222, fls. 158v-159.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

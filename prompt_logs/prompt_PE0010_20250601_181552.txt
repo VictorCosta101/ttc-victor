@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0010
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Custódio Alves Martins",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-05-1695",
+  "Data da concessão": "25-05-1695",
+  "Observações da sesmaria": "A sesmaria requerida pelo suplicante localizava-se nas terras do Aimbó. As terras eram devolutas e haviam sido descobertas pelos índios Xucuru, que foram contratados pelo suplicante para descobrir novas terras.  O suplicante requereu quatro léguas de comprimento e quatro léguas de lagura, da serra de Moengica até a serra do Rebincão. A dita sesmaria localizava-se nas cabeceiras do rio Pajaú e fazia fronteira com as terras do Ararobá, local de residência dos índios Xucuru.",
+  "Localidade": "Sertão do Ararobá",
+  "Marcos Geográficos": "Serra de Moengica, Serra de Rebincão, Rio Pajaú, Ararobá",
+  "Confrontantes": "Terras dos índios Xucuru",
+  "Observações da petição": "O suplicante requereu quatro léguas de comprimento por quatro léguas de largura.",
+  "Justificativas": "Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; Não tinha terras para a criação de gado; Era descobridor(a) das terras com auxílio dos índios; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, determinou que fossem concedidas somente três léguas de largura e três léguas de comprimento e de acordo com as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0010"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0010 
+Carta de doação e sesmaria de Custódio Martins – 25/05/1695 
+ 
+CARTA DE DOAÇÃO E SESMARIA QUE SE PASSOU AO ALFERES CUSTÓDIO 
+MARTINS DE UMAS TERRAS PARA A PARTE DO URUBÁ QUE SE LHE DERAM POR 
+DEVOLUTAS. 
+ 
+Caetano de Melo de Castro, do Conselho de Sua Majestade, governador e capitão-mor, general de 
+Pernambuco e mais capitanias anexas e etc. Faço saber ao que esta carta de doação e sesmaria 
+virem que Custódio Alves Martins me representou a petição cujo teor é o seguinte e etc. “Senhor” 
+Diz o alferes Custódio Alves Martins, morador no sertão do Pajaú, termo desta cidade de Olinda, 
+que ele à custa de muito trabalho de sua pessoa, dispêndio de fazenda e risco de vida, descobriu 
+terras chamadas Aimbó, que só habitam gentios Tapuias em parte como é das cabeceiras e nas ancas 
+do riacho Pajaú, são todas muito capazes de se povoarem até um alto pequeno d'água, junto a uma 
+serra também pequena de Moengica que em algum tempo foi aldeia dos Tapuias bravos chamados  
+Xocurús, que ao presente estão de paz místicas com os Tapuias de Araróba, mais de cem léguas 
+desta praça e por as ditas terras estarem devolutas, nunca foram povoadas, nem delas houve notícia, 
+mas o que o suplicante descobre-as por notícia do mesmo gentio a quem pagou para as mostrarem, 
+e o suplicante não tem terras em que lavre e situe com currais de gado vacum e outras criações com 
+que  resulte tanto o seu interesse, como aumento nos dízimos reais e nas que o suplicante descobriu, 
+são capazes de serem povoadas à custa de muita despesa, quer o suplicante quatro léguas de terras 
+em quadra começando o rumo do olho pequeno d'agua junto a serra pequena de Moengica até a 
+serra do Rebincão, pelo melhor rumo que tiver para o nascente, fazendo quatro e não havendo terras 
+capazes na largura, as tomará no comprimento em forma que seja inteirado de quatro léguas com 
+todas as águas, nascentes, ribeiros, matas, pastos que em si tiver dentro de sua demarcação, que será 
+de leste a oeste, norte, sul, ou como melhor possa ser, portanto - Pede a Vossa Senhoria. Visto o que 
+alega lhe dê de sesmaria em nome de Sua Majestade as ditas quatro léguas de terra em quadro 
+assim confrontadas, e melhor sendo necessário. E receberá mercê. Informe o provedor da Fazenda 
+Real, ouvindo o procurador da dita Fazenda. Recife, 18 de maio de 1695. “Rubrica” Haja vista o 
+procurador da Coroa e Fazenda Real. “Barros”. Não tenho dúvida a que se faça mercê ao suplicante 
+por sesmaria de três léguas de terra ordinárias e contínuas na parte que confrontam em sua petição, 
+fazendo-se a data em forma da Ordenação Livro 4.º título 43. Recife, 22 de maio de 1695 “Pereira”. 
+Com a resposta do procurador da Coroa, informo a Vossa Senhoria para mandar o que for servido. 
+Recife, 20 de maio de 1695 “João do Rego Barros”; E havendo, outrossim, respeito ao que Sua 
+Majestade me encomenda no capítulo 15 do regimento deste Governo, hei por bem de lhe fazer 
+mercê dar ao suplicante acima nomeado, como em virtude da presente dou, de sesmaria as ditas 
+terras que pede nos mesmos lugares, partes e testadas que confrontam na sua petição, assim e da 
+
+maneira que parece ao provedor e procurador da Coroa e Fazenda Real, pelo que consta estarem 
+devolutas e despovoadas, as quais terras possuirá e gozará o dito suplicante, ele e seus herdeiros, 
+achando-se devolutas e não prejudicando a terceiro com todas as suas águas, campos, matas, 
+testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de tributo, foro ou 
+pensão alguma, salvo dízimo a Deus, e só serão obrigados a dar pelas ditas terras caminhos livres 
+ao Conselho para fontes, pontes ou pedreiras; pelo que ordeno a todos os ministros da Fazenda e 
+Justiça destas capitanias ou aos que o conhecimento desta carta pertencer, lhe façam dar posse real, 
+efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da ordenação título 
+das  sesmarias, para a firmeza de tudo lhe mandei passar a presente por mim assinada e selada com 
+o sinete das minha armas, a qual se registrará nos livros da secretaria destas Capitanias e nos da 
+Fazenda Real a que tocar. Dada nesta cidade de Olinda, em os 25 dias de maio, Antônio Nunes de 
+Oliveira a fez, ano de 1695. O secretário Antônio Barbosa de Lima a fez escrever “Caetano de 
+Mello de Castro” =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 39 - 41. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

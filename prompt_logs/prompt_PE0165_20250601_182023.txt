@@ -1,0 +1,158 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0165
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0275",
+  "Nome": "Antônio Bezerra das Neves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-10-1823",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no distrito da vila de Cimbres. A sesmaria localizava-se no caminho para os Cariris, ao norte com a Paraíba e ao sul com as terras da câmara da vila de Cimbres.",
+  "Localidade": "Vila de Cimbres",
+  "Marcos Geográficos": "Caminho para os Cariris, Paraíba",
+  "Justificativas": "As terras eram devolutas; Alegou já cultivar algodão; Pretendia cultivar algodão; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Francisco Pais Barreto, Francisco de Paula Cavalcante de Albuquerque e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provisória de governo da província de Pernambuco determinou o pagamento anual do foro régio no valor de 4 mil réis. A junta provisória também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0165"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0165
+Carta de doação de sesmaria de Antônio Bezerra das Neves - 08/10/1823
+Antonio Bezerra das Neves com uma légua de terra em quadro no termo da vila de
+Cimbres.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que Antonio
+Bezerra das Neves dirigiu ao ex-governador desta província, Luís do Rego Barreto, o
+requerimento do teor seguinte = Ilustríssimos e excelentíssimos senhores = Diz Antonio
+Bezerra das Neves, morador no termo da vila de Simbres, o qual vive de plantação de
+algodões, que não tendo terreno suficiente para seu cultivo, e sabendo que em dito
+termo no lugar denominado Saquinho, anexas so em divisa patrimônio do conselho da
+dita vila de Simbres se acha uma porção de terras devolutas, e desaproveitadas, que
+compreendem em si 10 léguas de cumprimento, e 6 de largo, por isso o suplicante
+requer a Vossa Excelência se digne na conformidade das Ordens Régias conceder-lhe
+por sesmaria em dito lugar do Saquinho uma légua de terra em quadro, medida, para
+todos os quatro ventos, principiando da estrada para baixo, que vai para os cariris, e
+para a serra da porteira, e pelo nascente com quem houver, e haja de partir, para o
+poente com as terras, que José Bezerra, já tem requerido sismarias delas as quais se
+compreendem na mesam devolução com posse, e lavras para o Norte com terras da
+Paraíba, e para o Sul com terras do patrimônio do conselho, que protesta demarca-las,
+cultivá-las, e requerer confirmação lançar na torre do tombo, tudo no prefixo tempo
+ordenado nas mesmas Ordens Régias prestar fiança, e satisfazer a pensão, que lhes for
+imposta: por tanto = Pede a Vossa Excelência a mercê de conceder-lhe a sesmaria
+requerida, preenchidas as solenidades da lei, e do estilo = E receberá mercê = Sobre o
+qual deu o dito ex-governador o despacho seguinte. A câmara respectiva mande por
+editais na forma da lei por tempo de 30 dias, e me informe em ofício de 30 de julho do
+mesmo ano com os editais e certidão, mostrando não ter havido impedimento algum
+então por desapchos de 30 de agosto, e 2 de outubro do mesmo ano mandou ouvir ao
+procurador da Coroa, e escrivão deputado da junta da Real Fazenda, que tão bem
+nenhum embaraço porão, em consequência do que lhe deu em 8 de novembro do
+mesmo ano o despacho do teor seguinte = Passe portaria para medição e demarcação = e
+demorando se o compremento o suplicante nos dirigiu requerimento do teor seguinte =
+ilustríssimos e excelentíssimos senhores = Diz Antonio Bizerra das Neves, que
+
+implorando a este governo sesmaria de uma légua de terras quadrada no termo da vila
+de Simbres, depois de praticadas as diligências legais, sem se apresentar, nem aparecer
+impedimento algum, como há de constar dos papéis, que devem existir no arquivo da
+secretaria deste mesmo governo em lugar de se mandar expedir a carta da dita sesmaria
+como devia ser, se expedio a portaria junta para ser medida aquela terra prática
+arbitralmente então estabelecida, e abertamente reprovada no tribunal do desembargo do
+paço deste império do Brasil, pois que a demarcação, de que trata o alvará de 25 de
+janeiro de 1809 só deve ser feita a vista da carta da sesmaria, e não antes dela, causando
+se então ao impetrante uma despesa desnecessária, visto que não pode ser confirmada a
+concessão da sesmaria sem a demarcação feita a vista do título. Em termos tais, implora
+o suplicante a Vossa Excelência sejam servidos mandar passar a carta da referida
+sesmaria, visto não ter aparecido impedimento, que o estorve = Pede a Vossas
+Excelências se dignem de lhe deferir = E receberá mercê = o que sendo por nós visto, e
+examinado, os papéis referidos, parecendo nos tudo conforme mandamos, por despacho
+de 8 do corrente mês, que lhe passasse a presente carta. E portanto pela faculdade que
+nos é concedida no capítulo 15 do regimento deste governo, e mais Ordens Régias a
+este fim dirigidas. Havemos por bem conceder em nome de Sua Magestade imperial
+constitucional defensor perpétuo do império do Brasil a Antonio Bezerra das Neves a
+sobredita légua de terra com as confrontações declaradas no primitivo requerimento,
+pagando o foro anual de 4 mil réis na conformidade da Real Ordem de 28 de setembro
+de 1700, de que deu fiança na contadoria da junta da fazenda pública af. 83 do livro 7º
+delas. A qual sesmaria possuirá e gozará ele, suplicante, e seus herdeiros, ascendentes e
+descendentes, como sua que fica sendo de hoje para todo o sempre, com todas as matas,
+campos, rios, águas, testadas, logradouros, e mais úteis que nela se compreenderem, não
+prejudicando a terceiro. E não passará a religiões, e pessoas eclesiásticas, salvo sendo
+com os mesmos encargos, com que as possuem os seculares, e nunca se dividirá em
+porções, nem se partirá, senão por estimação, andando encabeçada em uma só pessoa na
+forma da ordenação livro 4º título 96§32, sem consentimento da justiça da fazenda
+pública para nela se darem novas fianças, e se fazerem as devidas escriturações, ficando
+livres para a serventia dos povos todas as estradas, rios, fontes, e pedreiras, e reservadas
+ao patrimônio público as madeiras de construção, pau brasil, e viveiros de quaisquer
+metais. E serão obrigados a requerer dentro de 3 anos, confirmação, a medir, e
+demarcar, em cujo ato poderão preencher se para o lado, ou lados, em que houverem
+terras devolutas, caso encontrem obstáculo dos éreos confinantes na medição quebrada,
+
+a povoá-la, e cultivá-la na forma da Ordem Imperial de 20 de outubro de 1753; e alvará
+de 25 de janeiro de 1809, e não o cumprindo assim se haverá por devoluta, e novamente
+se concederá a quem a requerer. Pelo que ordenamos aos ministros da fazenda e da
+justiça, e mais pessoas a quem tocar. Cumpram e façam cumprir esta carta de data de
+sesmaria, como nela se contém, fazendo dar ao referido posse real, efectiva, e atual, na
+forma da ordenação, título das sesmarias. Em firmeza do referido, lhe mandamos passar
+a presente por nós assinada, e selada com o sinete das armas nacionais, a qual se
+registrará na secretaria deste governo na da junta da fazenda pública, e onde mais tocar.
+Manoel Paulo Guintela, 2º oficial da secretaria do governo a fez em o Recife de
+Pernambuco aos 20 do mês de outubro de 1823; 2º da independência, e império do
+Brasil. E eu Manoel dos Passos e Figueiroa, oficial maior da secretaria, na falta do
+secretário a fiz escrever = Estava o selo das armas do império = Francisco Paes Barreto
+= Pro p. = Francisco de Paula Cavalcante de Albuquerque = Manoel Ignacio Bizerra de
+Mello = carta de data de sesmaria pela qual vossa excelência hão por bem conceder em
+nome de sua magestade ilustre c. huma legoa de terra em quadro no termo da vila de
+Cimbres a Antonio Bezerra das Neves, como nella se declara = Por despacho do
+governo de 8 de outubro de 1823.
+-
+Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 236-238.
+Observação:
+No documento o nome do suplicante consta como Antonio Bizerra das Neves, o que foi
+modificado para Antonio Bezerra das Neves, seguindo o padrão proposto para a SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

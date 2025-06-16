@@ -1,0 +1,110 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0132
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0177",
+  "Nome": "Pedro José de Lacerda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Pirapama, antigamente denominado de Arassuagipe, nas fronteiras das terras requeridas por João Arede de Vasconcelos (PE 0128). ",
+  "Localidade": "Rio Pirapama",
+  "Marcos Geográficos": "Rio Pirapama",
+  "Confrontantes": "João Arede de Vasconcelos",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão.",
+  "Observações das exigências": "Devido ao documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0132"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0132 
+Carta de doação e sesmaria de Pedro José de Lacerda – [?] 
+Pedro José de Lacerda com meia légua de terra no rio Arassuagipe. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão-
+general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data 
+de sesmarias virem, que Pedro José de Lacerda me fez um requerimento da maneira seguinte = 
+Ilustríssimo e excelentíssimo senhor = Diz Pedro José de Lacerda que ele tem notícia que João de 
+Aredes de Vasconcelos pedira aproximamente uma data de sesmaria de duas léguas de terra na 
+Freguesia de Santo Antônio do Cabo de Santo Agostinho, termo desta Vila do Recife, na beira do 
+rio Pirapama, por outro nome Arassuagipe, e pediu o dito João de Aredes duas léguas na beira do 
+dito rio, a saber, uma légua de fundo, pegando das cabeceiras das terras de Lourenço do Vale, digo, 
+a saber uma légua do rio para o norte e outra do rio para o sul com outra légua de fundo, pegando 
+das cabeceiras da terra de Lourenço do Vale e da parte do norte na confrontação das mesmas terras 
+de Lourenço do Vale, e sendo postos editais, não houve quem pusesse impedimento as ditas terras, 
+digo, as ditas duas léguas de terra, das quais, porém, Vossa Excelência somente mandou passar 
+carta de data do dito João de Aredes de meia légua do rio para a parte do Sul com uma légua de 
+fundo; e o suplicante quer que se lhe conceda uma légua de terra daquelas que não tiveram 
+impedimento, a saber, meia légua pelo rio acima com uma légua de fundo do lado do sul, 
+principiando onde acabar a meia légua concedida ao dito João de Aredes. Pelo que requer a Vossa 
+Excelência se sirva mandar-lhe passar sua carta de sesmaria com as condições e foro do costume, 
+sem que seja preciso por-se editais nem outras solenidades, visto que tão proximamente foram 
+postos editais por ocasião da dita data que pediu João de Aredes de Vasconcelos e não houve 
+impedimento — Pede a Vossa Excelência se sirva mandar que se lhe passe carta de data de sesmaria 
+da dita terra com as ditas confrontações, meia légua por cada banda do dito rio e uma de fundo de 
+cada banda. E receberá mercê = E sendo por mim visto o seu requerimento, ordenei por despacho 
+de 5 de junho do corrente ano de 1783, aos oficiais da Câmara da respectiva freguesia, digo, da 
+Câmara do respectivo distrito, mandassem fixar editais na respectiva freguesia para se saber ao 
+certo estar ou não devoluta a mesma terra, e haver no não terceiro prejudicado; e constando-me por 
+informação dos ditos oficiais que assim o mandaram executar, não haver pessoa alguma que aos 
+ditos editais saísse. Por outro meu despacho de 9 de outubro do dito ano, mandei ouvir o escrivão 
+da Receita e Despesa, e assim mais responder o doutor procurador da Fazenda e Coroa por outro de 
+8 do dito mês e ano, e como todos uniformemente me responderam estar nos termos de se dar ao 
+suplicante a terra pedida de sesmaria, pagando anualmante o foro de seis mil réis por légua, por ser 
+
+das mais próximas a Marinha, do que devia dar fiança na Contadoria da Real Fazenda. Ultimamente 
+mandei por despacho de 13 de outubro do mesmo ano que se passasse sesmaria, na forma da 
+resposta do doutor procurador da Fazenda e Coroa e escrivão da Receita e Despesa; em 
+cumprimento do que e pela faculdade que me permite Sua Majestade no capítulo 15 do Regimento 
+deste Governo. Hei por bem dar em nome da dita senhora, ao dito Pedro José de Lacerda, na beira 
+do rio Pirapama ou Arassuagipe, meia légua de terra da [...]. 
+- Fim da carta - 
+ 
+Observações:  
+A carta contém apenas as informações que constam acima, sem as informações do parecer final. 
+ 
+Referência: 
+Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p. 304 - 305. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

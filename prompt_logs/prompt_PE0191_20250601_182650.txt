@@ -1,0 +1,149 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0191
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0208",
+  "Nome": "José Gonçalves da Madre de Deus Fontes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-03-1804",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na Cachoeira Seca, termo da vila de Sirinháem, em direção ao rio Sirinháem, nas fronteiras das terras de Manuel Francisco das Neves.",
+  "Localidade": "Rio Sirinháem",
+  "Marcos Geográficos": "Rio Sirinháem, Cachoeira Seca",
+  "Confrontantes": "Manuel Francisco das Neves",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores interinos determinaram o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. Os governadores interinos também determinaram a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0191"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0191 
+ 
+Carta de concessão do padre José Gonçalves da Madre de Deus Fontes de 13/09/1803 
+ 
+O padre José Gonçalves da Madre de Deus Fontes com uma légua de terra por sesmaria 
+principiada esta na Cachoeira Seca pelo rio Sirinháem acima 
+ 
+Dom Jorge Eugênio de Lócio e Seilblitz brigadeiro graduado dos exércitos de Sua Alteza 
+Real, o doutor Manuel Xavier Carneiro da Cunha deão da santa igreja catedral da cidade 
+de Olinda e vigário-geral deste bispado, o doutor João de Freitas de Albuquerque professo 
+na Ordem de Cristo, fidalgo da Casa Real, do Desembargo de Sua Alteza Real o príncipe 
+regente Nosso Senhor, seu desembargador na Relação da Bahia, ouvidor-geral de 
+Pernambuco, corregedor da comarca, intendente da polícia, governadores interinos da 
+capitania geral de Pernambuco etc. Fazemos saber aos que esta carta de data de sesmaria 
+virem o padre José Gonçalves da Madre de Deus Fontes nos faz um requerimento cujo 
+teor e maneira seguinte: Diz José Gonçalves da Madre de Deus Fontes presbítero secular 
+e morador no termo da vila de Sirinháem em que nas cabeceiras das terras denominadas 
+Cachoeira Seca do mesmo termo há terras devolutas, e desaproveitadas pertencentes a 
+Sua Alteza Real e para que o suplicante as quer do teor e cultivar, requerendo pois a 
+vossas senhorias se dignem conceder-lhe uma légua de terra em quadra, principiando esta 
+Cachoeira Seca pelo rio Sirinháem acima meia légua para a parte do norte e outra meia 
+para a parte do sul, servindo o mesmo rio Sirinháem de pião; e quando não haja meia 
+légua em alguma das partes mencionadas, se completar para qualquer outro, e pegando 
+das testadas das terras dadas a Manoel Francisco das Neves = Pede mandando passar a 
+esse fim as ordens necessárias, para se procederem as diligências do estilo = E receberá 
+mercê = E sendo por nós visto seu requerimento, mandamos por despacho de 15 de 
+novembro de 1802 informar ao desembargador juiz conservador das Matas do Sul, se nas 
+terras que o reverendo suplicante pretende de sesmaria havia madeiras de construção das 
+que se acham reservadas para os reais cortes, o qual respondeu não haver madeiras 
+algumas que possam servir para as construções reais; por outro de 19 de fevereiro de 
+1803, mandamos para as construções reais; por outro de 19 de fevereiro de 1803, 
+mandamos que a câmara respectiva mandasse fixar editais por tempo de 30 dias no 
+respectivo distrito, para se saber ao certo estar ou não devoluta a mesma terra, e haver ou 
+não terceiros prejudicados, e constando-nos por informação da dita câmara que assim o 
+mandou executar, não haver pessoa alguma, que aos ditos editais saísse, por outro de 28 
+de maio do dito ano de 1803 mandamos ouvir o doutor procurador da Coroa e Fazenda, 
+e assim mais responder o escrivão deputado da junta da mesma Fazenda, por outro de 22 
+de agosto do sobredito ano, e como todos uniformemente responderam estar nos termo 
+de se dar ao referido suplicante a terra pedida da sesmaria na forma confrontada em seu 
+requerimento, pagando o foro anual de seis mil réis por légua, de que devia dar a fiança 
+na  Contaria da Real Fazenda. Ultimamente mandamos por despacho de 9 de setembro 
+do referido ano de 1803 se passasse carta de data de sesmaria na conformidade das 
+respostas do doutor procurador da Coroa e Fazenda, escrivão deputado da junta da mesma 
+Fazenda, em cumprimento do qual e pela faculdade que Sua Alteza Real permita do padre 
+José Gonçalves da Madre de Deus Fontes, uma légua de terra em quadra, principiando 
+esta da Cachoeira Seca, pelo rio Sirinháem acima, meia légua para a parte do norte, meia 
+légua em alguma das partes dadas a Manuel Francisco das Neves, tudo confrontando em 
+seu requerimento, pagando o foro anual de seis mil réis, pela referida légua de terra, visto 
+
+ser das que estão mais próximas a marinha, na forma que determina herdeiros 
+ascendentes, descendentes, como sua que fica sendo de hoje para todo o sempre com 
+todas as suas pertenças matas, campos, rios, águas, testadas, logradouros e  mais úteis que 
+ela compreender, não prejudicando a terceira e não passará a dita terra a religiões, e 
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os 
+seculares, sendo obrigado a dar ao conselho caminhos livres para fontes, pontes e 
+pedreiras e requerer dentro de três anos confirmação, medição, povoá-la e cultivá-la na 
+forma da ordem régia de 20 de outubro de 1753, e não cumprindo assim se dar ppor 
+devoluta, e novamente ser conferida a quem a requerer, com mais a condição que a 
+referida terra nunca se dividirá em porções, nem repartirá, senão por estimação, andando 
+encabeçada em uma só pessoas na forma da Ordenação Livro 4.º título 96 parágrafo 23; 
+e assim mais não passará a referida terra a herdeiros, ou outra qualquer pessoa sem 
+conhecimento da Junta da Real Fazenda, para nela se darem novas fianças, e se fazerem 
+as devidas escriturações. Pelo que ordenamos aos ministros da Fazenda, e Justiça, e mais 
+pessoas a quem tocar, cumpram e façam cumprir, e guardar esta carta de cata de Sesmaria 
+como nela se contem fazendo dar ao suplicante posse real, efetiva e atual na forma 
+costumada debaixo das cláusulas referidas, e das mais da Ordenação título das sesmarias,   
+visto constar por bilhetes que apresentou achar-se dada a fiança ao foro anual de seis mil 
+réis pela mencionada légua de terra na contadoria da Real Fazenda a f.152v.º no Livro 5.º 
+delas. Em firmeza do que lhe mandamos passar a presente por nós assinada, e selada com 
+o selo das armas reais, que se registrará na secretaria deste Governo, e na da Junta da Real 
+Fazenda. José Fernandes Quintela oficial maior da Secretaria do Governo a fez em o 
+Recife de Pernambuco aos treze de março ano do nascimento de Nosso Senhor Jesus 
+Cristo de 1804//José Carlos Mairink da Silva Ferrão secretário do Governo a fez escrever 
+= Dom Jorge Eugênio de Lócio e Seilblitz = Manuel Xavier Carneiro da Cunha = João 
+de Freitas Albuquerque.  
+ 
+ 
+ 
+- Fim da Transcrição - 
+ 
+ 
+Referência:  
+BPPE, Sesmarias de Pernambuco 1821, fls. 88-89. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

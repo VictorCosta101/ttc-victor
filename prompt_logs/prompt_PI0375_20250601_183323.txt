@@ -1,0 +1,174 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0375
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Álvares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-09-1743",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"havia povoado uma fazenda de gado vacum chamada Santo Antônio da Boa Vista no sertão do Gelboé\".",
+  "Localidade": "Fazenda Santo Antônio da Boa Vista, sertão do Gilboé",
+  "Marcos Geográficos": "Riacho do Sucuriú, Riacho das Inhumas, Riacho das Canavieiras",
+  "Ribeira": "Gurgueia",
+  "Confrontantes": "Fazenda do Pico, Pindaíba",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado vacum; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que \"havendo no sítio pedido rio navegável que necessite de canoa ou barco para a sua passagem, ficará livre na margem que tocar as terras do suplicante meia légua de terra para o uso público\". Além disso, determinou-se que que o sesmeiro deve possuir a terra como coisa sua própria; dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0375"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0375
+Carta de concessão ao Manuel Álvares - 07/09/1743
+Registro de uma Carta de Data e Sesmaria concedida a Manuel Álvares na
+paragem chamada Santo Antônio da Boa Vista.
+ 
+ 
+João de Abreu de Castelo Branco do Conselho de Sua Majestade, governador e
+capitão-general do Estado do Maranhão. Faço Saber aos que esta minha Carta de Data e
+Sesmaria
+virem que Manuel
+Álvares,
+morador   na
+capitania
+do
+Piauí,
+me
+representou que ele
+havia
+povoado
+uma
+fazenda de
+gado
+vacum
+chamada Santo Antônio da Boa Vista no sertão do Gelboé; e por quê dela não tinha
+tinha título me pedia fosse Servido conceder-lhe em nome de Sua Majestade 3 léguas de
+terra de comprido e uma de largo, fazendo pião aonde a dita fazenda se acha povoada no
+povoado no Riacho do Sucuriú, correndo pelo mesmo riacho abaixo por uma e outra
+banda até onde faz barra o riacho dos Inhumas no dito Riacho do Sucuriú e pelo Riacho
+da Canavieira acima até as suas cabeceiras, fazendo extremos com a Pindaíba; e parte
+do nascente pela Gurguéia acima, com a fazenda do Pico: ao que atendendo e a
+informação do provedor-mor da Fazenda Real; e ser em utilidade da mesma fazenda o
+cultivarem
+as
+terras
+neste
+Estado.
+Hei
+por
+bem
+conceder-lhe
+em
+nome
+de Sua Majestade por Data e Sesmaria 3 léguas de terra de comprido e uma de largo no
+dito sítio chamado Santo Antônio  da Boa Vista com as confrontações mencionadas, e
+condições expressadas nas Reais Ordens; e com a de não fazer trespasso por meio
+algum em nenhum tempo a pessoa alguma, Religião ou Comunidade, sem primeiro dar
+parte na Casa da Fazenda Real ao provedor-mor dela para se me fazer presente; e ver se
+se deve ou não consentir no tal trespasso, sob pena de ficar nula esta Data e se poder
+conceder
+novamente
+a
+outrem
+e
+nesta
+forma
+se
+lhe
+passa
+sua
+Carta
+de
+Data para que o dito Manuel Álvares, haja, logre e possua as ditas terras como coisa sua
+própria, para ele e todos os Seus herdeiros ascendentes e descendentes, sem pensão,
+nem tributo algum mais que o dízimo a Deus dos frutos que nelas houver e lavrar,
+a qual concessão lhe faço não prejudicando a terceiro nem a Sua Majestade, se nas ditas
+terras
+quiser
+mandar
+fundar
+alguma
+vila,
+reservando os paus Reais que nelas
+houver para embarcações
+com
+declaração que mandará
+confirmar
+esta
+Data
+por Sua Majestade dentro dos 3 anos primeiros seguintes; e cultivará as ditas terras de
+maneira que deem
+fruto
+e
+dará caminhos públicos
+e
+particulares
+aonde
+forem necessários para pontes, fontes, portos e pedreiras; e havendo no sítio pedido rio
+navegável que necessite de canoa ou barco para a sua passagem, ficará livre na
+margem que tocar as terras do suplicante meia légua de terra para o uso público; e se
+demarcará ao tempo da posse por rumo de corda e braças craveiras como é Estilo,
+e Sua Majestade manda; e outrossim não poderão suceder nelas religiões, nem outras
+pessoas eclesiásticas por nenhum título que seja e acontecendo possuí-las será com o
+encargo de pagar delas dízimos a Deus, como Se fossem possuídas por seculares; e
+faltando a qualquer destas cláusulas, se haverão as ditas terras por devolutas e se darão
+a quem as denunciar como o dito Senhor ordena: Pelo que mando ao provedor-mor da
+Fazenda Real, mais Ministros e pessoas a que tocar, que na forma referida deixem ter, e
+possuir as ditas terras ao dito Manuel Álvares, como coisa sua própria; e a todos os seus
+herdeiros  ascendentes e descendentes, cumpram e guardem esta minha carta de Data
+tão inteiramente como nela se contém a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas que se registrará nos livros da Secretaria a que
+tocar, digo, do Estado e nos da Fazenda Real; e se passou por duas vias. Dada
+
+na cidade de São Luís do Maranhão aos 7 de setembro, ano do nascimento de Nosso
+Senhor, Jesus Cristo, de 1743. E eu, José Gonçalves da Fonseca, secretário do Estado a
+fiz. João de Abreu de Castelo Branco.               
+-Fim da Carta-
+Referência:
+APEP, Livro 12, doc. 48, fls. 56v-57.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

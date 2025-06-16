@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0067
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos Simões de Lemos, Gaspar Borges Noveis, Manuel Fernandes de São Paijo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "14-06-1681",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas e meia de comprimento e meia légua de largura e estava localizada na Coroa de Bras Suma, Porto Seguro.",
+  "Localidade": "Coroa de Bras Suma",
+  "Justificativas": "Não tinha terras; Pretendia lavrar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das Justificativas": "Alegaram ser pessoas nobres; ",
+  "Observações das exigências": "Exigiu que enviasse certidão demonstrando que povoo a terra.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0067"
+}
+
+            **Conteúdo Original** (extrato):
+            BA  
+ 
+Registro do alvará, porque o senhor mestre de campo, general Roque da Costa Barreto, teve por 
+bem conceder em nome de Sua Alteza à Domingos Simões de Lemos, Manuel Fernandes de 
+São Paijo, ao capitão Gaspar Borges Noveis, moradores na capitania de Porto Seguro, de duas 
+léguas e meia de terra de comprimento e meia de largura.  
+ 
+Roque da Costa Barreto, do conselho de Sua Alteza. Faço saber aos que este alvará de doação 
+e sesmaria virem que, Domingos Simões de Lemos, Manuel Fernandes de São Paijo, o capitão 
+Gaspar Borges Noveis, me representaram por sua petição, cujo teor é o seguinte: senhor, dizem 
+Domingos Simões de Lemos, Manuel Fernandes de São Paijo, e o capitão Gaspar Borges 
+Noveis, moradores na Vila de Porto Seguro, onde tem suas casas e famílias com mulheres e 
+filhas, são pessoas nobres, ocupam os cargos da republica da dita vila distante da qual, 5 léguas 
+pouco mais ou menos, ou o que na verdade se achar, há uma sorte de terra que principia da 
+Coroa de Bras Suma, até a largura pelo rio acima, a qual sorte de terra de duas léguas e meia, 
+pouco mais, ou pouco menos, ou o que na verdade se achar, até o presente esta dita terra 
+devoluta sem pessoa alguma a ocupar, os suplicantes não tem terra aonde lavrar nem pôr 
+serrarias. Pedem a Vossa Senhoria, seja servido conceder-lhe de sesmaria a dita sorte de terra, 
+que principia da Coroa de Brassuma até a lagem da banda do Norte. E receberá mercê. Vista a 
+declaração que os suplicantes fizeram, que a terra que pediam tinha de comprimento duas léguas 
+e meia, pouco mais ou menos pelo rio acima, e de largura, meia légua da parte do Norte, a 
+resposta do procurador da Fazenda Real, que é a seguinte. Nos termos referidos na certidão, 
+declaração dos suplicantes, não me oferece dúvida que se conceda a sesmaria pedida na forma 
+costumada. Bahia, 11 de junho de 1681. Andrada// A informação do provedor-mor da dita Real 
+Fazenda, que também é a que se segue. Senhor, os suplicantes pedem duas léguas e meia de 
+terra de comprimento no Rio da Coroa que chama de Brassuma até a lagem, meia de largura da 
+banda do Norte, por serem pessoas nobres, moradores em Porto Seguro, não tem terras em que 
+lavrar, e pôr serrarias, parece-me que lhes pode deferir, sendo sem prejuízo de terceiro, com as 
+condições do regimento e ordenações das sesmarias, nestes termos se lhe não oferece dúvida 
+ao procurador da Fazenda Real, como deve de sua resposta. Vossa Senhoria mandará o que for 
+servido. Bahia, 12 de junho de 1681. Antônio Lopes de Ulhôa// Hei por bem de conceder e dar 
+de sesmaria aos suplicantes, como pelo presente faço em nome de Sua Alteza, duas léguas meia 
+de terra de comprimento e meia de largura na parte que pedem e confrontam em sua petição, 
+declaração que fizeram como parece aos ministros da Fazenda, não prejudicando a terceiro com 
+todas suas águas, campos, matos, testadas, logradouros, e mais úteis que nelas se acharem, todo 
+foro livre e isento de pensão ou tributo algum, salvo o dizimo a Deus, que pagará dos frutos que 
+nelas houver, e por elas serão obrigados a dar estradas públicas a todos e a particulares para 
+fontes, pontes, portos e pedreiras, povoando-as no termo da lei, e demarcando-se ao tempo da 
+posse, citados os Éreos, mandaram certidão de como as tem povoado dentro do dito termo, para 
+se registrar nos livros da Fazenda Real. Pelo que ordeno a todos os ministros de justiça, a que 
+o conhecimento deste, com direito deva ou possa pertencer, lhe façam dar a posse real efetiva 
+e atual na forma costumada debaixo das cláusulas acima referidas e as mais da ordenação, titulo 
+das sesmarias. Para firmeza do que lhe mandei passar o presente sob meu sinal e selo de minhas 
+armas, o qual se registrará nos livros da secretaria deste Estado nos mais a que tocar, e se 
+guardará e cumprirá tão pontual inteiramente como nele se contém, sem dúvida embargo nem 
+contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, Bahia de Todos os Santos, 
+nos 14 dias do mês de junho, ano de 1681. Bernardo Vieira Ravasco o fiz escrever. Roque da 
+Costa Barreto// Selo. Registrado no livro segundo dos registros da secretaria do Estado do 
+Brasil, a que toca a folha 91, verso. Bahia, 18 de junho de 1681. Ravasco// Despacho do 
+
+provedor-mor. Cumpra-se e registre-se. Bahia, 21 de junho de 1681. Antônio Lopes de Ulhoa// 
+Antônio Lopes o registrou em dito dia.  
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+ 
+Os nomes dos sesmeiros no livro original são: Domingos Simões de Lemos, Manuel 
+Fernandes de São Paijo, ao capitão Gaspar Borges Noveis 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 192v – 194.  
+Numeração original no livro: 142  
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

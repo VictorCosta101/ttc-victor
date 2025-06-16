@@ -1,0 +1,114 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0229
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Cordovil de Siqueira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-08-1729",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita.",
+  "Localidade": "Terras no caminho da roça aberta a partir de Guaratinguetá para a cidade do Rio de Janeiro",
+  "Marcos Geográficos": "Ribeiro do Jacú",
+  "Confrontantes": "Fazenda dos Padres do Desterro",
+  "Justificativas": "Pretendia cultivar; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0229"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0229
+Carta de concessão de Francisco Cordovil de Siqueira de 1° de agosto de 1729
+Luís Vaía Monteiro, do conselho de sua Magestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo representar-me por sua
+petição Francisco Cordovil de Siqueira, que ele se acha com bastantes escravos para cultivar
+uma roça no caminho que se abre vindo de Guaratinguetá para esta cidade, em o Ribeiro do
+Jacû correndo para a parte da fazenda dos padres da Companhia do Desterro ficando o
+caminho ao meio, o rumo de norte até de noroeste, ao leste quarto de nordeste, o seu
+atravessam por serem os rumos mais antigos. Pedindo-me lhe mandasse dar de sesmaria uma
+légua de terras, e dando-se vista deste requerimento ao procurador da Coroa a quem se não
+ofereceu dúvida, e ao provedor da Fazenda Real sem encargo do que representou por mal
+informado. Hei por bem fazer mercê ao dito Francisco Cordovil Siqueira de lhe dar por
+sesmaria, em nome de sua Majestade, uma légua de terras em quadra na forma das ordens do
+mesmo Senhor, sem prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas,
+com declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade
+dentro de 2 anos, e não o fazendo se lhe denegará mais tempo, e antes de tomar posse delas as
+mandará medir e demarcar, e não poderá suceder nela religião alguma sem licença do dito
+Senhor, e sucedendo pessoa eclesiástica ou religião, serão obrigados a dízimos e mais
+encargos que Sua Majestade for servida impor-lhes de novo. Pelo que mando ao ministro ou
+oficial de justiça a que o conhecimento desta pertencer, dê posse ao dito Francisco Cordovil
+de Siqueira das referidas terras na forma acima declarada. E por firmeza de tudo lhe mandei
+passar a presente por mim assinada e selada com signete de minhas armas, que se cumprirará
+inteiramente como nela se contém e se registrará nos Livros da secretaria deste Governo e nos
+mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, José Ribeiro da Costa
+a fez em 1º dia do mês de agosto de 1729. O secretário José Ferreira da Fonte fez. //Luís Vaía
+Monteiro//
+Carta porque Vossa Senhoria há por bem fazer mercê a Francisco Cordovil de Siqueira de lhe
+dar por sesmaria, em nome de Sua Majestade, uma légua de terras acima declaradas. Para
+Vossa Senhoria ver.
+Registrada no Livro das Patentes, Provisões e Sesmarias que serve nesta secretaria do
+Governo a folha 18. Rio de Janeiro, 2 de agosto de 1729. //José Ferreira da Fonte//
+Registre-se nos Livros da Fazenda Real. Rio, 12 de junho de 1730. //Cordovil//
+
+Registrado no Livro 23 dos registros das Patentes, Provisões e Sesmarias que serve nesta
+secretaria da Fazenda Real a folha 181. Rio, 13 de julho de 1730. //Antônio de Garcia e
+Melo//
+- Fim da Transcrição -
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu, de sesmaria a
+Francisco Cordovil de Sequeira uma legoa de terra, com as confrontações indicadas na mesma
+carta. Rio de Janeiro, 1 de agosto de 1729.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 7368 e à Portaria n°
+7370.
+Conforme o trabalho de Salles e Marquese (2015) A cartografia do poder senhorial:
+cafeicultura, escravidão e formação do Estado nacional brasileiro, 1822-1848, o Ribeiro do
+Jacû fica localizado no Caminho Novo, na Serra do Mar.
+Referência:
+AHU_ACL_CU_017-01,Cx.32, D. 7369.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0202
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio de Sousa Mota",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-10-1739",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Em que pese a terra ser descrita como devoluta, o suplicante deixa escapar que era habitada por populações indígenas, as quais denomina de \"gentios bárbaros\".",
+  "Localidade": "Terras devolutas na parte do norte da pedreira até as serras",
+  "Marcos Geográficos": "Serras, sertão",
+  "Ribeira": "Paraíba do Sul",
+  "Confrontantes": "Terras de Marcos de Azevedo, chamada a pedreira",
+  "Justificativas": "As terras eram devolutas; As terras eram habitadas pelo gentio; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que seria obrigado \"a fazer os caminhos de sua testada com pontes estivas onde necessário for, e descobrindo-se nas ditas terras rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma margem dele meia légua ao menos para ficar em público\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0202"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0202
+Carta de concessão de sesmaria de Antônio de Souza Mota de 20 de outubro de 1739
+Matias Coelho de Souza, mestre de campo de um dos terços da guarnição desta praça e cujo
+cargo está o governo do Rio de Janeiro e suas capitanias.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por sua
+petição Antônio de Souza Mota, morador na vila de São Salvador, capitania de Campos dos
+Goytacazes da Paraíba do Sul, que na dita vila rio acima na parte do norte da pedreira até as
+serras se acham muitas terras devolutas que nunca foram povoadas por se acharem possuídas de
+gentios bárbaros, nas quais terras me pedia que lhe desse de sesmaria, em nome de Sua
+Majestade, uma légua em quadra, principiando está a contestar com a data que se acha cultivada
+por Marcos de Azevedo que chamam a pedreira, correndo para o sertão rio acima da mesma parte
+do norte, visto se achar com bastantes escravos para as cultivar e por se não oferecer dúvida ao
+provedor da Fazenda Real e procurador da Coroa sobre este requerimento, sendo muito
+conveniente e de utilidade aos dízimos que as terras incultas se aproveitem. Hei por bem fazer
+mercê, em nome de Sua Majestade, de dar de sesmarias ao dito Antônio de Souza Mota uma
+légua de terras em quadra com as confrontações acima declaradas, sem prejuízo de terceiros ou
+do direito que algumas pessoas possam ter a elas, com declaração que as cultivará e mandará
+confirmar esta minha carta pelo mesmo Senhor dentro de 2 anos, e antes de tomar posse delas as
+fará medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas com que
+confrontar, e será obrigado a fazer os caminhos de sua testada com pontes estivas onde necessário
+for, e descobrindo-se nas ditas terras rio caudaloso que necessite de barca para se atravessar,
+ficará reservada de uma margem dele meia légua ao menos para ficar em público, e nas ditas
+terras não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com
+o encargo de pagar dízimos e outro qualquer que Sua Majestade for servido impor-lhe de novo, e
+não os pagando se poderá dar a quem as denunciar, como também sendo o mesmo Senhor servido
+mandar fundar no distrito delas alguma vila o poderá fazer ficando livre, sem encargo algum ou
+pensão para o sesmeiro, e não compreenderá esta data vieiras ou minas de qualquer gênero de
+metal que nela se descobrir, reservando também os paus Reais, e faltando a qualquer das ditas
+cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das
+Sesmarias, ficará privado desta. Pelo que mando ao ministro ou oficial de justiça a quem o
+conhecimento desta pertencer, dê posse ao dito Antônio de Souza Mota das referidas terras na
+
+forma acima declarada. E por firmeza de tudo lhe mandei passar a presente por mim assinada e
+selada com o signete de minhas armas, que se cumprira inteiramente como nela se contém,
+registrando-se nos livros desta secretaria, nos da Fazenda Real e nos mais tocar. Dada na cidade
+de São Sebastião do Rio de Janeiro em 20 de outubro de 1739 anos. O oficial da secretaria de
+governo, Pedro Fagundes Varela, que serviu de secretário dele, a fez. //Matias Coelho de Souza//
+Há Vossa Senhoria por bem de dar de sesmaria por esta carta, em nome de Sua Majestade e na
+forma das suas reais ordens, a Antônio de Souza Matos uma légua de terras em quadra na
+capitania dos Goitacazes.
+Registre-se nos Livros da Fazenda Real. Rio, 2 de novembro de 1739. //Melo//
+A folha 115 dos Livros do registro das Sesmarias que se passam por esta secretaria do Governo
+fica registrada esta. Rio, 30 de outubro de 1739. //Pedro Fagundes Varela//
+Registrada no Livro 1° do Tombo das Sesmarias que serve neste Cartório a folha 32. Rio, 6 de
+novembro de 1739. //Francisco Xavier da Silva//
+Registrada no Livro 28 dos registros desta Provedoria a folha 12. Rio, 5 de novembro de 1739.
+//Antônio de Faria Melo//
+Cumpra-se como por ela se contém.
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro Mathias Coelho de Sousa concedeu
+e deu de sesmaria a Antonio de Souza Mota uma legoa de terra em quadra nos Campos dos
+Goitacazes. Rio de Janeiro, 20 de outubro de 1739.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 10495 e à Portaria n°
+10497.
+Referência:
+AHU_ACL_CU_017-1, Cx. 45\Doc. 10496
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

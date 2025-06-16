@@ -1,0 +1,170 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0137
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Carlos Vitorino",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-05-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio O Sussuapara",
+  "Ribeira": "Riacho dos Porcos, Rio Corrente",
+  "Justificativas": "Alegou possuir curral; Não possuía as terras com justo título; As terras eram devolutas; Tinha gado vacum; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar e havendo nas terras aqui concedidas rio navegável que necessite de canoa para se atravessar ficará reservada meia légua de terra de uma das margens para o uso público.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0137"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0137
+Carta de concessão a Antonio Carlos Vitorino - 08/05/1750
+Registo de uma carta de data, e sesmaria concedida a Antonio Carlos Vitorino.
+ 
+Francisco
+Pedro de
+Mendonça
+Gorjão,
+do concelho de Sua Majestade,
+governador e capitão-general do Estado do Maranhão. Faço saber aos que esta minha
+carta de data e sesmaria virem que Antonio Carlos Vitorino me representou que ele
+havia povoado um sítio com gados vacuns, em que tem feito currais, a que chamam o
+Sussuapara em terras devolutas, e porque não possuía propriedade das ditas terras me
+pedia fosse servido conceder-lhe em nome de Sua Majestade por data e sesmaria 3
+léguas de terra de comprido, e uma de largo em campos na dita paragem, fazendo pião
+no dito curral, correndo légua e meia pelo Riacho dos Porcos acima, e légua e
+meia para baixo buscando o rumo do Corrente. Ao que atendendo, e a resposta que me
+deu o Senado da Câmara, e a informação do doutor provedor-mor da Fazenda Real, que
+se lhes não ofereceu dúvida e ser em utilidade da mesma Fazenda o cultivarem-se as
+terras neste Estado. Hei por bem conceder-lhe em nome de Sua Majestade por data
+e sesmaria 3 léguas de terra de comprido e uma de largo na dita paragem com as
+confrontações referidas, condições expressadas nas Reais Ordens. E com a de não fazer
+trespasse
+por
+meio
+algum,
+em
+nenhum
+tempo,
+a
+pessoa
+alguma,
+religião
+ou comunidade sem primeiro dar parte na
+Casa
+da Fazenda ao doutor provedor-mor
+dela para se me fazer presente, e ver se se deve ou não consentir no tal traspasse sob
+pena de ficar nula esta data e se poderá conceder novamente a outrem; e nesta forma se
+lhe passa sua carta para que o dito Antonio Carlos Vitorino haja, logre e possua
+as ditas terras como coisa sua própria para ele e todos seus herdeiros, ascendentes
+e descendentes sem
+pensão
+nem
+tributo
+algum
+mais
+que
+o
+dízimo
+a Deus,
+Nosso Senhor, dos frutos que nelas houver, e lavrar, a qual concessão lhe faço não
+prejudicando a terceiro nem a Sua Majestade se no dito sítio quiser mandar fundar
+alguma vila, reservando os paus reais que nelas houverem para embarcações, com
+declaração que mandará confirmar esta data dentro nos primeiros 3 anos seguintes, e
+cultivaram as ditas terras de modo que deem fruto, e dará caminhos públicos, e
+particulares onde forem necessários para pontes, fontes, portos e pedreiras e se
+demarcará no tempo da posse por rumo de corda e braças craveiras como é estilo
+e Sua Majestade manda. E havendo nas terras aqui concedidas rio navegável que
+necessite de canoa para se atravessar ficará reservada meia légua de terra de uma das
+margens para o uso público. E outrossim, não poderão suceder nelas religiões nem
+outras pessoas eclesiásticas por nenhum título que seja e acontecendo possuí-las será
+com o encargo de pagar delas dízimos a Deus como se fossem possuídas por seculares;
+e faltando a qualquer destas cláusulas se haverão as ditas terras por devolutas, e se darão
+a
+quem
+as
+denunciar
+como
+o dito Senhor
+ordena.
+Pelo
+que
+mando
+ao doutor provedor-mor da Fazenda Real, mais ministros e pessoas a quem tocar que na
+forma
+referida
+deixem
+ter
+e
+possuir
+as ditas terras
+ao dito Antonio
+Carlos
+Vitorino para ele e todos seus herdeiros, ascendentes e descendentes. Cumpram e
+guardem esta minha carta de data tão inteiramente como nela se contém a qual lhe
+mandei passar por mim assinada, e selada com o sinete de minhas armas que se
+registara [sic] nos Livros da Secretaria do Estado, e nos da Fazenda Real, e se passou
+por
+duas
+vias.
+Dada
+na Cidade de São Luís
+do Maranhão aos
+8 de Maio, ano
+do nascimento de Nosso Senhor Jesus Cristo de 1750. E eu, João Antônio Pinto da
+Silva, secretário do Estado por Sua Majestade a fiz escrever. //Francisco Pedro
+ de
+Mendonça  Gorjão//.
+
+-Fim da Transcrição-
+Observações do documento:
+O nome original do sesmeiro, tal como consta no documento, é Antonio Carlos
+Victorino.
+Referência:
+APEP, Livro 14, Doc. 107, fls. 76f-76v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

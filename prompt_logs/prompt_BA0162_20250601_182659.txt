@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0162
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Souto de Macedo, Francisco de Brás, Teodósio da Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-11-1658",
+  "Observações da sesmaria": "A sesmaria possuía 16 léguas de comprimento e oito de largura e estava  localizada no rio das Cabaças, no distrito de São Francisco, fazendo fronteira com as terras de  Nicolau Aranha.",
+  "Localidade": "Rio das Cabaças",
+  "Marcos Geográficos": "Rio das Cabaças",
+  "Confrontantes": " Nicolau Aranha",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Exigiu-se conservar os índios livres em suas aldeias; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das Justificativas": "Alegaram necessitar de pastos para os seus ggados.",
+  "Observações do deferimento e da concessão": "O provedor afirmou que parte das terras solicitadas pelos suplicantes poderiam entrar em contato com as terras de Nicolau Aranha, por isso, era necessário averiguar  antes de conceder a sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Mateus Ferreira Vilas Boas",
+  "referencia": "BA0162"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma provisão de sesmaria que se deu de data de terra ao sargento-mor Damião da 
+Rocha, o capitão Francisco de Brá, Antônio de Souto de Macedo e Teodósio da Rocha de 16 
+léguas de terra do Rio das Cabaças no distrito de São Francisco. 
+Francisco Barreto do Conselho de Guerra de Sua Majestade, governador e capitão geral deste 
+Estado do Brasil etc. Faço saber aos que esta minha carta de doação e sesmaria virem que o 
+sargento-mor Damião da Rocha, capitão Francisco de Brá Antônio de Souto de Macedo e 
+Teodósio da Rocha me enviaram a presentar a petição cujo o teor é o seguinte: o sargento-mor 
+Damião da Rocha, capitão Francisco de Brá, Antônio de Souto de Macedo e Teodósio da Rocha 
+que há muitos anos que são moradores no Rio de São Francisco e tem servido a Sua Majestade 
+e são criadores de gado vacum e cavalar e necessitam de pastos para eles em razão do que 
+perdem as suas criações e sua Majestade e nos dízimos que delas se costumam pagar: e 
+porquanto no distrito do dito Rio junto ao Rio das Cabaças nas cabeceiras ou ilhargas da 
+sesmaria do mestre de campo Nicolau Aranha e dos capitães Francisco de Brá, Damião da 
+Rocha e Baltazar de Faria há terras devolutas e desaproveitadas por terem poucas as querem ir 
+povoar e aproveitar com seus gados e mais criações: pedem a Vossa Senhoria lhe faça mercê e 
+favor, em nome de Sua Majestade, mandar passar carte de sesmaria de 8 léguas de largura dos 
+suplicantes e 16 de comprimento, 8 do Rio dos Cabaços para baixo e do Rio das Cabaças para 
+riba podem fazer das testadas cabeceiras e das cabeceiras testadas como lhe melhor parecer e 
+faltando o no dito Rio das Cabaças se poderá tomar seu rumo ao que receberão mercê. E vista 
+a informação do provedor-mor deste Estado cujo o teor é o seguinte: Ilustríssimo Senhor, pelas 
+informações que tomei sobre o que relata a petição acima e terras que pedem os suplicantes, 
+achei serem pessoas que poderão povoa-las por terem todos eles gados para isso e cabedais: 
+mas tenho por notícia certa que o mestre de campo Nicolau Aranha tem mandado descobrir e 
+abrir caminho para as terras da sesmaria a sua conta: e conforme as confrontações do suplicantes 
+fica prejudicado o dito mestre de campo quando não em todas elas em muita parte. E sendo 
+assim, deve Vossa Senhoria conceder aos suplicantes as terras que pedem com esta declaração 
+de sorte que não fique prejudicado nem outro terceiro algum antes seu direito reservado. Vossa 
+Senhoria mandará o que for servido. Bahia, 11 de novembro de 1658 // Mateus Ferreira Vilas 
+Boas // E visto constar do cabedal dos suplicantes, digo, do cabedal dos impetrantes: hei por 
+bem e lhes faço mercê em nome de Sua Majestade dar como pela presente dou de sesmaria as 
+terras que pedem assim e da maneira que confrontam em sua petição não prejudicando a terceiro 
+com todas as suas águas, terras, digo, as águas, campos, matas, testadas e logradouros e mais 
+úteis que nelas se acharem, tudo foro livre e isento de foro, pensão ou tributo algum, digo, ou 
+tributo algum, salvo o dízimo a Deus que pagarão dos frutos que nelas houverem. E porque o 
+principal intento de conceder esta data é a conservação daqueles índios que se pode facilitar 
+com os domesticarem e conservarem livres as suas aldeias. Hei por bem de reservar nesta data 
+a cada aldeia das que compreenderem as referidas 16 léguas de terras uma em quatro para suas 
+lavouras e sustento. E pelas ditas terras serão obrigados a dar caminhos livres ao conselho para 
+pontes, fontes e pedreiras. Pelo o que ordeno a todas as justiças e ministros a quem o 
+conhecimento deva ou possa pertencer lhe mandem dar pose real, efetiva e atual na forma 
+costumada debaixo das cláusulas acima referidas e as mais da ordenação, título das sesmarias 
+e para firmeza do que mandei passar sob meu sinal e selo de minhas armas a qual se registrará 
+nos livros da secretaria e Fazenda Real deste Estado a qual se guardará e cumprirá tão pontual 
+e inteiramente como nela se contém sem dúvida, embargo nem contradição alguma // Antônio 
+de Sousa Azevedo  // a fez aos 17 dias do mês de novembro, ano de 1658 // Ravasco // registre-
+se nos livros da Fazenda. Bahia, 20 de novembro de 1658 // Ferreira // registrada em 23 do dito 
+mês e ano/ Gonçalo Pinto de Freitas // 
+
+- Fim de Transcrição - 
+ 
+ 
+ 
+Referências: 
+DHBN, vol. 19, Pg. 422 - 425 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

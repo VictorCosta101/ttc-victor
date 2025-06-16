@@ -1,0 +1,177 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0092
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0149",
+  "Nome": "Carlos de Azevedo Caldeira, José Paes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "16-11-1759",
+  "Data da concessão": "05-03-1760",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e uma légua de largura na freguesia de Santo Antônio da Mata, próximo ao riacho do Mondé, do poço da Cachoeira até a serra do Domingos. ",
+  "Localidade": "Freguesia de Santo Antônio da Mata",
+  "Marcos Geográficos": "Riacho do Mondé, Poço da Cachoeira, Serra do Domingos",
+  "Justificativas": "As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das exigências": "O governador Luís Diogo Lobo da Silva determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0092"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0092
+Carta de doação e sesmaria de Carlos de Azevedo e José Pais - 05/03/1760
+Carta de sesmaria de Carlos de Azevedo e José Paes.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade e etc. Faço saber aos que
+esta carta de doação de sesmaria virem, que Carlos de Azevedo Caldeira e José Pais,
+moradores na freguesia de Santo Antônio da Mata, me fizeram o requerimento do teor
+seguinte: Ilustríssimo e Excelentíssimo Senhor — Dizem Carlos de Azevedo Caldeira e
+José Pais, moradores na freguesia de Santo Antônio da Mata, que eles suplicantes
+descobriram em distância de vinte léguas acima da dita freguesia bastante terra inculta
+e despovoada, no lugar do gado bravo, riacho do mondé, onde mostra capacidade para
+criação de gados, para cuja razão querem os suplicantes de sesmaria duas léguas de
+terra no dito lugar, pegando acima das impoeiras, a saber: meia légua pelo riacho acima
+e légua e meia pelo riacho abaixo, buscando o poço da Cachoeira, com a largura desde
+a serra de São Domingos até o serrote da Pedra Redonda, com todas as águas que
+correm para o dito riacho; e porque sendo os suplicantes os descobridores da dita terra
+e achando-se esta devoluta por nunca haver sido pedida ou povoada por outro, se fazem
+dignos de que lhe seja dada por sesmaria na forma do estilo, com alguns anos mortos,
+em razão dos trabalhos e despesa que necessariamente hão de fazer os suplicantes para
+a sua cultura, situação de gado e benefício de águas de que o gado carece para a sua
+conservação, e para isso carecem de que Vossa Excelência lhes mande passar sua carta
+de sesmaria. Pedem a Vossa Excelência seja servido conceder-lhes a terra pedida,
+mandando-lhes passar sua carta de sesmaria na forma pedida — E receberá mercê. No
+qual requerimento sendo-me apresentado, mandei por despacho de 16 de novembro do
+ano próximo passado, que jurando os suplicantes não possuírem sesmaria alguma, lhe
+diferiria estando em termos depois de precederem as diligências necessárias, ao que
+satisfizeram com o termo de juramento seguinte: Termo de juramento — Aos 16 dias
+do mês de novembro de 1759, nesta Vila do Recife, perante mim apareceram os
+suplicantes Carlos de Azevedo Caldeira e José Pais, seu irmão, pessoas que reconheço
+pelas próprias de que se tratam, moradores na freguesia de Santo Antônio da Mata, aos
+
+quais dei o juramento aos Santos Evangelhos em um Livro deles, encarregando-lhes
+que bem e verdadeiramente jurassem se tinham outra sesmaria ou havido alcançado
+fora da que pretendiam; e recebido por eles o dito juramento que não tinham outra
+sesmaria mais do que a que pretendem agora alcançar, e de como assim o juraram, fiz
+este termo em que assinaram. E eu, Vicente Gurjão, escrivão, o escrevi —. Carlos de
+Azevedo Caldeira, José Paes de Lira —. Com o qual termo de juramento mandei por
+despacho de 22 de novembro do dito ano, informações dos oficiais da Câmara do
+distrito mandando proceder a editais por onde se verifique se as terras que os
+suplicantes pretendem tem a natureza que dizem e se há terceiros prejudicados em se
+darem de sesmaria como se pretende, ficando a légua de permeio por logradouro e
+baliza da mesma, e confinantes na forma das últimas ordens de Sua Majestade em
+observância
+do
+mesmo
+informou
+a
+dita
+Câmara
+o
+seguinte:- Ilustríssimo e
+Excelentíssimo Senhor — Em observância do despacho de Vossa Excelência, proferido
+na petição junta dos suplicantes — Carlos de Azevedo Caldeira e José Paes, mandamos
+fixar edital na matriz de Santo Antônio da Mata, e nos consta por certidão de Miguel
+Alves de Castro, oficial de justiça, que o dito edital estivera fixado nove dias e que
+neles não fora pessoa alguma com dúvida, embargo ou contradição, pelo que nos
+parece se fazem dignos os suplicantes da sesmaria que pretendem, sendo Vossa
+Excelência assim servido de que mandamos passar a presente por nós assinada —
+Olinda em Câmara de 12 de janeiro de 1760 — E eu, Francisco Xavier Louzado,
+escrivão da Câmara, o escrevi — Pedro Velho Barreto — João Luiz da Serra
+Cavalcante — Luiz de Albuquerque Maranhão — Felix de Paiva Barreto — E com a
+dita informação, mandei por despacho de 15 do presente mês e ano, informar ao
+provedor da Fazenda Real, ouvindo o procurador e escrivão da mesma, do qual satisfez
+o dito provedor, mandando informar o dito escrivão e responder o mesmo procurador, e
+o primeiro o fez na forma seguinte — Senhor provedor da Fazenda Real — Visto
+constar estarem as terras que o suplicante pede devolutas, parece estar em termos de se
+conceder as duas léguas que requer, sendo ordinárias e contíguas, com a largura de uma
+só légua, pagando o foro de 4:000 por légua em cada ano e dando fiança idônea nesta
+praça, aos foros que se vencerem: Vossa mercê mandará o que for servido. Recife, 21
+de janeiro de 1760 — Bernardo Pereira de Vasconcelos — Resposta do procurador
+
+senhor provedor da Fazenda Real — Conformo-me com a informação do escrivão da
+Fazenda Real — Vossa mercê informará o que for servido. Ipojuca, 23 de janeiro de
+1760 — Caetano Ribeiro Soares, e com a dita informação e resposta informou o
+provedor o seguinte: — Ilustríssimo e Excelentíssimo Senhor - Devem os suplicantes
+dar fiança ao foro de 4000 por cada légua de terra que pretendem e correr este do dia
+da data, e não com anos mortos como requer. Vossa Excelência mandará o que for
+servido — João do Rego Barros – E sendo-me apresentada a dita informação,
+ultimamente mandei por despacho de 25 do corrente se lhes passasse carta de sesmaria,
+salvando o prejuízo de terceiro e declarando as cláusulas respectivas a demarcar,
+povoar e cultivar, na forma que determina a Ordenação do Reino e deixando a légua de
+permeio, que pelas últimas ordens régias se insinua, em virtude do que e do capítulo 15
+do Regimento deste Governo — Hei por bem dar de sesmaria aos suplicantes, em
+nome de Sua Majestade, as duas léguas de terras que requerem, sendo ordinárias e
+contíguas, com uma légua de largo, nos lugares pedidos e confrontados em sua petição,
+deixando a légua de permeio para logradouro, na forma das ordens de Sua Majestade,
+pagando o foro de 4:000 por cada légua anualmente, da maneira que diz o escrivão e
+provedor da Fazenda; ao que deu fiança na provedoria desta Praça, no Livro 14 delas, a
+folha 288, e não passará a religiões, salvo for com o mesmo encargo com que as
+possuem os seculares, cuja terra possuíram e gozaram eles, seus herdeiros ascendentes
+e descendentes, como sua que fica sendo de hoje para todo sempre, com todas as suas
+pertenças, matas, campos, águas, rios, fontes, testadas logradouros e mais úteis que
+nelas compreenderem, não prejudicando a terceiro, e serão obrigados e requerer
+confirmação real dentro em três anos e a medirem, demarcarem, povoarem e
+cultivarem na forma que determina a lei do Reino; serão também obrigados a dar
+caminhos livres ao Conselho para fontes, pontes e pedreiras, e não fazendo tudo se
+derem as ditas terras por devolutas e se puderem dar sesmaria a quem as pedir. Pelo
+que ordeno aos ministros da Fazenda e Justiça e pessoa a quem tocar, cumpram e
+façam cumprir e guardar esta carta de doação de sesmaria, como neles se contém,
+fazendo dar aos suplicantes a posse real, efetiva e atual, na forma costumada e debaixo
+das cláusulas referidas e das mais ordenação titulada de sesmarias. Em firmeza do que
+lhe mandei passar a presente por mim assinada e selada com o sinete de minha armas,
+
+que se registrará na secretaria deste Governo, provedor da Fazenda Real e mais partes a
+que tocar. Dada no Recife de Pernambuco, aos 5 dias do mês de março – Francisco
+Gonçalves Reis Lisboa a fez – Ano do nascimento de Nosso Senhor Jesus Cristo, de
+1760 – Felipe Nery Correia – oficial maior da Secretaria, a fez escrever – Luiz Diogo
+da Silva -.
+-
+Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2.
+p. 128 - 132.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

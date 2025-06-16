@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0108
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Lopes Torrão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-05-1698",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento e estava localizada na direção do rio das Caravelas, em Porto Seguro, na Bahia, em 1698.",
+  "Localidade": "Porto Seguro",
+  "Marcos Geográficos": "Rio das Caravelas",
+  "Observações da petição": "O suplicante solicitou duas léguas em quadra.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Deve-se reservar madeira para construção de embarcações; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da fazenda afirmou que eram para ser concedidas ao suplicante uma légua de largura e três de comprimento ao invés das duas léguas em quadra que ele tinha solicitado. O governador-geral concordou com o parecer do provedor.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Bonicho",
+  "referencia": "BA0108"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um alvará de doação e sesmaria concedida a Antônio Lopes Torrão, ele e seus 
+descendentes, uma légua de terra de largura e 3 de comprimento na capitania de Porto Seguro 
+pela costa abaixo para o rio das Caravelas. 
+Dom João de Lencastre, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que tendo respeito ao que Antônio Lopes Torrão me 
+representou por sua petição cujo o teor é o seguinte: diz Antônio Lopes Torrão que na capitania 
+de Porto Seguro, pela costa abaixo para o rio das caravelas, estão devolutas muitas terras que 
+principiam dos quilombos, correndo o mato grosso para o sul até o dito cais, e porque o 
+suplicante se acha com animo e cabedal para cultivar as ditas terras, que é em utilidade da Coroa 
+e rendas Reais. Pede a Vossa Senhoria [que] lhe faça mercê conceder de sesmaria 2 léguas de 
+comprimento, correndo pela costa correndo para o sul e 2 léguas de fundo pelo sertão dentro. 
+E receberá mercê. E vista o parecer do doutor procurador da Fazenda Real deste Estado a que 
+se deu vista, cujo o teor é o seguinte: declarando o suplicante mais as confrontações. Fiat Justitia 
+// Doutor Bonicho // Declaração que fez o suplicante que é a que se segue: a sesmaria que o 
+suplicante pede começa do rio caí, correndo para o norte e confronta pela parte do sul com a 
+sesmaria pedida pelas cartas, correndo do sul para o norte. Vossa senhoria mandará o que for 
+servido. E a informação do dito provedor-mor da mesma Fazenda Real que também é a 
+seguinte: pela última ordem de Sua Majestade, Deus o guarde, não se permite mais léguas de 
+terra de sesmaria que 3, estas parecem [que] se podem conceder ao suplicante sob todas as 
+cláusulas e condições da lei, na forma que as confronta em que pareceu me satisfazer a que o 
+doutor procurador da Fazenda diz em sua resposta e demais com as condições de não cortar, 
+nas ditas 3 léguas de terra, madeiras algumas das que foram ter serventia para a fábrica das naus 
+que Sua Majestade tenha mandado estabelecer neste Estado, sendo em parte que possam 
+conceder a portas do mar. Vossa Senhoria mandará o que for servido. Bahia, 15 de maio de 
+1698 // Francisco Lamberto // Hei por bem conceder e dar, em nome de Sua Majestade, que 
+Deus guarde, ao dito Antônio Lopes Torrão para ele e seus descendente, uma légua de terra de 
+largura e 3 de comprimento na parte em que pede e confronta em sua petição e declaração nesta 
+inscrita, com condição de não cortar madeira alguma das que houverem serventia para a fábrica 
+das naus de Sua Majestade, e não prejudicando a terceiro, como aponta o provedor-mor da 
+Fazenda Real, e as aproveitará dentro do termo da lei, e as nem passará a outro algum domínio 
+sem as ter aproveitado com condição de se darem logo neste caso a quem a outra pessoa, nem 
+o poderá fazer sem expressa ordem de Sua Majestade e com as mais cláusulas contidas na 
+ordenação do Reino, título de sesmarias e forma do capítulo 26 do regimento novo deste 
+governo geral as quais terras terá e possuirá com todas as suas águas, matas, testadas, 
+logradouros e mais úteis que nelas se acharem com foro livre e isento de pensão salvo o dizimo 
+a ordem de Cristo que pagará pelos frutos que delas houver, e por elas serão obrigados a dar 
+caminhos públicos e particulares para fontes, pontes, portos e pedreiras com declaração que se 
+havendo nas ditas terras alguma aldeia de índios, não fique o dito Gaspar da Costa senhor dela 
+e nem das terras que ocuparem os índios na forma das novas ordens de Sua Majestade. Pelo o 
+que ordeno a todos os ministros e oficiais de justiça, a que o conhecimento deva ou possa 
+pertencer, [que] lhe façam dar e deem posse real, efetiva e atual demarcando-se no tempo dela 
+citados os éreos, que enviarão certidão a casa dos contos de onde se registrará. Para a firmeza 
+do que lhe mandei lavrar a presente sob o sinal e selo de minhas armas do qual se registrará nos 
+livros da secretaria do Estado, e nas mais a que tocar da Fazenda Real dele e nos do escrivão de 
+sesmarias, se guardará e cumprirá tão pontual e inteiramente com nele se contém sem dúvida, 
+embargo nem contradição alguma. // Manuel Rigueiro // a fez nesta cidade do Salvador, Bahia 
+de todos os santos aos 16 dias do mês de maio, ano de 1698 // Gonçalo Ravasco Cavalcante e 
+Albuquerque // a fiz escrever // Dom João de Lencastro // selo // Alvará de doação que Vossa 
+
+Senhoria Ilustríssima foi servido conceder em nome de Sua Majestade, que Deus o guarde, a 
+Antônio Lopes Torrão, para ele e seus descendentes uma légua de terra de largura e 3 de 
+comprimento na parte que pede e confronta em sua petição nesta inscrita de não cortar madeira 
+alguma das que houverem serventia para a fábrica das naus de Sua Majestade e não 
+prejudicando a terceiro como aponta o provedor-mor da Fazenda Real, nem as aldeias e terras 
+dos índios que nelas se acharem com as cláusulas e respeitos acima declarados. Para Vossa 
+Ilustríssima ver. Registrado no livro 5° dos registros da secretaria do Estado do Brasil, que 
+tocava as folhas 109. Bahia, 16 de maio de 1698 // Ravasco // Registre-se. Bahia, 22 de maio 
+de 1698 // Lamberto // Leonardo Lopes de Carvalho // o registrou-se no dito dia, mês e ano. 
+ 
+ 
+- Fim de Transcrição- 
+ 
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Antonio Lopes Torrão” 
+ 
+Referências: 
+AN, Códice, fls. 101v – 102v. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

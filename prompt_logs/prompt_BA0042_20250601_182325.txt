@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0042
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Julião Afonso Serra",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "12-02-1674",
+  "Observações da sesmaria": "A sesmaria possuía três léguas e meia em quadra e estava localizada próxima ao rio das Velhas.",
+  "Localidade": "Rio das Velhas",
+  "Marcos Geográficos": "Rio das Velhas",
+  "Observações da petição": "O sesmeiro solicitou, junto do seu irmão, Domingos Afonso Sertão, cinco léguas em quadra para cada um.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; Tinha escravos; Tinha cabedal; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor afirmou que concordava com o tamanho da terra solicitada, no entanto, o sesmeiro não delimitou muito bem a localização da sesmaria, por isso, em seis meses ele deveria enviar as delimitações. O governador-geral decidiu doar três léguas e meia em quadra para Julião Afonso Serra, apenas. O seu irmão iria receber sua porção de terra em uma outra concessão, de forma separada.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0042"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria e data de terra que se deu à Julião Afonso Serra, de 3 léguas e meia 
+em quadra, no Rio das Velhas.  
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que, Julião Afonso Serra, me enviou a representar por sua petição, cujo teor é 
+o seguinte: senhor, dizem Domingos Afonso sertão, Julião Afonso Serra, que eles tem gados 
+em sítios alheios do que pagam renda, porque não tem terras e tem cabedal e escravos com que 
+os povoar, e porque em as cabeceiras das terras que ocupava o gentio brabo em um rio chamado 
+Guaibim pela língua do gentio, e pela nossa se chama Rio das Velhas, há muitas terras que os 
+ditos podem povoar de gados, porque tem cabedal para o fazerem como é notório de que 
+receberá aumento a Fazenda Real, e a esta república. Pedem a Vossa senhoria lhe faça mercê 
+dar lhe 5 léguas de terra de sesmaria a cada um em quadra em o dito rio, começando na barra 
+por uma banda, e outra como direito pelo rio acima, reservando matas, serras, que são terras 
+incapazes de se cultivarem nem pastarem nelas, e sendo caso que estejam dadas as ditas terras, 
+lhe faça Vossa senhoria mercê dar-lhe as ditas 5 léguas de terra a cada um pelas cabeceiras de 
+que antes desta foi dada pelo rio acima, correndo para a banda do poente ou nascente, ou Norte, 
+ou Sul, como melhor o suplicante ficarem acomodados nas ditas 5 léguas. E receberá mercê. 
+Visto a resposta do procurador da Fazenda Real, que é a seguinte: bem se pode conceder de 
+sesmaria os suplicantes para cada um 3 léguas e meia de terra na forma que pedem, obrigando-
+se na forma da lei foral a povoá-las e cultivá-las no termo que ela assina, e com as mais 
+condições do regimento. Bahia, 10 de janeiro de 1674. Rocha// Informação do provedor-mor 
+da dita Real Fazenda, que é a que se segue. Senhor, parece-me que se podem conceder aos 
+suplicantes a terra que diz o procurador da Real Fazenda, visto não se lhe oferecer dúvida que 
+seja, sem prejuízo de terceiro e com as obrigações do foral e regimento; e que visto não 
+nomearem parte certa, nem confrontações dos rumos, sejam obrigados tanto que tomarem posse 
+virem a dar parte dentro de 6 meses das confrontações, e umas para se declarar à margem do 
+registro, e evitarem dúvidas para adiante. Vossa senhoria mandará o que for servido. Bahia, 11 
+de janeiro de 1674. Antônio Lopes de Ulhôa// Hei por bem de conceder, e dar como pelo 
+presente faço de sesmaria, em nome de Sua Alteza, ao dito Julião Afonso Serra, 3 léguas e meia 
+de terra em quadra como a pede em sua petição, com a declaração que será obrigado tanto que 
+tomar posse dela vir dar parte dentro de 6 meses das confrontações, e rumos para se declarar à 
+margem do registro, e se evitarem dúvida para adiante, visto não nomear parte certa, nem 
+confrontações dos rumos como parecesse do dito provedor-mor, e lhe concedo, não 
+prejudicando a terceiro, nem terras que de novo se determinou tivessem as povoações que se 
+fizessem para se darem a seus povoadores, com todas suas águas, campos, matas, testadas e 
+logradouros, e mais úteis que nelas se acharem, todo forro livre e isento de pensão ou tributo 
+algum, salvo o dízimo a Deus, que pagará dos frutos que nelas houver, e por elas será obrigado 
+a dar caminhos livres ao conselho para fontes, pontes e pedreiras, e povoá-las no termo da lei e 
+regimento, pois nesta conformidade lhe concedo. Pelo que ordeno e mando a todos os ministros 
+de justiças, a que o conhecimento destes, com direito deva ou possa pertencer, lhe façam dar a 
+posse real efetiva e atual e na forma costumada debaixo das cláusulas acima referidas, e as mais 
+da ordenação, título das sesmarias, para firmeza do que lhe mandei passar o presente sob meu 
+sinal e selo de minhas armas, o qual se registrará nos livros da secretaria e nos mais a que tocar, 
+e se guardará e cumprirá tão pontual e inteiramente como nele se contém, sem dúvida embargo 
+nem contradição alguma. Antônio Garcia o fez nesta cidade do Salvador. Bahia de Todos os 
+Santos, em os 12 dias do mês de fevereiro, ano de 1674. Bernardo Vieira Ravasco o fiz escrever. 
+Afonso Furtado de Castro do Rio de Mendonça. Registrado no segundo livro dos registros da 
+secretaria do Estado do Brasil, a que toca a folha 15, verso. Bahia, 12 de fevereiro de 1674. 
+
+Ravasco // Despacho do provedor-mor. Registre-se nos livros da Fazenda como Sua Alteza 
+manda. Bahia, 19 de fevereiro de 1674. Antônio Lopes de Ulhoa // Registrou-se em 20 do dito 
+mês e ano, e se entregou ao capitão Luiz Romão, que a deu a registrar, diz o emendado, e 70. 
+Miguel Pinto de Freitas//.  
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+ 
+O nome do sesmeiro, tal qual consta no documento, é Julião Afonso Serra. 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 70v – 71v  
+Numeração original no livro: 64  
+ 
+  
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0045
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0091",
+  "Nome": "Fernão Barbalho Feijó",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "05-05-1724",
+  "Observações da sesmaria": "O sesmeiro requereu uma légua e meia de comprimento e uma légua e meia de largura na freguesia do Cabo, próximo ao Engenho do Araribas, da barra do ribeiro de Domingos Gomes até o rio do Arariba. ",
+  "Localidade": "Freguesia do Cabo",
+  "Marcos Geográficos": "Rio Arariba, Barra do Ribeiro de Domingos Gomes",
+  "Confrontantes": "Engenho do Araribas",
+  "Justificativas": "Pretendia plantar; Pretendia pagar foro régio; Não tinha terras para a plantação de lavouras; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto não foi possível determinar as informações referentes ao despacho e a concessão. \r\nO provedor, João do Rego Barros, determinou que o suplicante pagasse o foro régio e não passasse a terra para ordens religiosas. ",
+  "Observações das exigências": "Devido ao documento encontrar-se incompleto não foi possível determinar as informações referentes ao despacho e a concessão. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0045"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0045 
+ 
+Carta de doação e sesmaria de Fernão Barbalho Feijó 
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU A FERNÃO BARBALHO FEIJÓ, 
+CONCEDIDA NAS PARTES QUE NELA SE DECLARA. = 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general e etc. - 
+Faço saber aos que esta carta de doação de sesmaria virem, que Fernão Barbalho Feijó me 
+apresentou a petição cujo teor é o seguinte: "Senhor. Diz Fernão Barbalho Feijó, que existe esta 
+sorte de terras na freguesia do Cabo, junto ao Engenho do Araribas, começando da barra do ribeiro, 
+chamado de Domingos Gomes, pelo rio do Arariba acima até o ribeiro chamado o casal de Pedro, a 
+qual está devoluta e sem quem a cultive há muitos anos, e em quadro quer uma légua e de uma e 
+outra parte do rio meia légua de cada parte, para cultivar suas lavouras, criar suas criações e 
+desmaninhar as matas que pede o suplicante de sesmaria, pagando o foro usual; Pede a Vossa 
+Senhoria lhe faça mercê conceder a dita légua de terra de sesmaria, na forma que pede. E receberá 
+mercê. – Informe o provedor da Fazenda Real, ouvindo ao doutor procurador da Coroa. Recife, 5 de 
+maio de 1724. "Rubrica" = Haja vista ao doutor procurador da Coroa. Recife, 5 de maio de 1724 = 
+Barros = Não tenho dúvida, feita a data na forma da Ordenação Livro 4.° título 43, e com o foro. 
+Recife, 15 de maio de 1724 = Pereira = Senhor governador e capitão general - Responde o doutor 
+procurador da Coroa e Fazenda Real, ao qual Vossa Senhoria me mandou ouvir sobre este 
+requerimento, que não tem dúvida feita a data na forma da Ordenação Livro 4.º título 43, e com o 
+foro, e a mim também se me não oferece dúvida, fazendo-se a dita data com a declaração de pagar 
+dízimo a ordem de Cristo e não passarem as terras a religiões por nenhum título, e no caso que 
+sucedam ser possuídas como por seculares, como Sua Majestade, que Deus guarde, tem ordenado e 
+pagando o foro de seis mil réis por ano, observando o que Sua Majestade tem ordenado pelas suas 
+reais ordens que se achão na Secretaria deste Governo; Vossa Senhoria mandará o que lhe parecer 
+mais conveniente, digo, justo, com a retidão que costuma. Recife, 16 de maio de 1724. João do 
+Rego Barros = E havendo respeito ao que Sua Majestade me concede no capítulo 15 do Regimento 
+deste Governo, e a tudo o mais que o dito senhor determina neste particular abaixo declaradas. Hei 
+por bem fazer-lhe mercê dar ao suplicante acima nomeado, como pela presente dou de sesmaria em 
+em nome d'ElRei, Nosso Senhor [...]. 
+- Fim da carta - 
+ 
+Observação: 
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem 
+constar os detalhes do parecer final.  
+ 
+Referência: 
+
+Documentação Histórica Pernambucana, Livro I, fls. 285 - 286. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

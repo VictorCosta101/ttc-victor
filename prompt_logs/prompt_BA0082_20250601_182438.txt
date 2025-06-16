@@ -1,0 +1,133 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0082
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Andreza Fagundes, Custódio de Oliveira de Araújo, Domingos de Oliveira de Araújo, Jorge Martins de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "23-04-1684",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas de comprimento e seis de largura e estava localizada entre o rio Real e o rio Itapecurú.",
+  "Localidade": "Entre os rios Real e Itarecurú.",
+  "Justificativas": "Era morador(a) da Capitania; Não tinha terras; Tinha cabedal; Tinha gado; Tinha gado vacum; Tinha gado cavalar; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações das Justificativas": "Alegaram que as terras solicitadas estavam abandonadas há mais de 70 anos",
+  "Observações das exigências": "Determinou-se enviar certidão de como as tem povoado; Determinou-se que não poderia vender sem autorização régia.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Bezerra",
+  "referencia": "BA0082"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria de duas léguas de comprimento e 5 ou 6 de largura, pouco mais ou 
+menos, que se concedeu por devoluta ao capitão Jorge Martins de Oliveira, o alferes Domingos 
+de Oliveira de Araújo e outros. 
+ 
+Antônio de Sousa de Menezes, governador e capitão geral do Estado do Brasil. Faço saber aos 
+que este alvará de doação e sesmaria virem, que o capitão Jorge de Oliveira, o alferes Domingos 
+de Oliveira de Araújo, Custódio de Oliveira de Araújo, e Andreza Fagundes, me representaram 
+por sua petição, cujo teor é o seguinte: senhor, o capitão Jorge Martins de Oliveira, o alferes 
+Domingos de Oliveira de Araújo, Custódio de Oliveira de Araújo e Andreza Fagundes, 
+moradores no termo desta cidade da Bahia, que elas são pessoas de posses e muitas criações de 
+gado, vacum, e cavalar, e não tem terras para as trazerem de que Sua Majestade recebe perda, 
+que entre o rio real e o rio Itapecurú, termo desta cidade, onde chamam a terra nova se deu uma 
+data de terra, no ano de 1612, pelo governador que foi deste Estado do tal tempo Dom Diogo 
+de Menezes, e o Licenciado Diogo Pereira, e a Sebastião Vasques, já defunto, e a Belchior de 
+Matos, e porquanto Belchior de Matos, nem por si, nem por seus herdeiros, até hoje nunca 
+povoaram, nem aproveitaram um quinhão, que na sesmaria lhe tocavam, este quinhão está 
+perdido e devoluto há mais de 70 anos por não haver herdeiro a quem pertença, e eles, 
+suplicantes, o querem povoar e aproveitar. Pedem a Vossa Senhoria, lhe faça mercê dar em 
+nome de Sua Majestade de sesmaria o quinhão do dito Belchior de Matos, por devoluto, não 
+aproveitado, o qual o quinhão está entre os dois rios acima nomeados Itapecuru, e rio real, 
+governando-se sempre pela dita sesmaria antiga acima nomeada, que são duas léguas de 
+comprimento, e 5 ou 6 de largura, pouco mais ou menos. E reberão mercê. E vista a resposta 
+do procurador da Fazenda Real, que é a que se segue. Não tenho dúvida a que se dê aos 
+suplicantes a terra que pedem de sesmaria por devoluta, tendo passado tantos anos sem se 
+aproveitar e cultivar até agora, pois pela lei passado 5 sem andam dar de novo assim para isso 
+sejam citadas as pessoas, a que primeiro foram dadas. Bahia, 20 de abril de 1684. //Bezerra// E 
+a informação do provedor-mor da dita Real Fazenda, que também é a seguinte: senhor, informo 
+com a parecer do procurador da Fazenda Real, com que me conformo. Vossa Senhoria mandará 
+o que for servido. Bahia, 21 de abril de 1684. //Francisco Lamberto// Hei por bem de conceder 
+e dar de sesmaria ao suplicante, como por este faço, em nome de Sua Majestade, assim como 
+pedem e confrontam em sua petição, comparece aos ministros da Fazenda, sem prejuízo de 
+terceiro, com todas suas águas, campos, matos, testadas, logradouros, e mais úteis que ela se 
+acharem tudo livre, isento de pensão ou tributo algum, salvo dízimo a Ordem de Cristo, que 
+pagarão dos frutos que nela houver e por elas serão obrigados a dar caminhos públicos, e a 
+particulares para fontes, pontes, portos e pedreiras e de as cultivar no termo da lei e regimento 
+demarcando-se ao tempo da posse, citados os éreos, e demandar certidão de como as tem 
+povoado dentro no dito termo para se registrar nos livros da Fazenda Real, as quais não poderão 
+vender, nem atear sem ordem expressa de Sua Majestade, sucedendo os filhos e herdeiros 
+legítimos, pelo que mando a todos os ministros de justiça a que o conhecimento deste com 
+direito deva ou possa pertencer, lhes façam dar a posse real efetiva e atual na forma costumada, 
+debaixo das cláusulas acima referidas e as mais da ordenação, título das sesmarias. Para firmeza 
+do que lhes mandei passar o presente sob meu sinal, estilo de minhas armas, o qual se registrará 
+nos livros da secretaria deste Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual 
+e inteiramente como nele se contém, sem dúvida, embargo, nem contradição alguma. Dada 
+nesta cidade do Salvador, Bahia de Todos os Santos, em os 23 de abril de 1684. Pagou defeito 
+desta 4 mil reis. Antônio Garcia, oficial-mor da secretaria deste Estado, que sirvo por 
+impedimento do secretário dele, e mandado do Senhor Antônio de Souza de Menezes, 
+governador e capitão geral deste Estado. //Antônio de Souza// Selo. Alvará de doação e sesmaria 
+
+de um quinhão com duas léguas de comprimento, e 5 ou 6 de largura, pouco mais ou menos, 
+que Vossa Senhoria teve por bem conceder por devoluto e desaproveitado ao capitão Jorge 
+Martins de Oliveira, o alferes Domingos de Oliveira de Araújo e Andreza Fagundes, assim 
+como a ordem e confrontam em sua petição nesta incerta, não prejudicando a terceiros que não 
+poderão vender  
+ 
+- Fim da transcrição - 
+ 
+Observações do documento: 
+ 
+Os nomes dos sesmeiros, tal qual constam no documento original são: Jorge Martins de Oliveira 
+e o alferes Domingos de Oliveira de Araújo, e outros. 
+ 
+Referências: 
+AN, Códice 427, fls. 241v – 243.  
+Numeração original do livro: 173 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

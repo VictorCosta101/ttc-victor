@@ -1,0 +1,100 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0244
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0323",
+  "Nome": "Manuel Cláudio Lírio",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-12-1711",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura no lugar do Cuiambuca, termo da vila de Sirinháem, a leste das terras de Domingos Pereira.",
+  "Localidade": "Cuiambuca",
+  "Confrontantes": "Domingos Pereira",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão. A sesmaria foi considerada nula e inválida por acórdão da Relação da Bahia de 1797 por ser creditada como apócrifa. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0244"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0244 
+ 
+Carta de concessão de Manuel Claudio Lírio de 10/02/1711 
+ 
+A sesmaria de duas légua de terra em quadra na vila de Sirinhaém, no lugar do 
+Cuiambuca, pegando da parte do leste nas testadas das terras de Domingos Pereira, 
+seguindo pelo riacho do dito Cuiambuca acima, buscando o rumo de este, concedida em 
+10 de dezembro de 1711 a Manoel Claudio Lirio, confirmada por El Rei Dom José, e 
+registrada em 10 de fevereiro de 1789 por autorização da Junta, como Presidente o 
+Excelentíssimo Senhor capitão general D. Thomaz José de Mello, deixou de ter efeito, 
+como se vê do seguinte, exposto a margem do Livro: - “Esta sesmaria fica de nenhum 
+efeito, e por devolutas as duas léguas de terra, de que trata, por se julgar apócrifa a carta 
+de data, segundo um acordo da Relação da Bahia, que foi apresentado a Junta da Real 
+Fazenda desta capitania, a qual por seu despacho  de 5 de maio do corrente ano mandou 
+se pusesse esta verba para constar o deduzido, e se não passar a pessoa alguma certidão 
+desta sesmaria sem primeiro apresentar certidão da Secretaria do Governo. -  Documento 
+a Linha número 4:475. Contadoria geral 12 de maio de 1797. Maximiano Francisco 
+Duarte 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.pp.86-87. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

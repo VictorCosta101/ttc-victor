@@ -1,0 +1,153 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0218
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0240",
+  "Nome": "Manuel Gonçalves Chaves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-08-1816",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no riacho do Julgado dos Garanhuns. A sesmaria tinha por limite ao norte com as terras de Francisco José dos Santos, ao Sul com as terras de João Paulo, a leste com a Serra da Palmeira e a oeste com as terras de Manuel Rodrigues.",
+  "Localidade": "Julgado dos Garanhuns",
+  "Marcos Geográficos": "Serra da Palmeira; Riacho do Julgado dos Garanhuns",
+  "Confrontantes": "Francisco José dos Santos, João Paulo, Manuel Rodrigues",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Pretendia pagar foro régio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de dois mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0218"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0218 
+ 
+Carta de concessão de Manuel Gonçalves Chaves de 18/05/1816 
+ 
+Manuel Gonçalves Chaves com um quarto de légua de sesmaria no termo na vila de 
+Garanhuns 
+Caetano Pinto de Miranda Montenegro do Conselho de Sua Majestade Fidelíssima e do 
+da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da capitania 
+de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem que Manuel 
+Gonçalves Chaves morador nesta Praça, que desejando concorrer quanto está da sua parte 
+pelo aumento do importantíssimo ramo da agricultura do país, e  por meio dos rurais 
+trabalhos obter alimentar-se e a família de que se vê honorado: para esse fim pretende que 
+V. Ex.ª lhe mande dar de sesmaria uma légua de terra em quadro, nas denominadas o 
+riacho do julgado de Garanhuns, que divide pelo norte com terras de Francisco Bezerra 
+digo de Francisco José dos Santos, pelo sul com as de João Paulo, pelo nascente com as 
+serras da Palmeira, a pelo poente com terra de Manuel Rodrigues, ao que são costeiros as 
+de matas, e catingas incultas, pertencentes ao distrito da Conservatória das Matas do Sul, 
+que pela disposição do parágrafo 4º do título 1º do respectivo regimento, se destina para 
+agricultura do país, e como as ditas terras pertencem ao Régio Patrimônio, por isso recorre 
+a V. Ex.ª lhe mande dar de sesmaria depois de praticadas as diligências do estilo, para por 
+que se devem passar as ordens necessárias, e pagando o suplicante o foro respectivo por 
+título o suplicante pede a V. Ex.ª a graça de lhe deferir na forma que implora. E receberá 
+mercê; E sendo visto o seu requerimento ordenei por despacho de 20 de março de 1810 
+que informasse a câmara respectiva, e informando-me esta com as oposição que fizeram 
+Manuel Ferreira da Silva, João Paulo de Vasconcelos e Rita Maria da Conceição mandei 
+por outro despacho de 2 de dezembro de 1811 que mostrasse o mesmo suplicante pelos 
+meios reais desembaraçadas as ditas terras; ate que satisfazendo com a final sentneça da 
+justificação que me apresentou do doutor desembargador ouvidor interino da comarca do 
+sertão Antônio José Pereira Barroso de Miranda Leite, mandei que informassem o 
+escrivão deputado da Junta da Real Fazenda, e o doutor procurador da mesma pelos 
+despachos de 16 de dezembro de 1813, e 3 de fevereiro de 1814, e como por parte destes 
+não houvesse embaraço algum, ordenei pelo meu último despacho de 18 de maio do 
+corrente ano que se passasse carta de sesmaria de um quarto de légua ou aquilo que 
+realmente se achar de norte a sul, e de meia légua ou o que na verdade for do nascente a 
+poente, confinando pelo Norte com terra de Francisco José dos Santos, pelo sul com as 
+de João Paulo de Vasconcelos, pelo nascente com as de Rita Maria Conceição, e pelo 
+poente com as de Manuel Rodrigues; sendo estas as confrontações dadas pela 1ª e 2ª 
+testemunha cujos depoimentos serviram de fundamento a referida sentença sem prejuízo 
+de terceiro. E portanto pela faculdade que me é concedida no capítulo 15 do regimento 
+deste Governo: Hei por bem dar em nome de Sua Majestade Fidelíssima ao dito Manuel 
+Gonçalves Chaves a referida terra, pagando o foro anual de dois mil réis em observância 
+da real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria da Junta da 
+Real Fazenda a folha 195 verso do livro 6º delas, e qual sesmaria possuirá e gozará ele 
+suplicante e seus herdeiros ascendentes e descendentes como sua que fica sendo de hoje 
+para todo o sempre, com todas as matas, campo rios, águas, testadas; logradouros, e mais 
+úteis que nela se compreenderem, não prejudicando a terceiro e não passará a religião e 
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os 
+
+seculares, e nunca se dividirá em porções nem se partirá senão por estimação, andando 
+encabeçada em uma só pessoa, na forma da Ordenação livro 4º título 96 parágrafo 23 e 
+assim não passará a herdeiros, ou qualquer outra pessoas sem consentimento da Junta da 
+Real Fazenda, para nela se darem novas fianças, e se fazerem as devidas escriturações, 
+ficando livres para a serventia dos povos todos as estradas, rios, fontes, e pedreiras, e 
+reservadas ao Real Patrimônio as madeiras de construção, pau-brasil, e viveiros de 
+quaisquer metais, e será obrigado a requerer dentro de três anos confirmação, medição, 
+demarcação, povoá0la e cultivá-la na forma da ordem régia de 20 de outubro de 1753 e 
+alvará de 25 de janeiro de 1809, e não o cumprindo assim se haverá por devoluta e 
+novamente se conferirá a quem a requerer. Pelo que ordeno aos ministros da Fazenda e 
+Justiça e mais pessoa a quem tocar cumpram e façam cumprir e guardar esta carta de data 
+de sesmaria como nela se contém, fazendo dar ao suplicante posse real efetiva e atual na 
+forma costumada, debaixo das cláusulas referidas e das mais da Ordenação título das 
+Sesmarias. Em firmeza do referido lhe mandei passar a presente que sendo por mim 
+assinada e selada com o sinete de minhas armas, se registrará na secretaria deste Governo, 
+na da Junta da Real Fazenda, e onde mais tocar. Felipe Esteves Alves a fez em o Recife 
+de Pernambuco em 8 de agosto de 1816/ José Carlos Mairink Silva Ferrão Secretario do 
+Governo a fez escrever. Caetano Pinto de Miranda Montenegro = Carta de data de 
+sesmaria pela qual V. Ex.ª há por bem dar em nome de Sua Majestade Fidelíssima a 
+Manuel Gonçalo Chaves o terreno nela declarado no termo da vila de Garanhuns. Para V. 
+Ex.ª ver = Por despacho do ilustríssimo e excelentíssimo senhor general de 18 de Maio 
+de 1816/ 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 158-159. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

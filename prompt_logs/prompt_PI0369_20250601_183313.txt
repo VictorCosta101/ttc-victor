@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0369
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Gonçalves Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "22-07-1743",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"era senhor e possuidor de um sítio que há muitos anos cultivava e povoava com gados vacuns e cavalares na paragem chamada A Barra\".",
+  "Localidade": "Sítio A Barra",
+  "Confrontantes": "Mesmas partes e lugares nos quais o suplicante estava situado",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0369"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0369
+Carta de concessão ao José Gonçalves Lima - 22/07/1743
+Registro de uma carta de data e sesmaria concedida a José Gonçalves Lima de 3
+léguas de terra de comprido e uma de largo no sítio chamado A Barra.
+ 
+ 
+João de Abreu de Castelo Branco do conselho de Sua Majestade, etc. Faço saber aos
+que esta minha carta de data e sesmaria virem que José Gonçalves Lima, morador na
+capitania do Piauí, me representou que ele era senhor e possuidor de um sítio que há
+muitos anos cultivava e povoava com gados vacuns e cavalares na paragem chamada A
+Barra, que corre de Norte e Sul, e porque dela não tinha título, me pedia fosse servido
+[conceder-lhe] em nome de Sua Majestade 3 léguas de terra de comprido e uma de
+largo, correndo o rumo Norte a Sul, fazendo pião nas mesmas partes, e lugares aonde
+o suplicante se acha [situado]. Ao que atendendo, e a informação do provedor mor da
+Fazenda Real, e ser em utilidade da mesma Fazenda o cultivarem-se as terras neste
+Estado. Hei por bem conceder-lhe, em nome de Sua Majestade, por data e sesmaria, 3
+léguas de terra de comprido, e uma de largo na paragem chamada A Barra, com as
+confrontações acima mencionadas, e condições expressadas nas Reais Ordens, e com a
+de não fazer traspasso por meio algum, em nenhum tempo, a pessoa alguma, religião,
+ou comunidade, sem primeiro dar parte na Casa da Fazenda ao Provedor Mor
+dela para se me fazer presente, e ver se se deve ou não consentir no tal traspasso, sob
+pena de ficar nula esta data, e se poder conceder novamente a outrem. E nesta forma se
+lhe passa carta para que o dito José Gonçalves Lima haja, logre e possua as ditas terras
+como coisa sua própria, para ele e todos os seus herdeiros, ascendentes e descendentes,
+sem pensão nem tributo algum mais que o dizimo a Deus Nosso Senhor dos
+frutos que nelas houver e lavrar, a qual concessão lhe faço não prejudicando a terceiro,
+nem a Sua Majestade. Se no dito sítio quiser mandar fundar alguma vila, reservando os
+paus reais que nelas houver para embarcações, com declaração que mandará confirmar
+esta data por Sua Majestade dentro dos 3 anos primeiros seguintes, e cultivará as ditas
+terras de maneira que deem fruto, e dará caminhos públicos, e particulares aonde forem
+necessários para pontes, fontes, portos e pedreiras. E se demarcará ao tempo da posse
+por rumo de corda e braças craveiras como é estilo, e Sua Majestade manda. E
+outrossim não poderão suceder nelas religiões, nem outras pessoas eclesiásticas por
+nenhum título que seja, mas acontecendo possuí-las, será com o encargo de pagar delas
+dízimos a Deus, como se fossem possuídas por seculares. E faltando a qualquer destas
+cláusulas, se haverão as ditas terras por devolutas, e se darão a quem as denunciar como
+o dito Senhor ordena. Pelo que mando ao provedor mor da Fazenda Real, mais
+ministros, e pessoas a que tocar, que, na forma referida, deixem ter e possuir
+as ditas terras ao dito José Gonçalves Lima como coisa sua própria, e a todos os
+seus herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha carta de
+data e sesmaria tão inteiramente como nela se contém, a qual lhe mandei passar por
+mim assinada e selada com o sinete de minhas armas, que se registará nos livros da
+Fazenda, digo, da secretária do estado e nos da Fazenda Real e se passou por duas vias.
+Dada na cidade de São Luís do Maranhão aos 22 de julho, ano do nascimento de nosso
+Senhor Jesus Cristo de 1743. E eu, José Gonçalves da Fonseca, secretário do estado a
+fez. João de Abreu de Castelo Branco.
+- Fim da Carta –
+
+Referência:
+APEP, Livro 12, doc. 22, fls. 21v – 22v.
+Observação:
+No documento original o nome do suplicante consta como Jozé Glz. Lima, o que,
+seguindo a padronização proposta, foi atualizado para José Gonçalves Lima.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

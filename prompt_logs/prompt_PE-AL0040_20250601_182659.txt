@@ -1,0 +1,172 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0040
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0191",
+  "Nome": "Gregório de Oliveira Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "27-05-1795",
+  "Observações da sesmaria": "O sesmeiro requereu uma légua de comprimento e uma légua de largura na propriedade do engenho que construiu na freguesia de Camaragibe em direção ao sertão até o rio Emberibinha.",
+  "Localidade": "Freguesia de Camaragibe",
+  "Marcos Geográficos": "Rio Emberibinha",
+  "Justificativas": "Pretendia fazer engenho de açúcar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que se correspondeu com Pedro de Araújo Almada, morador na freguesia de Camaragibe, termo da vila de Porto Calvo, que alegou ser dono de uma sesmaria com terras férteis e produtivas. Pedro de Araújo propôs a formação de uma sociedade em que o suplicante erguia um engenho de açúcar na propriedade do correspondente e ambos lucravam com o negócio. Após a construção do engenho, o suplicante descobriu que Pedro de Araújo não somente não era dono das terras, mas havia requerido uma sesmaria com o intuito de alegar que o engenho havia sido construído nas suas terras sem autorização. Diante dos fatos, o suplicante requereu a sesmaria das terras em que havia construído o engenho alegando ter sido enganado e gasto muito de suas fazendas. ",
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0040"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0014
+Carta de doação e sesmaria de Gregório de Oliveira Costa - 27/05/1795
+Gregorio de Oliveira Costa, com uma légua de terra em quadra onde se acha erecto o
+engenho feito por ele na freguesia de Camaragibe.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe de divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que Gregório de Oliveira Costa me fez um requerimento do teor e maneira
+seguinte: = Ilustríssimo e Excelentíssimo Senhor. Diz Gregório de Oliveira Costa, morador nesta
+praça, que Pedro de Araújo de Almeida, da freguesia de Camaragibe, no distrito da vila de Porto
+Calvo, onde mora, se comunicara por cartas com o suplicante dizendo-lhe e escrevendo-lhe que
+por sesmaria deste Governo era senhor e possuidor de 3 léguas em quadra incultas e
+desaproveitadas, situadas na dita freguesia, e que seu suplicante a sua custa quisesse erigir
+naquelas terras um engenho de fabricar açúcar, ele suplicante faria escritura da sociedade em que
+mutuamente se interessassem, a saber, o suplicante na metade das obras do engenho, além das
+cláusulas que contemplou o benefício do motivo e interesse de ambos sobre o manejo do
+engenho. E aceitando o suplicante a indicada proposição do suplicado, por lhe parecer em
+sincera, sem engano algum oculto, mandou logo erigir o engenho, despendendo na sua ereção
+para cima de 8 mil cruzados, e depois de erecto, acreditando-se com o suplicado antes que o
+suplicado apresentasse ao tabelião a sesmaria, nesta parte é que descobriu haver verdade de a não
+ter, e só sim os documentos juntos que entregou ao suplicante, e não se efetuou a escritura. E
+como pelos documentos se mostra pedir o suplicado 3 léguas em quadra, que não se concede, não
+obstante que estas se acham devolutas pela desistência do único opositor, o Antonio José Achioli,
+como se vê a folha 2ª que saiu ao edital da respectiva Câmara, e está em forma a devolução
+corroborada
+com
+a
+sentença
+de
+cominação
+e
+mais
+documentos,
+pelos
+quais
+todos
+incontestavelmente se verifica estarem devolutas as 3 léguas que o suplicado pediu por sesmaria,
+e esta não foi ainda concedida, nem se há de conceder de 3 léguas, e o suplicante pelo engano do
+mesmo fez uma tão grande despesa com a ereção do engenho, que só é seu inteiramente, sem que
+o suplicado tenha nada no dito, que somente se chamava a posse das 3 léguas de terra, sem ter
+sesmaria delas ocupadas, se achava alguma nestes termos: olhando-se para o engano, malícia e
+dolo do suplicado, que o não deve patrocinar para reportar como do iniquidade; mas olhando-se
+para o irreparável prejuízo do suplicante, que sem o mesmo não pode tirar dali e levar as obras do
+engenho, que as fez com tão grande despesa, e tudo isto certamente há de fazer uma viva
+
+impressão no illuminado decernimento de Vossa Excelência e abalar o seu ilustre espirito de
+justiça e equidade; requer o suplicante que destas 3 léguas devolutas se digne Vossa Excelência
+conceder-lhe por sesmaria uma légua em quadra, onde se acha erecto o engenho, o qual pegará
+da extrema em que findarem as terras do engenho de cima, pelo rio Camaragibe acima para o
+sertão, até o lugar do riacho Emberibinha, e da parte do norte para o sul pegará do mesmo rio
+Camaragibe até se encher a dita légua em quadra, servindo da extrema da parte do norte o mesmo
+rio Camaragibe e para o sul com terras devolutas e pertencentes ao Real Patrimônio, pagando o
+suplicante o foro da dita légua em quadra, que assim requer por sesmaria desde o ano de 1792 da
+ereçaó do engenho, e ocupação da boa fé, pelo engano, em a fé do suplicado,, a quem ainda ficam
+2 léguas devolutas para se querer, requerer. Pelo que pede a Vossa Excelência se sirva
+conceder-lhe e mandar-lhe passar carta de sesmaria de uma légua de terra em quadra, com as
+sobreditas confrontações e com o foro do costume e na forma que expede acima. E receberá
+mercê. E sendo por mim visto o seu requerimento, ordenei por despacho de 20 de novembro de
+1794 aos oficiais da Câmara do respectivo distrito, que mandassem fixar editais na respectiva
+freguesia para se saber ao certo estar ou não devoluta a mesma terra e haver ou não terceiro
+prejudicado, e constando por informação dos ditos oficiais que assim o mandaram executar, não
+haver pessoa alguma que aos ditos editais saísse, mais que os possuídos de má fé e usurpador dos
+bens da Coroa, Pedro de Araújo de Almeida, que não fez certo os impedimentos com que saiu a
+dita terra, por outro meu despacho de 31 de março do presente ano de 1795, mandei ouvir o
+doutor procurador da Fazenda e Coroa, e assim mais o escrivão da Receita a Despesa da Real
+Fazenda, por outro de 12 de maio corrente; e como todos uniformemente me responderam estar
+nos termos de se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em seu
+requerimento, pagando anualmente o foro de 6 mil réis, por ser das que estão mais próximas a
+Marinha, do que devia dar fiança na Contadoria; ultimamente mandei por despacho de 15 do
+referido mês que se passasse sesmaria na forma da resposta do doutor procurador da Fazenda e
+Coroa e escrivão da Receita e Despesa. Em cumprimento do qual e pela faculdade que Sua
+Majestade Fidelíssima me permite no Capítulo 15 do Regimento deste Governo. Hei por bem dar
+em nome da dita Senhora ao referido Gregório de Oliveira Costa de sesmaria na freguesia de
+Camaragibe, distrito da vila do Porto Calvo, uma légua de terra em quadra onde se acha erecto o
+engenho feito por ele, a qual pegada extrema em que findarem as terras do engenho de cima, pelo
+rio Camaragibe acima para o sertão, até o lugar do riacho Emberibinha, e da parte do norte para o
+sul pegará do mesmo rio Camaragibe até se encher a dita légua em quadra, servindo da extrema
+da parte do norte o mesmo rio Camaragibe e para o sul com terras devolutas e pertencentes ao
+Patrimônio Régio, na forma confrontada em seu requerimento, pagando o foro anual de 6 mil réis
+
+por légua, visto ser dar que estão mais próximas a Marinha, que determina a Real Ordem de 28 de
+setembro de 1700; a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e
+descendentes, como sua que fica sendo de hoje para todo o sempre, com todas as suas pertenças,
+matas, campos, águas, rios, testadas, logradouros e mais úteis que ela compreender, não
+prejudicando a terceiro, e não passará a dita a religiões e pessoas eclesiásticas, salvo sendo com
+os mesmos encargos com que as possuem os seculares; sendo obrigado a dar ao Conselho
+caminhos livres para fontes, pontes, pedreiras e requerer dentro de três anos confirmação,
+medição, demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia de 20 de outubro
+de 1753, e não o cumprindo assim se dar por devoluta e novamente ser conferida a quem a
+requerer; com mais aa condições seguintes: Que a dita terra nunca se dividirá em porções, mas
+andará encabeçada em uma só pessoa, segundo a natureza dos bens foreiros, na forma expressada
+na Ordenação livro 4º título 96. § 23; Que não cortará as árvores de pau-brazil e as que servirem
+para construção dos navios de alto bordo da Coroa; Que não passará a dita terra a herdeiros do
+suplicante ou outra qualquer pessoa sem concessão da Junta da Fazenda Real. Pelo que ordeno
+aos ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e
+guardar esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante posse real,
+efetiva e atual, na forma costumada, debaixo das cláusulas referidas e das mais da Ordenação
+Título de Sesmarias, visto constar por bilhete que apresentou achar-se da dita a fiança ao foro
+anual de 6 mil réis por légua na Contadoria da Real Fazenda, a folha 102 do livro 4º delas. Em
+firmeza do que lhe mandei passar a presente por mim assinada e selada com o sinete de minhas
+armas, que se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. Manoel
+Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, a fez em Recife de Pernambuco,
+aos 27 dias de maio. Ano do Nascimento de Nosso Senhor Jesus Cristo de 1795 || Dom Antônio
+Pio de Lucena e Castro, secretário do Governo, a fez escrever || Dom Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 48-51.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

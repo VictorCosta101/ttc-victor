@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0105
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio da Silva de Meneses",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-05-1684",
+  "Observações da sesmaria": "A sesmaria estava localizada entre a igreja Nossa Senhora da Vitória e o forte da Barra, em Salvador. Não foi informado o tamanho dela.",
+  "Localidade": "Salvador",
+  "Observações da petição": "O sesmeiro não especificou o tamanho da sesmaria.",
+  "Justificativas": "Era morador(a) da Capitania; Não tinha terras; As terras eram devolutas; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador do Concelho afirmou em um primeiro momento que as terras não poderiam ser concedidas, pois eram da câmara de Salvador, mas após o suplicante apresentar um despacho do governador-geral autorizando-o a receber a terra, ele não se mostrou mais contrário. ",
+  "Observações das exigências": "Determinou-se mandar certidão de como as tem povoado; determinou-se não poder vender nem alhear sem ordem expressa da Coroa. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "referencia": "BA0105"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria das terras que se acharem da Igreja de Nossa Senhora da 
+Vitória, cortando Leste a Oeste, até entre os fortes da Barra de Santo Antônio, concedidas 
+ao capitão Antônio da Silva de Meneses.  
+ 
+Antônio de Sousa de Meneses, governador e capitão geral do Estado do Brasil etc. Faço 
+saber aos que este Alvará de doação e sesmaria virem, que havendo respeito ao que por 
+parte do capitão Antônio da Silva de Meneses me enviou a representar por sua petição, 
+cujo teor é o seguinte: Senhor, diz o capitão Antônio da Silva de Meneses que o é dos 
+fortes da Barra desta cidade, que junto aos ditos fortes há terra devoluta, que nunca foi 
+dada a pessoa alguma, e da Igreja de Nossa Senhora da Vitória para a dita Barra estão 
+algumas nesgas e pedaços de terra desaproveitadas, que não as possuem pessoa alguma 
+com título que válido e legítimo seja, e o suplicante as quer aproveitar, pois assiste nos 
+ditos fortes, para defesa desta praça, e serve a Sua Alteza há 50 anos a esta parte, ocupando 
+o posto de capitão de infantaria em tempo das guerras do Brasil, sem no decurso de tudo 
+que tem servido se lhe fazer mercê alguma, nem ainda pagos os seus soldos, e dando-se 
+a muitos moradores desta cidade muitas terras de sesmaria, com que enriqueceram, ao 
+suplicante se lhe não deu nunca nenhuma, e por estas razões e motivos, quer que Vossa 
+Senhoria lhe dê de sesmaria o que nesta petição relata. Pede a Vossa Senhoria lhe faça a 
+graça e mercê dar de sesmaria, em nome de Sua Alteza, todas as terras que da Igreja de 
+Nossa Senhora da Vitória, cortando Leste a Oeste, até entre os ditos fortes, as que se não 
+acharem ter títulos ou doação por onde pertençam aos seus donos, e que ouvido o 
+provedor-mor e procurador da Fazenda se lhe passe Alvará para o suplicante poder usar 
+das ditas terras = E receberá mercê = E vista a resposta do provedor da Fazenda Real, que 
+é a que se segue = Estes pedaços de terra que o suplicante relata não estão ainda dados a 
+pessoa alguma, nem a data deles faz prejuízo algum à serventia dos fortes de que é capitão, 
+não tenho dúvida que se lhe deem de sesmaria com as cláusulas, sem prejuízo de terceiro, 
+e de ser aproveitada no termo da lei; e visto estar junto desta cidade, se parecer pode-se 
+mandar ouvir o provedor do Conselho na forma da Ordenação, livro 4º, título 43, 
+parágrafo 9, capítulo 10. Bahia, 7 de setembro de 1683. Bezerra. E ao que respondeu o 
+procurador do Conselho, Baltazar Gomes dos Reis, que lhe não constava nem tinha 
+notícia que a terra que pedia o suplicante pertencesse a esta Câmara, mas que protestava 
+da parte dela, que a todo o tempo que se achava ser sua fosse nula a mercê, que se lhe 
+
+fizesse e faziam sempre as sesmarias, sem prejuízo de terceiro, e a informação do 
+provedor-mor da dita Real Fazenda, que também é a seguinte = Senhor, o suplicante me 
+traz agora esta petição com o despacho de Vossa Senhoria de 14 de janeiro do ano 
+passado, e respostas do procurador da Fazenda Real e do Conselho, e me conformo com 
+seus pareceres, se as terras que pede de sesmaria não tiverem embaraço algum, como é 
+aparente terão, sendo aqui tão vizinha a esta cidade. Vossa Senhoria mandará o que for 
+servido. Bahia, 8 de maio de 1684 = Francisco Lamberto = Hei por bem de conceder ao 
+suplicante de sesmaria, como pelo presente faço em nome de Sua Majestade, as terras que 
+pede e confronta em sua petição, na forma que parece aos ministros da Fazenda e 
+procurador do Concelho, não prejudicando a terceiro, com todas as suas águas, campos, 
+matos, testadas, logradouros e mais úteis que nela se acharem; tudo forro, livre e isento 
+de pensão ou tributo algum, salvo dízimo à Ordem de Cristo, que pagará dos frutos que 
+nelas houver, e por elas será obrigado a dar caminhos públicos a todos e a particulares 
+para fontes, pontes, portos e pedreiras, e de as cultivar no termo da lei e Regimento, e 
+demarcando-se ao tempo da posse, citados os heréus, e de mandar certidão de como as 
+tem povoado dentro do dito tempo, para se registrar nos livros da Fazenda Real, as quais 
+terras  de Sua Majestade, sucedendo somente aos filhos ou herdeiros legítimos. Pelo que 
+mando a todos os ministros de justiça a que o conhecimento deste com direito deva ou 
+possa pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada, debaixo 
+das cláusulas acima referidas, e as mais da Ordenação, título das sesmarias. Para firmeza 
+de que lhe mandei passar o presente sob meu sinal e selo de minhas armas, o qual se 
+registrará nos livros da Secretaria deste Estado e nos mais a que tocar, e se guardará e 
+cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, embargo nem 
+contradição alguma. Dado nesta cidade do Salvador, Bahia de Todos os Santos, aos 8 dias 
+do mês de maio, ano de 1684. Antônio Garcia, oficial maior da Secretaria deste Estado 
+do Brasil, que sirvo por impedimento do secretário dele, e mandado do senhor Antônio 
+de Sousa de Meneses, governador e capitão geral do mesmo Estado o escrevi = Antônio 
+de Sousa de Meneses = Selo = Alvará de doação e sesmaria de todas as terras que se 
+acharem da Igreja de Nossa Senhora da Vitória, cortando Leste a Oeste, até entre os fortes 
+da Barra de Santo Antônio, que Vossa Senhoria teve por bem conceder e dar em nome de 
+Sua Majestade ao capitão Antônio da Silva de Meneses, não prejudicando a terceiro, com 
+as mais cláusulas nele insertas, pelo respeito acima declaradas, para Vossa Senhoria ver 
+= Registrada no livro 2º dos registros da Secretaria do Estado do Brasil, a que toca a folha 
+120 verso. Bahia, 16 de maio de 1684 = Garcia = Despacho do provedor-mor = Registre-
+
+se no livro a que toca. Bahia, 18 de maio de 1684 = Lamberto = Registrou-se em 19 do 
+dito mês e ano =  
+- fim da transcrição - 
+Observações do documento:  
+ 
+O nome do sesmeiro, tal qual consta no documento original, é Antonio da Silva de 
+Meneses. 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 247 – 248.  
+Numeração original no livro: 175. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

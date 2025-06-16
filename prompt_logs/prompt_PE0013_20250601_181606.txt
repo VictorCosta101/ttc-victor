@@ -1,0 +1,109 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0013
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0021",
+  "Nome": "André Leitão, Baltazar Leitão, Diogo Pereira Caldas, João Cavalcante de Albuquerque, Luiz Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "19-12-1695",
+  "Data da concessão": "20-03-1696",
+  "Observações da sesmaria": "Os suplicantes requereram 10 léguas de comprimento e 10 léguas de largura, entre o rio Paraíba e o Capibaribe, começando do riacho Huapaba até os limites do rio da Paraíba e o riacho Natuba.",
+  "Localidade": "Rio Paraíba, rio Capibaribe, riacho Natuba, riacho Huapaba.",
+  "Marcos Geográficos": "Rio Paraíba, rio Capibaribe, riacho Natuba, riacho Huapaba.",
+  "Justificativas": "Era descobridor(a) das terras; Pretendia fazer curral; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a concessão se fizesse de acordo com as Ordenações Filipinas, Livro 4°, título 43.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0013"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0013
+Carta de doação e sesmaria do capitão João Cavalcante de Albuquerque e outros - 20/03/1696
+CARTA DE SESMARIAAO CAPITÃO JOÃO CAVALCANTE D'ALBUQUERQUE E
+OUTROS.
+Caetano de Melo de Castro, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. Faço saber ao que esta de carta doação e sesmaria
+virem que o capitão João Cavalcante d'Albuquerque, Diogo Pereira Caldas, o alferes André Leitão,
+Baltazar Leitão e Luiz Pereira me representam a petição cujo teor é o seguinte “Senhor” Dizem o
+capitão João Cavalcante d'Albuquerque, Diogo Pereira de Caldas, alferes André Leitão, Balthazar
+Leitão e Luiz Pereira, que eles suplicantes descobriram umas terras entre o rio Paraíba e porque eles
+suplicantes as querem povoar para por em seus currais de gado, para o que necessitam de dez
+léguas de terras em quadro entre o rio Paraíba e Capibaribe, começando do riacho Huapaba que vai
+cair no rio da Paraíba até o riacho Natuba e daí para cima até encher as dez léguas nas partes
+confrontadas. E receberá mercê. Informe o provedor da Fazenda Real, ouvido o procurador da
+Coroa. Recife, 19 de dezembro de 1695. “Rubrica”. Haja vista ao procurador da Coroa e Fazenda
+Real. Recife, 20 de dezembro de 1695 “Barros”. Não tenho dúvida a que se concedam aos
+suplicantes dez léguas de terra de sesmaria ordinárias e contínuas, sendo a data feita em a forma da
+Ordenação Livro 4.º título 43. Goiana, 4 de janeiro de 1696. “Pereira” Senhor, com a resposta do
+procurador da Coroa, informa a Vossa Senhoria para mandar o que for servido. Recife, 4 de janeiro
+de 1696. “Pereira” Senhor, com a resposta do procurador da Coroa informo a Vossa Senhoria para
+mandar o que for servido. Recife, 15 de março de 1696. “João do Rego Barros”. E havendo,
+outrossim, respeito ao que Sua Majestade, que Deus guarde, me encomenda no capítulo 15 do
+regimento deste Governo. Hei por bem de lhes fazer mercê dar aos suplicantes acima nomeados,
+como pela presente dou, de sesmaria as ditas terras que pedem nos mesmos lugares, partes e
+testadas que confrontam em sua petição, dez léguas de terras assim e de maneira que parece ao
+provedor e procurador da Fazenda Real, que povoarão com as ditas criações no termo de cinco anos,
+aliás se darão por devolutas pelo que consta estarem despovoadas; as quais terras possuirão e
+gozarão os ditos suplicantes, eles e seus herdeiros, não prejudicando a terceiro, com todas as suas
+águas, campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e
+isento de tributo, foro ou pensão alguma, salvo dízimo a Deus, e só serão obrigados a dar pelas ditas
+terras caminhos livres ao Conselho para fontes, pontes ou pedreiras. Pelo que ordeno a todos os
+ministros da Fazenda e Justiça destas capitanias, a quem o conhecimento desta carta pertencer, lhe
+façam dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das
+mais da ordenação título das sesmarias; que para a firmeza de tudo lhe mandei passar a presente
+
+por mim assinada e selada com o sinete das minhas armas, a qual se registrará nos livros da
+Secretaria destas capitanias e nos da Fazenda Real a que tocar: Dada neste Recife de Pernambuco,
+aos 20 de março, Lizardo Ribeiro Monção a fez, no ano de 1696, e por ausência do secretário,
+Antônio Barboza de Lima a subscrevi “Caetano de Mello de Castro”.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 51 - 53.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

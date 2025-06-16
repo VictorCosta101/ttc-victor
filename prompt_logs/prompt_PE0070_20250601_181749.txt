@@ -1,0 +1,156 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0070
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PB 1047",
+  "Nome": "Francisco Ferreira , Manuel da Costa Calado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-05-1735",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e duas léguas de largura para cada um na ribeira do Pajeú, no rio Pajeú. As terras possuíam por limite a leste o serrote das Gameleiras, ao norte a serra da Borborema e ao sul as terras do coronel Garcia d'Ávila Pereira e Custódio Alves (PE 0010). ",
+  "Localidade": "Rio Pajeú",
+  "Marcos Geográficos": "Serrote das Gameleiras, Serra da Borborema, Rio Pajeú",
+  "Ribeira": "do Pajeú",
+  "Confrontantes": "Garcia d'Ávila Pereira, Custódio Alves",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se não impedir repartição dos descobrimentos de terras minerais e caminhos públicos; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Duarte Sodré Pereira Tibão determinou que os suplicantes confirmassem a concessão e povoassem a terra requerida no prazo de cinco meses.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0070"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0070
+Carta de doação e sesmaria do reverendo vigário Francisco Ferreira e Manoel da
+Costa Calado - 12/05/1735
+O reverendo vigário Francisco Ferreira e Manoel da Costa Calado - com 4 léguas
+de terra nos sertões.
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de
+Sua Majestade, governador e capitão general de Pernambuco e mais capitanias anexas e
+etc. — Faço saber aos que esta carta de doação de sesmaria virem, que por parte do
+reverendo padre vigário da freguesia de Nossa Senhora da Conceição de Rodelas,
+Francisco Ferreira, e Manoel da Costa Calado, morador na Ribeira do Pajeú, se me
+apresentou a petição do teor seguinte: Dizem o padre Francisco Ferreira, vigário de
+Rodelas, e Manoel da Costa Calado, morador na Ribeira do Pajeú, que eles suplicantes
+pretendem carta de data ou sesmaria de umas terras despovoadas e desertas entre a Serra
+da Borborema e Rio do Pajeú, para nelas criarem seus gados de toda a casta, por terem
+para isso suficiência, principiando a tal data em a ponta de um serrote chamado das
+Gameleiras, pela parte do nascente, e se há de estender para o poente tudo aquilo que se
+costuma dar a bons sesmeiros, a qual parte está devoluta, e pelo lado do norte confronta
+com a dita serra Borborema, também deserta, e pelo lado do sul confronta com as terras
+que no Pajeú possui o coronel Garcia d'Ávila Pereira e o sargento-mor Custódio Alves
+Muniz, e pelo nascente confronta com terras que possui o mesmo Custódio Alves e seus
+cunhados, e ai se acha um olho d'água chamado dos Juncos, encostado ao serrote das
+Gameleiras, e por quanto os suplicantes o tem descoberto e o querem aproveitar e
+povoar — Pedem a Vossa Excelência seja servido mandar dar aos suplicantes sua carta
+de data e sesmaria das ditas terras, que se acham desertas e incultas, na forma que se
+costuma dar a dois sesmeiros, incluindo-se nela o dito olho d'água com as mais águas
+que se descobrirem na circunferência delas; e receberá mercê — e em a qual mandei por
+meu despacho, que o capitão-mor daquele distrito manda-se por editais públicos e nas
+portas das igrejas vizinhas, para que havendo algumas pessoas que tenham datas ou
+sesmarias nas tais terras, as apresentasse e sem embargo disso me informasse do que
+houvesse sobre este particular, e as léguas que se compreenda nas ditas terras assim de
+largo como de comprido, em 17 de fevereiro de 1734 — ao que me respondeu o
+capitão-mor daquele distrito o seguinte: Obedecendo ao despacho e ordem de Vossa
+Excelência, mandei fixar editais nas portas da igreja matriz desta freguesia e na missão
+
+de Santo Antônio do Pajeú, por serem as mais vizinhas as terras conteúdas na petição
+dos suplicantes, declaravam neles que se alguma pessoa tivesse carta de data das ditas
+terras, as apresentassem no termo de três meses a Vossa Excelência, sem embargo de
+que me não constam serem de outras; e a causa de estarem devolutas é o serem julgadas
+até aqui por inúteis, em razão de não terem águas, no que respeita a distâncias assim de
+largo como de comprido, sobre o que Vossa Excelência me manda informar; para o
+fazer, tirei informações de pessoas práticas daquele país e pelo que alcanço destes no
+lugar mencionado, uma porção de terras que costeiam a serra da Borborema, pela parte
+do sul, e serão seis ou sete léguas de nascente a poente e outras tantas do norte a sul,
+pouco mais ou menos, mas toda inútil pela falta de águas já apontada, pois se não sabe
+de outra até agora mais que a chamada dos juncos, proximamente descobertas por
+indústria dos suplicantes; é o que posso informar a Vossa Excelência, que mandará o
+que for servido. Cabrobó, 28 de abril de 1734 — Domingos Maciel de Faria — Com
+cuja resposta mandei ao provedor da Fazenda Real, por despacho de 14 de agosto de
+1734, o qual mandou ouvir ao doutor procurador da Fazenda — respondeu que se lhe
+não oferecia dúvida a que se desse aos suplicantes as terras pedidas, vistas as diligências
+feitas com o foro costumado, dando fiador o suplicante clérigo que se obriga a pagar o
+dito foro e fazendo ambos termo em que se obriga um por outro, com as condições da
+Ordenação Livro 4.° folhas 43, de as cultivarem dentro de cinco anos, e não o fazendo
+pagarem a pena de mil réis para a Fazenda Real e o foro vencido, e se darem por
+devolutas a outrem, com cujo parecer me informou o provedor da Fazenda Real,
+dizendo o fazia com a resposta do doutor procurador da Fazenda, a quem se costuma em
+semelhantes requerimentos ouvir, conformando ela, declarando-se, outrossim, a terra
+que Sua Majestade, pelas suas reais ordens, é servido se deem as léguas a cada pessoa, o
+que melhor há de constar das ditas ordens, e outrossim, que estas terras não passarão
+nunca a religiosos, salvo com obrigação de pagarem o foro a ordem de Cristo; Vossa
+Senhoria mandará o que for servido — Recife, 20 de agosto de 1734 — João do Rego
+Barros — E a vista das referidas respostas, mandei por meu último despacho se passasse
+carta de sesmaria na forma das novas ordens de Sua Majestade, não excedendo a data de
+4 léguas, como nelas se declara, reservando minas e lugares para igrejas ou vilas,
+estradas públicas, pontes e praias, com as declarações que apontam o provedor e
+procurador da Fazenda, e que passando a eclesiástico, pagarão os dízimos como se
+fossem possuídas por seculares, e assim: Hei por bem de dar aos suplicantes, como pela
+presente faço, 4 léguas de terra em quadro no mesmo lugar que confrontam em sua
+
+petição, com todos seus logradouros, águas, campos e matas, e mais úteis que nelas
+houver estando devolutas, não prejudicando a terceiro, com obrigação de pagar dízimo a
+ordem de Cristo e quatro mil réis de foro por légua cada um ano para a Fazenda Real, e
+de dar estradas livres, fontes, pedreiras e pontes, e sendo necessárias para o serviço de
+Sua Majestade igrejas ou minas, lhes serão tiradas terras sem que por isso lhe fique
+obrigada a Fazenda Real a satisfação alguma, e serão obrigados a povoá-las dentro de
+cinco meses e confirmar esta pelo dito senhor, debaixo das penas que aponta o
+procurador da Coroa, e de se darem a outrem por devolutas, tudo na forma acima
+apontado e requerido, as quais terras lograrão eles e seus herdeiros, como fica dito. Pelo
+que ordeno aos ministros de Justiça ou Fazenda Real a que tocar, lhe deem a posse real,
+efetiva e atual, como é estilo e o provedor da Fazenda mandará carregar por licença o
+referido foro, com a segurança necessária para ser pago, e por firmeza de tudo lhe
+mandei passar a presente por mim assinada e selada com o sinete de minhas armas, que
+se registrará nos livros da Secretaria deste Governo e Provedoria Geral —. Dada nesta
+Praça do Recife de Pernambuco, em os 12 dias do mês de maio — Bento Soares Pereira
+a fez — ano de 1735 — O secretário José Duarte Cardoso a fez escrever = Duarte Sodré
+Pereira Tibão.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 33 - 36.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

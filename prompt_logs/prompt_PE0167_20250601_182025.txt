@@ -1,0 +1,164 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0167
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0277",
+  "Nome": "Jerônimo Antunes Torre",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-02-1824",
+  "Observações da sesmaria": "O suplicante requereu oito braças de comprimento e oito braças de largura na vila do Recife, no Forte do Matos. A sesmaria requerida localizava-se a oeste do armazém de José Fernandes da Cunha. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Forte do Matos",
+  "Confrontantes": "José Fernandes da Cunha",
+  "Justificativas": "Pretendia aumentar as rendas reais; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O presidente da província de Pernambuco, Manuel Carvalho Pais de Andrade, determinou o pagamento anual do foro régio no valor de 280 réis. O presidente da província de Pernambuco também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0167"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0167
+Carta de doação e sesmaria de Gerônimo Antunes Torres - 07/02/1824
+Jerônimo Antunes Torres com 80 palmos de terra por sesmaria, no lugar do forte
+do Matos.
+Manoel de Carvalho Paes de Andrade, presidente da província de Pernambuco etc. Faço
+saber aos que esta carta de data de sesmaria virem, que Jerônimo Antunes Torres,
+patrão-mor
+deste
+ponto,
+dirigiu
+ao
+ex-governo
+provisório
+desta
+província,
+o
+requerimento seguinte = Ilustríssimos e excelentíssimos senhores do Governo = Diz
+Jerônimo Antunes Torres, patrão-mor da barra e porto desta praça, que por sucessos que
+estavam fora das suas forças prevenir, se acha sem um armazém apto para guardar
+utensílios do seus ofícios, dos quais tão bem tira cômodos por ter necessidade a nação; e
+por que em forte do Matos, na linha do armazém de José Fernandes da Cunha ou seus
+herdeiros, existe da parte do poente uma pouca de terra devoluto e desaproveitada, que
+só pode servir para se construir algum armazém, pois que já hoje nem se pode derreter
+os materiais para as [querenas] por estar muito próximo ao armazém de algodão; requer
+o suplicante a Vossas Excelências, que em atenção aos seus serviços se dignem
+conceder-lhe por sesmaria 80 palmos pelo mesmo preço que paga o dito José Fernandes
+da Cunha ou seus herdeiros as terras que estão na mesma linha: portanto, pede a Vossas
+Excelências se dignem deferir ao suplicante, em atenção aos seus serviços, como tem
+requerido. E receberá mercê. Recife de Pernambuco, 12 de novembro de 1822,
+Jerônimo Antunes Torres, patrão-mor = Sobre o qual requerimento deu o dito Governo
+o seu primeiro despacho em data de 19 de novembro de 1822, na forma seguinte =
+Informe a ilustríssima Câmara respectiva = E não pondo esta em embaraço algum a
+pertencimento do suplicante, obteve o despacho seguinte em 26 do dito mês e ano =
+concedemos ao suplicante o terreno pedido, estipulando com a ilustríssima Câmara o
+pagamento do foro: o suplicante declara a Vossas Excelências que aquele terreno
+pertence a fazenda nacional, pois que os edifícios que ali se acham construídos, a dita
+fazenda é a quem se paga o respectivo foro, que conste de sesmaria: requer o suplicante
+a Vossas Excelências que em atenção aos serviços que tem prestado há 16 anos no seu
+emprego, hajam por bem de lhe mandarem passar carta de sesmaria com o foro igual
+aquela edifício de José Fernandes da Cunha ou seus herdeiros, que está na mesma linha:
+portanto, pede a Vossas Excelências sejam servidos ao suplicante na forma requerida =
+E receberá mercê. Jerônimo Antunes Torres, patrão-mor = Foi lhe diferido em 28 do
+
+mesmo mês e ano da maneira que se segue = Informa a ilustríssima Junta da Fazenda, a
+qual informando em oficio de 21 de fevereiro de 1823, haver exemplos desta natureza,
+contudo apontou que seria bom que fosse um engenheiro examinar o local, onde lhe
+parecia predicável ao serviço público a construção de um armazém = e havendo em 18
+de março do dito ano o despacho seguinte = o senhor inspetor do trem, o passe ao lugar
+requerido, e depois de examinar nos informe se o pertencimento do suplicante tem lugar
+= e informando o inspetor do trem que só se devia conceder o terreno requerido com a
+condição de ser demolido o armazém, logo que se fizesse mister o local para qualquer
+estabelecimento público = tive o seguinte despacho em 5 de abril do mesmo ano = a
+vista da informação não tem lugar o pertencimento do suplicante = apresentando-me
+finalmente o suplicante o requerimento seguinte = ilustríssimo e excelentíssimo senhor
+= Diz Jerônimo Antunes Torres, patrão-mor deste porto, que ele quando requereu a
+sesmaria foi sempre com a certeza de que ele deixaria de existir e o edifício seria a sua
+custa demolido, logo que o bem público o exigisse; por que sendo ele pernambucano e
+amante da sua pátria, e estando convencido que ao bem público deve sempre ceder o
+bem privado, não podia conceber outra ideia, e principalmente sendo todas as sesmarias
+e edifícios construídos no lugar com esta mesma condição: portanto, requer o suplicante
+a Vossa Excelência se digne conceder ao suplicante a graça pedida, debaixo das ditas
+condições declaradas na informação do inspetor, visto que presentemente no Forte dos
+Matos senão forem obras públicas, pede a Vossa Excelência seja servido deferir ao
+suplicante, como tem requerido, mandando passar carta de sesmaria, declarando-se estas
+mesmas condições no termo de obrigação de paga as sesmaria, e receberá mercê = o que
+sendo tudo por mim visto e examinado, e achando muito razoável o pertencimento do
+suplicante, e depois de estipulado o preço do foro anual que devia pagar, que foi o de
+200 réis por cada palmo, mandei por despacho de 7 do corrente [ano] que se lhe
+passasse a presente carta, portanto; hei por bem na conformidade da capítulo 15 do
+regimento deste Governo, dar ao suplicante em nome de Sua Majestade ilustre e
+constitucional, de sesmaria os 80 palmos de terra pedidos em seu requerimento,
+pagando anualmente o foro de 200 réis, por cada palmo ao cofre da Fazenda Nacional,
+prestando a competente fiança na secretaria da junta da mesma Fazenda Nacional, para
+assim praticar em cada um ano; cuja terra possuirá e gozará ele suplicante, seus
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo o
+sempre não prejudicando a terceiro, e não passará a religiões e pessoas eclesiásticas,
+salvo se for com os mesmos encargos com que ao suplicante é concedida, sendo
+
+obrigado a requerer confirmação na conformidade das imperiais ordens. Pelo que
+ordeno aos ministros a que tocar, cumpram e façam cumprir e guardar esta carta de
+sesmaria como nela se contém, fazendo dar ao dito suplicante a posse real, efetiva e
+atual, na forma das cláusulas referidas e das mais da ordenação título das sesmarias, que
+para firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o
+sinete das armas do império, a qual se registrará na Secretaria deste Governo e na da
+junta da Fazenda Pública. Dada no Recife de Pernambuco, aos 12 dias do mês de
+fevereiro. Manoel Izidro de Miranda, segundo oficial da secretaria do Governo, a fez.
+Ano do nascimento do Nosso Senhor Jesus Cristo, de 1824, terceiro da independência e
+império do Brasil, e eu, José da Natividade Saldanha, secretário do Governo, a fiz
+escrever = Manoel de Carvalho Paes de Andrade, presidente = carta de data de
+sesmaria, pelo qual Vossa Excelência há por bem conceder em nome de Sua Majestade
+fidelíssima e constitucional a Jerônimo Antunes Torres 80 palmos de terra no lugar do
+Forte do Matos, como nela se declara = Para Vossa Excelência ver = por despacho do
+excelentíssimo presidente da província, de 7 de fevereiro de 1824.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 240-241.
+Observação:
+Durante o decorrer da carta o nome do suplicante consta tanto como Geronimo, quanto
+como Jerônimo, o que, para fins de padronização, foi deixado como Jerônimo.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,153 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0114
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Fernão Vaz Freire",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-04-1614",
+  "Observações da sesmaria": "O suplicante requereu a concessão de duas ilhas no rio São Francisco, denominadas de Pirocaba e Jenipapos, e duas léguas de comprimento e de largura na terra firme defronte as ditas ilhas na fronteira das terras de Leonardo de Barros.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Ilha Pirocaba, Ilha Jenipapos",
+  "Confrontantes": "Leonardo de Barros",
+  "Justificativas": "Pretendia plantar roças; Pretendia criar gado; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário de Pernambuco, Duarte de Albuquerque Coelho, determinou que o suplicante deveria pagar a renda, foro de moenda e marinha do sal no valor de 3%. O donatário de Pernambuco, Duarte de Albuquerque Coelho, determinou que havendo ribeiras de água ou terreno para construção de engenho de trapiche, o suplicante deveria levantar um engenho no tempo de 6 anos. O suplicante deve pagar o valor de 3% da produção de cada caixa de açúcar por ano em engenhos de água e 2% no engenho de trapiche. Caso o suplicante não levante engenho, a terra será considerada devoluta e doada a outra pessoa. O donatário de Pernambuco reservava o direito de doar outra parte da concessão a terceiros para levantar engenho.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0114"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0114 
+ 
+Carta de concessão de Fernão Vaz Freire de 25/04/1614 
+ 
+Diz Fernão Vaz Freire que pelo senhor desta capitania lhe foi feita mercê de uma ilha 
+e terra firme no rio de São Francisco, conforme constava do auto de posse que da dita 
+ilha e terra firme lhe foi dado nas costas da carta da dita mercê, a qual se perdeu na 
+entrada da Bahia pelo inimigo holandês, e porque a dita carta está trasladada nos 
+livros da Fazenda de Sua Majestade desta capitania, que estão em poder do escrivão 
+da dita Fazenda, Manuel Mendes de Vasconcelos, pede a Vossa Mercê lhe mande dar 
+o dito traslado em modo que faça fé e receberá mercê. Despacho: Dê-se-lhe como 
+pede. Almeida. Traslado do que se pede. Duarte de Albuquerque Coelho, capitão e 
+governador da capitania de Pernambuco, partes do Brasil, por El Rei, Nosso Senhor, 
+etc. Faço saber aos que esta minha carta for apresentada que assim me enviou a dizer 
+por sua petição Fernão Vaz Freire, [?] escrivão da ouvidoria geral da dita capitania, 
+que ele havia muitos anos que me servira na ocasião dos inimigos que houve na dita 
+minha capitania, como nas mais coisas de seu cargo, e que residia nela de 22 anos a 
+esta parte, sem até o presente lhe ser feita mercê alguma. Hora era informado que no 
+rio de São Francisco estavam umas ilhas, uma por nome Pirocaba e outra dos 
+Jenipapos, e outros ilhéus que não tinham nome, em que se podiam plantar 
+mantimentos e trazer algum gado, e me pedia, havendo respeito aos muitos anos que 
+residia na dita minha capitania e serviços que nela tinha feito, que se lhe fizesse mercê 
+das ditas ilhas, e assim mais de duas léguas de terra ao longo do rio, que começariam 
+do fim da data de que fiz mercê a Leonardo de Barros, que correriam por seus rumos, 
+que eram de Norte a Sul e de Leste a Oeste, como as mais demarcações, e em caso 
+que as ditas duas léguas de terra sejam do meu reguengo, me pagaria foro como os 
+demais, e receberia mercê. A qual petição por mim vista, havendo respeito ao que 
+nela diz o dito Fernão Vaz Freire, hei por bem e me praz de lhe fazer mercê das ditas 
+ilhas, que pede uma por nome Pirocaba e outra dos Jenipapos, somente que estão no 
+rio de São Francisco, com o pagar de renda, foro de moenda e marinhas de sal que 
+nelas fizer até 3%. E outrossim [?] lhe faço mercê de duas léguas de terra em quadra 
+ao longo da data de que tenho feito mercê a Leonardo de Barros com todas as lenhas, 
+pastos e matos que dentro da ilha houver, ressalvando as de pau-brasil. E caindo as 
+ditas duas léguas ou parte delas no meu reguengo, me pagará o fruto com os mais 
+
+regengueiros, e havendo nelas alguma ribeira, ou ribeiras de água, ou sítio para se 
+poder fazer engenho d'água ou ou trapiche, ser obrigado a fazê-los dentro do tempo de 
+6 anos, que começam do dia que lhe mandei passar a portaria desta mercê, que foi aos 
+23 de abril deste presente ano de 1614, e se acabarão por outro tal dia do mês do ano 
+que embaixo virá de 1620, com me pagar de pensão em cada um ano pelos engenhos 
+d'água a 3% de todo o açúcar que fizer encaixado, posto no Passo, e sendo trapiche a 
+2% pela dita maneira. E não fazendo o dito engenho d'água ou ou trapiche dentro do 
+dito tempo, não haverá efeito esta segunda mercê, e ficará a dita terra devoluta e 
+desobrigada para eu a poder dar, ou aos meus sucessores, a quem houver por bem, 
+porquanto pretendo dá-las às pessoas que façam benfeitorias nelas, pois resultam 
+acrescentamento da Fazenda de sua Majestade e minha. E se na dita ilha houver mais 
+alguma ribeira ou ribeiras de água, além do que se [?] aproveitar o dito Fernão Vaz 
+Freire para o engenho que fizer ele nem seus herdeiros não terão nelas nenhuma ação, 
+porque eu as poderei dar, ou meus sucessores, às pessoas que as pedirem, para com a 
+dita água poderem fazer outro engenho, não prejudicando ao dito Fernão Vaz Freire, 
+onde terá as armas declaradas no Regimento da dita minha capitania, conforme os 
+engenhos [?] d’água e trapiche para a boa guarda e detenção dele, o qual engenho 
+quando quer que se venda, me pagará a 40% da sorte que outrossim será obrigado a 
+me pagar será obrigado a me pagar a 3% de toda sorte de moenda que fizer na dita 
+terra, que será demarcada o dito foro e pensão, com justiça e verdade em todas suas 
+confrontançoeñs necessárias, tendo cada uma das ditas duas léguas 1400 braças em 
+quadra, de 10 palmos de vara cada braça, como é costume, em parte que não 
+prejudique aos outros providos primeiro, pelo que mando a qualquer das justiças e 
+pessoas a que o conhecimento desta pertencer, que tanto que lhe for apresentado se 
+fará escritura em que o'dito Fernão Vaz Freire confesse e declare aceitar esta mercê, 
+obrigado-se a cumprir tudo o que nela se contém e a pagar a 3% de toda sorte de 
+moenda e marinhas de sal que fizer nas ditas duas ilhas e o foro e pensão da dita terra, 
+como fica declarado, e não pagando, quando for tempo de ser executado por via 
+executiva, e depois de assim feito darão posse ao dito Fernão Vaz Freire das ditas 
+duas ilhas de Pirocaba e de Jenipapos, e das duas léguas de terra em quadra, sem 
+dúvida nem embargos, que lhe a isso sejam postos, e esta se registrará no livro em que 
+se costuma registrar semelhantes doações, onde se porão verbas do tempo em que se 
+tomar posse das ditas ilhas, terra e demarcação, que de uma e outra coisa se fizer com 
+declaração da terra que cair no meu reguengo, e do dia em que o engenho d’água ou 
+
+trapiche se começar a fazer e lançar a moer, para efeito do foro e pensão que das ditas 
+ilhas e duas léguas de terra e do dito engenho há de pagar, que será feito antes de 
+acabado os 6 anos que lhe estão limitados, e esta mercê e graça, digo, e doação faço 
+ao dito Fernão Vaz Freire e se estendia para todo o sempre para ele, sua mulher, filhos, 
+netos e descendentes, os quais mulher, filhos e mais herdeiros serão obrigados a pagar 
+o dito foro e pensão e a cumprir as mais obrigações e cláusulas contidas nesta carta, 
+que lhe mando passar por certeza de tudo. Dada em Lisboa, aos 25 de abril, por mim 
+assinada e selada com o selo das minhas armas, João Pereira a fez. Ano do 
+nascimento de Nosso Senhor, Jesus Cristo, de 1614. E eu, Aires Tavares, a fiz 
+escrever e dita pensão será obrigado a pagar pelo mês de janeiro. Duarte de 
+Albuquerque Coelho, Aires Tavares. Registrada no livro a folhas 3, em Lisboa, aos 25 
+de abril de 1614. Aires Tavares. Fica registrada esta doação de datas de terras, e assim 
+a escritura de obrigação no livro sexto dos registros da Câmara desta vila de Olinda, 
+às folhas. [?] 23, de setembro de 1614. Barros. Registre-se. Cadena. 
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. Livro I, p. 20v-21v 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

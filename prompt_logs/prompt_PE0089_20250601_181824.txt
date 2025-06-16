@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0089
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0178",
+  "Nome": "Ordem Terceira de Nossa Senhora do Monte do Carmo do Recife",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "15-04-1758",
+  "Data da concessão": "28-06-1758",
+  "Observações da sesmaria": "O sesmeiro requereu 70 braças de comprimento na vila do Recife, próximo a capela da Ordem Terceira da Igreja de Nossa Senhora do Carmo do Recife. A terra requerida localizava-se por detrás da igreja e confrontava o mangue do rio Capibaribe. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Confrontantes": "Igreja de Nossa Senhora do Carmo",
+  "Observações da petição": "O suplicante não especificou a quantidade da largura requerida. ",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se isenção de pagamento de foro régio; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Mandou-se levantar casa; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara do Recife. O governador requereu o parecer do capitão engenheiro Antônio José de Lemos que determinou a necessidade de utilização do terreno para construção de fortificação régia. Desta forma, o engenheiro foi de parecer favorável a concessão com a condição de que a ordem destruísse às suas custas os benefícios construídos em caso de necessidade de construção de fortificação real. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0089"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0089
+Carta de doação e sesmaria do prior e mais irmãos da Ordem Terceira de Nossa
+Senhora do Carmo – 28/06/1758
+Carta de doação de sesmaria do Prior e mais irmãos da mesa da Venerável Ordem
+Terceira de Nossa Senhora do Carmo desta praça.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade fidelíssima, comendador da
+comenda de Santa Maria de Moncorvo da Ordem de Cristo, governador e capitão
+general de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de
+doação e sesmaria virem, que o prior e mais irmãos da mesa da Venerável Ordem
+Terceira de Nossa Senhora do Monte do Carmo do Recife, que por detrás de uma
+capela, digo, de sua capela, digo, do Recife, me fizeram o requerimento seguinte:-
+Ilustríssimo e Excelentíssimo Senhor — Dizem o Prior e mais irmãos da mesa da
+Venerável Ordem Terceira de Nossa Senhora do Monte do Carmo do Recife, que por
+detrás da sua capela fica uma porção de terra que se alaga com a maré quando enche, e
+sem embargo disto, os moradores tem aforado muitos alagados e vem vindo com casas
+que cercará a capela da dita Ordem, prejudicando a sacristia que fica para o mesmo
+alagado, em cujos termos para evitarem aquele dano e o num muro que lançam por
+detrás, suplicam por sesmaria 70 braças de terra do alagado que fica por detrás da
+mesma capela, com a largura que der, cordeando pelas paredes da Ordem pela parte do
+poente, em que querem fazer um muro por evitarem as ditas inundações, digo,
+imundícies contra circunstâncias pecaminosas a Majestade Divina — Pedem a Vossa
+Excelência lhes faça mercê conceder a dita graça sem pensão, atendendo Vossa
+Excelência ser para Igreja e não para fazerem casas, e com dita condição a pedem. E
+receberá mercê —. Informem os oficiais da Câmara — Recife, 15 de abril de 1758 -
+Rubrica - Ilustríssimo e Excelentíssimo Senhor - O requerimento dos suplicantes nos
+parece justo. Vossa Excelência mandará o que for servido. Recife em Câmara, 15 de
+abril de 1758, digo, aos 6 de maio de 1758 — E eu, Joaquim José de Souza — Escrivão
+da Câmara, o escrevi — João de Oliveira Goudim — João Batista de Vasconcelos —
+Caetano Ribeiro Soares — Caetano Ferreira de Carvalho — O provedor da Fazenda
+Real informe com o seu parecer, ouvindo o doutor procurador da Coroa e Fazenda -
+Recife, 8 de maio de 1758 - Rubrica - Informe o escrivão da Fazenda e responda o
+doutor procurador da mesma — Barros — Senhor provedor da Fazenda — Parece que
+
+se deve proceder a vistoria na terra que os suplicantes pretendem haver por sesmaria,
+para se lhes poder deferir como for justo; e Vossa Mercê mandará o que for servido —
+Recife, aos 12 de maio de 1758 — Bernardino Pereira de Vasconcelos — Senhor
+provedor da Fazenda Real — Não tenho dúvida se afore a terra que pretendem,
+pagando o foro a quem direito for, de outra forma não tem lugar o requerimento; é o
+que me parece justo; Vossa Mercê mandará o que for servido - Recife, 12 de maio de
+1758 - Caetano Ribeiro Soares — Ilustríssimo e Excelentíssimo Senhor — Feita a
+vistoria que aponta o escrivão da Fazenda, me parece justo o requerimento dos
+suplicantes pelo fim a que se encaminha, Vossa Excelência determinará o que for
+servido. Recife, 18 de maio de 1758 — João do Rego Barros — O capitão-engenheiro
+Antonio José de Lemos proceda a vistoria na terra que os suplicantes pretendem,
+examinando se a obra que nela pretendem fazer é de qualidade que dela se possa seguir
+prejuízo a fortificação da praça ou cômodo público da mesma; e satisfaçam com vista
+ao provedor da Fazenda, escrivão e procurador da mesma, me torne para deferir —
+Recife, 22 de maio de 1758 - Rubrica - Ilustríssimo e Excelentíssimo senhor - O muro
+que os suplicantes pretendem fazer não faz embaraço algum as fortificações que
+existem e parece ser útil que se faça para se evitar o que os ditos suplicantes alegam em
+sua petição; é o que posso informar a Vossa Excelência, que mandará o que for servido.
+— Recife, 3 de junho de 1758 — Antonio José de Lemos - Informe o escrivão da
+Fazenda e o doutor procurador da mesma - Barros — Senhor provedor da Fazenda Real
+— A vista da informação do capitão Antonio José de Lemos e do que expõem os
+suplicantes em seu requerimento; mandará Vossa Mercê o que for servido — Recife, 8
+de junho de 1758 — Bernardo Pereira de Vasconcelos — Senhor provedor da Fazenda
+Real, como pela vistoria se verifica que o muro que os suplicantes pretendem fazer não
+faz o mínimo prejuízo de fortificações e com ele se evita o que os mesmos narram na
+sua súplica, parece justo o seu requerimento, sem embargo, do que Vossa Mercê
+informará o que for servido — Recife, 8 de junho de 1758 — Caetano Ribeiro Soares,
+— Ilustríssimo e Excelentíssimo senhor — Conformo-me com a resposta supra do
+doutor procurador da Fazenda; Vossa Excelência mandará o que for servido - Barros
+— Como do termo de vistoria que fez o capitão-engenheiro, consta o incômodo que os
+suplicantes padecem na falta do alagadiço que pretendem e ser este inútil para situarem
+nele casas, e presentemente não ser preciso para a fortificação desta praça, [contudo],
+como em algum tempo poderá ser para o dito feito necessário, fazendo os suplicantes
+termo na Provedoria de o darem desembaraçado do muro com que o pretendem cercar,
+
+a todo o que, digo, a todo o tempo que se fizer preciso para a fortificação, se lhe passe
+carta de sesmaria ficando lançado no dito termo a extensão de terra que compreende,
+com todas as mais confrontações necessárias a não haver em tempo algum embaraço —
+Recife, 10 de junho de 1758 — Rubrica — Cumpra-se — Barros —. Fica feito termo
+nesta Provedoria, em que assinou o licenciado Manoel de Lima de Melo e Albuquerque,
+como procurador da Venerável Ordem dos Terceiros de Nossa Senhora do Carmo desta
+vila, e do Prior e irmãos da mesa dela, para se demolir a custa da mesma ordem toda a
+obra ou benefício que fizerem nas 60 braças de terra que pedem de sesmaria, por detrás
+da sua capela, na forma expressada na sua petição todas as vezes que for necessária
+para as fortificações desta praça, sem que a Fazenda de Sua Majestade faça despesa
+alguma nem fique obrigada ressarcir-lhe a despesa, digo, a perda que receber a dita
+ordem. Recife, 19 de junho de 1758 — Bernardo Pereira de Vasconcelos. E não se
+continha mais no dito requerimento dos suplicantes, informações e resposta que
+estando todos conformes e sendo-me apresentado nele, proferi o despacho seguinte: —
+Passe carta de sesmaria na forma do estilo, visto ter satisfeito com o termo que
+determinei pelo despacho de 10 do corrente — Recife, 21 de junho de 1758 — Rubrica
+— Em cujo cumprimento se passou a presente, pela qual tenho e hei por bem dar aos
+suplicantes em nome de Sua Majestade, na conformidade do Capítulo 15 do Regimento
+deste Governo, as 70 braças de terra pedidas e confrontadas em sua petição, sem
+pensão ou foro algum, por ser a dita terra não para fabricarem casas para se utilizarem
+dos seus rendimentos, por ser útil o referido sítio como consta das informações, mas
+sim para fazerem um muro em benefício da mesma capela, na forma referida, por
+acautelar por este meio toda a indecência que no dito lugar se pratica em menosprezo
+da nossa religião, e não passará a religião alguma, salvo se for com os mesmos
+encargos que os tem os seculares, cuja porção de terra lograrão e possuírão eles e seus
+vindouros, como suas que ficam sendo de hoje para sempre, não prejudicando a
+terceiro, e requererão a Sua Majestade confirmação desta na forma das Ordens do dito
+senhor — Pelo que ordeno aos ministros da Fazenda e Justiça desta capitania a quem o
+conhecimento desta carta pertencer, lhe façam dar a posse real, efetiva e atual, na forma
+costumada debaixo das cláusulas referidas e das mais da Ordem titulada de sesmaria —
+Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, que se registrará na Secretaria deste Governo, provedoria da
+Fazenda Real e mais partes a que tocar — Dada nesta praça do Recife de Pernambuco,
+aos 28 dias do mês de junho — Francisco Gonçalves Reis — a fez em Lisboa no ano
+
+do nascimento de Nosso Senhor Jesus Cristo de 1758. — O secretário Antonio José
+Correa a fez escrever — Luiz Diogo Lobo da Silva.
+- Fim da Carta –
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 106 - 110.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

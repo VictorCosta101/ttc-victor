@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0068
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Diogo da Fonseca Freire",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "07-08-1681",
+  "Observações da sesmaria": "A sesmaria possuía quatro léguas de comprimento e uma de largura, e mais uma extensão de três léguas de comprimento e uma de largura para os seus três filhos, entre os rios Una e Paraguaçu.",
+  "Localidade": "Entre os rios Una e Paraguaçu",
+  "Marcos Geográficos": "Rio Una e rio Paraguaçu.",
+  "Observações da petição": "O suplicante solicitou quatro léguas de comprimento e uma de largura para ele e mais oito léguas de comprimento com duas de largura para os seus três filhos.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; Pretendia criar gado; Tinha gado; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que o sesmeiro anterior passou mais de cinco anos sem aproveitar a terra e ainda voltou para São Paulo, de onde era natural, e que esse tempo ia contra a ordenação e ainda especificou o regimento das sesmarias, mencionando o título 43, parágrafo 3, para justificar o seu pedido.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que o suplicante poderia receber as medidas que tinha solicitado para si, mas para os seus filhos deveriam ser concedidas três léguas de comprimento por uma de largura. O provedor e o governador concordaram com o parecer do procurador.",
+  "Observações das exigências": "Exigiu que enviasse certidão demonstrando que povoou a terra.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0068"
+}
+
+            **Conteúdo Original** (extrato):
+            BA  
+ 
+Registro do alvará de doação e sesmaria de 4 léguas de terra de comprimento e meia de largura, 
+que o senhor mestre de campo, general Roque da Costa Barreto, teve por bem conceder e dar 
+em nome de Sua Alteza à Diogo da Fonseca Freire, 3 léguas mais contínuas para os seus 3 
+filhos.  
+ 
+Roque da Costa Barreto, do conselho de Sua Alteza. Faço saber aos que este alvará de doação 
+e sesmaria virem que, havendo respeito ao que por parte de Diego da Fonseca Freire, escrivão 
+do juízo eclesiástico, que na guerra dada ao gentio bárbaro nesta capitania se descobriram terras 
+capazes para gados em que se deram de sesmaria ao padre Gaspar Cubas Ferreira, 4 léguas na 
+barra que faz o rio Una com o Paraguaçu de cada banda de comprimento, e uma de largura por 
+carta de 10 de outubro de 1673, o qual não só as não aproveitou, mas se ausentou para São 
+Paulo onde era natural, são passados não só os 3 anos do regimento das sesmarias, mas os 5 da 
+ordenação, livro quarto, título 43, parágrafo 3, da mesma sorte outras terras ou outras pessoas 
+que os suplicantes ignora, as quais todos estão devolutas, e porque o suplicante é morador a 
+perto de 30 anos neste Estado com mulher e filhos, e não tem terra alguma, tem comprado gado 
+para logo povoar no que faz serviço a Deus para terra em [?], e os dízimos de Sua Alteza. Pede  
+a Vossa Senhoria, lhe faça mercê em nome do dito senhor na forma da ordenação, parágrafo 4, 
+das sesmarias na dita passagem do Rio Una na barra que faz com o Paraguaçu da banda do Sul 
+e do Norte, as 4 léguas de comprimento e uma de largura que se deram ao dito padre, 8 léguas 
+mais para seus 3 filhos, Antônio, Francisca, Diogo da Fonseca, com duas de largura juntas ou 
+em entrepostas, aonde de próximos não estejam dadas nem diante aproveitadas, ressalvando o 
+de presente dado ou de possuído aproveitado caatingas e matos que não servem para gados, 
+correndo pelo dito Una acima de uma e outra parte, ficando-lhe o rio em meio para conservação 
+dos gados, as quais pede para si e ditos seus filho por devolutas e não aproveitadas, ainda que 
+doutrem sejam dadas, pois passarão os 5 anos da lei referida, mandando-lhe passar carta de 
+sesmaria precedendo os requisitos necessários. E receberá mercê. Vista a resposta do 
+procurador da Fazenda Real, que é a seguinte. Não se me oferece dúvida que se deem aos 
+suplicantes as 4 léguas de comprimento e uma de largura que pede por devoluta, e 3 mais 
+contínuas de boa ou má terra com uma de largura ou o que parecer justo para os seus 3 filhos, 
+com as condições e declarações costumadas. Bahia, 15 de julho de 1681. Andrada// A 
+informação do provedor-mor da dita Real Fazenda, que também é a que se segue. Senhor, na 
+forma da resposta do procurador da Fazenda, me parece se pode conceder ao suplicante a terra 
+que pede, porque vem a ser 7 léguas para uma família, que parece são bastantes para povoar, e 
+seja com as condições do regimento, sem prejuízo de terceiros, e as mais. Vossa Senhoria 
+mandará o que for servido. Bahia, 7 de agosto de 1681. Antônio Lopes de Ulhôa// Hei por bem 
+de conceder e dar de sesmaria, como pelo presente dou ao suplicante Diogo da Fonseca Freire, 
+em nome de Sua Alteza, as 4 léguas de terra de comprimento e uma de largura que pede por 
+devolutas, e 3 léguas mais contínuas de boa, ou na terra com uma de largura para os seus 3 
+filhos, como parece ao procurador da Fazenda, e na parte que as pede e confrontam em sua 
+petição, não prejudicando a terceiro com todas suas águas, campos, matos, testadas, logradouro, 
+e mais úteis que nelas se acharem, todo foro livre e isento de pensão ou tributo algum, salvo 
+dizimo à Ordem de Cristo, que pagarão dos frutos que nelas houver, e por ela será obrigado a 
+dar estradas públicas a todos e a particulares para fontes, pontes, portos, pedreiras, povoando-
+as no termo da lei e demarcando-as no tempo da posse, citados os Éreos, mandando certidão de 
+como tem povoado dentro no dito termo para se registrar nos livros da Fazenda Real. Pelo que 
+ordeno a todos os ministros a que o conhecimento deste com direito deva ou possa pertencer, 
+lhes façam da a posse real efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas e as mais da ordenação, titulo das sesmarias. Para firmeza do que lhe mandei passar o 
+
+presente, sob meu sinal e selo de minhas armas, o qual se registrará nos livros da secretaria do 
+Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nela 
+se contém, sem dúvida embargo nem contradição alguma. Antônio Garcia o fez nesta cidade 
+do Salvador, Bahia de Todos os Santos nos 7 dias do mês de agosto, ano de 1681. Bernardo 
+Vieira Ravasco o fiz escrever. Roque da Costa Barreto//Selo. Registrado no livro segundo dos 
+registros da secretaria do Estado do Brasil, a que toca a folha 98, verso. Bahia, 7 de agosto de 
+1681. Ravasco// Cumpra-se e registre-se. Bahia, 9 de agosto de 1681. Antônio Lopes de Ulhoa// 
+Antônio Lopes o registrou, em 12 do dito mês e ano acima.  
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+ 
+O nome do sesmeiro que consta no documento original é: Diogo de AFonseca Freire.  
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 194 – 195v.  
+Numeração original no livro: 143  
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

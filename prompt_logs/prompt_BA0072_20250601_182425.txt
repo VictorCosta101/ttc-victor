@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0072
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pasqual Pereira de Siqueira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "17-12-1681",
+  "Observações da sesmaria": "A sesmaria possuía quatro léguas quadradas e estava localizada em Cachoeira, na Bahia, fazendo fronteira com as terras do conde de Linhares e Afonso Rodrigues Adorno e das terras de Maria Pereira (BA0071).",
+  "Localidade": "Cachoeira",
+  "Confrontantes": "conde de Linhares e Afonso Rodrigues Adorno; Maria Pereira",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que caso as terras em direção ao sertão tivessem dono, elas deveriam ser consideradas devolutas, pois não estavam fabrincando no termo da lei.",
+  "Observações das exigências": "Determinou-se o envio de certidão de como a tem povoado.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0072"
+}
+
+            **Conteúdo Original** (extrato):
+             BA 
+ 
+  
+Registro do alvará de doação, e sesmaria de 4 léguas de terra de largo, e outra tanta de 
+comprido, 
+que 
+se 
+deu 
+a 
+Pasqual 
+de 
+Siqueira. 
+ 
+Roque da Costa Barreto do conselho de Sua Alteza, etc. Faço saber aos que este alvará 
+de doação, e sesmaria virem que havendo respeito ao que por parte de Pasqual Pereira se me 
+enviou a representar por sua petição, cujo teor é o seguinte: Senhor, diz Pasqual Pereira de 
+Siqueira, morador nesta cidade, que tem notícia que no sertão entre as datas do conde de 
+Linhares e Afonso Rodrigues Adorno há terras que não estão dadas a ninguém, e somente a 
+Maria Pereira, viúva de Agostinho Pereira Bacellar, se deu uma data nos ditos campos, e o 
+suplicante quer cultivar a mais terra que delas houver, que serão pouco mais, ou menos 4 léguas 
+de largo. Pede a Vossa Senhoria lhe faça mercê em nome de Sua Alteza conceder-lhe de 
+sesmaria as ditas 4 léguas de largo, e outras tantas de comprido para o sertão, para as cultivar, 
+e estando dadas a outrem as pede por devolutas por as não fabricar no termo da lei. E receberá 
+mercê. E vista a resposta do procurador da fazenda, que é a seguinte. Não se me oferece dúvida, 
+que se dê ao suplicante a terra que pede. Bahia, 16 de dezembro de 1681 // Andrada // E a 
+informação do provedor-mor da dita Real Fazenda, que também é a que se segue. Senhor, 
+parece-me que se pode conceder ao suplicante a terra que pede, e que não tem dúvida o 
+procurador da fazenda, o que será com as condições do regimento, sem prejuízo de terceiro. 
+Vossa Senhoria mandará o que for servido. Bahia, e dezembro 16 de 1681 // Antônio Lopes de 
+Ulhôa // Hei por bem de lhe conceder, e dar de sesmaria, como pela presente faço em nome de 
+Sua Alteza, 4 léguas de terra de largo, e outras tantas de comprido para o sertão na parte em 
+que a pede, e confronta em sua petição como parece aos ministros da fazenda ainda estejam 
+dadas estando devolutas na forma da lei, sem prejuízo de terceiro com todas suas águas, campos, 
+matos, testadas, logradouros, e mais úteis que nela se acharem, tudo forro, livre, e isento de 
+pensão, ou tributo algum, salvo dízimo a Ordem de Cristo, que pagará dos frutos que nela 
+houver, e por ela será obrigado a dar caminhos públicos a todos, e a particulares, para fontes, 
+pontes, portos, e pedreiras, e de a povoar no termo da lei, e demarcando-se ao tempo da posse, 
+citados os hereos, e demandar certidão de como a tem povoado dentro no dito termo para se 
+registrar nos livros da Fazenda Real. Pelo que ordeno a todos os ministros de justiça a que o 
+conhecimento deste com direito deva, ou possa pertencer, lhe façam dar a posse real, efetiva e 
+atual, na forma costumada, debaixo das cláusulas acima referidas, e as mais da ordenação título 
+das sesmarias. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas 
+armas, o qual se registrará nos livros da secretaria deste Estado, e nos mais a que tocar, e se 
+guardará, e cumprirá tão pontual, e inteiramente como nele se contém, sem dúvida, embargo 
+nem contradição alguma. Antonio Garcia o fez nesta cidade do Salvador, Bahia de Todos os 
+Santos e nos 17 dias do mês de dezembro ano de 1681. Bernardo Vieira Ravasco o fez escrever 
+// Roque da Costa Barreto // Selo // Registrado no livro segundo dos registros da secretaria do 
+Estado do Brasil a que toca a folhas 100 verso. Bahia, 18 de dezembro de 1681 // Ravasco // 
+Despacho do provedor-mor. Cumpra-se, e registre-se nos livros a que toca. Bahia, e dezembro 
+19 de 1681 // De Ulhoa // E se registrou no mesmo dia por Pantaleão Freire. 
+ 
+Fim da transcrição. 
+ 
+Observações do documento: O nome do sesmeiro é mencionado de 3 formas no documento: 
+Pasqual de Siqueira, Pasqual Pereira, Pasqual Pereira de Siqueira. 
+ 
+Referências: 
+BA - AN, Códice 427, fls 204 - 205 
+
+Numeração original no livro: 150 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

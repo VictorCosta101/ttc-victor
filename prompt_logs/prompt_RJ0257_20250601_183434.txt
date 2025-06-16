@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0257
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Antunes Proença",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-10-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "A Vargem Grande a Cruz do Pouso ou Almas",
+  "Confrontantes": "Caminho que se abriu, com início em Angra dos Reis e término em Parati",
+  "Justificativas": "Pretendia lavrar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante ainda alegou que \"tinha dois sobrinhos e os queria arrumar para fazerem suas lavouras com alguns escravos\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711, com deferimento parcial, uma vez que apenas meia légua foram passadas, ao invés de uma légua em quadra.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se ainda que o mesmo reservasse os paus reais localizados em sua data concedida.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0257"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0257
+Carta de concessão do padre Manuel Antunes Proença de 23 de outubro de 1750
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição o reverendo padre Manoel Antunes Proença, vigário na vila de Angra dos Reis da
+Ilha Grande, que no caminho que se abriu da dita vila e vai sair ao de Parati, se achavam a
+maior parte das terras devolutas, e porque tinha dois sobrinhos e os queria arrumar para
+fazerem suas lavouras com alguns escravos, me pedia lhe concedesse por sesmaria 1 légua de
+terra na paragem chamada a Vargem Grande a Cruz do Pouso ou Almas, no dito caminho que
+vai da dita vila para o de Paraty (ilegível) o seu requerimento em que foi ouvida a Câmara da
+vila da Ilha Grande a quem não se ofereceu duvida nem ao provedor da Fazenda Real e
+procurador da Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria, em nome de Sua
+Majestade e em virtude da ordem do dito Senhor de 15 de junho de 1711, ao dito reverendo
+padre Manuel Antunes Proença meia légua de terras em quadra na parte acima declarada e
+com as confrontações expressadas; sem prejuízo de terceiro ou do direito [que] alguma pessoa
+tenha a elas; com declaração que as cultivará e mandará confirmar esta minha carta por Sua
+Majestade dentro de 2 anos, e não o fazendo se lhe de negará mais tempo; antes de tomar
+posse delas, as fará medir e demarcar judicialmente, sendo para este efeito notificadas as
+pessoas com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes e
+estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite de barca para
+se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia
+pública; nesta data não poderá suceder em tempo algum pessoa eclesiástica ou religião, e
+sucedendo será com o encargo de pagar dízimos e outro qualquer que Sua Majestade lhe
+impuser de novo, e não os pagando se poderá dar a quem denunciar; como também sendo o
+dito Senhor servido mandar fundar no distrito dela alguma vila o poderá fazer ficando livre,
+sem encargo algum ou pensão para o sesmeiro; não compreenderá esta data vieiros ou minas
+de qualquer gênero de metal que nela se descobrir, reservando também os paus Reais; e
+faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as
+que dispõem a Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito reverendo padre
+Manuel Antunes Proença das referidas terras na forma acima declarada. E por firmeza de
+
+tudo, lhe mandei passar a presente por mim assinada e selada com sinete de minhas armas,
+que se cumprirá como nela se contém, se registrará nesta Secretaria de governo e nas mais
+partes a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro. João de Sousa e
+Melo a fez em os 23 de outubro de 1750. O secretario do governo, Antônio da Rocha
+Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência fez mercê dar de sesmaria, em nome de Sua Majestade, ao
+reverendo padre Manuel Antunes Proença meia légua de terras em quadra no Caminho Novo
+que serviu da vila da Ilha Grande e vai sair ao de Piraty na forma que nesta se declara. Para
+Vossa Excelência ver.
+Registrada no Livro 11 que serve de registro das provisões do governo a folha 30. Rio, a 24 de
+outubro de 1750.
+//Antônio da Rocha Machado//
+Registre-se nos Livros da Fazenda Real. Rio, 9 de novembro de 1750.
+//Melo//
+Registrada no Livro 34 de registros desta Provedoria a folha 1. Rio, 11 de novembro de
+1750. //André Francisco Xavier//
+-Fim da Transcrição
+Observações do documento:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria
+ao Padre Manuel Antunes Proença, Vigário na Vila de Angra dos Reis da Ilha Grande, meia
+légua de terra, em quadra, no caminho entre a mesma Vila e Pirahy. Rio de Janeiro, 23 de
+outubro de 1750.
+Referência:
+AHU_ACL_CU_017-1, Cx. 82\Doc. 19124
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

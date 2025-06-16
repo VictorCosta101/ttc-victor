@@ -1,0 +1,151 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0124
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Martim Fernandes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "01-09-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobejos de terra em lugar não identificado",
+  "Marcos Geográficos": "Mutuá",
+  "Ribeira": "Soassunhum",
+  "Confrontantes": "Terras de Gonçalo de Aguiar nas cabeceiras de Martim Parim, terras de João Carrasco e seus irmãos, terras de Gaspar Rodrigues",
+  "Justificativas": "Era morador(a) da Capitania; Pretendia lavrar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta sesmaria, na verdade, constitui-se em nova concessão, por conta que a anterior (RJ 0123) foi tornada sem efeito.",
+  "Observações das exigências": "Determinou-se também ao suplicante que \"haja a posse e senhorio da dita terra, como dito é, para sempre\", assim como exigiu-se do mesmo \"ele rompa e aproveite, frutifique a dita terra da dada desta em três anos primeiros seguintes, e outrossim, fará de maneira que dentro de quatro meses tenha feito nela algum proveito e plantado alguns mantimentos, que cumpridos os ditos três anos que a tenha aproveitado, como dito é, porque não o fazendo ele assim, passados os ditos três anos, se dará a dita terra de sesmaria a quem a pedir para aproveitar, e lhe será deixado alguns logradouros do que não aproveitado não tiver, e sobretudo, pagará 1000 réis para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenados e necessárias para o Conselho, para fontes, pontes, vieiras e pedreiras que necessárias forem, a qual terra pela dita maneira lhe deu assim, forra e isenta\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0124"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0124
+Carta de pedido de concessão de sesmaria Martim Fernandes de 1º de setembro de
+1603
+[Fl. 63] Saibam quantos este instrumento de carta de sesmaria virem, que no ano do
+nascimento do nosso senhor Jesus Cristo 1603, a 1º de setembro do dito ano, nesta cidade de
+São Sebastião do Rio de Janeiro do Brasil, pelo reverendo Vigário Martim Fernandes foi
+apresentado a mim escrivão abaixo nomeado, uma petição com despacho nela do senhor
+Martim de Sá, capitão e governador nesta dita cidade, capitania e governança, deste dito Rio
+de Janeiro por El-Rei Nosso Senhor. Da qual petição o despacho dela o translado é o seguinte:
+Martim Fernandes, perpétuo vigário da Sé e Igreja Matriz desta cidade de São Sebastião do
+Rio de Janeiro, provisor e vigário geral, que há mais ou menos vinte e três ou vinte e quatro
+anos veio para esta cidade, sem que em todo este tempo os governadores passados lhe derem
+de sesmaria algumas terras que pudesse lavrar e fazer sua fazenda e porquanto, ora é
+informado que entre uma dada de terras que Gonçalo D’Aguiar tem de sesmaria nas
+cabeceiras de Martim Parim, que passa da outra banda do rio ou outeiro de Soassunhum, para
+as terras de Mutuá que foram dadas a João Carrasco e seus irmãos, há entre eles, segundo seu
+comprimento e largura por aquela parte e entre quinhentas braças que Gaspar Rodrigues
+comprou a Antônio de Frias, que ora tem e possuem seus genros lavrando nelas estão uns
+sobejos ou terras por dar, pedem a Vossa Senhoria que lhe dê de sesmaria todos os ditos
+sobejos ou terras que se acharem não serem dadas pelas confrontações acima declaradas,
+assim comprimentos como larguras que constar que as sobreditas confrontações tiverem e tem
+por suas cartas. E receberá mercê. Despacho do senhor capitão e governador: dou as terras
+que pede o reverendo padre vigário Geral desta diocese, assim e da maneira que em sua
+petição pede. Rio de Janeiro, 31 de agosto de 1603. Martim de Sá. E tudo visto pelo dito
+senhor capitão e governador, a petição do dito reverendo padre vigário Martim Fernandes, e o
+que ele pedia, visto ser justo e havendo respeito ao proveito que se pode seguir acerca da
+República e ao serviço de Deus e Del Rei nosso Senhor, e para a terra povoar, deu a terra
+contida na dita petição, conforme ao seu dito despacho, porquanto dizia que estava vago e
+devoluto e por dar, sem nenhuma benfeitoria para aproveitar e fazer fazenda e benfeitorias e
+roças, como diz nela, não sendo já dada a outra pessoa ou pessoas, primeiro, a qual terra diz
+que está no dito lugar e lugares, que partem pelas ditas confrontações como em sua petição
+diz, a qual terra lhe deu e concedeu em nome Del Rei, nosso Senhor, pela maneira adiante
+declarada, segundo a forma do Regimento de El-Rei Nosso Senhor, de que o translado é o
+seguinte: as terras que estiverem dentro do termo e limites da cidade de São Sebastião que são
+6 léguas para cada parte que não foram dadas as pessoas que aproveitem, ou posto que o
+fossem, se as pessoas para quem se deram as não aproveitarem no tempo que são obrigadas,
+por esta via ou por qualquer outra estiverem vagas, as poderei dar de sesmarias a quem a vós
+pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua
+possibilidade virdes, ou vos parecer que podem granjear e aproveitar, as quais terras assim as
+dareis livremente sem outro algum foro, somente o dízimo a Ordem do mestrado do nosso
+senhor Jesus Cristo, com as condições e obrigações do foral dado as ditas terras de minha
+Ordenação do Livro 4º, título das sesmarias, com a condição que a tal pessoa ou pessoas que
+residam na povoação da dita capitania ou das terras que lhe assim foram dadas ao menos três
+anos, que dentro do dito tempo as não possam vender, nem enlear, e se algumas pessoas a que
+forem dadas terras no termo da dita cidade e as tiverem perdidas porque não as aproveitaram,
+
+e a vós tornarem a pedir, vós as podereis de novo dar com as condições e obrigações contidas
+neste capítulo, o qual se transladara nas cartas, porque as assim derdes e isto se entenderá não
+sendo a ditas terras dadas a outras pessoas primeiro, com as quais condições, obrigações e
+declarações lhe assim deu o dito senhor capitão e governador a dita terra ao dito reverendo
+padre vigário Martim Fernandes a dita terra, pela sobredita maneira e para sua guarda e
+segurança lhe mandou ser feita esta carta, pela qual manda que ela haja a posse e senhorio da
+dita terra, como dito é, para sempre, para ele e todos os seus herdeiros, sucessores,
+ascendentes e descendestes que após dele vierem, com a tal condição e entendimento que ele
+rompa e aproveite, frutifique a dita terra da dada desta em três anos primeiros seguintes, e
+outrossim, fará de maneira que dentro de quatro meses tenha feito nela algum proveito e
+plantado alguns mantimentos, que cumpridos os ditos três anos que a tenha aproveitado, como
+dito é, porque não o fazendo ele assim, passados os ditos três anos, se dará a dita terra de
+sesmaria a quem a pedir para aproveitar, e lhe será deixado alguns logradouros do que não
+aproveitado não tiver, e sobretudo, pagará 1000 réis para as obras do Conselho e dará pela dita
+terra, caminhos e serventias ordenados e necessárias para o Conselho, para fontes, pontes,
+vieiras e pedreiras que necessárias forem, a qual terra pela dita maneira lhe deu assim, forra e
+isenta, sem foro nem tributo, somente de tudo que lhe nosso Senhor der nela de suas
+novidades, lavouras e criações, pagará os dízimos a Deus conforme o dito Regimento, o que
+tudo manda que se cumpra e guarde sem dúvida nem embargo algum, que lhe a ele seja posto
+e que esta carta seja registrada dentro de um ano nos livros da Fazenda Real, como dito
+senhor em seu Regimento manda, sobre as penas nele contidas e declaradas, e porque o
+sobredito reverendo padre vigário, prometeu de ter, manter e cumprir pela dita maneira lhe
+mandou passar esta carta de sesmaria, e por verdade, eu Pero da Costa, escrivão das sesmarias
+e tabelião das notas por El-Rei nosso senhor, desta cidade de São Sebastião e em seus termos,
+que este instrumento de carta de sesmaria escrevi e tomei nos meus livros das notas e tombo
+das cartas de sesmaria, desta dita cidade, que em meu poder estão, onde o dito instrumento
+fica assinado pelo dito senhor, capitão e governador. E não faça dúvida no riscado que diz: “e
+obrigações” e no riscado que diz: “e descendentes”. // Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria dos sobejos das terras do reverendo padre vigário Martim
+Fernandes.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+168-171; Documento Original : Fl.63.
+Original no livro
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

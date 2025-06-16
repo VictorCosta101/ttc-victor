@@ -1,0 +1,267 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0097
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0154",
+  "Nome": "Alberto Francisco do Amaral",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-09-1765",
+  "Data da concessão": "27-11-1765",
+  "Observações da sesmaria": "O suplicante requereu duas braças de comprimento e três braças de largura na vila do Recife. A sesmaria localizava-se na rua das Cinco Pontas, na Estacada dos Afogados e confrontava-se com as casas de Antônio Duarte Silva, ao sul, e José Duarte Palheiros, ao norte.  ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Estacada dos Afogados, Rua das Cinco Pontas",
+  "Confrontantes": "Antônio Duarte Silva, José Duarte Palheiros",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara do Recife e do sargento-mor engenheiro acerca da viabilidade da construção de casas no terreno pretendido. ",
+  "Observações das exigências": "O governador Antônio de Sousa Manuel e Meneses, conde de Vila Flor, determinou o pagamento anual do foro régio no valor de 800 réis por braça concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do procurador": "José Teodoro de Lemos Duarte",
+  "referencia": "PE0097"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0097
+Carta de doação e sesmaria de Alberto Francisco do Amaral - 27/11/1765
+Alberto Francisco do Amaral com sesmaria de 20 palmos de terra de frente na rua
+das cinco pontas junto a estacada etc.
+Antônio de Souza Manoel e Menezes, conde de Vila Flor, do Conselho de Sua Majestade
+Fidelíssima, seu copeiro-mor, comendador das comendas de São Pedro de Cabelos e
+Santiago de Couçorado na Ordem de Cristo, governador general de Pernambuco, Paraíba e
+mais capitanias anexas etc. Faço saber aos que esta carta de doação de sesmaria virem, que
+Alberto Francisco do Amaral me fez o requerimento do teor seguinte — Ilustríssimo e
+Excelentíssimo Senhor - Diz Alberto Francisco do Amaral, soldado da companhia de
+Granadeiros, do Regimento desta Praça, de que é coronel João Lobo de Lacerda, que se
+acham dezoito palmos de terra vagos na rua das Cinco Pontas, no lugar da Estacada
+pertencentes a Sua Majestade, que por parte do sul confronta com Antonio Duarte Silva e
+do norte com José Duarte Palheiros, e como o suplicante os queira haver aforados para
+neles fazer o seu quartel e não pode fazer sem licença de Vossa Excelência. Pede a Vossa
+Excelência atendendo ao requerimento do suplicante, se digne mandar se lhe afore os ditos
+palmos de terra pedidos, pagando o seu foro nacional, para neles fazer o seu quartel = E
+receberá mercê = O que sendo por mim visto, mandei por meu despacho de 13 de setembro
+de 1765 informar o provedor da Fazenda Real, ouvindo o escrivão e procurador da mesma
+e o dito provedor mandou informar o escrivão e responder o procurador. Informou o
+escrivão o seguinte = Senhor provedor da Fazenda Real = Não se me oferece dúvida no
+requerimento do suplicante, porém deve ser examinada esta terra pelo capitão-engenheiro
+Antônio José de Lemos, para ver se são os mesmos palmos que o suplicante relata e se
+poderá em algum tempo prejudicar a dita obra a defensa da Praça, para o que deve fazer
+termo nesta Provedoria de a demolir, e sendo necessário pagando o foro devido — Recife,
+17 de setembro de 1765 = Luiz Manoel de Oliveira e Brito = Em dito dia respondeu o
+procurador José Teodoro de Lemos Duarte, dizendo que se pela vistoria do dito capitão-
+engenheiro, se mostrar que pode o suplicante sem prejuízo público fazer a casa que
+pretende, dando fiança dos foros, não se lhe oferece dúvida em que se lhe dê de sesmaria os
+palmos da terra que pede, não prejudicando a terceiro, cuja resposta se conforma o dito
+
+provedor; e eu, por despacho de 18 do dito mês e ano, mandei que o dito capitão-
+engenheiro satisfizesse o que apontava o doutor procurador e que assim executado, não
+havendo embaraço e o suplicante verificasse as condições apontadas, deferiria = Satisfez o
+sobredito engenheiro e diz assim = Ilustríssimo e Excelentíssimo Senhor - onde o
+suplicante quer fazer a sua casa é na rua Direita, que vai da Igreja de Nossa Senhora do
+Terço, buscando a Estacada dos Afogados da parte direita entre as terras que estão aforadas
+por sesmaria a Bento Gomes de Oliveira, já defunto, de que seus herdeiros pagam foro a
+Real Fazenda e as do capitão João da Costa de Andrade, também já defunto, e seus
+herdeiros também pagam o mesmo foro a Real Fazenda. Quando estas terras se deram a
+estes foreiros e eles quiseram fazer as suas casas, mandou a Câmara desta Vila (por
+requerimento que lhe fizeram) e seu procurador e cordeador para determinar a largura e
+direitura da rua, o entre uma e outra data Ordenação, ficasse um beco de vinte palmos de
+largo que assim subscrevo, e está feito neste dito beco o que o suplicante pretende tapar o
+fazer nele a sua casa, o que parece não ter lugar pelo mal que faz aqueles moradores
+daquela rua e juntamente ir contra as determinações da referida Câmara, que só procura o
+bem comum, porém como não faz embaraço algum as fortificações que existem – Vossa
+Excelência mandará o que for servido. Recife, 26 de setembro de 1765 - Antônio José de
+Lemos = Mandei mais por despacho de 27 do mesmo mês e ano que tornasse o provedor da
+Fazenda Real a dizer a vista da informação do dito capitão-engenheiro, o qual mandou
+responder o provedor e este fez no dia 28 do referido mês e ano, na forma seguinte —
+Senhor provedor da Fazenda Real — Como o capitão-engenheiro informa que a terra que o
+suplicante pede está ocupada de um beco, ordenado pela Câmara desta Vila, devesse
+examinar se as casas de uma e outra parte do dito beco, sem portas ou janelas para ele,
+porque sendo assim, não se deve tirar a posse dos senhores delas e seria necessário uma via
+ordinária, e deve também ser ouvida a respectiva Câmara para informar se o dito beco é
+necessário para o serviço dos moradores e conveniente ao bem público, satisfeito isto será
+de conveniência para a Real Fazenda dar-se de sesmaria a mencionada terra se não houver
+alguma das referidas circunstâncias, porém havendo qualquer delas, por isso que não deve
+ter lugar o requerimento do suplicante e com esta resposta me diz o provedor que me torna
+a informar; e eu, por despacho do último do referido mês de setembro, mandei responder a
+Câmara respectiva e que o mencionado capitão-engenheiro satisfizesse o que apontava o
+
+doutor procurador da Fazenda, em cumprimento do que informou a Câmara desta sorte =
+Ilustríssimo e Excelentíssimo Senhor = Examinado o lugar que pretende o suplicante tomar
+por sesmaria, achamos não pode ter lugar por ser uma servidão daqueles moradores, que só
+tem vinte palmos de largo, de forma que fazendo-se a nova rua por detrás, ficariam sem
+saída, além de que o lugar que se pretende nunca se prometeu a outro por acordo, que já se
+tomou nesta matéria, como informa o capitão-engenheiro Antônio José de Lemos. — É o
+que podemos informar a Vossa Excelência, que mandará o que for servido = Recife em
+Câmara, 5 de outubro de 1765 — Silvestre Antônio da Lage, escrivão da Câmara, o escrevi
+= Francisco Machado Gaio = Inácio Ribeiro Leitão = Domingos Marques = Vindo a meu
+poder dito requerimento, sem vir satisfeito o meu despacho, pelo que diz respeito a
+satisfazer o capitão-engenheiro o que mandei, tornei em 7 do dito mês de outubro assim
+ordenar, veio satisfeito desta maneira = Ilustríssimo e Excelentíssimo Senhor = O referido
+beco que o suplicante quer tapar com as suas casas, não tem de nenhum lado para ele porta
+ou janela. Vossa Excelência mandará o que for servido = Recife, 9 de outubro de 1765 —
+Antônio José de Lemos = O que visto em 11 do dito mês de outubro, proferi o despacho
+seguinte = Como estão satisfeitas as respostas sobre os pontos que declarou o provedor da
+Fazenda, ouvindo a este o provedor da mesma, me informara ultimamente em execução do
+qual assim mandou e o mencionado provedor cumpriu, com a resposta seguinte — Senhor
+provedor da Fazenda Real = Pela última informação do capitão-engenheiro, consta que no
+lugar que o suplicante pede por sesmaria não tem as casas que ficam de um e outro lado,
+portas ou janelas para ele, e isto me faz duvidar de que o dito lugar fosse consignado para
+beco e servidas do povo, porque não se achará nas ruas desta Vila beco ou travessas em que
+as casas de um e outro lado não tenham portas ou janelas para o mesmo beco ou travessa;
+porém, como a Câmara informa que o dito lugar é da servidão dos moradores daquela rua,
+parece-me que não se deve permitir que se tape com casas sem maior averiguação, e
+atendendo a que será conveniente a Fazenda Real e aforamento do mencionado lugar, se o
+Ilustríssimo e Excelentíssimo Senhor conde general for servido mandar que os oficiais da
+Câmara tornem a informar, fazendo segundo exame com a minha assistência, ouvirei os
+fundamentos que propuserem e farei a averiguação precisa para melhor poder informar e
+resolver o dito Ilustríssimo e Excelentíssimo Senhor o que for servido — Recife, 12 de
+outubro de 1765 — José Theodoro de Lemos Duarte = Com esta resposta me informou o
+
+provedor, assim = Ilustríssimo e Excelentíssimo Senhor - Informo com a última resposta do
+doutor provedor da Fazenda: Vossa Excelência mandará o que for servido = João do Rego
+Barros — E sendo-me esta presente, mandei por despacho de 14 do dito mês e ano o
+seguinte = A mesma Câmara desta Vila, fazendo com assistência do provedor, digo, do
+procurador da Fazenda Real, novo exame no lugar que o suplicante pretende aforar, me
+informe outra vez = Satisfez a dita desta maneira Ilustríssimo e Excelentíssimo Senhor
+conde general = Fomos ao lugar do requerimento do suplicante, com assistência de doutor
+procurador da Coroa, o qual examinamos e respondemos a Vossa Excelência com a
+informação que já demos em 5 deste presente mês de outubro, cuja vai incerta neste
+requerimento, ao que Vossa Excelência mandará sempre o que for servido — Recife em
+Câmara, 31 de outubro do 1765. = E eu, Silvestre Antônio da Lage, Escrivão da Camara
+escrevi = Francisco Machado Gaio = Inácio Ribeiro Leitão = Domingos Marques - O
+procurador da Fazenda também o fez desta sorte = Ilustríssimo e Excelentíssimo Senhor —
+Assistindo ao segundo exame que fizeram os oficiais da Câmara desta Vila, lhes perguntei
+por onde constava que o lugar que o suplicante pede por sesmaria tivesse sido deixado para
+beco e servidão dos moradores daquela rua e se sobre isso se havia tomado em Câmara
+algum acento ou acordo – Responderam-me que não era necessário constar por outra razão
+mais do que por não se ter fabricado naquele lugar alguma morada de casa (como se não
+houvessem lugares sem casas, que não sejam becos ou travessas) e que o capitão-
+engenheiro o declarava na sua informação. O dito lugar, segundo o que presenciei, serve de
+monturo e parece que na fronte de uma rua se não devia consentir o despejo de imundíces.
+É certo que não há beco próximo a dito lugar; porém, dele até onde findam as casas
+daquela rua para a parte do aterro dos Afogados só há a distância de duzentos e seis palmos,
+segundo consta da certidão adiante junta do mestre pedreiro, que fez a medição e parece
+que os que dizem se servem pelo dito lugar, podem com pequeno trabalho de mais alguns
+passos servirem-se por aqueles onde acabam as ditas casas. A vista do referido e do que já
+respondi sobre este requerimento e o mais que dele consta: determinará Vossa Excelência o
+que for servido - Recife, 13 de dezembro, digo Recife, 13 de novembro de 1765 = José
+Theodoro de Lemos Duarte - Certidão referida — Certifico eu, Francisco Pereira Ramos,
+mestre pedreiro, examinado que medindo as casas do alferes Antônio Duarte, nas Cinco
+Pontas, acho ter de largo duzentos e três palmos de um lado a outro e o pedaço que se acha
+
+encoberto entre o dito alferes Antônio Duarte e José Duarte Palheiro acho ter vinte palmos,
+que fui medir por mandado do senhor doutor procurador da Real Fazenda, e por assim ser
+verdade mandei passar a presente certidão; e eu me assinei com o meu sinal costumado --
+Recife, 29 do novembro de 1765 anos. Francisco Pereira Ramos - Vistas ditas informações,
+ordenei por despacho de 5 de novembro do mesmo ano que a Câmara respectiva juntasse
+por cópia, o acordam que expressa em sua informação, em execução do qual respondeu =
+Ilustríssimo e Excelentíssimo Senhor conde general = Neste Senado se não fez acordo da
+deliberação que houve para aquela rua e assim foi concordio por ser útil a ficar aquela rua
+como servidão necessária, porque por ela se vai a caminhar para outra que vem da rua das
+Ortas; é certo que as ruas, travessas e servidões podendo-as ver, se não devem impedir
+principalmente naquela extençosa rua que é a das mais dilatadas desta terra, esta é a
+verdade com que podemos informar a Vossa Excelência, que mandará o que for servido.
+Recife em Câmara, 9 de novembro de 1765 = E eu, Silvestre Antônio da Lage, escrivão da
+Câmara, o escrevi = Francisco Machado Caio - Inácio Ribeiro Leitão - Domingos Marques
+= Em do dito mês e ano dei mais o despacho seguinte = Sujeitando-se o suplicante a tomar
+todo terreno que está devoluto, será admitido para comprar nos palmos a proporção do
+valor que hoje no tal sítio tem, o qual em novo requerimento diz o que se segue. =
+Ilustríssimo e Excelentíssimo Senhor = O suplicante que na forma do último despacho de
+Vossa Excelência incerto se sujeita a tomar o terreno que se acha devoluto para o fim que
+pretende, mandando Vossa Excelência proceder nos termos da sua sujeição e obrigação
+para poder erigir a sua obra; portanto pode a Vossa Excelência = seja servido mandar
+proceder nos termos do estilo para poder o suplicante principiar a ereção do seu quartel = E
+receberá mercê = No dito mandei por despacho de 3 do mês de novembro, que assinando o
+suplicante o tal requerimento, requeresse em Junta da Fazenda, e como assim o executou,
+reconhecendo o seu sinal pelo tabelião José Pereira Lima e requerendo na dita Junta
+ultimamente em 16 do referido mês de novembro, dei o despacho do teor seguinte =
+Juntando o suplicante certidão do termo de fiança que deve assinar seu fiador, aprovado
+pelo almoxarife na casa das contas e também outra da medição e confrontação da terra
+pedida, passe carta na forma do estilo, declarando o palmo a oitenta réis e o provedor da
+Fazenda Real mande abrir acento no livro 5.º da receita e despesa da Provedoria, para por
+ele se haverem nos anos que correm os foros que forem vencendo e intervindo o dito
+
+provedor, com o seu cumpra-se. Se passou na casa das contas a certidão seguinte. = Fica
+tomada a fiança no livro 14 delas a folha 147 verso do foro de vinte palmos de terra de
+frente que se dão a Alberto Francisco do Amaral na rua das Cinco Pontas, com o foro de
+oitenta réis por palmo por ano, a qual fiança assinou Félix Vieira Franco com aprovação do
+almoxarife da Fazenda Real = O capitão-mor Antônio Pereira Cristóvão = Recife, 22 de
+novembro de 1765 = Luiz Manoel de Oliveira e Brito = E porque em observância do dito
+despacho apresentou também outra certidão da medição e confrontação da mencionada
+terra, a qual é como se repete = Certifico eu abaixo assinado, que confrontam os vinte
+palmos de terra nas Cinco Pontas, pela parte do sul com casas do alferes Antônio Duarte
+Silva, da parte do norte com casas de José Duarte Palheiros, pela parte do nascente com
+casas de Manoel da Costa e pela parte do poente confronta com terras do ajudante João
+Garcia Veloso do Amaral, das ordens do Ilustríssimo e Excelentíssimo Senhor conde
+general, que tem de fundo cento e quarenta e cinco palmos pela cordeação do defunto
+Bento Gomes de Oliveira, e por verdade passei a presente certidão = Recife, 25 de
+novembro de 1765 = Félix Vieira Franco - Reconheço o sinal e letra da certidão supra, ser a
+letra e sinal de Félix Vieira Franco, por ter visto letras e sinais semelhantes = Recife, 26 de
+novembro de 1765 = O tabelião José Pereira Lima — Hei por bem na conformidade do
+Capítulo 15 do Regimento deste Governo, dar ao dito Alberto Francisco do Amaral os
+vinte palmos de terra de frente que se acham devolutos na rua das Cinco Pontas, no lugar
+chamado a Estacada, com o fundo e confrontação expressadas na certidão acima, pagando
+o foro de oitenta réis por cada palmo em cada um ano, que o provedor da Real Fazenda
+mandará abrir acento no livro 5.º da receita e despesa da Provedoria para por ele se
+haverem nos anos que se correm os foros que se forem vencendo, e não passará a religiões,
+salvo for com os mesmos encargos que os tem os seculares, cuja porção de terra gozará e
+possuirá ele e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje
+para todo sempre, não prejudicando a terceiro, e será obrigado a requerer a confirmação de
+Sua Majestade na forma que o dito senhor ordena em suas reais ordens. Pelo que ordeno
+aos ministros da Fazenda e Justiça e mais pessoas a que tocar, cumpram, guardem e façam
+cumprir e guardar esta carta de doação de sesmaria como nela se contém, e façam dar ao
+suplicante a posse real, efetiva e atual, na forma costumada e debaixo das cláusulas
+referidas e das mais da Ordenação título de sesmarias. — Em firmeza do que lhe mandei
+
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará na Secretaria deste Governo e Provedoria da Fazenda Real = Dada no Recife de
+Pernambuco, aos 27 dias do mês de novembro = Francisco Gonçalves Reis Lisboa, oficial
+da Secretaria a fez, ano do nascimento de Nosso Senhor Jesus Cristo de 1765. O secretário
+do Governo, José Gonçalves da Fonseca, a fez escrever. Conde copeiro-mor.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+182 - 190.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

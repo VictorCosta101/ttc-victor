@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0084
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Lourenço de Brito Correa ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "07-11-1660",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura no rio São Francisco, próximo ao rio Jaciobá. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio Jaciobá",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0084"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0058 
+ 
+Carta de concessão de Lourenço de Brito Correa de 07/11/1660 
+Registro de uma carta de arrematação digo carta de confirmação de duas léguas de terra 
+que no rio de São Francisco tem Lourenço de Brito Correa e de outras duas que de novo 
+se lhe deram de sesmaria.  
+ 
+Diz Lourenço de Britto Correa um dos três governadores que foram deste Estado que ele 
+comprou a Cristóvão da Rocha de Antas em o ano de 1634 léguas de terra no rio de São 
+Francisco no Livro que digo de São Francisco no sitio que se chama Jasioba começando 
+em uns matos a beira do dito rio que se dizem as entradas de Jasioba rumo direito por o 
+rio acima, e outro tanto de largo até o monte de Obuturacoconha por preço de cento e 
+oitenta e dois mil réis que logo lhe pagou como da escritura se mostra que foi aos 11 dias 
+de dezembro de 1634 a qual terra está no sertão quarenta léguas de mar, pouco mais ou 
+menos a qual povoou logo o suplicante por seu título de compra por ordem que para isso 
+teve o vendedor do senhor daquela capitania donatário que com a entrada dos holandeses 
+em Pernambuco e rio de São Francisco se perderam os papéis e ele suplicante também 
+perdeu seiscentas cabeças de dado vacum que tinha no dito sitio Jsiiobá como tudo é 
+notório, e como algumas pessoas vão pedindo terras de novo nos limites do rio de São 
+Francisco por devolutas estando povoadas atualmente de vinte e sete e trinta anos a esta 
+parte e por, escusar dúvidas, e demandas. Pede a vossa senhoria lhe faça mercê em nome 
+de Sua Majestade conceder, e confirmar de sesmaria a sobredita sua terra de que está de 
+posse pacifica, e dar-lhe de novo mais outras duas léguas de terra onde acabar a terra dele 
+suplicante rumo direito pelo rio acima, e outras duas léguas pelo sertão para que lhe fique 
+em quadra toda mística. Despacho do governador de Pernambuco. O provedor da Fazenda 
+de Sua Majestade me informe Olinda 4 de novembro de 1690. Vidal. Informação. Não 
+prejudicando a terceiro se me não oferece dúvida alguma a que se deem as terras de 
+sesmaria o suplicante vossa senhoria ordenará o que for servido. Olinda 6 de novembro 
+de 1660. Bento da Silveira. Outro despacho do mesmo governador. Passe-se ao suplicante 
+carta de confirmação e data das terras que pede na conformidade que aponta em sua 
+petição vista, a Informação Olinda 6 de novembro de 1690 digo e 1660. Vidal. Segue a 
+carta. André Vidal de Negreiros do Conselho de Sua Majestade Fidalgo de Sua casa 
+Comendador da Comenda de São Pedro do Sul Alcaide-mor das vilas de Marialva, e 
+Moreira governador destas capitanias de Pernambuco etc. Faço saber aos que esta carta 
+virem, que tendo respeito ao que na petição atrás escrita me representou Lourenço de 
+Brito Correa um dos três governadores que foram deste Estado pedindo-me lhe faça mercê 
+confirmar as duas léguas de terra que por título de compra houve de Cristóvão da Rocha 
+de Antas sitas no rio de São Francisco onde se chama Jasioba começando em uns montes 
+a beira do dito rio que se dizem a entradas de Jasioba rumo direito pelo rio acima, e outro 
+tanto de largo até o monte de Obuturacaconha das quais duas léguas de terra está de posse 
+pacifica desde o ano de 1634 pedindo-me outrossim lhe faça mercê dar de novo mais 
+outras duas léguas pelo sertão digo duas léguas aonde acabam as primeiras rumo direito 
+pelo rio, acima, e outras duas léguas pelo sertão para que lhe fique em quadra toda mística 
+E visto o que alega e informação que sobre estes particulares se houve do provedor da 
+Fazenda de Sua Majestade nesta Capitania: Hei por bem de confirmar e dar de sesmaria 
+ao dito Lourenço de Brito Correa as terras de que se faz menção na mesma forma, e parte 
+que pede não prejudicando a terceiro para ele seus herdeiros ascendentes e descendentes 
+em virtude da ordem que Sua Majestade foi servido mandar passar sobre semelhantes 
+
+datas e mando ao provedor da Fazenda de Sua Majestade e mais pessoas desta capitania 
+a que tocar lhe deem, e façam dar posse das terras que de novo lhe dou, e serão 
+demarcadas por seus rumos digo por seus rumos e confrontações na forma que se costuma 
+fazer, e lhes deixarão possuir e a herdeiros ascendentes e descendentes, e delas usar como 
+coisa sua própria com todos seus logradouros entradas saídas serventias matos lenhas, 
+águas, pastos, e tudo mais pertencente a elas sem das ditas terras pagar tributo ou pensão 
+alguma mais que o dízimo a Deus como e uso e costume neste Estado e esta carta que por 
+firmeza de tudo lhe mandei passar se cumprira tão inteiramente como nela se contém e se 
+registara nos Livros a que tocar dada em esta vila de Olinda aos 7 dias do mês de 
+novembro sob meu sinal e selo. O capitão Marcos Velho Gondim o fez ano do nascimento 
+de Nosso Senhor Jesus Cristo de 1660. André Vidal de Negreiros. Cumpra-se e registe-
+se Olinda 8 de fevereiro digo Olinda oito de novembro de 1660. Silveira. Registada no 
+Livro quatro dos Registos da Fazenda de Sua Majestade desta Capitania de Pernambuco 
+a folhas oitenta e três verso Olinda oito de Novembro de seiscentos e sessenta. Vas 
+Conceitos Cumpra-se e registe-se Bahia e março 23 de 1661. Barreto. Registada no 
+primeiro Livro dos Registos a que toca desta Secretaria do Estado do Brasil a folhas 
+sessenta e seis Bahia, e março 25 de 1661. Ravasco. Fiz aqui registar em trinta de março 
+de 1661. Gonçalo Pinto de Freitas. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 20, pp. 313-
+317. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

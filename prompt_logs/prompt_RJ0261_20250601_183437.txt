@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0261
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Paulo da Mata Duque Estrada",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "14-05-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"tinha notícia que haviam alguns sobejos entre as datas dos moradores de Saquarema e outros modernos de alguns moradores de Tapacurá\"\r\n",
+  "Localidade": "Sobejos de terras nas vizinhanças das serras do Sambê e do Catimbau",
+  "Marcos Geográficos": "Serra do Sambê, serra do Catimbau",
+  "Confrontantes": "Terras de Manuel Quintanilha e dos padres carmelitas",
+  "Justificativas": "Não tinha terras; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas onde necessárias for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se ainda ao mesmo que, na data concedida, fossem reservados os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0261"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0261
+Carta de concessão de Paulo da Mata Duque Estrada de 14 de maio de 1751
+Gomes Freire de Andrade, do conselho de Sua Majestade e sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro, com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Paulo da Mata Duque Estrada, que ele por não ter terras que cultivar os
+[pretendia] suas em um sertão por vizinhanças das serras do Sambê e Catimbau onde tinha
+notícia que haviam alguns sobejos entre as datas dos moradores de Saquarema e outros
+modernos de alguns moradores de Tapacurá por seguirem diversos rumos, pelo que ficavam
+sendo de pouca largura ainda que tenham maior comprimento, queria se lhe concedesse os
+ditos sobejos por sesmaria entre os referidos, e faziam cabeceira por um lado em terras de
+Manuel Quintanilha e pelo outro com os dos padres do Carmo, me pedia lhe mandasse passar
+a referida sesmaria na forma do estilo. Sendo visto o seu requerimento, em que foi ouvido a
+Câmara da vila de Santo Antônio de Sá, a quem se não ofereceu dúvida, nem ao provedor da
+Fazenda Real e ao procurador da Coroa dela, a quem se deu vista. Hei por bem dar de
+sesmaria, em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho de
+1711, ao dito Paulo da Mata Duque Estrada os referidos sobejos de terras; não excedendo de 1
+légua de testada e outra de fundo na parte acima declarada e com as confrontações
+expessadas; sem prejuízo de terceiro ou do direito que alguma pessoa tenha a elas; com
+declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade dentro
+de 2 anos, e não o fazendo de se lhe denegará mais tempo; antes de tomar posse delas, as fará
+medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas com quem
+confrontar; será obrigado a fazer os caminhos de sua testada com pontes e estivas onde
+necessárias for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar,
+ficará reservada de uma das margens dele a terra que baste para a serventia pública; nesta data
+não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o
+encargo de pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os
+pagando se poderá dar a quem a denunciar; como também sendo o dito Senhor servido
+mandar fundar no distrito de alguma vila o poderá fazer ficando livre, sem encargo algum ou
+pensão para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de
+metal que nela se descobrir, reservando também os paus Reais; e faltando a qualquer das ditas
+cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõe a Lei e Foral das
+Sesmarias, ficará privado desta. Pelo que mando ao ministro ou oficial de justiça, a que o
+
+conhecimento desta pertencer, dê posse ao dito Paulo da Mata Duque Estrada dos referidos
+sobejos de terras na forma acima declarada. E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com sinete de minhas armas, que se cumprirá com nela se
+contém, se registrá nesta Secretaria do governo e nas mais partes que tocar. Dada nesta cidade
+de São Sebastião do Rio de Janeiro. João de Sousa e Melo a fez em os 14 de maio de 1751. O
+secretário do governo, Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria a Paulo da Mata Duque Estrada uns
+sobejos de terras, não excedendo 1 légua de testada e outra de sertão nas serras chamadas do
+Sambê e Catimbau, distrito vila de Santo Antônio de Sá.
+Para Vossa Excelência ver.
+Registrada no Livro 11 que serve de registro de Provisões do governo a folha 13. Rio, 15 de
+maio de 1751.
+Antônio da Rocha Machado.
+Cumpra-se e registre-se onde convenha. Rio, de de junho, 25 de 1751.
+//Mento//
+Registrada no Livro 2° do Tombo das Sesmarias que serve neste Cartório das mesmas a folha
+35. Rio de Janeiro, 25 de junho de 1751.
+//Luís da Silva Ramos//
+Registre-se nos Livros da da Fazenda Real. Rio, 9 de julho de 1752.
+//Melo//
+Registrada no Livro 34 de registro desta Procuradoria a folha 73. Rio, 9 de julho de 1751.
+//Luís Manuel de Faria//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e dou de sesmaria a
+Paulo da Matta Duque Estrada uma légua de terras, em quadra, nas Serras do Sambé e
+Catimbáo, no distrito da Vila de Santo Antônio de Sá. Rio, 14 de maio de 1751.
+Nome original do sesmeiro: Paulo da Matta Duque Estrada.
+Referência:
+
+AHU_ACL_CU_017-01, Cx. 72, D. 16774
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

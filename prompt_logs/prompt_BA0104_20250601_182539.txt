@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0104
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Filgueira, Domingos Vieira de Lima, Francisco Ramos, Manuel de Oliveira Porto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-09-1681",
+  "Observações da sesmaria": "A sesmaria possuía 40 léguas de comprimento e oito de largura. Estava localizada entre os rios Paraguaçu e de Contas.",
+  "Localidade": "Entre os rios Paraguaçu e de Contas",
+  "Marcos Geográficos": "Rio Paraguaçu; Rio de Contas",
+  "Observações da petição": "Os suplicantes não especificaram as medidas das terras solicitadas, apenas afirmaram que gostariam de receber as terras entre os dois referidos rios.",
+  "Justificativas": "As terras eram devolutas; Tinha gado vacum; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações das Justificativas": "Alegaram que eram terras \"infestadas de gentios bárbaros\"  e que iriam estabelecer as pazes com eles; alegaram que iriam abrir estradas que seriam muito úteis.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que as terras poderiam ser concedidas, desde que não ultrapassassem 20 léguas a cada um. O provedor da Fazenda afirmou que deveriam ser concedidas 10 léguas de comprimento e duas de largura a cada um, quantia que o governador-geral concedeu.",
+  "Observações das exigências": "Determinou-se que deverão mandar certidão de como as têm povoado.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Freitas",
+  "referencia": "BA0104"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria do sargento-mor Francisco Ramos, o cônego Domingos Vieira 
+de Lima, Manuel de Oliveira Porto, e o vigário de Jacobina Antônio Filgueiras, 10 léguas 
+de terra a cada um. 
+ 
+Roque da Costa Barreto, do Conselho de Sua Alteza etc. Faço saber aos que este Alvará 
+de doação e sesmaria virem, que havendo respeito ao que por parte do sargento-mor 
+Francisco Ramos, o cônego Domingos Vieira de Lima, Manuel de Oliveira Porto, e o 
+vigário de Jacobina Antônio Filgueira, se me enviou a representar por sua petição, cujo 
+teor é o seguinte: Senhor, dizem o sargento-mor Francisco Ramos, o cônego Domingos 
+Vieira de Lima, Manoel de Oliveira Porto, e o vigário de Jacobina Antônio Filgueira, que 
+eles têm no sertão alguns currais de gado vacum, em terras alheias, de que pagam renda 
+por não as ter de sesmaria, por cuja causa padecem grande diminuição em suas 
+multiplicações, pelo aperto dos gados, e têm os suplicantes notícia que no interior do 
+sertão desta cidade, perto de 150 léguas, entre os rios das Contas e Paraguaçu, há algumas 
+terras capazes de se povoar, até agora devolutas, incultas e nunca habitadas, por ser, além 
+da distância, infestadas de várias nações de gentios bárbaros, sem estradas para a dita 
+paragem, a qual terra dando-se aos suplicantes de sesmaria, se disporão à custa de suas 
+fazendas a tratar dela; reduzindo com resgate à paz e amizade os gentios, para que lhes 
+deixem povoar as que para isso tiverem serventia, e abrindo da mesma sorte as estradas 
+necessárias para poderem entrar e sair os gados, no que hão de gastar considerável 
+fazenda, muito antes de lograrem nas ditas terras utilidade alguma, e se ficará seguindo a 
+Sua Alteza crescimento maior em seus reais dízimos. Portanto, pedem a Vossa Senhoria 
+lhe faça mercê dar de sesmaria aos suplicantes em partes iguais a terra que houver, da 
+barra do rio [seguirá] pelo Paraguaçu acima da parte do Sul até a sua nascença, e de largo 
+até o rio das Contas por uma outra banda. E receberão mercê = E vista a resposta do 
+procurador da Fazenda Real, que é a seguinte: Não se me oferece dúvida que se dê 
+sesmaria aos suplicantes no sítio que pedem, o que parecer conveniente, ou o sítio todo 
+que na petição declaram, contanto que não passem de 20 léguas a cada um se as houver 
+no dito sítio, visto não estar ainda descoberto nem povoado por outrem, e será com as 
+cláusulas e condições costumadas = Bahia, 5 de setembro de 1681. Andrada = E a 
+informação do provedor-mor da dita Real Fazenda, que também é a que se segue: Senhor, 
+os suplicantes pedem essa sesmaria sem limitação de léguas, o que não está em estilo 
+
+conceder-se, mas como seu intento é penetrarem o sertão do rio de São Francisco e 
+descobrir novos pastos e terras para os seus gados, me parece se lhes pode conceder mais 
+terras da que se costuma dar nas terras que estão já descobertas, e assim sou de parecer, 
+que se lhe dê a cada um 10 léguas de comprido pela beira do rio até sua nascença, e duas 
+de largo da beira do rio para dentro: Vossa Senhoria mandará o que for servido. Bahia
+ 
+, 10 de setembro de 1681 = Antônio Lopes de Ulhôa = Hei por bem e lhe faço 
+mercê dar de sesmaria a cada um dos suplicantes, em nome de Sua Alteza, 10 léguas de 
+terra, começando da barra do rio seguindo pela beira do Paraguaçu acima, até sua 
+nascença, da banda do Sul, e no comprimento das 40 léguas, que a todos tocam duas 
+léguas de largo, as quais se medirão da mesma beira do dito rio Paraguaçu para o sertão 
+da mesma banda do Sul, como parece ao provedor-mor da Fazenda Real, não 
+prejudicando a terceiro, com todas suas águas, campos, matos, testadas, logradouros e 
+mais úteis que nela se acharem; tudo forro, livre e isento de pensão ou tributo algum, 
+salvo dízimo à Ordem de Cristo, que pagarão dos frutos que nelas houver. E por elas serão 
+obrigados a dar estradas públicas a todos e a particulares, para fontes, pontes e pedreiras, 
+povoando-as no termo da lei e Regimento, e demarcando-as no tempo da posse, citados 
+os heréus, e mandarão certidão de como as têm povoado dentro no dito tempo para se 
+registrar nos livros da Fazenda Real. Pelo que ordeno a todos os ministros de justiça a que 
+o conhecimento deste com direito deva ou possa pertencer, lhe façam dar a posse real, 
+efetiva e atual na forma costumada, debaixo das cláusulas acima referidas e as mais da 
+Ordenação, título de sesmarias. Para firmeza de que lhes mandei passar a presente sob 
+meu sinal e selo de minhas armas, a qual se registrará nos livros da Secretaria deste Estado 
+e nos mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nele se 
+contém, sem dúvida, embargo nem contradição alguma. Antônio Garcia o fez nesta cidade 
+do Salvador, Bahia de Todos os Santos, aos 10 dias do mês de setembro de 1681. 
+Bernardo Vieira Ravasco o fiz escrever. Roque da Costa Barreto. Selo. Registrada no 
+livro 2º dos registros da Secretaria do Estado do Brasil, a que toca a folha 95. Bahia, 10 
+de setembro de 1681 = Ravasco = Despacho do provedor-mor. Cumpra-se e registre-se. 
+Bahia, 12 de setembro de 1681. Antônio Lopes de Ulhoa = Thomás Moreira a registrou 
+em 13 do dito mês e ano.  
+-fim da transcrição- 
+ 
+ 
+ 
+
+Observações do documento:  
+ 
+O nome do sesmeiro, tal qual consta no documento original, é Manoel de Oliveira 
+Porto. 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 195v – 196v.  
+Numeração original no livro: 144. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

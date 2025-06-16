@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0244
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Marcos de Azevedo Coutinho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-09-1754",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem chamada Araruama, distrito de Cabo Frio",
+  "Marcos Geográficos": "Sertões e campos de Bacaxá, morro do Quilombo, Morro Grande",
+  "Ribeira": "Bacaxá",
+  "Confrontantes": "Terras de Francisco de Almeida",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; Pretendia fazer curral; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado \"a fazer no caminho de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para serventia pública\". Determinou-se também que reservasse os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0244"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0244
+Carta de concessão de Marcos de Azevedo Coutinho de 5 de setembro de 1754
+José Antônio Freire de Andrade, governador interino das capitanias das Minas Gerais e Rio de
+Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Marcos de Azevedo Coutinho, morador em Itaboraí e senhor de engenho, que na
+paragem chamada Araruama, distrito de Cabo Frio, para os sertões e campos de Bacaxá se
+achavam muitas terras devolutas, sem que nunca fossem possuídas e nem cultivadas, nas
+quais se podiam fazer currais de gados e de toda sorte de mantimentos que teriam muito
+aumento aos reais dízimos, e porque queria que se lhe desse por sesmaria 1 légua de testada
+com 2 de sertão, fazendo testada com a sesmaria que se deu a Francisco de Almeida, correndo
+o rumo de noroeste, principiando a demarcação do Morro Grande para a parte do sertão pelo
+dito rumo e para a parte do sudoeste com o morro chamado do Quilombo, me pedia lhe
+mandasse passar sesmaria na forma do estilo. Sendo visto o seu requerimento em que foi
+ouvido o Senado da Câmara de Cabo Frio, a quem senão oferece dúvida, nem ao provedor da
+Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria,
+em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho de 1711, ao
+dito Marcos de Azevedo Coutinho 1 légua de terras de testada com 2 de sertão com as
+confrontações expressadas e na parte acima declarada; sem prejuízo de terceiros ou do direito
+que alguma parte tenha a elas; com declaração que as cultivará e mandará confirmar esta
+minha carta por Sua Majestade dentro de 2 anos, e não o fazendo se denegará mais tempo;
+antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para este efeito
+notificado as pessoas com quem confrontar; será obrigado a fazer no caminho de sua testada
+com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de
+barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para
+serventia pública; nesta data não poderá suceder em tempo algum pessoa eclesiástica ou
+religião, e sucedendo será com encargo de pagar dízimos e outro qualquer que Sua Majestade
+lhe impuser de novo; sendo o dito Senhor servido mandar fundar no distrito dela alguma vila
+o poderá fazer sem encargo algum ou pensão para o sesmeiro; não compreenderá está data
+vieiras ou minas de qualquer gênero de metal que nela se descobrir, reservando também os
+paus reais; e faltando qualquer das ditas cláusulas, por serem conforme as ordens de sua
+Majestade e as que dispõem a Lei e Foral das Sesmarias, ficará privada desta. Pelo que manda
+o ministro ou oficial de justiça a que pertencer, dê posse ao dito Marcos de Azevedo Coutinho
+das referidas terras na forma acima declarada. E por firmeza de tudo lhe mandei passar a
+
+presente por mim assinada e selada com o sinete de minhas armas que se cumprirá como nela
+se contém e se registrará nesta Secretaria de governo e nas partes onde tocar. Dada nesta
+cidade de São Sebastião do Rio de Janeiro. João de Souza e Melo a fez em 5 de setembro de
+1754. O secretário de governo, Antônio da Rocha Machado, a fez escrever.
+//José Antônio Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Marcos de Azevedo Coutinho 1 légua de terras de testada com 2 de sertão na parte e forma
+acima declarada.
+Para Vossa Excelência ver.
+Registrada no Livro 12 que serve de registro das sesmarias deste governo a folha 84. Rio, a 5
+de setembro de 1754. //Antônio da Rocha Machado//
+Registrada à folha 22 do Livro de Sesmaria que serve neste Senado da Câmara desta cidade.
+Rio de Janeiro, 27 de setembro de 1754. //André Martins Brito//
+Registre-se nos Livros da Fazenda Real. Rio, setembro de 1754. //Melo//
+Registrada no Livro 35 de registro desta Provedoria a folha 31. Rio, a 2 de outubro de 1754.
+//Luiz Mello de Faria//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Marcos de Azevedo Coutinho uma legoa de terra de testada, com 2 de sertão, na paragem de
+Iraruama, districto de Cabo Frio. Rio de Janeiro, 5 de setembro de 1754.
+“Iraruama” foi atualizado para “Araruama”.
+Referência
+AHU_ACL_CU_017-1, Cx. 82\Doc. 18922.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

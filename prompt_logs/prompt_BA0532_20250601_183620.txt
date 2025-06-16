@@ -1,0 +1,153 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0532
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": " Francisco de Oliveira Rego",
+  "Solicitaram repartição da terra em mesma medida": "Não",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-03-1699",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada em Porto Seguro, onde chamam de rio Santa Cruz, fazendo fronteira com as terras de Baltazar Gonçalves de Vasconcelos.",
+  "Localidade": "Porto Seguro",
+  "Marcos Geográficos": "Rio Santa Cruz",
+  "Confrontantes": "Baltazar Gonçalves de Vasconcelos.",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Deve-se reservar madeira para construção de embarcações; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Essa sesmaria era originalmente um pedido de confirmação por parte de três sesmeiros que tinham recebido a sesmaria pelo capitão-mor de Porto Seguro, no entanto, o provedor da Fazenda Real e o procurador da Coroa afirmaram que não poderiam confirmar a sesmaria, pois ela possuía mais léguas do que a lei permitia. O governador-geral decidiu então não confirmar a sesmaria e conceder as sesmarias conforme o tamanho exigido por lei, três léguas de comprimento e uma de largura, separadamente para cada um dos suplicantes.\r\n",
+  "Observações das exigências": "Determinou-se que não alheasse as terras antes de aproveitá-las e que não o fizesse sem autorização régia; Citou o capítulo 26 do regimento do Governo-Geral.\r\n",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Alvará",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Estêvão Ferraz do Campos",
+  "referencia": "BA0532"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 0532 
+Carta de concessão a Francisco de Oliveira Rego de 09/03/1699 
+Dom João de Lencastre, do Conselho de Sua Majestade, que Deus guarde. Faço saber aos 
+que este alvará de doação e sesmaria virem que tendo respeito a Baltazar Gonçalves de 
+Figueiredo, Francisco de Oliveira Rego e o capitão Francisco de Amorim, me 
+representaram por sua petição, cujo teor é o seguinte: senhor, dizem Baltazar Gonçalves 
+de Figueiredo, Francisco de Oliveira Rego e o capitão Francisco de Amorim, moradores 
+no distrito da vila de Porto Seguro, que eles alcançaram dará da carta de sesmaria junta 
+da terra dita, onde chamam de Santa Cruz, da maneira nele confrontada para a lavrarem 
+ou cultivarem dentro do termo da lei pelo capitão-mor da dita vila, Gaspar Borges 
+Tavares, na forma do regimento, da qual terra tomaram os suplicantes posse como consta 
+do auto junto, e porque para a validade da dita carta de sesmaria deve ser por Vossa 
+Senhoria confirmada como Senhor, o governador-geral de todo este Estado. Portanto, 
+pedem a Vossa Senhoria que em consideração do referido lhe faça mercê confirmar a dita 
+data de sesmaria junta na forma do estilo. E receberão mercê. E visto o parecer do doutor 
+Estévam Ferraz do Campos, procurador da Fazenda Real que foi deste Estado, a que se 
+deu vista que é o seguinte: senhor, os suplicantes pedem a confirmação da sesmaria que 
+lhes concedeu o capitão da vila de Santa Cruz, cuja a data parece se não confirmar, porque 
+foi concedida contra as ordens de Sua Majestade, que Deus o guarde, pelas quais não se 
+podem dar mais de 4 léguas de comprimento e uma de largura, e os suplicantes pediram 
+duas de largura, e todas as que pode se pôr de comprimento, o que é contra a ordem do 
+dito Senhor. Mas como estas são terras que se acham em distância, sem estarem 
+aproveitadas e serem 3 as os que pedem, me parece que se lhes pode deferir a 
+confirmação. Vossa Senhoria mandará o que for servido. Bahia, 15 de abril de 1699. 
+Estevam Ferraz dos Campos. E a informação do provedor-mor da mesma Fazenda Real 
+que também é a que se segue: senhor, parece não deve ter validade as sesmarias que os 
+suplicantes oferecem no que exceder a ordem de Sua Majestade, para que se não dar mais 
+de quatro léguas de comprimento e uma de largura a cada pessoa, a que mais desta forma 
+se devem conceder a cada um dos suplicantes separadamente para evitar as mais fraudes 
+intentadas e praticadas contra a mente da lei das sesmarias, passando o domínio a um só 
+pelos títulos que mais lhe acomodam, antes de feita despesa alguma no povoamento das 
+terras que possuem juntos. Vossa Senhoria mandará o que mais convier. Bahia, 16 de 
+abril de 1699. Francisco Lamberto. E ser contra a nova ordem de Sua Majestade, que 
+Deus guarde, em que manda no povoamento se não de mais que 1 légua de terra de largura 
+e três de comprimento a cada pessoa, e os suplicantes haverem pedido sem limitação a 
+terra de comprimento, e atendendo-as como alegam, e ser conveniente os serviços de Sua 
+Majestade pelo o que aponta o dito provedor-mor, que a cada um dos suplicantes se passe 
+seu alvará particular, hei por bem e faço mercê, em nome do dito senhor, conceder e dar 
+ao suplicante Francisco de Oliveira Rego, para ele e seus descendentes no rio Santa Cruz, 
+nas terras que há devolutas na divisão dos ditos dois rios que se estão um para o norte e 
+outro para o sul, 1 légua de terra de largura e três de comprimento no rio que forma para 
+o norte, ficando o dito rio em meio, como confronta na sesmaria que lhes concedeu o 
+capitão-mor de Porto Seguro, não prejudicando a terceiro, dentro do termo da lei, e as não 
+poderá alhear nem passará a outro algum domínio sem as ter aproveitado, com condição 
+de se darem logo neste caso a outra pessoa, nem o poderá fazer sem expressa ordem de 
+Sua Majestade e com as mais cláusulas contidas na Ordenação do Reino, título de 
+sesmarias e forma do capítulo 26 do regimento novo deste Governo-Geral, as quais terras 
+terá e possuirá com todas as suas águas, matas, testadas, logradouros e mais úteis que 
+nelas se acharem, tudo foro livre e isento de pensão, salvo o dízimo à Ordem de Cristo, 
+
+que pagará pelos frutos que delas houver, e por elas serão obrigados a dar caminhos 
+públicos e particulares para fontes, pontes, portos e pedreiras, com declaração que se 
+havendo nas ditas terras alguma aldeia de índios, não fique o capitão Francisco de Oliveira 
+Rego senhor dela e nem das terras que ocuparem os índios, na forma das novas ordens de 
+Sua Majestade. E principiará demarcando-se de onde acabar a data de Baltazar Gonçalves 
+de Vasconcelos. Pelo que mando a todos os ministros e oficiais de justiça a que o 
+conhecimento deva ou possa pertencer, lhe façam dar e deem posse real, efetiva e atual, 
+demarcando-se no tempo dela, citados os heréus, que enviarão certidão à Casa dos 
+Contos, de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o 
+sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado, e nas 
+mais a que tocar da Fazenda Real dele e nos do escrivão de sesmarias, se guardará e 
+cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, embargo nem 
+contradição alguma. Manuel Rogério a fiz nesta cidade de Salvador, Bahia de Todos os 
+Santos, aos 9 dias do mês de março, ano de 1699. Gonçalo Ravasco Cavalcante e 
+Albuquerque a fiz escrever. Dom  João de Lencastre. Selo. Alvará de doação e sesmaria 
+pelo qual serviu de Vossa Senhoria Ilustríssima conceder e dar em nome de Sua 
+Majestade, que Deus o guarde, ao capitão Francisco de Oliveira Rego, para ele e seus 
+descendentes no rio Santa Cruz, distrito da vila de Porto Seguro, nas terras que há 
+devolutas na divisão dos dois rios que correm um para o norte e outro para o sul 1 légua 
+de terra de largura e três de comprimento no rio que torna para o norte, ficando o dito rio 
+em meio, como se confronta na sesmaria que o capitão-mor de Porto Seguro concedeu, e 
+se começará a demarcar de onde acabar a data de Baltazar Gonçalves de Figueiredo, não 
+prejudicando a terceiro e com as cláusulas que o provedor-mor da Fazenda aponta na sua 
+informação, nem às aldeias e terras dos índios que nelas se acharem nas condições 
+apontadas, e se demarcar e confirmar esta por Sua Majestade, dentro de um ano pelos 
+respeitos acima declarados. Para Vossa Ilustríssima ver. Registrado no livro 5° dos 
+registros da Secretaria do Estado do Brasil, que tocava a folha 133. Bahia, 17 de março 
+de 1699. Ravasco. Registre-se, Bahia, 24 de março de 1699. Lamberto. Registrando-se 
+em 26 do dito mês e ano. 
+- Fim de Transcrição- 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Francisco de Oliveira 
+Rego”; “Balthazar Gonçalves de Figueredo” e “Francisco de Amorim”. 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 2, fls. 136 – 137v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

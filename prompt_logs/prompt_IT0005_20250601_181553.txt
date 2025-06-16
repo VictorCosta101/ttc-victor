@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0005
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0018",
+  "Nome": "Bento Pereira de Morais, Davi de Albuquerque Saraiva, José Fernandes, Pedro Correa Ferrete",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "09-12-1694",
+  "Data da concessão": "06-06-1695",
+  "Observações da sesmaria": "A sesmaria requerida pelo suplicante localizava-se na lagoa do Arapejá e confrontava ao norte as terras de Custódio de Oliveira e João Ferreira de Melo, ao sul as terras de João Fernandes Vieira e Bernardo Vieira de Melo, a leste a nascente do rio Capibaribe e a oeste o rio das Cacimbas. Os suplicantes não especificaram a quantidade de léguas requeridas.",
+  "Localidade": "Lagoa do Arepejá",
+  "Marcos Geográficos": "Lagoa do Arepejá, rio das Cacimbas, rio Capibaribe",
+  "Confrontantes": "Terras de João Fernandes de Oliveira, Bernardo Vieira de Melo, Custódio de Oliveira e João Ferreira de Melo",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Pretendia criar gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, e o provedor da Fazenda Real, João do Rego Barros, recomendaram que fossem concedidas 12 léguas de área para os suplicantes, de acordo com as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "IT0005"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0005 
+Carta de doação e sesmaria de Pedro Correa Ferrete – 06/06/1695 
+ 
+CARTA DE SESMARIA DO ALFERES PEDRO CORREA FERRETE E OUTROS 
+ 
+Caetano de Melo de Castro, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc. Faço saber ao que esta carta de doação e sesmaria 
+virem que o Alferes Pedro Corrêa Ferrete, David de Albuquerque Sarajua, Bento Pereira de Moraes 
+e José Fernandes me representaram a petição cujo teor é o seguinte: “Senhor” Dizem o alferes 
+Pedro Corrêa Ferrete, David de Albuquerque Sarajua, Bento Pereira de Moraes e José Fernandes 
+que no sertão de Busõy, entre o Rio Ipojuca e o rio Paraíba, há umas sobras de terra que confrontam 
+pela parte do sul com as que foram do governador João Fernandes de Oliveira e padre da Recoleta e 
+do capitão-mor Bernardo Vieira de Melo, e pela parte do norte com as de Custódio de Oliveira, 
+João Ferreira de Melo e seus companheiros, ficando-lhe para a parte do leste ao nascente do rio 
+Capibaribe e pela parte do oeste o rio das  cacimbas em meio das quais sobras há uma lagoa grande 
+chamada Arapejá, assim na língua dos Tapuas e porque não foram ainda pedidas nem aos 
+suplicantes foram dadas ainda terras algumas, sendo aqui moradores e as quererem povoar com 
+seus gados e as mais criações necessárias, para bem da terra e aumento dos dízimos reais, portanto; 
+Pede a Vossa Senhoria seja servido fazer-lhe mercê dar de sesmaria toda a terra que se achar 
+devoluta entre os ditos rios e éreos confrontados, sem o menor prejuízo de alguém, mandando-lhes 
+passar sua carta de data na forma costumada. E receberá mercê. Informe o provedor da Fazenda 
+Real, ouvindo o procurador da dita Fazenda. Recife, 9 de dezembro de 1694 “Rubrica” Haja vista o 
+procurador da Coroa e Fazenda Real. Recife, 14 de dezembro de 1694 “Barros”. Não tenho dúvida 
+a que se concedam aos suplicantes de sesmaria doze léguas de terra ordinárias e contínuas, nas 
+partes que confrontam em sua petição, sendo a data feita na forma da Ordenação Livro 4.º título 43. 
+Goiana, 9 de janeiro de 1695 “Pereira” Senhor, os suplicantes pedem nesta petição as sobras das 
+terras confrontadas nela, que são daqui muitas léguas e que se lhe deem com as cláusulas referidas 
+na sua petição, o procurador da Fazenda informa que se se lhes deem doze léguas de terras na forma 
+que declara a sua resposta, e sendo tantas léguas distantes deste Recife, se pode considerar que 
+haverá sobras isto me parece, Vossa Senhoria mandará o que for servido. Massiape, 11 de fevereiro 
+de 1695 “João do Rego Barros”. E havendo, outrossim, respeito ao que Sua Majestade, que Deus 
+guarde, me encomenda no capítulo 15 do regimento deste Governo. Hei por bem de lhes fazer 
+mercê dar aos suplicantes acima nomeados, como em virtude da presente dou, de sesmaria as ditas 
+terras que pedem nos mesmos lugares, partes, testadas que confrontam na sua petição doze léguas 
+de terras assim e da maneira que parece ao provedor e procurador da Fazenda Real, pelo que consta 
+estarem devolutas e despovoadas, as quais terras possuirão e gozarão os ditos suplicantes, eles e 
+seus herdeiros, achando-se devolutas e não prejudicando a terceiro, com todas as suas águas, 
+
+campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de 
+tributo, foro ou pensão alguma salvo dizimo a Deus, e só serão obrigados a dar pelas ditas terras 
+caminhos livres ao Conselho para fontes, pontes ou pedreiras; pelo que ordeno a todos os ministros 
+da Fazenda e Justiça destas capitanias ou aos que o conhecimento desta carta pertencer, lhe façam  a 
+dar posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da 
+ordenação título das  sesmarias, para a firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete das minha armas, a qual se registrará nos livros da secretaria destas 
+capitanias e nos da Fazenda Real a que tocar. Dada nesta cidade de Olinda, em os 6 do mês de 
+junho, Antônio Nunes de Oliveira a fez, ano de 1695. O secretario Antônio Barbosa de Lima a fez 
+escrever “Caetano de Mello de Castro. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 41 - 43. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

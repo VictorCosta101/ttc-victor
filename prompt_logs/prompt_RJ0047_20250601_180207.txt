@@ -1,0 +1,143 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0047
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Diogo Fernandes Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "04-04-1579",
+  "Data da concessão": "18-04-1579",
+  "Observações da sesmaria": "Título original: Carta de sesmaria da terra de Diogo Fernandes Pinto que estão em Miriti.\r\n",
+  "Localidade": "Miriti",
+  "Ribeira": "Rio de Miriti",
+  "Justificativas": "Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Solicita que seja concedida as terras dadas pelo governador Antônio Salema, o qual impôs como condição que o solicitante, Diogo Fernandes Pinto, desistisse de outras terra que possuía. O que ele suplicante, naquela altura, não podia em direito fazer por ser casado, ter mulher e filhos. Nesse sentido, pedia a mercê de dar-lhe novamente pelas mesmas confrontações que lhe era dada, visto servir a Sua Alteza de amanuense.",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0047"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0047
+Carta de concessão de sesmaria da terra de Diogo Fernandes Pinto de 4 de abril de 1579
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1579 anos em os 4 dias do mês de abril da dita era em esta
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, em as casas da morada de
+mim escrivão adiante nomeado, apareceu Diogo Fernandes Pinto, morador nesta dita cidade e
+me apresentou uma petição com um despacho em ela do Senhor Salvador Correia de Sá,
+capitão e governador desta dita cidade e capitania deste dito Rio de Janeiro, por El Rei nosso
+Senhor e da qual petição o traslado dela é o seguinte. Diz Diogo Fernandes Pinto, morador
+nesta cidade de São Sebastião, que o governador que foi Antônio Salema lhe deu em o Rio de
+Miriti umas quatrocentas braças de terra e oitocentas para o sertão e, porquanto, o dito
+governador lá não quis dar se não com condição que ele desistisse de outra que tinha, o que
+ele suplicante não podia em direito fazer por ser casado, ter mulher e filhos, e porque pela
+condição com que lhe foi dada, lhe não serve e desiste da dita dada, pede a Vossa Senhoria lhe
+faça mercê dar-lhe novamente pelas mesmas confrontações que lhe era dada, visto servir a
+Sua Alteza de amanuense o acima dito e receberá justiça e mercê. Despacho do Senhor
+capitão e governador. Dou ao suplicante a terra que pede novamente pelas mesmas
+confrontações que tinha. Hoje, 18 de março de 1579. Salvador Correia de Sá. E tudo visto
+pelo dito Senhor capitão e governador a petição do dito Diogo Fernandes Pinto, suplicante, e
+o que ele pedia visto ser justo e havendo respeito ao proveito que se pode seguir acerca da
+República, ao serviço de Deus, do Rei nosso Senhor e por a terra se povoar lhe deu a terra que
+pedia novamente para aproveitar e fazer sua fazenda de roças nela, não sendo já dada a outras
+pessoas 1°, a qual terra está no dito lugar, tem a dita medida e parte pelas ditas confrontações,
+como em sua petição diz, e a braça, porque se medir a dita terra, será braça craveira scilicet a
+saber 2 varas de medir por uma, como no Reino se costuma de medir, o que tudo lhe deu e
+concedeu na maneira abaixo declarada segundo forma do regimento do governador geral
+Antônio Selema de que o traslado é o seguinte. § As terras que estiverem dentro do termo e
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas
+a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se derem as não
+aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem
+vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada
+pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem
+granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente
+
+o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo, com as condições e obrigações
+do foral dado às ditas terras e de minha ordenação do Livro 4°, título das sesmarias, com
+condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que
+lhe assim forem dadas ao menos três anos, e que dentro no dito tempo as não possam vender,
+nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade e as
+tiverem perdidas por as não aproveitarem, e vá tornarem a pedir, vós lhes podereis de novo
+dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas
+porque as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas
+com as quais condições, obrigações e declarações, lhe assim deu o dito Senhor capitão e
+governador a dita terra ao dito Diogo Fernandes Pinto, pela dita maneira, para sua guarda e
+segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio
+dela para sempre, para ele e todos seus herdeiros e sucessores ascendentes e descendentes que
+após dele vierem com tal condição e entendimento, que ele rompa, aproveite e frutifique a dita
+terra, e a frutifique da data desta em três anos primeiros seguintes e, outrossim, fará de
+maneira que dentro em quatro meses tenha feito nela algum proveito e plantado alguns
+mantimentos, cumpridos os ditos três anos que a tenha aproveitado como dito é, porque não o
+fazendo ele assim, passados os ditos três anos, se dará a dita terra que aproveitado não tiver e,
+sobretudo, digo, de sesmaria a quem a pedir para aproveitar, e lhe será deixado alguns
+logradouros do que aproveitado não tiver e, sobretudo, pagará mil réis para as obras, digo,
+obras do Concelho e dará por ela caminhos e serventias ordenados e necessários para o
+Concelho, para fontes, pontes, viveiros e pedreiras que necessários forem a qual terra, pela
+dita maneira lhe assim deu e concedeu em nome do Rei nosso Senhor forra e isenta, sem foro,
+nem tributo, somente o dízimo a Deus conf, digo, somente de tudo o que lhe nosso Senhor der
+nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme ao dito
+regimento, o que tudo manda que se cumpra e guarde, sem dúvida, nem embargo algum, que
+a ele seja posto e que esta carta seja registrada dentro em 1 ano nos livros da Fazenda Real,
+como o dito Senhor em o seu regimento manda sob as penas em ele contidas e declaradas, e
+porque o sobredito Diogo Fernandes Pinto, suplicante, tudo prometeu de ter, manter e
+cumprir, pela dita maneira lhe mandou passar esta de sesmaria e por verdade eu, Pero da
+Costa, escrivão das sesmarias tabelião das notas por El Rei nosso Senhor em esta sua cidade
+de São Sebastião, e seus termos que este instrumento de carta de sesmaria escrevi e tomei nos
+meus livros de notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder
+ficam onde o dito instrumento fica assinado por o dito Senhor capitão e governador com a
+entrelinha que diz “e tem a dita medida”, com a entrelinha que diz “de São Sebastião”, com o
+
+riscado que diz “e a frutifique”, com o riscado que diz “a dita dada de terras” e com a
+entrelinha que diz “pela dita maneira”, no que não haja dúvida, porque tudo se fez por fazer
+verdade e eu sobredito Pero da Costa, escrivão que o escrevi //Salvador Correia de Sá//
+-fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria da terra de Diogo Fernandes Pinto que estão em Miriti.
+Referências:
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro:
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 193-196.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79)
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

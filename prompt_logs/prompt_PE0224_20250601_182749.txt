@@ -1,0 +1,84 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0224
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0193",
+  "Nome": "Geraldo Soares da Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-04-1796",
+  "Observações da sesmaria": "O sesmeiro requereu meia légua de comprimento e meia légua de largura na estrada do engenho de Japaratuba. A sesmaria localizava-se entre o engenho de Japaratuba e o engenho Piabas.",
+  "Localidade": "Engenho Japaratuba",
+  "Confrontantes": "Engenho Japaratuba, Engenho Piabas",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria também consta publicada no volume quatro da Documentação Histórica Pernambucana. Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959.v.4.pp.08-09.",
+  "Observações das exigências": "O governador Dom Tomás José de Melo ordenou o pagamento anual do foro régio no valor de 2400 réis. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0224"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0224
+Carta de concessão de Geraldo Soares da Fonseca de 22/04/1796
+Sesmaria de Geraldo Soares da Fonseca, de meia légua de terras, pegando no lugar em
+que a estrada que vai do engenho Japaratuba para [vai] digo, os das Piabas, cruza no
+ribeirinho chamado Riacho, e tomando daí para o poente 800 braças e 600 para o
+nascente, e do mesmo lugar se encherá a largura, tomando para o sul do dito ribeirinho,
+600 braças; servindo-lhe de extrema as terras do E Japaratuba e para o norte 400 braças
+confinando com as da Piabas, vindo a ser por todas 2.400 braças de largura e o
+comprimento meia légua em quadro, concedida em 22 de abril de 1796, por Dom
+Thomas José de Melo, pagando o foro anual a razão de 6 mil réis por légua.
+- Fim da Transcrição -
+Referência:
+Documentação
+Histórica
+Pernambucana:
+sesmarias.
+Recife:
+SECRETARIA
+DE
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 08-09.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

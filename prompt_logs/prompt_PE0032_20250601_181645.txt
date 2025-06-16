@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0032
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0059",
+  "Nome": "Davi de Albuquerque Saraiva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "03-10-1714",
+  "Data da concessão": "12-11-1714",
+  "Observações da sesmaria": "O suplicante alegou que ocupava uma terra doada Felipe Cavalcante, um dos primeiros povoadores da capitania de Pernambuco. Como a terra não havia sido reclamada pelos proprietários ou herdeiros, o sesmeiro se apossou da terra e passou a ocupá-la e cultivá-la com lavouras e benfeitorias. Por esta razão, o suplicante requereu a dita terra por sesmaria pois não desejava pagar foro ou pensão aos proprietários da terra, se estes viessem a reclamá-la algum dia como especifica as Ordenações Filipinas, Livro 1º, Título 43.  A dita terra localiza-se no distrito da cidade de Olinda, no rio da Água Fria, próximo a ponte que leva ao caminho de Madalena. As terras requeridas se estendiam de leste a oeste do dito rio da Água Fria e da ponte. A leste, as terras confrontavam a olaria de Don Vicência de Paiva. E a oeste o outro da igreja de Nossa Senhora do Monte. ",
+  "Localidade": "Olinda",
+  "Marcos Geográficos": "Rio da Água Fria, Caminho da Madalena, Igreja de Nossa Senhora do Monte",
+  "Confrontantes": "Dona Vicência de Paiva, Igreja de Nossa Senhora do Monte",
+  "Observações da petição": "O suplicante requereu que a sesmaria fosse concedida com a promessa de restituição das terras aos herdeiros ou proprietários que apresentassem os justos títulos de posse. ",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Alegou já cultivar roçaria de mantimentos; Pretendia fazer benfeitoria; Sesmeiro anterior falecera sem deixar herdeiros ou procurador; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, foi favorável a proposta do suplicante de restituição da sesmaria aos herdeiros ou proprietários que apresentassem o justo título. O procurador foi contrário, no entanto, a proposta do suplicante de ser isento do pagamento da pensão ou foro por ser a ordem régia mais atualizada que as Ordenações, citando o princípio do Digesto \"principium placita legis habent vigorem\" [Quod principi placuit, legishabet vigorem]. ",
+  "Observações das exigências": "\tO governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0032"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0032 
+ 
+REGISTRO DE UMA CARTA DE SESMARIA, DIGO, UMA CARTA DE SUA MAJESTADE 
+PERTENCENTE AS SESMARIAS. 
+ 
+[Carta de doação e sesmaria de David de Albuquerque Saraiva – 12/11/1714] 
+Felix José Machado de Mendonça Eça Castro e Vasconcellos. Faço saber aos que esta carta de 
+doação de sesmaria virem que David de Albuquerque Saraiva me representou a petição cujo teor é o 
+seguinte: Excelentíssimo senhor. Diz David de Albuquerque Saraiva que no distrito desta cidade de 
+Olinda, onde chamam Água-Fria, está uma sorte de terras que começa na ponte pequena que está no 
+mesmo rio D'água-Fria, no caminho da Magdalena, vindo correndo pela parte do nascente pela 
+estrada que vai para a mesma cidade, passando pela fralda do outeiro em que dona Vicência de 
+Paiva tem uma olaria, correndo a confrontação pelo pé do dito outeiro pela parte do poente até 
+entestar com a ponta do outeiro de Nossa Senhora do Monte, e dali correndo para o poente pelo pé 
+do mesmo monte, até ficar salvo o valinho pertencente a Igreja da mesma Senhora do Monte e 
+correndo pelo pé dos mesmos outeiros para o poente até dar na estrada que vai das olarias para a 
+Água-Fria, e dali para o Fragoso e daí correndo pela mesma estrada até o rio, corta pelo meio do 
+alagadiço para o nascente, até tornar a dar na ponte pequena que vai para a Magdalena, onde se 
+começou a referida confrontação; a qual terra assim confrontada poderá ter trezentas braças de 
+comprido e duzentas e cinquenta de largo e está em Mattos maninhos; e por se não saber nem haver 
+notícia dos proprietários, digo, dos primeiros a quem foi dada, nem de seus herdeiros, por fazer a 
+data, digo, por fazer-se a data dela a um Felipe Cavalcante, dos primeiros povoadores desta 
+capitania, fez o suplicante sítio na dita terra com casas de vivenda e lavouras de que paga dízimo no 
+decurso de três anos, que está de posse do dito sítio confrontado, e por ser em utilidade dos dízimos 
+reais que a dita terra esteja cultivada enquanto não aparecerem legítimos senhores dela e ao 
+suplicante pertence a cultura da dita terra primeiro que a outra qualquer pessoa, visto ter nela sítio, 
+lavouras e semelhantes terras assim desaproveitadas, se mandam dar de sesmarias, enquanto não 
+aparecem verdadeiros e legítimos senhores, nem neste caso podem ser citados por se ignorar a parte 
+onde assistem; e posto que na forma da nova ordem de Sua Majestade, que Deus guarde, se fazem 
+as datas das terras realengas com pensão por se dar a propriedade delas: contudo, neste caso, se não 
+pode por pensão por serem terras alheias e serem dadas ao princípio livres na forma da ordenação 
+1,° título 43. 313, e seria coisa rigorosa que aparecendo os primeiros senhores fosse o suplicante 
+obrigado a restituir as terras com o encargo de ficar obrigado a pensão que se lhe impusesse: e em 
+consideração de todo o referido, pede a Vossa Excelência seja servido dar-lhe de sesmaria a dita 
+terra confrontada acima, com obrigação de a entregar e restituir a seus verdadeiros senhores a todo 
+o tempo que aparecerem e mostrarem legítimos títulos que constem pertencer-lhes. Vistas as razões. 
+
+E receberá mercê. - Informe o doutor procurador da Coroa. Recife, 3 de outubro de 1714. 
+"Rubrica". - Excelentíssimo senhor. Eu já me acomodo com a promessa da restituição quando 
+aparecerem donos, porém, com o fugir com o corpo a não pagar foro, com isso não me acomodo, 
+porque a ordem de Sua Majestade é mais moderna que a ordem citada e última de .............., e se o 
+supplicante lhe pare outra cousa attenda que principium placita legis habent vigorem = É o que 
+posso dizer e Vossa Excelência deferirá como melhor lhe parecer. Recife, 5 de outubro de 1714. 
+"Antônio Rodrigues Pereira" E precedendo mais alguns despachos meus e informações do doutor 
+procurador da Coroa, sobre a repugnância que fazia o suplicante de pagar a pensão do foro na forma 
+das ordens de Sua Majestade, de que resultou acomodar-se a esta obrigação. E havendo, outrossim, 
+respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste Governo. Hei por 
+bem de lhe fazer mercê em dar ao suplicante acima nomeado, como pela presente dou de sesmaria 
+em nome de Sua Majestade, que Deus guarde, nos mesmos lugares, partes e testadas que 
+confrontam em sua petição 300 braças de terra de comprido e 250 [ditas] de largo, mencionadas na 
+dita petição e na mesma forma que parece ao doutor procurador da Coroa, segundo a disposição das 
+ordens reais, pagando de foro por cada légua seis mil reis, e a essa respeito, o qual povoará a dita 
+terra no tempo de cinco anos, aliás se darão por devolutas e as possuirá e gozará o suplicante, ele e 
+seus herdeiros, não prejudicando a terceiro com todas as suas matas, águas, campos, testadas, 
+logradouros e mais úteis que nelas se acharem, e será somente obrigado a dar pela dita terra 
+caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a requerer a confirmação desta data 
+por Sua Majestade no termo de dois anos. Pelo que ordeno a todos os ministros da Fazenda e Justiça 
+destas capitanias a que o conhecimento desta carta pertencer, lhe façam dar posse real, efetiva e 
+atual, na forma costumada e debaixo das cláusulas referidas e das mais da Ordenação título de 
+sesmarias: que por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o 
+sinete de minhas armas, a qual se registrará nos livros da Secretaria deste Governo, nos da Fazenda 
+e Foral Real, e nos mais a que tocar, e sem esta precisa circunstância não terá vigor nem validade a 
+presente carta de sesmaria. Dada nesta Vila do Recife, em os 12 de novembro = Manoel da Silva 
+Rosa a fez = ano de 1714 = O secretário, Joaquim Mendes de Alvarenga, a fez escrever. Félix José 
+Machado de Mendonça Eça Castro e Vasconcellos.  
+ 
+Não teve efeito esta sesmaria por passar-se a que vai a folha 166v., com acrescentamento de 
+terras á requerimento da parte. 
+- Fim da carta - 
+ 
+Observações: 
+Consta-se acima uma carta do rei, posteriormente a carta de sesmaria de David de Albuquerque 
+Saraiva. 
+ 
+
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 197 - 200. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

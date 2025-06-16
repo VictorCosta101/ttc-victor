@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0276
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Índigenas Guarulhos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "19-07-1752",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Aldeamento no rio Muriaé",
+  "Marcos Geográficos": "Cachoeira do rio Muriaé",
+  "Ribeira": "Muriaé",
+  "Confrontantes": "Lugar chamado Facão",
+  "Justificativas": "Aldeou o gentio bravo com a propria fazenda; Alegou que já ocupava a terra requerida; Alegou que não prejudicaria a terceiros; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou também que, na qualidade de Procurador dos Índigenas Guarulhos, requeria o título da terra para os mesmos.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"os caminhos de sua testada com pontes e estivas onde necessário for; descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Além disso, determinou-se para o mesmo que fossem reservados os paus reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0276"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0276
+Carta de concessão dos Índios Guarulhos de 19 de julho de 1752
+Matias Coelho de Sousa, fidalgo da Casa de Sua Majestade e brigadeiro de seus exércitos,
+cujo cargo está o governo do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição o padre Francisco Manuel de São Roque, ministro provincial da província da
+Conceição do Rio de Janeiro, que ele suplicante por religiosos missionários, seus subditos,
+tinha povoado, aldeado com casas, igreja, lavouras o gentio guarulho bravo em a cachoeira do
+rio Muriaé, até o lugar chamado Facão da parte do sul de 10 de julho de 1749, como constava
+da certidão que apresentava a Câmara da vila de São Salvador dos Campos dos Goitacazes.
+Para melhor estabelecer a dita povoação, queria que se lhe concedesse por sesmaria a dita
+terra do lugar chamado Facão até a cachoeira do Rio Muriaé da parte do sul com 1 légua de
+sertão e outra de fundo, não prejudicando a terceiro. O que o suplicante pedia em nome dos
+mesmos índios, ao que Sua Majestade mandava nas suas Reais ordens conferir-lhes terras
+para os seus estabelecimentos e depois de extintas darem-lhes outras, me pedia lhe mandasse
+passar por sesmaria as referidas terras na forma do estilo. Sendo vista o seu requerimento e a
+autuação da Câmara da capitania dos Campos de se achar situada a aldeia que se declara, não
+se lhe ofereceu dúvida, nem ao provedor da Fazenda Real e procurador da Coroa dela, a quem
+se deu vista. Hei por bem dar de sesmaria, em nome de Sua Majestade e em virtude da Ordem
+do dito Senhor de 15 de junho de 1711, aos índios Guarulhos novamente [decidos] por seu
+bastante procurador, o padre Francisco Manuel de São Roque, ministro e provincial da
+província da conceição do Rio de Janeiro, para situação do dito gentio guarulho bravo com a
+cachoeira do rio Muriahé 1 legoa de terras de testada com [2] sertão na parte acima declarada;
+com as confrontações expressadas; sem prejuízo de terceiro ou do direito que alguma pessoa
+tenha a elas; com declaração que as cultivará e mandará confirmar esta minha carta por Sua
+Majestade dentro de 2 anos, e não a fazendo se lhe denegará mais tempo; antes de tomar
+posse delas as fará medir e demarcar judicialmente, sendo para este efeito notificadas as
+pessoas com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes e
+estivas onde necessário for; descobrindo-se nela rio caudaloso, que necessite de barca para se
+atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia
+pública; nesta data não poderá suceder em tempo algum pessoa eclesiástica ou religião, e
+sucedendo será com o encargo de pagar dízimos outro qualquer que Sua Majestade lhe impor
+de novo, não o fazendo se poderá dar a que a denunciar; como também sendo o dito Senhor
+servido mandar fundar no distrito dela alguma vila o poderá fazer ficando livre, sem encargo
+
+algum ou pensão para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer
+gênero de metal que nela se descobrir, reservando também os paus Reais; e faltando a
+qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que
+dispõem a Lei e Foral das Sesmarias, ficará privada desta. Pelo que manda ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse aos índios Guarulhos bravos
+por seu bastante procurador, o padre Francisco Manuel de São Roque, ministro provincial da
+Conceição do Rio de Janeiro, das referidas terras na forma acima declarada. E por firmeza de
+tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas,
+que se cumprirá como nela se contém, se registrará nesta Secretaria do governo e nas mais
+partes onde tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro. João de Sousa e
+Melo a fez em 19 de julho de 1752. O secretário do governo, Antônio da Rocha Machado, a
+fez escrever.
+//Matias Coelho de Sousa//
+Carta porque Vossa Senhoria faz mercê dar de sesmaria, em nome de Sua Majestade, aos
+índios Guarulhos bravos por seu bastante procurador, o padre Francisco Manuel de São
+Roque, ministro provincial da conceição do Rio de Janeiro, 1 légua de terras de testada com 2
+de sertão na forma nesta declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro 12 das provisões do governo a folha 28. Rio, a 19 de julho de 1752.
+//Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria,
+aos Índios Guarulhos, por seu bastante Procurador o Padre Francisco Manuel de São Roque,
+uma légua de terras de testada, com 2 de sertão no logar do Cachoeiro do Rio Muriahé. Rio de
+Janeiro, 19 de julho de 1752.
+Referência:
+AHU_ACL_CU_017-01, Cx. 72, D. 16725
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

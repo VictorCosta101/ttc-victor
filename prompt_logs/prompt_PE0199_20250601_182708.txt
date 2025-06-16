@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0199
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0222",
+  "Nome": "Antônio Pires Ferreira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-10-1814",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de São José dos Bezerros. A sesmaria tinha por limite o riacho do Bonito em direção ao rio Sirinháem. ",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Riacho do Bonito, Rio Sirinháem",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0199"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0199 
+ 
+Carta de concessão de Antônio Pires Ferreira de 26/10/1814 
+ 
+Carta de sesmaria que se deu ao padre Antônio Pires Ferreira de uma légua de terra em 
+quadro na freguesia de São José dos Bezerros, para as partes do Bonito, do Termo da vila 
+de Santo Antão. 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho do príncipe regente nosso senhor e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem, que o padre 
+Antônio Pires me fez o requerimento de teor seguinte: Ilustríssimo e excelentíssimo 
+senhor diz o padre Antônio Pires Ferreira que tendo ele meios de cultivar uma sesmaria, 
+e havendo na freguesia de São José dos Bezerros, para as parte do Bonito muitas terras 
+devolutas, pretende o suplicante que vossa excelência em nome de Sua Alteza Real, haja 
+de conceder-lhe uma légua em quadro, principiando da confluência do riacho Bonito 
+grande no rio Sirinhaém, por este abaixo, de sorte que pelo norte devida com o mesmo 
+rio Sirinhaém, pelo oeste com o referido riacho Bonito grande pelo sul e leste com limites 
+que preencherem a área requerida havendo diva de algum héreu confinante estender-se, 
+para qual quer dos outros lados, sem prejuízo de terceiro pelo que pede a vossa excelência, 
+seja servido deferir-lhe na forma que requer. E receberá mercê = E sendo visto seu 
+requerimento ordenei por despacho de 14 de julho do corrente ano a câmara respectiva, 
+que mandasse afixar os editais do estilo, e informando-me a dita câmara que ninguém se 
+opusera, mandei por despachos de 8 e 17 de outubro deste ano, que informassem o doutor 
+procurador da Fazenda e escrivão deputado da Junta da mesma Real Fazenda, e como 
+ambos informaram que se podia dar de sesmaria ao suplicante as terra contempladas em 
+seu requerimento, mandei ultimamente por despacho de 20 do referido mês e ano, que se 
+passasse carta de sesmaria pela faculdade que me é concedida em nome de Sua Alteza 
+Real o príncipe regente nosso senhor, ao dito padre Antônio Pires Ferreira uma légua de 
+terra em quadra no lugar pedido, e confrontado em seu requerimento, pagando o foro 
+anual de quatro mil réis, em observância da real ordem de 28 de setembro de 1700, de 
+que deu fiança na Contadoria da Junta da Real Fazenda a folhas 160v, do Livro 6º delas; 
+a qual Sesmaria possuirá, e gozará ele suplicante e seus herdeiros ascendentes e 
+descendentes como sua que fica sendo de hoje para todo sempre, com todas as matas, 
+campos, rios, águas, testadas, logradouros e mais úteis que nelas se compreenderem,  não 
+prejudicando a terceiros; e não passará a dita terra a religião e pessoas eclesiásticas, salvo 
+sendo com os mesmos encargos, com que as possuem os seculares e nunca se dividirá em 
+porções, nem se partirá, senão por estimação, andando encabeçada em uma só pessoa na 
+forma da Ordenação do Livro 4º título 96 parágrafo 23; e assim não passará a referida 
+terra a herdeiros, ou qualquer outra pessoas, sem consentimento da Junta da Real Fazenda, 
+para nela se darem novas fianças, e se fazerem as devidas escriturações ficando livres 
+para a serventia dos povos todas as estradas, rios, fontes e pedreiras e reservadas ao Real 
+Patrimônio as madeiras da construção de pau-brasil e vieiros de qualquer metais e será 
+obrigado a requerer dentro de três anos confirmação, medição, demarcação e povoá=la e 
+cultivá-la na conformidade da ordem régia de 23 de outubro de 1753 e alvará de 25 de 
+janeiro de 1809, e não o cumprindo assim se haverá por devoluta, e novamente se 
+conferirá a quem a requerer. Pelo que mando aos ministros da Fazenda, e Justiça e mais 
+pessoas a quem tocar cumpram e façam cumprir e guardar esta carta de data de sesmaria, 
+
+como nela se contém fazendo dar aosuplicante posse real, efetiva e atual na forma 
+costumada debaixo das cláusulas referidas, e das mais da Ordenação título das sesmarias. 
+Em firmeza do referido lhe mandei passar a presente, que sendo por mim assignada, e 
+selada com o sinete de minhas armas, se registrará na secretaria deste governo, na da Junta 
+da Real Fazenda, e onde mais tocar. Felipe Esteves Alves a fez no Recife de Pernambuco 
+aos 26 de outubro de 1814 = José Carlos Mairink da Silva Ferrão secretário do governo a 
+fez escrever = Caetano Pinto de Miranda Montenegro  = Carta de data de sesmaria pela 
+qual vossa excelência há por bem dar em nome de Sua Alteza Real ao padre Antônio Pires 
+Ferreira, uma légua de terra em quadra, na freguesia de São José dos Bezerros, termo da 
+vila de Santo Antão = Para vossa excelência ver = Por Despacho do ilustríssimo e 
+excelentíssimo senhor General de 20 de Outubro de 1814./. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 126-127. 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

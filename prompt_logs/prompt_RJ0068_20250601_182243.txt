@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0068
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João de São João",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-06-1594",
+  "Observações da sesmaria": "A carta apresenta 21 linhas ilegíveis, que fornecem justamente as informações da terra a ser solicitada pelo suplicante, de modo que não foi possível a identificação de dados referentes à geografia da localidade. Algo semelhante ocorre com as medidas da terra.",
+  "Confrontantes": "Sertão",
+  "Justificativas": "Pretendia plantar roças; Pretendia fazer benfeitoria; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres ao concelho; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A Carta apresenta um grau de inegibilidade na parte inicial em que apresenta as justificativas dadas pelo suplicante. As justificativas aqui elencadas já aparecem posteriormente a esta seção.",
+  "Observações do deferimento e da concessão": "Foi criada uma data de concessão de modo a não interferir nas dinâmicas internas da Plataforma SILB. Originalmente, a data encontra-se ilegível.",
+  "Observações das exigências": "Determinou-se também que houvesse \"a posse e senhorio da dita terra para sempre\", como também ordenou-se que \"que ele rompa, aproveite a dita terra e a frutifique da data desta em 3 anos primeiros seguintes e, outrossim, fará de maneira que dentro em 4 meses tenha feito na dita terra algum proveito e plantado alguns mantimentos e, cumpridos os ditos 3 anos que a tenha aproveitado\". Caso se procedesse o contrário com relação a esta última condição, \"passados os ditos 3 anos, se dará a dita terra que aproveitada não tiver de sesmaria a que a pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver e, sobretudo, pagará mil réis para as obras do Concelho, e dará pela dita terra caminhos e serventias ordenadas e necessárias para o Concelho, para fontes, pontes e vieiros e pedreiras\".",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0068"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0068
+Carta de concessão de sesmaria da terra de João de São João de [não identificado] de 1594
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1594 anos aos [...] dias do mês de [...] do dito ano nesta cidade
+de São Sebastião do Rio de Janeiro do Brasil, nas pousados de mim escrivão adiante
+nomeado, apareceu João de São João, morador nesta dita cidade, e me apresentou uma petição
+com um despacho em ela do Senhor Salvador Correia de Sá, capitão e governador desta dita
+cidade e capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor. E da qual
+petição e do despacho dela o traslado é o seguinte: Senhor governador, diz João de São João,
+morador nesta dita cidade [...] (seguem-se ainda 21 linhas, até terminar a fl. 24 v. das quais
+aparecem apenas as últimas palavras ou sílabas, não sendo possível reconstruir-se) a pontas e
+enseadas que na dita terra estiveram cortando direito pelo [...] agulha com todos os campos e
+águas que na dita terra estiverem, e duas léguas para o sertão, receberá esmola e mercê.
+Despacho do Senhor capitão e governador: dou ao suplicante onde pede e, conforme pede em
+sua petição, meia légua de largo e uma de comprido para o sertão. Salvador Correia de Sá. E
+tudo visto pelo dito Senhor capitão e governador a petição do dito suplicante João de São João
+e o que ele pedia, visto ser justo e havendo respeito ao proveito que se pode seguir acerca da
+República, ao serviço de Deus, de El Rei nosso Senhor e para a terra se povoar, deu ao dito
+João de São João a dita meia légua de terra de largo e uma légua para, digo, de comprido para
+o sertão onde a pedia e pede, conforme a sua petição e conforme ao dito seu despacho,
+porquanto dizia que estava devoluto e em matos maninhos e, por aproveitar para o dito João
+de São João aproveitar e fazer a sua fazenda, roças e benfeitorias nela como diz, não sendo já
+dada a outra pessoa 1°, a qual terra diz que está no dito lugar, tem a dita medida e parte pelas
+ditas confrontações, como em sua petição diz, e a braça, porque se medir, será braça craveira.
+ss. a saber: duas varas de medir por uma, como no Reino se costuma de medir, o que tudo lhe
+deu e concedeu na maneira adiante declarada segundo forma do regimento do governador
+geral, que foi nesta dita cidade Antônio Salema, de que o traslado é o seguinte: as terras que
+estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para
+cada parte, que não forem dadas a pessoas que as aproveitem, ou posto que o fossem, se pelas
+pessoa a que se deram as não aproveitarem no tempo que eram obrigados por esta via ou por
+qualquer outra, estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis
+lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade
+
+virdes ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente,
+sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo,
+e com as condições e obrigações do foral dado às ditas terras e de minha ordenação do Livro
+4°, título das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da
+dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos, e que dentro no dito
+tempo as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no
+termo da dita cidade, as tiverem perdidas por não as aproveitarem, e vá tornarem a pedir, vós
+lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se
+trasladará nas cartas porque as assim derdes, e isto se entenderá não sendo as ditas terras
+dadas a outras pessoas com as quais condições, obrigações e declarações, lhe assim deu o dito
+Senhor e governador a dita terra ao dito suplicante João de São João, pela sobredita maneira e
+para sua guarda e segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a
+posse e senhorio da dita terra para sempre, para ele e todos seus herdeiros e sucessores que
+após dele vierem com tal condição e entendimento, que ele rompa, aproveite e frutifique a dita
+terra para sempre, para ele e todos seus herdeiros e sucessores ascendentes e descendentes que
+após dele vierem com tal condição e entendimento, que ele rompa e, digo, e outrossim, digo,
+com tal condição e entendimento que ele rompa, aproveite a dita terra e a frutifique da data
+desta em 3 anos primeiros seguintes e, outrossim, fará de maneira que dentro em 4 meses
+tenha feito na dita terra algum proveito e plantado alguns mantimentos e, cumpridos os ditos 3
+anos que a tenha aproveitado, como dito é, porque não o fazendo ele assim, passados os ditos
+3 anos, se dará a dita terra que aproveitada não tiver de sesmaria a que a pedir para aproveitar,
+e lhe será deixado alguns logradouros do que aproveitado não tiver e, sobretudo, pagará mil
+réis para as obras do Concelho, e dará pela dita terra caminhos e serventias ordenadas e
+necessárias para o Concelho, para fontes, pontes e vieiros e pedreiras que necessárias forem a
+qual terra, pela dita maneira lhe assim deu e concedeu em nome do El Rei nosso Senhor forra
+e isenta, sem foro, nem tributo, somente de todo que Deus nosso Senhor der nela de suas
+novidades, lavouras e criações, pagará os dízimos a Deus conforme ao dito regimento, o que
+tudo manda que se cumpra e guarde sem dúvida, nem embargo algum, que ele seja posto e
+que esta carta seja registrada dentro em um ano nos livros da Fazenda Real, como o dito
+Senhor em seu regimento manda sob as penas em ele contidas e declaradas, e porque o
+sobredito João de São João tudo prometeu de ter, manter e cumprir, pela dita maneira lhe
+mandou passar esta carta de sesmaria e por verdade eu, Pero da Costa, tabelião das notas e
+escrivão das sesmarias por El Rei nosso Senhor em esta cidade de São Sebastião e seus
+termos, que este instrumento de carta de sesmaria escrevi e tomei nos meus livros das notas
+
+tombo das cartas das sesmarias desta dita cidade que em meu poder ficam onde o dito
+instrumento fica assinado por o dito Senhor capitão e governador //Salvador Correia de Sá//
+-Fim da transcrição-
+Observações do documento:
+Nota. Achando-se partida a fl. 24, tanto a parte final desta carta desde o asterisco como
+a parte inicial da que se segue, foram completadas, mais pela prática e pelo formulário
+das outras.
+A palavra “Jhu Xpo” foi alterada para “Jesus Cristo”.
+A palavra “houveram” foi alterada para “estiveram”.
+Título original: Carta de sesmaria das terras [...] de João de São João [...]que estão [...]uns [...]
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.21-23.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.21-23. Códice
+778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

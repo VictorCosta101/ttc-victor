@@ -1,0 +1,141 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0110
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0165",
+  "Nome": "Manuel Teixeira de Lima ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "04-08-1779",
+  "Data da concessão": "04-08-1779",
+  "Observações da sesmaria": "O sesmeiro requereu uma légua de terra, localizada no termo da Vila de Sirinhaém, no lugar chamado Dois Braços, correndo para o fim das terras de Domingos Rodrigues, percorrendo ao longo do rio Cucaú. O sesmeiro alegou que a terra que pedia estava também incultivada.",
+  "Localidade": "Vila de Sirinhaém, Dois Braços e rio Cucaú.",
+  "Marcos Geográficos": "Vila de Sirinhaém, Dois Braços e rio Cucaú.",
+  "Confrontantes": "Domingos Rodrigues",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Alegou que não prejudicaria a terceiros; Pretendia cultivar; Solicitou isenção de pagamento de foro régio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, José Cesar de Menezes, determinou o pagamento do foro anual de seis mil réis por légua. O governador, José Cesar de Menezes, mandou requerer a confirmação dentro de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0110"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0110 
+Carta de doação e sesmaria de Manoel Teixeira de Lima – 04/08/1779 
+Manoel Teixeira de Lima com uma légua de terra no lugar de Dois Braços. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e 
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. - Faço saber aos 
+que esta carta de doação de sesmaria virem, que Manoel Teixeira de Lima me fez um 
+requerimento do teor e maneira seguinte: — Diz o capitão Manoel Teixeira de Lima, 
+que requerendo com o requerimento incerto na súplica junta ao Ilustríssimo e 
+Excelentíssimo Senhor conde de Tovolide, sendo governador e capitão general desta 
+capitania, para lhe fazer mercê por data de sesmaria de uma légua de terra no lugar 
+chamado Dois Braços, por se achar incultivada, principiando a correr onde findar a 
+terra de Domingos Rodrigues, discorrendo a medição pelo rio acima denominado 
+Lucahú e Dons Braços, fazendo pião no mesmo rio, sendo obrigado a demarcar-se o 
+dito Domingos Rodrigues ou seus herdeiros, para constar do lugar em que finda a sua 
+terra e dos mais éreos com quem haja o suplicante de confinar e confrontar, foi servido 
+pelo despacho de 7 de junho de 1769, deferir-lhe que jurasse o suplicante não ter outra 
+alguma data de sesmaria, declarando em papel separado as confrontações das tais 
+terras, ao que satisfazendo com o juramento e declarações expedidas no papel junto, 
+mandou pelo dito despacho de 12 de junho do dito ano, que os oficiais da Câmara do 
+respectivo distrito mandassem fixar editais no lugar declarado, em que estariam trinta 
+dias para ver se haviam terceiros prejudicados, e com certidão junta dos oficiais da 
+Câmara da Vila de Serinhaém, do que se mostra ter satisfeito o suplicante aos 
+venerandos despachos, de que a légua de terra que pretende não ter possuidor algum 
+nem prejudicar a terceiro, e estar nos termos de Vossa Excelência lhe conferir a dita 
+graça livre e isenta de pensão e foro, e somente dízimo a Deus ou como Vossa 
+Excelência for servido, cuja graça da dita terra implora o suplicante para a cultivar e ter 
+mais extensão de terra o seu Engenho chamado Cucau de Dois Braços; portanto — 
+Pede a Vossa Excelência se digne em atenção do exposto e documentos juntos, mandar 
+passar ao suplicante carta de data de sesmaria da dita légua de terra, pedida na forma do 
+estilo e ordens de Sua Majestade Fidelíssima — E receberá mercê. = E sendo por mim 
+visto o seu requerimento, ordenei por despacho meu de 7 de março de 1778 aos oficiais 
+da Câmara do respectivo distrito, mandassem fixar editais na freguesia respectiva, para 
+
+se saber ao certo estar ou não devoluta a mesma terra e haver ou não terceiro 
+prejudicado; e constando-me por informação dos ditos oficiais que assim o mandaram 
+executar, não haver pessoa alguma que aos ditos editais saísse. Por outro meu despacho 
+de 26 de fevereiro de 1779, mandei ouvir o escrivão da Receita e Despesa, e assim mais 
+responder o procurador da Coroa e Fazenda. Por outro de 15 de março do dito ano, e 
+como todos uniformemente, me responderam estar nos termos do se dar ao suplicante a 
+terra pedida de sesmaria, na forma confrontada em seu requerimento, pagando 
+anualmente o foro de seis mil réis, por ser das que estão mais próximas a Marinha, do 
+que devia dar fiança na Contadoria. Ultimamente, por meu despacho de 29 de março do 
+corrente ano, mandei que se passasse sesmaria na forma da resposta do doutor 
+procurador da Coroa e escrivão da Receita e Despesa; em cumprimento do qual e pela 
+faculdade que Sua Majestade Fidelíssima me permite no Capítulo 15 do Regimento 
+deste Governo. Hei por bem dar em nome da dita senhora ao dito Manoel Teixeira de 
+Lima, de sesmaria no lugar chamado Dois Braços, uma légua de terra na forma 
+confrontada em seu requerimento, pagando o foro anual de seis mil réis por légua, visto 
+ser das mais próximas a Marinha, que determina a Real Ordem de 28 de setembro de 
+1700, a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e 
+descendentes, como sua que fica sendo de hoje para todo sempre, com todos os seus 
+pertences, matas, campos, rios, águas, testadas, logradouros e mais úteis que ela 
+compreender, não prejudicando a terceiro, e não passará a dita a religiões e pessoas 
+eclesiásticas, salvo for com os mesmos encargos com que as possuem os seculares, 
+sendo obrigado a dar ao Conselho caminho livre para fontes, pontes e pedreiras, e 
+requerer dentro de três anos confirmação, medição e demarcação, povoá-la e cultivá-la 
+na conformidade da Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim 
+se dar por devoluta e novamente ser conferida a quem a requerer. – Pelo que ordeno aos 
+ministros da Justiça e Fazenda e mais pessoas a quem tocar, cumpram e façam cumprir 
+e guardar esta carta de doação de sesmaria como nela se contém, fazendo dar ao 
+suplicante posse real e atual, na forma costumada, debaixo das referidas cláusulas, o 
+das mais da Ordenação, título das sesmarias; visto constar por bilhete que apresentou 
+achar-se dada a fiança, o foro anual de seis mil réis na Contadoria da Real Fazenda, a 
+folhas do livro delas. Em firmeza do que lhe mandei passar a presente por mim 
+assinada e selada com o sinete das minhas armas, que se registrará na Secretaria deste 
+Governo e Contadoria da Real Fazenda — Dada no Recife de Pernambuco, aos 4 dias 
+do mês de agosto = O padre Manoel Barbosa da Silva Garcia. Oficial maior da 
+
+Secretaria do Governo, a fez = Ano do Nascimento de Nosso Senhor Jesus Cristo de 
+1779 = O secretário do Governo, Manoel de Carvalho Paes de Andrade, a fez escrever 
+— José Cesar de Menezes =. 
+- Fim da carta – 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 
+2. p. 240 - 243. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

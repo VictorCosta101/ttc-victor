@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0307
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Diogo Gonçalves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "12-03-1565",
+  "Data da concessão": "17-03-1575",
+  "Observações da sesmaria": "O suplicante requereu 800 braças de comprimento e 800 braças de largura nos lugares de Camosytas, Taperambatce, Tapacorá e Aratagipe.",
+  "Localidade": "Aratagipe",
+  "Marcos Geográficos": "Camosytas, Taperambatce, Tapacorá",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0307"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0307 
+ 
+Sesmaria de 800 braças de terra em Tapacorá dadas a Diogo Gonçalves 
+ 
+Dona Beatriz de Albuquerque, em nome e como procurador que sou de meu filho, Duarte 
+Coelho de Albuquerque, capitão e governador desta capitania de Pernambuco, da Nova 
+Lusitânia, partes do Brasil por El-Rei, Nosso Senhor, etc. Faço saber a quantos esta minha carta 
+de doação e sesmaria for mostrada, e o conhecimento dela com direito pertencer, como a mim 
+enviou a dizer por sua petição Diogo Gonçalves, morador em Beberibe, termo desta vila que 
+ele é morador antigo, e tem muitas filhas, pelo que: pede a Vossa Senhoria lhe faça mercê de 
+1000 braças de terra para ajuda de seus casamentos N, Catarina e Isabel, onde se chama os 
+Camosytas, Taperambatce, Tapacorá e Aratagipe, ou pegado com outra sorte de terra de que 
+lhe tem feito mercê, e não havendo no dito lugar, a possa tomar aonde não for dada, no que 
+receberá mercê. E vista por mim a dita petição, pus nela por meu despacho. Passem carta ao 
+suplicante de 800 braças de terra em quadra nos limites que na sua petição faz menção, feito 
+aos 12 dias do mês de março de 1565 anos. Segundo que na dita petição e despacho assim 
+largamente era conteúdo, pelo que hei por bem e me praz de dar e doar, deste dia para todo 
+sempre, por virtude da procuração que tenho do dito meu filho ao dito Diogo Gonçalves 800 
+braças de terra em quadra na parte que pede em sua petição, que é nos limites onde se chama 
+os Camosytas, Taperambatce, Tapacorá e Aratagipe, ou pegado com outra sorte de terra que 
+lhe hora dei os dias passados, a qual terra assim dou para ele dito Diogo Gonçalves e sua 
+mulher, filhos, filhas, netos, herdeiros ascendentes e descendentes, e para todas as pessoas que 
+a pôs, eles vieram e deles as houverem, para que logrem a dita terra, e dela e nela façam o que 
+lhes bem vier, como de coisa sua própria que já é, forra, livre e isenta, sem foro nem tributo 
+algum, salvo dízimo a Deus, a qual terra mando que lhe seja demarcada no dito lugar e limites 
+que declara em sua petição, e no ato da demarcação que lhe for feita, se fará menção com quem 
+parte, e por que rumos corre, e quem são seus hereos e as confrontações para melhor declaração, 
+e porque assim me aprove de lhe dar e doar a dita terra, lhe mandei passar esta carta, a qual 
+mando que se cumpra e guarde como nela se contém, dada nesta vila de Olinda sob meu sinal 
+e selo das armas do dito meu filho, que ante mim serve, aos 17 dias do mês de março, Gonçalo 
+Simões, escrivão das datas e demarcações pelo senhor Duarte Coelho de Albuquerque, o fez 
+no ano do nascimento de Nosso Senhor, Jesus Cristo, de 1575 anos. Pagou desta nota e ... nada. 
+Dona Beatriz de Albuquerque , ao selo 10 réis. Estava o selo. Manuel Nogueira. Fica registrada 
+no Livro do Tombo e Fazenda de Sua Alteza por mim, Melchior da Rosa no livro dela, digo, 
+
+escrivão dela, aos 17 dias do mês de março de 1575 anos. Melchior da Rosa. Não se continha 
+mais no dito documento que eu, Felipe Nery Correia, tabelião do público judicial e notas da 
+cidade de Olinda, vila do Recife e seus termos capitania de Pernambuco, para Sua Majestade 
+fidelíssima, que Deus Guarde, etc. Fiz trasladar do próprio com o qual e com o oficial abaixo 
+assinado este conferi e concertei, vai sem coisa que dúvida faça ao próprio me reporto, que 
+tornei a entregar a quem aqui assinou, subscrevi e assinei em público e raso de meus sinais 
+seguintes, aos 4 dias do mês de janeiro de 1766 anos.  
+ 
+Concertado por mim, tabelião 
+Felipe Nery Correia 
+ 
+Em fé de verdade 
+Felipe Nery Correia  
+ 
+- 
+Fim da Transcrição -  
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 243v. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

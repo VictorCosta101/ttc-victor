@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0206
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Eusébio da Silva Leitão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-02-1741",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas fora dos marcos da Fortaleza de São João da Barra",
+  "Marcos Geográficos": "Ilha de São Sebastião",
+  "Justificativas": "As terras eram devolutas; Tinha escravos; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou também que as terras devolutas em questão \"sem título algum costumam os governadores atuais daquela fortaleza usar\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante a obrigação de \"fazer os caminhos da sua testada com pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso que necessite barca para se atravessar, ficará reservada de uma margem dele a terra que baste para o uso público\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0206"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0206
+Carta de concessão de sesmaria de Eusébio da Silva Leitão de 25 de fevereiro de 1741
+Matias Coelho de Souza, mestre de campo da infantaria de uns dos terços da guarnição da
+praça do Rio de Janeiro, cujo cargo está o governo dele e suas capitanias.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Eusébio da Silva Leitão, que dos marcos da terra pertencente a fortaleza de São
+João da Barra desta Cidade para fora se acha alguma devoluta da qual sem título algum
+costumam os governadores atuais daquela fortaleza usar e [criando-se] de alguma parte dela
+achando-se a outra ainda (ilegível), e porque se achava com alguns escravos e não tem terras
+onde lavrar, me pedia que lhe mandasse dar de sesmaria a terra que se achar devoluta, fora da
+marcação da dita fortaleza, servindo pela parte dela de confrontação a sua mesma demarcação
+e pelas mais partes em todo o mar onde confina a terra por ser ilha, sendo visto seu
+requerimento e informações que sobre ele deram o provedor da Fazenda Real e procurador da
+Coroa: hei por bem dar de sesmaria, em nome de Sua Majestade, ao dito Eusébio da Silva
+Leitão a terra que se achar devoluta fora da demarcação da dita fortaleza de São João da
+Barra, com as confrontações acima expressadas, sem prejuízo de terceiro ou do direito e posse
+que algumas pessoas tenham a ela, com declaração que as cultivará e mandará confirmar esta
+carta por Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo, e
+antes de tomar posse dela a fará medir e demarcar judicialmente, sendo para esse efeito
+notificados os hereos com quem confrontar, e será obrigado a fazer os caminhos da sua
+testada com pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso que
+necessite barca para se atravessar, ficará reservada de uma margem dele a terra que baste para
+o uso público, e nesta data não sucederá em tempo algum pessoa eclesiástica ou religião, e
+sucedendo será com encargo de pagar dizimos e outro qualquer encargo que Sua Majestade
+lhe impuser de novo, e não os pagando se poderam dar a quem as denunciar, como também
+sendo o mesmo Senhor servido mandar fundar no distrito delas alguma vila, ou toma-las para
+alguma utilidade de seu Real serviço, o poderá fazer ficando livres de encargos e pensão para
+o sesmeiro, e não compreenderá esta data vieiros ou minas de qualquer gênero de metal que
+nelas se descobrir, reservando também os paus Reais, e faltando a qualquer das ditas
+cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das
+Sesmarias, ficará privado delas. Pelo que mando ao provedor da Fazenda Real, que com a
+assistência dos engenheiros demarquem limites a dita fortaleza com mais extensão, sendo
+necessário que aqui até agora teve pondo-se lhe balizas nas partes necessárias, e delas
+correndo para a terra baldia, ficará pertencendo ao dito Eusébio da Silva o que se achar, da
+
+qual lhe dará posse o ministro ou oficial da justiça a que o conhecimento desta pertencer. E
+por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o signete de
+minhas armas, que se cumprirá como nela se contém, registrando-se nos Livros a que tocar.
+Dada na cidade de São Sebastião do Rio de Janeiro aos 25 dias do mês de fevereiro de 1741.
+O oficial maior da secretaria, Pedro Fagundes Varela, a fez. O secretário, Antônio da Rocha
+Machado, a fez escrever. //Matias Coelho de Souza//
+Carta porque Vossa Senhoria concede de sesmaria a Eusébio da Silva Leitão a terra que
+estiver devoluta fora de demarcação da fortaleza de São João da Barra na forma das ordens de
+Sua Majestade. Para Vossa Senhora ver.
+Registre-se nos Livros da Fazenda Real. Rio, 3 de março de 1741. //Melo//
+Registrada no Livro 7º de Registro de Provisões e Sesmarias a folha 20. Rio de Janeiro, 27 de
+fevereiro de 1741. //Antônio da Rocha Machado//
+Registre-se na Ouvidoria (ilegível). Rio de (ilegível) de 1741 //(ilegível)//
+Registrado no Livro 1º do Tombo das Sesmarias que serve neste Cartório a folha 54. Rio de
+Janeiro, a 20 de março de 1741. //Francisco Xavier da Silva//
+Registrada no Livro que serve de registro nesta Procuradoria a folha 58. Rio, a 4 de março de
+1741.
+- Fim da Transcrição -
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu a Eusebio da Silva
+Leitão as terras que se encontravam devolutas fora da demarcação da Fortaleza de S. João da
+Barra. Rio de Janeiro, 25 de fevereiro de 1741.
+No DOCs a palavra hereo aparece como um erro ortográfico, contudo, localizei no Dicionário
+Bluteau o seguinte significado: “HEREO , f.m. na Ord.Manuel L.1 .T.49. § 30. parece
+fignificar o Senhor, ou proprietário, do latim herus. § O que paga ao Emphyteuta os redditos
+da parte do chão, ou campo, que tomou à sua conta para beneficiar.”
+Esta carta de concessão está disponível no AHU anexada à Petição n° 11860 e ao Auto de
+Posse n° 11862.
+Referência:
+AHU_ACL_CU_017-01, Cx. 51, D. 11861
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

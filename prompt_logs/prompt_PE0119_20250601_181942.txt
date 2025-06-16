@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0119
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0295",
+  "Nome": "Francisco Falcão Encerrabodes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-03-1782",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de Ipojuca, do Marcos dos Índios ao riacho Mutupiruma. ",
+  "Localidade": "Freguesia do Ipojuca",
+  "Marcos Geográficos": "Riacho Mutupiruma, Marco dos Índios",
+  "Justificativas": "As terras eram devolutas; Alegou ser para o bem público; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0119"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0119
+Carta de doação e sesmaria de Francisco Falcão Enserrabodes - 02/03/1782
+Francisco Falcão Enserrabodes, com uma légua de terra principiando do marco dos
+índios antes de chegar ao riacho Mutupiruma, da margem do rio para dentro da parte
+do norte.
+José César de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão
+general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de
+data de sesmaria virem, que Francisco Falcão Enserrabodes me fez um requerimento do teor e
+maneira seguinte: = Ilustríssimo e Excelentíssimo Senhor = Diz Francisco Falcão
+Enserrabodes, que na freguesia e distrito de Ipojuca subsistem devolutas e desaproveitadas
+algumas terras, e para se reduzirem a cultura em benefício comum e utilidade da Real
+Fazenda, pretende o suplicante por sesmaria uma légua de terra em quadro de norte a sul,
+leste a oeste, principiando do marco dos índios, antes de chegar ao riacho Mutupiruma,
+obrigando-se a solver o foro anual que se arbitrar = Pede a Vossa Excelência que feitas as
+diligências necessárias e constando estar devoluta a dita terra, seja servido conceder-lhe a
+légua em quadro, que implora - E receberá mercê = E assim mais no dito requerimento, se
+acha a declaração que o suplicante fez na forma seguinte = Ilustríssimo e Excelentíssimo
+Senhor = o suplicante declara que as terras que pede são as que se compreendem da margem
+do rio para dentro da parte do norte, e como estas subsistem devolutas, está o suplicante nos
+termos de ser deferido, pelo que; E receberá mercê = E sendo por mim visto o seu
+requerimento, ordenei por despacho meu de 14 de dezembro de 1781, aos oficiais da Câmara
+do respectivo distrito, mandassem fixar editais na respectiva freguesia, para se saber ao certo
+estar ou não devoluta a mesma terra e haver ou não terceiro prejudicado, e constando-me por
+informação dos ditos oficiais que assim o mandaram executar, não haver pessoa alguma que
+aos ditos editais saísse. Por outro meu despacho da data de 21 de fevereiro de 1782, mandei
+ouvir o escrivão da Receita e Despesa, e assim mais responder o doutor procurador da
+Fazenda por outro de 22 do mesmo mês e ano, como todos uniformemente me responderam
+estar nos termos de se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em
+seu requerimento, pagando anualmente o foro de seis mil réis por légua, por ser das que estão
+mais próximas a Marinha, do que devia dar fiança na Contadoria da Real Fazenda.
+Ultimamente mandei por despacho de 25 do referido mês e ano que se passasse sesmaria na
+forma da resposta do doutor procurador da Fazenda Real e Coroa e escrivão da Receita e
+Despesa. Em cumprimento do qual e pela faculdade que Sua Majestade me permite no
+
+Capítulo 15 do Regimento deste Governo. Hei por bem dar em nome da dita senhora ao dito
+Francisco Falcão Enserrabodes, uma légua de terra em quadra, principiando do marco dos
+índios antes de chegar ao riacho Mutupiruma, da margem do rio para dentro da parte do norte,
+na forma confrontada em seu requerimento e declaração a este feita, pagando o foro anual de
+seis mil réis por légua, visto ser das mais próximas a marinha, que determina a real ordem de
+28 de setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus herdeiros
+ascendentes e descendentes, como sua que fica sendo de hoje para sempre, com todos os seus
+pertences, matas, campos, águas, rios, testadas, logradouros e mais úteis que ela compreender,
+não prejudicando a terceiro e não passará a dita a religiões e pessoas eclesiásticas, salvo sendo
+com os mesmos encargos com que as possuem os seculares, sendo obrigado a dar ao
+Conselho caminhos livres para fontes, pontes e pedreiras, e requerer dentro de três anos
+confirmação, medição e demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia
+de 20 de outubro de 1753, e não o cumprindo assim se dar por devoluta e novamente ser
+conferida a quem a requerer; com mais a condição de que nunca se dividirá a dita terra se não
+por estimação, andando encabeçada em uma só pessoa, como determina a Ordenação do título
+76§23. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de doação de sesmaria como nela se contém,
+fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada debaixo das
+referidas cláusulas e das mais da Ordenação título das sesmarias, visto constar por bilhete que
+apresentou, haver dado a fiança do foro anual de seis mil réis por légua na Contadoria da Real
+Fazenda a folha - do livro 2º delas. Em firmeza do que lhe mandei passar a presente por mim
+assinada e selada com o sinete das minhas armas, que se registrará na Secretaria deste
+Governo e Contadoria da Real Fazenda, Manoel Barbosa da Silva Garcia, oficial maior da
+Secretaria do Governo a fez no Recife de Pernambuco, aos 2 dias de março, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1782. = O Secretário do Governo, Manoel de
+Carvalho Pais de Andrade, a fez escrever = José Cesar de Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+267 - 269.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

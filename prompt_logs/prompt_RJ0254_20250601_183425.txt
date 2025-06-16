@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0254
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Pacheco Borges",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "29-01-1737",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na barra do rio Guarauna",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era descobridor(a) das terras com risco de vida por causa dos índios; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se do suplicante que fosse obrigado a \"fazer os caminhos de sua testada, fazendo-lhe pontes estivas onde necessário for, e descobrindo-se nelas rio caudaloso, que necessite barca para se atravessar, ficará reservada de uma margem dele meia légua ao menos para ficar em público\". Determinou-se ainda que fossem reservados os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0254"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0254
+Carta de concessão de José Pacheco Borges de 29 de janeiro de 1737
+Gomes Freire de Andrade, do conselho de Sua Majestade, governador e capitão-general da
+capitania do Rio de Janeiro e Minas Gerais.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me José
+Pacheco Borges, morador no termo da vila de Nossa Senhora dos Remédios de Parati, que nos
+fundos de uma sorte de terras de vários possuidores, principiando na barra do rio Guarauna,
+correndo para a mesma vila águas vertentes para o mar, se acham muitas terras devolutas em
+sertão que nunca foram cultivadas, pedindo-me lhe mandasse dar, em nome de Sua Majestade,
+por sesmaria 1 légua de terras em quadra na referida parte por se achar com bastantes
+escravos para as cultivar e em utilidade dos dízimos reais, e dando-se vista
+deste
+requerimento ao provedor da Fazenda Real e procurador da Coroa, aos quais se não ofereceu
+dúvida. Hei por bem fazer mercê, em nome de Vossa Majestade, de dar por sesmaria ao dito
+José Pacheco Borges 1 légua em quadra das ditas terras na forma das ordens do mesmo
+Senhor e com as confrontações no seu requerimento acima expressadas; sem prejuízo de
+terceiros ou do direito que algumas pessoas possam ter a elas; com declaração que as cultivará
+e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o fazendo se
+lhe denegará mais tempo; antes de tomar posse delas, as fará medir e demarcar judicialmente,
+sendo para este efeito citadas as pessoas com quem confrontar; será obrigado a fazer os
+caminhos de sua testada, fazendo-lhe pontes estivas onde necessário for, e descobrindo-se
+nelas rio caudaloso, que necessite barca para se atravessar, ficará reservada de uma margem
+dele meia légua ao menos para ficar em público; nas ditas terras não poderá suceder em tempo
+algum pessoa eclesiástica ou religião, e sucedendo será com o encargo de pagar dízimos ou
+outro qualquer que a Sua Majestade for servido impor-lhe de novo, e não os pagando se
+poderão dar a quem as denunciar; como também sendo o mesmo Senhor servido mandar
+fundar no distrito destas terras alguma vila o poderá fazer ficando estas livres, sem encargo
+algum ou pensão para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer
+gênero de metal que nas ditas terras se descobrir, reservando também os paus Reais; e
+faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade ou as
+que dispõem a Lei e Foral das Sesmarias, ficará privado delas. Pelo que mando ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito José Pacheco Borges
+das referidas terras na forma acima declarada. E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém e se registrará nos Livros da Secretaria deste governo e nos
+
+da Fazenda Real dentro do tempo declarado no regimento, de baixo da pena cominada nele e
+nos mais a quem tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, Pedro
+Fagundes Varela a fez aos 29 dias do mês de janeiro de 1737. O secretário, José Ferreira da
+Fonte, a fez escrever.
+//Gomes Freire de Andrade//
+Carta de sesmaria que Vossa Excelência há por bem conceder a José Pacheco Borges de 1
+légua de terras no termo da vila de Nossa Senhora dos Remédios de Parati, como acima se
+declara.
+Para Vossa Excelência ver.
+Registrada no Livro das Sesmarias e Provedoria que serve nesta Secretaria do governo a folha
+175. Rio de Janeiro, 29 de [janeiro] de 1737.
+//José Ferreira da Fonte//
+O desembargador João Soares Tavares, cavaleiro professo na Ordem de Cristo, do
+desembargo de Sua Majestade, que Deus guarde, seu ouvidor geral nesta cidade do Rio de
+Janeiro e nas mais capitanias de sua repartição, juiz das justificações, etc. Aos que a presente
+certidão de justificação virem, faço a saber que a mim me constou por fé do escrivão do meu
+cargo, que está subscreveu, ser a letra, digo, ser acima da carta de sesmaria junta, digo, ser o
+sinal posto no fim da carta de sesmaria retro do governador e capitão-general desta capitania,
+Gomes Freire de Andrade, nela contido. O que hei por justificado. Rio de Janeiro, 22 de
+173[7] anos. //Eu, Domingos Rodrigues Tavora, escrevião, o subscrevi.//
+//Desembargador João Soares Tavares//
+Registre-se nos Livros da Fazenda Real. Rio, 28 de setembro de 1737. //Melo//
+Registrada (ilegível) que serve de registro nesta Provedoria (ilegível). [Cidade do] Rio de
+Janeiro, 30 de setembro de 1737.
+//Antônio de Faria [e Melo]//
+-Fim da Transcrição-
+Observações:
+Nome original do sesmeiro: Joseph Pacheco Borges.
+Foi identificado Guraûna como sendo o porto de Guarauna, daí alteração da sua ortografia.
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+José Pacheco Borges uma légua de terras, em quadra, no termo da vila de Nossa Senhora dos
+Remédios de Paraty. Rio de Janeiro, 29 de janeiro de 1737.
+
+Referência:
+AHU_ACL_CU_017-1, Cx. 45\Doc. 10697.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

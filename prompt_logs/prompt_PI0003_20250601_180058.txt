@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0003
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0041",
+  "Nome": "Antônio de Araújo , Manuel Lopes Vieira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "14-01-1705",
+  "Data da concessão": "15-01-1705",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e duas léguas de largura para cada um no sertão do Parnaguá, desde a a serra vermelha pelo rio Gonegueyá, partindo pelo lado sul aos campos de São Pedro, na povoação de Baltazar Carvalho da Cunha, e das cabeceiras do rio até o Parnaíba e povoações do Pragohy, nas fronteiras das terras de Francisco Barroso e Manuel Dias Filgueira. ",
+  "Localidade": "Rio Parnaíba ",
+  "Marcos Geográficos": "Rio Gonegueyá, Rio Parnaíba",
+  "Confrontantes": "Francisco Barroso, Manuel Dias Filgueira, Baltazar Carvalho da Cunha",
+  "Justificativas": "Alegou que já pagava o dízimo havia um tempo; Pretendia criar gado; As terras eram devolutas; Era descobridor(a) das terras com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes alegaram que já pagavam o dízimo da capitania de Pernambuco há quatro anos. ",
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que as terras não fossem concedidas de forma salteada, mas somente contínua e de acordo com as Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Observações das exigências": "O governador Francisco de Castro Moraes ordenou que os suplicantes pagassem o foro de 4 mil réis por légua requerida. O governador Francisco de Castro Moraes ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Francisco de Castro Moraes ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-PI0003"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0003
+Carta de concessão de  Pedro Fernandes Barros de 18/10/1761
+Carta de data de sesmaria passada a Pedro Fernandes Barros.
+João Pereira Caldas, alcaide mor, comendador de São Mamede de Troviscoso na Ordem
+de Cristo, coronel de cavalaria e governador da capitania do Piauí etc. Faço saber aos
+que esta minha carta de data de sesmaria virem, que Pedro Fernandes Barros, morador
+no distrito desta vila, me representou que nos meios das fazendas Arraial, Gameleira,
+Alegre, e da Chapada Grande, tinha povoado com seus gados uma sorte de terras que se
+achavam devolutas e que seriam três léguas de comprido, principiando o seu rumo da
+Chapada Grande e continuando para a Fazenda da Gameleira, e de largo uma légua que
+corre da fazenda do Arraial para a do Alegre. E porque não tinha título das ditas terras e
+a pretendia haver por carta de data de sesmaria, me pedia lhe mandasse passar. Ao que
+atendendo à informação dos oficiais da câmara e do desembargador provedor da
+Fazenda Real, que foram ouvidos, e se lhe não ofereceu dúvida alguma, e ser em
+utilidade da mesma Real Fazenda cultivarem as terras neste Estado. Hei por bem
+conceder-lhe, em nome de Sua Majestade, por data e sesmaria as ditas três léguas de
+terra de comprido e uma de largo, correndo o comprimento de nascente a poente e a
+largura de norte a sul, na forma e parte que pede com as confrontações que declara e
+com as condições expressadas nas reais ordens, e com a de não fazer trespasse por meio
+algum, em nenhum tempo, a pessoa alguma, religião ou comunidade, sem que primeiro
+dê parte na Casa da Fazenda ao provedor dela, para se me fazer presente e ver se se
+deve ou não consentir no tal trespasse, sob pena de ficar nula esta data e se poder
+novamente conceder a outrem. E nesta forma se lhe passa carta, para que o dito Pedro
+Fernandes Barros haja, logre, e possua as sobreditas terras, como coisa sua própria para
+ele e seus herdeiros, ascendentes e descendentes, sem pensão, nem tributo algum mais
+que o dízimo a Deus Nosso Senhor dos frutos que nelas derem e lavrar, o qual
+concessão lhe faço não prejudicando a terceiros nem a Sua Majestade se no dito sítio
+quiser mandar fundar alguma vila reservando os paus reais que nelas houver para
+embarcações, com declaração que mandará confirmar esta data por Sua Majestade
+dentro de três anos primeiros seguintes e cultivará as ditas terras de maneira que deem
+frutos e dará caminhos públicos e particulares aonde forem necessárias para pontes,
+fontes, portos, pedreiras, e havendo nas mesmas terras estrada pública, que atravesse rio
+caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas
+do tal rio a terra que baste para uso público, mas sim também de uma delas meia légua
+de terra em quadra para comodidade pública, e de quem arrendar a dita passagem e se
+demarcará ao tempo da posse por rumo de corda e braças craveiras como é estilo e Sua
+Majestade manda. E outrossim, não poderão suceder nelas religiões, nem outras pessoas
+eclesiásticas por nenhum titulo que seja, e acontecendo possuí-las, será com o encargo
+de pagarem delas dízimos a Deus como se fossem possuídas por seculares, e faltando a
+qualquer destas cláusulas se haverão as ditas terras por devolutas e se darão a quem as
+denunciar como o mesmo Senhor ordena. Pelo que mando ao provedor da Fazenda
+Real, mais ministros e pessoas a que tocar, que na forma referida e com as condições
+expressadas, deixem ter e possuir as sobreditas terras, ao dito Pedro Fernandes Barros,
+como coisa sua própria para si e seus herdeiros, ascendentes e descendentes e que assim
+também, cumpram e guardem esta minha carta de data e sesmaria, tão inteiramente
+como nela se contém, a qual lhe mandei passar por mim assinada e selada com a sinete
+de minhas Armas, que se registrará nas partes aonde tocar e se passou por duas vias.
+
+Dada nesta vila da Mocha aos 18 dias do mês de outubro do ano do nascimento do
+nosso Senhor Jesus Cristo de 1761. Eu, Joaquim Antunes, secretário do governo desta
+capitania a fiz // João Pereira Caldas // lugar do selo // Carta de data de sesmaria porque
+Vossa Senhoria há por bem conceder em nome de Sua Majestade a Pedro Fernandes
+Barros, três léguas de terra de comprido e uma de largo, nos meios das fazendas do
+Arraial, Gameleira, Alegre e da Chapada Grande da Freguesia desta vila com as
+confrontações que na mesma carta se declaram. Para Vossa Senhoria ver.
+- Fim da transcrição -
+Observação:
+O nome do suplicante no documento original consta como Pedro Frz Barros.
+Referência:
+APEPI, Livro 1, fls. 3 – 3v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

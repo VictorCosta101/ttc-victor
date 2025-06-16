@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0299
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Clara Fernandes , Francisco Fernandes, Vasco Fernandes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "24-07-1542",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no Jaguaribe, na fronteira das terras das feitiçarias dos índios, no rio Ayama. As terras tinham por fronteira o rio Ayama acima até a casa velha, que foi de Cristovão Índio, e outra casa velha, que foi do índio Aberana. Daí a direita nos cajueiros até o sudeste no outeiro de Miarubi Poema. E a sudoeste até o rio Merueira. ",
+  "Localidade": "Jaguaribe",
+  "Marcos Geográficos": "Rio Merueira, Rio Ayama, Outeiro de Miarubi Poema",
+  "Confrontantes": "Cristóvão Índio, Aberana",
+  "Observações da petição": "O donatário de Pernambuco, Duarte Coelho, determinou que as terras deveriam ser repartidas de forma igual entre os filhos, no total de um 1/4 da terra concedida para se evitar disputas fraternais. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0299"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0299 
+ 
+Concessão de Vasco Fernandes de 23/08/ 
+ 
+Fazenda de Jaguaribe no Distrito de Iguaraçu 
+ 
+Traslado da data de uma légua de terra em quadra, que fez Duarte Coelho a Vasco Fernandes, 
+para ele e seus filhos, que é a terra em que temos a Fazenda de Jaguaribe 
+ 
+Petição. Senhor juiz de fora. Diz o padre dom abade deste Mosteiro de São Bento de Olinda, 
+em seu nome e dos religiosos dele, e para bem de sua justiça, lhe é necessário o treslado de 
+uma sesmaria da data de terras que está em poder do coronel Francisco Berenguer de Andrade. 
+Pede a vossa mercê mande a qualquer tabelião a quem for apresentada a dita sesmaria, lhe passe 
+o traslado dela, autêntico, em modo que faça fé. Despacho. Como pede, Galheiros. - Duarte 
+Coelho, capitão e governador destas terras da Nova Lusitânia etc. Faço saber a quantos esta 
+minha carta virem, que a mim apraz e hei por bem de doar deste dia para todo o sempre a Vasco 
+Fernandes, cavaleiro da Casa dElRei, Nosso Senhor, e seu feitor e almoxarife nesta dita terra, 
+a terra que tem em Jaguaribe, a qual terra tem uma légua de comprido e outra de largo, convém 
+a saber que desta terra declarada dou ao dito Vasco Fernandes, para ele o quarto dela, o outro 
+quarto dou a Francisco Fernandes, seu filho, e outro quarto dou a Clara Fernandes, todos filhos 
+do dito Vasco Fernandes, a qual terra aí demarcada o dito Vasco Fernandes a repartirá pelos 
+ditos seus filhos, como verdadeiro pai, para que não tenham nenhumas [batalhas] uns com os 
+outros, a qual se demarcar na maneira seguinte, a saber da feitiçaria dos índios, direito onde se 
+mete o rio que se chama Ayamâ; e pelo Ayama acima até acima da casa velha, que foi de 
+Cristovão Índio, e outra casa velha, que foi de um índio que se chama Aberana, onde estão dois 
+cajus muito grandes, e daí vai direto a um outeiro grande que está ao sudoeste, que se chama 
+Miarubi Poema, e dali corre direito a um outeiro que está ao susudoeste e correndo deste dito 
+outeiro ao sueste, e a quarta do sul todas as águas vertentes para a banda do leste, ficam na dita 
+terra e vai correndo para o sueste e a quarta do sul até um rio que se chama Mirueira, onde se 
+acaba a dita légua e dali toma ao nordeste e quarta do norte a entestar nas ditas feitiçarias onde 
+se acaba a diota demarcação, a qual terra assim demarcada como dito é, lhes dou para eles, suas 
+mulheres, todos seus filhos, netos, herdeiros e para todas as pessoas que deles ditos 
+descenderem, da qual terra sobredita se puderem lograr e aproveitar, e todos os que deles 
+descenderem, como de coisa sua própria forra, livre e isenta, a qual terra lhes dou forra, livre e 
+
+isenta, sem nunca em tempo algum, nem seus herdeiros, nem pessoas que houverem deles, 
+pagarem foro, nem tributo algum, e havendo respeito ao dito Vasco Fernandes e seus filhos 
+serem dos primeiros que comigo vieram povoar esta minha vila de Olinda e porque assim me 
+aprouve dar e doar a sobredita terra aos ditos Vasco Fernandes e filhos, pelo modo e maneira  
+que acima vai declarado, lhes mandei dar esta minha carta de doação por mim assinada e selada 
+do meu selo, a qual mando que se registre no Livro do Tombo, e mando que se cumpra e guarde 
+como nela se contém. Bartolomeu Dias, escrivão das sesmarias do Cabo de Santo Agostinho 
+até Santa Cruz, pelo governador, a fez aos 24 dias do mês de julho, ano do nascimento de Nosso 
+Senhor Jesus Cristo , de 1542. Duarte Coelho. A qual carta eu, tabelião, trasladei bem e 
+fielmente, como nele se continha, estava escrita em pergaminho e selada do selo do dito senhor, 
+e nas costas da dita carta estavam um registro que dizia o seguinte: Registrada no Livro dos 
+Registros da Fazenda dElRei, Nosso Senhor, a 12 de setembro, por mim, escrivão, ano de 1550. 
+Afonso Gago. E não se continha mais nem menos da dita carta de sesmaria, que eu, Diogo 
+Cardoso, tabelião público do judicial e notas da cidade de Olinda e seu termo, capitania de 
+Pernambuco, por Sua Majestade, que Deus guarde, aqui fiz trasladar bem e fielmente da própria 
+que me foi apresentada pelo padre frei Jerônimo de São Ivo, procurador do Convento, a quem 
+tornei a entregar e de como a recebo, assinou aqui e está na verdade  sem coisa que dúvida faça, 
+subscrevi e assinei de meus sinais rasos costumados, nesta cidade de Olinda, aos 23 dias do 
+mês de agosto de 1702. Em fé de verdade. Diogo Cardoso. Recebi o próprio. Frei Jerônimo de 
+São Ivo. Não se continha mais em dito documento que eu, Filipe Nery Correa, tabelião do 
+público judicial e notas da vila do Recife, cidade de Olinda e seus termos, capitania de 
+Pernambuco, por Sua Majestade Fidelíssima, que Deus guarde etc. - Fiz trasladar do próprio 
+com o qual e com o ofício abaixo assinado, este conferi e consertei, ao próprio me reporto, que 
+tornei a entregar a quem aqui assinou, subscrevi e  assinei em público e razão de meus sinais 
+seguintes, aos 3 dias do mês de janeiro de 1766. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 149-150. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

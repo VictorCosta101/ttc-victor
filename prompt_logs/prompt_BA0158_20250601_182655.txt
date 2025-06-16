@@ -1,0 +1,258 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0158
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio da Cunha Barbosa, Manuel da Cunha Rego , Miguel da Cunha Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-04-1636",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas em quadra e estava localizada no distrito do Paraguaçu, Bahia, fazendo fronteira, ao norte, com as terras de Francisco Lopes Brandão. ",
+  "Localidade": "Distrito do Paraguaçu",
+  "Confrontantes": "Francisco Lopes Brandão",
+  "Observações da petição": "O sesmeiro Antônio da Cunha Barbosa era possuidor das terras, mas não possuía o título delas e ao ouvir boatos de que outras pessoas estavam pretendendo as terras que ele já ocupava pediu para ele e seus filhos essas terras ao redor das que já possuía.  ",
+  "Justificativas": "Era descobridor(a) das terras com sua fazenda; Pretendia criar gado; Era descobridor(a) das terras com risco de vida; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "Gaspar da Cunha de Abreu era procurador e capitão loco-tenente do donatário Dom Pedro da Costa.",
+  "Observações das exigências": "Determinou-se não vender nem alhear as terras.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0158"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma petição de Antônio da Cunha Barbosa feita ao provedor-mor deste Estado em 
+que pede se lhe registe a carta de Sua Majestade abaixo. 
+ 
+Diz Antônio da Cunha Barbosa que ele tem uma carta de sesmaria, e de seus filhos de que estão 
+de posse dadas pelo Donatário Dom Pedro da Costa Senhor de Paraguaçu: e porquanto a dita 
+carta de sesmarias estava sonegada e perdida se não registou -- Pede a Vossa mercê que mande 
+se registem no Livro dos Registos que pede. E receberá mercê. Registe-se nos Livros da 
+Fazenda Bahia. 9 de agosto de 1657 // Ferreira //. 
+ 
+CARTA DE SESMARIA 
+ 
+Saibam quantos este público instrumento de carta de data de sesmaria virem que no ano do 
+Nascimento, de Nosso Senhor Jesus Cristo de 1633 anos aos 21 dias do mês junho do dito ano 
+nesta cidade do salvador Bahia de Todos os Santos as casas de morada de mim tabelião e 
+escrivão das sesmarias pareceu dito presente Antônio da Cunha  Barbosa residente nos limites 
+de Paraguaçu, termo desta cidade, e por ele me foi dada uma petição por escrito feita em seu 
+nome, e de seus filhos com um despacho nela posto do capitão Gaspar da Cunha de Abreu 
+locotenente e procurador bastante de Dom Pedro da Costa, donatário da capitania, e distrito do, 
+dito Pargauaçu na qual petição se continha dizer o dito suplicante Antônio da Cunha Barbosa 
+que posto que o engenho da invocação de Nossa Senhora do Rosário que pertencia a maior 
+parte a ele, suplicante estão anexas terras que a comprido vão, correndo ao sul para a tijuca que 
+partem de uma parte da banda de Leste com Bernardim Fernandes de Barros ou com quem de 
+direito deram partir e confrontar de que o dito engenho estava em posse muito antiga por si e 
+seus antecessores sem contradição de pessoa alguma. Contudo para maior segurança, e maior 
+cautela as queria haver de sesmaria por cessarem algumas dúvidas, e rumor que ouviria que 
+algumas pessoas as pretendiam pedia para seu filho Miguel da Cunha Barbosa nas cabeceiras 
+que estão da banda de oeste uma légua em quadra que é na Cabeceira na Banda do rio da terra 
+do engenho da banda dos Aimorés que se dividem as terras a oeste com as terras que possui 
+Francisco Lopes Brandão, que ficam da banda do Norte, e seria a dita légua em quadra; por 
+cada banda pedia mais para ele dito Antônio da Cunha Barbosa as terras que começam, no, fim 
+da data antiga no capanema duas léguas ao norte comprido, a para leste uma e duas ,para o 
+sertão para a oeste para pastos de gado, e as mais terras da Tojuca que outrossim o engenho 
+estava de posse tirando, paus reais, e todos os mais que são necessários para a Fábrica do dito 
+Engenho os pedia para seu filho, Manuel da Cunha Rego uma légua de terra em quadra no 
+Sertão, nas cabeceiras das ditas terras para pastos de gados, e com muita razão por dia o dito 
+Capitão dar as ditas terras pois seus antecessores as defenderam com muito gasto de suas 
+Fazendas, e risco de suas pessoas: e tiveram casas feitas em algumas partes o que depois se 
+despossou por razão do gentio pelo que pediam visto o que alegavam lhe desse as ditas terras 
+de sesmaria na forma costumada com todos os pastos, águas, matos que nelas estiverem e 
+receberão mercê – Segundo assim se continha na dita petição dos Suplicantes a qual sendo 
+apresentada ao dito Capitão Loco-tenente e vista por ele nela por por seu despacho que é o 
+seguinte: Dou ao suplicante e as mais pessoas contidas em sua petição as terras que pede a Sua 
+Majestade para a parte do sul e de leste não prejudicando, a terceiro e para a parte do poente as 
+2 léguas que pede com as mais que pede para seus filhos; as quais terras assim lhe dou pelos 
+poderes que tenho, do Senhor Dom Pedro da Costa, donatário das ditas terras e Capitania de 
+Paraguaçu de que se lhe passou carta de sesmaria na forma do Regimento de Sua Majestade, e 
+das obrigações dele. Bahia, 22 de abril de 1636 anos // Gaspar da Cunha de Abreu // Com a 
+qual petição e despacho me foi também dada uma procuração bastante do dito donatário Dom 
+Pedro da Costa feita a dito seu Loco-tenente cujo treslado é o seguinte: saibam quantos este 
+
+instrumento de procuração virem que no anho do Nascimento de Nosso Senhor Jesus Cristo de 
+1632, em o primeiro dia do, mês de maio na cidade de Lisboa junto a Igreja de São Thomé nos 
+aposentos em que ao presente vive Dom Pedro da Costa fidalgo da Casa de Sua Majestade 
+estando ele ali presente logo por ele foi dito a mim tabelião perante as testemunhas ao diante 
+nomeadas que é verdade que ele é filho mais velho de Dom Gonçalo da Costa seu Pai que Deus 
+tem e sucessor de sua Casa e morgado, e como tal ficou sucedendo na sua Capitania de 
+Paraguaçu cita no Estado do Brasil, e como tal disse que por este instrumento de sua procuração, 
+no melhor modo via forma que o direito quer, e outorga fazia, e ordenava, e de feito logo fez e 
+ordenou por seus certos procuradores, e em tudo bastantes a Gaspar da Cunha de Abreu e ao 
+Capitão Simião Delgado, residentes no dito Estado do. Brasil, os amostradores deste 
+instrumento aos quais disse ele outorgante que dava, e de feito deu todo seu livre, e cumprido 
+poder mandado Geral, e especial digo mandado especial e geral quão bastante de direito se 
+requer para que por ele outorgante, e em seu nome, e como ele em pessoa possam os ditos seus 
+procuradores ambos juntos e qualquer deles por si in solidum tomar, e tomem posse da dita 
+Capitania, e pedir e requerer em seus autos instrumentos dela para conservação do seu direito, 
+e justiça fazendo sobre isso as diligencias, e requerimentos necessários, e autos, e instrumentos 
+da tal posse lhe poderão enviar pelas vias que lhe parecer, e assim disse ele, Dom Pedro da 
+Costa, que dá mais poder ao dito Gaspar da Cunha de Abreu para que possa arrecadar, e receber, 
+e haver as suas mãos e poder todos os açúcares, e o mais que pertencer a dita Capitania, e tira-
+lo de quaisquer pessoas a cujo cargo esteja a entrega de tudo estando a contas com quem as 
+dera, e haja de dar, e o que lhe pertencer, e as fornecer e liquidar, e o liquido receber, dando de 
+tudo o que cobrar conhecimentos quitações públicas, ou rasas como, lhe forem pedidas, e 
+assignará por ele outorgante onde for ,necessário. citando, e demandando a quem cumprir, e os 
+ditos seus procuradores e qualquer deles poderão procurar, e requerer todo, o seu direito e 
+justiça em todas suas, causas, e demandas movidas, e por mover de qualquer foro e jurisdição 
+que sejam e que se tratem perante as justiças de quem pertencer o conhecimento delas estando 
+em juízo ou fora dele a todos os termos e autos judiciais, e extrajudiciais e a toda a mais ordem 
+de juízo, fazendo protestos requerimentos pedimentos embargos e desembargos dando, libelos 
+artigos, petições, Informações dar, e assinar, e outros contrariar excepções propor lites contestar 
+intentar suspeições a julgadores e oficiais de justiça, e mais pessoas que lhe forem suspeitos, e 
+por tais os recusar, e de novo se louvar e jurar em sua alma qualquer licito Juramento que de 
+Direito, lhe for dado, e o fazer dar a quem cumprir e neles o deixai se lhe parecer ouvir 
+despachos, sentenças, o dado em seu favor consentir e ,o fazer executar e do contrário apelar, e 
+agravar, c tudo seguir ou renunciar até maior alçada e lançar nos bens dos devedores que ,derem 
+a penhora com licença da justiça não havendo lançarem, pedirem, e requererem lhe sejam 
+arrematados c entregues, e deis tomar posse, e os vender e os preços e custas receberem doado 
+os ditos quitações, e poderão substabelecer cada um conforme os poderes que lhe tocam dado 
+os procuradores que quiserem e revogarem, e ,desta usarem, e em todo o, que dito é e que mais 
+cumprir façam, e dirão os ditos seus procuradores em juízo fora dele tudo o que ele outorgante 
+fizera e dissera se fora presente em pessoa com libera, e geral administração c reserva ele 
+outorgante para sito da nova citação,  e todo o por ele feito prometeu de haver por bem no que 
+dito é para sempre, e os releva segundo o direito sob obrigação de seus bens que obrigou, e em 
+testemunho de verdade assim o outorgou, e mandou fazer este Instrumento nesta nota e dela dar 
+os treslado necessários que pediu, e aceitou, e eu tabelião tudo aceito como pessoa pública 
+estipulante e aceitante testemunhas que foram presentes Manoel Pinto Leal, e Antônio de 
+Almeida, criados dele outorgante, e todos o conhecemos ser o próprio aqui conteúdo que na 
+nota assignou com as testemunhas // Antônio Galeão // Tabellião de Notas por Sua Majestade 
+na Cidade de Lisboa que este instrumento em meu Livro de Notas tomei, e dele o fiz tresladar 
+concertar, e sobrescrevi; e assignei de meu público sinal, e a nota me reporto em todo, e por 
+todo, e a outro treslado que dele passei pagou deste, e nota e outro, e distribuição quinhentos e 
+
+vinte reis. O Doutor Marty Affonso Coelho, do desembargo, de Sua Majestade, desembargador, 
+e Juiz dos Feitos, e Causas das Justificações virem que a mim me constou por fé do Escrivão 
+das ditas Justificações que esta fez ser a letra e sinal público da subscrição do instrumento atrás 
+de Antônio Galeão na dita subscrição conteúdo pelo que hei o dito Instrumento por justificado, 
+e verdadeiro, e que se lhe desse o credito, em juízo, e fora dele que for apresentado» e por me 
+ser pedido o presente o mandei fazer somente por mim assignado em Lisboa aos 2 dias do mês 
+de maio de 1632 anos // Antônio. de Melo // o fez pagou desta 40 réis, e de assinatura pagará 
+40 reis. Marty Afonso Coelho -- E não diz mais a dita Procuração a que me reporto que tornei 
+a entregar ao dito Gaspar da Cunha de Abreu e também aqui lancei o capítulo do Regimento 
+Del-Rei, nosso Senhor que é o seguinte: as terras e águas das ribeiras que estiverem dentro dos 
+termos, e limite da dita cidade que são seis léguas para cada parte que não forem dadas as 
+pessoas que as aproveitem c estiverem vagas, e devolutas para mim por qualquer via modo que 
+seja podereis dar de sesmaria as pessoas que as aproveitarem, e vos las pedirem as quais terras 
+assim dareis livremente sem outro algum foro. nem tributo somente o dízimo a ordem de Nosso 
+Senhor Jesus Cristo com as condições, e obrigações do foral dado as ditas terras, e de minha 
+Ordenação título das Sesmarias com condição que a tal pessoa ou pessoas residam na povoação, 
+da Bahia ou das terras assim que digo, das terras que assim lhe forem dadas ao menos 3 anos, 
+e que dentro no dito tempo a não possam render nem alhear; tais lembrança que não deis a cada 
+pessoa mais terra que aquela que segundo, sua possibilidade virdes me vos parecer que pode 
+aproveitar: e se algumas pessoas a quem forem dadas terras no dito termo as tiverem perdidas 
+por as não aproveitarem, e vo-las tornarem a pedir vós lh'as dareis de novo para as aproveitarem 
+com as condições, e obrigações deste Capitulo o qual se tresladará nas Cartas (*) das sesmarias, 
+e debaixo destas condições disse o dito Gaspar da Cunha de Abreu que em nome do dito 
+donatário, seu constituinte dava como deu aos suplicantes atrás nomeados as terras declaradas 
+em sua petição, assim como nela as pediram costas e pelas mesmas confrontações ditas nas 
+paragens que pediam as quais ditas terras havia muitos tempos tinha ele dado e prometido aos 
+mesmos suplicantes ~porquanto eram já pertencentes as mais delas ao Engenho de que a dita 
+petição trata, e delas tinham títulos e sesmarias que se perderam como tive por informação; as 
+quais por esta carta lhe confirma e de novo lhe dá de sesmaria para ele e seus herdeiros que. 
+após eles vierem com rodas suas entradas saídas, e logradouros, matos, pastos, lenhas, águas, e 
+tudo o que mais, lhe pertencer para que o logrem, e gozem livremente sem foro nem tributo 
+algum mais que somente o dizimo a Deus do que nelas houverem contanto, que ele pelas ditas 
+terras darão caminhos, e serventias ao Conselho ~necessárias para fontes, e pontes, e farão de 
+maneira que dentro de 3 anos primeiros seguintes tenham feito algumas benfeitorias, e dentro 
+de um ano fará registar esta carta nos Livros da Fazenda de Sua Majestade a qual mandou o 
+dito Gaspar da Cunha de Abreu em nome de seu constituinte passar aos Suplicantes para que 
+por dia hajam a posse das ditas terras, real, cível, e natural, e assinou aqui nesta data, e eu 
+Pascoal Teixeira tabelião, e escrivão das sesmaria» que o, escrevi // Gaspar da Cunha de Abreu 
+// O qual Instrumento de Carta de Sesmaria acima, e atrás tresladada eu // Pascoal Teixeira // 
+tabelião público do judicial e notas, e escrivão das sesmarias nesta cidade do Salvador, Bahia 
+de Todos os Santos e seus termos fiz tresladar de meu livro de Sesmarias donde a tomei a que 
+me reporto concertei subscrevi, e assinei de meu público sinal seguinte // Sinal público // 
+ 
+AUTO DE POSSE 
+ 
+Saibam quantos este púbico instrumento de posse virem que no ano do Nascimento de Nosso 
+Senhor Jesus Cristo de 1649 anos aos 5 dias do mês de setembro do dito ano nos limites de 
+Perasui, Freguesia de Santiago no Engenho de Capanema onde eu tabelião ao diante nomeado 
+fui e sendo lá logo por Mandei da Cunha Barbosa me foi apresentada uma Carta de Sesmaria 
+passada a seu pai Antônio Barbosa, digo, a seu Pai Antônio da Cunha Barbosa por Gaspar de 
+
+Abreu Procurador bastante de Dom Pedro da Costa, Senhor das ditas terras. dizendo-me, e 
+requerendo-me que ele era Procurador bastante de seu pai Antônio da Cunha Barbosa como 
+constava desta Procuração bastante que apresentava a qual eu, Tabelião, desse fé ver com todos 
+os poderes necessários requerendo-me que em virtude de sua carta de sesmaria que me 
+apresentava lhe desse posse das Terras nelas contidas e declaradas e logo o dito Manuel da 
+Cunha Barbosa me levou as ditas terras contidas na dita sesmaria dizendo-me que aquelas eram 
+as terras conteúdas nelas que delas lhe desse posse na forma costumada: o que visto por mim 
+seu requerimento perguntando se era aquela a terra de que a sesmaria trata me respondeu que 
+sim, e logo tomei o dito Manuel da Cunha Barbosa pela mão diante as testemunhas ao diante 
+nomeadas e andei passeando com alie pela dita terra perguntando em voz alta e inteligível se 
+havia alguma pessoa que aquela posse contradissesse que se viesse a mim com seus embargos 
+que lhe os lotaria andando assim pelas ditas terras e matos perguntando a mesma pergunta por 
+muitas vezes tomando terra nas mãos, e dando-a nas do dito Manoel da Cunha o qual a botou 
+para cima digo para o ar, e cortando paus, e ramos; verdes das ditas terras, e matos em sinal de 
+que tomava posse das ditas terras e matos fazendo eu as mesmas perguntas se havia alguma 
+pessoa ou pessoas que tal posse contradissesse que se viesse a mim lhe tomaria seus embargos, 
+e por não haver nem sair pessoa que tal posse contradissesse; eu Tabelião lhe dei a dita posse, 
+e lh'a houve por dada tanto quanto em direito devo e posso em razão do meu Oficio sou obrigado 
+posse real, atual, cível, e natural sem contradição de pessoa alguma, e o dito Manoel da Cunha 
+disse que se a aceitava em nome e como, procurador bastante do dito seu Pai Antônio da Cunha 
+Barbosa o qual tomou por suas próprias mãos fazendo todas as cerimonias costumada mansa e 
+pacificamente sem haver quem lh'a contradisse;- sesse sendo a todo presentes por testemunhas 
+o Capitão Francisco Barbosa de Paiva, e João de Souza Dormondo Francisco Moreira, ,e 
+Francisco Roiz que todos assignaram com o, dito Manoel da Cunha Barbosa o qual instrumento 
+de posse eu // Thomé de Aguiar Daltro // tabelião público do judicial e Notas da Cidade do 
+Salvador que a tl posse dei e assignei de meu público sinal seguinte que é // Sinal público // 
+Francisca Barbosa de Paiva // João de Souza Dormond // Francisco Moreira de Aguiar // 
+Francisco Roiz // Manuel da Cunha Barbosa // o, que tudo eu // Gonçalo Pinto de Freitas // aqui 
+fiz registar dos próprios que tornei a parte a que me reporto e como registei e escrevi, e assignei 
+por bem do despacho do provedor-mor da Fazenda que está ao pé da petição, no, principio na 
+Bahia em 11 de agosto de 1657. 
+ 
+- Fim da Transcrição - 
+ 
+Referências: 
+DHBN, vol. 19, Pg. 219 - 229 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

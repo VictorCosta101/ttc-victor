@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0088
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel Alves da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-11-1713",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento, localizada ao longo do rio Vaza-Barris, até se encontrar com o riacho Tábua, em Sergipe.",
+  "Localidade": "Rio Vaza-Barris",
+  "Marcos Geográficos": "Rio Vaza-Barris e riacho Tábua.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era morador(a) da Capitania; Não tinha terras; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se que caso viesse a passar a terra para alguma religião, ela não seria isenta do pagamento do dízimo; Determinou-se que não poderia passar as terras sem autorização régia; determinou-se que deveria confirmar a terra dentro de um ano.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Luiz Lopes Pegado",
+  "Nome do procurador": "Diogo Filipe Pereira",
+  "referencia": "BA0088"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro do alvará porque se concede e dá de sesmaria em nome de Sua Majestade a 
+Manuel Alves da Silva, para ele e seus descendentes, uma légua de terra de largura e 3 de 
+comprimento na parte que a pede e confronta em sua petição nele inserta. Principiando a 
+demarcar-se da estrada real que vai pelo dito rio Vasabarrir acima, não prejudicando a terceiros 
+e com todas as mais cláusulas contidas, digo, que apontam os ministros da fazenda real em suas 
+informações nele referidas e as expressadas na ordenação do reino, título das sesmarias e as 
+mais antigas e modernas nele [individuadas]. 
+ 
+Pedro de Vasconcelos do conselho de guerra, governador, capitão geral do Estado do 
+Brasil. Faço saber aos que este alvará de doação e sesmaria virem, que tendo respeito a se me 
+representar a petição, cujo teor é o seguinte: diz, Manuel Alves da Silva, morador nos campos 
+da cachoeira, homem casado e com filhos, que não tem terras onde lavre e está fazendo em 
+terras arrendadas, e, na capitania de Sergipe d’El Rei, no sertão do Vasa barrir, estão algumas 
+terras devolutas que nunca foram povoadas da parte do sul que começam da estrada real que 
+vai pelo rio Vasabarrir, acima da beira da dita estrada pelo riacho Tábua acima, 3 léguas de 
+terra de comprimento e uma de largura entre a serra do capitão e [cerca preta], ficando o dito 
+riacho Tábua em meio da dita serra, as quais quer ele, suplicante, povoar e aproveitar metendo-
+lhe gados vacuns e cavalares e plantar suas lavouras com suas fábricas e, como é bem 
+conveniente a renda da fazenda real a respeito dos seus dízimos que se aproveitem e lavrem as 
+terras devolutas, portanto, pede a Vossa Excelência lhe faça mercê dar de sesmaria as ditas 
+terras declaradas acima, com as ditas confrontações na forma da ordem de Sua Majestade para 
+o Suplicante às poder povoar e aproveitar e cultivar. E receberá mercê. E visto o que sobre este 
+requerimento respondeu o doutor procurador da fazenda real, o que se deu vista que é o 
+seguinte: não se me oferece dúvida, o que na forma das ordens de Sua Majestade e da lei, 
+estando devolutas as 3 léguas de terra de comprimento e uma de largura confrontadas pelo 
+suplicante, se lhe deem de sesmaria para as aproveitar no termo de 5 anos. Aliás, se lhe poderão 
+tirar, debaixo das mais cláusulas confirmadas e da condição de que se em algum tempo suceder 
+alguma religião, pagará de seus frutos dízimos à fazenda real como se fossem possuídas por 
+leigos, na forma da resolução do mesmo Senhor, salvo sempre o direito de terceiros// Pereira// 
+E o que informou o provedor-mor da mesma fazenda real, que é o que se segue: estando 
+devolutas as terras que o suplicante pede, não tenho dúvida a que se lhe deem de sesmaria na 
+forma das ordens de Sua Majestade e com as mais condições que aponta o desembargador 
+procurador da fazenda, sem prejuízo de terceiros. Vossa Excelência mandará o que for servido. 
+Bahia, 10 de junho de 1713// Luiz Lopes Pegado// Tendo a tudo consideração, hei por bem de 
+conceder e dar de sesmaria em nome de Sua Majestade ao dito Manuel Alves da Silva, para ele 
+e seus descendentes, uma légua de terra de largura e 3 de comprimento na parte que a pede e 
+confronta em sua petição acima declarada, e começando a demarcação da estrada real que vai 
+pelo dito rio Vasabarrir acima, não prejudicando a terceiro e com todas as mais cláusulas que 
+apontam os ministros da fazenda real nele incorporadas e as mais contidas na ordenação do 
+reino, título das sesmarias, as quais terras terá e possuirá com todas as suas águas, campos, 
+matos, testadas, logradouros e mais úteis que nelas se achar, tudo forro livre, isento de foro, 
+tributo ou pensão alguma, salvo o dízimo a Ordem de Cristo que pagará dos frutos que nelas 
+houver e, ainda que em algum tempo passe do mesmo a posse das ditas terras a alguma religião 
+do qual não será isento, antes, o pagará como se fosse possuído por leigos. A aproveitará dentro 
+do termo da lei e antes dele as não poderá passar a outro algum domínio sem as ter aproveitado, 
+nem a poderá fazer sem a expressa ordem de Sua Majestade, pena de se darem, neste caso, logo 
+a outra pessoa. E por elas será obrigado a dar caminhos públicos e particulares para fontes, 
+pontes, portos e pedreiras, com declaração que, havendo nas ditas terras alguma aldeia de 
+
+índios, não ficará Senhor dela e nem das terras que ocuparem os tais índios o dito Manoel Alves 
+da Silva. E será obrigado a mandar confirmar por sua Majestade esta sesmaria dentro de um 
+ano seguinte a data dela, na forma das novas ordens do dito senhor. Pelo que ordeno e mando 
+a todos os ministros e oficiais de justiça a que o conhecimento deste pertencer: que fazendo 
+primeiro o suplicante citar os ereos conferentes das ditas terras, lhe deem e façam dar a posse 
+real, efetiva e atual, demarcando-se logo neste caso, de que enviarão certidão a casa da fazenda 
+real onde se registrará. Para firmeza de que mandei passar o presente sob meu sinal e selo de 
+minhas armas, o qual se registrará nos livros da secretaria do estado, fazenda real dele, nos do 
+escrivão das sesmarias desta cidade e mais a que tocar. E se guardará e cumprirá tão pontual e 
+inteiramente como nele se contém, sem dúvida, embargo, nem contradição alguma// Luiz da 
+Costa Sepúlveda o fiz nesta Cidade de Salvador, Bahia de todos os santos em 3 de novembro 
+de 1713// Gonçalo Ravasco a fiz escrever// Pedro de Vasconcelos. Selo. Registrado no livro 5 
+dos registros da secretaria de Estado do Brasil, a que toca as folhas 132. Bahia, 4 de novembro 
+de 1713// Ravasco// Registre-se nos livros da fazenda real.  Bahia, 2 de dezembro do dito ano// 
+Pgado// Antônio de Souza Corte a registrou em dito dia, mês e ano. 
+ 
+- Fim da Transcrição - 
+ 
+Referencias: 
+AN, Códice 427, vol.2, fls. 273-274 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

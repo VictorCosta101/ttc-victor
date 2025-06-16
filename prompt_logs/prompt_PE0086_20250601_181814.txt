@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0086
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0143",
+  "Nome": "Maria Sancha da Graça das Mercês e do Rosário",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "A suplicante requereu 36 braças de comprimento e 36 braças de fundo na vila do Recife, na rua das Mortas, por detrás das casas de Manuel Ferreira da Costa em direção ao Campo dos Afogados e se estendia do rio Capibaribe até o beco da Igreja de Nossa Senhora do Terço. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Campo dos Afogados, Rua das Mortas, Rio Capibaribe",
+  "Confrontantes": "Igreja de Nossa Senhora do Terço, Manuel Ferreira da Costa",
+  "Justificativas": "Pretendia fazer casa; As terras eram devolutas; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Em razão do documento encontrar-se incompleto, não foi possível determinar todos as informações da concessão e despacho. O governador requereu o parecer da câmara do Recife.",
+  "Observações das exigências": "Em razão do documento encontrar-se incompleto, não foi possível determinar todos as informações da concessão e despacho.",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João Rodrigues Colaço",
+  "referencia": "PE0086"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0086
+Carta de doação de sesmaria de Dona Maria Sancha da Graça das Mercês e do
+Rosário - 20/02/1755
+Sesmaria que se deu em nome de Sua Majestade a Antônio José Vitoriano Borges
+da Fonseca como administrador de sua filha Dona Maria Sancha da Graça das
+Mercês e do Rosário de 362 palmos de terra no bairro de Santo Antônio desta Vila.
+Luiz José Corrêa de Sá, do Conselho de Sua Majestade, governador e capitão-general de
+Pernambuco e mais capitanias anexas e etc. — Faço saber aos que esta carta de doação
+e sesmaria virem, que o sargento-mor Antonio José Vitoriano Borges da Fonseca, como
+administrador de sua filha, dona Maria Sancha da Graça das Mercês e do Rosário, que
+no fim da rua das Mortas, por detrás das casas de Manoel Ferreira da Costa, procurando
+o aterro dos Afogados, se acha uma porção de terras devoluto que pertencem a Sua
+Majestade e não estão ainda aforadas, das quais quer a suplicante aforar 362 palmos de
+frente e de fundo até a baixa-mar do rio, que a Igreja de Nossa Senhora, digo, 62 palmos
+de frente, pegando de fronte do beco que fica para a parede da Igreja de Nossa Senhora
+do Terço da parte do Evangelho até se completarem os 362 palmos de frente e de fundo
+até a baixa-mar do rio que medeia entre o lugar da Boavista e Recife, para o que
+pretende se lhe passe sua carta de sesmaria na forma do estilo, e por que as ditas terras
+necessitam de grande benefício, por lhe ser necessário fazer aterro com muito entulho
+por ser um lamarão em que se não pode fundar edifício, sem esse benefício de que
+necessita 6 anos ao menos, portanto: Pede a Vossa Excelência seja servido mandar-lhe
+passar carta de sesmaria dos ditos 362 palmos de frente no dito lugar, com os 6 anos
+mortos para pagar o foro depois de passado o dito tempo, atendendo ao benefício de que
+necessita — E receberá mercê — Na qual petição mandei por despacho de 12 de
+novembro do ano passado, informar aos oficiais da Câmara desta vila do Recife, os
+quais por despacho em Câmara de 13 do dito mês e ano, mandaram informar o
+procurador do Senado, Joaquim de Almeida Catanho, se sesmando as tais terras
+prejudicava a servidão da República ou ainda a do rio, o dito procurador do Senado
+informou o seguinte — Senhores do Senado — A terra que o suplicante pretende por
+sesmaria, no que respeita aos 362 palmos de frente, não prejudica a terceiro, digo,
+prejudica a servidão da República e nem a do rio, mas antes é útil para que se acabe de
+aperfeiçoar a rua que vem seguida de baixo, com as casas que de novo se edificarem,
+porém, enquanto ao fundo até a baixa mar do rio é prejudicial aos que navegam em
+canoas, porque comumente buscam uma canoa que fica desta parte por da outra que é da
+
+Boavista, ser o canal do rio que no tempo de cheias não se navega por ele, pela muita
+torrente e força d’água, porém, como há grande espaço, bem se lhe pode dar fundo, de
+sorte que fique livre dita camboa para bem dos navegantes, ficando o suplicante com
+200 palmos, pouco mais ou menos —. É isto o que posso informar a vossas mercês que
+mandarão o que for servido — Recife, 4 de novembro de 1754 — João de Almeida
+Pinto, digo Catanho — Procurador do Conselho — Com esta informação, digo, resposta
+do procurador, me informaram os oficiais da Câmara o seguinte: Ilustríssimo e
+Excelentíssimo Senhor — A sesmaria que o suplicante pretende se lhe não deve
+conceder mais que 150 palmos de fundo, por não prejudicar a servidão pública do rio,
+que deve prevalecer a utilidade particular, em tudo o mais que requer se nos não oferece
+dúvida; Vossa Excelência mandará o que for servido — Recife em Câmara, 11 de
+dezembro de 1754 — O juiz presidente — João Rodrigues Colaço = Miguel Ferreira
+Souto — Manoel de Almeida Ferreira — Antonio José Brandão — Joaquim de Almeida
+Catanho - A vista do que por despacho de 12 de dezembro do dito ano de 1754 mandei
+informar ao doutor provedor da Fazenda Real, o qual para satisfazer ouvindo o escrivão
+dela lhe respondeu o seguinte: Senhor doutor provedor da Fazenda Real — A vista das
+informações juntas, parece se deve conceder ao suplicante os palmos de terra que
+pretende por sesmaria, com o fundo que consta da informação do Senado da Câmara,
+pagando o foro que é estilo, sendo primeiro ouvido o doutor procurador da Coroa e
+Fazenda e o capitão Antonio José de Lemos, como se pratica nestas datas; Vossa mercê
+mandará o que for servido — Recife, 20 de fevereiro de 1755. Bernardo Pereira de
+Vasconcelos — Com cuja resposta satisfez o doutor provedor na forma seguinte —:
+Ilustríssimo e Excelentíssimo Senhor — Para se deferir ao requerimento do suplicante
+se deve primeiro proceder na forma que diz o escrivão da Fazenda, ouvindo-se o doutor
+procurador da Fazenda e o capitão-engenheiro Antonio José de Lemos, e medindo-se a
+terra Vossa Excelência mandará o que for servido. — Recife, 20 de fevereiro de 1755
+— João Rodrigues Colaço — A vista desta informação, por despacho do dito dia, mês e
+ano — mandei informar o capitão Antonio José de Lemos e que com o que dissesse
+tornasse ao doutor provedor para informar, ouvindo o procurador da Fazenda, o capitão
+Antonio José de Lemos informou o seguinte: Ilustríssimo e Excelentíssimo Senhor —
+Para poder informar a Vossa Excelência fui ver. Vide original a folha 122 —.
+- Fim da Carta -
+
+Observação: Pelo conteúdo a carta se encontra incompleta, faltando os detalhes do
+parecer final.
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 89 - 91.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

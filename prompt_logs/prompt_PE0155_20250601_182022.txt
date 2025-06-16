@@ -1,0 +1,167 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0155
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0269",
+  "Nome": "Teodoro Ciro de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-02-1823",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na ribeira de Pajeú das Flores. A sesmaria tinha por localização a leste o Paço Verde do Jardim, a oeste a Ingazeira, a norte a fazenda Bom Sucesso e ao sul a fazenda Serra Branca.",
+  "Localidade": "Pajeú das Flores",
+  "Marcos Geográficos": "Paço Verde do Jardim, Ingazeira",
+  "Ribeira": "Pajeú das Flores",
+  "Confrontantes": "Fazenda Bom Sucesso; Fazenda Serra Branca",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da capitania de Pernambuco, composta por: Afonso de Albuquerque Maranhão, presidente, Jose Mariano de Albuquerque Cavalcante, secretario, Francisco Paes Barreto e Manuel Inacio Bezerra de Melo. A junta provisória de governo da capitania de Pernambuco também requereu o despacho da câmara da vila de Flores. ",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de 4 mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do procurador": "Eusébio de Queiroz Coutinho da Silva",
+  "referencia": "PE0155"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0155
+Carta de doação e sesmaria de Teodoro Ciro de Sousa  - 04/02/1823
+Teodoro Ciro de Sousa com uma légua de terra no seu sítio do Riachão das Varas,
+na ribeira de Pajeú de Flores
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco fazemos saber aos que esta carta de data de sesmaria virem, que Teodoro
+Ciro de Sousa enviou a este governo o requerimento do teor seguinte = Ilustríssimos e
+excelentíssimos senhores = Diz Teodoro Ciro de Sousa, que tendo requerido por
+sesmaria a sua fazenda denominada Riachão das Varas, situada na ribeira de Pajaú de
+Flores, por se haverem desencaminhado os papéis, supondo retardo da parte da câmara
+respectiva, requereu ao ex-governador, que exigem da mesma a competente informação,
+e pela resposta deve supor se o descaminho dos ditos papéis; mas como se acha suprida
+a sua falta pelos documentos inclusos, que mostram não ter havido oposição aos editais,
+que a câmara havia mandando afixar, pretende o suplicante que Vossas Excelências lhe
+concedam a sesmaria de uma légua de terra com as confrontações declaradas na
+informação da câmara, que é juntamente o que então pedia, preenchendo se no caso de
+haver hereos confinantes, que para algum dos lados embaracem a medição, daquela
+parte, onde houver terras devolutas, precedendo as outras informações do estilo, e
+pagando o suplicante o foro da lei nestes termos = pede a Vossas Excelências hajam por
+bem conceder-lhe a sesmaria, que requer. E receberá mercê. E sendo por nós visto o seu
+requerimento e examinado o que fizera ao ex-governador Luís do Rego Barreto com o
+seu despacho de 26 de maio de 1820, em que mandava informar a câmara respectiva, a
+informação desta do teor seguinte = Ilustríssimo e excelentíssimo senhor= Em virtude
+do respeitável despacho de Vossa Excelência, proferido no requerimento incluso do
+Teodoro Ciro de Sousa, informamos que o suplicante requereu a Vossa Excelência a
+sesmaria do seu sítio denominado Riachão das Varas, confina para o nascente parte no
+paço verde com o Jardim, para o poente com a Ingazeira, aonde dividem as águas com
+uma e outra fazenda, para o Norte com o Bom Sucesso, para o Sul com a Serra Branca,
+de cujas extremas se não verifica oposição, ou terceiro prejudicando, segundo se
+verifica da desistência do Alferes Gonçalo Francisco da Silva, e nem de pessoa alguma.
+A vista do que Vossa Excelência mandará o que for servido. Vila de flores em vereação
+de 29 de julho de 1820 Agostinho Nogueira de Carvalho = Manuel José do Nascimento
+= José Joaquim de Fontes = Joze Alexandre da Silva e examinada tão bem a desistência
+
+do referido alferes Gonçalo Francisco da Silva que achamos legal, e duas certidões
+autênticas, em uma das quais, passada pelo escrivão da câmara em virtude do despacho
+do juiz ordinário presidente da mesma, se mostra ter o suplicante pedido de sesmaria as
+terras em questão, terem se afixado os editais pelos 30 dias da lei, não lhes terem saído
+impedimentos alguns, e disto mesmo ter o senado dado parte por escrito ao
+ex-governador Luís do Rego Barreto; e outra certificando terem sido com efeito
+remetidas os ditos papeis ao referido ex-governador, donde se prova o descaminho, uma
+vez que não aparecerem na secretaria deste governo, nem o suplicante os tem, e
+julgando tudo isto coerente, e conforme, mandamos por despacho de 28 de janeiro do
+presente ano ouvir o desembargador provedor da coroa e fazenda nacional cuja resposta
+é nos termos seguintes = Ilustríssimos e excelentíssimos senhores = A certidão do
+escrivão da câmara da vila de Flores supre a falta dos editais, que o suplicante não
+ajuntou ao seu requerimento, por se terem extraviado, e como da mesma certidão, e da
+informação daquela câmara consta não haver terceiro oponente a pretendida sesmaria,
+persuade se que está o suplicante nos termos de obter; mas Vossas Excelências
+mandarão o que for servido. Recife 3 de fevereiro de 1823 = Deus guarde a vossas
+excelências = Ilustríssimos e excelentíssimos senhores. Presidente e membros da junta
+provisória do governo desta província = O desembargador procurador da Coroa, e
+fazenda nacional desta província Eusébio de Queiroz Coutinho da Silva. E a vista disto
+mandamos informar o escrivão deputado da junta da fazenda publica por despacho de 3
+do corrente, que do mesmo modo se não opôs, e em consequência lhe mandamos, passar
+a presente carta por despacho de 4 do corrente. Portanto pela faculdade, que nos é
+concedida no capitulo 15 do regimento deste governo, havemos por bem dar em nome
+de Sua Majestade ilustre ao dito Teodoro Ciro de Sousa uma légua de terra no seu sítio
+do Riachão das Varas, confinando pelo nascente com o poço verde e jardim, pelo poente
+com Ingazeira, servindo-lhe de divisão as águas, pelo Norte com o bom sucesso, e pelo
+sul com a serra Branca, ate se inteirar a medição na forma requerida, pagando o foro
+anual de 4000 reis em observância da real ordem de 28 de setembro de 1700, de que
+prestou fiança na contadoria da junta da fazenda publica a folhas 67 do livro 7º delas: a
+qual sesmaria possuirá e gozará ele suplicante, e seus herdeiros ascendentes, como sua
+que fica sendo de hoje para todo sempre, com todas as matas, campos, rios, águas,
+testadas, logradouros, e mais úteis, que nelas se compreenderem, não prejudicando a
+terceiro; e não passará a religiões, e pessoas eclesiásticas, salvo sendo com os mesmos
+encargos, com que as possuem os seculares, e nunca se devidirá em porções, nem se
+
+repartirá, senão por estimação, andando encabeçada em uma só pessoa, na forma da
+ordenação do livro 4º titulo 96§23, e assim não passará a herdeiros, ou quaisquer outras
+pessoas sem consentimento da junta da fazenda publica para nela se darem novas
+fianças, e as fazerem as dividas escriturações; e ficando livre para a serventia dos povos
+todas as estradas, rios, fontes, e pedreiras, e reservadas ao patrimônio publico as
+madeiras de construção, pau brasil, e viveiros de quais quer metais: e será obrigado a
+requerer dentro de 3 anos confirmação, medição, e demarcação, a povoá-la e cultivá-la
+na forma da Ordem Régia de 20 de outubro de 1753, e alvará de 25 de janeiro de 1809,
+e não o cumprindo assim se haverão por devolutas, e novamente se conferirão a quem
+as requerer. Pelo que ordenamos aos ministros da fazenda e justiça, e mais pessoas, a
+quem tocar, cumpram, e façam cumprir e guardar esta carta de data de sesmaria, como
+nela se contem, fazendo dar ao suplicante posse real, efetiva, e atual na forma da
+ordenação, titulo das sesmarias. Em firmeza do referido lhe mandamos passar a presente
+por nos assinada, e selada com o sinete nacional, a qual se restará na secretaria deste
+governo, na da junta da fazenda publica, e aonde mais tocar. Manuel do Passos e
+Figueiredo, oficial maior da secretaria a fez em o Recife de Pernambuco aos 15 de
+fevereiro de 1823. E eu José Mariano de Albuquerque Cavalcante secretario a fiz
+escrever. Estava o sinete das armas nacionais = Afonso de Albuquerque Maranhão,
+presidente = José Mariano de Albuquerque Cavalcante = Francisco Pais Barreto =
+Francisco de Paula Gomes dos Santos = carta de data de sesmaria, pela qual vossas
+excelências hão por bem conceder a Teodoro Ciro de Sousa uma légua de terra no seu
+sitio do Riachão das Varas na ribeira de Pajaú de Flores em nome de Sua Majestade
+ilustre, como nela se declara = Para Vossa Excelências verem = Por despacho do
+governo de 4 de fevereiro de 1823.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 218-220.
+Observação:
+O nome do suplicante consta como Theodoro Cyro de Souza, o que foi modificado para
+Teodoro Ciro de Sousa, seguindo a padronização proposta para a plataforma SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

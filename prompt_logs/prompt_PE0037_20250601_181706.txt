@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0037
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0080",
+  "Nome": "Antônio Garro da Câmara",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "04-08-1721",
+  "Data da concessão": "21-08-1721",
+  "Observações da sesmaria": "O suplicante requereu 72 palmos de comprimento e largura, medida equivalente a 7 braças de comprimento e largura, no rio Capibaribe. As terras requeridas possuíam por limite ao sul as terras dos herdeiros de Gonçalo Gomes, ao norte com o quartel dos milites da Praça do Recife e a oeste com o rio Capibaribe. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Confrontantes": "Quartel militar do Recife, herdeiros de Gonçalo Gomes",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse o foro régio e seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Dom Francisco de Sousa ordenou que o suplicante pagasse o foro de 6 mil réis por légua requerida. O governador Dom Francisco de Sousa  ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Francisco de Sousa  ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0037"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0037 
+ 
+Carta de doação e sesmaria de Antônio Gorro da Câmara - 21/08/1721 
+ 
+CARTA DE SESMARIA QUE SE PASSOU AO CAPITÃO ANTÔNIO GORRO DA 
+CÂMARA DE UNS CHÃOS DE SETENTA E DOIS PALMOS SEGUIDAS PARA A PARTE 
+DO RIO CAPIBARIBE, AOS QUARTÉIS DOS SOLDADOS DESTA PRAÇA DO RECIFE. 
+ 
+Dom Francisco de Souza, do Conselho de Sua Majestade, que Deus guarde, e etc. Faço saber aos 
+que esta carta de doação de sesmaria virem que o capitão Antônio Gorro da Câmara me representou 
+a petição cujo teor é o seguinte: Senhor governador - Diz o capitão Antônio Gorro da Câmara que 
+ele, suplicante, serve a Sua Majestade, que Deus guarde, a cinquenta e cinco anos, com praça de 
+soldado raso, cabo de esquadra, sargento [...] alferes, ajudante, e atualmente, capitão de infantaria 
+em uma das Companhias das da guarnição do terço desta Vila, que ele suplicante, por informação 
+certa que tem, como sem dúvida é estar devoluto e desaproveitado um monturo que com o tempo 
+cresceu místico aos quartéis dos soldados dos siscos que varrião e se botavam no lamarão, e légoa 
+mar do rio, que pela parte do sul parte com terras dos herdeiros de Gonçalo Gomes e pela parte do 
+Norte com terras dos quartéis d'ElRei - Nosso Senhor, e pela parte de leste com terras do dito 
+senhor e mesmos quartéis, e pela parte do oeste com o rio Capibaribe, cujas terras serão setenta e 
+dois palmos, e por estarem desaproveitadas, sem dono algum por ser monturo crescido com o tempo 
+que verosimilmente é realengo, quer o suplicante pedir a Vossa Senhoria em remuneração dos seus 
+serviços lhe mande passar carta de data e sesmaria da dita terra em nome de Sua Majestade, pois 
+está assim desaproveitada a terra que o suplicante pede para ele e sua filha, ascendentes e 
+descendentes, como é estillo. E receberá mercê. = Informe o provedor da Fazenda Real, ouvindo ao 
+procurador da Coroa e Fazenda. Vila do Recife, 4 de agosto de 1721 = Rubrica = Haja vista ao 
+doutor procurador da Coroa e Fazenda – "Barros". O supplicante é merecedor do que pede, pelo 
+muito que tem servido a Sua Majestade, não tenho dúvida, salvo o prejuízo de terceiro. Recife, 6 de 
+agosto de 1721 "Pereira". – Senhor mestre de campo, governador. Ordenou-me Vossa Senhoria, 
+ouvindo ao doutor procurador da Coroa e Fazenda Real, informe sobre este requerimento, ao que 
+responde que não tem dávida salvo o prejuízo de terceiro, é o que se me oferece representar a Vossa 
+Senhoria, é o que observando-se as ordens de Sua Majestade, que Deus guarde, que se acham na 
+Secretaria deste Governo, e salvo o prejuízo que aponta o dito doutor procurador da Fazenda, não se 
+me oferece dúvida ao requerimento do suplicante; Vossa Senhoria mandará o que lhe parecer mais 
+conveniente ao serviço de Sua Majestade Real. Recife, 8 de agosto de 1721 = "João do Rêgo 
+Barros". - E havendo, outrossim, respeito ao que Sua Majestade me concede no capítulo 15 do 
+regimento e a tudo o mais que o dito senhor determina em suas reais ordens, neste particular; hei 
+por bem fazer-lhe mercê dar ao suplicante acima nomeado, como pela presente dou de sesmaria, em 
+nome de Sua Majestade nos mesmos lugares, partes e testadas que confrontam em sua petição a 
+
+sobredita terra em quantidade de setenta e dois palmos seguidos dos ditos quartéis, como nela se 
+declara e pede na mesma forma que parece ao provedor da Fazenda Real e ao procurador da Coroa, 
+com a condição de pagar de foro das ditas terras quatro mil réis por légua na forma do assento que 
+se tomou sobre este particular e de pagar o dízimo a ordem de Cristo, segundo as disposições reais, 
+o qual povoará a dita terra dentro de cinco anos; aliás se darão por devolutas e as possuirá e gozará 
+o suplicante e seus herdeiros, não prejudicando a terceiro com todas as suas matas, águas, campos, 
+testadas, logradouros e mais úteis que nelas se acharem, com mais a condição que será obrigado a 
+dar pela dita terra caminhos livres ao Conselho para fontes, pontes ou pedreiras, e requerer a 
+confirmação desta data pelo dito senhor no termo de dois anos. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias a quem o conhecimento desta carta pertencer, lhe 
+façam dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas da 
+Ordenação título de sesmarias, que por firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a que se registrará nos livros da Secretaria deste 
+Governo e nos mais a que tocar, da Fazenda e Foral Real, e sem esta precisa circunstância não terá 
+vigor, nem validade a presente carta de sesmaria. Dada nesta Vila do Recife de Pernambuco, aos 21 
+de agosto = Bento Soares Pereira a fez, ano de 1721 = O secretário Thomé de Matos Girão a fez 
+escrever = Dom Francisco de Souza. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 256 - 258. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

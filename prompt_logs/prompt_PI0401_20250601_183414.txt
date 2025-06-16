@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0401
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Júlio",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "21-07-1747",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no Lugar das Mutucas",
+  "Ribeira": "Parnaíba",
+  "Confrontantes": "Fazenda São Bartolomeu, Caiçaras, Matos de Santa Cruz, São João",
+  "Justificativas": "Pretendia lavrar; As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; Pretendia apascentar gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria; dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0401"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0401
+Carta de Concessão a Antônio Júlio - 21/07/1747
+Agnello Neves do Espírito Santo, chefe do arquivo público do Pará, anexo a biblioteca e
+arquivo público do estado, por nomeação efetiva, etc.
+Certifico de ordem do senhor doutor diretor da biblioteca e arquivo público do estado, anexo a
+biblioteca e arquivo público do Pará, a requerimento verbal do senhor subprocurador geral do
+estado do Piauí, doutor Bernardo Borges Pires Leal, que revendo o livro número 13 de
+registro de carta de data e sesmaria, arquivado nesta repartição, encontrei a folhas 37 verso o
+registro da carta de data e sesmaria concedida a Antônio Júlio em 21 de julho de 1747, o qual
+o teor é o seguinte:
+Carta de data e sesmaria a Antônio Júlio, etc.
+Francisco Pedro Gorjão de Sua Majestade, digo, conselho de Sua Majestade, governador e
+capitão general do estado do Maranhão, etc. Faço saber aos que esta minha carta de data e
+sesmaria virem que Antonio Julio me representou, por sua petição, que ele tinha gados vacuns
+e cavalares, e que não tinha terras próprias em que os apascentar e fazer suas lavouras, e
+porque nas vertentes do rio Parnaíba, nas testadas das terras de Antonio de Sousa, donde
+chamam [São] Bartolomeu, se acham terras devolutas entre matas no [lugar] das Mutucas. Me
+pedia 3 léguas de terra fazendo pião acima das Caiçaras, que foram de Francisco Ribeiro
+Guimarães uma léguas correndo do seu [sic] comprimento ao Nascente, testando com os
+matos de Santa Cruz de Manoel de Sousa Aranha e São João para o Norte, testando com as
+matas e para ao Sul com a lagoa. Ao que atendendo e à informação que me deu o senado da
+câmara, provedor da Fazenda Real e ser em utilidade da mesma fazenda o cultivarem-se as
+terras neste estado. Hei por bem conceder-lhe em nome de Sua Majestade 3 léguas de terra de
+comprido e uma de largo no lugar das Mutucas, com as confrontações acima referidas na
+forma a que pede, com as condições expressadas nas Reais Ordens, e com a de não fazer
+trespasse por meio algum, em nenhum tempo, a pessoa alguma, religião ou comunidade, sem
+primeiro dar parte na Casa da Fazenda ao provedor mor dela para se me fazer presente e ver
+se se deve ou não consentir no tal trespasse, sob pena de ficar nula esta data e se poder
+conceder novamente a outrem. E nesta forma se lhe passa carta para que o dito Antonio Julio
+haja, logre e possua as ditas como coisa sua própria para [ele] e todos os seus herdeiros,
+ascendentes e descendentes. Sem pensão, nem tributo algum mais que o dízimo a Deus Nosso
+Senhor dos frutos que nelas houver e lavrar. A qual concessão lhe faço não prejudicando a
+terceiro nem a Sua majestade. Se no dito sítio quiser mandar fundar alguma vila, reservando
+os paus reais que nelas houver para embarcações, com declaração que mandará confirmar esta
+por Sua Majestade dentro nos 3 anos primeiros e cultivará as ditas terras de maneira que deem
+frutos, e dará caminhos públicos e particulares aonde forem necessários para pontes, fontes,
+portos e pedreiras, e se demarcará ao tempo da posse por rumo de corda e braças craveiras,
+como é estilo e Sua Majestade manda. E outrossim, não poderão suceder nelas religiões nem
+outras pessoas eclesiásticas por nenhum título que seja, e acontecendo de possuí-las será com
+o encargo de pagar dela dízimos a Deus, como se fossem possuídas por seculares. E faltando a
+qualquer destas cláusulas se haverão as ditas terras por devolutas e se darão a quem as
+denunciar, como o dito Senhor ordena. Pelo que mando ao provedor, digo, provedor mor da
+Fazenda Real, mais ministros e pessoas a que tocar, que na forma referida deixem ter e
+possuir as ditas terras ao dito Antonio Julio como coisa sua própria para ele e todos os seus
+herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha carta de data e
+sesmaria tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas, que se registrará nos livros da secretaria do estado e nos
+
+da Fazenda Real. Dada na cidade de São Luís do Maranhão aos 21 de julho, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1747. João Batista Gomes, secretário do Estado
+a fiz. Francisco Pedro Gorjão. Carta de data e sesmaria porque vossa excelência [há] por bem
+conceder em nome de Sua Majestade a Antonio Julio 3 léguas de terra de comprido e uma de
+largo no lugar da Mutucas e vertentes do rio Parnaíba, nas testadas das terras de Antonio de
+Sousa, donde chamam São Bartolomeu, fazendo pião acima das caiçaras que foram de
+Francisco Ribeiro Guimarães, uma légua correndo seu comprimento ao Nascente, testando
+com os matos de Santa Cruz de Manoel de Sousa Aranha e São João e para o Norte testando
+com as matas, e para o Sul com a lagoa, como nela se declara. Para vossa excelência ver.
+Nada mais se continha no referido registro que bem e fielmente aqui transcrevo. Eu, Olivio
+França o escrevi, digo Olivio França, colaborador a escrevi. E eu, Agnello Neves do Espírito
+Santo, chefe do arquivo público do estado a fiz escrever, certifico e assino. Belém, 19 de
+agosto de 1929 //Agnello Neves do Espírito Santo // E/E por mim. 19/08/1929 // Visto:
+Martinho Pinto //
+- Fim da Transcrição -
+Referência:
+APEP, Livro 13, doc. 15. Fls. 37v - 39
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

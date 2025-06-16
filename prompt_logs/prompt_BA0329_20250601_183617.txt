@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0329
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Luís da Costa Sepúlveda, Manuel Rodrigues de Sousa ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-03-1699",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas de comprimento e duas de largura e estava localizada entre os rios Itapicuru e Vaza-Barris, fazendo fronteira com as terras do padre Pedro Garcia de Araújo, ficando cada um dos solicitantes com 1 légua de comprimento e 1 légua de largura. Essa sesmaria foi retirada, orginalmente, da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria, no entanto, a carta completa foi encontrada no códice 427 do Arquivo Nacional, o que possibilitou o preenchimento completo dessa sesmaria.",
+  "Localidade": "Entre os rios Itapicuru e Vaza-Barris",
+  "Marcos Geográficos": "Rio Itapicuru; rio Vaza-barris, rio Jacuípe.",
+  "Confrontantes": "Pedro Garcia de Araújo",
+  "Observações da petição": "Os sesmeiro solicitaram 3 léguas de comprimento e 1 légua de largura.",
+  "Justificativas": "Participou das guerras contra o gentio; Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes alegaram que a sesmaria contribuiria para o aumento da Fazenda Real.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa e Fazenda afirmou que duvidava muito que ainda houvesse terras livres naquela região, mas caso houvesse, era favorável à doação. O provedor da Fazenda Real também foi de parecer favorável, desde que algumas exigências fossem cumpridas. Tais exigências serão preenchidas no respectivo campo. Os suplicantes solicitaram 3 léguas de comprimento e até uma légua de largura, mas o governador apenas concedeu uma légua de comprimento e de largura para cada um deles. ",
+  "Observações das exigências": "Determinou-se que o suplicante não poderia alhear-se das terras antes de as ter aproveitado; Citou o capítulo 26 do regimento do Governo-Geral; \r\n",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Alvará",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Ramineri",
+  "referencia": "BA0329"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 0329 
+Carta de concessão a Manuel Rodrigues de Sousa e Luís da Costa de Sepúlveda de 
+05/03/1699 
+Dom João de Lencastre, do Conselho de Sua Majestade, que Deus guarde. Faço saber aos 
+que esta alvará de doação e sesmaria virem que Manuel Rodrigues de Sousa e Manuel da 
+Costa Sepúlveda, digo, Luís da Costa Sepúlveda, me enviaram a apresentar a petição, 
+cujo teor é o seguinte: senhor, dizem Manuel Rodrigues de Sousa e Luís da Costa 
+Sepúlveda, moradores nesta cidade, que a sua notícia chegou haver desde o rio Vaza-
+Barris até entestar com as terras do padre Pedro Garcia de Araújo, meia légua de terra de 
+comprimento, pouco mais ou menos, e correndo pelo Itapicuru no rumo de outra parte até 
+entestar com terras do dito padre, haver meia légua ao norte, correndo pelo rio Jacuípe, 
+pelo Vaza-Barris acima 3 léguas de comprimento, as quais terras ali presentes não foram 
+dadas de sesmaria a pessoa alguma, e porque os suplicantes as querem aproveitar com 
+lavouras e criações, do que constará aumento a Fazenda de Sua Majestade. Pede a Vossa 
+Senhoria lhes faça mercê conceder de sesmaria a cada um, para eles e seus descendentes, 
+em nome de Sua Majestade, que Deus guarde, meia légua de terra de largura e três de 
+comprimento, se tantas houverem devolutas, para cada um, e que não havendo as ditas 
+léguas de largura e comprimento, se reparta entre ambos dos suplicantes em igual parte 
+em cada um dos ditos lugares a terra que se achar devoluta, sem que exceda a data que a 
+cada um tocar a quantia de 1 légua de largura e três de comprimento, e se lhes passem 
+separadamente na forma do estilo. E receberá mercê. E visto o parecer do doutor 
+procurador da Coroa e Fazenda Real, que é a que se segue: duvido muito em que nesta 
+parte esteja ainda tanta terra para se dar de sesmaria, mas como se concede sem prejuízo 
+de terceiro e ficando os suplicantes obrigados a cultivá-las, aproveitá-las e povoá-las 
+dentro do termo da lei, aliás as que faltam se possam dar logo sem ser necessário julgarem 
+ser por devolutas, não me oferece dúvida ao surgimento dos suplicantes pela estilidade 
+que se segue, de se povoarem e aproveitarem as terras, assim respeito dos dízimos que 
+delas se pagam, como do bem público, sem haver mais imantimentos. Bahia, 15 de janeiro 
+de 1699. Ramineri. E a informação do provedor-mor da Fazenda Real do mesmo Estado, 
+que é a que se segue: senhor, conformo-me com o que parece ao doutor procurador da 
+Fazenda Real, e acrescento que me parece que se deve cada um dos suplicantes tirar carta 
+como uma para ambos, a que deve levar esta data condição de não poderem cortar paus 
+que forem de serventia para a fábrica das naus que Sua Majestade, que Deus o guarde, foi 
+servido mandar estabelecer neste Estado para seu serviço sob pena de perderem a data 
+com todas as benfeitorias que nelas tenham e as mais que parecer justiça. Vossa Senhoria 
+mandará o que mais convier. Bahia, 17 de fevereiro de 1699. Francisco Lamberto. Hei 
+por bem conceder e dar em nome de Sua Majestade, que Deus guarde, a cada um dos 
+suplicantes, para eles e seus descendentes as terras que pedem e confrontam em sua 
+petição neste inserta, as quais repartirão entre si uniformemente, ambos em cada uma das 
+partes que se forem na mesma petição, sem que exceda o número de 1 légua de largura e 
+uma de comprimento para cada um deles, quando haja terra para isso, começando sempre 
+o dito Luís da Costa Sepúlveda a demarcar-se em cada uma das partes de onde acabar o 
+padre Manuel Rodrigues de Sousa, como parece aos ministros da Fazenda Real, não 
+prejudicando a terceiro, com as cláusulas que o provedor-mor da Fazenda Real aponta na 
+sua informação, a qual terra se aproveitará dentro do termo da lei, e as não poderá alhear 
+nem passará a outro algum domínio sem as ter aproveitado, com condição de se darem 
+logo neste caso a outra pessoa, nem o poderá fazer sem expressa ordem de Sua Majestade 
+e com as mais cláusulas contidas na Ordenação do Reino, título de sesmarias e forma do 
+capítulo 26 do regimento novo deste Governo-Geral, as quais terras terá e possuirá com 
+
+todas as suas águas, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo 
+foro livre e isento de pensão, salvo o dízimo à Ordem de Cristo, que pagará pelos frutos 
+que delas houver, e por elas serão obrigados a dar caminhos públicos e particulares para 
+fontes, pontes, portos e pedreiras, com declaração que se havendo nas ditas terras alguma 
+aldeia de índios, não fique o dito Manuel Rodrigues de Sousa senhor dela e nem das terras 
+que ocuparem os índios na forma das novas ordens de Sua Majestade. Pelo que ordeno a 
+todos os ministros e oficiais de justiça a que o conhecimento deva ou possa pertencer, lhe 
+façam dar e deem posse real, efetiva e atual, demarcando-se no tempo dela, citados os 
+heréus, que enviarão certidão à Casa dos Contos, de onde se registrará. Para a firmeza do 
+que lhe mandei lavrar a presente sob o sinal e selo de minhas armas, o qual se registrará 
+nos livros da Secretaria do Estado, e nos mais a que tocar da Fazenda Real dele e nos do 
+escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente como nele se 
+contém, sem dúvida, embargo nem contradição alguma. Dada nesta cidade de Salvador. 
+Antônio Lopes Savedra a fiz. Bahia de Todos os Santos, aos 5 dias do mês de março, ano 
+de 1699. Gonçalo Ravasco Cavalcante e Albuquerque a fiz escrever. Dom  João de 
+Lencastre. Selo. Alvará de doação e sesmaria pelo qual serviu de Vossa Senhoria 
+Ilustríssima conceder e dar em nome de Sua Majestade, que Deus o guarde, Manuel 
+Rodrigues de Sousa, para ele e igualmente nas mesmas condições a Luís da Costa 
+Sepúlveda e seus descendentes as terras  que pedem e confrontam em sua petição neste 
+inserta, não excedendo, porém, cada um deles, o número de uma légua de largura e três 
+de comprimento, não prejudicando a terceiro e com as cláusulas que o provedor-mor da 
+Fazenda aponta na sua informação, nem às aldeias e terras dos índios que nelas se 
+acharem nas condições apontadas, e se demarcar e confirmar esta por Sua Majestade 
+dentro de um ano, pelos respeitos acima declarados. Para Vossa Ilustríssima ver. 
+Registrado no livro 5° dos registros da Secretaria do Estado do Brasil, que tocava a folha 
+129. Bahia, 9 de março de 1699. Lamberto. Registrado no dia 17 do dito mês e ano. 
+- Fim de Transcrição- 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Manoel Roiz de 
+Souza” e “Luiz da Costa Sepulveda”. 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 2, fls. 129 – 130v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

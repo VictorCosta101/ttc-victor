@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0007
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Baldos Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Comprada",
+  "Data da petição": "07-05-1672",
+  "Data da concessão": "11-05-1672",
+  "Observações da sesmaria": "O suplicante requereu para si 400 braças de largura e 3000 braças de comprimento ao longo do rio Traripe e do rio Tapimiri, servindo de estrada Real que vai para São Pedro. Fazia confrontação com as terras de André Martins de Azevedo e as de Miguel Pereira da Costa.",
+  "Localidade": "Rio Traripe",
+  "Marcos Geográficos": "Rio Traripe e rio Tapimiri",
+  "Confrontantes": "André Martins de Azevedo e Miguel Pereira da Costa",
+  "Justificativas": "Alegou possuir engenhos; Alegou já cultivar cana; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter comprado a terra de João de Aguiar Vilas Boas e Sebastião Cardoso, que por sua vez a possuíam por título de herança de Simão de Almeida, primeiro possuidor da terra que a recebeu em 1612. Por esses motivos, o suplicante requeria o reconhecimento da concessão da terra. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouveia",
+  "referencia": "BA0007"
+}
+
+            **Conteúdo Original** (extrato):
+            BA
+Alvará de doação de Antônio Baldos de 10/05/1672
+Registro de uma sesmaria de 400 braças de terra que cederam ao sargento-mor Antônio
+Baldos Barbosa.
+Afonso Furtado de Castro de Rio de Mendonça. Faço saber a que este alvará de doação e
+sesmaria virem que o sargento-mor Antônio Baldos Barbosa me enviou a apresentar a petição
+cujo o teor é o seguinte: Senhor, diz o sargento-mor Antônio Baldos Barbosa que ele comprou
+a João de Aguiar Vilas Boas e a Sebastião Cardoso um pedaço de terra de 400 braças de
+largura, ou o que achar, com uma légua de comprimento a qual a terra houveram os ditos
+vendedores por título de herança de Simão de Almeida, primeiro possuidor da dita terra, por
+título de sesmaria dada no ano de 1612. Sempre estiveram de posse da dita terra e tivera ele,
+suplicante, na qual tem plantado fazendas de cana que moi nos engenhos, confronta a dita
+terra partindo do Rio Tararipe (Traripe), caminho do Norte com seu comprimento até o Rio
+Tapimiri, por um lado parte com André Martins de Azevedo e, por outro lado, com Miguel
+Pereira da Costa, servindo da estrada Real que vai para São Pedro, divisão por esta parte e
+porque ele, suplicante, a quer de novamente de sesmaria sem embargo dos títulos que tem.
+Pede a Vossa Senhoria que visto o que há alega e faça mercê conceder as ditas 400 braças de
+terra ou o que for de sesmaria sem prejudicar a terceiro para que em nome se Sua Alteza a
+goze mais segura. E Receberá mercê. Visto o parecer do procurador da coroa e Fazenda e
+informação do provedor-mor dela que a que se segue nenhuma dúvida tenho a que o
+suplicante, se lhes conceda a sesmaria que quer renovar na forma de lem títulos como pede.
+Bahia, 7 de maio de 1672 // Rocha // Senhor, dei vistas ao procurador da Fazenda como Vossa
+Senhoria ordena, não tem dúvida, nem eu tenho, a que se conceda ao suplicante a sesmaria de
+que diz possuir por outros títulos na forma das ordenações e foral sem prejuízo de terceiro.
+Vossa senhoria mandará o que for servido. Bahia, 10 de maio de 1672 // Antônio Lopes Ulhôa
+// Hei por bem de lhe conceder, como pelo presente faço em nome de Sua Alteza, as 400
+braças de terra na forma que pede e confronta em sua petição como aparece ao procurador da
+Fazenda e provedor-mor dela, não prejudicando a terceiro com todas as suas águas, campos,
+matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de
+pensão ou tributo algum, salve o dízimo a Deus que pagará dos frutos que delas houver, e por
+ela será obrigado a dar caminhos livres ao conselho para pontes, fontes e pedreiras. Pelo que
+ordeno e mando todos os ministros e justiças o conhecimento deste com direito deva, ou possa
+pertencer, lhe mandem dar a posse real, efetiva e atual na forma costumada debaixo das
+cláusulas acima deferidas e as mais da ordenação título das sesmarias para firmeza do que lhe
+mandei passar a presente sob meu sinal e selo se minhas armas o qual se registrará nos livros
+da secretaria do Estado e nos mais o que tocar, e se guardará e cumprirá tão pontual e
+inteiramente como nela se contém sem dúvida, embargo nem contradição alguma. // Antônio
+Garcia // a fez nesta cidade do Salvador, Bahia de Todos os Santos aos 11 dias do mês de
+maio, ano de 1672 // Bernardo Vieira Ravasco // o fez escrever e // Afonso Furtado de Castro
+do Rio de Mendonça // Registrado no 1º livro de registros da secretaria do Estado do Brasil, a
+que toca a folhas 140 verso. Bahia, 11 de maio de 1672. // Ravasco // Despacho do
+provedor-mor. Registre nos livros da Fazenda. Bahia em 22 de setembro de 1672 // Ulhôa //
+no mesmo dia se registrou, pelo escrivão da Fazenda estar doente, fiz registrar esta carta de
+sesmaria da própria que tomei ao dito sargento-mor por mandado ao provedor-mor na Bahia
+aos 23 dias do mês de setembro de 1672 // João Antunes Moreira //.
+
+- Fim da Transcrição -
+Observações:
+- O nome do suplicante no documento original consta como: “Antônio Baldos Barbosa”.
+Referências:
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol.1, fls. 9v – 10v.
+Numeração original no livro: 08
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

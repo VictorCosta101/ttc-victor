@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0031
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Pereira Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "31-01-1786",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio de São Tiago",
+  "Marcos Geográficos": "Distrito da Vila de Campo Maior",
+  "Confrontantes": "Fazenda do Riachão; Fazenda de São Mamede; Fazenda de Cajazeiras; Fazenda do [Matão]",
+  "Justificativas": "Era descobridor(a) das terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia povoar, além de pretender obter a terra por meio de carta de data de sesmaria.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. Ademais, no final da própria carta de concessão consta que: \"Registrada as folhas 71 verso do livro primeiro que nesta secretaria serve do registro da sesmarias Oeiras do Piauí 13 de outubro de 1786. Diogo Vicente Costa secretário. Cumpra-se e registre-se de Oeiras do Piau em 09 de outubro de 1786// Pereira//. E não se continha mais coisa alguma e na dita carta de data e sesmaria da que ao que conteúdo escrito e declarado do que cujo escrivão abaixo assinado bem fielmente fiz registrar do próprio a que me reporto com a qual infere e consertei fiz exercer, subscrevi e assinei nesta cidade de Oeiras do Piauí aos 13 dias do mês outubro de 1786 anos. Eu Diogo Vicente Costa, escrivão que o subscrevi conferido e comentado por mim escrivão Diogo Vicente Costa\".\r\n",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a qualquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. E havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0031"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0031
+Carta de concessão de Francisco Pereira Pinto de 31/01/1786
+Registro de uma carta de data e sesmaria dada a Francisco Pereira Pinto
+Doutor José Pereira da Silva Manuel desembargador de Sua Majestade fidelíssima que
+Deus guarde, ouvidor geral Manoel Pinheiro Ozório, sargento mor da cavalaria, auxiliar
+Agostinho de Souza Monteiro governadores interinos desta capitania de São José do
+Piauí e que pelo dito senhor etc.
+Fazemos saber aos que esta nossa carta de data e
+sesmaria virem que Francisco Pereira Pinto, morador no distrito da vila de Campo
+Maior, nos representou que lhe descobrira um sítio de terras no distrito da dita vila no
+qual ele pôs o nome sítio de São Tiago, no qual o está o dito suplicante principiando
+povoar por que dele não tinha título pretendia haver na forma das ordens de Sua
+Majestade por carta de data e sesmaria. Nos pedia lhe mandássemos passar com três
+léguas de comprido e uma de largo, principiando o seu comprimento do nascente ao
+poente com três léguas de comprido fazendo extremos ao dito comprimento na nascente
+com a fazenda do Riachão e no poente com a fazenda de São Mamede, e com uma légua
+de largo do norte ao sul principiando o dito largo da fazenda de Cajazeiras a fazenda do
+[Matão]. Ao que a atendendo tão bem a informação dos oficiais da câmara e do doutor
+provedor Real Fazenda que foi concedido se não ofereceu dúvida alguma
+ser em
+utilidade da mesma Real Fazenda cultivarem-se as terras neste Estado. Havemos por
+bem conceder em nome de Sua Majestade por data e sesmaria as ditas três léguas de
+terra de comprido e uma de largo na forma e parte que pede com as confrontações em
+que declaram, e com as condições expressadas nas Reais Ordens; e com a de não fazer
+trespasse por meio algum, em nenhum tempo a pessoa alguma, religião ou comunidade
+sem que primeiro de parte da casa da Fazenda ao doutor provedor dela para se me fazer
+presente e ver se se deve ou não consentir no tal trespasse sob pena de ficar nula esta
+data e se poder novamente conceder a outro. E nesta forma se lhe passa carta para que o
+dito Francisco Pereira Pinto haja logre e possua as sobreditas terras como coisa sua
+própria para ele e seus herdeiros, ascendentes e descendentes sem pensão nem tributo
+algum, mas que o dízimo a Deus, nosso senhor dos frutos que nela tiver e lavrar a qual
+concessão lhe fazemos não prejudicando a terceiro e nem Sua Majestade se no dito sitio
+quiser fundar ou mandar alguma vila reservando os paus reais nelas houver para
+embarcações. Com declaração que mandará confirmar esta data por Sua Majestade
+dentro dos três anos primeiros seguintes e cultivará as ditas terras de maneira que deem
+frutos e dará caminhos públicos e particulares onde forem necessários para pontes,
+fontes, portos e pedreiras; e havendo nas mesmas terras estradas públicas que
+atravessem rio caudaloso que necessitem barco para atravessar, não só ficaram de ambas
+as bandas do tal rio a terra que baste para uso público, mas sim também de uma delas
+meia légua de terra em quadra para comodidade pública e quem arrendar a dita
+passagem e se decavara, digo e demarcará ao tempo da posse por rumo de corda e
+braças craveiras como é estilo e Sua Majestade manda. E outrossim, não poderão
+suceder nelas religiões nem outras quaisquer pessoas eclesiásticas por nenhum título
+que seja, e acontecendo possuí-las será com encargo de pagarem delas dízimo a Deus
+como se fossem possuídas por seculares. E faltando a quaisquer destas cláusulas se
+haverão as ditas terras por devolutas e se darão as ditas terras a quem as denunciar,
+
+como o mesmo senhor ordena. Pelo que mandamos ao doutor provedor da Fazenda
+Real, mais ministros e pessoas a que tocar que na forma referida e com as condições
+expressadas, deixemos ter e possuir as sobreditas terras ao dito Francisco Pereira Pinto,
+como coisa sua própria para si e seus herdeiros, ascendentes e descendentes, e que
+assim, também, cumpram e guardem esta nossa carta de data e sesmaria tão
+inteiramente como nela se contém; a qual lhe mandamos passar e vai assinada por nos
+selada com o sinete das armas reais que se registrará nas partes aonde tocar e se passou
+por duas vias. Dada e passada nesta cidade de Oeiras do Piauí aos 31 de janeiro do ano
+donascimento de nosso senhor Jesus Cristo de 1786. E eu Diogo Vicente Costa,
+secretário do governo desta capitania a fiz
+escrever estava sinete das armas reais //
+Doutor José Pereira da Silva Manoel// Manoel Pinheiro Ozório //
+Agostinho de Souza
+Monteiro //Carta de data e sesmaria porque vossas senhorias vão por bem conceder em
+nome de Sua Majestade a Francisco Pereira Pinto três léguas de comprido e uma de
+largo no sítio chamado São Tiago distrito de Campo Maior, digo no distrito da vila de
+Santo Antônio de Campo Maior, com as confrontações que na mesma carta se declara.
+Para Vossa Senhoria ver.
+- Fim da carta -
+Observações:
+Está acrescentado no final da carta :
+Registrada as folhas 71 verso do livro primeiro que nesta secretaria serve do registro da
+sesmarias Oeiras do Piauí 13 de outubro de 1786. Diogo Vicente Costa secretário.
+Cumpra-se e registre-se de Oeiras do Piauí em 09 de outubro de 1786// Pereira//. E não
+se continha mais coisa alguma e na dita carta de data e sesmaria da que ao que conteúdo
+escrito e declarado do que cujo escrivão abaixo assinado bem fielmente fiz registrar do
+próprio a que me reporto com a qual infere e consertei fiz exercer, subscrevi e assinei
+nesta cidade de Oeiras do Piauí aos 13 dias do mês outubro de 1786 anos. Eu Diogo
+Vicente Costa, escrivão que o subscrevi conferido e comentado por mim escrivão Diogo
+Vicente Costa.
+Referências:
+APEPI, Livro 1, fls.71v- 72v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0252
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Lopes Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-05-1725",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras na Lagoa Grande de Guapiaçu",
+  "Confrontantes": "Terras dos herdeiros de Francisco Madeira de Sousa e dos herdeiros de André Laires",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0252"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0252
+Carta de concessão de José Lopes Pereira de 2 de maio de 1725
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão-general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição José Lopes Pereira, morador no distrito da vila de Santo Antônio da Sá, que no
+mesmo termo se acham umas 75 braças de terras de testada com 1.000 de sertão, entre as dos
+herdeiros do defunto Francisco Madeira de Sousa e as dos herdeiros do defunto André Laires,
+onde chamam a Lagoa Grande de Guapiaçu, cujas 75 braças de terras estavam devolutas há
+mais de cinco anos e sem legítimo possuidor, pedindo-me lhe mandasse dar por sesmaria as
+ditas 75 braças de terras com 1.000 de sertão ou o que na verdade houvesse entre as dos
+herdeiros dos defuntos nomeados. E dando-se vista deste requerimento ao provedor da
+Fazenda Real e ao procurador da Coroa, aos quais não ofereceu dúvida. Hei por bem fazer
+mercê ao dito José Lopes Pereira de lhe dar por sesmaria, em nome de Sua Majestade, que
+Deus guarde, as referidas terras; sem prejuízo do mesmo ou do direito que algumas pessoas
+possam ter a elas; com declaração que as cultivará e mandará confirmar esta minha carta por
+Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais
+tempo. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento desta
+pertencer, dê posse ao dito José Lopes Pereira das referidas terras na forma e maneira acima
+declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com
+o sinete de minhas armas, que se cumprirá inteiramente como nela se contém e se registrará
+nos Livros da Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de São
+Sebastião do Rio de Janeiro. João Moreira da Silva, a fez aos 2 dias do mês de maio de 1725.
+O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a José Lopes Pereira de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, 75 braças de terras de testada com
+1.000 de sertão que se acham devolutas no termo da vila de Santo Antônio de Sá, na forma e
+maneira acima declarada.
+Para Vossa Excelência ver.
+
+Registrada no Livro das Sesmarias e Patentes que serve nesta Secretaria do governo a folha
+24. Rio, 3 de maio de 1725. //José Ferreira da Fonte//
+- Fim da Transcrição -
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro cancelou e deu de sesmaria a
+José Lopes Pereira 75 braças de terras de testada e mil de sertão, com as confrontações na
+mesma carta descritas. Rio de Janeiro, 2 de maio de 1725.
+Essa carta de concessão de sesmaria contém um auto de posse.
+Nome original do sesmeiro: Joseph Lopes Pereira.
+Referência:
+AHU_ACL_CU_017-1, Cx. 25\Doc. 5667.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0189
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio de Sousa Matos, Antônio Soares Cardoso, Miguel Barbosa, Salvador de Brito",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "29-11-1723",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Ao que consta, provavelmente, trata-se de terras contínuas, pois os confrontantes coincidem com as terras já pertencentes aos suplicantes, em que pese, aparentemente, haver duas mercês na mesma carta",
+  "Localidade": "Terras devolutas na paragem chamada Itinga",
+  "Ribeira": "Rio Guapiaçu",
+  "Confrontantes": "Detrás das datas pertencentes a Antônio Soares Cardoso, aos religiosos do Carmo e a outros heréus, assim como confronta rio acima com o final da data de Catarina Soares, onde começa as datas de Salvador de Brito e de Antônio de Sousa Matos.",
+  "Justificativas": "As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações do deferimento e da concessão": "A carta passou, ao que parece, pela Câmara, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0189"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0189
+Carta de concessão de Antônio Soares Cardoso, Miguel Barbosa, Salvador de Brito e Antônio
+de Sousa Matos de 29 de novembro de 1723
+Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de Sua
+Majestade, que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro,
+São Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide mor
+da dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que
+Deus guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representarem-me por
+sua petição Antônio Soares Cardoso, Miguel Barbosa, Salvador de Brito e Antônio de Sousa
+Matos, moradores na vila de Santo Antônio, que eles tem notícias que no Rio Guapiaçu há
+umas terras devolutas na paragem chamada Itinga, as quais ficam por detrás das datas que
+possuem o dito Antônio Soares Cardoso, os religiosos de Nossa Senhora do Carmo e outros
+hereos, indo pelo dito rio acima à mão esquerda começando onde acaba a data de Catarina
+Soares e fazendo testada pelo fim do sertão com as que possui o dito Antônio Soares Cardoso
+e mais hereos até a serra, ficando o dito Antônio Soares e Miguel Barbosa com 2.500 braças
+de testada e uma légua de sertão no princípio começando da dita Catarina Soares para cima, e
+junto a eles onde acabarem começando as de Salvador de Brito e Antônio de Sousa Matos
+com 2 léguas testada e uma de sertão. As quais terras se achavam devolutas e as queriam
+aproveitar por terem escravos com o que a fazer, pedindo-me lhe fizesse mercê dar por
+sesmaria as ditas terras acima confrontadas, com todas as suas serventias, correndo o rumo
+delas pelos mesmos ventos e rumos que correm os mais hereos que fazem testada pelo dito
+Rio de Guapiaçu onde tem seus matos. Dando-se vista deste requerimento ao provedor da
+Fazenda Real e ao procurador da Coroa, não se lhes oferecendo duvida. Hei por bem fazer
+mercê, em nome de Sua Majestade, que Deus guarde, de dar por sesmaria ao ditos Antônio
+Soares Cardoso e Miguel Barbosa as 2.500 braças de testadas e légua de sertão não excedendo
+uma légua em quadra, e Antônio de Sousa Matos e Salvador de Brito às 2 léguas de testada,
+não excedendo cada um uma légua em quadra, na forma das ordens do mesmo Senhor e sem
+prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas, com declarações
+também que as cultivarão e mandarão confirmar esta minha carta por Sua Majestade, que
+Deus guarde, dentro de 2 anos, e não os fazendo se lhe denegará mais tempo. Pelo que mando
+ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse das ditas
+terras aos ditos Antônio Soares Cardoso, Miguel Barbosa, Salvador de Brito e Antônio de
+Sousa Matos na forma acima declarada e confrontada. E por firmeza de tudo lhe mandei
+
+passar a presente por mim assinada e selada com o sinete de minhas armas que se cumprirá
+inteiramente como nela se contém e se registrará nos Livros de (ilegível) do Governo e nas
+mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, a 29 dias do mês de
+novembro de 1723. João Paes de Paredes a fez. O secretário José Ferreira da Fonte a fez
+escrever. //Aires de Saldanha de Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a Antônio Soares Cardoso, Miguel
+Barbosa, Salvador de Brito e Antônio de Sousa Matos de lhes dar por sesmaria, em nome de
+Sua Majestade, que Deus guarde, as referidas terras na forma acima declarada e confrontada.
+Para Vossa Majestade ver.
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Antonio Soares Cardoso e outros, umas terras na paragem da Itinga, com as confrontações na
+mesma indicada. Rio de Janeiro, 29 de novembro de 1723.
+No DOCs a palavra hereo aparece como um erro ortográfico, contudo, localizei no Dicionário
+Bluteau o seguinte significado: “HEREO , f.m. na Ord.Manuel L.1 .T.49. § 30. parece
+fignificar o Senhor, ou proprietário, do latim herus. § O que paga ao Emphyteuta os redditos
+da parte do chão, ou campo, que tomou à sua conta para beneficiar.”
+Esta carta de concessão está disponível no AHU anexada à Petição n° 4795.
+Nomes originais: Antonio Soares Cardoso, Miguel Barbosa, Salvador de Britto e Antonio de
+Sousa Mattos.
+Referência:
+AHU_ACL_CU_017-01, Cx. 21, D. 4796.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

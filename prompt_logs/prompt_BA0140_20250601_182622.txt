@@ -1,0 +1,77 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0140
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Gentil, Catarina Álvares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "03-06-1574",
+  "Observações da sesmaria": "A sesmaria possuía 3 mil braças de comprimento e 2 mil de largura e estava localizada na barra do rio Jaguaripe, Bahia, fazendo fronteira com as terras de Antônio de Paiva (BA0136). Essa sesmaria é um fragmento retirado do livro de Felisbello Freire, História territorial do Brasil, por isso não contém todas as informações de uma carta de doação completa.",
+  "Localidade": "Barra do rio Jaguaripe",
+  "Marcos Geográficos": "Rio Jaguaripe",
+  "Confrontantes": "Antônio de Paiva",
+  "Justificativas": "Pretendia criar gado; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelo procurador do donatário, P. Carneiro.\r\n",
+  "Observações das exigências": "Determinou-se que a criação de gado fosse iniciada em até seis meses.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0140"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Antônio Gentil e Catarina Alves. Carta de 3 de junho de 1574. 5 mil braças na Vila Velha, 
+terras de Dom Alvaro 2 mil braças de terra ao longo do mar e 3 mil para o sertão, começando 
+a medir-se de onde finda a terra de Antônio de Paiva contra a barra do Jaguaripe para pastos 
+de gados dentro de 6 meses. Dada por P. Carneiro. 
+Referências: 
+FREIRE, Felisbello. História territorial do Brasil. Salvador: Secretaria da Cultura e Turismo, 
+Instituto Geográfico e Histórico da Bahia, 1998, p. 18.  
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0116
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0171",
+  "Nome": "Bernardo Raimundo de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "09-05-1781",
+  "Data da concessão": "15-06-1781",
+  "Observações da sesmaria": "O suplicante requereu 4 braças de largura na vila do Recife. A sesmaria requerida localizava-se no bairro do Recife, na rua do Tanoeiro, na fronteira com o cais. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rua do Tanoeiro",
+  "Observações da petição": "O suplicante não especificou o comprimento ou a quantidade de braças requerida. ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante queria levantar um trapiche para atender as necessidades portuárias e o escoamento dos produtos para a Europa.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 2 mil réis por légua concedida. O governador José César de Meneses determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0116"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0116 
+Carta de doação e sesmaria de Bernardo Raimundo de Souza – 15/06/1781 
+Bernardo Raimundo de Souza com quarenta palmos de terra na baixa mar do cais, 
+fronteira as casas do suplicante. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e 
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que 
+esta carta de data de sesmaria virem, que Bernardo Raimundo de Souza me fez um 
+requerimento do teor e forma seguinte: = Ilustríssimo e Excelentíssimo Senhor = Diz o 
+capitão-mor Bernardo Raymundo de Souza, que no bairro do Recife se fizeram três 
+trapiches para carga e descarga dos navios, barcos e canoas, e mais efeitos de mar e terra, e 
+foram feitos por diversos sujeitos e um deles foreiro a Câmara de Olinda, e passados 
+muitos anos, o mestre de campo João de Oliveira Gouvim fabricou outro no fundo das 
+casas da sua moradia, junto aos mesmos, porém com o decurso do tempo se acham dois 
+sem servenda para a mencionada descarga, tais são o do dito Gouvim e o do Arsenal, e só 
+um dá encosto aos barcos para descarregarem, por cuja causa há muita demora na descarga 
+dos mesmos barcos, e para se pradear esta se valem das lanchas e perdem por isso as marés 
+e luas, em ocasião que concorrem outros e descarga dos navios, e como é utilidade pública 
+que hajam semelhantes servidões, por não haver presentemente mais que o trapiche 
+chamado da Alfândega e o denominado do meio, que quase todo o tempo está com a carga 
+para a Europa; e como no tempo em que haviam menos efeitos haviam três trapiches, 
+agora com o aumento das safras de necessidade se precisa de mais trapiches, por cuja 
+causa presente o suplicante que dando Vossa Excelência licença na baixa mar da testada do 
+caes das casas do Suplicante sitas na rua do Tanoeiro desta Vila, que deita o fundo para o 
+cais referido, mandam-lhe Vossa Excelência passar carta de sesmaria de quarenta palmos 
+de largo e os que precisar no fundo, pois o lugar dá boa e útil servidão aos barcos em todas 
+as marés, sem prejuízo algum de terceiro, por cuja sesmaria pagará o foro do costume — 
+Pede a Vossa Excelência lhe faça mercê mandar passar sua carta de sesmaria, atendendo o 
+bem comum e de nenhum prejuízo de terceiro = E receberá mercê = E sendo por mim visto 
+o seu requerimento, ordenei por despacho meu de 9 de maio do presente ano, ao ajudante 
+da artilharia e ao patrão-mor do porto, me informassem se a obra que o suplicante 
+
+pretendia fazer era prejudicial a fortificação da rampa, fronteira as casas do suplicante e a 
+barra desta Vila, e constando-me por informações que estes deram não haver prejuízo 
+algum; por outro meu despacho, com data de 12 de maio do referido ano, mandei ouvir ao 
+escrivão e mais oficiais da Contadoria da Real Fazenda, e assim mais informar o doutor 
+procurador da Coroa e Fazenda, e como todos uniformemente me responderam estar nos 
+termos de se dar ao suplicante por sesmaria a terra pedida e confrontada em seu 
+requerimento, pagando anualmente o foro de vinte mil réis por ano a razão de quinhentos 
+réis por palmo, em atenção a despesa que Sua Majestade fez no cais ou muralha, e de 
+demolir a sua custa a obra todas as vezes que houver necessidade da dita muralha, sem que 
+a Real Fazenda lhe pague coisa alguma. = Ultimamente, mandei por despacho de 26 do 
+mesmo mês e ano, se passasse sesmaria ao suplicante na forma da resposta do doutor 
+procurador da Coroa e Fazenda, escrivão e mais oficiais da Real Contadoria, em 
+cumprimento do qual e pela faculdade que Sua Majestade Fidelíssima me permite no 
+Capítulo 15 do Regimento deste Governo. Hei por bem dar em nome da dita senhora ao 
+dito Bernardo Raimundo de Souza de sesmaria na baixa mar, na testada do cais das casas 
+do suplicante situadas na rua dos Tanoeiros, desta Vila, que deitam fundos para o mesmo 
+cais quarenta palmos de largo, os que precisar de fundo, para erigir um trapiche, pagando 
+vinte mil réis de foro anual a razão de quinhentos réis o palmo, em atenção a despesa que 
+Sua Majestade fez no dito cais ou muralha, a qual terra possuirá e gozará ele suplicante e 
+seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo o 
+sempre, com todos os seus pertences e mais úteis que ela compreender, não prejudicando a 
+terceiro, e não passará a religiões a mesma e pessoas eclesiásticas salvo sendo em os 
+mesmos encargos com que as possuem os seculares, sendo obrigado a dar passagem livre e 
+desembaraçada a rua que medea entre as referidas casas e dito cais ou muralha, e requerer 
+dentro de três anos confirmação, medição e demarcação na conformidade da Ordem Régia 
+de 20 de outubro de 1753, e não o cumprindo assim se dar por devoluta e novamente ser 
+conferida a quem a requerer. Pelo que ordeno aos ministros da Fazenda e Justiça e mais 
+pessoas a quem tocar, cumpram e façam cumprir esta carta de data de sesmaria como nela 
+se contém, fazendo dar ao suplicante posse real e atual, na forma costumada, debaixo das 
+cláusulas referidas e das mais da Ordenação título de sesmarias, visto constar por bilhete 
+que apresentou, achar-se dada a fiança na Contadoria da Real Fazenda, do foro anual de 
+
+vinte mil réis, a folha 31 verso do livro 2º delas, e ter assinado o termo de demolir a folha 
+31 do dito livro, em firmeza do que lhe mandei passar a presente por mim assinada e 
+selada com o sinete das minhas armas, que se registrará na Secretaria deste Governo e 
+Contadoria da Real Fazenda — Manoel Barbosa da Silva Garcia, oficial maior da 
+Secretaria do Governo, a fez em o Recife de Pernambuco, aos 15 dias do mês de junho. 
+Ano do Nascimento de Nosso Senhor Jesus Cristo de 1781 = O secretário do Governo, 
+Manoel de Carvalho Paes de Andrade, a fez escrever = José Cesar de Menezes.  
+- Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. 
+p. 254 - 256. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

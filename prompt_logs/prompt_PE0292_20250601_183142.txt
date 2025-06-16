@@ -1,0 +1,193 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0292
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro de São Bento de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "22-06-1656",
+  "Observações da sesmaria": "O mosteiro recebeu a doação de duas casas devolutas, construída pelos holandeses, em Recife. As casas haviam sido ocupadas anteriormente por Antônio de Albuquerque e Francisco Ribeiro e possuíam 90 palmos de comprimento e 60 palmos de largura. ",
+  "Localidade": "Recife",
+  "Marcos Geográficos": "Recife",
+  "Observações da petição": "O suplicante requereu a sesmaria em palmos. ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0292"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0292 
+ 
+Concessão do Mosteiro de São Bento de Olinda de 22/06/1656 
+ 
+Doação que nos fez o mestre de campo, general Francisco Barreto, dos armazéns do Recife, 
+em que temos as moradas de casas que fizemos na rua dos Tanoeiros, por uma missa cotidiana 
+pelos soldados mortos nas guerras dos holandeses e juntamente ato de posse dos tais armazéns 
+ 
+Francisco Barreto, governador destas capitanias de Pernambuco e mestre de campo general de 
+todo o Estado do Brasil, por Sua Majestade. Faço saber aos que este alvará de data [...], ao 
+Convento do Patriarca São Bento, desta capitania de Pernambuco, [...] em que por quanto Deus, 
+Nosso Senhor, foi servido que as [...] Majestade, que Deus guarde, alcançassem contra as dos 
+holandeses [...] as vitórias nas guerras destas capitanias, como se é [...] duas batalhas dos 
+Guararapes e na recuperação desta praça [...], e todas as mais que os ditos holandeses ocuparam 
+no [estado] [...] que do feliz sucesso que tiveram na primeira batalha em 19 de abril do ano de 
+1648 [...] da Nossa Senhora dos Prazeres, se conseguiram as mais referidas, prometi na mesma 
+ocasião em ação de graças [...] em memória daquela maravilha obra no dito sítio dos 
+Guararapes [...] Ermida da Invocação da mesma Senhora dos Prazeres, [...] feita a custa de 
+minha fazenda e para administração [...] de dizer nela uma missa cotidiana pelas almas de todos 
+os soldados que morreram nesta guerra em serviço de Sua Majestade. Hei por bem de doar, 
+como pela presente dou, em nome de Sua Majestade ao dito Convento do Patriarca São Bento, 
+desta capitania de Pernambuco (além de outros efeitos que lhe dou de minha fazenda), umas 
+casas que estão dento do Recife repartidas em duas moradas, com 90 palmos de comprido e 66 
+de largo, [...] Majestade, por serem obradas pelos holandeses em uns chãos reguengos que 
+estavam devolutos, entre uns em que antigamente estavam [...] casas de Antônio de 
+Albuquerque e outras que foram de Francisco Ribeiro, as quais casas lhe dou de hoje para todo 
+sempre, debaixo das condições que contratei por uma escritura com o reverendo padre, dom 
+abade, frei Diogo Rangel e os mais religiosos do dito Convento, pelo que ordeno ao provedor 
+da Fazenda Real desta capitania, faça registrar a presente nos livros dela e dar baixa nos 
+alugueis das ditas casas, porquanto é de crer que Sua Majestade, usando de sua real grandeza 
+e piedade, haja por boa, firme e valiosa esta data, visto ser para serviço de Deus, Nosso Senhor, 
+e proveito das almas dos soldados, que com tanta satisfação e valor o serviram na guerra destas 
+capitanias, e a qualquer tabelião da Vila de Olinda a quem esta for apresentada; ordeno, 
+outrossim, [...] das referidas casas ao padre procurador do dito Convento, de que fará termo nas 
+
+costas deste alvará, declarando nele os palmos que tem as ditas casas e com quem confrontam; 
+e para firmeza, lhe mandei passar a presente sob meu sinal e selo de minhas armas, a qual se 
+registrará nos livros a que tocar. Francisco Dias da Silva, fiz neste Recife, capitania de 
+Pernambuco, em 22 dias do mês de junho de 1656. O capitão, Manuel Gonçalves [o fez] 
+escrever. Francisco Barreto. Alvará de data [...] teve por bem dar ao Convento do Patriarca São 
+bento, capitania de Pernambuco, umas casas que estão [...] moradas dentro do Recife, além de 
+outros efeitos que [...] Lhe dá de sua fazenda para a administração da [...] de Nossa Senhora 
+dos Prazeres, que se obrou no sítio [...] neste declarados. [...] Para Vossa [Senhoria ver]. Recife, 
+28 de junho de 1656 [...]. Fica registrado este alvará no Livro 5º [...] da Fazenda Real desta 
+capitania, a folha 9. Recife, 8 junho de 1656. [Francisco] Mesquita. [D] 
+Ato de posse [D] Saibam quantos este publico instrumento de posse virem, que no ano do 
+nascimento de Nosso Senhor Jesus Cristo, de 1656, aos 30 dias do mês de junho do dito ano, 
+neste Recife, termo da Vila de Olinda, capitania de Pernambuco, nos passos que de presente 
+servem de armazéns da companhia geral, que partem da banda do norte com a rua da praia 
+deste Recife e da banda do sul com a rua pública que também [...] a praia, e da banda do leste 
+com casas [...], e outrossim, casas de Sua Majestade, em que de presente mora o patrão desta 
+barra do Recife, e da banda do [...] com casas também de Sua Majestade, em que de presente 
+mora Manuel Dias, sapateiro, e sendo aí presente o reverendo padre frei Bento da Purificação, 
+procurador do Convento do Patriarca São bento, desta capitania, pessoa de mim tabelião 
+reconhecida, e por ele me foi requerido que em virtude da provisão, atrás do mestre de campo, 
+o senhor Francisco Barreto lhe desse posse dos passos dos quais constam de 90 palmos de 
+comprimento e 66 de largo, que são os conteúdos na dita provisão, por bem do que logo eu, 
+tabelião adiante nomeado, entrei nas ditas casas com o dito [...] procurador, o qual as passou 
+de dentro para fora, [...] delas abrindo e fechando portas, e eu, tabelião, em alta voz disse por 
+algumas vezes que aí dava posse dos ditos passos de [...] baixo ao dito reverendo padre 
+procurador, se [...] tivesse qualquer dúvida ou embargos, os viesse alegar, e pelos não haver 
+nem outro impedimento, eu tabelião, lhe dei a dita posse dos ditos passos conteúdos na 
+provisão, atrás na forma nela referida, a qual o reverendo padre procurador, em seu nome e 
+como procurador dos mais religiosos conventuais, se houve por empossado dos ditos passos de 
+que fiz este instrumento e ato de posse, que assinei sendo presentes as testemunhas Luís Martins 
+de Siqueira, Gaspar Luís dos Reis e Pantaleão Ferreira Pinto, todos moradores nete Recife, que 
+assinaram com o mesmo reverendo padre procurador, e eu, Sebastião [Vasques], tabelião que 
+o escrevi e assinei de meu público sinal seguinte, que tal é. Estava o sinal público. Frei Bento 
+da Purificação. Luís Martins de Siqueira. Pantaleão Ferreira Pinto. Luís dos Reis. Francisco 
+
+Barreto, governador destas capitanias de Pernambuco e mestre de campo general de todo o 
+Estado do Brasil, por Sua Majestade, e os mestres de campo dos terços da Infantaria deste 
+exército etc. Fazemos saber aos que este alvará de data virem, que por quanto Sua Majestade, 
+Deus o guarde, por fazer mercê aos soldados que o serviam nas guerras destas capitanias de 
+Pernambuco, foi servido mandar repartir por eles as terras que de qualquer maneira podiam 
+pertencer a Sua Majestade, nestas ditas capitanias para cujo efeito mandou passar a provisão, 
+cujo teor é o seguinte. - Eu, ElRei, faço saber aos que esta minha provisão virem, que tendo 
+respeito ao grande valor com que se houveram os soldados do Arraial de Pernambuco, na 
+ocasião em que lançaram os holandeses [...] do Recife, e a constância e igualdade de ânimo, 
+com que sofreram os trabalhos daquela guerra, desejando remunerá-los, se não como eles 
+merecem, ao menos como é possível e permite o aperto, em que as guerras destes reinos tem 
+posto as coisas em todas. - Hei por bem e me apraz que pelos ditos soldados se repartam as 
+terras que de qualquer maneira me podem pertencer nas capitanias do norte, que ocupavam os 
+holandeses ao tempo que se começou aquela guerra e que da mesma maneira se proviam neles 
+todos os ofícios da guerra, Fazenda e Justiça, que por esta vez se houverem de prover nas 
+mesmas capitanias, salvo os que requererem suficiência tal, que se não ache nos ditos soldados 
+por não ser de sua profissão, e que a dita repartição de terras e provimento de oficiais a façam 
+o mestre de campo, general Francisco Barreto e os mais  mestres de campo dos terços da 
+infantaria, que há farão proporcionalmente ao merecimento de cada um, com declaração que 
+havendo algumas pessoas que pretendem ter direito as ditas terras e ofícios, o requeiram pelos 
+meios ordinários, e que esta resolução não prejudicará aos requerimentos que os cabos e 
+pessoas de conta do mesmo exército houverem de fazer, pela satisfação de seus serviços; pelo 
+que mando ao dito mestre de campo general e mestres de campo dos terços, que em tudo 
+cumpram e guardem  muito pontualmente esta provisão, como nela se contém, sem dúvida nem 
+embargo algum, a qual sou servido que valha como carta passada pela chancelaria, posto que 
+por ela não passe, e que valha como carta, sem embargo das Ordenações do livro segundo, 
+títulos 39 e 40 em contrário, e se passou por duas vias. Manuel de Oliveira, a fez em Lisboa, 
+aos 29 de abril de 1654. - O secretário, Manuel Rodrigues Tinoco, a fez escrever. - Rei. 
+Em virtude da faculdade que Sua Majestade nos concede em a dita provisão, havendo respeito 
+aos merecimentos dos soldados que morreram nas duas batalhas dos Guararapes e nas ocasiões 
+da recuperação de Pernambuco, havemos por bem de dar como pela presente damos em nome 
+de Sua Majestade ao convento do Patriarca São bento, desta capitania de Pernambuco, umas 
+casas que estão dentro do Recife repartidas em duas moradas, com 90 palmos de comprido e 
+66 de largo, cujas benfeitorias e chãos pertencem a Sua Majestade, por serem obradas pelos 
+
+holandeses em uns reguengos que estavam devolutos, entre outros chãos em que antigamente 
+estavam as casas de Antônio de Albuquerque e outras que foram de Francisco Ribeiro, as quais 
+casas lhe damos de hoje para todo o sempre, debaixo da condição de que os religiosos do dito 
+convento dirão uma missa cotidiana pelas almas dos soldados que morreram nas ocasiões acima 
+referidas, e com as quais condições contraídas por uma escritura entre os ditos religiosos e o 
+mestre de campo general Francisco Barreto, quando lhe deu a administração da Capela dos 
+Guararapes e outros efeitos de sua fazenda para o mesmo ministério. Pelo que o provedor da 
+Fazenda Real desta capitania faça registrar a presente nos livros dela, por quanto é de crer que 
+Sua Majestade usando de sua real grandeza e piedade, haja por boa, firme e valiosa esta data, 
+visto ser para serviço de Deus, Nosso Senhor, e proveito das almas dos soldados, que com tanta 
+satisfação e valor o serviram na guerra destas capitanias, e qualquer tabelião da vila de Olinda, 
+a quem este for a presente [...], dê posse das referidas casas ao padre procurador do dito 
+convento, de que fará termo nas costas deste, que para firmeza lhe mandamos passar sob nossos 
+sinais e selo de nossas armas, o qual se registrará nos livros a que tocar. Francisco Dias da Silva 
+o fez neste Recife de Pernambuco, a 25 do mês de junho de 1656. - O capitão Manuel 
+Gonçalves Correa, o fez escrever. Francisco Barreto. Francisco de Figueiroa. Dom João de [...] 
+Registre-se e ponha-se verba na provisão registrada no livro [...], folhas 9, por quanto esta se 
+[sub roga] em seu lugar e [...] não teve efeito. Recife, 7 de novembro de 1656 anos. Penha. 
+Registra-se no primeiro livro dos registros a que tocar de [...] Secretaria deste Exército de 
+Pernambuco [...] folhas 206 verso. Recife, 31 de outubro de 1656. Corriam Registrada no Livro 
+dos Registros da Fazenda. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. P. 133-135. Fl. 96-97. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

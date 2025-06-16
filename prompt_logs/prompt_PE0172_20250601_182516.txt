@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0172
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0319",
+  "Nome": "João Leandro Soares de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-05-1788",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura nas fronteiras das terras de Antônio Cavalcante de Araújo pelo riacho Piranguirinho. ",
+  "Localidade": "Riacho Piranguirinho",
+  "Confrontantes": "Antônio Cavalcante de Araújo",
+  "Justificativas": "Pretendia fazer engenho de açúcar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis. O governador Dom Tomás José de Melo também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0172"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0172
+Carta de doação e sesmaria de João Leandro Soares - 08/05/1788
+João Leandro Soares com uma légua de terra em quadra na freguesia de Una, pelo riacho
+acima do Piranguisinho
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, coronel do Mar da Arma Real, governador e capitão-general de Pernambuco,
+[Paraíba] e mais capitanias anexas etc. Faço saber aos que esta carta de data de sesmaria virem,
+que João Leandro Soares de Araújo fez ao meu Excelentíssimo antecessor um requerimento do
+teor e maneira seguinte: = Ilustríssimo e Excelentíssimo Senhor. = Diz João Leandro Soares de
+Araújo, homem casado e morador na Povoação de Una, que ele pretende haver por sesmaria uma
+légua em quadra de terras nas testadas de Antonio Cavalcante de Araújo, pelo riacho acima de
+Piranguirinho, do mesmo modo que ao dito foi concedida outra légua em quadra, para poder nela
+levantar seu engenho de fazer açúcar os quais se acham ainda devolutos e desaproveitados.
+Portanto = Pede a Vossa Excelência seja servido mandar proceder aos termos do estilo, e feitas as
+diligências, conceder-lhe a data da dita sesmaria, pagando o suplicante a pensão anual. E receberá
+mercê. E sendo visto pelo meu excelentíssimo antecessor o seu requerimento, ordenou por
+despacho de 29 de novembro de 1787 aos oficiais da Câmara do respectivo distrito, mandassem
+fixar editais na respectiva freguesia, para se saber ao certo estar ou não devoluta a mesma terra e
+haver ou não terceiro prejudicado; e constando-me por informação dos ditos oficiais que assim o
+mandaram executar não haver pessoa alguma que aos ditos editais e saísse por despacho meu de
+28 de março do corrente ano, mandei ouvir o escrivão da Receita e Despesa, e assim mais
+responder o doutor procurador da Fazenda e Coroa por outro de 8 de abril do dito ano; e como
+todos uniformemente me responderam estar nos termos de se dar ao suplicante a terra pedida de
+sesmaria na forma confrontada em seu requerimento, pagando anualmente o foro de 6 mil réis por
+légua, por ser das que estão mais próximas a Marinha, do que devia dar fiança na Contadoria;
+ultimamente, mandei por despacho de 18 do dito mês e ano que se passasse sesmaria na forma da
+resposta do doutor procurador da Fazenda e Coroa e escrivão da Receita e Despesa; Em
+cumprimento da qual e pela faculdade que Sua Majestade Fidelíssima me permite no Capítulo 15
+do Regimento deste Governo. Hei por bem dar em nome de Sua Majestade ao dito João Leandro
+Soares de Araújo, de sesmaria uma légua de terra em quadra na freguesia de Una, nas testadas de
+Antonio Cavalcante de Araújo, pelo riacho acima do Piranguirinho, na forma confrontada em seu
+requerimento, pagando o foro anual de 6 mil réis por légua, visto ser das mais próximas a
+
+Marinha, que determina a Real Ordem de 28 de outubro de 1700, a qual terra possuirá e gozará
+ele suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para
+todo sempre, com todas as suas pertenças, matos, campos, águas, rios, testadas, logradouros e
+mais úteis que ela compreenda, não prejudicando a terceiro; e não passará a dita a religiões e
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que os possuem os seculares e
+sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes, pedreiras, e requerer
+dentro de três anos medição, demarcação, povoada e cultivada na conformidade da Ordem Régia
+de 20 de outubro de 1753; e não o cumprindo assim, se dar por devoluta e novamente ser
+conferida a quem requerer; com mais as condições de que se não utilizará nem demolirá as
+árvores de Amarelo, Sucupira e Pau-Brasil que a dita terra compreender, por deverem ficar
+reservadas para construção das naus de Sua Majestade e do Real Serviço; e de que a mencionada
+terra nunca se dividirá em posições se não por estimação, e andará sempre encabeçada em uma só
+pessoa, na forma da ordenação Livro 4 título 96, § 23, sendo obrigada a pessoa que na dita terra
+suceder por qualquer título que for, a vir logo reconhecer por direta Senhora a junta da Fazenda
+Real desta capitania, debaixo da pena de que o não cumprindo assim, se dará a mesma terra a
+quem a pedir. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de data e sesmaria como nela se contém, fazendo
+dar ao suplicante posse efetiva e atual, na forma costumada, debaixo das cláusulas referidas e dos
+mais da Ordenação Título das Sesmarias, visto constar por bilhete que apresentou, achar-se dada
+a fiança ao foro anual de 6 mil réis por légua na Contadoria da Real Fazenda, a folha 28 do Livro
+3º delas, com a condição de conservar no estado atual as árvores de Amarelo, Sucupira, e
+Pau-Brasil. Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real
+Fazenda. Dada no Recife de Pernambuco, aos 8 dias de maio. Manoel Barbosa da Silva Garcia,
+Oficial Maior da Secretaria do Governo, o fez. Ano do Nascimento de Nosso Senhor Jesus Cristo
+de 1788 || Dom Antônio Pio de Lucena e Castro, secretário do Governo, o fez escrever || Dom
+Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco, 1821, fls. 03-04.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

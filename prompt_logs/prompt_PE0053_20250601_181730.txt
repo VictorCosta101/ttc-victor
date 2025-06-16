@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0053
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0102",
+  "Nome": "José de Sousa Couseiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "07-02-1727",
+  "Observações da sesmaria": "O suplicante requereu 7 braços de comprimento e 7 de largura no rio Capibaribe até o quartel dos soldados da praça do Recife. ",
+  "Localidade": "Rio Capibaribe",
+  "Confrontantes": "Quartel dos soldados da Praça do Recife",
+  "Justificativas": "Pretendia aumentar a cidade e a povoação; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Devido ao documento estar incompleto, não foi possível identificar as informações referentes ao despacho e a concessão.",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura determinou que o suplicante pagasse o foro régio no valor de 6 mil réis por légua. O governador Dom Manuel Rolim de Moura determinou que o suplicante confirmasse a sesmaria dentro de dois anos. O governador Dom Manuel Rolim de Moura determinou que o suplicante povoasse a sesmaria dentro de 5 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0053"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0053 
+ 
+Carta de doação e sesmaria de José de Souza Cousseiro - [28/02/1727] 
+ 
+CARTA DE DOAÇÃO DE SESMARIA DO CAPITÃO JOSÉ DE SOUZA COUSSEIRO DE 
+SETENTA PALMOS DE TERRA, SEGUINDO DOS QUARTÉIS DOS SOLDADOS DESTA 
+PRAÇA ATÉ O RIO CAPIBARIBE –. 
+ 
+Dom Manuel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuo e mais capitanias anexas e etc. Faço saber aos que esta carta de doação de sesmaria 
+virem, que por parte do capitão José de Souza Cousseiro se me apresentou a petição cujo teor é o 
+seguinte: "Diz José de Souza Cousseiro que ele serve a Sua Majestade, que Deus guarde, há 21 
+anos, desde soldado até capitão de infantaria do terço da guarnição desta praça do Recife, que 
+atualmente está exercendo, que ele tem notícia que o defunto Antônio [G.] da Câmara, capitão que 
+foi do dito terço, pediu ao antecessor de Vossa Senhoria por doação e sesmaria 70 palmos de terra 
+que se achavam devolutas, principiando no fim dos quartéis dos soldados desta praça até o rio 
+Capibaribe, e parte pelo sul com terras dos herdeiros de [G.] Gomes, e pela parte do norte com 
+terras dos mesmos quartéis, cuja terra lhe foi dada de sesmaria com a condição de povoar dentro de 
+cinco anos, e na falta se haver por devoluta, e como estes sejam passados sem se povoar por lhe ser 
+dada em 21 de agosto de 1721, e o suplicante não desmerece a mesma graça, "Pede a Vossa 
+Senhoria lhe faça mercê dar em nome de Sua Majestade por doação e sesmaria a dita terra 
+confrontada acima, visto não ser povoada no termo consignado nem estar a dita data confirmada por 
+Sua Majestade. E receberá merê. = Informe o provedor da Fazenda Real, ouvindo o doutor 
+procurador da Coroa - Recife, 7 de fevereiro de 1727 = Rubrica = Haja vista ao doutor procurador 
+da Fazenda = "Barros". Pela declaração que se faz na certidão e pela Ordenação Livro 4.° título 43, 
+tem-se devoluta para a Coroa a data de que se faz menção – Fiat  justice" Recife, 13 de fevereiro de 
+1727 = "Pereira" = Senhor governador e capitão general, com a resposta do doutor procurador da 
+Coroa e Fazenda, me conformo e Vossa Senhoria mandará o que for servido "São Lourenço, 23 de 
+fevereiro de 1727 - "João do Rego Barros -" O que visto e havendo respeito ao que Sua Majestade 
+me concede no capítulo 15 do Regimento deste Governo - Hei por bem fazer-lhe mercê em nome de 
+Sua Majestade, dar os ditos setenta palmos de terra por doação e sesmaria, como pela presente dou 
+assim e da maneira que o suplicante confronta em sua petição, na mesma parte que nela se declara 
+com todas suas pertenças, começando dos quartéis dos soldados pelo desalagado até o rio 
+Capibaribe, a qual ele logrará e seus herdeiros, e havendo confirmação dela do dito senhor dentro 
+do prazo de dois anos, pagando de foro a razão de seis mil réis por légua, e será obrigado a povoá-la 
+dentro de cinco anos [ou] aliás se dará por vaga e devoluta. Pelo que ordeno a todos os ministros da 
+Justiça e Fazenda desta capitania a que tocar, lhe façam dar a posse real, efetiva e atual, na forma 
+costumada, debaixo das cláusulas mencionadas e das da Ordenação título de sesmaria; que por 
+Em 28 de 
+fevereiro de 
+1727. 
+
+firmeza de tudo lhe mandei passar a presente [...]. 
+- Fim da carta - 
+ 
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a 
+carta, faltando a parte restante correspondente a concessão. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 309 - 310. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

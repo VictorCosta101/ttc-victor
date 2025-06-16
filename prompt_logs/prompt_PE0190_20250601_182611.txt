@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0190
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0205",
+  "Nome": "João Batista da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-09-1803",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura na freguesia do Bom Jardim, no riacho Gabichá entre as terras do padre Antônio Gomes Tabona e de Reinaldo Gomes.",
+  "Localidade": "Freguesia do Bom Jardim",
+  "Marcos Geográficos": "Riacho Gabichá",
+  "Confrontantes": "Antônio Gomes Tabona, Reinaldo Gomes",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores interinos determinaram o pagamento anual do foro régio no valor de 3 mil réis por légua concedida. Os governadores interinos também determinaram a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0190"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0190 
+Carta de doação e sesmaria de João Batista da Silva – 13/09/1803 
+ 
+O capitão João Baptista da Silva com meia légua de terra na freguesia do Bom Jardim. 
+[À direita] Confirmado e r.o na folha 57 verso deste mesmo Livro 
+Dom Jorge Eugenio de Locio e Seilbes, brigadeiro graduado dos exércitos de Sua Alteza Real, 
+chefe do regimento d'artilharia desta capitania, o doutor Manoel Xavier Carneiro da Cunha [?] da 
+Santa Igreja Catedral da cidade de Olinda e vigário geral deste bispado, o doutor João de Freitas 
+Albuquerque, professo na Ordem de Cristo, fidalgo da Casa Real do desembargo de Sua Alteza 
+Real, o Príncipe Regente, Nosso Senhor, desembargador na relação da Bahia, ouvidor geral de 
+Pernambuco, corregedor etc. Fazemos saber aos que esta carta de data de sesmaria virem, que o 
+capitão João Batista da Silva nos fez um requerimento do teor e maneira seguinte = Ilustríssimos 
+Senhores = Diz o capitão João Batista da Silva que na freguesia do Bom Jardim, termo de 
+Iguarassu, pelo riacho Gabichá acima, pegando do marco do padre Antônio Gomes Tabona até 
+entestar com terras que foram de Reynaldo Gomes, existem terras devolutas e desaproveitadas, as 
+quais hão de ter pouco mais de meia légua de cumprido e outro tanto de largo, ou o que na 
+verdade for, e porque o suplicante tem bastantes currais e estão sem terras para cultivar, requer a 
+Vossas Senhorias se dignem conceder-lhe de sesmaria em dito lugar a terra que se achar, não 
+passando de 3 quartos de cumprido e meia de largo, e tudo sem foro, nem pensão, mais que o 
+dízimo a Deus, por serem terras do sertão e distantes mais 20 léguas da Costa do Mar = Pede a 
+Vossas Senhorias se dignem conceder ao suplicante as ditas terras por sesmaria, mandando 
+primeiro passar a praticar as diligencias do estilo = E receberá mercê = E sendo por nós visto o 
+seu requerimento, mandamos por despacho de 23 de março de 1803, que a Câmara respectiva 
+mandasse fixar editais por tempo de trinta dias no respectivo distrito, para se saber ao certo estar 
+ou não devoluta a mesma terra e haver ou não terceiros prejudicados, e constando-nos por 
+informação da dita Câmara que assim mandou executar não haver pessoa alguma que aos ditos 
+editais saísse, por outro de 4 de agosto do mesmo ano, mandamos o doutor procurador  da Coroa 
+e Fazenda, e assim mais responder o escrivão deputado da Junta da dita Fazenda, outro de 31 de 
+sobredito mês de agosto; e como todos uniformemente responderam estar nos termos de se dar 
+anual a razão de 6 mil réis por légua, de que devia dar fiança na Contadoria da Real Fazenda; 
+ultimamente mandamos por despacho de 2 de setembro de 1803, que se passasse carta de data de 
+sesmaria na conformidade das respostas do doutor procurador da Fazenda e escrivão deputado da 
+Junta da mesma; em cumprimento de qual e pela faculdade que Sua Alteza Real permite no 
+Capítulo 15 do Regimento deste Governo. Havemos por bem ser em nome do dito senhor do 
+
+referido capitão João Batista da Silva, meia légua de terra em quadro, na freguesia de Bom 
+Jardim, termo da Vila de Iguarassu, pelo riacho Gabiché acima, pegando do marco do padre 
+Antônio Gomes Taboza, até entestar com terras que foram de Reynaldo Gomes, tudo na forma 
+confrontada em seu requerimento, pagando foro anual de 3 mil réis pela referida meia légua de 
+terra, visto ser das que estão mais próximas a Marinha, que determina a Real Ordem de 28 de 
+setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e 
+descendentes, como sua que fica sendo hoje para todo sempre, com todas as suas pertenças, 
+matas, campos, rios, águas, testadas logradouros e mais úteis que ela compreender, não 
+prejudicando a terceiro, e não passando a dita terra a religiões e pessoas eclesiásticas, salvo sendo 
+com os mesmos encargos com que as possuem os seculares; sendo obrigado a dar ao Conselho 
+caminhos livres para pontes, fontes, pedreiras e requerer dentro de três anos confirmação, 
+medição, povoá-la e cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753; e não 
+o cumprindo assim, se dar por devoluta e novamente ser conferida a quem a requerer, com mais a 
+condição que a referida terra nunca se dividirá em porções, nem repartirá, senão por estimação, 
+andando encabeçada em uma só pessoa na conformidade da Ordenação Livro 4º título 96 § 23; 
+senão por estimação, andando encabeçada em uma só pessoa, na conformidade da Ordenação 
+Livro 4º título 96 § 23; sendo obrigado o suplicante e seus herdeiros ou a pessoa a quem passar 
+esta sesmaria, o conservar nas ditas terras as árvores de amarelo e sucupira e mais madeiras de 
+construção próprias que naus e fragatas de Sua Alteza Real, caso que nela as haja; e assim mais 
+não passará a referida terra a herdeiros ou a outra qualquer pessoa sem concessão da Junta da 
+Real Fazenda, para nela se darem novas fianças e se fazerem as devidas escriturações. Pelo que 
+ordenamos aos ministros da Fazenda, Justiça e mais pessoas a quem tocar, cumpram e façam 
+cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante 
+posse real, efetiva e atual, na forma costumada debaixo das cláusulas referidas e das mais da 
+Ordenação Título das Sesmarias, visto constar por bilhete que apresentou achar-se dada a fiança 
+ao foro anual de 3 mil réis pela mencionada meia légua de terra na Contadoria da Real Fazenda, a 
+folha 78 do Livro 5º delas. Em firmeza do que lhe mandamos passar a presente por nós assinada e 
+selada com o selo das armas reais, que se registará na Secretaria deste Governo e Contadoria da 
+Real Fazenda. José Fernandes Quintela, oficial maior de Secretaria do Governo, a fez em o 
+Recife de Pernambuco, aos 13 de setembro = Ano do Nascimento de Nosso Senhor Jesus Cristo 
+de 1803 = Destes dezoito mil reis. José Carlos Mairink da Silva Ferrão, secretário do Governo, a 
+fez escrever = Dom Jorge Eugenio de Locio e Seilbres = Manoel Xavier Carneiro da Cunha = 
+João de Freitas Albuquerque. 
+- Fim da carta - 
+
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 80-82. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

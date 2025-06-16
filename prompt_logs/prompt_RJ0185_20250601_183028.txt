@@ -1,0 +1,142 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0185
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Roberto Car Ribeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Comprada",
+  "Data da petição": "06-04-1724",
+  "Data da concessão": "06-04-1724",
+  "Observações da sesmaria": "Outros sujeitos tiveram direitos sobre parcela desta área, como pode ser depreendido de: \"esta sesmaria que se concedeu a Miguel de Moura em o ano de 1567, venderam aos padres da Companhia a quem a passou Aleixo Gomes uma porção e 50 braças \"",
+  "Localidade": "Araçatiba",
+  "Marcos Geográficos": "brejos desde a vala do dito Aleixo Gomes para Riacho Guayanaâ; ",
+  "Ribeira": "correndo a testada pelo sertão para o Rio Guaxindiba",
+  "Confrontantes": "em seu fundo terras ditas devolutas (todos os brejos que se acharem nunca cultivados ou nunca dados na forma acima dita, não excedendo da légua taxada);  No poente também, há alagadiços da margem do Rio  Aleixo Gomes",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se registrar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria ao Desembargador Roberto Car Ribeiro uma porção de terras, segundo as confrontações descritas na mesma carta. Rio de Janeiro, 6 de abril de 1724. (Annexa ao n. 5.167).\r\nEsta Carta de Concessão encontra-se no Projeto Resgate anexada à Petição n° 5167. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0185"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0185
+Carta de concessão de Roberto Car Ribeiro de 06 de abril de 1724
+Traslado de carta de sesmaria do desembargador Roberto Car Ribeiro de uma légua de terras
+em quadra correndo a testada pelo rumo da Araçatiba e o sertão para o Rio Guaxindiba.
+Saibam quantos esse documento de carta de sesmaria virem que no ano do nascimento de
+nosso senhor Jesus Cristo de 1724 anos, aos 06 dias do mês de abril do dito ano, nesta cidade
+do Rio de Janeiro, em casas de morada de mim tabelião e escrivão das sesmarias adiante
+nomeado, apareceu presente o desembargador Roberto Car Ribeiro, morador nesta cidade, e
+por ele me foi apresentado uma carta de sesmaria que alcançou do governador e capitão
+general atual desta capitania pela qual lhe fez mercê, em nome de Sua Majestade, que Deus
+guarde, de lhe dar se sesmaria uma légua de terras em quadra correndo a testada pelo rumo da
+Araçatiba e pelo sertão para o Rio Guaxindiba, distrito desta cidade, que consta da dita carta e
+do teor seguinte. Aires Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de
+Sua Majestade, que Deus guarde, comendador das comendas de Santa Maria de Castro
+Laboreiro, São Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa,
+alcaide mor da dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom
+Antônio, que Deus guarde, governador e capitão general da capitania do Rio de Janeiro. Faço
+saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por sua
+petição o desembargador Roberto Car Ribeiro, que esta sesmaria que se concedeu a Miguel de
+Moura em o ano de 1567, venderam aos padres da Companhia a quem a passou Aleixo
+Gomes uma porção e 50 braças (não identificada) correndo a testada pelo rumo da Araçatiba e
+o sertão pelo Rio Guaxindiba do qual (não identificada) a tocar uma passe a Sebastião Ribeiro
+Coutinho e outra (não identificado) Antônio Cardoso (não identificado) a que fica mais
+próxima ao dito Rio constatado toda dada de alagadiços e por assim ser há mais de 140 anos
+que se concedeu a dita sesmaria então (não identificado) se cultivar e assim em termos de se
+poderem dar por devolutas, e outrossim fora do termo da dita sesmaria, que é a esta quarta de
+sul, estão ainda terras por dar, para a parte do poente também, há alagadiços da margem do
+dito Rio que são os sobejos entre a dita sesmaria e outras, as quais terra, assim umas como
+outras, o suplicante quer de alargar e cultivar os ditos brejos desde a vala do dito Aleixo
+Gomes para Riacho Guayanaâ, compreendendo em seu fundo todos os brejos que se acharem
+nunca cultivados ou nunca dados na forma acima dita, não excedendo da légua taxada, e
+suposto tinha já pedido com menos informação as ditas terras e se lhe tinham concedido pela
+carta inclusa dita, pelo efeito do que agora pede, desiste, pedindo-me lhe mandasse dar de
+sesmaria as terras acima confrontadas, e dando-se vista deste requerimento ao provedor da
+
+Fazenda Real e ao Procurador da Coroa não se lhes ofereceu dúvida. Hei por bem fazer mercê
+ao dito desembargador Roberto Car Ribeiro de lhe dar de sesmaria, em nome de Sua
+Majestade, que Deus guarde, as referidas terras na forma acima declaradas, não excedendo,
+porém, uma légua em quadra na forma das ordens do mesmo Senhor, e sem prejuízo de
+terceiro ou do direito que algumas pessoas possam ter nelas, com declaração que as cultivará
+e mandará confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos,
+e não o fazendo se lhes denegará mais tempo, e a que se lhe tinha passado, de que faz menção,
+se largou ao fazer desta, e o referido dito fica posta neste de que não teve efeito, pelo que
+mando ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse ao
+dito desembargador Roberto Car Ribeiro das referidas terras, e por firmeza de tudo lhe
+mandei passar a presente por mim assinada e selada com o signete de minhas armas, que se
+cumprirá inteiramente como nela se contém e se registrará nos Livros da secretaria deste
+Governo e nos mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro nos 6
+dias do mês de abril de 1724. //João Paes de Paredes a fez// //O secretário, José Ferreira da
+Fonte, a fez escrever// //Aires de Saldanha de Albuquerque Coutinhos Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê ao desembargador Roberto Car Ribeiro
+de lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, das referidas terras na
+forma acima declaradas. Para a Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta secretaria do governo a folha
+178. Rio, 6 de abril de 1724. //José Ferreira da Fonte//
+E não se continha mais da dita carta de sesmaria que aqui lancei fielmente na verdade em que
+reporto, a própria a que tornei a entregar ao dito desembargador Roberto Car Ribeiro, este
+escrevi, assinei e consertei. //Antônio de Barros Leite// //Concertado por mim também
+escrivão das sesmarias com o próprio Antônio de Barros Leite//
+O doutor Antônio de Souza de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral e corregedor da comarca com alçada no civil e crime nesta cidade
+do Rio de Janeiro e nas mais capitanias de sua repartição, e juiz das justificações. Nesta, aos
+que presente certidão de justificação virem, faço saber que a mim me constou por fé do
+escrivão de meu cargo, que está subscreveu, ser a letra e forma da, digo, ser o sobrescrito sinal
+público posto ao pé do traslado da sesmaria retro do tabelião e escrivão das sesmarias,
+Antônio de Barros Leite, nele contido, o que hei por justificado. Rio de Janeiro, 16 de outubro
+de 1724 anos. Eu, Domingos Rodrigues Távora, escrevi, a subscrevi e agora a subscrevi.
+//Domingos Rodrigues Távora//
+
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria
+ao Desembargador Roberto Car Ribeiro uma porção de terras, segundo as confrontações
+descritas na mesma carta. Rio de Janeiro, 6 de abril de 1724. (Annexa ao n. 5.167).
+Esta Carta de Concessão encontra-se no Projeto Resgate anexada à Petição n° 5167.
+Referências:
+AHU_ACL_CU_017-01, Cx. 23, D. 5168, p. 03-06.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

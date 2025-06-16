@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0096
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gonçalo da Rocha Serrão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-11-1688",
+  "Observações da sesmaria": "A sesmaria possuía quatro léguas em quadra e estava localizada na nascença do rio Saguipe até o rio Subaúma, fazendo fronteira com as terras do mestre de campo Antônio Guedes de Brito e com as do coronel Francisco Dias de Ávila.",
+  "Localidade": "Nascença do rio Saguipe",
+  "Marcos Geográficos": "Rio Saguipe; rio Subaúma",
+  "Confrontantes": "Antônio Guedes de Brito;  Francisco Dias de Ávila",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se mandar certidão de como as tem povoado; Determinou-se não vender as terras sem autorização régia.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita",
+  "referencia": "BA0096"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+ 
+Registro de uma sesmaria de 4 léguas de terra em quadra em Subauma concedidos ao capitão 
+Gonçalo da Rocha Serrão. 
+Dom Frei Manuel da Ressurreição do conselho da Sua Majestade, arcebispo da Bahia, 
+governador e capitão geral do Estado do Brasil. Faço saber aos que este alvará de doação e 
+sesmaria virem que, havendo respeito ao que por parte do capitão Gonçalo da Rocha Serrão, se 
+me enviou a representar por sua petição cujo o teor é o seguinte: diz o capitão Gonçalo da Rocha 
+Serrão, cavaleiro professo da ordem de Cristo, que na nascença do rio Saguipe, donde acaba a 
+data do mestre de campo Antônio Guedes de Brito, até o rio de Subauma, que é donde começa 
+a do coronel Francisco Dias de Ávila, há uma sorte de terra que pode ter 4 léguas de 
+comprimento, pouco mais ou menos, outras tantas de largura o qual tem – se não tem dado- até 
+hoje pessoas algumas por cuja causa está devoluta. Ao suplicante, tem cabedal para povoar e 
+ao contém nela condimento nos dízimos Reais, pede a Vossa Senhoria [que] lhe faça mercê dar 
+de sesmaria em nome de Sua Majestade a dita terra que são 4 léguas em quadra, assim e da 
+maneira que confronta. E receberá mercê. E vista a resposta do procurador da Fazenda que é a 
+seguinte: não se me oferece dúvida contra a doação sesmaria que o suplicante pede, assim, por 
+ser pessoa capaz de povoar como porque as 4 léguas não excedem o número do regimento. 
+Bahia, 10 de maio de 1688 // Pita // E a informação do provedor-mor da dita Real Fazenda que 
+também é a seguinte: senhor, informo a Vossa Senhoria com a resposta e parecer do procurador 
+da Fazenda com que me conformo para mandar o que mais convier e for servido. Bahia, 11 de 
+de maio de 1688 // Francisco Lamberto // Hei por nem de conceder e dar de sesmaria ao 
+suplicante como pela presente faço em nome de Sua Majestade, para ele e seus herdeiros as 
+ditas 4 léguas de terra em quadra, assim da maneira que a pede e confronta em sua petição, 
+como parece aos ministros da Fazenda, não prejudicando a terceiro, com todas as suas águas, 
+matas, testadas, logradouros e mais úteis que nelas se achar com foro livre e isento de pensão 
+salvo o dizimo a ordem de Cristo que pagará pelos frutos que delas houver, e por elas será 
+obrigados a dar caminhos públicos e particulares para fontes, pontes, portos e pedreiras e de as 
+cultivar no tempo da lei e regimento. Pois nesta conformidade lhe as concedo, mandando 
+certidão de como as tem povoado dentro no dito termo, para se registrar nos livros da Fazenda 
+Real, demarcando-se no tempo de posse, citados os éreos, e se não poderá vender nem alhear 
+sem ordem expressa de Sua Majestade. Pelo o que ordeno a todos os ministros de justiça, a que 
+o conhecimento deva ou possa pertencer, [que] lhe façam dar posse real, efetiva e atual na forma 
+costumada debaixo das cláusulas acima referidas e as mais da ordenação título de sesmarias 
+para a firmeza do que lhe mandei passar a presente sob o sinal e selo de minhas armas do qual 
+se registrará nos livros da secretaria do Estado, e nas mais a que tocar da Fazenda Real dele e 
+escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente com nele se contém 
+sem dúvida, embargo nem contradição alguma. // Manuel Rogueiro // o fez nesta cidade do 
+Salvador, Bahia de todos os santos aos 2 dias do mês de novembro, ano de 1688 // Bernardo 
+Vieira Ravasco // a fiz escrever // Frei Manuel, arcebispo governador // selo // Alvará de doação 
+de sesmaria de 4 léguas de terra em quadra que Vossa Senhoria Ilustríssima teve por bem de 
+conceder e dar em nome de Sua Majestade ao capitão Gonçalo da Costa Serrão na parte em que 
+pede e confronta em sua petição, não prejudicando a terceiro na forma e pelos respeitos acima 
+declarados para Vossa Ilustríssima ver. Registrado no livro segundo dos registros da secretaria 
+do Estado do Brasil, que tocava as folhas 155. Bahia, 3 de novembro de 1688 // Lamberto 
+Tomás Moreira // a registrou no dito dia // Francisco Dias de Amaral. 
+
+- Fim de Transcrição- 
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Gonçalo da Rocha Serrão” 
+ 
+Referências 
+AN, Códice, fls. 301v – 302v. 
+Numeração original no livro: 308 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

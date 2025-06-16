@@ -1,0 +1,143 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0109
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Belchior Tavares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "01-08-1602",
+  "Data da concessão": "01-08-1602",
+  "Observações da sesmaria": "Segundo o documento, João Botelho resolveu conceder por escritura um punhado de sua concessão para o suplicante, por este não ter terras.",
+  "Localidade": "Sobejos de terra entre um outeiro e que estão na boca do rio de Saracuruna.",
+  "Confrontantes": "Sobejos de João Botelho",
+  "Justificativas": "Era morador(a) da Capitania; Não tinha terras; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta não dá especificações a respeito das unidades de medida, bem como a largura e o comprimento.",
+  "Observações das exigências": "Citou-se o Regimento de D. Manuel, o qual diz: \"as terras que estiverem dentro do termo e limite da cidade de São Sebastião, que são 6 léguas para cada parte que não forem dadas a pessoas que as aproveitarem ou, posto que o fossem, se por as pessoas a que se deram, as não aproveitarem no tempo que eram obrigadas, por esta via ou por qualquer outra estiverem vagas, as podereis dar de sesmaria a quem pedir e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes, ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente sem algum outro foro, somente o dízimo à Ordem do Mestrado de Nosso Senhor Jesus Cristo, com as condições e obrigações do foral dado as ditas terras,  e de minha Ordenação do Livro 4º, título das Sesmarias, com a condição que a pessoa ou pessoas que residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos três anos, que dentro do dito tempo as não possam vender, nem enlear e se algumas pessoas a que forem dadas terras no termo da dita cidade, estiveram perdidas por não as aproveitarem e  a vás a tornarem pedir, vós às podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes e isto se entenderá não sendo as ditas terras dadas à outras pessoas\". Determinou-se ao suplicante também que \"haja posse e senhorio da dita terra e sobejos que dito é, para sempre\", assim como exigiu-se que \"rompa, aproveite e frutifique a dita terra da dada desta em anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses tenha feito nela algum proveito, plantado alguns mantimentos e cumpridos dentro de três anos que a tem aproveitado, como dito é, porque não o fazendo, lhe assim passado os ditos três anos, se dará a dita terra que aproveitada não tiver de sesmaria, a quem a pedir e lhe será deixado alguns logradouros do que aproveitado não tiver e sobretudo pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenadas e necessárias para o Conselho e para fontes e pontes, vieiros e pedreiras que necessários forem. A qual terra lhe assim deu e concedeu em nome Del Rei nosso Senhor, forra e isentas sem forro nem tributo algum, somente de tudo o que lhe nosso Senhor der nela de suas novidades, lavouras e criações os dízimos a Deus, conforme o dito Regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0109"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0109
+Carta de pedido concessão de sesmaria de Belchior Tavares de 7 de setembro de 1602
+Forra
+[Fl.16]Saibam, quantos este instrumento de carta de sesmaria virem, que no ano do
+nascimento do nosso Senhor Jesus Cristo de 1602, aos 7 dias do mês de setembro do dito ano,
+nesta cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão
+adiante nomeado, apareceu um filho de Belchior Tavares, morador nesta dita cidade, e me
+apresentou uma petição feita em nome do dito seu pai, Belchior Tavares, com despacho nela
+do senhor Martim de Sá, capitão e governador desta dita cidade e capitania, deste dito Rio de
+Janeiro, por El Rei nosso senhor. Da qual petição o despacho dela o traslado é o seguinte:
+Belchior Tavares que ele há 25 anos que veio à essa cidade, sempre serviu a Sua Majestade
+em tudo que por seus capitães governadores lhe foi mandado, sem até hoje ter terras para
+lavrar, e por assim ser João Botelho, lhe deu um pedaço de terra por escritura, ora indo medir
+ficou fora da medição por sobejos nos quais o suplicante tem uma roça feita, pede a Vossa
+Senhoria, que lhe faça mercê de lhe dar de sesmaria, os sobejos que estão entre um outeiro e
+que estão na boca do rio de Saracuruna, dada que ora possui o dito João Botelho, no rio de
+Nhumirim com as mais terras que houver por dar nos ditos sobejos. E receberá mercê.
+Despacho do senhor capitão e governador. Dou ao suplicante, os sobejos que há entre o rio de
+Saracuruna e a dada de João Botelho não sendo dados. Rio de Janeiro, a 1 de agosto de 1602
+anos. Martim de Sá. E tudo visto pelo dito senhor capitão e governador, a petição do dito
+suplicante Belchior Tavares e o que lhe pedia, visto ser justo e havendo respeito ao proveito
+que se pode seguir acerca da República e ao serviço de Deus e Del Rei nosso Senhor, e para
+terra se povoar, deu ao dito suplicante Belchior Tavares, os sobejos de terra contidos no dito
+seu despacho, conforme onde ele os pede, porquanto, dizia que a terra estava vaga e devoluta
+e por aproveitar e para as mais razões contidas em sua petição, para aproveitar e fazer suas
+roças e fazenda nela como diz, não sendo já dada à outra pessoa ou pessoas primeiro, a qual
+terra e sobejos diz que estão no dito lugar, que partem pelas ditas confrontações como em sua
+petição diz, a qual terra e sobejos que dito é, lhe deu e concedeu na maneira adiante declarada,
+segundo forma de seu Regimento Del Rei nosso Senhor, de que o traslado o seguinte: as terras
+que estiverem dentro do termo e limite da cidade de São Sebastião, que são 6 léguas para cada
+parte que não forem dadas a pessoas que as aproveitarem ou, posto que o fossem, se por as
+pessoas a que se deram, as não aproveitarem no tempo que eram obrigadas, por esta via ou
+por qualquer outra estiverem vagas, as podereis dar de sesmaria a quem pedir e tereis
+lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade
+virdes, ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente
+sem algum outro foro, somente o dízimo à Ordem do Mestrado de Nosso Senhor Jesus Cristo,
+com as condições e obrigações do foral dado as ditas terras, e de minha Ordenação do Livro
+4º, título das Sesmarias, com a condição que a pessoa ou pessoas que residam na povoação da
+dita capitania ou das terras que lhe assim forem dadas ao menos três anos, que dentro do dito
+tempo as não possam vender, nem enlear e se algumas pessoas a que forem dadas terras no
+termo da dita cidade, estiveram perdidas por não as aproveitarem e a vás a tornarem pedir,
+vós às podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se
+trasladará nas cartas porque as assim derdes e isto se entenderá não sendo as ditas terras dadas
+à outras pessoas. Com as quais condições, obrigações e declarações lhe assim deu o dito
+senhor capitão e governador a dita terra e sobejos ao dito Belchior Tavares, suplicante, pela
+sobredita maneira e para sua guarda e segurança lhe mandou ser feita esta carta, pela qual
+manda que ele haja posse e senhorio da dita terra e sobejos que dito é, para sempre, para ele e
+todos os seus verdadeiros, sucessores, ascendentes e descendentes que após dele vierem com a
+
+tal condição e entendimento que ele rompa, aproveite e frutifique a dita terra da dada desta em
+anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses tenha feito
+nela algum proveito, plantado alguns mantimentos e cumpridos dentro de três anos que a tem
+aproveitado, como dito é, porque não o fazendo, lhe assim passado os ditos três anos, se dará
+a dita terra que aproveitada não tiver de sesmaria, a quem a pedir e lhe será deixado alguns
+logradouros do que aproveitado não tiver e sobretudo pagará r$ 1000 para as obras do
+Conselho e dará pela dita terra, caminhos e serventias ordenadas e necessárias para o
+Conselho e para fontes e pontes, vieiros e pedreiras que necessários forem. A qual terra lhe
+assim deu e concedeu em nome Del Rei nosso Senhor, forra e isentas sem forro nem tributo
+algum, somente de tudo o que lhe nosso Senhor der nela de suas novidades, lavouras e
+criações os dízimos a Deus, conforme o dito Regimento, o que tudo manda que se cumpra e
+guarde sem outra alguma dúvida nem embargo que lhe seja posto e que esta carta seja
+registrada dentro de um ano nos livros da Fazenda Real, como dito senhor em seu Regimento
+mandar sob as penas nele contidas e declaradas, e porque o sobredito suplicante Belchior
+Tavares tudo prometeu de ter, manter e cumprir pela dita maneira lhe mandou passar esta
+carta de sesmaria, e por verdade eu Pero da Costa, escrivão das sesmarias e tabelião das notas
+por El Rei nosso Senhor, nessa cidade de São Sebastião e em seus termos, que este
+instrumento de carta de sesmaria escrevi e tomei nos meus livros de notas e tombo das cartas
+das sesmarias desta dita cidade que meu poder ficam, onde o dito instrumento fica assinado
+pelo senhor capitão e governador.// Martim de Sá//
+-Fim da Transcrição -
+Observações:
+Título original: Carta dos sobejos das terras de Belchior Tavares que diz que estão em
+Saracuruna = Saracoúna
+.Referências: 
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.pg.126-129
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação
+Biblioteca Nacional, Vol. 2, dep. Nacional do livro, 1967. pg.126. Códice 778 e 779. Pg. F.16.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,149 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0084
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": " João Leal, Marty Pereira da Costa Paulo de Sampaio",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-11-1684",
+  "Observações da sesmaria": "A sesmaria possuía 2 léguas quadradas divididas igualmente entre os sesmeiros e estava localizada ao longo do rio Pojuca, fazendo fronteira com as terras de Manuel Ferreira Toscano, próximo ao mocambo dos negros rumo ao sul.",
+  "Localidade": "Rio Pojuca",
+  "Marcos Geográficos": "Rio Pojuca",
+  "Confrontantes": "Manuel Ferreira Toscano",
+  "Observações da petição": "O sesmeiro não especificou as medidas da largura e do comprimento.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era morador(a) da Capitania; Tinha escravos; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Fazenda afirmou que os suplicantes não informaram as medidas das terras que desejavam e que deveriam ser concedidas a eles apenas aquilo que eles conseguissem aproveitar. Os suplicantes, em réplica, afirmaram que poderiam, cada um deles, aproveitar uma légua.  O provedor afirmou que os suplicantes pareciam não poder cultivar as terras com cana, que era uma cultura útil para Fazenda Real, mas caso eles mostrassem que poderiam fazer esse aproveitamento, ele seria a favor da doação. O governador concedeu uma légua quadrada para cada um dos suplicantes.",
+  "Observações das exigências": "Determinou-se mandarem certidão de como as tem povoado.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Bezerra",
+  "referencia": "BA0084"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de alvará de doação e sesmaria que Sua Excelência teve por bem conceder e dar 
+em nome de Sua Majestade a Marty Pereira da Costa Paulo de Sampaio e a João Leal, 
+uma légua de terra a cada um nos sobejos em que as pedem. 
+Dom Antonio Luiz de Souza Tello e Menezes lhe faço saver aos que alvará de doação e 
+sesmaria virem que havendo respeito do que por parte de Marty Pereira da Costa se me 
+enviou a representar por sua petição cujo teor é o seguinte. Excelentissimo senhor Marty 
+que ele é morador no recôncavo desta cidade a vinte e oito anos que ele paga finta a sua 
+majestade e sempre está pronto para tudo o que os seus capitães o ocupam, acompanhando 
+em algumas ocasiões com seus escravos e cavalos, e em Valença do Minho, donde ele é 
+filho no tempo das guerras do inimigo lhes levaram a seus pais muitas vezes os bens, 
+queimando-lhe as casas em que moravam de que ficaram muito pobres e nas ditas guerras 
+lhe mararam dois irmãos e de presente agora sabe ele suplicante que por cima da terra 
+nova recôncavo desta cidade há um sobejos de terra por dar e por quanto ele suplicante 
+tem filhos, filhas e não tem terras próprias suas em que lavre pelo que a vossa excelência 
+que conforme a ordenação de Sua Majestade lhe faça mercê conceder os ditos sobejos de 
+terra de sesmaria para ele Paulo de Sampaio e João Leal moradores e lavradores no 
+mesmo recôncavo que são os ditos sobejos da outra banda do rio da Pojuca aonde tem 
+Manoel Ferreira Toscano uma sesmaria de terra aonde o dito acaba são cabeceiras dele 
+correndo pelo rio da Pitanga acima de uma parte e da outra alopera do limoeiro e 
+mocambo dos negros em rumo do sul para o norte e do leste para oeste o que se achar de 
+sobejo na dita paragem não prejudicando a terceiro, e receberá mercê e vista a resposta 
+do Procurador da Fazenda que é a que se segue. Não tenho duvida a que se dê de sesmaria 
+ao suplicante para ele e mais socio que nomeia os sobejos que pede porem como não fala 
+nem em léguas nem em braças se deve conceder determinadamente o que cada um poderá 
+aproveitar e cultivar conforme sua possibilidade com as clausulas e condições costumadas 
+no caso que os sobejos compreendam léguas. Bahia 30 de Outubro de 1684 // Bezerra // 
+E resposta os suplicantes fizeram em que declaram ao Provedor-mor da Fazenda que os 
+sobejos não se podiam saber que braças eram porém que tinham possibilidade para 
+cultivarem e aproveitarem as ditas terras de lavouras e madeiras que podiam serrar e que 
+cada um podia aproveitar uma légua com que sendo três cabe a cada um a sua que se lhe 
+devia conceder havendo-as nos ditosa sobejos e a informação do dito Provedor-mor da 
+Fazenda Real que também é a seguinte: Senhor não tem achado notícia da possibilidade 
+
+dos suplicantes e sócios que nomeia para cultivarem e aproveitarem os sobejos da terra 
+que pede para si e para eles na terra nova do recôncavo desta Bahia que poderá ser capaz 
+de se fabricar engenho e de plantas de canas para a sua moenda que é a cultura útil e 
+renderá para a Fazenda Real e não serrar tabuados como ele declara porque sobre não 
+pagarem dízimos destroem com isso as madeiras que podem servir para outras fábricas 
+mais nobres e ainda para a dos vassalos de Sua Majestade de que agora se trata quando 
+ainda não prejudique a alguns engenhos de açúcar vizinhos: porém constando de sua 
+possibilidade para o dito aproveitamento mais útil no termo da lei se me não oferece 
+duvida a que Vossa Excelência para cada um conceda a légua que que pede nos sobejos 
+que declara com todas as mais clausulas da mesma lei é o que posso informar neste 
+particular a Vossa Excelência que mandará o que mais convier e for servido. Bahia 3 de 
+Novembro de 1684 // Francisco Lamberto //  Hei por bem de conceder e dar de sesmaria 
+como pelo presente faço em nome de El Rei mui senhor ao suplicante e mais sócios que 
+declara em sua petição uma légua de terra para cada um nos sobejos que aponta e 
+confronta na dita sua petição como parece ao Provedor-mor da Fazenda Real, procurador 
+dela não prejudicando a terceira com todas suas águas, campos, matos, testadas, 
+logradouros e mais uteis que nelas se acharem tudo forro livre, e isento de pensão ou 
+tributo algum, salvo dízimos a Ordem de Cristo que pagarão dos frutos que nelas houver 
+e por elas serão obrigados a dar caminhos públicos a todos e a particulares para fontes, 
+pontes, portos e pedreiras, e de as cultivarem e aproveitarem no termo da lei e regimento 
+com pena de se lhes tirarem por devolutas e a mandarem certidão de como as tem povoado 
+dentro no dito termo para se registrar nos livros da Fazenda Real demarcando-se ao tempo 
+da posse citados os hereos e não as poderem largar nem transpassar a outrem sob a mesma 
+pena. Pelo que ordeno a todos os ministros de justiça a que o conhecimento com direito 
+deva ou possa pertencer lhe façam dar a posse real, efetiva e atual na forma costumada 
+debaixo das cláusulas acima referidas e as mais da ordenação título das sesmarias para 
+firmeza do que lhe mandei passar o presente sob meu sinal e selo de minhas armas o que 
+se registrará nos livros da secretaria deste estado, Fazenda Real dele e nos do escrivão 
+das sesmarias a se guardará e cumprirá tão pontual inteiramente como nele se contem sem 
+duvida embargo nem contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, 
+Bahia de todos os santos em os 13 dias do mês de novembro do ano de 1684. Bernardo 
+Vieira Ravasco o fiz escrever // Marquês das Minas // Selo // Registrado no livro livro 
+segundo dos registros da Secretaria do Estado do Brasil a que toca a folhas 126 verso. 
+Bahia, 1º de Dezembro de 1684 // Ravasco // Despacho do Provedor-mor registro // Bahia, 
+
+4 de Dezembro de 1684 // Lamberto // Antônio Lopes a registrou em dito dia Francisco 
+Dias do Amaral. 
+ 
+Observações do documento: 
+No início do documento o escrivão escreve o nome do suplicante como Barty, mas os 
+grifos apontam que o nome correto é Marty. 
+Referências: 
+NA, Códice 427. fls. 255v - 257 
+Número original no livro: 126 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

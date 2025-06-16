@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0107
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco de Lemos de Azevedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "20-07-1602",
+  "Data da concessão": "20-07-1602",
+  "Observações da sesmaria": "A terra havia sido concedida a Miguel Barbosa (RJ 0014), pelo capitão-mor Cristóvão de Barros.",
+  "Localidade": "Data de terra entre os rios Jaguaré e Soreí",
+  "Ribeira": "Jaguaré e Soreí",
+  "Justificativas": "Era morador(a) da Capitania; Pretendia cultivar; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também ser casado e com filhos.",
+  "Observações do deferimento e da concessão": "A carta não dá especificações a respeito das medidas da terra, porém, sinaliza que a concessão foi deferida.",
+  "Observações das exigências": "Citou-se as Ordenações Manuelinas, que informa o seguinte: \"As terras que estiverem dentro do termo e limite da dita cidade de São Sebastião, que são 6 léguas para cada parte que não forem já dadas as pessoas que as aproveitem ou, posto que o fossem, se as pessoas a que se deram as não aproveitarem no tempo que são obrigadas, por esta via ou qualquer outra estiverem vagas, podereis dar de sesmaria a quem a vós pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou os parecer que podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo a ordem do Mestrado de Nosso Senhor Jesus Cristo, e com as condições e obrigações do foral dado as ditas terras de minha ordenação do livro 4º, título das sesmarias, com a condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos três anos, e que dentro do dito tempo, não possam vender, nem enlear e se algumas pessoas aqui forem dadas terras no termo da dita cidade e as tiverem perdidas por não as aproveitarem, se a vós voltarem a pedir, as darei de novo com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes e isto se entenderá não sendo as ditas terras dadas as outras pessoas\". Determinou-se também ao suplicante que \"haja a posse e senhorio da dita terra, para sempre\", assim como exigiu-se que \"rompa, aproveite e frutifique a dita terra da dada desta em três primeiros anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses, tem feito na dita terra algum proveito e plantado alguns mantimentos, que  cumprido os ditos três anos que a tenha aproveitado, como dito é, porque não fazendo assim, passado os ditos três anos, se dará a terra que aproveitada não tiver de sesmaria a quem a pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver, sobretudo pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenadas e necessárias para o Conselho e para pontes, pontes, vieiras e pedreiras que necessário forem, a qual terra da maneira dita lhe assim deu e concedeu em nome Del Rei nosso Senhor, forra e isenta, sem foro nem tributo algum, somente de tudo que lhe nosso Senhor der nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme o dito regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0107"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0107
+Carta de concessão de sesmaria de Francisco de Lemos de 29 de julho de 1602
+Forra
+Saibam quanto esse instrumento de carta de sesmaria virem que no ano do nascimento do
+nosso Senhor Jesus Cristo de 1602, aos 29 dias do mês de julho do dito ano, nesta cidade de
+São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante nomeado,
+apareceu Francisco de Lemos de Azevedo, morador nesta cidade e me apresentou uma petição
+com despacho nela do Senhor Martim de Sá, capitão e governador desta dita cidade, capitania
+e governança deste dito Rio de Janeiro por El Rei nosso Senhor. Da qual petição o despacho
+dela é o seguinte: Francisco de Lemos de Azevedo que nesta cidade está em data de terra
+entre o rio Jaguaral e Soreí que foi dado pelo capitão Cristóvão de Barros a Miguel Barbosa
+há muitos anos, para aproveitar, o que não fez na forma das doações, o que visto pede a Vossa
+Senhoria havendo respeito ao dito ser casado na terra e ter filhos e não possuir outra dada de
+terra nenhuma, lhe faça mercê de lhe dar a dita dada de terra e carta de sesmaria, assim como
+nela se contém estando perdida e devoluta para aproveitar e cultivar, conforme o regimento,
+no que receberá mercê. Despacho do senhor capitão e governador: dou a dita dada ao
+suplicante, não estando dada a outrem e ser esta devoluta como em sua petição, diz e
+passo-lhe carta de sesmaria. Rio de Janeiro, 20 de julho de 1602. //Martim de Sá// E tudo visto
+pelo dito senhor, capitão e governador a petição do dito suplicante, Francisco de Lemos de
+Azevedo, e o que ele pedia, visto ser justo e havendo respeito ao proveito que se pode seguir
+acerca da República e ao serviço de Deus e Del Rei nosso Senhor, para a terra se povoar, deu
+ao dito Francisco de Lemos de Azevedo, suplicante, a terra que pede em sua petição contida
+no dito despacho,
+conforme ele dizia, porquanto, estava devoluto e por aproveitar para
+aproveitar e fazer sua fazenda e roças, como diz nela não sendo já dada a outra pessoa ou
+pessoas primeiro, como no dito despacho diz, a qual terra diz que está no dito lugar e parte
+pelas ditas confrontações como na sua petição diz. A qual terra lhe deu e concedeu pela
+maneira adiante declarada, segundo o seu despacho é declarado, segundo forma de seu
+regimento de Del Rei nosso Senhor, do que o traslado é o seguinte: As terras que estiverem
+dentro do termo e limite da dita cidade de São Sebastião, que são 6 léguas para cada parte que
+não forem já dadas as pessoas que as aproveitem ou, posto que o fossem, se as pessoas a que
+se deram as não aproveitarem no tempo que são obrigadas, por esta via ou qualquer outra
+estiverem vagas, podereis dar de sesmaria a quem a vós pedir, e tereis lembrança que não deis
+a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou os parecer que
+podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro,
+somente o dízimo a ordem do Mestrado de Nosso Senhor Jesus Cristo, e com as condições e
+obrigações do foral dado as ditas terras de minha ordenação do livro 4º, título das sesmarias,
+com a condição que a tal pessoa ou pessoas que residam na povoação da dita capitania ou das
+terras que lhe assim forem dadas ao menos três anos, e que dentro do dito tempo, não possam
+vender, nem enlear e se algumas pessoas aqui forem dadas terras no termo da dita cidade e as
+tiverem perdidas por não as aproveitarem, se a vós voltarem a pedir, as darei de novo com as
+condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim
+derdes e isto se entenderá não sendo as ditas terras dadas as outras pessoas. Com as quais
+condições, obrigações e declarações lhe assim deu o capitão e governador a dita terra ao dito
+suplicante Francisco de Lemos de Azevedo, pela dita maneira para sua guarda e segurança,
+lhe mandou ser feita esta carta pela qual manda que ele haja a posse e senhorio da dita terra,
+para sempre, para ele e todos os seus herdeiros, sucessores, ascendentes e descendentes que
+após dele vierem com tal condição e entendimento que ele rompa, aproveite e frutifique a dita
+
+terra da dada desta em três primeiros anos primeiros seguintes, outrossim, fará de maneira que
+dentro de quatro meses, tem feito na dita terra algum proveito e plantado alguns mantimentos,
+que cumprido os ditos três anos que a tenha aproveitado, como dito é, porque não fazendo
+assim, passado os ditos três anos, se dará a terra que aproveitada não tiver de sesmaria a quem
+a pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver,
+sobretudo pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e
+serventias ordenadas e necessárias para o Conselho e para pontes, pontes, vieiras e pedreiras
+que necessário forem, a qual terra da maneira dita lhe assim deu e concedeu em nome Del Rei
+nosso Senhor, forra e isenta, sem foro nem tributo algum, somente de tudo que lhe nosso
+Senhor der nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme o
+dito regimento, que tudo manda que se cumpra e guarde sem dúvida nem embargo algum que
+lhe a ele seja posto e que esta carta seja registrada dentro de um ano nos livros da Fazenda
+Real, como dito senhor em seu regimento manda sob as penas nele contidas e declaradas,
+porque o sobredito Francisco de Lemos de Azevedo, suplicante, tudo prometeu de ter, manter
+e cumprir, pela dita maneira lhe mandou o dito senhor capitão e governador, passar esta carta
+de sesmaria e por verdade eu, Pero da Costa, escrivão de sesmarias e tabelião das notas por El
+Rei nosso Senhor, nesta cidade de São Sebastião do Rio de Janeiro em seus termos, que este
+instrumento de carta de sesmaria, escrevi e tomei nos livros de notas e tombo das cartas de
+sesmarias da dita cidade que meu poder ficam, e estão onde o dito instrumento fica assinado
+pelo dito senhor capitão e governador. Diz a entrelinhas “forem”. //Martim de Sá//
+-Fim da Transcrição -
+Observações:
+Título original: Carta de sesmaria da terra que pediu Francisco de Lemos que diz que foi dada
+Miguel Cardoso
+Referências: 
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.pg.118-121.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação
+Biblioteca Nacional, Vol. 2, dep. Nacional do livro, 1967. pg.118. Códice 778 e 779. Pg. F.1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

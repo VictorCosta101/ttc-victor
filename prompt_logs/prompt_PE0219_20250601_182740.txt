@@ -1,0 +1,151 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0219
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0242",
+  "Nome": "Manuel Monteiro Paes da Rocha Lira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "24-09-1816",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no lugar denominado Baticaba, aos pés da Serra do Mendes. A sesmaria tinha por limites a Serra do Mendes e as terras dos herdeiros Francisco Xavier Correia de Sá. ",
+  "Localidade": "Serra do Mendes",
+  "Marcos Geográficos": "Serra do Mendes",
+  "Confrontantes": "Francisco Xavier Correia de Sá",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de dois mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0219"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0219 
+ 
+Carta de concessão de Manuel Monteiro Paes da Rocha Lira de 24/09/1816 
+ 
+Manuel Monteiro Paes da Rocha Lira com data de sesmaria do terreno nela declarado, na 
+freguesia de São José dos Bezerros, termo da vila de Santo Antão. 
+Caetano Pinto de Miranda Montenegro do Conselho de Sua Majestade Fidelíssima e do 
+da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da capitania 
+de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem que Manuel Monteiro 
+Paes da Rocha Lira me fez o requerim.to do teor seguinte  =  Ilustríssimo e excelentíssimo 
+senhor = Diz o capitão Manuel Monteiro Paes da Rocha Lira morador na ribeira da 
+Ipojuca, freguesia de São José dos Bezerros, termo da vila de Santo Antão, que a ele lhe 
+falta terra de cultura, e por isso se viu na precisão de ir plantar em um lugar denominado 
+Baticaba, entre as sesmarias do gado bravo, Riachão e terra dos herdeiros de Francisco 
+Xavier Correa de Sá no pé da serra do Mendes, cujo lugar se acha devoluta, e terá pouco 
+mais ou menos meia légua de sobra, medindo-se pelos rumos das indicadas sesmarias, ou 
+menos meia légua de sobra são entre aquelas sesmarias e as terra daqueles héreus, fazendo 
+da largura cumprimento ou do cumprimento largura, conforme permitir o terreno que 
+sobrar, ficando nesta compreensão o dito lugar Baticaba, onde se acha o suplicante 
+cultivado. Nestes termos suplica a vossa excelência para que lhe conceda em nome de 
+Sua Alteza Real por sesmaria as sobras que há de terra no indicado lugar na forma 
+exposta: e sendo não haja, para se preencher da meia légua, o suplicante se satisfaz com 
+o que houver de sobra entre os ditos sesmeiros pela necessidade que tem de terras para 
+cultivar e poder alimentar a numerosa família que tem: portanto pede a V. Ex.ª que 
+mandando proceder as diligências do estilo, e não havendo prejuízo, haja de lhe conceder 
+as referidas sobras por sesmaria na forma que requer pagando a pensão do costume ao 
+Real Patrimônio: E receberá Mercê = E sendo visto seu requerimento ordenei por 
+despacho de 16 de setembro de 1815 a câmara respectiva que mandasse afixar os editai 
+do estilo, e informando-me a dita a câmara ninguém se opusera, mandei por despachos 
+de 30 de Janeiro, e 22 de junho do corrente ano que informassem o doutor procurador da 
+Real Fazenda, e escrivão deputado da Junta da mesma Real Fazenda, e informando-me 
+ambos que se lhes não oferecia dúvida alguma, mandei por despacho de 3 de julho do 
+corrente, que se passasse carta de sesmaria na forma pedida a confrontada, não excedendo 
+de meia légua: E por título pela faculdade que me é concedida no capítulo 15 do regimento 
+deste governo: Hei por bem dar em nome de Sua Majestade ao dito Manuel Monteiro 
+Paes da Rocha Lira a referida terra, pagando o foro anual de 2 mil réis em observância da 
+real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria da Junta da Real 
+Fazenda a folha 199 verso do livro 6.º delas, a qual sesmaria possuirá e gozará ele 
+suplicante e seus herdeiros ascendentes e descendentes como sua que fica sendo de hoje 
+para todo sempre, com todas as matas, campos, rios, águas, testadas, logradouros e mais 
+úteis que nela se compreenderem, não prejudicando a terceiro e não passará a religião ou 
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os 
+seculares, e nunca se dividirá sem porções nem se partirá senão por estimação, andando 
+encabeçada em uma só pessoa, na forma da ordenação livro 4º título 96, parágrafo 23 e 
+assim não passará a herdeiros dou qualquer pessoa sem consentimento da Junta da Real 
+Fazenda para nela se darem novas fianças, e se fazerem as devidas escriturações, ficando 
+livres para a serventia dos povos todas as estradas, rios fontes e pedreiras, e reservadas ao 
+
+Real Patrimônio as madeiras de construção; pau-brasil e viveiros de quaisquer metais, e 
+será obrigado a requerer dentro de 3 anos confirmação, medição e demarcação, povoá-la 
+e cultivá-la na forma da ordem régia de 20 de outubro de 1753 e alvará de 25 de janeiro 
+de 1809, e não o cumprindo assim se haverá por devoluta, e novamente se conferirá a 
+quem a requerer. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a 
+quem tocar cumpram e façam e guardar esta carta de data de sesmaria como nela se 
+contém, fazendo dar ao suplicante posse real efetiva e atual na forma costumada, debaixo 
+das cláusulas referidas, e das mais da Ordenação título das sesmarias. Em firmeza do 
+referido lhe mandei passar a presente que sendo por mim assinada e selada com o sinete 
+das minhas armas, se registrará na Secretaria deste Governo, na da Junta da Real Fazenda, 
+e onde mais tocar. Felipe Esteves Alves a fez em o Recife de Pernambuco aos 24 de 
+setembro de 1816. José Carlos Mairink da Silva Ferrão secretario do Governo a fez 
+escrever = Caetano Pinto de Miranda Montenegro = Carta de data de sesmaria pela qual 
+V. Ex.ª há por bem dar em nome de Sua Majestade Fidelíssima Manuel Monteiro da 
+Rocha Lira o terreno nela declarado, na freguesia de São José dos Bezerros, termo da vila 
+de Santo Antão = Para V. Ex.ª ver = Por despacho do ilustríssimo e excelentíssimo senhor 
+general de 3 de Julho de 1816. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 161-162. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

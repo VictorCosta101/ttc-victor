@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0063
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0114",
+  "Nome": "José de Sousa Couseiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da petição": "02-10-1728",
+  "Data da concessão": "25-12-1730",
+  "Observações da sesmaria": "O suplicante requereu 6 braças de comprimento e 11 braças de largura na praça do Recife, próximo ao Palácio das Torres e a casa de pólvora. ",
+  "Localidade": "Vila do Recife",
+  "Confrontantes": "Palácio das Torres, Casa de Pólvora",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Por o documento encontrar-se incompleto, não foi possível averiguar todas as informações referentes ao despacho e concessão. O governador solicitou o parecer do tenente-general de artilharia, João de Macedo Corte Real, e do sargento-mor dos engenheiros, Diogo da Silveira Veloso, para averiguar se a construção de casas na área requerida prejudicava a casa de pólvora ou o Palácio das Torres.",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento do foro régio no valor de 3500 réis anuais. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0063"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0063 
+ 
+Carta de doação e sesmaria de José de Souza Cousseiro - 25/12/1730 
+ 
+JOSÉ DE SOUZA COUSSEIRO, CAPITÃO DE INFANTARIA, COM 60 PALMOS DE 
+TERRA JUNTO AOS QUARTÉIS DOS SOLDADOS DESTA PRAÇA – . 
+ 
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de Sua 
+Majestade, que Deus guarde, governador e capitão-general de Pernambuco e mais capitanias anexas 
+e etc. - Faço saber aos que esta carta de doação e sesmaria virem, que a mim se representou por 
+parte do capitão José de Souza Cousseiro, a petição do teor seguinte: Excelentíssimo senhor - Diz 
+José de Souza Cousseiro, capitão de infantaria do terço desta praça do Recife, que ele é senhor e 
+possuidor de uns chãos em que tem feito benfeitorias, os quais lhe foram dados por sesmaria pelo 
+senhor governador e capitão-general antecessor de Vossa Excelência, nas sobras dos quartéis dos 
+soldados desta praça até o rio Capibaribe, e como para a parte do norte da saída e serventia dos ditos 
+quartéis se achão 60 palmos de terra devoluta que serve de monturo, em que parte cobre a água 
+salgada, os quais quer o suplicante haver de sesmaria ou pelo modo que Vossa Excelência for 
+servido, em razão do prejuízo que se lhe pode seguir as suas referidas benfeitorias haver naquele 
+lugar segundo sesmeiro. - Pede a Vossa Excelência lhe faça mercê dar ditos 60 palmos de terra no 
+lugar confrontado, atendendo ao referido e ao merecimento do suplicante, que atualmente se acha 
+servindo a Sua Majestade, que Deus guarde. – E receberá mercê. – Despacho. Informe o tenente 
+general de artilharia e sargento-mor em engenheiros. – Recife, 2 de outubro de 1728. - Rubrica - 
+Resposta - Ao suplicante se podem dar os 60 palmos de terra que pede, na parte confrontada, com 
+110 palmos de fundo, que é os que se acha demarcado entre as duas ruas que deve haver para a 
+serventia comum, uma corre dos quartéis dos soldados para o rio, para o qual devem ficar os 60 
+palmos de terra que o suplicante pede, e outra que vai da casa da polvora para o Palácio das Torres, 
+e para esta devem ficar os 110 palmos que os ditos chãos pedidos devem ter de fundo; isto é o que 
+podemos informar a Vossa Excelência, que defirirá ao suplicante com a justiça que costuma. – 
+Recife, 9 de outubro de 1728 - João de Macedo Corte Real - Diogo da Silveira Veloso - Com cuja 
+resposta mandei que informasse o procurador da Fazenda – Recife, 13 de outubro de 1728 - Ao que 
+respondeu que se não achava com dúvida no requerimento que o suplicante faz e é conveniente que 
+criam as povoações, e que eu mandasse o que fosse servido. – Recife, 14 de outubro de 1728 - 
+Antônio  Rodrigues Pereira; e mandando eu que informasse o provedor da Fazenda Real por 
+despacho de 15 de outubro de 1728. Respondeu que vistas as informações do tenente-general de 
+artilharia e sargento-mor em engenheiros e do procurador da Fazenda Real, pelos quais se mostrava 
+se não lhe oferecia dúvida a este requerimento e se conformava em que eu dê de sesmaria ao 
+suplicante os 60 palmos de terra que pede, no lugar que declara e que deve ser com a cláusula de 
+
+pagar o foro conforme a qualidade do sítio, na forma que a outras pessoas se tem arbitrado, e que 
+este será para a Real Fazenda de Sua Majestade, que Deus guarde, como eu tenho determinado por 
+entender é o mais conveniente. – Recife, 4 de fevereiro de 1729 - João do Rego Barros. E com estas 
+respostas, mandei ao tenente-general que declarasse o foro, porque se tem arrendado semelhantes 
+chãos por despacho de 12 de abril de 1730, ao que respondeu devem pagar de foro em cada um ano 
+3:000, que vem a ser a 50 réis por palmo, e que nesta forma se tem dado semelhantes chãos, por 
+terem muito que aterrar e se fazer neles muita despesa, em razão do benefício do dito aterro, e que 
+deferisse eu como me parecesse mais justo como sempre costuma. – Recife, 12 de abril de 1730. 
+João de Macedo Corte Real = E por último, proferi o meu seguinte despacho = Passe carta ao 
+suplicante, com o foro de 50 réis por palmo, como já se passou a outros, com declaração que ao 
+abrir dos alicerces, será com a assistência do tenente-general de engenheiros e ser na forma de sua 
+informação, e caso que o suplicante exceda, se tornará a demolir a obra a sua custa e o dito foro 
+começará a correr do dia de Natal em diante. O que tudo visto e em virtude da faculdade que Sua 
+Majestade me concede no Capítulo 15 do Regimento deste Governo - Hei por bem de lhe dar como 
+pela presente dou, digo, faço de sesmaria os ditos 60 palmos de terra ao suplicante, no lugar e 
+paragem que confronta em sua petição, se tantos se acharem devoluto e não prejudicando a terceiro, 
+com obrigação de pagarem de foro todos os anos a Fazenda Real a 50 réis por palmo, que são 
+3:000, os quais 60 palmos de terra logrará ele e seus herdeiros, com todas suas pertenças e 
+logradouros, e querendo principiar neles benfeitorias o fará com assistência do tenente-general de 
+engenheiros, na forma do meu último despacho, observando-se tudo o mais apontado nas respostas 
+acima. Pelo que ordeno ao provedor da Fazenda Real, lhe mande fazer carta por lembrança do dito 
+foro que há de pagar, que começará a vencer de 25 de dezembro próximo, deste ano de 1730, e por 
+esta o hei permitido de posse e etc. etc. como as outras – . 
+- Fim da carta - 
+ 
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a 
+esta sesmaria. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 338 - 341. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

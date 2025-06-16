@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0232
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel da Costa Negreiros",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "12-12-1746",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"está de posse e cultivando com seus escravos há seis anos a ilha chamada de Jaguanum\".\r\n",
+  "Localidade": "Ilha de Jaguanum",
+  "Marcos Geográficos": "Ilha da Marambaia",
+  "Confrontantes": "Terra firme do distrito da vila de Angra dos Reis da Ilha Grande",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se do suplicante que igualmente reservasse os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0232"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0232
+Carta de concessão de Manuel da Costa Negreiros de 12 de dezembro de 1746
+Matias Coelho de Sousa, mestre de campo de infantaria de um dos terços da guarnição desta
+praça, cujo cargo está o governo do Rio de Janeiro e suas capitanias.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manuel da Costa Negreiros, que ele está de posse e cultivando com seus escravos
+há seis anos a ilha chamada de Jaguanum, sita entre a da Marambaia e a terra firme do distrito
+da vila de Angra dos Reis da Ilha Grande, e porque não tinha carta de sesmaria, nem constava
+tê-la pessoa alguma, me pedia lhe desse de sesmaria a dita ilha, na qual só poderia aproveitar
+1 légua de terras por ser muito fragosa, tinha [habitável] na mais parte. Sendo visto o seu
+requerimento e o que sobre ele informaram ao provedor da Fazenda Real e procurador da
+Coroa. Hei por bem dar de sesmaria, em nome de Sua Majestade, ao dito Manuel da Costa
+Negreiros a ilha de Jaguanum, não tendo mais de 1 légua em quadra capaz de produção; sem
+prejuízo de terceiro ou do direito que algumas pessoas tenham a ela; com declaração, porém,
+de a cultivar e mandar confirmar esta minha carta pelo mesmo Senhor dentro de 2 anos, e não
+o fazendo será privado dela; a fará medir e demarcar judicialmente antes de tomar posse
+delas; será obrigado a fazer os caminhos da sua testada quando necessários for; nesta data não
+poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o
+encargo de pagar dízimos e outro qualquer que Sua Majestade for servido impor-lhe de novo,
+e não os pagando se poderão dar a quem as denunciar; como também sendo o mesmo Senhor
+servido mandar fundar no distrito destas terras alguma vila o poderá fazer ficando estas livres,
+sem encargo algum ou pensão para o sesmeiro; não compreenderá esta data vieiros ou minas
+de qualquer gênero de metal que nelas se descobrir, reservando também os paus Reais; e
+faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua Magestade e as
+que dispõem a Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito Manuel da Costa de
+Negreiros da referida data na forma acima declarada. E por firmeza de tudo, lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+como nela se contém, registrando-se nos Livros desta Secretaria e nos a que tocar. Dada na
+cidade de São Sebastião [do] Rio de Janeiro, aos 12 dias do mês de dezembro de 1740. O
+oficial maior da Secretaria, Pedro Fagundes Varela, a fez, e o secretário, Antônio da Rocha
+Machado, a fez escrever.
+//Matias Coelho de Sousa//
+
+Carta porque Vossa Senhoria há por bem dar de sesmaria, em nome de Sua Majestade, a
+Manuel da Costa Negreiro a Ilha de Jaguanum, sita no distrito da Ilha Grande, na forma das
+ordens do mesmo Senhor.
+Para Vossa Senhoria ver.
+Registrada à folha 7 do Livro 7° que serve nesta Secretaria do governo dos registros de
+Sesmarias e Provisões. Rio, a 16 de dezembro de 1746. //Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de Sesmaria a
+Manoel da Costa Negreiros a ilha de Tagarro, não excedendo uma légua de terras, em quadra.
+Rio de Janeiro, 12 de dezembro de 1746.
+Manoel da Costa Negreiros foi atualizado para Manuel da Costa Negreiros.
+Apesar do título AHU transcrever como “ilha de Tagarro”, identificamos ser “ilha de jaganó”,
+que por sua vez foi atualizada para “Ilha de Jaguanum”. Importante ressaltar que encontramos
+os confrontantes mencionados na carta de concessão de sesmaria.
+Referência:
+AHU_ACL_CU_017-01, Cx. 50, D. 11658
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

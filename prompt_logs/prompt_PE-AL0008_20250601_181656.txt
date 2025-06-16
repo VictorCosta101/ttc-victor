@@ -1,0 +1,175 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0008
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0072",
+  "Nome": "André Furtado de Mendonça",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "15-04-1717",
+  "Data da concessão": "22-04-1717",
+  "Observações da sesmaria": "O sesmeiro requereu três léguas de comprimento e três léguas de largura na região do Palmar, entre o rio Gurupama e o rio Paraíba. As terras possuíam como limite o curso do rio Gurupama ao norte até desaguar no rio Paraíba e três léguas para cada lado do rio. ",
+  "Localidade": "Palmar",
+  "Marcos Geográficos": "Rio Paraíba, Rio Gurupama",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Pretendia fazer curral; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/01/1699; Citou a Carta Régia de 27/06/1711; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que não se passasse para ordens religiosas; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda Real, João do Rego Barros, recomendou que a concessão fosse feita de acordo com a ordem régia de 28 de janeiro de 1698. ",
+  "Observações das exigências": "O governador Dom Lourenço de Almeida ordenou que o suplicante povoasse a terra dentro do tempo de 5 anos. O governador Dom Lourenço de Almeida ordenou que o suplicante requeresse a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0008"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0008 
+ 
+Carta de doação e sesmaria de André Furtado de Mendonça - 22/04/1717 
+ 
+SESMARIA QUE SE PASSOU AO CAPITÃO ANDRÉ FURTADO DE MENDONÇA, DO 
+TERÇO DOS PALMARES. 
+ 
+Dom Lourenço de Almeida, do Conselho de Sua Majestade, governador de Pernambuco e mais 
+anexas e etc. Faço saber aos que esta carta de doação de sesmaria virem que o capitão André 
+Furtado de Mendonça, Paulista do 3.° de Infantaria, paga dos Palmares, que ele suplicante, me 
+representou a petição cujo teor é o seguinte: Senhor governador. Diz André Furtado de Mendonça, 
+Paulista do 3.° de Infantaria, paga dos Palmares, que ele suplicante veio de tão longe, deixando a 
+sua pátria São Paulo e fazendas, para a conquista da Campanha dos Palmares, por sua livre vontade 
+a servir a Sua Majestade, que Deus guarde, e depois da restauração da dita Campanha e destruição 
+dos negros levantados que a dominavam, está ele morador e assistente nas terras dos ditos Palmares 
+com sua família, aonde tem feito povoação com casas de sobrado e tinha aberto matos e feito 
+pastos, aonde tem feito lavouras de roças e tabacos em vários sítios e nelas árvores de espinho e 
+outros frutos usuais na terra com um curral de gado, tudo há 19 para 20 anos, e como Sua 
+Majestade, que Deus guarde, faz mercê aos restauradores das ditas terras dos Palmares, de dar a 
+cada um dos capitães de infantaria do dito terço, três léguas de terra em quadra de sesmaria sem 
+foro nem pensão alguma mais que o dízimo a Deus, como consta das ordens reais juntas e quer o 
+suplicante tirar a sua sesmaria no sítio onde está morador, que é começando a medir as ditas três 
+léguas em quadro da barra do riacho Gurapama, onde cai no rio Paraíba, três léguas pelo dito rio 
+Paraíba acima e duas léguas da barra do dito riacho Gurapama, para a parte do norte e uma légua da 
+outra banda do rio Paraíba três léguas de terra em quadro, pelo que pede a Vossa Senhoria seja 
+servido mandar por seu despacho se lhe passe carta de sesmaria das ditas três léguas de terra em 
+quadro na forma das ordens de Sua Majestade, que Deus guarde, no que; E receberá mercê. = 
+Despacho = Informe o provedor da Fazenda Real, ouvindo o procurador da Coroa. Recife, 13 de 
+abril de 1717 = "Rubrica". Haja vista ao doutor procurador da Fazenda. Recife, 14 de abril de 1717 
+= Barros = Deve-se ouvir o escrivão da Fazenda Real, apontando-se a ordem real, em contrário 
+revendo as que em seu poder se acham para se poder deferir ao suplicante. Recife, 14 de abirl de 
+1717 - "Souza Magalhães". Nesta provedoria não há sesmaria que se passou ao capitão André 
+Furtado de Mendonça, do terço dos Palmares, ordem de Sua Majestade, que encontre as que o 
+suplicante apresenta, como se mostra nas cópias juntas que onde Sua Majestade concede aos 
+oficiaes dos Palmares, suas datas de sesmarias nas mesmas terras dos Palmares, como mais 
+claramente se vê da ordem do dito senhor de 28 de janeiro de 1698. Recife, 14 de abril de 1717 = 
+Miguel Corrêa Gomes = Carta de Sua Majestade = "Caetano de Mello de Castro = Amigo = Eu, El 
+
+Rei, vos envio muito saudar. Havendo, visto que aqui se me representou por parte dos paulistas 
+sobre a forma que se deu as sesmarias, cuidando que os ministros e deputados a elas acham de ir 
+destribuir no sertão, e que primeiro se hão de decidir, ainda que sumariamente, os prejuízos de 
+terceiros, que lhe sejam entregues as terras. E atendendo as razões que se me ofereceram e 
+propuseram a favor do mestre de campo Domingos Jorge Velho, que na assistência da Câmara e no 
+movimento da guerra dos negros dos Palmares, se tem assinalado e merecido tanto. Me pareceu 
+mandar-vos declarar que no sítio que ele nomear se lhe deem seis léguas de terra de sesmaria em 
+quadro; e ao sargento-mor, em sítio apartado, quatro léguas em quadro; e aos capitães de Infantaria, 
+a cada um deles, três léguas em quadro; e aos alferes, a cada um duas léguas em quadro; e a cada 
+sargento, uma légua em quadro; e a cada soldado branco, da mesma maneira, uma legoa em quadro; 
+e que a cada uma das companhias se assine junto ao sítio da sua data, para se aldearem os índios 
+dela, quatro legôas em quadro para sítio e mantimento da sua aldeia; com declaração que a 
+repartição destas terras, se entende, se tanto couber no sítio dos Palmares, que se conquistaram e 
+ficaram de conquistar para o sertão, sem que possa exceder a forma dela; e quando não caiba no tal 
+sítio, se diminuirá o menos que for possível, procurando-se que o mestre de campo e o sargento-mor 
+fiquem bem acomodados, e também os mais cabos inferiores, e fazendo que as terras que se 
+partirem se lhes deem, com efeito, e os metam de posse, sem embargo de qualquer direito que 
+outras pessoas, por antecedentes sesmarias pretendam, os quais poderão requerer perante vós ou a 
+quem tocar, para que examinados os seus títulos, se tiverem direito, os acomodem em outras terras 
+equivalentes e de tudo que se defirir nesta matéria, me dareis parte ou conta pelo meu Conselho 
+último, com os papéis e documentos que as partes tiverem oferecido e nas ditas datas se imporão as 
+obrigações costumadas. Escrita em Lisboa, em 28 de janeiro de 1698 = Rei = Tome vista ao doutor 
+procurador da Fazenda, para dizer o que se lhe oferecer. Recife, 15 de abril de 1717 - "Barros". 
+Vendo os documentos juntos e a informação que dá o escrivão da Fazenda Real, não tenho dúvida 
+alguma. Pernambuco, 20 de abril de 1717. "Pereira". Senhor governador. Em observância do que 
+Vossa Senhoria me há ordenado, ouvi o doutor procurador da Fazenda Real, o qual satisfeito da 
+dúvida que se lhe oferecia, responde vista a informação do escrivão da Fazenda Real, que não tem 
+dúvida em que se deem as terras ao suplicante, ao que eu também me conformo, porém parece-me 
+preciso representar a Vossa Senhoria, como Sua Majestade, que Deus guarde, pela sua real carta de 
+28 de janeiro do ano de 1698, de que o suplicante apresenta cópia, ordena que a representação 
+destas terras se extenda se tanto couber no sítio dos Palmares, nas que se conquistaram e ficaram 
+por conquistar para o sertão, sem que se possa exceder a forma dela, e que quando não caiba no tal 
+sítio, se diminuirá o menos que for possível: com esta cláusula, mando Vossa Senhoria passar a 
+carta de sesmaria ao suplicante, e que não sucederão nas terras religiões por nenhum título, como 
+ordena Sua Majestade, por carta de 17 de junho de 1711, que se acha registrada na Secretaria deste 
+
+Governo, sem foro nem pensão alguma como o dito senhor manda, se deem as terras aos paulistas, 
+pagando somente o dízimo a ordem de Cristo e com as mais cláusulas e ordinárias condições. É o 
+que posso informar a Vossa Senhoria, que mandará o que lhe parecer mais conveniente ao serviço 
+real, como em tudo costuma. Recife, 20 de abril de 1717 = João do Rego Barros = E havendo, 
+outrossim, respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste Governo; e 
+pela ordem aqui inclusa de 28 de janeiro de 1698. Hei por bem fazer-lhe mercê dar ao supplicante 
+acima nomeado, como pela presente dou de sesmaria, em nome de Sua Majestade, que Deus 
+guarde, nos mesmos lugares, partes e testadas que confrontam em sua petição, três léguas de terra 
+em quadro, dentro das terras conquistadas dos Palmares, como o dito senhor ordena e na mesma 
+forma que parece ao provedor da Fazenda Real e ao doutor procurador da Coroa e Fazenda, livres e 
+isentas de pensão do foro de cada légua, exceto o dízimo a Deus e a ordem de Cristo, segundo as 
+disposições reais, o qual 
+povoará a dita terra no tempo de cinco anos, aliás se darão por 
+devolutas, as possuirá e gozará ele e seus herdeiros, não prejudicando a terceiro, com todas as suas 
+matas, águas, campos, testadas, logradouros e mais úteis que nelas se acharem, não prejudicando a 
+ninguém, com condicão que não succederão nas ditas terras religiões por nenhum título e 
+acontecendo que sucedam e possuindo-as, seja com o encargo de delas se deverem e pagarem 
+dízimos como se fossem possuídas por seculares, e faltando-se a isto se darão por devolutas, na 
+forma da ordem de Sua Majestade, por carta de 17 de junho de 1711; e será o suplicante e seos 
+herdeiros obrigados a dar caminho livres ao Conselho para fontes, pontes, ou pedreiras e a requerer 
+a confirmação desta data pelo dito senhor no termo de dois anos. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias a quem o conhecimento desta carta pertencer, lhe 
+façam dar a posse real, efectiva e atual, na forma costumada e debaixo das cláusulas referidas e da 
+ordenação título de sesmarias; que por firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da Secretaria deste 
+Governo, nos da Fazenda e nos do Foral Real a que tocar; e sem esta precisa circunstância não terá 
+vigor nem validade a presente carta de sesmaria. Dada nesta Vila do Recife, em 22 de abril = 
+Manoel da Silva Rosa a fez = ano de 1717. O secretario deste Governo, Domingos Lopes Preto, a 
+fez escrever = Dom Lourenço de Almeida. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 230 - 235. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

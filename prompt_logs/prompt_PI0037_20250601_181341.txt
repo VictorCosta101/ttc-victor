@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0037
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco da Cunha e Silva de Castelo Branco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "02-12-1788",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"desde o ano de mil setecentos e sessenta e nove; eu [lhe vá] um sítio de terras chamado o Mundo Novo no qual tem apascentado e criado bastantes gados vacuns\".",
+  "Localidade": "Sítio O Mundo Novo",
+  "Confrontantes": "Olho D'Água O Mundo Novo",
+  "Justificativas": "Tinha gado vacum; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "E porque não tinha título das ditas terras e a pretendia haver por carta de data de sesmaria, me pedia lhe mandasse passar.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a qualquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. E havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0037"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0037
+Carta de concessão do Capitão Francisco da Cunha e Silva de Castelo Branco de 02/12/1788
+Registro de uma carta de data e sesmaria passada ao capitão Francisco da Cunha e Silva de
+Castelo Branco.
+Doutor José Pereira da Silva Manoel
+do desembargo de Sua Majestade fidelíssima que Deus
+guarde; ouvidor geral
+João Paulo Diniz ministro do campo do terço de cavalaria e ordenança;
+Agostinho de Souza Monteiro senador mais velho governo interino desta capitania de São José do
+Piauí, pela mesma senhora etc. Fazemos saber ao que esta nossa carta de data e sesmaria virem que
+o capitão Francisco da Cunha e Silva de Castelo Branco morador no distrito da vila de Campo
+Maior desta comarca; nos representou que ele desde o ano de mil setecentos e sessenta e nove; eu
+[lhe vá] um sítio de terras chamado o Mundo Novo no qual tem apascentado e criado bastantes
+gados vacuns. e porque ele não tinha título o pretendia haver na forma das ordens de Sua Majestade
+fidelíssima; nos pedia lhe mandássemos passar três léguas de comprido e uma de largo por todo o
+seu comprimento fazendo pião em um olho d' água chamado o Mundo Novo correndo dele o seu
+comprimento com légua e meia para a parte do nascente e légua e meia para a parte do poente na
+largura com meia para o norte e meia para o sul. Ao que atendendo também e à informação dos
+oficiais da Câmara e ao provedor da Fazenda Real que foi ouvido e se lhe não ofereceu dúvida
+alguma e ser em utilidade da mesma Real Fazenda cultivarem-se as terras neste Estado. Havemos
+por bem conceder em nome de Sua Majestade por data e sesmaria as ditas três léguas de comprido
+de uma de largo na forma e parte que pede com as confrontações que declara e com as condições
+expressadas nas Reais Ordens; e com a de não fazer trespasse por meio algum, em nenhum tempo, a
+pessoa alguma religião ou [comunidade] sem que primeiro de parte na Casa da Fazenda ao provedor
+dela para se nos fazer presente para ver se se deve ou não consentir no tal trespasse; sob pena de
+ficar nula esta e se [poder] novamente a outros. E nesta forma se lhe passa carta porque o dito
+capitão Francisco da Cunha e Silva de Castel Branco, haja, logre e possua as sobreditas terras como
+coisa sua própria para ele e seus herdeiros, ascendentes e descendentes sem pensão nem tributo
+algum mais que o dízimo a Deus nosso senhor dos frutos que nela tiver ou lavrar, a qual concessão
+lhe fazemos não prejudicando a terceiros, nem a Sua Majestade, se no dito Sítio quiser mandar
+fundar alguma vila, reservando os paus reais que nelas houver para embarcações. Com declaração
+que mandará confirmar esta data, por Sua Majestade, dentro de três anos primeiros seguintes; e
+cultivará as ditas terras de maneira que deem frutos, e dará caminhos públicos e particulares aonde
+forem necessários para pontes, fontes, portos e pedreiras; e havendo nas mesmas terras estrada
+pública, que atravesse rio caudaloso que necessite de barca para se atravessar, não só ficará de
+ambas as bandas do tal a rio a terra que baste para o uso público, mas sim delas meia légua de terra
+em quadra para comodidade pública, e de quem arrendar a dita passagem, se demarcará ao tempo da
+posse por rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E outrossim, não
+poderão suceder nelas religiões nem outras pessoas eclesiásticas por nenhum título que seja, e
+acontecendo, possuí-las será com o encargo de se pagarem delas dízimos a Deus, como se fossem
+possuídas por seculares, e faltando a qualquer destas cláusulas se haverão estas terras por devolutas,
+e se darão a quem as denunciar, como o mesmo Senhor ordena. Pelo que mandamos ao provedor
+mor da Fazenda Real, mais ministros e pessoas a que tocar que, na forma requerida e condições
+expressadas, deixem ter e possuir as sobreditas terras ao dito capitão Francisco da Cunha e Silva de
+Castelo Branco como coisa sua própria, para sí e seus herdeiros, ascendentes e descendentes e que
+assim também; cumpram e guardem esta minha carta de data e sesmaria tão inteiramente como se
+lhe contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas armas, que
+se registrará onde tocar, e se passou por duas vias. Dada nesta cidade de Oeiras aos 2 de dezembro
+do ano do nascimento de nosso senhor Jesus Cristo de 1788. E eu Tomás de Aquino Ozório
+secretário do do ilustríssimo governo que a fiz [escrivão] // estava o lugar do selo// José Pereira da
+Silva Manoel // João Paulo Diniz// carta de data e sesmaria porque Vossa Senhora há por bem
+
+conceder em nome de Sua Majestade Fidelíssima ao capitão Francisco da Cunha e Silva de Castel
+Branco três léguas de terra de comprido de uma de largo no sítio chamado o Mundo Novo, termo da
+vila de Campo Maior com as confrontações que na mesma carta de declara. Para Vossa Senhoria
+Ver.
+-
+Fim da carta -
+Referência:
+APEPI, Livro 1, fls. 83v - 85v .
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

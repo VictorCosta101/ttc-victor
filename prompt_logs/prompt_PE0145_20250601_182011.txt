@@ -1,0 +1,226 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0145
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0259",
+  "Nome": "Francisco de Oliveira Guimarães",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-06-1821",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila de Santo Antão. A sesmaria localizava-se entre as terras de Carlos de Azevedo Caldeira e José Paz de Lira.",
+  "Localidade": "Vila de Santo Antão",
+  "Confrontantes": "Carlos de Azevedo Caldeira e José Paz de Lira",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Após o suplicante requerer a sesmaria, algumas pessoas se opuseram por se sentirem prejudicadas ou lesadas com a concessão: Joaquim José Torres Galindo, e seu genro Manuel Bruno Torres Galindo, senhores do sítio Mata Verde. Após constituições amigáveis com o suplicante, os opositores desistiram de se interpor a concessão da sesmaria. ",
+  "Observações das exigências": "O governador Luiz do Rego Barreto determinou o pagamento anual do foro régio no valor de três mil réis. O governador Luiz do Rego Barreto determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0145"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0145
+Carta de doação de data e sesmaria de Francisco de Oliveira Guimarães -
+15/06/1821
+Francisco de Oliveira Guimarães com metade de uma légua quadrada de terra
+junto a povoação do bonito, termo da vila do Santo Antão.
+Luís do Rego Barreto do conselho de Sua Magestade, fidalgo da Casa Real,
+comendador nas Ordens de Cristo, e torre es espada, condecorado com a cruz grande
+das sete batalhas por Sua Majestade britânica, marechal de campo dos reais exércitos,
+comandante em chefe da divisão militar de Pernambuco, governador e capitão general
+da mesma capitania, etc. Faço saber aos que esta carta de data de sesmaria virem que
+Francisco de Oliveira Guimarães me fez o requerimento do teor seguinte = Ilustríssimo
+e excelentíssimo senhor = Diz Francisco de Oliveira Guimaraens, que ele suplicante,
+tem por noticia que para a parte do bonito, termo da vila de Santo Antão há terras
+devolutas ao Sul das terras pedidas de sesmarias por Carlos de Azevedo Caldeira, e José
+Paz de Lira, cujas terras são conhecidas por entre meios da dita sesmaria, e por que não
+consta que tais entremeios lhe fossem concedidos, e menos pedidos pelos primeiros
+sesmeiros pretende o suplicante que Vossa Excelência lhe conceda por sesmaria o
+terreno, que se compreende debaixo das seguintes dimensões; a saber: correndo o rumo,
+que fica para a parte do Sul, e foi extrema daquela sesmaria na direcção de Leste a
+Oeste, mais meia légua para Leste, e meia para Oeste, fará uma linha de 3 léguas de
+comprimento, e levantando em cada extremo desta linha uma perpendicular em direção
+do sul formarão o segundo, e terceiro lados, que fechados por outra linha de 3 léguas,
+formará uma superfície equivalente 3675 braças quadradas para menos, que o suplicante
+pertende por sesmaria, pois que tem possibilidades para as pôr em agricultura: para cujo
+fim = pede a Vossa Excelência, se disigne mandar proceder as diligências do costume =
+e receberá mercê = E sendo por mim visto o seu requerimento, mandei por despacho de
+23 de dezembro de 1819 a câmara respectiva que mandasse por editais na forma da lei
+por tempo de 30 dias, e me informasse, se havia terceiro prejudicado; e informando-se
+esta que se haviam oposto o capitão Joaquim José Torres Galindo, e seu genro, Manoel
+Bruno Torres Galindo, cujo requerimento me enviaram com o dito informe, em 22 de
+fevereiro de 1820 lhe dei o despacho seguinte = a câmara de Santo Antão avise os
+oponentes, que se apresentem na secretaria do governo para se lhes mostrar, que a sua
+oposição é mal fundada = e tendo comparecido este juntamente com o suplicante,
+
+mandei, que se lhes mostrasse que aquele terreno não tinha sido ainda concedido a
+algum por sesmaria, nem tão pouco tal fim requerido, salvo se o tivesse sido a antigos
+sesmeiros, que tenham já perdido o seu domínio pela razão de não terem cumprido a
+risca as condições; do que ficando todos convencidos, amigavelmente se compuserão,
+fazendo os oponentes desistência da sua oposição concebida nos termos seguintes =
+dizemos nós o capitão Joaquim José Torres Galindo, e Manoel Bruno Torres, que tendo
+posto impedimento as terras, que por sesmaria pede Francisco de Oliveira Guimarães,
+por estarmos persuadidos que sua demarcação incluía o sitio de terras denominado mata
+verde, que havemos possuído por título de compra, e a que temos direito de preferência
+para ser ser nos dado por sesmaria, a qual já temos pedido, por sabermos agora, que ele,
+dito, Guimarães não quer de maneira alguma prejudicarnos na demarcação, que
+pertende fazer, daclaramos que desistimos de todo o impedimento, que até aqui
+havíamos intentado, com tanto que o referido Guimarães nos não prejudique na nossa
+posse, e direito de preferência; e para que seja constante a nossa desistência debaixo da
+referida condição, se salvou o presente papel, que por firmeza vai para nos ambos
+assinado, declarando porem que exigimos que o dito Guimarães declare por escrito
+aceitar esta nossa condição, sem o que ficará existindo o nosso referido impedemento
+Recife 26 de fevereiro de 1820 = Joaquim Joze Torres Galindo = Manoel Bruno Torres
+Galindo = e o suplicante tendo concluído este ajuste com o aceite da mesma condição,
+escrito de sua própria letra nos termos seguintes = Aceito a oposição debaixo das
+condições, que propõem Joaquim José Torres Galindo, e Manoel Bruno Torres; e por
+concordar-nos nisso, passei o presente por mim feito e assinado. Recife a 27 de
+fevereiro de 1820 = Francisco de Oliveira Guimaraes = depois de reconhecidas as
+firmas, e selado este documento, o apresentou, e em consequência progredirão as
+diligências do estilo, mandando, o apresentou, e em consequência progredirão as
+diligências do estilo, mandando eu por despachos de 3, e 10 de março do mesmo ano
+ouvir o doutor procurador da Coroa, e o escrivão deputado da junta da Real Fazenda,
+pelos quasi lhe não foi posto impedimento algum, e logo em despacho de 18 do dito
+mês, e ano ordenei, se lhe passasse portaria para a medição, e demarcação, mas
+fazendo-me o suplicante um novo requerimento que diz assim = Ilustríssimo e
+excelentíssimo senhor = Diz Francisco de Oliveira Guimaraes, que tendo aprontado
+todos os despachos para uma sesmaria de meia légua de fundo sobre 3 de frente, e
+estando chegada a época de se mandar medir, e demarcar, deseja separá-la em duas
+sesmarias de metade de légua em quadro pouco mais, ou menos, medidas ambas por
+
+parte do suplicante para o que = pede a Vossa Excelência, se digne assim o mandar = e
+receberá mercê = lhe deferi em 21 do dito mês, e ano na forma seguinte = passe duas
+portarias, separando as medições, e ajunte este requerimento ao primittivo do suplicante
+= procedeu-se pois na forma do meu despacho, porém, tendo nesta época Antonio da
+silva e companhia procedido a demarcação de umas terras, que já lhe haviam sido
+conferidas, e precisando para se preencher entrar pelo território nelas mencionado, só
+teve lugar a do teor seguinte = o juiz das sesmarias da vila de Santo Antão, ou o juiz
+ordinário junto com um piloto idôneo, e mais pessoas necessárias passará a margem
+esquerda do riacho Monde entre a sesmaria de Antonio da Silva, e a de Carlos de
+Azevedo, e José Paes de Lira, reconhecerá o rumo do Sul desta ultima sesmaria, e
+procurando-o pelo extremo da parte do este, mandará medir dela para o centro, e por
+parte de Francisco de Oliveira Guimarães uma légua de 2.400 braças, e depois
+continuando o mesmo rumo de este por 1200 braças, tomará esta linha de 3.600 braças
+por base da medição, em cujos extremos fará colocar os competentes marcos, e levantar
+depois duas perpendiculares de 1200 braças cada uma, onde tendo feito assentar o
+terceiro, e quarto marcos, fará correr o rumo dos fundos, parte do qual deve coincidir
+exatamente com o rumo de Francisco Casa Lima. Concluída por esta forma a medição,
+e demarcação, o dito juiz me remeterá com esta o auto original passado por sentença,
+deixando no arquivo da câmara o translado, e no dito auto fará menção de todas as
+acidentes do terreno, como planícies, pântanos, lagoas, regatos, rios, caminhos, estradas,
+pedras notáveis, elevações de terreno, montes, serras, e tudo, quanto possa servir de
+guia, e prova na verificação dos mesmos rumos, para o que determinará ao piloto que
+declare sempre o número de braças, com que chegar a cada um destes acidentes, e as
+direções, donde, e para onde eles correm. O juiz desta medição, durante ela, não aceitará
+a oposição, nem embargo com suspensão, que não seja fundado em uma carta de
+sesmaria confirmada por Sua Majestade, ou que pelo menos não tenha excedido o prazo
+para a confirmação, sendo carta dada por este governo; a respeito de todas as outras
+oposições, ou embargos, seguirá os termos da lei em auto separado, continuando sempre
+a medição, e demarcação até a passar por sentença. Esta minha portaria não terá vigor
+por mais de um ano, findo o qual ficará de nenhum efeito, como se nunca fora passada
+Recife 21 de março de 1820 = em virtude da qual passou a fazer se a medição, e
+demarcação, cujo auto me foi apresentado, e do qual consta que [erigindo-se] o primeiro
+marco na testada de João Bras de Vasconcelos, e seguindo dele o rumo de Sudoeste
+meia quarta, e 50 minutos a Oeste pela mesma testada, cavarão o segundo marco a 1200
+
+braças, em 1575 ditas uma baliza na beira do caminho da casa de Joaquim José da Silva
+para o gado bravo; em 1790 outra baliza na beira do caminho do gado bravo para o sítio
+da Manimbú, em 1940 outra, junto ao caminho do Carurú para os currais da prata; a
+2265 outra da senzala dos negros do dito; a 2400 outra, e a 2540 o terceiro marco, do
+qual voltando ao primerio marco da medição, dele seguirão o rumo leste, e em 55 braças
+se encontrou afastada de Francisco Antonio de Oliveira, onde se levantou um marco;
+mas não podendo progredir, seguirão dele o rumo do Sul pela picada da mesma
+sesmaria, e em 260 braças se encontrou o marco do Sul dela, plantando-se outro junto a
+ele, e daqui se tomou novamente o rumo de Leste pela picada deste lado da mesma
+sesmaria, e em 1090 braças se cravou um marco, do qual seguirão o rumo do Sul pela
+testada de Manuel Bruno Torres, e Joaquim José Torres Galindo, que finalizou em 200
+se colocou um marco, do qual seguirão o rumo de Oeste, e em 595 braças se encontrou
+o marco da sesmaria de Francisco Casado Lima, levantando se outro junto a ele, e se
+continuou o mesmo rumo pela picada, pondo outro marco a 2905 braças no fim da
+testada do dito, e junto ao outro marco da mesma testada, e daqui seguirão o rumo do
+Norte, e 545 braças encontrarão com o marco cravado na linha de Sul-Oeste, e darão
+por finda a medição, que pelo [?] é quase igual a metade de uma légua quadrada o que
+visto, e examinado, mandei por despacho de 15 do corrente mês, que se lhe passasse
+carta de sesmaria e portanto pela faculdade que me he concedida no capitulo 15 do
+regimento deste governo. Hei por bem dar em nome de Sua Majestade El Rei nosso
+senhor ao doutor Francisco de Oliveira Guimaraes a referida terra, pagando o foro anual
+de 3 mil réis, em observância da Real Ordem de 28 de setembro de 1700 de que deu
+fiança na contadoria da junta da Real Fazenda a 1812 a qual sesmaria possuirá, e gozará
+ele, suplicante, e seus herdeiros, ascendentes e descendentes, como sua, que fica sendo
+de hoje para todo o sempre com todas as matas, campos, rios, águas, testadas,
+logradouros, e mais úteis, que nela se compreenderem, não prejudicando a terceiro, e
+não passará a religião, e pessoas eclesiásticas, salvo sendo com os mesmos encargos,
+com que as possuem os seculares, e nunca as dividirá em porções, nem se partirá, se não
+por estimação, andando encabeçada em uma só pessoa na forma da ordenação livro 4
+titulo 96, parágrafo 23, e assim não passará a herdeiros, ou qualquer outra pessoa sem
+consentimento da junta da Real Fazenda, para nela se darem novas fianças, e se fazerem
+as devidas escriturações, ficando livres para a serventia dos povos todas as estradas,
+rios, fontes, e pedreiras, e reservadas ao real patrimônio as madeiras de construção, pau
+brasil, e vieiros de quaisquer metais, e como se acha medido, e demarcado, será
+
+obrigado a requerer confirmação com os mesmos autos, plantas, e povoá-la, e cultivá-la
+dentro de 3 anos na forma da Real Ordem de 20 de outubro de 1753, e alvará de 25 de
+janeiro de 1809, e não o cumprindo assim se haverá por devoluta, e novamente se
+concederá a quem a requerer. Pelo que ordeno aos ministros da fazenda, e justiça, e mais
+pessoas, a quem tocar, cumpram e façam cumprir, e guardar esta carta de data de
+sesmaria, como nela se contém, fazendo dar ao suplicante posse real, efectiva e atual na
+forma da ordenação, título das sesmaria. Em firmeza do referido lhe mandei passar a
+presente, sendo por mim assinada e selada com o sinete de minhas armas, a qual se
+registrará na secretaria deste governo, na junta da Real Fazenda, e onde mais tocar.
+Manoel dos Passos e Figueroa, oficial maior da secretaria do governo a fez em o Recife
+de Pernambuco em 22 de junho de 1821 = José Francisco Maciel Monteiro, secretário
+do governo a subscrevi = Luís do Rego Barreto = Carta de data de sesmaria, pela qual
+Vossa Excelência há por bem conceder a Francisco de Oliveira Guimarães metade de
+uma légua quadrada de terra, junto a povoação do bonito, termo da vila de Santo Antão,
+como nela se declara = Para Vossa Excelência ver = Por despacho do ilustríssimo e
+excelentíssimo senhor general, de 15 de junho de 1821.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 194-197.
+Observação:
+No documento o nome do suplicante é Francisco de Oliveira Guimaraens, o que foi
+modificado para Francisco de Oliveira Guimarães, seguindo o padrão para a SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

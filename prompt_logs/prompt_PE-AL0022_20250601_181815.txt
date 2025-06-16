@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0022
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0145",
+  "Nome": "Simão Alves de Vasconcelos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "30-05-1755",
+  "Data da concessão": "23-08-1755",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura nos Palmares, na mesma região e local da sesmaria requerida por Alexandre Jorge da Cruz (PE-AL 0010). A sesmaria localizava-se na sombra da Serra da Barriga entre o rio Macaco e o rio Canhoto. ",
+  "Localidade": "Palmares",
+  "Marcos Geográficos": "Serra da Barriga, Rio Macaco, Rio Canhoto",
+  "Confrontantes": "Alexandre Jorge da Cruz",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João Rodrigues Colaço",
+  "referencia": "PE-AL0022"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0022
+Carta de doação e sesmaria de Simão Alves de Vasconcelos - 23/08/1855
+Sesmaria que se deu em nome de Sua Majestade ao capitão de infantaria do
+Palmar, Simão Alves de Vasconcelos, 3 léguas de terras nas ilhargas e cabeceiras
+de Alexandre Jorge da Cruz.
+Luiz José Correa de Sá, do Conselho de Sua Majestade e etc. - Faço saber aos que esta
+carta de doação e sesmaria virem, que o capitão de infantaria do Arraial de Nossa
+Senhora das Frotas, Simão Alves de Vasconcelos, me fez a petição por escrito e
+requerimento de seguinte: — Ilustríssimo e Excelentíssimo Senhor - Diz Simão Alves
+de Vasconcelos, capitão de infantaria do Arraial de Nossa Senhora das Frotas do
+Palmar, que Sua Majestade foi servido conceder ao capitão do dito lugar, como se vê da
+cópia junta, 3 léguas de terra em quadro nas terras restauradas e por restaurar, e por que
+se acham devolutas as ilhargas que tirou de sesmaria o capitão do mesmo terço,
+Alexandre Jorge da Cruz, no riacho chamado Macaco, beiradas da serra da Barriga,
+onde se fez a maior guerra dos negros levantados, quer ele suplicante tirar sua sesmaria
+nas ditas ilhargas e cabeceiras, correndo pelo riacho seco acima, com travessões pela
+parte do rio Canhoto a completar com o rio Souza, e por que se acham inteiradas, o
+mestre de campo Domingos Jorge Velho, sargento-mor, capitães e mais soldados e
+oficiais do dito terço em outras partes, portanto - Pede a Vossa Excelência lhe faça
+mercê mandar passar sua carta de sesmaria no sobredito lugar, por se achar devoluto
+com os apensos nas ordens de Sua Majestade juntas — E receberá mercê. — Na qual
+petição mandei por despacho de 30 de maio deste presente ano, informar ao doutor
+provedor da Fazenda Real, o qual mandou informar o escrivão da mesma Fazenda e
+este informou o seguinte: — Senhor doutor provedor da Fazenda Real — A ordem que
+há de Sua Majestade nesta Provedoria, sobre o requerimento do suplicante, é o que
+consta da cópia junta, com a qual informo a Vossa Mercê que mandará o que for
+servido — Recife, 3 de junho de 1755 — Bernardo Pereira de Vasconcelos — E com
+esta informação do dito escrivão, me confio, digo, me informou o mesmo senhor
+provedor o seguinte: Ilustríssimo e Excelentíssimo Senhor - Pela ordem junta, manda
+Sua Majestade dar 3 léguas de terra vaga, como diz o dito pretendente, se lhe deve dar
+em virtude da mesma ordem — Sua Majestade mandará o que for servido — Recife, 4
+de junho de 1755 — João Rodrigues Colaço — Com cuja informação, ultimamente
+
+mandei por meu despacho de 8 de junho deste mesmo ano, como parece ao doutor
+provedor da Fazenda Real; — em cujo cumprimento se passou a presente, pela qual —
+Hei por bem em virtude da faculdade que Sua Majestade me concede no capítulo 15 do
+Regimento deste governo e da ordem do dito senhor de 28 de janeiro de mil setecentos,
+digo, de 1698, dar ao suplicante em nome do mesmo senhor, de sesmaria as ilhargas e
+cabeceiras das 3 léguas de terras que tirou de sesmaria o capitão do mesmo terço,
+Alexandre Jorge da Cruz, na forma que confronta em sua petição, das quais não será
+obrigado a pagar foro algum, só sim o dízimo a Deus Nosso Senhor — pelo privilégio
+especial que os oficiais e soldados daquele dito terço tem, e as possuirá e gozará ele e
+seus herdeiros, com todas as suas testadas, águas, campos, logradouros e mais úteis que
+nelas se acharem, e serão obrigados a dar pelas ditas terras caminhos livres ao Conselho,
+para fontes, pontes e pedreiras — Pelo que ordeno aos ministros da Fazenda e Justiça
+destas capitanias, a quem o conhecimento desta carta pertencer, lhe façam dar a posse
+real, efetiva e atual, na forma costumada e debaixo das cláusulas referidas e das mais da
+ordenação titulada de sesmarias, em firmeza do que lhe mandei passar a presente por
+mim assinada e selada com o sinete de minhas armas, que ele registrará na Secretaria
+deste Governo de Pernambuco, da Fazenda Real e mais partes a que pertencer — Dada
+nesta Praça do Recife de Pernambuco, aos 23 dias do mês de agosto, Francisco
+Gonçalves Pereira a fez — Ano do Nascimento de Nosso Senhor Jesus Cristo de 1855
+— O secretário, Antonio José Correa, a fez escrever — Luiz José Correia de Sá =.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 95 - 98.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

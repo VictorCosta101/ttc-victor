@@ -1,0 +1,111 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0273
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Ferreira de Sá",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-06-1726",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em Campos dos Goitacazes",
+  "Ribeira": "Rio Preto, rio Paraíba",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0273"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0273
+Carta de concessão de Manuel Ferreira de Sá de 19 de junho de 1726
+A página 47 do Livro 3° que serviu de registro nesta Secretaria do governo de sesmaria
+passadas, pelo mesmo se acha lançada a do teor seguinte:
+Luís Vaia Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição o sargento-mor Manuel Ferreira de Sá, que nos Campos dos Goytacazes se acham
+muitas terras devolutas, e ele com bastantes escravos para as cultivar, pedindo-me lhe
+mandasse dar uma data das referidas terras começando da barra que o Rio Preto faz no Rio
+Paraíba, correndo pelo dito Rio Paraíba acima, ficando a margem dele servindo-lhe de testada
+com o sertão que lhe pertencer, e dando-se vista deste requerimento ao provedor da Fazenda
+Real e ao procurador da Coroa, aos quais se não ofereceu dúvida. Hei por bem fazer mercê ao
+dito Manuel Ferreira de Sá de lhe dar por sesmaria, em nome de Sua Majestade, que Deus
+guarde, as referidas terras; não excedendo, porém, 1 légua em quadra na forma das ordens do
+mesmo Senhor; sem prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas;
+com declaração que as cultivará e mandará confirmar esta minha carta de sesmaria por Sua
+Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo.
+Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê
+posse ao dito Manuel Ferreira de Sá das referidas terras na forma e maneira acima declarada.
+E por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete
+de minhas armas, que se cumprirá inteiramente como nela se contém, se registrará nos Livros
+da Secretaria deste governo e nos e mais a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João Moreira da Silva a fez aos 19 dias do mês de junho de 1726. O
+secretário, José Ferreira da Fonte, a fez escrever.
+//Luís Vahia Monteiro//
+E não se continha mais no dito registro a que me reporto, de que mandei passar a presente, em
+observância do despacho retro do governador interino das capitanias das Minas Gerais e Rio
+de Janeiro, José Antônio Freire de Andrade. Rio de Janeiro, 3 de agosto de 1756.
+//Antônio da Rocha Machado//
+(ilegível)
+O doutor Inácio da Cunha de [Toar], cavaleiro professo pela Ordem de São Bento de Ávis do
+desembargo de Sua Majestade, seu desembargador da [ordem desta cidade] do Rio de Janeiro,
+
+e nesta ouvidor geral do cível e juiz das justificaçãos de Índia e Mina. Nesta faço saber aos
+que a presente virem, que a mim constou por fé do escrivão, que esta subscreveu, ser a letra e
+sinal [público claro do reconhecimento] a letra do [capitão] Francisco Coelho de Sá, desta
+cidade, o que hei por justificado. Rio, a 6 de agosto de 1756. E eu, Antônio Machado Freire, o
+subscrevi.
+//Ignácio da Cunha de [Toar]//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Ferreira de Sá uma data de terras no campo dos Goytacazes. Não excedendo uma
+légua em quadra.
+Referência:
+AHU_ACL_CU_017-1, Cx. 88\Doc. 20485
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

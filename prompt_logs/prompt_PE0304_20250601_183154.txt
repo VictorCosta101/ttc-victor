@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0304
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "09-07-1623",
+  "Observações da sesmaria": "O suplicante requereu meia légua de largura e meia légua de comprimento na parte sul do rio Capibaribe, na fronteira das terras do capitão Luís Carreiro. ",
+  "Localidade": "Rio Capibaribe",
+  "Confrontantes": "Luís Carreiro",
+  "Justificativas": "Lutou na guerra contra Palmares; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter participado como alferes das guerras da Paraíba, Copaoba, Palmares e do Rio Grande e em remuneração aos seus serviços requeria a concessão de terra.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0304"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0304 
+ 
+Sesmaria de meia légua de terra dada a Manuel de Oliveira, no Cajueiro. 
+ 
+Petição. Diz Manuel de Oliveira, morador na freguesia de São Lourenço, que ele há 30 
+anos que reside nesta capitania, ajudando nas guerras da Paraíba, Capaô e Rio Grand
+e, servindo de alferes de uma das companhias que fizeram aventureiros no tempo qu
+e os ingleses vieram a esta capitania, achando-se em todos os rebates e vigias, e outr
+ossim, foi aos Palmares por alferes de outra companhia, e ultimamente servindo de al
+feres dez anos da companhia da dita freguesia de São Lourenço, tudo a sua custa co
+m sua pessoa, armas, cavalo e escravos, sem que pelos ditos serviços lhe fosse até ag
+ora feito [...] alguma, e por quanto é casado na terra e tem mulher e filhos: Pede a Vo
+ssa Senhoria lhe faça mercê em nome do senhor Duarte de Albuquerque Coelho, de 
+meia légua de terra em quadra, ao longo do rio Capibaribe da banda do sul, que com
+eçará do poço que se chama, pela língua da terra, Capitão Arangi, na testada da terra 
+de Luís Carreiro, fazendo da nascença da dita Água Peão, correndo norte e sul direito 
+a estrada de pau-brasil, que vem da Alagoa Grande, meia légua em quadra do peão, t
+anto de uma banda como da outra; e não havendo no lugar onde pede, a tomará ma
+is adiante ou a banda do norte onde achar devoluta, a qual ele suplicante pede para c
+urrais, roças e cercas. E receberá mercê. Despacho: Passe carta de data de meia légua 
+em quadra, na parte onde o suplicante confronta em sua petição, visto o que por ela 
+alega. Olinda, em 9 de julho de 1623. Matias de Albuquerque, capitão-mor e governa
+dor desta capitania de Pernambuco, por ElRei, Nosso Senhor, em [ausência] do propri
+
+etário, o senhor Duarte de Albuquerque, meu irmão etc. - Faço saber aos que esta mi
+nha carta for mostrada e o conhecimento dela com direito pertencer, que Manuel de 
+Oliveira fez a petição atrás escrita, a qual vista é o que nela alega, e por desejar de lhe 
+fazer mercê: Hei por bem de dar ao dito Manuel de Oliveira, em nome do senhor Dua
+rte de Albuquerque, cujos poderes tenho, meia légua de terra em quadra, ao longo d
+o rio Capibaribe, da banda do sul, que começará do poço que chamam pela língua da 
+terra, Capitamarangi, na testada de Luís Carreiro, correndo pela água que se chama o 
+Cajueiro, fazendo das nascença da dita Água Peão, correndo norte e sul direito a estr
+ada do pau-brasil, como sua petição pede; onde não for dada, nem prejudicar a terce
+iro, a qual meia légua de terra em quadra dou e concedo ao dito manuel de Oliveira, 
+com todas as águas, pastos e madeiras que nela houver, e a possuirá ele, seus herdeir
+os e descendentes de hoje para sempre, sem dúvida, nem contradição de pessoa alg
+uma, e da posse se fará termo nas costas desta minha carta, que se registrará nos livr
+os das datas e sesmarias desta capitania; e se cumprirá sem dúvida, nem embargo alg
+um, como nela se contém. Dada em Olinda, sob meu sinal e sinete de minhas armas. 
+Pedro Ferreira Franco a fez em 9 de julho, ano do nascimento de Nosso Senhor Jesus 
+Cristo de 1623. Matias de Albuquerque. Estava o selo. Carta de data de meia légua de 
+terra em quadra a Manuel de Oliveira, em nome do dito senhor Duarte de Albuquerq
+ue, no lugar que nela se confronta. Registra-se. Olinda, 19 de novembro de 1625. Fica 
+registrada no Livro décimo de Sesmarias da Fazenda de Sua Majestade, as folhas 199. 
+Vasconcelos. - Ato de posse. Ano do nascimento de Nosso Senhor Jesus Cristo de 16
+23, aos 2 dias mês de outubro, na freguesia de São Lourenço, termo da vila de Olinda
+
+, no rio Capibaribe, no lugar e sítio conteúdo na carta, atrás onde eu, tabelião, fui esta
+ndo aí Manuel de Oliveira, conteúdo na dita carta, e por ele foi dito que por ela lhe p
+ertencia meia légua de terra em quadra, que me requeria lhe desse dela a posse, por 
+bem de que logo o dito Manuel de Oliveira foi ao dito poço e dali foi andando pela d
+ita terra direito a água na dita carta conteúda, que chamam a água do Cajueiro, fazen
+do da nascença da dita água peão, onde foi dizendo três vezes, e muitas vezes se hav
+ia alguma pessoa ou pessoas que a dita posse contradissessem, e fazendo todas as m
+ais solenidades ao caso necessárias, e por não haver contradição alguma, eu tabelião 
+lhe houve por dada dita posse e o houve por investido e metido nela real e atual, na f
+orma da dita carta de que foram testemunhas presentes Luís Carreiro, Manuel Alvares 
+de Abreu, e eu, Baltazar Gonçalves, tabelião, o escrevi. Manuel de Oliveira. Luís Carreir
+o. Manuel Alvares de Abreu. Não se continha mais em dito documento que eu, Filipe 
+Nery Correa, tabelião do público judicial e notas da cidade de Olinda, vila do Recife e 
+seus termos, capitania de Pernambuco, por Sua Majestade Fidelíssima, que Deus guar
+de etc. - Fiz trasladar do próprio, com o qual e com o oficial abaixo assinado, este con
+feri e consertei, vai sem coisa que dúvida faça ao próprio, me reporto que tornei a en
+tregar a quem aqui assinou, que foi o reverendíssimo padre procurador geral do mos
+teiro de São Bento, cidade de Olinda, subscrevi e assinei em público e razão de meus 
+sinais seguintes, aos 4 dias do mês de janeiro de 1766 anos. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - R
+ecife, 1948. p. 201-202. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

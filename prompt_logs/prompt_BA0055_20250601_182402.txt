@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0055
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco de Andrade Osório",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "14-11-1678",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas em quadra, localizada entre o rio Corumbau ao norte e o rio Jucurçu ao sul, em Porto Seguro.",
+  "Localidade": "Entre o rio Corumbau ao norte e o rio Jucurçu ao sul",
+  "Marcos Geográficos": "Rio Corumbau; rio Jucurçu.",
+  "Justificativas": "Não tinha terras; Pretendia fazer canaviais; Pretendia lavrar; Solicitou as terras para si e seus herdeiros; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar antes de tomar posse; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Freitas",
+  "referencia": "BA0055"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+  
+Registro de um alvará de doação e sesmaria, de duas léguas de terra de comprido e duas 
+de 
+largo, 
+concedida 
+ao 
+capitão-mor 
+Francisco 
+de 
+Andrade 
+Osorio. 
+ 
+ 
+Roque da Costa Barreto do conselho de Sua Alteza, etc. Faço saber aos que este alvará de 
+doação e sesmaria virem que o capitão-mor Francisco de Andrade de Osorio me representou 
+por sua petição cujo teor é o seguinte: Senhor o capitão-mor Francisco de Andrade de Osorio, 
+morador em Porto Seguro, como consta da certidão junta, que ele não tem terras em que poder 
+lavrar, assim para mantimentos, e cana, e os mais misteres necessários, e porque em o sítio que 
+chamam Acugibativa estão terras devolutas a mais 100 anos, e alguns não foram nunca 
+cultivados, como é no rio Corumbau da parte do norte, até o rio Jucuruçu da parte do sul, e para 
+o sertão o que se poder descobrir por onde Sua Alteza está perdendo seus direitos, e portanto 
+declaro que são 4 léguas em o sítio que digo, pede a Vossa Senhoria em nome de Sua Alteza 
+lhe mande passar carta de data de sesmaria das ditas terras por devoluta, na forma costumada 
+para ele, e seus herdeiros. E receberá mercê. E visto a resposta do procurador da Fazenda Real, 
+que é a seguinte. Visto estar o suplicante com ânimo de morar na Capitania de Porto Seguro, 
+não se me oferece dúvida a que se lhe deem de sesmaria no sítio que declara, duas léguas para 
+o sertão, e duas de largo com as quatro condições ordinárias, solicite dízimos a Ordem de Cristo, 
+sem prejuízo de terceiro, cultura no termo da lei, e demarcação na posse, citados os hereos. 
+Bahia, 7 de novembro de 1778 Freitas // // E a informação do provedor-mor da dita Real 
+Fazenda, que também é a que se segue. Senhor, visto não ter dúvida o procurador da fazenda, 
+sou de parecer que se lhe concedam as duas léguas de terra de comprido e duas de largo com 
+as condições do regimento, que são sem prejuízo de terceiro, dízimos a Deus e as mais. Vossa 
+Senhoria mandará o que for servido. Bahia, novembro 7 de 1678 // Antônio Lopes de Ulhôa // 
+Hei por bem de lhe conceder, e dar de sesmaria, como pelo presente faço em nome de Sua 
+Alteza, duas léguas de terra de comprido, e duas de largo sem prejuízo de terceiro, como parece 
+ao provedor-mor da Fazenda Real e procurador dela, na parte que pede e confronta em sua 
+petição, com todas as suas águas, campos, matas, testadas, logradouros e mais úteis, que nelas 
+se acharem, tudo forro, livre, e isento de pensão, ou tributo algum, salvo dízimos a Deus que 
+pagaram dos frutos que nelas houver, e por ela será obrigado a dar caminhos livres ao conselho 
+para fontes, pontes, e pedreiras, e de as cultivar no termo da lei, e regimento, pois nesta 
+conformidade lhe as concedo, demarcando-se na posse, citados os hereos por se evitarem as 
+dúvidas que podem acontecer. Pelo que ordeno a todos os ministros de justiça a que o 
+conhecimento deste com direito deva ou possa pertencer-lhe, façam dar a posse real, efetiva e 
+atual, na forma debaixo das cláusulas acima referidas, e as mais da ordenação título das 
+sesmarias. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas 
+armas, o qual se registrará nos livros da secretaria do Estado, e nos mais a que tocar, e se 
+guardará, e cumprirá tão pontual, e inteiramente como nele se contém, sem dúvida, embargo 
+nem contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, Bahia de Todos os 
+Santos em os 14 dias do mês de novembro ano de 1678. Bernardo Vieira Ravasco a fez escrever 
+// Roque da Costa Barreto // Alvará de  doação e sesmaria de duas léguas de terra de comprido, 
+e duas de largo que Vossa Senhoria teve por bem conceder ao capitão-mor Francisco de 
+Andrade de Osório, na parte que pede e confronta em sua petição, não prejudicando a terceiro 
+na forma, e pelos respeitos assim declarados para Vossa Senhoria ver. Registrado no livro 
+segundo dos registros da secretaria do Estado do Brasil a que toca a folhas 59. Bahia, e 
+novembro 14 de 1678 // Ravasco // Despacho do provedor-mor. Registre-e nos livros desta 
+provedoria-mor como Sua Alteza manda. Bahia, de novembro 16 de 1678 // De Ulhoa // 
+Registrou-se em 17 do dito mês e ano acima, e se entregou a parte // João Dias da Costa // 
+ 
+
+ 
+Fim da transcrição. 
+ 
+Referências: 
+BA - AN, Códice 427, fls 140v - 142 
+Numeração original no livro: 108 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

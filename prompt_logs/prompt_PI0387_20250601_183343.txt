@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0387
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Siqueira Brandão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "28-04-1747",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"estava de posse por si e por seus antepossuidores uma fazenda de gado chamada o Olho d’Água\".",
+  "Localidade": "Fazenda Olho D'Água",
+  "Marcos Geográficos": "Riacho de São Vitor",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que \"havendo, no sítio pedido, rio navegável, que necessite de canoa ou barca para a sua passagem, ficará livre na margem que tocar a terra do suplicante, meia légua de terra para o uso público\". Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria; dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0387"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0387
+Carta de Concessão a Manoel de Siqueira Brandão - 28/04/1747
+Agnelo Neves do Espírito Santo, chefe do Arquivo Público, anexo à Biblioteca e Arquivo
+Público, anexo à Biblioteca e Arquivo Público do Pará, por nomeação efetiva etc.
+Certifico, de ordem do senhor doutor diretor da Biblioteca e Arquivo Público do Pará e a
+requerimento verbal do senhor doutor Bernardo Borges Pires Leal, subprocurador-geral do
+Estado do Piauí, o teor de sua carta de data de sesmaria concedida a Manoel de Siqueira
+Brandão, em 20, digo, 28 de abril de 1747 e constante de folhas 192 verso e 193 do livro de
+cartas de registros, digo, de registros de cartas de datas de sesmaria número 12, arquivado
+nesta repartição, como segue:
+Registro de uma carta de data concedida a Manoel de Siqueira Brandão
+João de Abreu de Castelo Branco, do Conselho de Sua Majestade, que Deus guarde etc. Faço
+saber aos que esta minha carta de data e sesmaria virem, que Manoel de Siqueira Brandão, me
+representou que ele estava de posse por si e por seus antepossuidores uma fazenda de gado
+chamada o Olho d’Água no riacho de São Vitor; e porque dela não tinha data para as possuir
+com justo título, pretendia se lhe concedesse, por data e sesmaria, 3 léguas de terra de
+comprido e uma de largo, fazendo pião na paragem do buraco, correndo o comprimento pelo
+dito riacho de São Vitor abaixo e acima; com declaração que faltando terra no comprimento,
+se lhe inteirasse, digo, inteirasse na largura e faltando nesta, se lhe inteirasse no comprimento;
+me pedia fosse servido conceder-lhe, em nome de Sua Majestade, por data e sesmaria, as ditas
+3 léguas de Terra de comprido e uma de largo, com as confrontações referidas. Ao que
+atendendo e à informação do provedor-mor da Fazenda Real, a quem se deu vista e ser em
+utilidade da mesma Fazenda, cultivarem-se as terras neste Estado. Hei por bem, conceder-lhe,
+em nome de Sua Majestade, por data e sesmaria, 3 léguas de terra de comprido e uma de
+fundo na forma e parte que pede, no síio e riacho mencionado, com as confrontações que
+declara e condições expressadas nas Reais Ordens; e com a de não fazer trespasse por meio
+algum, em nenhum tempo, a pessoa alguma, religião ou comunidade, sem que primeiro dê
+parte na Casa da Fazenda ao provedor-mor dela, para se me fazer presente e ver se se deve, ou
+não, consentir no tal trespasse, sob pena de ficar nula esta data e se poder conceder novamente
+a outrem; e nesta forma se lhe passa carta para que o dito Manoel de Siqueira Brandão haja,
+logre e possua as ditas terras como cousa sua própria, para ele e todos os seus herdeiros,
+ascendentes e descendentes, sem pensão, nem tributo algum, mais que o dízimo a Deus,
+Nosso Senhor, dos frutos que nelas tiver e lavrar; a qual concessão lhe faço não prejudicando
+a terceiro, nem a Sua Majestade, se no dito quiser mandar fundar alguma vila, reservando os
+paus reais que nelas houver para embarcações; com declaração que mandará confirmar esta
+data, por Sua Majestade, dentro de 3 anos primeiros seguintes; e cultivará as ditas terras de
+maneira que deem frutos; e dará caminhos públicos e particulares, aonde forem necessários,
+para pontes, fontes, portos e pedreiras; e havendo, no sítio pedido, rio navegável, que
+necessite de canoa ou barca para a sua passagem, ficará livre na margem que tocar a terra do
+suplicante, meia légua de terra para o uso público; e se demarcará ao tempo da posse por
+rumo de corda e braças craveiras, como é estilo e Sua Majestade manda; e outrossim, não
+poderão suceder nelas religiões, nem pessoas eclesiásticas, por nenhum título que seja e,
+acontecendo possuí-las, será com o encargo de pagarem delas dízimos a Deus, como se
+fossem possuídas por seculares; e faltando a qualquer dessas cláusulas, se haverão as ditas
+terras por devolutas e se dará a quem as denunciar, como o dito Senhor ordena. Pelo que
+mando ao provedor-mor da Fazenda Real, mais ministros e pessoas a que tocar que na forma
+referida e com as condições expressadas, deixem ter e possuir as ditas terras ao dito Manoel
+Siqueira Brandão como coisa sua própria, para ele e todos os seus herdeiros, ascendentes e
+
+descendentes; cumpram e guardem esta minha carta de data e sesmaria inteiramente como
+nela se contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas
+armas, que se registrará onde tocar e se passou por duas vias. Dada na cidade de Belém do
+Pará, aos 28 do mês de abril, ano do nascimento de Nosso Senhor Jesus Cristo de 1747. José
+Gonçalves da Fonseca, secretário do Estado, a fez escrever //
+João de Abreu de Castelo
+Branco //
+Era o que se continha no referido registro de carta de data de sesmaria, que para aqui,
+transcrevo bem e fielmente do próprio original a que me reporto. Eu, Olívio França,
+colaborador da Biblioteca e Arquivo Público do Pará, que a escrevi. E eu, Agnelo Neves do E.
+Santo, chefe do Arquivo Público do Estado, a fiz escrever, certifico e assino. Belém, 11 de
+setembro de 1929. e/e por mim. 14/9/1929 // A. E. Santo // visto. // Martinho Pinto //
+- fim da transcrição -
+Referência:
+APEP, Livro 12, doc. 244, fls. 192v - 193
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

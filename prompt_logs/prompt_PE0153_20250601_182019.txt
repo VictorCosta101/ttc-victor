@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0153
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0268",
+  "Nome": "Antônio Barbosa da Silva , Manuel Barbosa da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "06-08-1822",
+  "Data da concessão": "17-12-1822",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no riacho da Bandeira, próximo ao rio Ipojuca, entre as terras de Francisco Sales Sandeira e Dona Feliciana.",
+  "Localidade": "Rio Ipojuca",
+  "Marcos Geográficos": "Riacho da Bandeira, Rio Ipojuca",
+  "Confrontantes": "Dona Feliciana, Francisco Sales Sandeira",
+  "Exigências do Deferimento": "Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da capitania de Pernambuco, composta por: Afonso de Albuquerque Maranhao, presidente, Jose Mariano de Albuquerque Cavalcante, secretario, Francisco Paes Barreto e Manuel Inacio Bezerra de Melo.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de 38 réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0153"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0153
+Carta de doação e sesmaria de Antônio Barbosa da Silva e Manuel Barbosa da
+Silva - 26/11/1822
+O capitão Antônio Barbosa da Silva e seu irmão Manuel Barbosa da Silva meia
+légua de terra junto ao riacho Tubiba, termo da vila do Limoeiro.
+Nós, o presidente e membros da junta provisória do Governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que o capitão
+Antônio Barbosa da Silva e seus irmãos Manuel Barbosa da Silva dirigiram a junta
+provisória, nossa antecessora, o requerimento do teor seguinte = Ilustríssimos e
+excelentíssimos senhores da junta do governo = Diz o capitão Antônio Barbosa da Silva
+e seu irmão Manuel Barbosa da Silva, que junto as terras denominas de seu pai Antônio
+Barbosa da Silva e no lugar chamado Chasubá há dois pedaços de terra devolutas e
+desaproveitadas, que ambos talvez não tenham a marca de uma légua quadrada, sendo o
+primeiro encravado entre dois quadrados, e que parece formar um trapézio, cujo frente
+está entre dois marcos das terras do pai dos suplicantes e fizesse onde acaba o seu
+travessão, e o segundo, que parece formar um polígono, e pega do travessão ou limites
+das ditas terras do pai dos suplicantes, pelo riacho da bandeira acima, pegando dos
+fundos das terras do dito seu pai, no lugar onde corre o riacho bandeira é o lugar as
+terras de Francisco de Sales Sandeira, e dali [encostando] as terras deste até tapar com
+as áreas de Ipojuca, donde voltando para a parte do sul marchar a linha a tapar com as
+terras de dona Eliciana, e então seguirá a linha para a parte do norte pelas extremas da
+dita sesmaria pela demarcação requerida, mandando proceder as diligências do estilo. E
+receberá mercê = Recife, 6 de agosto de 1822 = Manuel Barbosa da Silva = e a vista
+deste requerimento, mandou a mesma junta por despacho de 19 de agosto deste ano, que
+a Câmara respectiva mandasse pôr os editais por tempo de 30 dias na forma da lei, e
+informam se havia terceiro prejudicado: e informando esta em ofício de 2 de outubro
+que se opusera a concessão do segundo pedaço de terra, que é o que fica imediato ao
+riacho bandeira Manuel José do Rego, cujo requerimento enviou, e que quanto ao
+primeiro pedaço, que se lhes concedesse este, em quanto não destruirão a oposição que
+se oferecia a cerca daquele; e por despachos de 21 e de 23 de novembro, mandamos
+ouvir o desembargador procurador da Coroa e da Fazenda e o escrivão deputado da
+Junta da Fazenda, os quais não lhe puseram embaraço algum: o que sendo por nós visto
+e examinado, lhe mandamos passar a presente carta por despacho de 26 de novembro
+
+deste ano. E portanto, pela faculdade que nos é concedida no capítulo 15 do regimento
+deste Governo, havemos por bem dar em nome de Sua Majestade [Fidelíssima] aos
+ditos capitães Antônio Barbosa da Silva e seu irmão Manuel Barbosa da Silva, o
+sobredito pedaço de terra, perfazendo-se com tudo as confrontações declaradas no seu
+requerimento primário, pagando o foro anual de 38 réis em observância da Real Ordem
+de 28 de setembro de 1700, de que deu fiança na contadoria da Junta da Fazenda
+Pública, a folha 65 verso do livro 7º delas. A qual sesmaria possuirão e gozarão eles,
+suplicantes, e seus herdeiros, ascendentes e descendentes, como sua, que fica sendo de
+hoje para todo sempre, com todas as matas, campos, rios, águas, testadas, logradouros e
+mais úteis que nelas se compreenderem, não prejudicando a terceiro; e não passará a
+religiões e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as
+possuem os seculares: e nunca se dividirá em porções, nem se partirá, senão por
+estimação, andando encabeçada em uma só pessoa na forma da ordenação do livro 4º
+titulo 96, §23; e assim não passará a herdeiros ou quaisquer outras pessoas, sem
+consentimento da Junta da Fazenda Pública, para nela se darem novas fianças e se
+fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as
+estradas, rios, pontes e pedreiras, e reservadas ao patrimônio público as madeiras da
+construção, pau-brasil e viveiros de quaisquer metais: e serão obrigados a requerer
+dentro de 3 anos confirmação, medição e demarcação, a povoá-la e cultivá-la na forma
+da Ordem Régia de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e não o
+cumprindo assim, se haverão por devolutas e novamente se conferirão a quem as
+requerer. Pelo que ordenamos aos ministros da Fazenda e Justiça e mais pessoas a quem
+tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria como nela se
+contém, fazendo dar aos suplicantes posse real, efetiva e atual, na forma da ordenação
+título das sesmarias. Em firmeza do referido lhe mandamos passar a presente sendo por
+nós assinada e selada com o sinete nacional, a qual se registrará na secretaria deste
+Governo, na junta da Fazenda Pública e onde mais tocar. Manuel dos Passos e
+Figueiros, oficial maior da secretaria, a fez o Recife de Pernambuco, aos 17 de
+dezembro de 1822 = E eu, José Mariano de Albuquerque Cavalcante, secretário, a fez
+escrever
+= Presidente Afonso de Albuquerque Maranhão = José Mariano de
+Albuquerque Cavalcante = Francisco Paes Barreto = Manuel Ignacio Bezerra de Melo =
+Carta de data de sesmaria, pela qual Vossas Excelências hão por bem conceder ao
+capitão Antônio Barbosa da Silva, da vila do Limoeiro, em nome de Sua Majestade
+
+[Fidelíssima] como nela se declara = Para Vossas Excelências verem = Por despacho do
+Governo de 26 de novembro de 1822 -
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 214-216.
+Observação:
+O nome dos suplicantes consta como Antonio Barboza da Silva e Manoel Barboza da
+Silva, o que foi modificado para Antonio Barbosa da Silva e Manuel Barbosa da Silva,
+seguindo o padrão proposto.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

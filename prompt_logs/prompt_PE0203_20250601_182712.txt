@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0203
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0224",
+  "Nome": "Antônio, Francisca , Francisca dos Santos Borges, Manuel, Maria (PE1), Teresa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "20-12-1814",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no lugar denominado Cetio do Pau do Ano.",
+  "Localidade": "Cetio do Pau do Ano",
+  "Justificativas": "Tinha escravos; Pretendia cultivar algodão; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 6,
+  "Observações das Justificativas": "A suplicante, Francisca dos Santos Borges, requereu em seu nome e dos seus filhos menores de idade a concessão da sesmaria das terras que havia herdado por falecimento do seu marido, Manuel Antunes da Costa, que havia adquirido por meio de compra. ",
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 2 mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0203"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0203 
+ 
+Carta de concessão de Francisca dos Santos Borges, Antônio, Francisco, Manuel, Maria 
+e Teresa de 20/12/1814 
+ 
+Francisca dos Santos Borges e seus filhos Maria, Antônio, Francisca, Teresa e Manuel 
+com meia légua de terra de Sesmaria no termo da vila de Santo Antão freguesia de São 
+José dos Bezerros. 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho do príncipe regente nosso senhor e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de data sesmaria virem, que 
+Francisca dos Santos Borges, viúva do falecido Manuel Antunes da Costa, e os menores 
+Maria, Antônio, Francisca, Teresa e Manuel, que o falecido marido e pai dos suplicantes 
+comparar umas lavouras e terras desmaneadas em o lugar da Prata, com o nome do sítio 
+do Pau do Ano, e que no dito lugar levantara um grande edifício composto de casa de 
+vivenda, casa de recolher frutos e senzala, e na mesma meteu 23 cativos, e todos utensílios 
+precisos para a cultura do algodão; e por que hora a suplicante sabe que as terra não eram 
+de devedor digo de vendedor, e assim da Sua Alteza Real, requererem os suplicantes a V. 
+Ex.ª se digne conceder-lhe meia légua de terra em quadra, fazendo peão da casa com um 
+quarto para cada parte; pagando os suplicantes o foro do estilo. Pede a V. Ex.ª seja servido 
+conceder-lhe dita sesmaria com a pensão do estilo = E receberá Mercê =  E sendo visto 
+seu requerimento ordenei por despacho de 14 de setembro do corrente ano a câmara 
+respectiva que mandasse afixar os editais do estilo, informando-me a desta câmara que 
+ninguém se opusera mandei por despachos de 24 e 29 de Novembro deste ano que 
+informassem o doutor procurador da Real Fazenda, e o  escrivão deputado da Junta da 
+mesma Real Fazenda, e como ambos informaram que se podia dar de sesmaria aos 
+suplicantes a terra contemplada em seu requerimento, mandei ultimamente por despacho 
+de 5 de Dezembro deste mesmo ano, que se passasse carta de sesmaria pela faculdade que 
+me é concedida no capítulo 15 do regimento deste Governo e por tanto: Hei por bem dar 
+em nome de Sua Alteza Real o príncipe regente nosso senhor a dita Francisca dos Santos 
+Borges, e seus filhos, Maria, Antônio, Francisca, Teresa, e Manuel, meia légua de terra 
+em quadra no lugar pedido, a qual se demarcará na forma que aponta o doutor procurador 
+da Fazenda, fazendo peão na casa de sua residência, donde se terá o quarto de légua para 
+cada um dos quatro ventos cardeais, por cujas extremidades será fixada a quadra de meia 
+légua pedida, e pagará o foro anual de dois mil réis, em observância da real ordem de 28 
+de setembro de 1700, de que deram fiança na Contadoria da Junta da Real Fazenda a folha 
+173 do Livro 6º delas; a qual sesmaria possuirão e gozarão eles suplicantes e seus 
+herdeiros ascendentes e descendentes como sua que fica sendo de hoje para todo o sempre 
+com todas as matas, campos, rios, águas, testada,  logradouros, e mais úteis que nela se 
+compreenderem, não prejudicando a terceiro e não passará a dita terra a religião e pessoas 
+eclesiásticas salvo sendo com os mesmo encargos com que as possuem os seculares, e 
+nunca se dividirá em porções, nem se partirá senão por estimação, andando encabeçada 
+em há só pessoa, na forma da Ordenação do Livro 4.º título 96 parágrafo 23, e assim não 
+passará a referida terra a herdeiros, ou qualquer outra pessoa sem consentimento da Junta 
+da Real Fazenda, para nela se darem novas fianças, e se fazerem as devidas escriturações. 
+Ficando livre para a serventia dos povos todas as estradas, rios, fontes, e pedreiras, e 
+reservadas ao Real Patrimônio as madeiras de construção, pau-brasil, e viveiros de 
+
+quaisquer metais, e será obrigado a requerer dentro de três anos confirmaçlão, medição e 
+demarcação em conformidade do alvará de 25 de janeiro de 1809, e não o cumprindo 
+assim se haverá por devoluta, e novamente se conferirá a quem a requerer. Pelo que 
+mando aos ministros da Fazenda, e Justiça, e mais pessoa as quem tocar cumpram e façam 
+cumprir, e guardar esta carta de data de sesmaria como nela se contem, fazendo dar aos 
+suplicantes posse real, efetiva e atual na forma costumada, debaixo das cláusulas 
+referidas, e das mais da Ordenação título das Sesmarias. Em firmeza do referido lhes 
+mandei passar a presente, que sendo por mim assinada e selada com o sinete das minhas 
+armas, se registrará na secretaria deste Governo, na da Junta da Real Fazenda, e onde 
+mais tocar. Manuel Freire Mariz oficial maior da secretaria a fez em o Recife de 
+Pernambuco aos 20 de dezembro de 1814/José Carlos Mairink da Silva Ferrão secretário 
+do Governo a fez escrever = Caetano Pinto de Miranda Montenegro = Carta de data de 
+desmaria pela qual V. Ex.ª há por bem dar em nome de Sua Alteza Real O príncipe regente 
+nosso senhor, a Francisca dos Santos Borges, e a seus filhos Maria, Antônio, Francisco, 
+Teresa e Manuel, meia légua de terra em quadra no termo da vila de Santo Antão = Para 
+V. Ex.ª ver = Por despacho do ilustríssimo e excelentíssimo senhor general de 5 de 
+Dezembro de 1814./ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 132-133. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

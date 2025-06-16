@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0150
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco de Paula Barreiros",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "31-05-1798",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de confirmação. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem chamada Cabeirava",
+  "Marcos Geográficos": "Vila de Santo Antônio de Sá",
+  "Ribeira": "Itinga",
+  "Justificativas": "Não tinha terras; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Foi determinado também ao suplicante que \"não o fazendo se denegará mais tempo e antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para este efeito, notificadas as pessoas com quem confrontar e será obrigado a conservar os Tapinhoan [sic] que se incluírem nesta data deixando de os cortar para outro algum uso que não seja o da construção das naus da mesma senhoria e a cuidar na plantação destas árvores naqueles lugares em que já as houveram ou forem mais próprias para a produção das mesmas, como também a fazer os caminhos da sua testada com pontes e estivas onde necessário for e descobrindo-se nelas rio caudaloso, que necessite barca para se atravessar, ficará reservada de uma margem dele meia légua de terras em quadra para comodidade pública\". Além disso, igualmente exigiu-se dos mesmos que \"não compreenderá nesta data vieiras ou minas de qualquer gênero de metal que nelas se descobrir, reservando também os paus Reais\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0150"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0150
+Carta de confirmação de Sesmaria de Francisco de Paula Barreiros.
+Dom João Alteza, faço saber aos que esta minha carta de confirmação de sesmaria virem que,
+por parte do Capitão Francisco de Paula Barreiros, me foi apresentada outra mandada passar
+pelo Conde de Resende Vice-Rei Capitão General de Mar e Terra do Estado do Brasil do teor
+seguinte. Dom José de Castro Conde de Resende do conselho de Sua Majestade, Marechal de
+Campo de seus exércitos Vice-Rei Capitão General de Mar e Terra do Estado do Brasil etc.
+Faço saber ao que esta minha carta de sesmaria virem que, atendendo a representar-me o
+capitão Francisco de Paula Barreiros, [palavra não identificada], e com escravatura sem ter
+terras ou sesmaria onde se [pudesse] suficientemente estabelecer e porque por elas da serra de
+Brás Sardinha onde acabam as sesmaria testadas na paragem chamada Cabeirava havia terras
+devolutas, queria que lhe concedesse naqueles sertões de Orindi da vila de Santo Antônio de
+Sá uma légua de terras, em quadra fazendo testada pelo Cabeiraba onde acabarem as
+sesmarias tomadas sendo sertão para o rio da Itinga, procurando a terra grande pelo lado da
+parte de João do Couto, e que resultaria em utilidade dos Reais Dízimos. Pedindo-me enfim
+que concedesse a dita terras de sesmaria na referida paragem, em nome de Sua Majestade e
+visto seu requerimento e o qual informou a Câmara, a quem senão ofereceu dúvida, não tendo
+também os Desembargadores provedores da Real Fazenda e provedor da coroa dela a quem se
+deu vista. Hei por bem dar de sesmaria, no Real Nome de Sua Majestade, em virtude da
+ordem do mesmo senhor de quinze de junho de 1711, ao dito Capitão Francisco de Paula
+Barreiros, uma légua de terra em quadra na parte acima declarada com as confrontações
+expressadas sem prejuízo de terceiro ou do direito que alguma pessoa tenha a ela, com
+declaração que as cultivará e mandará confirmar esta minha carta pela referida senhoria
+dentro de dois anos e não o fazendo se negará mais tempo. Antes de tomar posse delas as fará
+medir e demarcar, judicialmente sendo, para esse efeito notificadas as pessoas com quem
+confrontar e será obrigado a conservar os Tapinhoães que se acharão nesta data, deixando de
+os cortar para outro algum uso ou que não seja da construção dos Naus do mesmo senhor. E a
+cuidar na plantação destas árvores naqueles mesmos lugares em que já as haveram ou foram
+mais próprios para a produção das mesmas, como também a fazer os caminhos de sua testada
+com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite
+de barca para se atravessar, ficará reservada uma das margens dele meia légua de terras em
+quadra para a comodidade pública. Nesta data não poderá suceder em tempo algum pessoa
+eclesiástica, ou religião e sucedendo será com encargo de pagar dízimo e outro qualquer que
+
+Sua Majestade lhe impuser de novo e não o fazendo se poderá dar a quem a denunciar. Como
+também sendo o dito Senhor servido mandar fundar no distrito dela alguma vila, o poderá
+fazer ficando livre e sem encargo algum ou punição para o sesmeiro. E não compreenderá
+nesta data vieiras, ou minas de qualquer gênero de metal que nela se descobrir reservando
+igualmente os paus reais, e faltando a qualquer das ditas cláusulas por seram conforme as
+Reais ordens da dita senhoria e as que dispõem a Lei Foral das sesmarias ficará privado desta.
+Pelo que mando ao ministro ou oficial de justiça que o conhecimento desta pertencer dê posse
+ao dito, Capitão Francisco de Paula Barreiros, da légua de terras na forma aqui declaradas. E
+por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas, que se cumprirá como nela se contém, e se registrará nesta secretaria do Estado
+e nas mais partes a que tocar, se passou por duas vias. Dada nesta cidade de São Sebastião do
+Rio de Janeiro, Domingos José Rosa oficial da dita secretaria, a fez aos 31 de maio de 1798,
+oficial maior da secretaria José Pereira Leão a fez escrever no impedimento de moléstia do
+Secretário do Estado Conde de Resende, pedindo-me ao dito Capitão Francisco de Paula
+Barreiros, que por quanto o sobredito Vice-Rei e Capitão General de Mar e Terra do Estado
+do Brasil lhe dera em meu real nome, uma légua de terra em quadra no sítio mencionado na
+referida carta. Fosse servido mandar-lhe passar outra de confirmação dela, e sendo visto seu
+requerimento,
+respostas do sobredito deram os Procuradores Régios da minha Fazenda e
+Coroa: Hei por bem fazer-lhe mercê de confirmar posse por esta confirmação a dita légua de
+terras em quadra na paragem sobredita com as confrontações referidas, que em meu real
+nome, lhe deu Conde de Resende Vice-Rei Capitão General de Mar e Terra do Estado do
+Brasil, na forma da carta, Conde de Resende Vice-Rei Capitão General de Mar e Terra do
+Estado do Brasil. Na forma da carta nesta incerta com todas as cláusulas e condições na
+mesma
+expressadas e com as mais que dispõe a lei. Pelo que mando ao meu Vice-Rei e
+Capitão General de Mar e Terra do Estado do Brasil ao Provedor da Fazenda real dele aos
+mais ministros e pessoas a que tocar, cumpram e guardem esta minha carta de confirmação de
+sesmaria e a façam cumprir e guardar inteiramente como nela se contém, sem dúvida alguma,
+pagou de novos direitos os 400 réis se carregarão o delas a folha 152 do livro 18 de sua receita
+como constou de conhecimento em forma de registro geral do livro 62 a folha 52. Dada na
+cidade de Lisboa aos 20 de março de 1800, o Príncipe Barão de Mossâmedes, Dom João
+Pedro da câmara, conselheiro Francisco da Silva Corte Real a fez escrever, João da Silva
+[palavra não identificada] a fez desta 2000n por despacho do Conselho Ultramarino [palavra
+não identificada] de março de 1800.
+-
+Fim da transcrição -
+
+Alterações ortográficas: meya/meia, leogoa/légua, debolutas/devolutas, clauzulas/cláusulas.
+Referência:
+http://resgate.bn.br/docreader/DocReader.aspx?bib=CODICES&Pesq=cod.%20165&pagfis=6
+0386 fl, 201-202.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

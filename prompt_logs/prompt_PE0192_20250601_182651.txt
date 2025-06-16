@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0192
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0209",
+  "Nome": "João Batista da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-08-1804",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia do Bom Jardim, termo da vila de Igarassú, do riacho Gabichá até as terras de Reinaldo Gomes.",
+  "Localidade": "Freguesia do Bom Jardim",
+  "Marcos Geográficos": "Riacho Gabichá",
+  "Confrontantes": "Reinaldo Gomes",
+  "Justificativas": "Pretendia cultivar; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0192"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0192 
+ 
+Carta de concessão do capitão João Batista da Silva de 06/08/1804 
+ 
+O capitão João Baista da Silva três quarto de légua de terra na freguesia do Bom Jardim, 
+termo da vila de Igarassú 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho de Sua Alteza Real e seu governador 
+e capitão-general da capitania geral de Pernambuco etc. Faço saber aos que esta carta de 
+data de sesmaria virem, que o capitão João Batista da Silva fez a este governo um 
+requerimento do teor, e maneira seguinte: Ilustríssimo senhor = Diz o Capitão João 
+Batista da Silva, na freguesia de Bom Jardim, termo de Igarassú, pelo Riacho Gabiohe 
+acima, pegando da testada e limite de uma porção de terra do mesmo suplicante obtida 
+por sesmaria, até entestar com terra de Reinaldo Gomes existem três quartos de légua 
+devolutas e desaproveitas pelo dito riacho acima, e com a mesma quantidade em quadra, 
+ou o que na verdade for; e porque o suplicante tem bastante escravos, e precisa da dita 
+terra para cultivar, requer a vossas senhoria se digne conceder-lhe de sesmaria a terra que 
+assim se achar no dito lugar, pagando o suplicante o foro do estilo = Pede a vossa senhoria 
+seja servido deferir ao suplicante com o requerimento = E receberá Mercê = E sendo visto 
+o dito requerimento pelo Governo mandou por despacho de quatorze de outubro de mil 
+oitocentos e três, que e a câmara respectiva praticasse o estilo, o que assim executou 
+alguma que se opusesse aos editais que mandou fixar para se saber se havia, ou não 
+terceiros prejudicados; por outro de dez de fevereiro de mil oitocentos e quatro, mandou 
+ouvir o doutor procurador da Coroa e Fazenda e assim mais responder o escrivão 
+deputado da Junta da mesma Fazenda por outro de seis de março do mesmo ano, e como 
+todos uniformemente responderam estar nos termos de se dar ao suplicante a terra pedida 
+de sesmaria na forma confrontada em seu requerimento, pagando o foro anual a razão e 
+seis mil réis por légua, de que devia dar fiança na Contadoria Real Fazenda. ultimamente 
+mandou por despacho de oito do referido mês, e ano, que se passasse carta de data de 
+sesmaria e três quartos de légua pedidos com as condições apontadas pelo doutor 
+procurador da Coroa e Fazenda, e escrivão deputado da mesma o que sendo-me tudo 
+presente, mandei por despacho de 1.º de agosto do corrente se passasse carta de sesmaria 
+na forma que estava determinado, em cumprimento do que, e pela faculdade que Sua 
+Alteza Real permite no capítulo 15 do regimento deste Governo: Hei por bem dar em 
+nome do dito senhor do referido capitão João Batista da Silva três quartos de légua de 
+terra da freguesia do Bom Jardim termo da Vila de Igarassú pelo Riacho Gabiohé acima, 
+pegando da testada, e limite de uma porção de terra do mesmo suplicante obtida por 
+sesmaria, até entestar com terra de Reinaldo Gomes, tudo na forma confrontada em seu 
+requerimento pagando o foro anual a razão de seis mil réis por légua visto ser das que 
+estão mais próximas a marinha, na forma que determina a real ordem de 28 de setembro 
+de 1700, a qual terra possuirá, e gozará ele suplicante e seus herdeiros, ascendentes e 
+descendentes como sua que fica sendo de hoje para todo sempre, com todas as suas 
+pertenças matas, campos, rios, águas, testadas, logradouros e mais úteis que nela 
+compreender, não prejudicando a terceiro e não passará a dita terra a religiões e pessoas 
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares; 
+sendo obrigado a dar ao conselho caminhos livres para fontes, pontes, pedreiras, e 
+requerer dentro de três anos confirmação, medição, povoá-la e cultivá-la na conformidade 
+da ordem régia de 20 de outubro de 1753, e não o mais a condição, que a referida terra, 
+
+nunca se dividirá em porções, nem repartirá, se não por estimação, andando encabeçada 
+em uma só pessoa, na forma da ordenação Livro 4º título 96 parágrafo 23, e assim mais 
+não passará a referida terra a herdeiros, ou outra qualquer pessoa sem concessão da Junta 
+da Real Fazenda, para nessa se darem novas fianças e se fizerem as devidas escriturações, 
+pelo que ordeno aos ministros da Fazenda, e Justiça, e mais pessoas a quem tocar 
+cumpram, e façam cumprir, e guardar esta carta de data de sesmaria como nela se contém, 
+fazendo dar ao suplicante a posse real, efetiva e atual na forma acostumada, debaixo das 
+cláusulas referidas e das mais da Ordenação título das sesmarias, visto constar por bilhete 
+que apresentou, achar-se dada a fiança ao foro anual a razão de seis mil réis por légua na 
+contadoria da Real Fazenda a fl. 4 do Livro 6.º delas. Em firmeza do que lhe mandei 
+passar por mim assinada e selada com o sinete de minhas armas, que se registrará na 
+secretaria deste Governo e na da Junta da Real Fazenda. José Fernandes Quintela Oficial 
+maior da secretaria do governo a fez em o Recife de Pernambuco aos seis de agosto ano 
+do nascimento do Nosso Senhor Jesus Cristo de 1804// Desta 18 mil réis. José Carlos 
+Mainrik da Silva Ferrão secretário do governo a fez escrever// Caetano Pinto de Miranda 
+Montenegro.  
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 90-91. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

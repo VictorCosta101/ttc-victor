@@ -1,0 +1,107 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0057
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0105",
+  "Nome": "Manuel Marques",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-05-1727",
+  "Data da concessão": "30-05-1727",
+  "Observações da sesmaria": "O suplicante requereu três léguas de terras situadas no Olho d'Água do Jacaré, que confronta com o Panema para a parte do oeste, encontrando dois riachos para o leste, encontrando ao sul com o Curral do Meio e ao norte com o Comonati.",
+  "Localidade": "Olho d'Água do Jacaré, Panema, Curral do Meio e Comonati.",
+  "Marcos Geográficos": "Olho d'Água do Jacaré, Panema, Curral do Meio e Comonati.",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Mandou-se pagar o dízimo; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alega que serve a Fazenda e Coroa há 45 anos.",
+  "Observações do deferimento e da concessão": "Devido o documento estar incompleto, não foi possível identificar as informações referentes ao despacho e a concessão, como o nome do procurador e do escrivão.",
+  "Observações das exigências": "O governador, dom Manoel Rolim de Moura, determinou o pagamento de foro de 4 mil réis por légua ao ano. Devido ao documento estar incompleto, não foi possível identificar as demais informações referentes a concessão e deferimento.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0057"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0057
+Carta de doação e sesmaria de Manoel Marques - 30/05/1727
+O CAPITÃO MANOEL MARQUES, DOAÇÃO DE 3 LÉGUAS DE TERRA NO SERTÃO E
+LUGAR CHAMADO "PANEMA" =
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias mais anexas e etc. –
+Faço saber aos que esta carta de doação de sesmaria virem, que me representaram a petição do teor
+seguinte: Diz Manoel Marques, capitão de infantaria do terço da guarda, digo, guarnição da Praça
+do Recife, que ele tem notícia que se acham algumas terras devolutas em o sertão, no lugar do olho
+d'agua do Jacaré, das quais quer o suplicante haver por doação e sesmaria três léguas em quadro,
+confrontando pelo Panema pela parte do oeste e com os dois riachos pela parte do leste, correndo
+para o sul com o curral do meio e para o norte para a terra do Comonati, para as povoar com seus
+gados que n'aquele sertão tem, de que resultará conveniência e aumento à Fazenda Real e direitos
+de Sua Majestade, que Deus guarde, a quem serve há 45 anos com a inteira satisfação que é notório;
+portanto, pede a Vossa Senhoria lhe faça mercê dar de sesmaria em nome de Sua Majestade as ditas
+três léguas de terra em quadro - mandando-lhe passar sua carta de data na forma do estilo - E
+receberá mercê. – Informe o provedor da Fazenda Real, ouvindo o procurador da Coroa = Olinda,
+13 de maio de 1727 – "Resposta do provedor da Fazenda Real, com o parecer do doutor procurador
+dela" Senhor governador e capitão general - Responde o doutor procurador da Coroa e Fazenda, a
+quem Vossa Senhoria mandou ouvir sobre o requerimento do suplicante, que não tem dúvida sendo
+a data na forma da Ordenação Livro 4.º título 43, e as ordens de Sua Majestade, que Deus guarde,
+com o foro que se assentou, ao que me conformo com declaração que dos frutos das ditas terras se
+há de pagar dízimo a ordem de Cristo, e de não passarem elas a religiões por nenhum título, e no
+caso que suceda será como se fossem possuídas por seculares e pagando o foro de quatro mil réis
+por légua cada um ano. Vossa Senhoria mandará o que lhe parecer mais conveniente ao serviço de
+Sua Majestade, com a retidão que costuma. - Recife, 28 de maio de 1727 - "João do Rego Barros" O
+que visto e atendendo eu a faculdade que o dito senhor me concede no Capítulo 15 do Regimento
+deste Governo - Hei por bem de lhe dar como pela presente dou de sesmaria, em nome de Sua
+Majestade as ditas três léguas de terra assim e da maneira e na mesma paragem que confronta em
+sua petição - [...].
+Vide fl. 96 v. original.
+- Fim da carta -
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a
+esta sesmaria.
+Em 30 de
+maio 1727.
+
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 314 - 315.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

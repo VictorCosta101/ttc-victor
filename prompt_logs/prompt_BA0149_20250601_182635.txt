@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0149
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos da Fonseca Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "28-01-1634",
+  "Observações da sesmaria": "A sesmaria era um chão de terra localizado em uma ladeira em Salvador. Não foram especificadas as medidas de comprimento e de largura.",
+  "Localidade": "Salvador",
+  "Justificativas": "Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou ser pobre e que precisava sustentar sua família.",
+  "Observações das exigências": "Determinou-se que pagasse um foro de 10 mil réis anuais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0149"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma petição de Domingos da Fonseca Pinto e provisão passada sobre ela os chãos 
+da plataforma da ladeira da praia. 
+Domingos da Fonseca Pinto, morador nesta cidade, casado com mulher e 7 filhos pobre e não 
+tem umas casa, em que vivia, e tem servido a Sua Majestade haverá mais de 14 anos com 
+satisfaçõa devida como consta das certidões que apresenta e sem até agora se lhe dar ordenado 
+algum, tendo-lhe prometido; e assim serviu 2 anos de guarda-mor da relação antes de ser tomada 
+esta cidade dos Holandeses e depois serviu muitos ofícios enquanto Vossa Senhoria lhe fez 
+mercê prover como de presente está servindo; e porque na ladeira desta cidade estão uns chãos 
+onde estiveram 2 peças de artilharia, os quais são de Sua Majestade e estão desocupados, e ele, 
+suplicante está pobre com família que acima diz, e não tem umas casas em que viva. Pelo que 
+pede a Vossa Senhoria informado do que acima diz em sua petição, e visto como tem servido a 
+Sua Majestade sem até agora ter ordenado algum e atendendo a sua pobreza lhe faça mercê 
+conceder-lhe a dita mercê que pede em nome de Sua Majestade para fazer casas em que vivia 
+e possa assistir seu ofício nesta cidade com a dita sua família. E receberá mercê. 
+Despacho  
+Declaro o suplicante se há nos chãos que pede alguma obra pertencente a Fazenda Real ou se 
+estão devolutos. O governador por rubrica. 
+Declaração que fez  
+Os chão que o suplicante pede não tem obra nenhuma e nem préstimo para o serviço real, antes 
+por ser incapaz de tiros dele a artilharia, e assim achará Vossa Senhoria sendo servido informar-
+se. 
+Outro despacho  
+O capitão Francisco de Frias, engenheiro-mor deste Estado, informe do conteúdo no 
+requerimento acima. O governador.  
+Informação 
+Fui como Vossa Senhoria me ordenou ver a plataforma da ladeira que está no caminho que vai 
+para a praia, e como para o efeito que se fez ter artilharia não é de utilidade como a experiência 
+tem notado por sua muita altura, coisa contrária ao bom uso delas acho que não é de importância 
+para o dito efeito e só se poderão acomodar as paredes que estão feitas a uma casa particular e 
+não tão grande na Bahia, 10 de novembro de 1633. // Francisco de Farias de Mesquita // 
+Provisão 
+Diogo Luís de Oliveira, do conselho supremo de guerra de Sua Majestade, seu governador e 
+capitão geral do Estado do Brasil etc. Faço saber aos que esta provisão virem que havendo 
+respeito ao que diz em sua petição Domingos da Fonseca Pinto e informação que tomei acerca 
+do conteúdo nela do capitão Francisco de Farias Mesquita, engenheiro-mor deste Estado, 
+porque tudo me consta ser o dito Domingos da Fonseca, benemérito ai serviço de Sua Majestade 
+e que o chão de que trata está devoluto e é inútil ao serviço de artilharia que nele estava no qual 
+respeito se mudou a outro mais conveniente, ficando as paredes e ruínas que nele estão 
+infrutíferas a Fazenda Real. E considerando outrossim que se segue benefício e nobreza a esta 
+cidade de os chãos se fabricarem e a Fazenda Real fica com algum fruto que até aqui não tinha: 
+hei por serviço do dito senhor de dar licença ao dito Domingos da Fonseca para que fabrique 
+
+no dito sítio umas casas e se aproveite das ruínas que nele estão com condição que pagará em 
+cada ano à Fazenda Real 10.000 réis com o foro imposto a respeito do que se considera poderia 
+valer o chão e ruínas que nele estão e primeiro que dele se lhe de posse e fará obrigação ante o 
+escrivão da Fazenda de pagar os ditos 10.000 réis, ao quais se carregarão sempre em receita por 
+lembrança ao tesoureiro geral que servir para que dele os cobre, e depois de registrada essa 
+provisão no Livro dos Registros de Fazenda, se lhe dará posse dos ditos chãos, os quais logrará 
+sem contradição alguma, e havendo-a alguma hora por parte da Fazenda Real ao cumprimento 
+desta provisão se lhe tomará o dinheiro que tiver pago cada ano até aquele tempo e o que 
+valerem as benfeitorias que no dito sítio tiver. Dada na Bahia sob meu sinal e selo de minhas 
+armas aos 28 dias do mês de janeiro de 1634 anos. E eu // Antônio Camelo // Escrivão da 
+Câmara o fiz por mandado de Sua Senhoria escrever e subscrevi. // Diogo Luís de Oliveira // 
+Certidão de Obrigação  
+A folhas 39 do livro das fianças tem feito Domingos da Fonseca Pinto a obrigação e termo que 
+a provisão atrás requer. Bahia, 20 de janeiro de 1634 // Pedro de Moura // A qual petição, 
+despachos, informação e provisão eu, Pedro de Moura, que sirvo de escrivão da Fazenda, aqui 
+registrei da própria a que me reporto que tornei a Domingos da Fonseca que aqui assinou de 
+como recebeu na Bahia em 1 de fevereiro de 1634 anos // Pedro Moura // Domingos da Fonseca 
+Pinto // 
+ 
+Referências: 
+DHBN, vol. 16, Pg. 163 -166 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

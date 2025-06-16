@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0017
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0032",
+  "Nome": "Domingos da Costa Araújo (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da petição": "05-04-1702",
+  "Data da concessão": "06-04-1702",
+  "Observações da sesmaria": "O suplicante requereu uma légua quadrada no rio Namby Pangy, para cada lada do rio. O suplicante alegou que havia comprando meia légua de terras, em 1669, no dito rio a alguns associados. Ao lado das terras que pertenciam o suplicante existiam algumas braças que ele também desejava adicionar ao seu patrimônio. Para garantir que as terras devolutas e que ele havia comprando ficariam protegidas, o sesmeiro requereu a concessão de mais meia légua de comprimento e meia légua de largura para as bandas das terra que já possuía até as fronteiras do engenho de São Borbas e Nossa Senhora do Rosário, do capitão Domingos de La Penha. ",
+  "Localidade": "Rio Namby Pangy, engenho de São Borbas e engenho Nossa Senhora do Rosário",
+  "Marcos Geográficos": "Rio Namby Pangy",
+  "Confrontantes": "Engenho Nossa Senhora do Rosário do capitão Domingos de La Penha. ",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a concessão fosse feita de acordo com as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Fernando Martins Mascarenhas de Lencastre ordenou que os suplicantes pagassem o foro de 2 mil réis por légua requerida. O governador Fernando Martins Mascarenhas de Lencastre ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Fernando Martins Mascarenhas de Lencastre ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0017"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0017 
+Carta de doação e sesmaria do capitão Domingos da Costa Araújo – 06/04/1702 
+ 
+CARTA DE SESMARIA QUE SE PASSOU AO CAPITÃO DOMINGOS DA COSTA 
+ARAUJO. 
+ 
+Dom Fernando Martins Mascarenhas de Lencastro, do Conselho de Sua Majestade, governador e 
+capitão geral de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação 
+e sesmaria virem que o capitão Domingos da Costa Araújo me representou a petição cujo teor é o 
+seguinte: Senhor. Diz o capitão-mor Domingos da Costa Araújo, que pela data que apresenta em 
+que o suplicante tem comprado meia légua de terra pertencente ao suplicante e seus consórcios, pelo 
+rio Namby Pagy acima duas léguas de terra na testada do alferes João Alves, até o poço de 
+Munguba e uma campina junto dele ou o que na verdade se achar nas confrontações, com meia 
+légua de largo para cada uma das bandas do dito rio, com todas as sobras que se acharem de uma e 
+outra banda; e nesta forma é que o suplicante e seus consórcios estão de posse das ditas terras desde 
+o ano de 69 até o presente, que são trinta e dois anos, como consta do auto de posse da dita data, e 
+porque nelas se não declaram as sobras pedidas na petição e para os lados se acham haver além de 
+meia légua algumas braças que os antecessores e sócios dos suplicantes sempre possuíram, e poderá 
+haver alguma dúvida sobre estas sobras, e para evitar esta: pede a Vossa Senhoria seja servido 
+mandar-lhe passar provisão de declaração com força de data, se necessário for, em que declare que 
+na dita data que a presente se compreende as sobras que os suplicantes possuem até as testadas dos 
+éreos, que se acham de um e outro lado das terras do suplicante e seus consórcios, que hoje são as 
+terras do engenho São Francisco Xavier dos Borbas, e Nossa Senhora do Rosário do Capitão 
+Domingos de La Penha e dos mais possuidores que haja mais antigos que a data do suplicante. E 
+receberá mercê. Informe o provedor da Fazenda Real, ouvindo o procurador da Coroa. Recife, 5 de 
+abril de 1702. = “Rubrica” Vista ao procurador da Coroa. Recife, 5 de abril de 1702. “Barros”. Deve 
+o suplicante declarar quantas braças de terras poderão haver de sobras. Recife, 5 de abril de 1702. 
+“Pereira”. Satisfaça a dúvida do procurador da Coroa, dia e [hora] supra. “Barros”. Declara o 
+suplicante que as sobras que pede poderá ser meia légua por uma e outra banda do dito rio 
+declarado em sua petição, e com esta declaração tem satisfeito. Recife, 5 de abril de 1702. 
+Domingos da Costa Araújo. Não tenho dúvida em que se dê ao suplicante de sesmaria as sobras que 
+pede, pagando o foro na forma da Ordenação. Livro 4; título 43, quanto ao mais. Recife, 5 de Abril 
+de 1702. “Pereira” Senhor, com a resposta do procurador da Coroa, respondo a Vossa Senhoria que 
+se me não oferece dúvida que se conceda ao suplicante a data que pede, pagando o foro na forma 
+das ordens de Sua Majestade, que Deus guarde, e assento da junta; Vossa Senhoria ordenará o que 
+for servido. Recife, 5 de abril de 1702. “João de Barros Rego”. E havendo, outrossim, respeito ao 
+que Sua Majestade me encomenda no capítulo 15 do regimento deste Governo. Hei por bem de lhe 
+
+fazer mercê dar ao suplicante acima nomeado, para si como pela presente dou, de sesmaria em 
+nome de Sua Majestade nos mesmos lugares, partes e testadas, que confrontam em sua petição meia 
+légua de terra para uma e outra banda do dito rio, de que pagará dois mil réis de foro, que povoará a 
+dita terra no tempo de cinco anos, aliás se darão por devolutas, e as possuirá e gozará o dito 
+suplicante, ele e seus herdeiros, não prejudicando a terceiro, com todas as suas águas, matas, águas, 
+campos, testadas, logradouros e mais úteis que nelas se acharem, e será obrigado a dar pelas ditas 
+terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a requerer a confirmação 
+desta data por Sua Majestade, que Deus guarde, em termo de dois anos. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias a que o conhecimento desta carta pertencer, lhe 
+fação dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das 
+mais da ordenação título de sesmarias, que para firmeza de tudo lhe mandei passar a presente por 
+mim assinada e selada com o sinete das minhas armas, a qual se registrará nos livros da Secretaria 
+deste Governo, nos da Fazenda Real e nos do Foral Real, e sem esta precisa circunstancia não terá 
+vigor nem validade alguma a presente carta de sesmaria. Dada neste Recife de Pernambuco, em os 6 
+dias do mês de abril de 1702; Lizardo Ribeiro Monção a fez. Eu Bartolomeu de Serqueira Cordovil 
+a fiz escrever em ausência do respectivo secretário = Dom Fernando Martins Mascarenhas de 
+Lencastro. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 83 - 85. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0159
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Lourenço de Andrade Passos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "12-04-1730",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"ele tem povoado de gados vacum e cavalar um sítio chamado o [Asimin]\".\r\n",
+  "Localidade": "Sítio o [Asimin]",
+  "Marcos Geográficos": "Serra da Ibiapaba",
+  "Justificativas": "Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia confirmar o título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0159"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0159
+Carta de concessão a Lourenço de Andrade Passos - 12/04/1730
+Registro de uma carta de data  e sesmaria passada a Lourenço de Andrade Passos
+de 3 léguas de comprido e uma de largo.
+ 
+ 
+Alexandre de Sousa Freire etc. Faço saber aos que esta minha carta de data e sesmaria
+virem que a mim me enviou a dizer por sua petição, Lourenço de Andrade Passos,
+que ele tem povoado de gados vacum e cavalar um sítio chamado o [Asimin], águas
+vertentes da serra da Ibiapaba para as salinas que tem 3 léguas de comprido e uma de
+largo porque título do dito sítio para mandar confirmar. Portanto, me pedia fosse servido
+conceder-lhe carta de data e sesmaria das ditas 3 léguas de terra de comprido e uma de
+largo e receberia mercê. E atendendo eu as razões que alegava, como também ao que
+respondeu o provedor-mor da Fazenda Real a quem se deu vista, e ser em utilidade da
+mesma Fazenda, o cultivarem-se as terras devolutas neste Estado. Hei por bem de
+conceder ao suplicante, em nome de Sua Majestade, que Deus guarde, 3 léguas de terra
+de comprido e uma de largo, na parte que com as confrontações nesta declaradas e
+condições expressadas nas Reais Ordens. E com a condição de não fazer trespasse por
+meio algum a pessoa alguma ou comunidade e religião, sem que primeiro dê parte na
+casa da Fazenda ao provedor-mor dela para se me fazer presente se se deve ou não
+consentir no tal trespasse, sob pena de ficar a dita carta de data e sesmaria
+nula para novamente conceder a outrem. E nesta forma se lhe passa carta para que as
+haja, logre e possua, como coisa sua própria e todos os seus herdeiros, ascendentes e
+descendentes
+sem
+pensão
+nem
+tributo
+algum
+mais
+que o
+dízimo
+a Deus, Nosso Senhor, dos
+frutos que nelas
+tiver
+a qual concessão
+lhe
+faço
+não
+prejudicando a terceiro, reservando os paus reais que nelas houver para embarcações,
+com
+declaração que mandará
+confirmar
+esta
+carta
+por Sua Majestade, dentro
+de
+3 anos primeiros seguintes. E cultivará as ditas terras de maneira que deem frutos; e
+dará caminhos públicos, e particulares aonde forem necessários para pontes, fontes,
+portos e pedreiras; e se demarcará ao tempo da posse por rumo de corda, e braças
+craveiras, como é estilo e Sua Majestade manda. E outrossim, não poderão nelas
+suceder religiões por nenhum título, e acontecendo possuí-las será com o encargo de
+pagarem delas dízimos a Deus, como se fossem possuídas por seculares. E faltando
+a qualquer destas cláusulas se haverão por devolutas e se darão a quem as denunciar,
+como o dito Senhor ordena. Pelo que mando ao provedor-mor da Fazenda Real, mais
+ministros e pessoas a quem tocar que na forma referida e com as condições declaradas,
+deixem ter e possuir a dita terra ao dito Lourenço de Andrade Passos para ele e todos os
+seus herdeiros, ascendentes e descendentes como coisa sua própria. Cumpram e
+guardem esta minha carta de data e sesmaria tão inteiramente como nela se contém,
+a qual lhe mandei passar por mim assinada e selada com o sinete de minhas
+armas que se
+registrará
+onde
+tocar
+e
+se
+passou
+por
+duas
+vias.
+Dada
+nesta
+cidade de São Luís do Maranhão aos 12 de de abril ano do nascimento de Nosso Senhor
+Jesus Cristo de 1730. E eu, João Antonio Freire, secretário do Estado, a fiz escrever, e
+subscrevi Alexandre de Sousa Freire.
+-Fim da Transcrição-
+
+Referência:
+APEP, Livro 5, Doc. 209, fls. 126-126v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

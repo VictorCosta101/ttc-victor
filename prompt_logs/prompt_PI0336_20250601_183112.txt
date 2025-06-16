@@ -1,0 +1,109 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0336
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Pinheiro Álvares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "30-05-1740",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. ",
+  "Localidade": "Terras devolutas no Sítio Os Guaribas",
+  "Marcos Geográficos": "Sertões do Parnaguá, Riacho das Contendas",
+  "Justificativas": "As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Na margem lateral esquerda da carta consta a seguinte informação: Não teve efeito esta data, e se recorreu [ao] secretário por despacho de 26 de junho de 1740. //Fonseca//. Além disso, passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.\r\n",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. ",
+  "Despacho favorável": "Não",
+  "referencia": "PI0336"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0336
+Carta de concessão ao sargento-mor João Pinheiro Alvares - 30/05/1740
+Registro de uma carta de data e sesmaria que se concedeu a João Pinheiro Álvares, de 3
+léguas de terra de comprido e uma de largo, no Riacho das Contendas.
+João de Abreu de Castelo Branco, do concelho de Sua Majestade. Faço saber, aos que esta
+minha carta de data e sesmaria virem, que o sargento-mor João Pinheiro Álvares, morador na
+capitania do Piauí, me representou que ele era senhor e possuidor de bastantes gados vacuns e
+cavalar, que por não ter terras próprias para os apascentar, andavam dispersos pela capitania.
+E porque, nos sertões do Parnaguá, no sítio chamado os Guaribas, do coronel João de Sousa
+Campos, no Riacho das Contendas, se achavam terras devolutas, me pedia lhe fizesse mercê
+conceder-lhe, em nome de Sua Majestade, 3 léguas de terra de comprido e uma de largo, pelo
+dito Riacho das Contenda abaixo, fazendo meio no dito sítio chamado os Guaribas e a légua
+de largo, meia por cada banda do dito Riacho das Contendas, légua ou toda pela parte que
+melhor lhe convier. Ao que atendendo, e a informação do provedor-mor da Fazenda Real, e
+ser em utilidade da mesma Fazenda o cultivarem-se as terras neste estado. Hei por bem
+conceder-lhe, em nome de Sua Majestade, as ditas 3 léguas de terra de comprido e uma de
+largo, no sítio acima declarado e na forma que pede, com as condições expressadas nas Reais
+Ordens. E com a de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma,
+religião ou comunidade, sem primeiro dar parte na Casa da Fazenda ao provedor-mor dela,
+para se me fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de ficar
+nula esta data e se poder conceder novamente a outrem. E nesta forma se lhe passa carta de
+data, para que o dito João Pinheiro Álvares haja, logre e possua as ditas terras como coisa sua
+própria, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos frutos
+que nelas houver e lavra. A qual concessão lhe faço não prejudicando a terceiro nem a Sua
+Majestade, se no dito sítio quiser mandar fundar alguma vila, reservando os paus Reais para
+embarcações, com declaração que mandará confirmar esta data por Sua Majestade, dentro dos
+3 anos primeiros seguintes. E dará caminhos públicos e particulares aonde forem necessários
+para pontes, fontes, portos e pedreiras, como é estilo e Sua Majestade manda. E outrossim,
+não sucederão nelas religiões nem pessoas eclesiásticas, por nenhum título que seja, e
+acontecendo possuí-las, será com o encargo de pagar delas dízimos a Deus, como se fossem
+possuídas por seculares. E faltando a qualquer destas cláusulas, haverão as ditas terras por
+devolutas, e se darão a quem as denunciar, como o dito Senhor ordena. Pelo que mando ao
+provedor-mor da Fazenda Real, mais ministros e pessoas a que tocar, que, na forma referida,
+deixem ter e possuir as ditas terras ao dito João Pinheiro Álvares como coisa sua própria.
+Cumpram e guardem esta minha carta de data e sesmaria tão inteiramente como nela se
+contém, a qual lhe mandei passar por mim assinada e selada com o sinete das armas Reais.
+Dada na Cidade de São Luís do Maranhão, aos 30 de maio, ano do nascimento de Nosso
+Senhor Jesus Cristo de 1740. E eu, José Gonçalves da Fonseca, secretário do estado, a fiz.
+//João de Abreu Castelo Branco//.
+- Fim da Transcrição -
+
+Observação do documento:
+Na margem lateral esquerda da carta consta a seguinte informação: Não teve efeito esta data,
+e se recorreu [ao] secretário por despacho de 26 de junho de 1740. //Fonseca//.
+Referência:
+APEP. Livro 9, doc. 267, fls. 181v-182v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

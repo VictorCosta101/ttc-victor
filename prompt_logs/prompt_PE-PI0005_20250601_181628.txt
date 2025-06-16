@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-PI0005
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0042",
+  "Nome": "João de Sousa Campos, Vicente Velho Carneiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "14-01-1705",
+  "Data da concessão": "15-01-1705",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e duas léguas de largura para cada um no sertão do Parnaguá, desde a a serra vermelha pelo rio Gonegueyá, partindo pelo lado sul aos campos de São Pedro, na povoação de Baltazar Carvalho da Cunha, e das cabeceiras do rio até o Parnaíba e povoações do Pragohy, nas fronteiras das terras de Manuel Lopes Vieira e Antônio de Araújo (PE-PI 0005).",
+  "Localidade": "Rio Parnaíba, Rio Gonegueyá",
+  "Marcos Geográficos": "Rio Parnaíba, Rio Gonegueyá",
+  "Confrontantes": "Manuel Lopes Vieira e Antônio de Araújo (PE-PI 0005)",
+  "Justificativas": "Alegou que já pagava o dízimo havia um tempo; Pretendia criar gado; Pretendia ajudar no povoamento; Era descobridor(a) das terras com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes alegaram que já pagavam o dízimo da capitania de Pernambuco há quatro anos.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que as terras não fossem concedidas de forma salteada, mas somente contínua e de acordo com as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Francisco de Castro Moraes ordenou que os suplicantes pagassem o foro de 4 mil réis por légua requerida. O governador Francisco de Castro Moraes ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Francisco de Castro Moraes ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-PI0005"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-PI 0005 
+ 
+Carta de doação e sesmaria de João de Souza Campos e Vicente Velho Carneiro – 15/01/1705 
+ 
+SESMARIA QUE SE PASSOU A JOÃO DE SOUZA CAMPOS E VICENTE VELHO 
+CARNEIRO. 
+ 
+Francisco de Castro Moraes, do Conselho de Sua Majestade, comendador da comenda de São 
+Miguel de Bugalhal da Ordem de Cristo, governador de Pernambuco e mais capitanias anexas e etc. 
+Faço saber aos que esta carta de doação de sesmaria virem que João de Souza Campos e Vicente 
+Velho Carneiro me representaram a petição cujo teor é o seguinte: Senhor. Dizem João de Souza 
+Campos e Vicente Velho Carneiro, moradores no sertão do Parnaguá e capitania do rio de São 
+Francisco, que eles tem descoberto a sua custa no sertão do Parnagohy desde a serra vermelha pelo 
+rio do Gurugueyá, por uma parte e outra do dito rio, partindo pela banda do sul com os campos de 
+São Pedro, povoação que é de Balthazar Carvalho da Cunha e das cabeceiras do dito rio e nascenças 
+dos gerais até conquistar com o rio da Parnaíba e seus riachos de um rio a outro até partir com as 
+povoações do Pragohy, estão várias terras devolutas sem haverem sido nunca povoadas, ainda que 
+tenham sido pedidas por alguma sesmaria em dano e prejuízo do Governo e Fazenda de Sua 
+Majestade; e porque se podem nelas criar muitos gados vacuns e cavalares, de cuja povoação resulta 
+grande aumento aos seus dízimos reais destas capitanias de Pernambuco, estão resolvidos a ir e 
+mandarem povoar na dita paragem os sítios que se acharem capazes, como com efeito tem já 
+mandado descobrir a sua custa e assinalar vários sítios, com risco de suas vidas e fazendas por amor 
+do gentio que é muito naquela paragem; portanto pede a Vossa Senhoria lhes faça mercê mandar 
+passar carta de sesmaria de quatro léguas de terra de largo e quatro de comprido, que cabe a cada 
+um deles duas léguas de largo e quatro de comprido na forma da ordem de Sua Majestade, e que 
+estas duas léguas de terra a cada um com seu comprimento comecem desde a testada de Manoel 
+Lopes Vieira e Antônio de Araújo, nas partes mais convenientes para a povoação de gados, 
+seguindo-se um sítio a outro com igualdade, conforme a bondade de terras. E receberá mercê.  
+Informe o procurador da Coroa. Recife, 14 de janeiro de 1705. "Rubrica". Senhor. - Não tenho 
+dúvida em que se deem aos suplicantes as léguas de terra que pedem na parte que confrontam, com 
+declaração que sejam contínuas e não salteadas por ser assim conveniente, e fazendo-se a data na 
+forma das ordens de Sua Majestade e assento da junta. Recife, 14 de janeiro de 1705. = Antônio 
+Rodrigues Pereira = Passe carta de sesmaria na forma do estilo. Recife, 14 de janeiro de 1705 =. 
+“Rubrica”. E havendo, outrossim, respeito ao que Sua Majestade me encomenda no capítulo 15 do 
+regimento deste Governo, hei por bem de lhes fazer mercê dar aos suplicantes acima nomeados 
+como pela presente dou de sesmaria em nome de Sua Majestade, que Deus guarde, nos mesmos 
+lugares, partes e testadas que confrontam em sua petição quatro léguas de terra de largo e quatro de 
+
+comprido, que cabe a cada um deles duas léguas de largo e quatro de comprido, contínuas e não 
+salteadas na forma que parece ao procurador da Coroa e Fazenda e disposição das ordens reais, 
+pagando de foro por cada uma légua quatro mil reis, os quais povoarão ditas terras no tempo de 
+cinco anos, aliás se darão por devolutas e as possuirão e gozarão os ditos suplicantes e seus 
+herdeiros, não prejudicando a terceiro, com todas as suas matas, águas, campos, testadas, 
+logradouros e mais úteis que nelas se acharem, e serão obrigados a dar pelas ditas terras caminhos 
+livres ao Conselho para fontes, pontes ou pedreiras e a requerer a confirmação desta data por Sua 
+Majestade, que Deus guarde, em termo de dois anos, pelo que ordeno a todos os ministros da 
+Fazenda e Justiça destas capitanias a que o conhecimento desta carta pertencer, lhe façam dar a 
+posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da 
+Ordenação título de sesmarias, que por firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas, a qual se registrará nos livros da Secretaria deste 
+Governo, nos da Fazenda e nos do Foral Real, e sem esta precisa circunstância não terá vigor nem 
+validade a presente carta de sesmaria. Dada neste Recife de Pernambuco, em os 15 dias do mês de 
+janeiro = José de Brito Menezes a fez = ano de 1705. O secretário, Antônio Barboza de Lima a fez 
+escrever. = Francisco de Castro Moraes. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 127 - 129. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

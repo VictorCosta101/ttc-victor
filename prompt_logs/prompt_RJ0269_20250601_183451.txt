@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0269
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Borges de Sá",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-10-1740",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em Campos dos Goitacazes",
+  "Ribeira": "Imbé",
+  "Confrontantes": "Terras de Agostinho de Almeida",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, e havendo no lugar desta rio caudaloso que necessite de barca para se atravessar ficará reservada na margem dele meia légua ao menos para ficarem em público\". Determinou-se ainda que, na data concedida, os Paus Reais fossem reservados.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0269"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0269
+Carta de concessão de Manuel Borges de Sá de 5 de outubro de 1740
+Matias Coelho de Sousa, mestre de campo de um dos terços da guarnição desta praça do Rio
+de Janeiro, cujo cargo está o governo dela e suas capitanias, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo e representar-me por
+sua petição Manuel Borges de Sá, que nos Campos dos Goytacazes, pelo Rio do Imbé acima
+da parte de norte, acabando a légua de terras que se deu de sesmaria a Agostinho de Almeida,
+se acham muitas devolutas, e porque se acha com posses para cultivar uma data destas, me
+pedia lhe desse de sesmaria, em nome de Sua Majestade, a légua de terras em quadra [que]
+principia onde acaba a do dito Agostinho de Almeida, correndo rumo direito pelo rio acima
+até onde findar a dita légua, [ficando-se os fundos] da mesma para (ilegível) dele a parte do
+norte, e sendo visto seu requerimento e o que sobre ele informaram o provedor da Fazenda
+Real e procurador da Coroa. Hei por bem dar de sesmaria, em nome de Sua Majestade, ao dito
+Manuel Borges de Sá de 1 légua de [terras] em quadra com as confrontações acima
+expressadas; sem prejuízo de terceiro ou do direito que algmas pessoas possam ter a elas; com
+declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade dentro
+de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar posse delas, as fará
+medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas com quem
+confrontar; será obrigado a fazer os caminhos de sua testada com pontes e estivas onde
+necessário for, e havendo no lugar desta rio caudaloso que necessite de barca para se
+atravessar ficará reservada na margem dele meia légua ao menos para ficarem em público; nas
+ditas terras não poderá suceder em tempo alguma pessoa eclesiástica ou religião, e sucedendo
+será com encargo de pagar dízimos e outro qualquer que se lhe impuser de novo, e não os
+pagando se poderá dar a quem as denúnciar; como também sendo o mesmo Senhor servido
+mandar fundar no distrito delas alguma vila o poderá fazer ficando estas livres, sem encargo
+algum ou pensão para o sesmeiro; não compreenderá esta data vieiro ou minas de qualquer
+gênero de metal que nelas se descobrir, reservando também os paus Reais; e faltando a
+qualquer das ditas cláusulas, por serem conforme a ordem de Sua Majestade e as que dispõem
+a Lei e Foral das Sesmaria, ficará privado desta. Pelo que mando a pessoa a quem o
+conhecimento desta pertencer, dê posse ao dito Manuel Borges de Sá das referidas terras na
+forma acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim
+assinanada e selada com o sinete de minhas armas, que se cumprirá como nela se contém
+(ilegível) nos Livros a que tocar. Dada na cidade de São Sebastião do Rio de Janeiro aos 5
+
+dias do mês de outubro de 1740. O oficial major da Secretaria, Pedro [Fagundes Varela], a
+fez. [O secretário do] governo Antônio da Rocha Machado.
+//Matias Coelho de Sousa//
+Carta porque Vossa Senhoria fez mercê dar de sesmaria, em nome de Sua Majestade, a
+Manuel Borges de Sá 1 légua de terras em quadra na capitania dos Campos, sem prejuízo a
+terceiro como as cláusulas (ilegível).
+Para Vossa Senhoria ver.
+Registrada no Livro 6° que nesta Secretaria serve de registro das provisões do governo à folha
+188. Rio, 6 de outubro de 1740.
+//[Antônio da Rocha Machado]//
+Cumpra-se como nela se contém. São Salvador, (ilegível) de abril de 1741.
+//(Ilegível)//.
+Registre-se nos Livros da Fazenda Real. Rio, 7 de outubro de 1740.
+//Melo//
+Registrada no Livro 1° do Tombo das Sesmarias que serve neste Cartório à folha 50. Rio de
+Janeiro, 8 de outubro de 1740.
+//Francisco Xavier da Silva//
+Registrada no Livro 29 dos registros desta Provedoria à folha 26. Rio, 8 de outubro de 1740.
+//(não identificado//)
+Cumpra-se como nela se contém. São Salvador, 20 de abril de 1741.
+//(não identificado)//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro, concedeu e deu sesmaria a
+Manuel Borges de Sá uma legoa de terras, em quadra, nos Campos dos Goytacazes, ao norte
+do Rio Embé. Rio de Janeiro, 5 de outubro de 1740.
+Manoel Borges de Sá foi atualizado para Manuel Borges de Sá.
+Rio Embé foi atualizado para Rio Imbé.
+Referência:
+AHU_ACL_CU_017-01, Cx. 49, D. 11481
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0033
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Thome do Rego Monteiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-05-1787",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Também consta que a terra ficava \"no sertão das Pimenteiras, terra do gentio bravo se acham algumas devolutas\", portanto, era povoada por indígenas. ",
+  "Localidade": "sertão das pimenteiras ",
+  "Ribeira": "lagoa da Volta",
+  "Justificativas": "Pretendia plantar; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Também consta que \"[não] tem terras próprias para as situar, nos pedia lhe concedêssemos na forma das ordens de Sua Majestade, uma data de terra na dita paragem\". ",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. ",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a qualquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. Além disso, consta que \"havendo nas mesmas terras estrada pública que atravesse rio caudaloso que necessite de barco para se atravessar, não se ficará de ambas as bandas do tal rio a terra que baste para o uso público, mas sim, também, de uma delas meia légua de terra em quadra para a comodidade pública e de quem arrendar a dita passagem\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0033"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0033
+Carta de concessão de Thome do Rego Monteiro 09/05/1787
+Registro de uma carta de data e sesmaria passada ao tenente Thome do Rego Monteiro
+Doutor José Pereira da Silva Manuel, do desembargo de Sua Majestade fidelíssima, que Deus
+guarde, ouvidor geral Manoel Pinheiro Ozório, sargento-mor do regimento de cavalaria,
+auxiliar [Alonso] da Costa Veloso, vereador mais velho, governo interino desta capitania
+de São José do Piauí, pela mesma senhora etc. Fazemos saber aos que esta nossa carta de data
+e sesmaria virem que o tenente Thomé do Rego Monteiro, desta cidade, nos representou que
+no sertão das Pimenteiras, terra do gentio bravo se acham algumas devolutas, nas quais se
+acha uma lagoa denominada da Volta, com suficiente capacidade de se fazer uma situação
+para se criar gados vacuns e cavalares e ainda fazer algumas plantações e agriculturas, porque
+o suplicante tem seus gados vacuns e cavalares; procedidos ao triênio de dízimo que rematou
+desta mesma cidade, ano próximo, passado de 1786, [não] tem terras próprias para as situar,
+nos pedia lhe concedêssemos na forma das ordens de Sua Majestade, uma data de terra na
+dita paragem, fazendo pião na mesma lagoa, com três léguas de comprido correndo de norte
+a sul com légua e meia para cada banda e uma légua de largura da nascente ao poente com
+meia légua para cada banda; incluindo na dita data e sesmaria [como se mandar cobrar] na
+conformidade das mesmas reais ordens. Ao que atendendo também a informação da câmara
+e provedor da Fazenda Real que foi ouvido e não se lhe ofereceu dúvida alguma, e terem
+utilidade da mesma Real Fazenda, cultivarem-se as terras neste Estado; hei bem por
+conceder-lhe em nome de Sua Majestade por data e sesmaria três léguas de terra de comprido
+e uma de largo na forma e parte que pede com as condições expressadas nas Reais Ordens, e
+com as de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma, religião
+ou comunidade, sem que primeiro dê parte na Casa da Fazenda ao provedor dela para se nos
+fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de ficar nula esta
+data, e se poder novamente conceder a outros. E nesta forma se lhe passa carta, para que o
+dito tenente Thomé do Rego Monteiro, haja logre e possua as sobreditas terras como coisa
+sua própria para ele e seus herdeiros, ascendentes e descendentes, sem pensão nem tributo
+algum mais que o dízimo a Deus nosso senhor, dos frutos que nelas tiver e lavrar, a qual
+concessão lhe fazemos não prejudicando a terceiros nem a Sua Majestade, se no dito sítio
+quiser mandar fundar alguma vila, reservando os paus reais que neles houver para
+embarcações. Com declaração que mandará confirmar esta data por Sua Majestade dentro de
+três anos primeiros seguintes, e cultivará as ditas terras de maneira que deem frutos, e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes, portos e
+pedreiras; e havendo nas mesmas terras estrada pública que atravesse rio caudaloso que
+necessite de barco para se atravessar, não se ficará de ambas as bandas do tal rio a terra que
+baste para o uso público, mas sim, também, de uma delas meia légua de terra em quadra para
+a comodidade pública e de quem arrendar a dita passagem; e se demarcará a tempo da posse
+por rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E outrossim, não
+poderá suceder nelas religiões nem outras pessoas eclesiásticas e faltando a quaisquer destas
+cláusulas se haverão as ditas terras por devolutas e se darão a quem as denunciar, como o
+
+mesmo senhor ordena. Pelo que mandamos ao provedor da Fazenda Real, mais ministros e
+pessoas a que tocar que na forma requerida e com as condições expressadas, deixem ter e
+possuir as sobreditas terras ao dito tenente Thomé do Rego Monteiro, como coisa sua própria
+para si e seus herdeiros, ascendentes e descendentes, e que assim também cumpram e
+guardem esta nossa carta de data e sesmaria tão inteiramente como nela se contém; a qual lhe
+mandamos passar e vai assinada por nós, selada com o sinete das armas reais, que se
+registram nas partes onde tocar; e se passou por duas vias. Dada nesta cidade de Oeiras do
+Piauí, aos 9 dias do mês de maio do ano do nascimento de nosso senhor Jesus Cristo de 1787.
+E eu, Thomas de Aquino Ozório, secretário do governo desta capitania o fiz // lugar do selo //
+José Pereira da Silva Manoel // Manoel Pinheiro Ozório // [Alonso] da Costa Veloso // Carta
+de data e sesmaria, porque Vossa Senhoria hão por bem conceder em nome de Sua Majestade
+ao tenente Thomé do Rego Monteiro três léguas de terra de comprido e uma de largo no
+sertão das Pimenteiras, dos limites desta capitania, na forma que na mesma se declara. Para
+Vossa Senhoria ver.
+– Fim da carta –
+Referência:
+APEPI, Livro 1, fls. 79 - 80v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

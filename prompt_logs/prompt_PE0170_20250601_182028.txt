@@ -1,0 +1,160 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0170
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0281",
+  "Nome": "João Henrique Siegert",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Observações da sesmaria": "O suplicante requereu a concessão de um pedaço de terras na margem direita do rio Una, na freguesia de Garanhuns. ",
+  "Localidade": "Freguesia de Garanhuns",
+  "Marcos Geográficos": "Rio Una",
+  "Observações da petição": "O sesmeiro alegou ter comprado terras e uma fazenda no rio Una, na freguesia de Garanhuns, em 21 de setembro de 1821 ao chefe de divisão da armada real nacional, Alexandre de Souza Malheiro de Meneses. Após a compra, o sesmeiro requereu a concessão das terras que possuía em forma de sesmaria. ",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão.",
+  "Observações das exigências": "Devido ao documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0170"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0170
+Carta de doação e sesmaria de João Henrique Sierget - ?
+João Henrique Siegert com uma légua de terra quadrada no lugar da ribeira de
+Huna, comarca de Garanhuns.
+Francisco de Lima e Silva, fidalgo da casa de Sua Majestade, ilustre guarda roupa do
+mesmo Augusto senhor, Gram cruz da Ordem Imperial do Cruzeiro, comendador na de
+São Bento de Avis, general e chefe do exército, cooperador da boa ordem da província
+de Pernambuco e nela interinamente encarregado do Governo civil militar etc. Faço
+saber aos que esta carta de data de sesmaria virem, que João Henrique Sierget dirigiu à
+junta provisória do governo desta o requerimento do teor seguinte = Ilustríssimos e
+excelentíssimos senhores. Diz João Henrique Siegert, natural de Genebra em Suíça,
+estabelecido nesta província de Pernambuco depois de 3 anos, que aos 20 de setembro
+de 1821 ela comprou do chefe de divisão da armada real nacional Alexandre de Souza
+Malheiro de Menezes como consta do papel de venda a que junto por pública forma
+uma porção de escravos, e as casas, lavouras, e benfeitorias de uma porção, digo,
+fazenda, que ele tinha na margem direita do rio Huna, fragueia de Garanhuns, e que em
+consideração desta venda, o mesmo lhe fez cessão e traspasso da propriedade da terra,
+que ele possuía, por lhe ter sido dada por sesmaria, a qual terra já tinha sido dada por
+sesmaria, a qual terra já tinha sido medida e demarcada, porém como o [acionário] ainda
+não tinha em seu poder os atos da medição e marcação, o cedente ficou encarregada de
+as procurar, como assim a confirmação do nosso augusto soberano, como tudo consta do
+papel de cessão a traspasso junto por publica forma, E como não pode fazer sem a
+concessão da data na forma das reais disposições; por essa razão,, Pede a Vossa
+Excelência se dignem de mandar passar a respectiva carta na forma do estilo, a fim de
+com ela impetrar do competente tribunal, a necessária confirmação,, E receberá mercê =
+E tendo apresentado com este requerimento todos os papeis relativos a dita sesmaria,
+ante as quais primário requerimento feito pelo dito Alexandre de Souza Malheiro do
+ex-governador desta província, Luís do Rego Barreto, o qual é do teor seguinte =
+Ilustríssimo senhor general.,Diz Alexandre de Souza Malheiro de Menezes, morador
+nesta praça, que no lugar da ribeira de Huna, comarca de Garanhuns, se acha uma
+porção de terras devolutas, e desaproveitadas, das quais pretende o suplicante tirar por
+sesmaria duas léguas em quadra, partindo da Barra da Prata com terras de Jose
+Alexandre, e segundo da parte do Sul pelo rio de Huna acima até onde se preencher a
+
+dita sesmaria do fundo e frente; e por que o suplicante a quer situar, beneficiar, e
+cultivar em beneficio da Coroa e do estado, por se achar munido das forças necessárias
+para esse fim, por tanto, pede a Vossa Excelência de lhe conceder em nome de Sua
+Majestade a dita sesmaria pelo foro costumado, e em tudo o mais na forma do estilo. E
+receberá mercê = Sobre o qual deferiu o mesmo ex-governador em 12 de maio de 1819,
+mandando informar o desembargador juiz conservador das matas nacionais, que por
+ofício de 9 de agosto do mesmo ano informou, declarando não haver naquela lugar
+madeiras de construção, nem pau brasil, acompanhando esta informação com o auto de
+vistoria e exame, e depois por despacho de 27 de outubro do mesmo ano, determinou
+que a câmara respectiva mandasse afixar editais por 30 dias na forma da lei, e
+informasse depois me havia terceiro prejudicado, e informando esta com a certidão dos
+editais não ter aparecido impedimento algum, por despachos de 17 e 20 de julho de
+1820 mandou ouvir o procurador da coroa, e o escrivão deputado da junta da fazenda,
+que tão bem lhe não puseram embaraço, e em passar portaria por fazer a medição, e
+demarcação a qual é do teor seguinte = O juiz das sesmarias da vila de Garanhuns, ou
+juiz ordinário da mesma vila junto com um piloto idóneo, e mais pessoas necessárias
+passará as testadas de [Evaristo] da Boaventura na margem direita do rio de Huna, com
+o fim de medir uma sesmaria de uma légua quadra por parte de Alexandre de Souza
+Malheiro, e depois de ter feito estar na forma da lei a todos os hereos confrontantes para
+verem medir a dita sesmaria, e dizerem o que for a bem de sua justiça, concedidas ao
+sobredito Evaristo da Boa ventura Moura e cingindo-se por um lado aos rumos do
+mesmo Moura, e aos mais, que encontrar do lado do sul, qualquer que seja a direção,
+que tenham, seguirá pelo outro a margem do rio Huna, rio a cima, até que possa fechar
+com um último rumo um terreno igual, ou equivalente a uma légua de terra quadrada,
+ou a 9 milhões de quadrados de uma braça, e tendo desta forma completado a medida da
+sobredita sesmaria notará quem são deixará marcos postos em todos os ângulos, e mais
+lugares notáveis, e os mais que as partes julgares convenientes para mais perfeito
+conhecimento dos rumos. Isto concluído, o dito juiz me remeterá com esta o auto
+original passado por sentença, deixando no arquivo da câmara o traslado dele, e no dito
+auto fará menção de todos os acidentes do terreno, como planícies, pântanos, [lagoas],
+regatos, caminhos, estradas, pedra notáveis decliveis, elevações de terreno, montes, e
+serras, e tudo quanto possas servir de guia, ou prova na verificação dos mesmos rumos,
+para o que determinará ao piloto que declara sempre o numero de braças, com que
+chegar a cada um de tais acidentes, e as direções donde, e para onde eles correm. O juiz
+
+desta medição, durante ela, não aceitará oposição, nem embargo com sua pensão, que
+não seja fundada em um carta de sesmaria confirmada por Sua Majestade e não sendo,
+pelo menos não tenha proscrito o prazo dado para a confirmação, e com a mesma
+condição aceitará embargo com suspenção, apresentando-se lhe uma semelhante
+portaria para medição de outra sesmaria; quanto porém a todas as outras oposições, ou
+embargos, dará vista as partes, e seguirá os mais termos da lei em auto se parado,
+continuando sempre e medição, e demarcação ate a concluir de todo. Esta minha
+portaria não terá vigor por mais de um ano, findo o qual ficará de nenhum efeito, como
+se nunca fora passada, e não se dará segunda. Recife 26 de julho de 1820 com a rubrica
+do ex governador =
+A vista desta portaria requereu o dito [malheiro] ao juiz das
+sesmarias daquela termo procedesse a medição e demarcação, o qual, com o escrivão
+Jose Mauricio da Costa, o piloto Jose Rodrigues Porto, o ajudante da corda Manoel
+Felipe do Rego, e o suplicante, como procurador do referido Malheiro, passarão ao dito
+lugar os hereos confrontantes, efeitos os preliminares, que a lei marca, e junto ao marco
+de Evaristo da Boa ventura Moura, junto a casa deste, e sua margem da estrada real,
+plantarão o primeiro marco desta sesmaria, donde seguirão o rumo de oeste até 120
+braças, e deste ponto por causa da volta do rio seguirão o rumo Norte até onde faz volta
+para oeste, que seguirão a te confrontar com a pedra dos Mocós, onde se completarão
+905 braças, donde reverterão ao rumo do Norte, que seguirão até completar 380 braças,
+voltando depois no rumo de oeste até perfazer.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 245-249.
+Observação:
+No documento o sobrenome do requerente aparece tanto como João Henrique Siegert,
+quanto João Henrique Sergert, sendo padronizado para João Henrique Siegert
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

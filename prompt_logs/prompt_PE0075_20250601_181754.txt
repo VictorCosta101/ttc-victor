@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0075
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0131",
+  "Nome": "João Gonçalves Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "03-11-1746",
+  "Data da concessão": "24-11-1746",
+  "Observações da sesmaria": "O suplicante requereu duas braças e meia de comprimento e duas braças e meia de largura na vila do Recife, na praia do Trapiche em frente a casa de João Domingos.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Praia do Trapiche",
+  "Confrontantes": "João Domingos",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Marcos de Noronha determinou o pagamento anual do foro régio no valor de 1250 réis. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "José Ferreira da Silva",
+  "referencia": "PE0075"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0075
+Carta de doação e sesmaria de João Gonçalves Lima - 24/11/1746
+Carta de doação de sesmaria de 24 palmos de terra que se deu a João Gonçalves
+Lima.
+Dom Marcos de Noronha, do Conselho de Sua Majestade, governador e capitão general
+de Pernambuco e mais capitanias anexas e etc. = Faço saber aos que esta carta de
+doação e sesmaria virem, que por parte de João Gonçalves Lima se me representou a
+petição do teor seguinte: Ilustríssimo e Excelentíssimo Senhor — Diz João Gonçalves
+Lima que na praia da banda do mar, para a parte dos trapiches defronte das casas de
+João Domingues, estão uns chãos dos quais pretende o suplicante aforar 24 palmos de
+fronteira com o fundo que lhe for necessário até a baixa mar da maré vazia, para neles
+fazer casas pagando a Sua Majestade o foro que se julgar lícito, com a tendência acima
+declarada, digo, tendência ao aterro que é necessário. Pede a Vossa Excelência lhe faça
+mercê mandar dar os ditos chãos por sesmaria, na forma acima declarada — E receberá
+mercê — Informe o provedor — Recife, 3 de novembro de 1746 = Rubrica = Informe o
+escrivão da Fazenda e com o que disser responda o doutor procurador da Fazenda —
+Recife, 4 de novembro 1746 — Barros — Senhor provedor da Fazenda Real — É estilo
+dar-se nesta praça os palmos de terra que se pedem de sesmaria, com o foro de 50 réis
+por palmo cada ano para Sua Majestade, e para estes se poderem dar, deve preceder
+informação do tenente-general de artilharia com exercido de engenheiro — Diogo da
+Silveira Veloso, da qual conste prejudicar ou não a tal data a fortificação desta Vila ou o
+bem público dela. É o que se me oferece informar a Vossa Mercê = Recife, 5 de
+novembro de 1746 = José Ferreira da Silva - Não se me oferece dúvida que se dê de
+sesmaria ao suplicante os chãos que declara, na forma das ordens de Sua Majestade e
+Ordenação do Reino = Recife, 5 de novembro de 1746 = Antônio Ferreira Castro =
+Ilustríssimo e Excelentíssimo Senhor = Informando o tenente-general Diogo da Silveira
+Veloso, não embaraça esta data a fortificação desta praça e prejudica o bem comum e
+público dela, se devem permitir os palmos de terra que pede o suplicante, com o foro de
+cinquenta réis por cada um ano para Sua Majestade, conforme as suas reais ordens,
+sendo Vossa Excelência assim servido — Trapiche, 14 de novembro de 1746 —
+Francisco do Rego Barros = Informe o capitão Antônio José de Lemos — Recife, 15 de
+novembro de 1746 — Rubrica = Ilustríssimo e Excelentíssimo Senhor — Os chãos que
+o suplicante pretende aforar para fazer umas casas com 24 palmos de frente poderão
+
+servir de embaraço, se se puser em execução a fortificação desta vila do Recife, por lhe
+ficarem muito próximas, assim que para se fazerem deve o suplicante primeiro fazer
+termo de as demolir a sua custa, sem nada prejudicar a Real Fazenda, quando seja
+necessário, e o seu quintal não deve exceder aos das outras que lhe ficam com
+antecedentes pela parte do sul — É o que posso informar a Vossa Excelência, que
+mandará o que for servido — Recife, 18 de novembro de 1746 = Antônio José de
+Lemos —. Satisfaça o que aponta o capitão Antônio José de Lemos — . Recife, 19 de
+novembro de 1746 = Rubrica = Faça-se o termo. Recife, 21 de novembro de 1746 =
+Silva = Fica feito o termo nesta provedoria da Fazenda Real, que assinou o suplicante
+na qual se obriga a demolir a sua custa as casas que o quer fazer, nos chãos que pretende
+aforar todas, todas as vezes que embaraçarem a fortificação a defesa desta ou ao bem
+público dela, sem que a Fazenda de Sua Majestade lhe fique obrigada a perda e dano
+que receber, e a não exceder o quintal das ditas casas aos mais —. Recife, 21 de
+novembro de 1746 = José Ferreira da Silva — E estando assim satisfeito pela faculdade
+que Sua Majestade me concede no Capítulo 15 do Regimento deste Governo — Hei por
+bem de lhe dar a sesmaria em nome do dito senhor os ditos 24 palmos de fronteira dos
+chãos pedidos, na parte e lugar confrontado, com as clausulas do termo que assinou e as
+mais apontadas pelo escrivão da Fazenda, e passando as religiões será com os mesmos
+encargos que se fossem possuídas por seculares, e pagará o foro de 50 réis por cada
+palmo que começará a correr da data desta, fazendo-se carga para lembrança ao
+almoxarife da Fazenda Real para a sua arrecadação, cujos chãos e seus logradouros
+possuirá e logrará o suplicante e seus sucessores, não prejudicando a terceiro — Pelo
+que ordeno aos ministros da Justiça e Fazenda, lhe deem e façam dar posse na forma do
+estilo, de que se fará assento nas costas desta e por firmeza de tudo lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se registrará nos
+livros da Secretaria deste Governo e nas mais partes a que tocar. Dada na Praça do
+Recife de Pernambuco, aos 24 de novembro — Manoel Coelho de Souza a fez — Ano
+de 1746 — O secretário José Antunes a fez escrever = Dom Marcos de Noronha.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 52 - 54.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

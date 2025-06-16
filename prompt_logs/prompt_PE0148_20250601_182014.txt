@@ -1,0 +1,195 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0148
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0262",
+  "Nome": "Antônio Barbosa da Silva ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "20-05-1822",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila do Limoeiro, entre os rios Ipojuca e Capibaribe. A terra possuía por limite da barra do riacho Mulungu até o riacho Tupeba.",
+  "Localidade": "Vila do Limoeiro",
+  "Marcos Geográficos": "Rio Ipojuca, Rio Capibaribe, Riacho Mulungu e Riacho Tupeba",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter comprado a terra a Manuel dos Santos, que havia sido concedida em 20 de abril de 1801. Como o antigo sesmeiro não aproveitou a terra, o suplicante ficou com receio da concessão ser inválida. Por estas razões, o suplicante solicitou a terra para si. ",
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelos membros da Junta Provisória de Governo da Província de Pernambuco: o presidente Gervásio Pires Ferreira, Bento José da Costa, Joaquim José de Miranda, Antônio José Vitoriano Borges da Fonseca, Manuel Inácio de Carvalho, Felipe Neri Ferreira e o secretário Laurentino Antônio Moreira de Carvalho.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de quatro mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0148"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0148
+Carta de doação e sesmaria de Antonio Barbosa -  23/04/1822
+Antonio Barbosa da Silva com uma de terra no lugar do Chambá entre a serra
+verde e o rio Capibaribe.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de sesmaria virem, que o capitão-mor
+Antonio Barbosa da Silva nos dirigiu um requerimentodo teor seguinte = Ilustríssimos e
+excelentíssimos senhores = Diz o capitão-mor Antonio Barboza da Silva, que
+pertencendo-lhe por título de compra uma sorte de terras com a extenção de uma légua
+em quadro no termo da vila do Limoeiro, entre os rios Ipojuca e Capibaribe,
+principiando da barra do riacho Mulungú para o riacho Tubeba, a qual sorte de terras
+fora concedida de sesmaria e Manuel dos Santos de Oliveira em 20 de abril do ano de
+1801, como não tivesse sido demarcada e confirmada essa sesmaria dentro do
+quinquênio, apesar de terem sido provadas, e cultivadas as terras, dezejando o
+suplicante remover dúvidas, requereu ao antecedente governo desta província, nova
+carta da mesma sesmaria, ou ratificação dela; e depois de precedidas as diligências da
+lei, se expediu ordem pelo mesmo governo para se proceder a demarcação das terras
+requerer o suplicante a Vossas Excelências se dignem deferir-lhe como requere = E
+receberá mercê = E sendo por nós visto o seu requerimento, e o processo, [apenso] ao
+qual estava por certidão a carta de sesmaria das ditas terras concedida a Manoel dos
+Santos de Oliveira, como fica dito, a escritura de venda, que este, e sua mulher, Antonio
+Maria da Conceição, fizeram a Dom Antonio Pio de Lucena em 6 de junho de 1806, a
+da que este fez a João Francisco de Almeida em 15 do mesmo mês e ano e da que este e
+sua mulher Severina Maria do Espirito Santo fizerão ao suplicante em 12 de dezembro
+de 1808 a oposição feita pelo padre Francisco Alvares Bezerra de Menezes com o
+despacho do ex governador desta província de 17 de agosto de 1820, mandando
+responder o desembargador ouvidor geral da comarca da cidade de Olinda, a resposta
+deste, ao do suplicante em virtude de outro despacho de 21 do mesmo mês e ano sobre
+que o referido ex-governador deu o despacho seguinte o doutor desembargador ouvidor
+geral da comarca de Olinda proceda pessoalmente as medições, e demarcações em
+questão, regulando-se pelas portarias, que tenho dado para este fim, dirigida aos juízes
+das sesmarias, e quando tenha motivos para as não poder fazer, por si determine aos
+juízes competentes as façam logo, e não as fazendo, proceda contra eles na forma das
+
+leis = Recife 5 de setembro de 1820/; a escritura de composição de trato feito entre o
+referido Manoel dos Santos de Oliveira e Francisco Ferreira de Brito, antecedente
+possuidor das terras, de que esta de posse o dito padre; a qual destroí a mencionada
+oposição, pois que dela se vê que quando o referido padre as comprou já foi livres de
+dúvidas, e títulos, por que o mesmo padre as possui, uma portaria do referido ex
+governador do teor seguinte = o juiz das sesmarias, ou o juiz ordinário da vila do
+Limoeiro, junto com um piloto idôneo, e mais pessoas necessárias passaram ao lugar
+compreendido entre a serra Verde, e o rio Capibaribe, e reconhecendo a barra do riacho
+Mulungú, neste ponto como origem da medição, e por parte do capitão mor Antonio
+Barboza da Silva fincará o primeiro marco, tirando um rumo de este para Oeste, seguirá
+este rumo, até a grandeza de uma légua, e correndo os rumos do Sul, do Oeste, e de
+Norte, ficará a légua no primeiro ponto, deixando os fundos para a parte da Serra Verde,
+e compreendendo a lagoa Xambá na medição, deixando marcos postos em todas as
+divisões, e mudanças de rumos. Concluída por esta forma a medição e demarcação, o
+mesmo juiz me remeterá com está o auto original passado por sentença e deixará ao
+arquivo da câmara o traslado e no dito auto fará menção da extensão total de cada um
+dos rumos e de todos os acidentes do terreno, como pântanos, lagoas, regados, rios,
+caminhos, estradas, planícies, elevações de terreno, montes, serras, pedras notáveis, e
+tudo que possa servir de guia, e prova na verificação dos mesmos rumos, para o que um
+de tais acidentes, e as direções dando, e para onde eles correm. O juiz desta medição,
+durante ela, não aceitará a oposição, nem embargo com suspensão, que não seja fundado
+em uma carta de sesmaria confirmada por Sua Magestade, ou que pelo menos não tenha
+excedido o prazo para a confirmação; e de todas as outras oposições ou embargos dará
+vista as partes em auto separado, continuando sempre a medição até passar por
+sentença. Esta minha portaria não terá vigor por mais de um ano, findo o qual, ficará de
+nenhum efeito, como se nunca fora passada. Recife 7 de junho de 1820 = com a rúbrica
+do dito ex governador = e finalmente o auto da medição, e demarcação, principiada a
+fazer pelo mencionado ouvidor, e que em razão de moléstia deste, foi depois feita pelo
+juiz ordinário da vila do Limoeiro Antonio Glascoch, e o ajudante da corda Ignacio
+Gomes da Silva do qual consta terem os ditos plantado de parte do Norte da barra do
+riacho Mulungú, um marco com as solenidades da lei para servir de peão, e princípio da
+medição; do qual seguirão o rumo do Oeste, e a 1500 braças cravaram o segundo marco
+na margem do riacho, continuando o rumo até chegar a 3 mil braças, onde fincaram o 3º
+e logo uma baliza tomando deste lugar o rumo do Sul, e completadas sobre uma
+
+elevação 1507 braças, [arvararão o quarto], e continuarão a direção até 3 mil braças, que
+completaram entre uma pequena elevação, onde assentarão o quinto, e logo outra baliza,
+seguindo deste ponto o rumo de Leste, sobre o qual a 1500 braças [erigirão] o sexto
+seguindo o mesmo rumo até 2.000 braças, onde puseram o sétimo e próximos a ele uma
+baliza, tomando desta paragem o rumo de Leste do qual completadas mil braças,
+levantarão o oitavo marco. Tornando depois ao peão ou principio da demarcação, tirarão
+dele o rumo do Sul e a mil braças encontrarão o marco oitavo em o rumo do Sul, e a mil
+braças encontrarão o marco oitavo em o rumo de Leste. E volvendo ao lugar, onde se
+havia assentado o quinto marco no rumo Sul, firmada a ele uma baliza, tomarão a
+direção de Oeste, e a mil braças pela dita direção disignarão o ângulo com o novo marco
+e próxima uma baliza, tomando o rumo do Norte até completar 810 braças. Logo,
+dirigindo-se ao lugar, em que partindo do terceiro marco pelo rumo do Sul, e se
+prefizerão mil braças, levantando ali o décimo marco, medirão dele mil braças para
+Oeste, onde erguerão o um décimo e tomarão a direção do Sul no qual a 500 braças
+puserão o duo décimo, e seguirão a mesma direção até que a 1900 braças encontrarão a
+picada, em que em rumo do Norte haviam ficado com 810 braças, e aqui deram por
+completa a medição e demarcação. O que tendo sido tudo por nós visto e examinado, e
+parecendo-nos conforme, visto que a antecedente carta dá por satisfeitas todas as outras
+diligências, por despacho de 23 de abril do presente pela faculdade, que nos é concedida
+no capitulo 15 do regimento deste governo. Havemos por bem conceder em nome de
+Sua Magestade, El Rei constitucional, o senhor Dom João 6º, ao dito capitão mor
+Antonio Barboza da Silva a referida légua de terra, pagando o foro anual de 4 mil réis
+em observância da Real Ordem de 28 de setembro de 1800, de que deu fiança na
+contadoria da junta da Fazenda publica a folha 51 do livro 7º delas a qual sesmaria
+possuirá, e gozará ele, suplicante, e seus herdeiros, ascendentes e descendentes, como
+sua que fica sendo de hoje para todo o sempre, com todas as matas, campos, águas, rios,
+testadas, lougradouros, e mais úteis, que nela se compreenderem, não prejudicando a
+terceiro, e não passará a religião, ou pessoas eclesiásticas, salvo sendo com os mesmos
+encargos, com que as possuem os seculares, e nunca se dividirá em porções, nem se
+partirá, senão por estimação, andando encabeçada em uma só pessoa na forma da
+ordenação do livro 4º titulo 96 §23; e assim não passará a herdeiros, ou outra qualquer
+pessoa, sem consentimento da junta da Fazenda pública, para nela se darem novas
+fianças, e se fazerem as devidas escriturações, ficando livres para a serventia dos povos
+todas as estradas, rios, fontes, e pedreiras e reservadas ao patrimônio público as
+
+madeiras de constrção, pau brasil, e vieiros de quaisquer metais; e como se acha
+medido, e demarcado, será obrigado a requerer confirmação com os mesmos autos e
+planta, e a povoá-la, e cultivá-la dentro de 3 anos na forma da Real Ordem de 20 de
+outubro de 1753, e alvará de 25 de janeiro de 1809, e não o cumprindo assim, se haverá
+por devoluta, e novamente se concederá a quem a requerer. Pelo que ordenamos aos
+ministros da fazenda, e justiça, e mais pessoas a quem tocar, cumpram e façam cumprir
+e guardar esta carta de data de sesmaria, como nela se contém, fazendo dar ao suplicante
+posse real, efectiva, e atual na forma da odenação, título das sesmarias. Em firmeza do
+referido lhe mandamos passar a presente por nós assinada e selada com o sinete das
+armas reais, a qual se registrará na secretaria deste governo, na junta da fazenda pública,
+e aonde mais tocar. Manoel dos Passos de Figueiroa oficial maior da secretaria a fez em
+o Recife de Pernambuco aos 20 de maio de 1822 = Eu, Laurentino Antonio Moreira de
+Carvalho, secretário subscrevi = Estava o sinete das armas reais = Gervazio Peres
+Ferreira Prezidente = Bento Jozé da Costa = Joaquim José de Miranda = Manoel
+Ignacio da Carvalho = Felipe Neri Ferreira = Antonio Joze Victoriano Borges da
+Fonceca = Laurentino Antonio Moreira de Carvalho secretario = carta de data de
+sesmaria pela qual Vossas Excelências hão por bem conceder ao capitão mor da vila do
+Limoeiro em nome de Sua Magestade constitucional uma légua de terra no lugar do
+Chambá entre a Serra Verde e o rio Capibaribe como nela se declara = Para Vossas
+Excelências verem = Por despacho do governo de 23 de abril de 1822/.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 203-206.
+Observação:
+No documento original o nome do suplicante consta como Antonio Barboza da Silva, o
+que foi modificado para Antonio Barbosa da Silva, seguindo o padrão SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

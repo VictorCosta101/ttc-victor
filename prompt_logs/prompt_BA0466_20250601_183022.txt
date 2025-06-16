@@ -1,0 +1,75 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0466
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio da Silva Moreira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "19-01-1746",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada em Muritiba, termo da Cachoeira, na serra do Orobó, correndo para Leste no rio Paulista, fazendo fronteira com as terras de Gregório Afonso Moreira (BA0465). Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.\r\n",
+  "Localidade": "Muritiba",
+  "Marcos Geográficos": "Serra do Orobó; rio Paulista",
+  "Confrontantes": "Gregório Afonso Moreira",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1746, acredita-se que foi o vice-rei, André de Melo e Castro, que concedeu a sesmaria.\r\n",
+  "Observações das exigências": "As do Foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "referencia": "BA0466"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Antônio da Silva Moreira. - Alvará de 19 de janeiro de 1746. - 3 léguas de comprido e 
+uma de largo. - No mesmo lugar acima, etc. Começando a demarcar-se do fim da data 
+do tenente-coronel Gregório Afonso Moreira, etc. - Condições: as do foral e outras. - 
+Observações: tem à margem o termo de posse.  
+ 
+Referência:Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 
+168 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

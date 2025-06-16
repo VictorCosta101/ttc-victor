@@ -1,0 +1,113 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0289
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Sabanda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "04-12-1569",
+  "Observações da sesmaria": "O suplicante requereu 400 braças de terra no rio Capibaribe. A sesmaria possuía por limites a oeste as terras de Melchior Fernandes Jaguarari e ao sul as terras de Gonçalo Mendes Leitão. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Confrontantes": "Melchior Fernandes Jaguarari, Gonçalo Mendes Leitão",
+  "Observações da petição": "O suplicante requereu quatrocentas braças de terra. No entanto, o donarário da capitania concedeu 300 braças quadrada. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ser morador há 30 anos da terra requerida e que necessitava da concessão para poder sustentar as duas filhas. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0289"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0289 
+ 
+Concessão de João de Sabanda de 04/12/1569 
+ 
+Duarte Coelho de Albuquerque, capitão e governador desta capitania, e governança da 
+Nova Luzitânia por El Rei nosso Senhor, faça saber a quantos esta carta de sesmarias 
+for mostrada, e o conhecimento dela com direito pertence, como a mim enviou a dizer 
+por sua petição João de Sabanda morador nesta vila de Olinda, em como ele 
+suplicante havia trinta anos que residia  com sua casa, e família em esta vila tem duas 
+filhas para casar, me pedia lhe fizesse mercê para ajuda dos casamentos das ditas suas 
+filhas, e para ele suplicante de 400 braças de terra, onde são dadas a Gonçalo Mendes 
+Leitão, pregado com o Rio Capibaribe, da banda oeste com terra de Melchior 
+Fernandes Maguari e da banda sul com Gonçalo Mendes Leitão, no que lhe faria 
+merce, e sendo dada no dito lugar pelo Rio acima pregado na derradeira dada, na qual 
+pus por meu despacho, passem carta ao suplicante de 300 braças em quadra na parte 
+que se pede a 04 de novembro de 1569, pelo qual hei por bem, e me prâz de dar, e 
+doar ao dito João de Sabanda no dito lugar, não sendo dada, e sendo dada do longo do 
+dito rio pregado com a derradeira dada até o presente para ele, e sua mulher, filhos, e 
+netos, e herdeiros ascendentes, e descendentes, e para todas as pessoas, que após eles 
+vierem 300 braças de terra em quadra de sesmaria, que serão craveiras, de 10 palmos 
+de vara, para que logrem a dita terra, é dela, e em ela façam o que o que lhe bem vier 
+como de coisa sua própria que já é, da qual terra do dito João de Sabanda, e todos os 
+seus sucessores delas poderão lograr, e se aproveitar como de coisa própria, e eles, e 
+as apessoas que suceder ou vier por eles, ou delas houverem, sem por ela em tempo 
+algum pagarem foro, nem direito algum, somente dizimo a Deus, e mando que lhe 
+seja demarcada, e no ato da demarcação se fará declaração como parte, com quem 
+para melhor declaração, e lhe mandei passar esta carta, e mando que se cumpra como 
+nela contém, dada nesta vila de Olinda sob meu sinal e selo, qua ante mim serve a 04 
+de dezembro, João Rodrigues escrivão fez ano de 1569 anos. Pagou desta com notas, 
+e ida cem réis. Duarte Coelho de Albuquerque. Ao selo 10 réis. Francisco do Amaral. 
+A qual carta eu, Heitor Carvalho escrivão da Fazenda del Rei nosso Senhor nesta 
+capitania que registrei a 11 de março de  1570. Heitor Carvalho. O qual traslado de 
+doação eu Manoel Mendes de Vasconcelos escrivão da  Fazenda de sua Majestade 
+desta capitania de Pernambuco aqui fiz trasladar do Livro de datas de sesmarias, 
+
+rubricado pelo Provedor Francisco Caldas a folhas 177 verso a que me remeto, o qual 
+Livro por ser antigo não tem princípio, nem fim, não façam dúvida os dois borrões, 
+nem o risco onde fiz dos casamentos em Olinda 15 de fevereiro de 1626. Manoel 
+Meneses. Concedido por mim, tabelião, Filipe Nery Correa. Em fé de verdade. Filipe 
+Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 81-82. 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

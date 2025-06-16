@@ -1,0 +1,84 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0093
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Pereira (PE 2), Bernardo Pereira Gago, Catarina Fogaça, Francisco Dias de Ávila (BA1), Garcia de Ávila (BA 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-01-1659",
+  "Observações da sesmaria": "Os suplicantes requereram 10 léguas de terra para cada um no rio São Francisco, da fronteira das terras do padre Antônio Pereira pelo rio acima incluindo todos os pastos e ilhas até entestar com a capitania da Bahia.",
+  "Localidade": "Rio São Francisco",
+  "Confrontantes": "Antônio Pereira",
+  "Observações da petição": "Os suplicantes não informaram as medidas requeridas, mas somente o total da área pretendida. ",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O documento é um trecho resumido do Códice 155 do Arquivo Nacional do Rio de Janeiro. O Códice contém as cópias das sesmarias presentes no arquivo da Tesouraria-geral da Provedoria-mor da Bahia. O códice foi publicado nas Publicações do Arquivo Nacional no ano de 1931. Por causa destas circunstâncias, não foi possível identificar detalhes importantes com relação a concessão, despacho e deferimento. ",
+  "Observações das exigências": "As condições exigidas foram aquelas estabelecidas no foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0093"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0067
+Carta de concessão de Garcia D’avila, Antônio Pereira, Catarina Fogaça, Francisco
+Dias D’avila e Berdardo Pereira de 02/01/1659.
+F.as 238 v. – Capitão Garcia D’avila, padre Antônio Pereira, Catarina Fogaça,
+Francisco Dias D’avila e Berdardo Pereira. – Carta de 2 de janeiro de 1659. – 10
+léguas de terra para cada um. – Nos sertões do rio de São Francisco acima, parte do
+sul, começando no fim da sesmaria dada em 8 de abril de 1654 ao padre Antônio
+Pereira, correndo sempre o rumo direito pela beira do rio de São Francisco acima,
+ressalvando pontas, enseadas e ilhas que o dito rio fizer; e caso se encontre de
+permeio terras de catingas e penedios, se ressalvarão também, de sorte que as 10
+léguas de cada um sejam de pastos e terra onde possam criar gado; e para a parte do
+sul, a largnra que houver até entestar com a jurisdição da capitania da Bahia, pelo
+rumo de leste a oeste, que dividir uma da outra e da nascença do [rio] real para o
+sertão, com outro tanto de comprido acima quanto o que tiver pelo rio de São
+Francisco acima, com todas as terras, matos, pastos e águas que ficarem da parte de
+dentro. – Condições: As do Foral. – Observação: Foi concedida em 8 de outubro de
+1657, e ora confirmada.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 155, fl. 238v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

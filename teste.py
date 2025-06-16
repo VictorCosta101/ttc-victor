@@ -26,8 +26,7 @@ def buscar_references_e_arquivos(silb_db: Session):
     SELECT r.reference, f.file 
     FROM Request r
     JOIN FileRequests fr ON fr.request_id = r.id
-    JOIN File f ON f.id = fr.file_id
-    LIMIT 30;
+    JOIN File f ON f.id = fr.file_id;
     """)
     result = silb_db.execute(query)
     return result.fetchall()

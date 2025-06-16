@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0218
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "21-10-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem O Rio de Macabu",
+  "Ribeira": "Macabu",
+  "Confrontantes": "Terras de Diogo de Lima Siqueira",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara da vila de São Salvador, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse \"obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e se descobrindo nela rio caudaloso que necessite de barca para se atravessar, ficará reservado de uma das margens dele a terra que baste para a serventia pública\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0218"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0218
+Carta de concessão de José de Oliveira de 21 de outubro de 1751
+Matias Coelho de Sousa, coronel de infantaria de um dos regimentos desta praça do Rio de
+Janeiro, cujo cargo está o governo dele e suas capitanias.
+Nesta, faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar
+por sua petição José de Oliveira, morador no distrito da Vila de Seu Salvador dos Campos dos
+Goitacazes da Paraíba do Sul, que na paragem chamado o Rio de Macabu, junto do mesmo
+Rio se achavam terras devolutas, das quais pretendia o suplicante uma légua por (ilegível)
+para as cultivar, que tinha posses para o fazer, que principiara da última data concedida a
+Diogo de Lima Siqueira para cima para a parte de Carapebus, pedindo-me lhe mandasse
+passar por sesmarias as referidas terras na forma do estilo: e sendo visto o seu requerimento,
+em que foi ouvida a Câmara da capitania dos Campos, a quem se não ofereceu dúvida, nem ao
+provedor da Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por bem dar
+de sesmaria, em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho
+de 1711, ao dito José de Oliveira uma légua de terra em quadra na parte acima declarada, com
+as confrontações expressadas, sem prejuízo de terceiro ou do direito que alguma pessoa tenha
+delas, com declaração que as cultivará e mandará confirmar esta minha carta por Sua
+Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo, e antes de tomar
+posse delas, as fará medir e demarcar judicialmente, sendo para este efeito notificados as
+pessoas com quem confrontar, e será obrigado a fazer os caminhos de sua testada com pontes
+e estivas onde necessário for, e se descobrindo nela rio caudaloso que necessite de barca para
+se atravessar, ficará reservado de uma das margens dele a terra que baste para a serventia
+pública, e nesta data não poderá suceder em tempo algum pessoa eclesiástica ou religião, e
+sucedendo será com encargo de pagar dízimos e outro qualquer que Sua Majestade lhe
+impuser de novo, e não o fazendo poderá dar a quem a denunciar, como também sendo o dito
+Senhor servido mandar fundar no distrito dela alguma vila o poderá fazer ficando livre, sem
+encargo algum ou pensão para o sesmeiro, e não compreenderá esta data vieiros ou minas de
+qualquer gênero de metal que nela se descobrir, reservando também os paus Reais, e faltando
+a qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que
+dispõem a Lei e Floral das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou
+oficial de justiça a que o conhecimento desta pertencer, dê posse ao dito José de Oliveira das
+referidas terras na forma acima declarada. E por firmeza de tudo lhe mandei passar a presente
+por mim assinada e selada com o signete de minhas armas que se cumprirá como nela se
+contém. Se registrará nesta secretaria do Governo e mais partes a que tocar. Dada nesta cidade
+
+de São Sebastião do Rio de Janeiro, João de Sousa e Melo a fez em 21 de outubro de 1751. O
+secretário do Governo, Antônio da Rocha Machado, a fez escrever. //Matias Coelho de
+Sousa//
+Carta porque Vossa Senhoria faz mercê dar de sesmaria, em nome de Sua Majestade, a José
+de Oliveira uma légua de terra em quadra na parte e forma nesta declarada. Para Vossa
+Senhoria ver.
+Registrada no Livro 11º que serve de registro de provisões do Governo a folha 186. Rio, 21 de
+outubro de 1751. //Antônio da Rocha Machado//
+Cumpra-se como nela se contém. Vila de São Salvador, 20 de dezembro de 1751.
+//Domingues Carneiro//
+Registrada no Livro dos registros da Câmara a folha 180. Vila de São Salvador, 3 de abril de
+1752. //Miguel Carlos//
+- Fim da Transcrição -
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+José de Oliveira, morador no Districto da Villa de S. Salvador dos Campos dos Goytacazes,
+uma legua de terras em quadra, junto ao Rio de Macabú. Rio de Janeiro, 21 de outubro de
+1751.
+Nome original do sesmeiro: Joseph de Oliveira.
+Carapebû foi atualizada para Carapebus.
+Esta carta de concessão está disponível no AHU anexada às Petições n° 16582 e 16583 e ao
+Despacho do Conselho Ultramarino n° 16585.
+Referência:
+AHU_ACL_CU_017-01, Cx. 71, D. 16584
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,171 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0077
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0077",
+  "Nome": "Sebastião Barbosa de Almeida (AL1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "27-05-1667",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio São Francisco, do morro de Jasiobá e do curral de gado de Lourenço de Brito pelo rio acima. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Morro de Jasiobá",
+  "Confrontantes": "Lourenço de Brito",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que havia comprado a terra da sua irmã Maria Barbosa de Almeida e que por isso requeria a concessão da sesmaria. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "referencia": "PE-AL0077"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0051 
+ 
+Carta de concessão de Sebastião Barbosa de Almeida de 27/05/1667 
+Registo de uma carta de sesmaria e data de terra do capitão Sebastião Barbosa.  
+ 
+Saibam quantos este público instrumento de carta e data de sesmaria virem que no ano do 
+nascimento de Nosso Senhor Jesus Cristo de 1667 anos aos 22 dias do mês de abril do 
+dito ano nesta cidade do Salvador Bahia de Todos os Santos em pousadas de mim escrivão 
+das sesmarias apareceu o capitão Sebastião Barbosa de Almeida e me apresentou e deu 
+sua petição com despacho nela do senhor conde de Óbidos D. Vasco Mascarenhas Gentil-
+Homem da Câmara de El-Rei meu Senhor, e do Conselho de Estado vice-rei e capitão-
+general de mar e terra de todo o Estado do Brasil da qual petição e dos ditos despachos, 
+o teor é o seguinte. Senhor. O capitão Sebastião Barbosa de Almeida que ele comprou a 
+sua irmã Maria Barbosa d'Almeida uma sorte de terra no rio de São Francisco capitania 
+de Pernambuco a qual terra começa a correr da vargem chamada a do Pontes até o morro 
+Jasiobá onde antigamente Lourenço de Brito Corrêa teve um curral, e porque tem largueza 
+nas ditas terras para pastar o seu gado, e do morro de Jasiobá pelo rio de São Francisco 
+acima, estão terras devolutas, ele suplicante tem gado, e muitas criações para poder 
+cultivar todas as terras que lhe derem de sesmaria, e o ano passado por falta de não terem 
+largueza lhe morreram melhor de seiscentas cabeças de gado, e é em utilidade da Fazenda 
+Real povoarem-se as terras que estiverem devolutas. Pede a Vossa excelência lhe faça 
+mercê em nome de Sua Majestade dar de sesmaria uma légua de terra em quadro em o rio 
+de São Francisco que começará a correr do morro de Jasiobá onde Lourenço de Brito teve 
+antigamente um curral de gado pelo Rio acima a dita légua em quadra seguindo o rumo 
+que melhor lhe estiver, e que esta sesmaria seja passada pelo Escrivão das sesmarias 
+porquanto as que são passadas pelo secretário do Estado, têm suas nulidades, e só as deve 
+passar o escrivão das sesmarias a que toca-me visto ser ofício particular. E receberá 
+mercê. Segundo se continha na dita petição que sendo presente ao dito senhor vice-rei. E 
+visto por ele nela pôs por seu despacho o seguinte. Informe o provedor-mor da Fazenda 
+Real. Bahia 8 de março de 1667. Rubrica do senhor vice-rei, e dado o dito despacho indo 
+com ele e a dita petição ao Capitão Antônio Lopes de Ulhôa fidalgo da Casa de Sua 
+Majestade e provedor da Fazenda Real deste Estado, deu na dita petição Antônio Lopes 
+de Ulhôa digo o parecer e informação seguinte. Senhor conheço do suplicante e me parece 
+que tem gado bastante para poder povoar a terra de que trata, além da que possui pelo 
+título de compra feita a sua irmã Maria Barbosa e na quantidade que pede não encontra 
+ao foral, nem a nova ordem de Sua Majestade pelo que me parece que se lhe deve 
+conceder, não sendo em prejuízo de terceiro. Vossa excelência mandará o que for servido. 
+Bahia 23 de março de 1667. Antônio Lopes de Ulhôa, e não diz mais a dita informação 
+do provedor-mor que está por ele assignada de seu sinal, e com ela tornara a dita petição 
+ao dito senhor vice-rei que sendo por ele vista por último despacho mandou o seguinte. 
+Vista a informação do provedor-mor da Fazenda faço mercê ao suplicante em nome de 
+Sua Majestade de toda terra pedida, e confrontada em sua petição e o escrivão das 
+sesmarias lhe passe sua carta na forma estilo. Bahia 23 de março de 1667. Rubrica do 
+senhor vice-rei, e depois de continuado o sobredito trasladei aqui o capitulo do Regimento 
+de El-Rei nosso Senhor que é o seguinte: As terras e águas das Ribeiras que estiverem 
+dentro no termo e limite da dita Cidade que (são) seis léguas por cada parte que novamente 
+forem dadas ás pessoas (que as) aproveitem e estiverem vagas, (por) devolutas para mim 
+por qualquer via, eu modo que seja poder eis dar de sesmaria ás pessoas que vos lhe 
+
+pedirem as quase terras assim dareis livremente sem foro, nem tributo algum somente o 
+dizimo a ordem de nosso Senhor Jesus Cristo, e com as condições, e obrigações do foral 
+dado ás ditas terras e de minha Ordenação título das sesmarias com condição que a tal 
+pessoa ou pessoas residam na povoação da dita Bahia, ou das terras que assim lhe forem 
+dadas ao menos três anos e que dentro do dito tempo as não possam (vender nem alhear) 
+e tereis lembrança que não deis a cada pessoa, mais terras que aquelas que se segue digo 
+que segundo sua possibilidade virdes ou vos parecer que pode aproveitar, e se algumas 
+pessoas a que me (quem) forem dadas terras no dito termo as tiverem perdidas pelas não 
+aproveitarem e vendo as tornarem a pedir, vós lhes dareis de novo para as aproveitarem 
+e com as condições e obrigações deste Capitulo conteúdas nele; o qual se trasladará nas 
+cartas das ditas sesmarias e com estas condições e obrigações e declaração deu o dito 
+senhor vice-rei conde de Óbidos D. Vasco Mascarenhas em nome de Sua Majestade ao 
+suplicante o capitão Sebastião Barbosa de Almeida, tudo o que pede atrás declarado em 
+sua petição que atrás fica trasladada digo declarado em sua petição que atrás fica digo em 
+sua petição de sesmaria a saber uma légua de terra em quadra em o rio de São Francisco 
+que começara a correr do Morro de Jasiobá onde Lourenço de Brito Corrêa teve 
+antigamente um curral pelo rio acima a dita légua em quadra seguindo o rumo que melhor 
+lhe convier e isto além da que possui que comprou a sua irmã Maria Barbosa de Almeida 
+e lhe deu de sesmaria tudo assim e da maneira que o pede e confronta e demarca em sua 
+petição e despacho do dito senhor vice-rei que tudo atrás fica trasladado, e lançado, com 
+todas suas entradas, e saídas, águas, Mattos, pastes, campos, madeiras e todas as mais 
+cousas a ela pertencente, e com tudo o que nelas houver para que o suplicante e seus 
+herdeiros que após ele vierem de hoje este dia para a todo sempre fazendo nas ditas terras 
+que assim lhe são dadas como em cousa sua própria que fica sendo por bem desta carta 
+de sesmaria que o dito senhor vice-rei lhe dá e concede livremente sem obrigação do foro, 
+nem tributo algum, mais que o dizimo a Deus nosso Senhor somente do que nas ditas 
+terras, lavrar, e cultivar, e desfrutar contanto que esta data não prejudique a terceiro e ao 
+direito dele em tal condição, e obrigação que dentro de três anos primeiros seguintes tenha 
+o suplicante feito nas ditas terras benfeitorias e por ela dará caminhos (para) pontes, 
+fontes, vieiras, e pedreiras necessárias ao Conselho e fará registar esta carta de sesmaria 
+nos livros da Fazenda de Sua Majestade dentro de um ano primeiro seguinte, e para 
+constar do sobredito mandou o dito senhor vice-rei lançar neste Livro de sesmarias esta 
+de que trata para delia se darem ao suplicante os traslados necessários para seus títulos e 
+por eles haver a posse Real, efetiva, natural, corporal, e atual das ditas terras que lhe deu 
+em nome de Sua Majestade de sesmaria pela maneira já dita, e de tudo mandou o dito 
+senhor vice-rei fazer esta carta de sesmaria que assignou e eu Francisco da Rocha Barbosa 
+Escrivão das sesmarias nesta cidade de S. Francisco digo e de seus termos por Sua 
+Majestade o escrevi. O Conde de Óbidos. O qual traslado de carta de sesmaria eu 
+Francisco da Rocha Barbosa Escrivão das sesmarias nesta Cidade do Salvador Bahia de 
+Todos os Santos e seus termos por Sua Majestade fiz trasladar- de meu Livro das 
+sesmarias donde alcancei e tornei a quem respeito digo a que me reporto que subscrevi e 
+assignei de meu público sinal seguinte público. Em testemunho de verdade Francisco da 
+Rocha Barbosa. Despacho do Provedor-Mor da Fazenda. Registe-se nos Livros desta 
+provedoria-mor. Bahia 27 de Maio de 1667. Ulhôa. Registou-se em 28 do dito mez e anno 
+e se entregou ao mesmo Capitão Sebastião Barbosa de Almeida. , ¦ - Gonçalo Pinto de 
+Freitas 
+ 
+- Fim da Transcrição - 
+ 
+
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 22, pp. 439-
+444. 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

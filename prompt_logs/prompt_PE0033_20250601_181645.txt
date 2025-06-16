@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0033
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0060",
+  "Nome": "Davi de Albuquerque Saraiva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "20-04-1715",
+  "Data da concessão": "20-04-1715",
+  "Observações da sesmaria": "O suplicante requereu a quantidade de 960 braças de terra de comprimento e 450 braças de terra de largura, no rio de Água-Fria, passando pela ponte, caminho da Madalena, onde confronta com a Olaria de dona Vivência de Paiva, indo a oeste até a Igreja de Nossa Senhora do Monte, sítio do Voltrim, indo em direção ao norte, correndo ao redor dele para o sul a entestar com o outeiro que confinam com a mesma igreja.",
+  "Localidade": "Rio d'Água-Fria.",
+  "Marcos Geográficos": "Rio d'Água-Fria, outeiros de Nossa Senhora do Monte, Voltrim.",
+  "Confrontantes": "Dona Vicência de Paiva",
+  "Justificativas": "Alegou que já pagava o dízimo havia um tempo; Pretendia aumentar as rendas reais; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse o foro régio e seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0033"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0061
+Carta de doação e sesmaria de David de Albuquerque Saraiva – 20/04/1715
+CARTA DE SESMARIA QUE SE PASSOU A DAVID DE ALBUQUERQUE SARAIVA.
+Félix José Machado de Mendonça Eça Castro e Vasconcelos, do Conselho de Sua Majestade e etc.
+etc. Faço saber aos que esta carta de doação de sesmaria virem que David de Albuquerque Saraiva
+me representou a petição cujo teor é o seguinte: "Senhor governador. Diz David de Albuquerque
+Saraiva, morador na cidade de Olinda, que no distrito dela onde chamam a Água-Fria, até os
+outeiros de Nossa Senhora do Monte, onde chamam o Voltrim, está uma sorte de terras que começa
+na ponte pequena que está no mesmo Rio Grande, digo, Rio D'água-Fria, no caminho da Magdalena,
+vindo correndo pela parte do nascente pela estrada que vem para a mesma cidade, passando pela
+ponta da mesma estrada que se aparta por detrás do outeiro em que dona Vicência de Paiva tem uma
+olaria, correndo a confrontação pelo pé do dito outeiro pela parte do poente até entestar com a ponta
+do outeiro de Nossa Senhora do Monte, e vai dali correndo pelo pé do mesmo monte pela parte do
+norte, até ficar salvo o valinho pertencente a mesma Igreja de Nossa Senhora do Monte, correndo ao
+redor dele para o sul a entestar com os pés dos outeiros que confinam com os do mesmo monte da
+dita senhora, e correndo pelo pé dos mesmos outeiros para o poente onde chamam o sítio do Voltrim
+até dar na estrada que vai das Olarias desta cidade para o mesmo Rio D'água-Fria, onde chamam a
+lavagem debaixo, a daí correndo pela parte do nascente pelo meio do alagadiço até tornar-se a dar
+na ponte pequena que está no mesmo Rio d'Água-Fria, onde chamam, digo, na dita passagem que
+vai para a Magdalena aonde se começou esta confrontação a qual terra assim confrontada poderá ter
+960 braças de comprido desde o dito rio de Água Fria até os pés dos outeiros da parte do Voltrim e
+450 ditas de largo desde a lavagem do dito rio até a dita ponte pequena, pouco mais ou menos, sem
+se atender as voltas das estradas, outeiros e rios pelos quais poderá haver no centro da dita terra,
+mais ou menos algumas braças, por não serem as confrontações em rumo direito de Agulha e estava
+a dita terra em matas maninhas, como bens vagos e por se não saber nem haver notícia dos
+primeiros senhores a que foi dada, nem de seus herdeiros, e só se tem notícia ser o dito sítio
+confrontado parte de umas terras de que naquele lugar se fez data a ............ dos primeiros
+povoadores desta capitania por cujas causas fez o suplicante sítio nas ditas terras com casas de
+vivenda e lavouras de que paga dízimo no decurso de três anos que está de posse do dito sítio
+confrontado, e porque é em utilidade dos dízimos reais que a dita terra assim confrontada, foi Vossa
+Senhoria servido mandar-lhe a data que apresenta, a qual está equivocada em sua forma com a
+presente petição que o suplicante tenha feito com intento de livrar a pensão, que não teve efeito e
+fez o suplicante nova dita em que a forma da carta se devia fundar, e alem disto indo-se tomar posse
+por novas informações e a vista da mesma terra, se achou serem as primeiras confrontações erradas
+
+na diferença do donatário e quantidade de braças, constando pelos três lados da data que apresenta
+ser o primeiro donatário o dito Jerônimo de Albuquerque; e nestes erros se ação grandes prejuízos
+na quantia da pensão que pertencia a Sua Majestade, que Deus guarde, e grande confusão no
+conhecimento da terra pedida. E para se reduzir a melhor e mais certa forma, pede a Vossa Senhoria
+seja servido mandar-lhe passar nova carta de data do dito sítio, pois se acha ser o mesmo pelos
+lugares das confrontações, e se ponha nota na primeira data para que conste que só esta teve efeito.
+E receberá mercê. — Despacho. Informe o doutor procurador da Coroa. Olinda, 19 de janeiro de
+1715. = "Rubrica" = Senhor governador. Não tenho dúvida que supra o erro que o suplicante diz, se
+ponha nota nem também a tenho, que se lhe deem nas partes que confronta 960 braças de terra, que
+tantas diz em sua petição. Recife, 5 de fevereiro de 1715 = Antônio Rodrigues Pereira = E havendo,
+outrossim, respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste Governo;
+Hei por bem fazer-lhe mercê dar ao suplicante acima nomeado como pela presente dou de sesmaria
+em nome de Sua Majestade, que Deus guarde, nos mesmos lugares, partes e testadas que confronta
+em sua petição 960 braças de terra de comprido e 450 braças de largo, mencionadas em sua petição
+e na mesma forma que parece ao doutor procurador da Coroa, pagando de foro por cada légua seis
+mil reis, e a esse respeito, é o dízimo a ordem de Cristo, segundo as disposições das ordens reais, o
+qual povoará as ditas terras no prazo de cinco anos, aliás se darão por devolutas e as possuirá e
+gozará o suplicante e seus herdeiros, não prejudicando a terceiro, com todas as suas matas, águas,
+campos, testadas, logradouros e mais úteis que nelas se acharem, não prejudicando a terceiro com
+todas as suas matas, digo, com a condição que não sucederão nas ditas terras religiões por nenhum
+título, e acontecendo que sucedam nelas e possuindo-as, seja com o encargo de delas deverem e
+pagarem dízimos como se fossem possuídas por seculares, e faltando-se a isso haverão por
+devolutas na forma da ordem de Sua Majestade por carta de 27 de junho do ano de 1711 = e será
+obrigado a dar pelas ditas terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a
+requerer a confirmação desta data por Sua Majestade no tempo de dois anos. Pelo que ordeno a
+talos os ministros da Fazenda e Justiça destas capitanias a que o conhecimento desta carta pertencer,
+lhe façam dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e da
+ordenação título de sesmarias; que por firmeza de tudo lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da Secretaria deste
+Governo, nos da Fazenda e Foral Real a que tocar, e sem esta precisa circunstância não terá vigor
+nem validade a presente carta de sesmaria. Dada nesta cidade de Olinda, em os 20 de abril =
+Manoel da Silva Rosa, oficial maior da Secretaria deste Governo a fez, ano de 1715 = O secretario
+Antônio, digo, Joaquim Mendes de Alvarenga, a fez escrever. Félix José Machado de Mendonça
+Eça Castro e Vasconcelos =.
+- Fim da carta -
+
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 201 - 204.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

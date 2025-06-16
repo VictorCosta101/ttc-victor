@@ -1,0 +1,147 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0070
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Cavalcante, Domingos Escorcio, Domingos Martins Pereira (BA1), Francisco da Fonseca de Siqueira, Francisco Martins Pereira, Francisco Mendes Ferreira, Francisco Rabelo Rebelinho, Gaspar Vaz Pereira, João Dias da Costa, João Martins Pereira, Manuel Antunes Rufino, Manuel de Aguiar da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-10-1681",
+  "Observações da sesmaria": "A sesmaria possuía 60 léguas de comprimento e 36 léguas de largura, sendo dividida igualmente por 12 sesmeiros, ficando cada um com  cinco de comprimento e três de largura. A sesmaria estava localizada ao longo do rio Paraguaçu, em direção ao sertão da capitania da Bahia, fazendo fronteira com as terras de João Barbosa e Manuel de Torres e seus companheiros e com as terras do  sargento-mor Francisco Ramos e seus companheiros.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "João Barbosa e Manuel de Torres e seus companheiros; Francisco Ramos e seus companheiros",
+  "Observações da petição": "Os suplicantes solicitaram 12 léguas de comprimento por três de largura para cada um. Afirmaram que caso não tivessem terras disponíveis na direção que solicitaram, que pudessem pegar o restante das terras que estivessem devolutas por de baixo das terras do padre Bento da Silveira Gato.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Não tinha terras; Tinha gado vacum; Tinha gado cavalar; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 12,
+  "Observações do deferimento e da concessão": "O procurador da Coroa foi de acordo com a quantidade de terras solicitadas pelos suplicantes, no entanto, o provedor da Fazenda afirmou que achava que não teriam tantas terras disponíveis para serem concedidas aos suplicantes, mas caso tivessem, que fossem concedidas cinco léguas de comprimento com três de largura para cada um. O governador-geral concordou com o parecer do provedor, afirmando que as terras não poderiam chegar no rio Jiquiriça, pois as terras naquela região eram de um donatário.",
+  "Observações das exigências": "Determinou-se que mandassem certidão de que estão povoando as terras solicitadas.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0070"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria concedida ao capitão Domingos Martins Pereira, Antônio 
+Cavalgante, Francisco Martins Pereira, Domingos Escorcio, Manoel de Aguiar da Corte, 
+Capitão João Dias da Costa, Gaspar Vaz Pereira e outros no Rio de Paraguaçu. 
+Roque da Costa Barreto, do Conselho de sua Alteza. Faço saber aos que esta mercê de doação 
+e sesmaria virem que havendo respeito ao que por parte do Domingos Martins Pereira, Antônio 
+Cavalcante, Francisco Martins Pereira, Domingos Escorcio, Manuel de Aguiar da Corte, 
+Capitão João Dias da Costa, Gaspar Vaz Pereira, Francisco da Fonseca de Siqueira, Manuel 
+Antunes Rufino, o alferes João Martins Pereira, Francisco Rabelo Rebeliinho e Francisco 
+Mendes Ferreira se me enviou a representar por sua petição cujo teor é o seguinte: senhor diz o 
+capitão Domingos Martins Pereira, Antonio Cavalgante, Francisco Martins Pereira, Domingos 
+Escorcio, Manoel de Aguiar da Corte, Capitão João Dias da Costa, Gaspar Vaz Pereira 
+Francisco da Fonseca de Siqueira, Manoel Antunes Rufino, o alferes João Martins Pereira, 
+Francisco Rabelo Rebeliinho e Francisco Mendes Ferreira que eles, suplicantes, tem gados 
+vacuns e cavalares e mais criações. Por não terem terras próprias as tem arrendadas, fazendo 
+despesa para as descobrir de mais doar rendimento que pagam e estão sujeitos aos senhorios os 
+despedirem, e fazendo despejar os sítios que tem povoado no que receberam notável dano, e de 
+presente tem notícia os suplicantes que no sertão do rio de Paraguaçu há terras devolutas e 
+outras que se deram há anos e não as povoaram. Pedem a vossa senhoria [que] lhes faça mercê 
+dar-lhes, em nome de sua Alteza, 12 léguas de terra a cada um pelo dito rio Paraguaçu acima, 
+com 3 de largo, ficando do dito rio em meio, começando aonde acaba a data que se deu a João 
+Barbosa e Manoel de Torres, e seus companheiros até entestar no riacho sem cura aonde começa 
+a data que se deu ao sargento-mor Francisco Ramos e seus companheiros,, e não havendo entre 
+estas 2 datas terras o bastantes para se encher, o poderão fazer em quaisquer que se acharem 
+devolutas para baixo da data que se deu ao padre Bento da Silveira Gato, ou no rio jiquiriça de 
+que serão obrigados os suplicantes a trazer as confrontações no termo da leu, estado povoada. 
+E receberá mercê. E vista a resposta do Procurador da Fazenda Real que é o seguinte: não tenho 
+duvida que os suplicantes se dê de sesmaria a terra que parece conveniente no lugar declarado, 
+com condição que, havendo tanta quantidade no dito rio, como o que lhes for dada, se reparta 
+igualmente entre os suplicantes a que houver e que se possam encher na terra devoluta sendo 
+contigua a terra da data não o ocupada de que se faz menção. Bahia,2 de outubro de 1681 // 
+Andrada // E a informação do provedor-mor da dita Real Fazenda que também é o que se segue: 
+senhor, não sei onde pode haver tanta terra quanta os suplicantes pedem; mas havendo, me 
+parece [que] se pode conceder a cada um dos suplicantes 5 légua de comprimento com 3 de 
+largura, ficando o rio em meio no sitio e lugar em que as pedem no rio Paraguaçu, e se não 
+houver tanta terra que se a concedem repartindo entre si igualmente a que houver boa ou má 
+terra, isto é o que me parece a se acharem na terra do rio jiquiriça, porquanto é de donatário, 
+com declaração que sendo obrigados a guardar as ordens de regimento das sesmarias, e que a 
+concessão será sem prejuízo de terceiro, vossa senhoria mandará o que for servido. Bahia, 7 de 
+outubro de 1681. // Antônio Lopes de Ulhôa // // Hei por bem de conceder e dar de sesmaria, 
+como pela presente faço em nome de sua Alteza, 5 léguas de terra de comprimento e 3 de largura 
+ficando o rio jiquiriça no meio do sitio, e lugar em que se pedem do rio Paraguaçu, e sendo 
+houver tanta terra que se acomodem, repartindo entre si igualmente o que houver, boa ou má 
+terra porquanto a terra do rio jiquiriça, que os suplicantes pedem para se encherem, se lhes não 
+pode se fizer por ser de donatário, como presente o dito o provedor-mor, não prejudicando a 
+terceiro com todas as suas águas, matas, testadas, logradouros e mais úteis que nelas se achar 
+com foro livre e isento de pensão salvo o dizimo a ordem de Cristo que pagarão pelos frutos 
+que delas houver, e por elas serão obrigados a dar estradas públicas e particulares para pontes, 
+fontes, portos e pedreiras povoando-as no termo da lei e demarcando-as no termo da posse, 
+
+citados os éreos e sendo obrigados a mandar certidão de como tem povoado dentro do dito 
+termo para se registrar nos livros da Fazenda Real pelo o que ordeno a todos os ministros de 
+justiça, a que o conhecimento deva ou possa pertencer [que] lhe façam dar posse real, efetiva e 
+atual na forma costumada debaixo das cláusulas acima referidas e as mais da ordenação título 
+de sesmarias para a firmeza do que lhe mandamos passar a presente sob o sinal e selo de minhas 
+armas do qual se registrará nos livros da secretaria do Estado e nas mais a que tocar, se 
+assegurará e cumprirá tão pontual e inteiramente com nele se contem sem dúvida, embargo nem 
+contradição alguma // Antônio Garcia  // o fez nesta cidade do Salvador, Bahia de todos os 
+santos aos 10 dias do mês de outubro, ano de 1681 // Bernardo Vieira Ravasco // a fiz escrever 
+// Roque da Costa Barreto // Registrada no livro 2° dos registros da secretaria do Estado do 
+Brasil a que toca as folhas 79. Bahia, 10 de outubro de 1681 // Ravasco // Despacho do 
+provedor-mor. Registre-se nos livros da Fazenda a que toca. Bahia, 14 de outubro de 1681 // 
+Antônio Lopes de Ulhôa Thomas Moreira // a registrou-se no mesmo dia. 
+ 
+- Fim de Transcrição - 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Domingos Martins 
+Pereira”; “Antônio Cavalgante”; “Francisco Martins Pereira”; “Domingos Escorcio”; “Manoel 
+de Aguiar da Corte”; “Capitão João Dias da Costa”; “Gaspar Vaz Pereira Francisco da Fonseca 
+de Siqueira”; “Manoel Antunes Rufino”; “alferes João Martins Pereira”; “Francisco Rabelo 
+Rebeliinho” e “Francisco Mendes Ferreira”. 
+ 
+Referências: 
+AN, Códice 427 vol. 1, fls. 199v – 201. 
+Numeração original no livro: 147. 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

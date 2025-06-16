@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0083
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0396",
+  "Nome": "Antônio de Sousa de Andrade, Bento Barbosa Soares, João de Matos da Silva, Miguel Soares da Maia",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-11-1660",
+  "Observações da sesmaria": "O suplicantes requereram 16 léguas de comprimento e 16 léguas de largura no rio São Francisco na fronteira das terras de Francisco de Brás, Damião da Rocha e Antônio de Sousa de Macedo. ",
+  "Localidade": "Rio São Francisco",
+  "Confrontantes": "Damião da Rocha, Antônio de Sousa de Macedo e Francisco de Brás",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se reservar uma légua em quadra para cada aldeia indígena que houver; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Lourenço de Brito Correa",
+  "referencia": "PE-AL0083"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0057 
+ 
+Carta de concessão de Antônio de Sousa de Andrade, Bento Barbosa Soares, João de 
+Matos da Silva, Miguel Soares da Maia de 04/11/1660 
+Registro de uma carta de sesmaria do capitão Antônio de Sousa de Andrade, Bento 
+Barbosa Soares e os mais.  
+ 
+Dizem o capitão Antônio de Sousa de Andrade Bento Barbosa Soares, Miguel Soares da 
+Maia e João de Mattos da Silva moradores neste Estado há muitos anos, e nele tem servido 
+a Sua Majestade nas ocasiões que se ofereceram e até o presente se lhe não tem dado terra 
+alguma de Sesmaria, e são criadores de gado vacum, e cavalar, sem terem pastos bastantes 
+para eles em que a Fazenda Real tem perda em seus dízimos, e tem por notícia que no rio 
+de São Francisco da banda do norte, e as terras devolutas c desaproveitadas desertas de 
+ruins serventias. E eles suplicantes tem cabedal bastante e as querem ir povoar e 
+aproveitar com os seus gados vacum, e avaliar e mais criações pelo que. Pede a vossa 
+senhoria lhe faça mercê conceder em nome de Sua Majestade dezesseis léguas de terra 
+em quadra para todos quatro sitas no Rio de São Francisco da banda do Norte nas Margens 
+das datas os capitães Francisco de Brás Damiao da Rocha Antônio do Souto de Macedo 
+com todas as pontas enseadas, e águas que nelas houver. E recebera mercê. Antônio de 
+Souza de Andrade. Despacho do governador e capitão-general. O provedor-mor da 
+Fazenda Real me informe Bahia e novembro 2 de 1660. Barreto. Informação do provedor-
+mor. O capitão Antônio de Sousa de Andrade tem possibilidade para povoar as quatro 
+léguas de terra que pede, e não tem sesmarias sou de parecer que vossa senhoria lhe faça 
+mercê das quatro léguas onde as pede como confronta. E aos três mais desta petição a 
+cada um uma légua por se conforme as ordens de Sua Majestade Bahia 2 de novembro 
+1660, salvo sempre o prejuízo de terceiro, Lourenço de Brito Correa. Outro despacho do 
+governador e capitão-general. Passe-se provisão de quatro léguas de terra em quadra ao 
+capitão Antônio de Sousa e duas a cada um dos nomeados nesta petição Bahia e novembro 
+3 de 1660. Barreto. Carta de sesmaria. Francisco. Barreto do Conselho de Guerra de Sua 
+Majestade governador e capitão-general deste Estado do Brasil etc. Faço saber aos que 
+esta carta de doação e sesmaria virem que havendo visto ao que por parte de Antônio de 
+Sousa de Andrade Bento Barbosa Soares, Miguel Soares da Mala João de Matos da Silva 
+se me enviou a representar, por sua petição atrás escrita pedindo-me lhes desse de 
+sesmaria dezesseis léguas em quadra no rio de São Francisco, da banda do norte nas 
+ilhargas das datas dos capitães Francisco de Brás Damião da Rocha e Antônio de Sousa 
+de Macedo tendo eu consideração a tudo e a informação do provedor-mor da Fazenda 
+Real deste Estado: Hei por bem e lhe faço mercê em nome de Sua Majestade data de 
+sesmaria (como pela presente faço) ao capitão Antônio de Sousa de Andrade quatro 
+léguas de terra em quadra e duas léguas a cada um dos nomeados na petição atrás na 
+forma que nela pedem e confrontam com todas as suas águas, campos, matos, testadas e 
+logradouros e mais úteis que nela se acharem não prejudicando a terceiro tudo foro livre 
+e isento de pensão ou tributo algum salvo o dízimo a Deus que pagarão dos frutos que 
+nela houverem, e por elas são obrigados a dar caminhos livres ao conselho para fontes 
+pontes e pedreiras, e porque convém conservar os índios livres em suas aldeias. Hei por 
+bem de reservar nesta data uma légua de terra em quadra a cada aldeia que se 
+compreenderem nela para suas lavouras, e sustento. Pelo que ordeno a todas as Justiças e 
+Ministros a que o conhecimento desta deva ou possa pertencer lhes mandem dar a posse 
+real, efetiva e atual na forma costumada debaixo das cláusulas acima referidas, e as mais 
+
+da Ordenação título das sesmarias para firmeza do que lhe mandei passar a presente sob 
+meu sinal e selo de minhas armas a qual se registará nos livros a que tocar e guardara e 
+cumprirá tão pontual e inteiramente como nela se contém sem dúvida embargo nem 
+contradição alguma Bento Pereira de Andrade a fez nesta cidade do Salvador Bahia de 
+todos os Santos em os quatro dias do mês de novembro ano de 1660. Bernardo Vieira 
+Ravasco o fiz escrevei. Francisco Barreto. Selo. Registada no primeiro Livro dos Registos 
+a que toca da Secretaria deste Estado a folhas sessenta e duas verso Bahia e novembro 
+quatro de 1660. Ravasco. Registe-se nos Livros da Fazenda Real Bahia quatro de 
+novembro de 1660. Brito. Foi registada aqui em cinco do dito mês, e ano. Gonçalo Pinto 
+de Freitas 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 20, pp. 265-
+268. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0012
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Aleixos Manuel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "29-10-1573",
+  "Data da concessão": "29-10-1573",
+  "Observações da sesmaria": "Título original: Carta de sesmaria das terras e chãos para casas de Aleixos Manuel as que foram dadas a seu irmão Bartolomeu d’Albarnaz.\r\nAs terras solicitadas por Aleixos Manuel pertenciam ao seu irmão, Bartolomeu Albanaz.",
+  "Localidade": "Rio de Janeiro",
+  "Justificativas": "Serviu a Sua Majestade; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Provisão",
+  "referencia": "RJ0012"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0012 
+ 
+Carta de concessão de sesmaria de Aleixos Manuel de 29 de outubro de 1573 
+ 
+Forra 
+[F.11 v, 50 v.]Saibam quantos este instrumento de cartas de sesmaria virem que no ano do 
+nascimento de nosso Senhor Jesus Cristo de 1573 anos, aos 29 dias do mês de outubro do dito 
+ano nesta cidade de São Sebastião do Rio de Janeiro, Costa do Brasil, nas pousadas de mim 
+escrivão abaixo nomeado, apareceu Aleixos Manuel, morador nesta dita cidade e me apresentou 
+uma petição com despacho nela do Senhor Cristóvão de Barros, capitão e governador desta dita 
+cidade, capitania e governança deste dito Rio de Janeiro por El Rei nosso Senhor, da qual 
+petição o traslado dela é o seguinte. Senhor, capitão e governador. Diz Aleixos Manuel, morador 
+nesta cidade que  Vossa Mercê tem dado um chão a seu irmão Bartolomeu Albanaz com umas 
+terras de sesmarias, o qual é ido e porque ele suplicante não sabe quando virá, pede ele 
+suplicante a Vossa Mercê, que respeitando aos seus bons serviços que  tem feitos a Vossa Alteza, 
+me faça mercê de lhe dar o dito chão e terras, assim e da maneira que o dito Bartolomeu Albanaz 
+as tem por carta, com todas as confrontações que na sua carta diz, visto ele suplicante não ter 
+terra de sesmaria e no que receberá mercê. E tudo visto pelo dito Senhor, capitão e governador 
+a petição do dito suplicante Aleixos Manuel e o que ele pedia, visto ser justo e havendo respeito 
+ao proveito que se pode seguir acerca da República e ao serviço de Deus e Del Rei nosso Senhor 
+e por a terra se povoar deu ao dito suplicante Aleixos Manuel o chão e terras que pede, assim e 
+da maneira que as tinha dado a seu irmão, porquanto o dito chão e terras estavam devolutos e 
+em maninhos, por aproveitar para tudo o dito Aleixos Manuel aproveitar a fazer roças e 
+benfeitorias nelas e casas no dito chão, não sendo já dadas assim o dito chão como as ditas 
+terras a outras pessoas primeiro, as quais terras e chão digo chãos lhe deu e concedeu na maneira 
+abaixo declarado, segundo forma de sua provisão e do regimento do governador geral Mem de 
+Sá, de que os traslado de tudo de verbo a verbo é o seguinte. Despacho do Senhor, capitão e 
+governador. Dou ao suplicante o chão e terras que pede assim e da maneira que as tinha dado a 
+seu irmão. Hoje, 28 de outubro de 1573. Cristóvão de Barros. Traslado da provisão do Senhor, 
+capitão e governador. Eu El Rei faço saber aos que este alvará virem, que pela confiança que 
+tenho em Cristóvão de Barros que nas coisas de que o encarregar me servirá e fará com que o 
+recado e felicidade do meu serviço cumpre, hei por bem e me apraz de lhe fazer mercê de 
+capitão e governador da capitania e cidade de São Sebastião do Rio de Janeiro, nas partes do 
+Brasil, por tempo de quatro anos que servirá com os poderes e alçada que teve e de que usou 
+Salvador Correia de Sá, sobrinho de Mem de Sá do meu Conselho que ora está por meu 
+governador nas ditas partes o tempo que serviu pelo dela prover o dito Mem de Sá, seu tio, e 
+conforme o regimento que lhe para isso foi dado, portanto, o notifico assim ao dito Mem de Sá 
+e mando-lhe que meta ao dito Cristóvão de Barros em posse da dita capitania e governança para 
+servir pelos ditos quatro anos como dito é e em minha chancelaria, lhe será dado o juramento 
+que bem verdadeiramente sirva guardando em tudo meu serviço e o direito as partes, antes que 
+o dito Cristóvão de Barros parta deste Reino me dará menagem pela fortaleza da dita capitania 
+segundo ordenança e de como deu apresentará certidão nas custas deste de Duarte Dias, fidalgo 
+de minha casa e meu secretário, o qual hei por bem que valha e tenha a força e vigor como se 
+fosse carta feita em meu nome, asselada do meu selo pendente sem embargo da ordenação do 
+Livro 2º, título 20, que diz que as coisas cujo efeito houver de durar mais de um ano passem 
+por cartas e passando por alvarás não valham. André Vidal o fez em Lisboa a 31 de outubro de 
+1571. //Sebastião da Costa//  o fez escrever. E sendo caso que Cristóvão de Barros vá  de rota 
+abatida daqui tomar a dita cidade de São Sebastião, por essa causa lhe não poder dar a posse a 
+Mem de Sá como acima é declarado, manda aos juízes e vereadores da dita cidade que lhe deem 
+a dita posse cumpram este alvará como se nele contém. Rei. O qual alvará estava assinado e 
+
+tinha todas as verbas,  inscrições, registros e certidão que a dita provisão requer por virtude da 
+qual eu escrivão dou fé. Mem de Sá governador-geral nos poderes que concedeu a Salvador 
+Correia de Sá de que usou nesta capitania lhe deu poder para dar de sesmaria terras e chãos, 
+conforme o regimento  e capítulo Del Rei nosso Senhor por onde as dele dava na Baía de Todos 
+os Santos, o qual capítulo é o seguinte. As terras e águas dos ribeiros que estiverem dentro do 
+termo e limite da dita [falta a f. 53.] e são para casas que aproveitado não tiver de sesmaria a 
+quem  as pedir para aproveitar e lhe será deixado alguns logradouros do que aproveitado não 
+tiver, sobretudo pagará r$ 1000 para as obras do Conselho, pelas ditas terras dará caminhos e 
+serventias ordenados necessários para o Conselho e para as fontes, pontes, vieiros e pedras que 
+necessários forem, as quais terras pela sobredita maneira lhe dará forras e isentas  sem foro nem 
+tributo, somente de tudo o que lhe nosso Senhor Deus der nelas de suas novidades, lavouras e 
+criações pagará os dízimos a Deus, conforme o dito regimento o que tudo manda que se cumpra 
+e guarde sem dúvida nem embargo que lhe seja posto e que nesta carta seja registrado dentro 
+de um ano nos livros da Fazenda Real, como dito Senhor em seu regimento anda só as penas 
+nele contidas e quanto o chão para as casas dentro dos ditos três anos ele o não poderá vender 
+nem enlear nem as ditas terras por nenhuma via que seja sem licença do dito Senhor, capitão e 
+governador ou de quem ao diante tiver poder para  a dar, da dita maneira lhe dava o dito chão e 
+terras, acabados os ditos três anos tendo ele feito nele casas e benfeitorias, ele o poderá vender, 
+trocar, descambar dar, doar e fazer de tudo o que ele bem vier como de coisa sua própria isenta 
+que é e porque os sobredito suplicante Aleixos Manuel tudo prometeu de ter, manter e cumprir 
+pela dita maneira, lhe mandou passar esta carta de sesmaria e por verdade eu //Pedro da Costa// 
+escrivão das sesmarias e tabelião das notas por El Rei e nosso Senhor  nesta sua cidade de São 
+Sebastião e seus termos que esse instrumento de carta de sesmaria escrevi em meus livros das 
+notas e tombo das cartas de sesmaria que e digo desta dita cidade que em meu poder ficam, 
+onde o dito instrumento fica assinado pelo dito Senhor capitão e governador. //Cristóvão de 
+Barros// 
+ 
+- 
+Fim da Transcrição - 
+ 
+Observações: 
+Título original: Carta de sesmaria das terras e chãos para casas de Aleixos Manuel as que foram 
+dadas a seu irmão Bartolomeu d’Albarnaz  
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 61; 
+Documento Original :f.11v., 50v.  
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg. 61. Códice 50.5.3A(1573-4). 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,166 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0073
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0129",
+  "Nome": "Sebastião Lopes da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-04-1742",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura na freguesia de Nossa Senhora de Rodelas, nas cabeceiras do rio Moxiô, a oeste da serra do Jupituá e a leste da serra do Sabá, nos Campos do Buíque.",
+  "Localidade": "Freguesia de Nossa Senhora de Rodelas",
+  "Marcos Geográficos": "Campos de Buíque, Serra do Jupituá, Serra do Sabá, Rio Moxiô",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Henrique Luís Pereira Freire de Andrade determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco do Rego Barros",
+  "Nome do procurador": "Antônio Ferreira de Castro",
+  "referencia": "PE0073"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0073
+Carta de doação e sesmaria de Sebastião Lopes da Costa - 12/04/1742
+Sesmaria de duas léguas de terra que se deu a Sebastião Lopes da Costa.
+Henrique Luiz Pereira Freire, do Conselho de Sua Majestade, governador e capitão
+general de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de
+doação e sesmaria virem, que Sebastião Lopes da Costa, morador no Pajeú [...] a dizer
+em sua petição o seguinte: [etc.] que no sertão da freguesia de Nossa Senhora da
+Conceição das Rodelas, cabeceiras do rio Moxihô, se acham umas terras devolutas que
+nunca foram aproveitadas, que partindo do Buique pela parte, digo, partindo da parte do
+nascente com a serra do Jupituá [...] do Buique pela parte do poente com a serra do Sabá
+até a mesma do Buique, entre as quais serras quer o suplicante por data de sesmaria
+duas léguas de terra pelo mesmo rumo, digo, mesmo olho d’água da Cachoeira,
+buscando o dito rio Moxiô, com as cláusulas contidas nas ordens de Sua Majestade, para
+nelas criar seus gados vacuns e cavalares, e como as ditas terras estão em sertão muito
+demonstrado e que nunca foi cultivado, e é conveniente a Sua Majestade e bem comum
+o estabelecer-se nela fazendas de gado, me pedia lhe fizesse mercê dar as ditas duas
+léguas de terra, visto ele as descobrir, mandando-lhe passar a sua carta de sesmaria com
+o foro e cláusula que dispõem Sua Majestade, e sem prejuízo de terceiro e receberá
+mercê em a qual mandei por meu despacho que informasse o provedor da Fazenda Real,
+pela ordem de Sua Majestade de 28 de setembro de 1700, que se acha registrada nesta
+provedoria, ordena o dito senhor que as pessoas a quem se derem terras de sesmarias,
+paguem por cada légua de terra até trinta de distância do Recife de Olinda a 6:000 de
+foro por ano, e que ficando em maior distância a 4:000 e que semelhante doação de
+sesmaria nesta dita provedoria, sem que primeiro os pretendentes dela deem fiança
+idônea de posteridade nesta jurisdição, em que se obrigue a pagar todo o foro das terras
+que se lhes derem para sesmaria, justificando em como são os próprios pretendentes, se
+que as pede é o que posso informar a Vossa Majestade — Recife, 22 de dezembro de
+1721 — Miguel Correa Gomes. Resposta do procurador da Fazenda — Deve o
+suplicante assinar a petição e reconhecer o seu sinal ou juntar procuração sua, para
+constar que ele e não outrem em seu nome pede as terras declaradas na petição acima e
+se não poder excursar com este pretexto, como já tem acontecido de pagar o foro
+quando se lhe pedir, e deve fazer certa a existência das terras pedidas, satisfeito a uma e
+
+outra coisa, responderei sobre o mais que se me oferecer, a bem da Fazenda Real.
+Recife, 22 de janeiro de 1742 — Ferreira Castro. Informação do provedor —
+Ilustríssimo e excelentíssimo senhor — Satisfazendo o que aponta o procurador da
+Fazenda, informarei a Vossa Excelência para mandar o que for servido — Recife, 19 de
+fevereiro de 1742 — Francisco do Rego Barros — Procurador do provedor — Para
+provedor da Fazenda Real — Diz o suplicante que satisfaz a resposta do doutor
+procurador da Fazenda, com a procuração junta e em quanto a existência das terras,
+como não tem testemunhas o suplicante nesta jurisdição para poder justificar quer [...]
+de que não moverá dúvida por aquele princípio, nem se eximirá ele de pagar o foro, só
+no caso que ache as terras pedidas e possuídas por outras pessoas, o que posto — Pede a
+Vossa Majestade lhe faça mercê mandar que o doutor procurador da Fazenda, a vista do
+oferecimento do suplicante e procuração junta, responda se se lhe oferece dúvida em
+que se deem ao suplicante as terras pedidas; e receberá mercê. Estava junta a procuração
+bastante do suplicante, feita nas notas em que escreve a padre João da Fonseca de
+Oliveira, aos 6 de setembro de 1732 — Despacho —Responda o doutor procurador da
+Fazenda. Recife, 20 de fevereiro de 1742 — Barros — Resposta assinando o suplicante
+outro a que se oferece, não tenho dúvida se lhes deem as letras que pede por sesmaria,
+com as cláusulas e condições na Ordenação do Reino e ordens de Sua Majestade, que
+Deus Guarde, sendo franca nesta praça aos foros. Recife, 22 de fevereiro de 1742 =
+Ferreira Castro — Despacho do provedor, assine o suplicante o termo na forma que
+aponta o doutor procurador da Coroa e Fazenda. Recife, 6 de maio de 1742 = Resposta
+do escrivão da Fazenda. Fica feito o procurador que se requer, assinado pelo Domingos
+Ferreira Maciel, procurador do suplicante Sebastião Lopes da Costa, seu constituinte e
+morador no Pajeú — Recife, 10 de março de 1742 — Miguel Correia Comes —
+Informação do provedor. Ilustríssimo e excelentíssimo senhor — O suplicante satisfez a
+dúvida do procurador da Fazenda, sem recorrer a Vossa Excelência, como eu lhe
+informei na primeira informação que a Vossa Excelência dava, querendo com tudo que
+para satisfazer a dita dúvida, recorresse primeiro a Vossa Excelência para resolver se
+convinha na dúvida apontada pelo dito procurador da Fazenda, por como o termo se
+acha assinado e satisfeitas as condições apontadas pelo procurador da Fazenda,
+parecendo a Vossa Excelência conceder a data que o suplicante pedisse; lhe pode
+conceder por estar o requerimento em termos de se lhe poder; Vossa Excelência
+mandará o que for servido. Recife, 15 de março de 1742 - Francisco do Rego Barros —
+Despacho — O provedor da Fazenda Real mande examinar se nos livros dos registros
+
+das sesmarias se acha esta data a outrem ou não. — Recife, 27 de março de 1742 —
+Rubrica — O escrivão da Fazenda satisfaça ao despacho do excelentíssimo senhor
+general, como nele se declara. Recife, 29 de maio de 1742 = Barros — Senhor provedor
+da Fazenda Real, revendo os livros dos registros das sesmarias e datas de terras, que
+servem nesta provedoria, deles não consta estar registrada nenhuma, com as
+confrontações que se declaram no requerimento do suplicante; é o que posso informar a
+Vossa Majestade, para mandar o que for servido. Recife, 30 de maio de 1742 — Miguel
+Correa Gomes = Ilustríssimo e excelentíssimo senhor — Satisfaço a Vossa Excelência,
+com a informação do escrivão da Fazenda, Vossa Excelência mandará o que for servido.
+Recife, 4 de abril de 1742 — Francisco do Rego Barros. E sendo tudo visto por mim,
+mandei se passasse carta de sesmaria ao suplicante, como parecia ao provedor da
+Fazenda Real. Recife, 9 de abril de 1742 — Hei por bem de lhe dar de sesmaria (como
+pela presente faço), as ditas 2 léguas de terra, como é costume darem-se no mesmo lugar
+e confrontações, que em sua petição requer com todas as suas pertenças e logradouros,
+para ele e seus herdeiros, não prejudicando a terceiro, pagando o foro de 4$000 a
+Fazenda Real por cada uma légua de terra e dízimo a ordem de Cristo, com a condição
+de não passarem a religiões por nenhum título e por elas dará entradas livres ao
+Conselho, para pedreiras, fontes e pontes, e sendo necessárias para o serviço de Sua
+Majestade igrejas ou minas de metais, lhe serão tiradas sem remuneração alguma. Pelo
+que ordeno aos ministros da Justiça ou Fazenda deste distrito a que tocar, lhe façam dar
+posse real, efetiva e atual, na forma costumada, que por firmeza de tudo lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará nos livros da Secretaria deste Governo e Provedoria Geral, aonde se fará
+assento do referido foro e recorrerá a Sua Majestade pelo seu Conselho Ultramarino a
+sua confirmação, e a povoará tudo dentro do tempo em que o dito senhor tem
+determinado por suas ordens e faltando algumas destas condições, ficarão devolutas,
+como o dito senhor declara. Dada nesta praça do Recife de Pernambuco, aos 12 de abril,
+- João Carvalho do Vale a fez — ano de 1742 — O secretário José Antunes a fez
+escrever — Henrique Luiz Pereira Freire.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 46 - 50.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,98 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0142
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Rios",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "24-03-1605",
+  "Observações da sesmaria": "A carta encontra-se incompleta, o que não torna possível identificar o histórico da terra, bem como a data de petição da sesmaria.",
+  "Localidade": "Chão junto ao ribeiro de São Bento",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Ribeira": "Ribeiro de São Bento",
+  "Confrontantes": "Cabeceiras de Pedro Gonçalves",
+  "Justificativas": "Era morador(a) da Capitania; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta encontra-se incompleta, não sendo possível identificar outras alegações dadas pelo suplicante para justificar a concessão.",
+  "Observações das exigências": "A carta encontra-se incompleta, não sendo possível identificar as determinações dadas ao suplicante.",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0142"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0142
+Carta de pedido de concessão de sesmaria de Manuel dos Rios de 24 de março de 1605
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+Nosso senhor Jesus Cristo de 1605 anos, em os 24 dias do mês de março do dito ano, nesta
+cidade de São Sebastião do Rio de Janeiro, nas pousadas de mim escrivão adiante nomeado,
+apareceu Manuel dos Rios, morador nesta cidade e me apresentou uma petição com um
+despacho nela do senhor Martim de Sá, capitão e governador desta dita cidade e capitania e
+governança deste dito Rio de Janeiro, por El Rei nosso Senhor, da qual petição e despacho
+dela o traslado é o seguinte: Manuel dos Rios, morador nesta cidade, que junto ao ribeiro de
+São Bento, entre um chão que nele tem e os das casas em que ele agora vive que começa das
+cabeceiras dos chãos que foram de Pero Gonçalvez, está um pedaço de chão estreito que fica
+confrontado com os ditos seus chãos de uma banda e da ou-[. . .] (Faltam folhas) [. . .]
+craveira, duas varas de medir por uma, como no Reino se costuma de medir, e que esta carta
+seja registrada dentro em 1 ano nos livros da Fazenda Real, como o dito Senhor em seu
+regimento manda sob as penas nele contidas e declaradas e porque o sobredito João d'Anhaia,
+suplicante, tudo prometeu de ter, manter e cumprir, pela dita maneira lhe mandou passar esta
+carta de sesmaria e por verdade eu, Adrião de Lemos, escrivão das sesmarias por El Rei nosso
+Senhor, em esta cidade de São Sebastião do Rio de Janeiro e seus termos, que esta carta de
+sesmaria escrevi e tomei no livro das notas que ficou de meu antecessor, Pero da Costa, e
+Tombo das Sesmarias desta dita cidade que em meu poder fica onde o dito instrumento fica
+assinado por o dito Senhor capitão e governador. //Martim de Sá/
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria de chãos para casas junto à Fonte de São Bento dado a
+Manuel dos Rios.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+221-222; Documento Original : Fl.116.
+Original no livro
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0242
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José de Vargas Pissarro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "31-03-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio Saracuruna",
+  "Confrontantes": "Terras de Domingos Ribeiro Vieira",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0242"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0242
+Carta de concessão de José de Vargas Pissarro de 31 de março de 1728
+(ilegível)
+Luís Vaía Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição José de Vargas Pissarro, que ele tinha notícia (ilegível) que foi do capitão
+(ilegível) e é hoje de Domingos Ribeiro Vieira (ilegível) terra chamada (ilegível) de
+Saracuruna, se acham terras devolutas, pedindo-me lhe mandasse dar 1 légua das ditas terras,
+principiando (ilegível) em quadra da testada onde acaba sertão da dita (ilegível) Domingos
+Ribeiro Vieira, para as cultivar e de que se seguia utilidade aos dízimos Reais. E dando-se
+vista deste requerimento ao provedor da Fazenda Real e ao procurador da Coroa, as quais não
+se ofereceu dúvida. Hei por bem fazer mercê ao dito José de Vargas Pissarro de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, as referidas terras, não excedendo,
+porém, 1 légua em quadra, como na forma das ordens do mesmo Senhor, sem prejuízo de
+terceiro ou do direito que algumas pessoas possam ter a elas, com declaração que as cultivará
+e mandará confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos,
+e não o fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça
+a que o conhecimento desta pertencer, dê posse ao dito José Vargas Pissarro das referidas
+terras na forma e maneira acima declaradas. E por firmeza de tudo lhe mandei passar a
+presente por mim assinada e selada com sinete de minhas armas, que se cumprirá inteiramente
+como nela se contém e se registrará nos livros da Secretaria deste governo e nas mais a que
+tocar. (não identificado) 31 de março de 1728. O secretário, José Ferreira da Fonte, a fez
+escrever. //Luís Vaía Monteiro// Selo.
+Carta de sesmaria porque Vossa Senhoria há por bem fazer mercê de dar por sesmaria a José
+de Vargas Pissarro 1 légua de terras em quadra na forma e maneira acima declarada (ilegível).
+Registrada nos Livros das Sesmarias e Provisões que serve nesta Secretaria do governo a
+folha (ilegível). Rio, 31 de março de 1728 //José Ferreira da Fonte// (ilegível).
+Eu, Severino Francisco de Macedo, a fiz escrever. Subscrevi e assinei.
+//Severino Francisco de Macedo//
+O doutor Manoel Costa Mimoso, do desembargo de Sua Majestade, que Deus guarde, seu
+desembargador da relação do Porto, ouvidor geral, corregedor da comarca nesta cidade do Rio
+de Janeiro e nas mais capitanias de sua repartição e juiz das justificações, etc. Aos que a
+
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que está subscreveu, ser a letra da subscrição deste (ilegível) sinal público e
+reto tudo da própria mão do tabelião Severino Ferreira de Macedo, o que hei por justificado e
+verdadeiro. Rio de Janeiro, 20 de Agosto de 1728 anos. Eu, Domingos Rodrigues Távora,
+escrivão, a subscrevi. //(ilegível)//
+- Fim da Transcrição -
+Observações:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+José de Vargas Pissarro uma legoa de terra em quadra, com as confrontações descriptas na
+mesma carta. Rio de Janeiro, 31 de março de 1728.
+O nome “Joseph de Vargas Pissaro” foi alterado para José de Vargas Pissarro.
+O documento encontra-se bastante ilegível. A primeira página do documento encontra-se
+totalmente apagada.
+Esta carta de concessão está disponível no AHU anexada às Petições n° 10162 e 10165, à
+Portaria n° 10164 e 10167 e à Carta de Concessão n° 10166.
+Referência:
+AHU_ACL_CU_017-01, Cx. 43, D. 10163
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

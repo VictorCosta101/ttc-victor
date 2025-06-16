@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0205
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio da Costa Araújo, Francisco Gomes Ribeiro, Manuel Gomes Ribeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-10-1743",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. ",
+  "Localidade": "Terras devolutas às adjacências do Sítio Pau Grande",
+  "Ribeira": "Paraíba",
+  "Confrontantes": "Caminho do Pau Grande para as Minas",
+  "Justificativas": "Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das Justificativas": "Os suplicantes alegaram também que requeriam terras com o fim de ampliar a propriedade dos mesmos.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0205"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0205
+Carta de concessão de sesmaria de Antônio da Costa de Araujo, Francisco Gomes Ribeiro e
+Manuel Gomes Ribeiro de 23 de outubro de 1743
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro e Minas Gerais. Faço
+saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por sua petição
+Antônio da Costa de Araujo, Francisco Gomes Ribeiro e Manoel Gomes Ribeiro, que eles
+possuíam uma roça para o caminho das Minas chamada Pau Grande (ilegível) do Rio Paraíba e
+donde-se hão já um correndo, e se achavam bastantes terras devolutas, se queriam alargar para
+melhor poderem criar gado e cultivarem de que se seguia utilidade dos dízimos de Sua Majestade
+por ser (ilegível) por se dar meia légua de terra em quadra (ilegível) do Rio Paraíba no sertão
+(ilegível) pedindo-me fosse servido conceder-lhes sesmaria (ilegível) da Fazenda Real e
+procurador da Coroa a quem se não ofereceu dúvida. Hei por bem dar de sesmaria, em nome de
+Sua Majestade, aos ditos Antônio da Costa de Araujo, Francisco Gomes Ribeiro e Manoel Gomes
+Ribeiro, a dita meia légua de terras em quadra (ilegível) expressadas, sem prejuízo de terceiro ou
+do direito que algumas pessoas tenham a elas, com declaração que a cultivará e mandará
+confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará
+mais tempo, e antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para este
+efeito notificadas as pessoas com (ilegível). A terra que baste para a serventia pública, e nesta não
+poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o encargo
+de pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se
+poderão dar a quem as denunciar, como também sendo o mesmo Senhor servido mandar fundar
+no distrito delas alguma vila o poderá fazer ficando livres, sem encargo algum ou pensão para o
+sesmeiro, e não compreenderá esta data vieiras ou minas de qualquer gênero de metal que nela se
+descobrir, reservando também os paus Reais, e faltando a qualquer das ditas cláusulas, por serem
+conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias, será privado
+desta. Pelo que mando ao ministro ou oficial de justiça a quem o conhecimento desta pertencer,
+dê posse aos ditos Antônio da Costa de Araujo, Francisco Gomes Ribeiro e Manoel Gomes
+Ribeiro das referidas terras na forma acima declarada. E por firmeza de tudo lhe mandei passar a
+presente por mim assinada e selada com o signete de minhas armas, que se cumprirá como nela
+se contém (ilegível). Dada na cidade de São Sebastião do Rio de Janeiro. João de Sousa e Melo a
+
+fez aos 23 de outubro de 1743. em 20 de outubro de 1739 anos. O secretário do governo, Antônio
+da Rocha Machado, a fez escrever. //Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a Antônio
+da Costa de Araujo, Francisco Gomes Ribeiro e Manoel Gomes Ribeiro, meia légua de terras na
+forma acima declara. Para Vossa Excelência ver.
+Registrada no Livro 8° das provisões do governo a folha 22. Rio, 24 de outubro de 1743.
+//Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Antonio da Costa de Araujo, Francisco Gomes Ribeiro e Manuel Gomes Ribeiro meia legoa de
+terras em quadra no sitio chamado Páo Grande. Rio de Janeiro, 23 de outubro de 1743.
+O manuscrito apresenta muitas falhas dificultando a transcrição.
+A “roça” do Pau Grande está localizada no atual município de Paty do Alferes- RJ.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 13425 e à Portaria n°
+13427.
+Referência
+AHU_ACL_CU_017-1, Cx. 57\Doc. 13426
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

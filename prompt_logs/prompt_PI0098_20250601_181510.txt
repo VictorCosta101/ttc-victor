@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0098
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Aires Francisco de Macedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-06-1739",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Nas margens do chamado riacho do gado",
+  "Marcos Geográficos": "Área fronteiriça entre Piauí e Ceará",
+  "Ribeira": "Caratius",
+  "Justificativas": "As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Os gados que possuía achavam-se \"espalhados por sítios arrendados de que se lhe seguia grave perda no aumento de sua criação pela falta de não ter terras próprias, em que os possa aposentar\". Por conta disso, pretendia haver terras próprias com justo título, a fim de não apenas acomodar a sua criação, como também aumentá-la.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0098"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0098
+Carta de concessão a Aires Francisco de Macedo - 09/06/1739
+Registro de uma carta de data e sesmaria de três léguas de terra de comprido e uma de
+largo da ribeira dos Caratius passada a Aires Francisco de Macedo.
+João
+de
+Abreu
+de
+Castelo
+Branco,
+do
+conselho
+de
+Sua
+Majestade, governador
+e capitão general do Estado do Maranhão, etc. Faço saber, aos que esta minha carta de data e
+sesmaria virem que o comissário geral Aires Francisco de Macedo me representou por sua
+petição que lhe possuía bastantes gados vacuns, cavalares, os quais se achavam espalhados
+por sítios arrendados de que se lhe seguia grave perda no aumento de sua criação pela falta de
+não ter terras próprias, em que os possa aposentar; e porque na ribeira dos Caratius no riacho
+chamado do gado se acham nas suas margens terras devolutas capazes de se situarem. Me
+pedia fosse servido conceder-lhe em nome de Sua Majestade por carta de data e sesmaria no
+dito riacho chamado do gado 3 léguas de terra de comprido com suas ilhargas, principiando a
+demarcação delas do curral velho para cima, por rumo direito do nascente para o poente. Ao
+que atendendo e a resposta do provedor-mor da Fazenda Real, a quem se deu vista e ser em
+utilidade da mesma Fazenda o cultivarem-se as terras neste Estado. Hei por bem conceder-lhe
+em nome de Sua Majestade 3 léguas de terra de comprido e uma de centro no sítio referido
+com as confrontações acima declaradas, com as condições expressadas nas Reais Ordens e
+com a de não fazer trespasse, por meio algum, em nenhum tempo, pessoa alguma, religião ou
+comunidade, sem que primeiro dê parte na casa da Fazenda ao provedor-mor dela para se me
+fazer presente e ver se se deve ou não consentir no tal traspasse, sob pena de ficar nula esta
+data para se poder conceder novamente a outrem. E nesta forma se lhe passa carta para que o
+dito comissário geral Aires Francisco de Macedo haja, logre e possua as ditas terras como
+coisa sua própria para ele e todos os seus herdeiros, ascendentes e descendentes, sem pensão,
+nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas houver e
+lavrar, a qual concessão lhe faço não prejudicando a terceiro nem a Sua Majestade se no dito
+sítio quiser mandar fundar alguma vila reservando os paus reais que nelas houver para
+embarcações com declaração que mandará confirmar esta data por Sua Majestade dentro de
+3 anos primeiros seguintes. E cultivará as ditas terras de maneira que deem frutos e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes,
+portos
+e pedreiras, e se demarcará ao tempo da posse por rumo de corda e braças, craveiras como é
+estilo e Sua Majestade manda. E outrossim não sucederão nelas religiões nem pessoas
+eclesiásticas por nenhum título que seja, e acontecendo possuí-las será com o encargo de
+pagarem delas dízimos a Deus como se fossem possuídas por seculares. E faltando a qualquer
+destas cláusulas se haverão as ditas terras por devolutas e se darão a quem as denunciar como
+o dito Senhor ordena. Pelo que mando ao provedor-mor, da Fazenda Real e mais ministros e
+pessoas a que tocar que na forma referida e condições expressadas deixem ter e possuir as
+ditas terras ao dito comissário geral Aires Francisco de Macedo, para ele e todos os seus
+herdeiros, ascendentes e descendente. Cumpram e guardem esta minha carta de data e
+sesmaria tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas, que se registrará onde tocar e se passou por duas vias.
+Dada nesta cidade de São Luís do Maranhão aos 9 dias do mês de junho ano do nascimento
+de nosso senhor Jesus Cristo de 1739. E eu, João de Figueiredo [Pinheiro], secretário do
+Estado a fiz escrever.
+-Fim da Transcrição-
+
+Observações do documento:
+O nome original do sesmeiro, como consta no documento, é Ayres Francisco de Macedo.
+Referências:
+APEP, Livro 9, doc. 173, fls. 115v-116.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0009
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0137",
+  "Nome": "Ana da Rocha Rangel, Gervásio Gomes de Azevedo, Maria da Rocha Rangel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "05-08-1749",
+  "Data da concessão": "05-10-1749",
+  "Observações da sesmaria": "Os suplicantes requereram terras devolutas no rio Capibaribe-mirim, afluente do rio Goiana. ",
+  "Localidade": "Rio Goiana",
+  "Marcos Geográficos": "Rio Capibaribe-Mirim, Rio Goiana",
+  "Observações da petição": "No requerimento não foi informado a quantidade de léguas requeridas, mas apenas as sobras devolutas da região solicitada. ",
+  "Justificativas": "Pretendia aumentar a povoação; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O governador requereu os pareceres da câmara de Goiana e do provedor da Fazenda Real de Itamaracá. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João Lopes Vidal",
+  "referencia": "IT0009"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0009
+Carta de doação e sesmaria de Gervásio Gomes de Azevedo, Maria da Rocha
+Rangel e Ana de Rocha Rangel -
+Carta de doação e sesmaria que se passou a Gervázio Gomes de Azevedo — Maria
+da Rocha Rangel e Ana de Rocha Rangel, no termo de Goiana.
+Luís José Correia de Sá, do Conselho de Sua Majestade, governador e capitão general
+de Pernambuco e mais capitanias anexas e etc. = Faço saber aos que esta carta de
+doação e sesmaria virem, que Gervázio Gomes de Azevedo, Maria da Rocha Rangel e
+Ana da Rocha Rangel, me fizeram o requerimento do teor seguinte — Ilustríssimo e
+Excelentíssimo Senhor - Dizem Gervázio Gomes de Azevedo, Maria da Rocha Rangel e
+Ana da Rocha Rangel, todos moradores no termo da Vila de Goiana, capitania de
+Itamaracá, que entre as terras chamadas da Maeota e Barreiras há uma porção de terras,
+que são sobras entre as ditas providas, correm a beira do rio Capibaribe mirim, de oeste
+por leste na largura e de norte a sul na extensão e comprimento, tomados os ditos rumos
+a uma quarta deles mais ou menos, segundo a arrumação e figura das ditas terras, as
+quais estão desertas e desaproveitadas e as querem povoar e cultivar os suplicantes, no
+que provem utilidade a Sua Majestade, que Deus guarde, nos dízimos que poderá lavrar
+de serem cultivadas, portanto — Pede Vossa Excelência lhes faça mercê dar ditas terras
+por sobras entre os ditos providos, pelos rumos declarados ou pelos que melhor se
+poderem arrumar, visto estarem desertas e desaproveitadas e se deverem povoar e
+cultivar pelo interesse dos dízimos. E receberá mercê — Despacho — Informe o Senado
+da Câmara da Vila de Goiana - Recife, 5 de agosto de l749 - Estava a rubrica – Resposta
+da Câmara - Ilustríssimo e Excelentíssimo Senhor – Pelo assinado das pessoas, esta
+petição dos suplicantes junto se mostra haverem obras nas terras que relatam, a vista do
+qual mandará Vossa Excelência o que for servido. Vila de Goiana, escrito em Câmara a
+20 de agosto de 1749 — Manoel de Souza Soares — Escrivão da Câmara, o escrevi —
+Manoel Coelho de Barros — Antonio Gomes Coelho — Gregorio José da Silva
+Coutinho — Despacho — Informe o provedor da Fazenda Real de Goiana, com as
+ordens de Sua Majestade. Recife, 26 de agosto de 1749 — Estava a rubrica. Informação
+do provedor — Pelo livro primeiro das ordens reais que serve nesta Provedoria, a folha
+1 capítulo 2; consta mandar Sua Majestade ao mestre de campo general do Estado do
+Brasil e aos mais mestres de campos dos terços, se repartissem as terras e ofícios da
+Fazenda e Justiça, com os soldados que servirão na guerra e ao depois de seu tempo
+
+para cá, as davam os capitães-mores com informação dos provedores, e por esta
+Provedoria se dava posse pelo escrivão da Fazenda e suas cartas de sesmarias, como
+consta do Livro do registro dela e posse, e é o que posso informar a Vossa Excelência.
+Itamaracá, 6 de setembro de 1749 — João Lopes Vidal — Documento que se acostou a
+petição acima — Nos abaixo-assinados sabemos de consciência certa que entre as terras
+de Marçal Gomes de Azevedo e de João de Oliveira, caminho no lugar das barreiras
+desta capitania, é uma sorte de terras de quarto e meio de légua, pouco mais ou menos,
+as quais até o presente estão sem dono, cujas terras são as sobras do dito Marçal Gomes
+e João de Oliveira, e sendo necessário juramos aos Santos Evangelhos ou se foramos em
+juízo, sendo necessário. Goiana, 14 de agosto de 1749 — Antonio Gomes de Azevedo
+— João da Rocha — José Gomes Landim — Francisco da Rocha da Silva — Manoel da
+Cruz Pais — Reconhecimento — Reconheço serem originais, digo os sinais supras, que
+são cinco das pessoas neles declarados, o que parto por fé e verdade — Vila de Goiana,
+20 de agosto 1749 — O tabelião — André Mendes — Despacho — Passe carta de
+sesmaria — Goiana, 4 de outubro de 1749 - Estava a rubrica do senhor general — E não
+se continha mais no dito requerimento e meu despacho nele exposto, digo, nele posto,
+em virtude do qual se passou a presente pela qual — Hei por bem na forma do Capítulo
+15 do Regimento deste Governo, dar ao suplicante em nome de Sua Majestade, a porção
+de terras que sobra entre as chamadas da Macóta e Barreiras, entre os providos e correm
+além do rio Capibaribe mirim, do oeste para leste da largura e de norte a sul na extensão,
+comprimento, tomados rumos na forma que contém em sua petição, a qual possuirão
+como sua, que fica sendo por virtude desta doação e sesmaria para eles e seus herdeiros,
+não prejudicando a terceiro, pagando o foro na forma do estilo para a Fazenda de Sua
+Majestade, com obrigação de dar livre para o Conselho estradas, fontes, calçadas e
+pedreiras; e de não passar a religiões por título algum, salvo se for com os mesmos
+encargos como aos seculares, cujas terras povoarão e cultivarão dentro no terreno, digo,
+no termo de cinco anos, pelo que ordeno aos ministros e pessoas a que tocar, lhe deem
+posse das ditas terras real e atual, civil, natural e pessoal, e pela cláusula constante de
+que se farão os termos e outros em semelhantes funções, costumados, tomando-se
+assento nas costas desta, a qual farão cumprir e guardar como nela se contém, que serão
+obrigados a requerer confirmação de Sua Majestade dentro do tempo que para isso
+dispõem as suas ordens, em firmeza do que lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, que se registrará na Secretaria deste
+Governo e Provedoria Geral —. Dada na Vila de Goiana, aos 5 dias do mês de outubro
+
+— Manoel Coelho de Souza a fez — no ano de 1749 =. Antonio José Corrêa, secretário
+do Governo, a fez escrever = Luiz José Corrêa de Sá =. A nota seguinte refere-se a
+sesmaria que se segue =.
+Não teve efeito esta sesmaria que se deu a Manoel de Souza Garcia, por haver feito
+deixação dela e constar da Provedoria.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 73 - 75.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0162
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Gabriel Soares da Mota",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "14-07-1730",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Acerca do histórico da terra, informa que o solicitante possuía \"um sítio de terras de criar gados vacuns e cavalares chamado a Conceição\", o qual sítio \"houve com os seus gados por compra que fez a Manoel Ferreira da  Silva a qual descobriu e povoou com os gados que vendeu ao suplicante que o possui na mesma forma com todas as suas fábricas, e mais pertenças defendendo-o  do gentio bravo (...)\". ",
+  "Localidade": "sítio \"chamado a Conceição junto ao rio Parnaíba da parte desta dita capitania\" [do Piauí]",
+  "Ribeira": "rio Parnaíba ",
+  "Justificativas": "Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que o suplicante \"o possui [o sítio a Conceição] na mesma forma com todas as suas fábricas, e mais pertenças defendendo-o  do gentio bravo, que infesta aquela vizinhança com repetidos insultos e mortes, e por quê na forma de direito e ordens de Sua Majestade, que Deus guarde, em semelhante maneira por possuir o suplicante os gados do dito sítio em que foi povoado pelo vendedor, e dos quais está de posse, lhe pertence a propriedade dele; portanto me pedia lhe fizesse mercê mandar passar data do dito sítio na mesma forma que o possui\".",
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor-mor da Fazenda Real, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Na carta de concessão também consta que \"faltando a qualquer destas cláusulas, e condições se haverão por devolutas e se darão a quem os denunciar\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0162"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0162
+Carta de concessão a Gabriel Soares da Mota - 14/07/1730
+Registro de uma carta de data e sesmaria passada a Gabriel Soares da Mota
+ 
+Alexandre de Sousa Freire etc. Faço saber aos que esta minha carta de data e sesmaria
+virem, que a mim me enviou a dizer por sua petição Gabriel Soares da Mota, morador
+na capitania do Piauí deste Estado do Maranhão, que está possuindo um sítio de terras
+de criar gados vacuns e cavalares chamado a Conceição junto ao rio Parnaíba
+da parte desta dita capitania cujo sítio houve com os seus gados por compra que fez a
+Manoel Ferreira da Silva a qual descobriu e povoou com os gados que vendeu
+ao suplicante que o possui na mesma forma com todas as suas fábricas, e mais pertenças
+defendendo-o do gentio bravo, que infesta aquela vizinhança com repetidos insultos e
+mortes, e por quê na forma de direito e ordens de Sua Majestade, que Deus guarde, em
+semelhante maneira por
+possuir
+o
+suplicante os
+gados
+do
+dito sítio
+em que foi
+povoado pelo vendedor, e dos quais está de posse, lhe pertence a propriedade dele;
+portanto me pedia lhe fizesse mercê mandar passar data do dito sítio na mesma
+forma que o possui, e com 3 léguas de comprido e uma de largo de sorte que o que faltar
+no comprimento, se encha na largura fazendo pião na mesma parte onde está povoado, e
+na forma do costume, e receberá mercê. E atendendo eu as razões que alegava, como
+também ao que respondeu o provedor-mor da Fazenda Real a quem se deu vista, e ser
+em utilidade da mesma Fazenda cultivarem-se as terras devolutas neste Estado. Hei por
+bem de conceder ao suplicante em nome de Sua Majestade, que Deus guarde, 3 léguas
+de terra de comprido e uma de largo na parte que pede com as confrontações nesta
+declaradas, e condições expressadas nas Reais Ordens. E com condição de não fazer
+trespasse
+por
+meio
+algum
+em
+nenhum
+tempo
+a
+pessoa
+alguma,
+religião
+ou comunidade sem que primeiro dê
+parte
+na casa da Fazenda ao provedor-mor
+dela para se me fazer presente se se deve ou não consentir no tal trespasse, sob pena de
+ficar a dita carta de data nula para se poder novamente conceder a outrem. E nesta
+forma se lhe passa carta para que as haja, logre e possua como coisa sua própria e todos
+os seus herdeiros, ascendentes e descendentes, sem pensão nem tributo algum mais
+que o dízimo a Deus, Nosso Senhor, dos frutos que nela tiver, a qual concessão lhe faço
+não prejudicando a terceiros, reservando os paus reais que nelas houver para
+embarcações
+com
+declaração que mandará
+confirmar
+esta
+carta
+por
+Sua
+Majestade dentro de 3 anos primeiros seguintes. E cultivará a dita terra de maneira dê
+frutos; e dará caminhos públicos e particulares aonde forem necessários para pontes
+fontes e pedreiras; e se demarcará ao tempo da posse por rumo de corda e braças
+craveiras como é estilo e Sua Majestade manda. E outrossim não poderão nelas suceder
+religiões por nenhum título, e acontecendo possuí-las será com o encargo de pagarem
+delas dízimos a Deus, como se fossem possuídas por seculares. E faltando a qualquer
+destas cláusulas, e condições se haverão por devolutas e se darão a quem os denunciar
+como o dito Senhor ordena. Pelo que mando ao provedor-mor da Fazenda Real mais
+ministros e pessoas a quem tocar que na forma referida, com a condições declaradas,
+deixem ter e possuir a dita terra o dito Gabriel Soares da Mota para ele e todos os seus
+herdeiros, ascendentes e descendentes como coisa própria. Cumpram e guardem
+esta minha carta de data e sesmaria tão inteiramente como nela se contém; a qual lhe
+mandei passar, por mim assinada e selada com o sinete de minhas armas que se
+registrará onde tocar, e se passou por duas vias. Dada nesta cidade de São Luís do
+Maranhão aos 14 de julho de 1730, ano do nascimento de Nosso Senhor Jesus Cristo. E
+
+eu, Lourenço Pereira de Azevedo, secretário comissário a fiz escrever. //Alexandre de
+Sousa Freire//.
+- Fim da Transcrição -
+Referência:
+APEP, Livro 5, Doc. 266, fls. 152 - 152v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

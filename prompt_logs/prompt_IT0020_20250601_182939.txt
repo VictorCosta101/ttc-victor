@@ -1,0 +1,92 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0020
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0425",
+  "Nome": "João Correa de Brito, Vitoriano Guedes Alcoforado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "Os suplicantes requereram uma sorte de terras em Itamaracá, próximo ao rio Taperubá e o rio Subauma, na estrada do caminho para a Paraíba. A sesmaria tinha por limites as terras de Felipe Cavalcante de Albuquerque, João de Souza Marreco, Manoel Leitão, Cristóvão Paulo e o engenho de  Abiaby.",
+  "Localidade": "Itamaracá",
+  "Marcos Geográficos": "Rio Taperubá, Rio Subauma, Estrada do caminho para a Paraíba",
+  "Confrontantes": "Felipe Cavalcante de Albuquerque, João de Souza Marreco, Manoel Leitão, Cristóvão Paulo e o engenho de  Abiaby.",
+  "Observações da petição": "Os suplicantes não informaram as medidas das sesmaria requerida.",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O documento é um trecho resumido do Códice 155 do Arquivo Nacional do Rio de Janeiro. O Códice contém as cópias das sesmarias presentes no arquivo da Tesouraria-geral da Provedoria-mor da Bahia. O códice foi publicado nas Publicações do Arquivo Nacional no ano de 1931. Por causa destas circunstâncias, não foi possível identificar detalhes importantes com relação a concessão, despacho e deferimento.",
+  "Observações das exigências": "\tAs condições exigidas foram aquelas estabelecidas no foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0020"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0020 
+ 
+Carta de concessão de João Correa de Brito e Vitoriano Guedes Alcoforado 
+Folha 243. Alferes João Correa de Brito e Vitoriano Guedes Alcoforado. Alvará de 27 de 
+abril de 1684. Em Itamaracá, uma sorte de terras, junto ao rio Taperubá, no caminho que 
+vai para a Paraíba, em largura e comprimento o q se achar, ficando dentro o rio Subaúma 
+entre as terras pertencentes ao capitão Felipe Cavalcante de Albuquerque, João de Sousa 
+Marreco, Manuel Leitão, Cristóvão Paulo, senhor do Engenho de Abiaby, e os mesmos 
+heréus com quem tenha de partir, assim pela parte do norte e do sul, como de leste e oeste 
+de comprimento e largura. Condições: As do Foral. Observações: Foi em 1681 concedida 
+em Itamaracá, ora confirmada. Não declara o número de léguas ou braças. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 155, fl. 243 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

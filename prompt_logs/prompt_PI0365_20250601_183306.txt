@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0365
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Freitas de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "30-03-1735",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"estava em posse do dito sítio chamado Jacaré\".\r\n",
+  "Localidade": "Sítio Jacaré",
+  "Marcos Geográficos": "Salinas, caatinga, rio Fundo",
+  "Ribeira": "Paraim",
+  "Confrontantes": "Covas de mandioca na Fazenda dos Matos, Curral das Éguas, Tapera do Pilão Arcado, Estreito da Lagoa",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Pretendia apascentar gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0365"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0365
+Carta de Concessão a Manoel Freitas de Araujo - 30/03/1735
+Agnelo Neves do Espírito Santo, chefe do Arquivo Público anexo à Biblioteca e Arquivo
+Público do Pará, por nomeação efetiva etc.
+Certifico, de ordem do senhor doutor diretor da Biblioteca e Arquivo Público do Pará e a
+requerimento verbal do senhor doutor Bernardo Borges Pires Leal, subprocurador-geral do
+Estado do Piauí, o teor da carta de data e sesmaria concedida a Manoel Freitas de Araújo em
+30 de março de 1735, e que se acha registrada às folhas 94 do livro número 7, arquivado nesta
+repartição, o qual é o seguinte:
+Registro de uma data passada a Manoel Freitas de Araújo, morador de Parnaguá
+José da Serra etc. Faço saber aos que esta minha carta de data e sesmaria virem, que assim me
+enviou a dizer, por sua petição, Manoel de Freitas de Araújo, morador na capitania do
+Parnaguá, que ele carecia de terra própria para apascentar os seus gados; e porque estava em
+posse do dito sítio chamado Jacaré, com todos os seus logradouros compreendidas nas
+extremas que lhe estão consignadas, a saber pelo rio Paraím abaixo até a tapera do Pilão
+Arcado, digo, cercado por uma e outra parte; e pelo dito rio acima, da parte da nascente,
+fazendo extrema no estreito da lagoa onde esteve antigamente uma cerca; e pela parte do
+poente no logradouro das salinas até topar na caatinga; e pela parte do Norte, pelo rio Fundo
+acima até o estreito onde esteja uma portaria; e pelo rio Fundo acima, onde faz extrema nas
+covas de mandioca, como parte da Fazenda dos Matos, entrando o canto do curral das éguas,
+que serve de extrema por se haverem devolutas. Me pedia fosse servido conceder-lhe, em
+nome de Sua Majestade, 3 léguas de terra de comprido e uma de largo, em cujo espaço se
+incluem as confrontações acima expressadas. E atendendo, eu, as razões que alegava e as que
+respondeu o provedor-mor da Fazenda Real, a quem se deu vista, e serem em utilidade da
+mesma Fazenda, cultivarem-se as terras neste estado. Hei por bem, conceder ao suplicante,
+em nome de Sua Majestade, por data e sesmaria, as 3 léguas de terra de comprido e uma de
+largo, na forma e pelo que pede, e com as confrontações que declara, e condições expressadas
+nas Reais Ordens; com a condição de não fazer trespasse por meio algum, em nenhum tempo,
+a pessoa alguma, religião ou comunidade, sem que novamente dê parte na Casa da Fazenda,
+ao provedor dela, para se me fazer presente se se deve ou não consentir no tal trespasse, sob
+pena de ficarem devolutas para se conceder novamente a outrem; e nesta forma se lhe passa
+sua carta para que as haja, logre e possua como cousa sua própria e todos os seus herdeiros,
+ascendentes e descendentes, sem pensão, nem tributo algum, mais que o dízimo a Deus,
+Nosso Senhor, dos frutos que nelas tiver; a qual concessão lhe faço não prejudicando a
+terceiro, nem a Sua Majestade, se na dita paragem quiser mandar fundar alguma vila,
+reservando os paus reais para embarcações; com declaração que mandará confirmar esta carta,
+por Sua Majestade dentro de 3 anos primeiros seguintes e cultivará as ditas terras de maneira
+que deem frutos; e dará caminhos públicos e particulares, aonde forem necessários, para
+pontes, fontes, portos e pedreiras; e se demarcará ao tempo da posse por rumo de corda e
+braças craveiras, como é estilo e Sua Majestade manda; e outrossim, não poderão nelas
+suceder religiões, por nenhum título e, acontecendo possuí-las, será com o encargo de
+pagarem delas dízimos a Deus, como se fossem possuídas por seculares; e faltando a qualquer
+cláusulas dessas, se haverão por devolutas as ditas terras e se darão a quem as denunciar,
+como o dito Senhor ordena. Pelo que mando ao provedor-mor da Fazenda e mais ministros e
+pessoas a que tocar, que na forma referida e com as condições expressadas, deixem ter e
+possuir as ditas terras ao dito Manuel de Freitas de Araújo, para ele e todos os seus herdeiros,
+
+ascendentes e descendentes. Cumpram e guardem esta minha carta tão inteiramente como nela
+se contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas armas,
+que se registrará onde tocar e se passou por duas vias. Dada nesta cidade de Belém do
+Grão-Pará, aos 30 de março, ano do nascimento de Nosso Senhor Jesus Cristo, de 1735.
+Antônio da Rocha Machado, a fez escrever. José da Serra.
+É o que se continha no referido registro, que aqui fielmente transcrevi. Eu, Dário Cordeiro
+Jassé, terceiro oficial da Biblioteca e Arquivo Público do Pará, a escrevi. E eu, Agnelo Neves
+do Espírito Santo, chefe do arquivo Público do Estado, a fiz escrever, certifico e assino.
+Belém, 2 de agosto de 1929 // Agnelo Neves do Espírito Santo // e/e por mim. 29/8/1929 // A.
+N. E. Santo // visto // Martinho Pinto //
+- fim da transcrição –
+Referência:
+APEP, Livro 7, doc. 131, fls. 94 – 94v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

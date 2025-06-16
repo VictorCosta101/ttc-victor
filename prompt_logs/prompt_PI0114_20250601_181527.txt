@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0114
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Gomes Leite",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "14-07-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Acerca do histórico da terra a carta de concessão informa que o solicitante \"tem povoado um sítio chamado a Barra da Parahim, cujo sítio foi primeiro povoado pelo capitão-mor Manoel Alvares de Sousa, o qual o despovoou aos seus sucessores pela inconveniência do gentio brabo, por cuja causa e pelo achar devoluto o povoou o suplicante\".  \r\n",
+  "Localidade": "\"sítio chamado a Barra da Parahim\"; \"Ribeira do Gurguéia\". ",
+  "Ribeira": "\"Ribeira do Gurguéia\"; \"Riacho do Parahim\"",
+  "Justificativas": "Alegou possuir curral; As terras eram devolutas; As terras eram habitadas pelo gentio; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que o sítio \"foi primeiro povoado pelo capitão-mor Manoel Alvares de Sousa, o qual o despovoou aos seus sucessores pela inconveniência do gentio brabo, por cuja causa e pelo achar devoluto o povoou o suplicante com gados seus próprios, e mais fábricas necessárias. Levantando nele currais para sua conservação e fazendo despesa a sua custa para o defender do gentio bárbaro que naquelas partes continuam suas hostilidades\".",
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor da Fazenda Real, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Na carta de concessão também consta que \"faltando a qualquer destas cláusulas, se haverão por  devolutas, e se darão a quem as denunciar\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0114"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0114
+Carta de concessão a Antonio Gomes Leite - 14/07/1728
+Registro de uma carta de data e sesmaria concedida a Antonio Gomes Leite, de 3
+léguas de terra de comprido e meia de largura, na parte que na dita carta se
+declara.
+ 
+Alexandre de Sousa Freire, do conselho de Sua Majestade, governador e capitão-geral
+do Estado do Maranhão, etc. Faço saber, aos que esta minha carta de data e sesmaria,
+virem que a mim me enviou a dizer, por sua petição, Antonio Gomes Leite, morador na
+Ribeira da [Gurguéia], termo da capitania do Piauí, deste Estado do Maranhão, que ele
+tem povoado um sítio chamado a Barra da Parahim, cujo sítio foi primeiro povoado
+pelo capitão-mor Manoel Alvares de Sousa, o qual o despovoou aos seus sucessores
+pela inconveniência do gentio brabo, por cuja causa e pelo achar devoluto o povoou o
+suplicante com gados seus próprios, e mais fábricas necessárias. Levantando nele
+currais para sua conservação e fazendo despesa a sua custa para o defender do gentio
+bárbaro que naquelas partes continuam suas hostilidades. E porque o dito suplicante o
+tem povoado na forma sobredita fazendo pião, na barra a que hoje chamão Jatubá,
+correndo pelo Parahim acima e abaixo três léguas de comprido, e meia de largura de
+uma e outra parte do dito Riacho do Parahim. E quer haver de data do dito sítio e seu
+título me pedia fosse servido conceder-lhe a dita carta de sesmaria, na forma requerida e
+ordens de Sua Majestade, ressalvando caatingas e terras inúteis e receberia mercê. E
+atendendo às razões que alegava, como também ao que respondeu o provedor da
+Fazenda Real a quem se deu vista e ser em utilidade da Real Fazenda cultivarem-se as
+terras
+neste
+Estado.
+Hei,
+por
+bem,
+de
+conceder
+ao suplicante, em
+nome
+de
+Sua Majestade, 3 léguas de terra de comprido e meia de largura, na forma que me pedia
+em sua petição com as confrontações nela declaradas e condições expressadas nas Reais
+Ordens. Nesta forma se lhe passe carta para que haja, logre e possua, como coisa
+própria e todos seus herdeiros, ascendentes e descendentes, sem pensão nem tributo
+algum mais que o dízimo a Deus, Nosso Senhor, dos frutos que nela tiver, a qual
+concessão lhe faço não prejudicando a terceiro, reservando os paus reais que nelas
+houver para embarcações, com declaração que mandará confirmar esta carta, por Sua
+Majestade, dentro dos 3 anos primeiros seguintes. E cultivará as ditas terras de
+maneira que dê
+frutos;
+e
+dará
+caminhos
+públicos
+e
+particulares
+aonde
+forem
+necessárias para pontes, fontes, portos e pedreiras. E se demarcará, ao tempo de
+posse, por rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E,
+outrossim, não poderão nelas suceder religiões por nenhum título; e, acontecendo,
+possuí-las será com encargo de pagarem delas dízimos a Deus, como se fossem
+possuídas por seculares; e, faltando a qualquer destas cláusulas, se haverão por
+devolutas, e se darão a quem as denunciar, como o dito senhor ordena. Pelo que mando
+ao provedor-mor da Fazenda Real, e os mais ministros e pessoas a quem tocar, que, na
+forma referida, e com as condições declaradas, deixem ter e possuir as ditas terras ao
+dito Antonio Gomes Leite, para ele e todos seus herdeiros, ascendentes e descendentes
+como coisa própria. Cumpram e guardem esta carta tão inteiramente como nela se
+contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas
+armas, e se registrará onde tocar e se passou por duas vias. Dada nesta cidade de São
+Luís do Maranhão, aos 14 dias do mês de julho do ano do nascimento de nosso senhor
+Jesus Cristo de 1728. E eu, João Antônio Freire, secretário do Estado, a fiz escrever. //
+Alexandre de Sousa Freire. //
+
+- Fim da Transcrição -
+Referência:
+APEP, Livro 5, doc. 26, fls. 13 - 13v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

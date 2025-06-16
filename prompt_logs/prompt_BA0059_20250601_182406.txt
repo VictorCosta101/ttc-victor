@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0059
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Sousa Tavares, Luís Gonçalves Peniche",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-02-1674",
+  "Observações da sesmaria": "A sesmaria possuía quatro léguas em quadra, localizada no rio Jiquiriçá, fazendo fronteira com as terras de Dona Francisca de Sande de leste a oeste, e ao sul com as terras de André Ferreira de Alcamine.",
+  "Localidade": "Rio Jiquiriça",
+  "Marcos Geográficos": "Rio Jiquiriça",
+  "Confrontantes": "Dona Francisca de Sande; André Ferreira de Alcamine.",
+  "Observações da petição": "Os suplicantes solicitaram quatro léguas em quadra para cada um. ",
+  "Justificativas": "Não tinha terras; As terras eram devolutas; Serviu a Sua Majestade; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que deveriam ser concedidas cinco léguas quadradas para ambos. O provedor da Fazenda afirmou que os suplicantes possuíam cabedal e que por isso poderiam ser concedidas duas léguas e meia em quadra para cada um deles. O governador-geral decidiu doar quatro léguas em quadra para os dois.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0059"
+}
+
+            **Conteúdo Original** (extrato):
+            Registro de um Alvará de doação e sesmaria de 4 léguas de terra em quadra concedidas a Luiz 
+Gonçalves Peniche em Jaguaripe 
+ 
+Afonso Furtado de Castro do Rio de Mendonça do Conselho de Guerra. Faço saber aos que este 
+alvará de doação e sesmaria virem que Luiz Gonçalves Peniche, morador no rio de Jaguaripe, 
+me representou por sua petição cujo teor é o seguinte. Luiz Gonçalves Peniche, morador no rio 
+de Jaguaripe, freguesia de Nossa Senhora da Ajuda, termo desta cidade, e o alferes João de 
+Souza Tavares, morador na freguesia, que ele tem servido a Sua Alteza alguns anos, assim em 
+praça de soldado em África como na Beira, e no presídio desta praça de alferes vivo, que 
+atualmente está exercendo em uma das companhias dos terços dela que eles suplicantes nunca 
+tiveram terras de sesmaria, e de presente estão algumas devolutas das conquistadas do gentio 
+bárbaro para a parte do rio de Jiquiriça em Jaguaribe da parte do sul, leste, oeste, com terras de 
+Dona Francisca de Sande, e correndo para o sul com a data de André Ferreira de Alcamine, e 
+porquanto eles suplicantes tem cabedal para logo povoarem. Pede a Vossa Senhoria lhe faça 
+mercê conceder de sesmaria, em nome de Sua Alteza, 4 léguas de terra em quadra para cada um 
+dos suplicantes com as confrontações que relatam em sua petição, começando a medir de onde 
+acabam as datas de Dona Francisca de Sande e André Ferreira de Almine, servindo-lhe qualquer 
+rio de pião, onde melhor lhe acomodar. E receberá mercê. E visto a resposta do procurador da 
+Coroa e Fazenda Real deste Estado, cujo teor é o seguinte. Bem se podem conceder aos 
+suplicantes 5 léguas de terra de sesmaria para ambos, na forma que pedem, obrigando-se a 
+povoá-las e cultivá-las no termo da lei. Bahia, 08 de fevereiro de 1674 // Rocha // E a informação 
+do provedor-mor da Fazenda Real do mesmo Estado, que também é a que se segue. Senhor, os 
+suplicantes são pessoas afazendadas, e podem povoar algumas terras, e assim me parece que se 
+lhe podem conceder duas léguas e meia de terra em quadra a cada um com as obrigações do 
+regimento e foral, não sendo em prejuízo de terceiro. Vossa Senhoria mandará o que for servido. 
+Bahia, 10 de fevereiro de 1674 // Antônio Lopes de Ulhôa // Hei por bem de lhe dar, como pelo 
+presente faço, de sesmaria em nome de Sua Alteza ao dito Luiz Gonçalves Peniche, 4 léguas de 
+terra em quadra na parte que pede e confronta em sua petição, com declaração que será obrigado 
+a povoá-las no termo da lei, pois nesta conformidade lhe as concedo, não prejudicando a 
+terceiro, nem as terras que se determinou tivessem as povoações que de novo se fizessem para 
+se darem a seus povoadores, com todas suas águas, campos, matas, testadas, logradouros e mais 
+úteis que nelas se acharem, tudo forro, livre e isento de pensão ou tributo algum, salvo dízimo 
+a Deus que pagará dos frutos que nelas houver, e por elas será obrigado a dar caminhos livres 
+ao conselho para fontes, pontes e pedreiras. Pelo que ordeno e mando a todos os ministros a 
+que o conhecimento deste com direito deva ou possa pertencer, lhe façam a posse real, efetiva 
+e atual na forma costumada debaixo das cláusulas acima referidas, e as mais da Ordenação, 
+título Das Sesmarias. Para firmeza do que lhe mandei passar o presente, sob meu sinal e selo 
+de minhas armas, a qual se registrará nos Livros da Secretaria do Estado e nos mais a que tocar, 
+e se guardará e cumprirá tão pontual e inteiramente, sem dúvida, embargo nem contradição 
+alguma. Manuel Ferreira das Neves o fez nesta Cidade do Salvador, Bahia de Todos os Santos, 
+aos 11 dias do mês de fevereiro, ano de 1674. Bernardo Vieira Ravasco o fiz escrever // Afonso 
+Furtado de Castro do Rio de Mendonça // Registrado no Livro Segundo dos Registros da 
+Secretaria do Estado do Brasil, a que tocar à folhas 13. Bahia, 11 de fevereiro de 1674 // Ravasco 
+// Despacho do provedor-mor. Registre-se nos livros desta provedoria-mor como Sua Alteza 
+manda. Bahia, 26 de novembro de 1678 // de Ulhoa // Registrou-se ao dito dia do despacho do 
+provedor-mor e se entregou à parte // João Dias da Costa. 
+ 
+- Fim da transcrição - 
+Observações do documento: 
+ 
+
+- O nome original dos sesmeiros é Luiz Gonçalves Peniche e João de Souza Tavares; 
+- Tal carta não está contida na SILB; 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 142 – 143 
+Numeração original no livro: 109 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

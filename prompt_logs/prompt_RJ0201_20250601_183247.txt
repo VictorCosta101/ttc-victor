@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0201
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Dias Ferreira, Marcos de Azevedo Rangel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-02-1737",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio Paraíba",
+  "Ribeira": "Paraíba",
+  "Confrontantes": "Terras de Jerônimo Pereira e terras do padre Manuel Antunes Santiago",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda dos suplicantes a obrigação de \"fazer os caminhos de sua testada fazendo pontes estivas onde necessário for, e descobrindo-se nelas rio caudaloso que necessite de barca para atravessar, ficará reservado uma das margens dele meia légua ao menos para ficar em público\"",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0201"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0201
+Carta de concessão de sesmaria de Antônio Dias Ferreira e Marcos Azevedo Rangel de 20 de
+fevereiro de 1737
+Gomes Freire de Andrade, do conselho de Sua Majestade, governador e capitão-general das
+capitanias do Rio de Janeiro e Minas Gerais. Faço saber aos que esta minha carta de sesmaria
+virem que atendendo a representar-me por sua petição Antônio Dias Ferreira e seu genro Marcos
+de Azevedo Rangel, moradores na vila de São Salvador dos Campos dos Goitacazes, que eles tem
+notícia que se acham muitas terras devolutas pelo Rio Paraíba acima, da banda do norte aonde
+acaba a data de Jeronimo Pereira, que desempatam as do padre Manuel Antunes Santiago,
+pedindo-me que lhes mandasse dar de sesmaria, em nome de Sua Majestade, uma légua em
+quadra das ditas terras devolutas principiando aonde acaba o dito patrimônio, por se acharem com
+bastantes escravos para as cultivarem e em utilidade dos dízimos reais, e dando-se vista deste
+requerimento ao provedor da Fazenda Real e o procurador da Coroa desta, não se ofereceu
+dúvida. Hei por bem fazer mercê, em nome de Sua Majestade, de dar por sesmaria ao dito
+Antônio Dias Ferreira e ao seu genro Marcos de Azevedo Rangel uma légua em quadra das ditas
+terras na forma das ordens do mesmo Senhor e com as confrontações no seu requerimento acima
+expressadas, sem prejuizo de terceiro ou do direito que algumas pessoas possam ter a elas, com
+declaração que as cultivarão e mandarão confirmar esta minha carta por Sua Majestade dentro de
+dois anos, e não o fazendo se lhe denegará mais tempo e antes (ilegível) judicialmente, sendo
+para esse efeito notificadas as pessoas com quem confrontarem, e serão obrigados a fazer os
+caminhos de sua testada fazendo pontes estivas onde necessário for, e descobrindo-se nelas rio
+caudaloso que necessite de barca para atravessar, ficará reservado uma das margens dele meia
+légua ao menos para ficar em público, e nas ditas terras não poderá suceder em tempo algum
+pessoa eclesiástica ou religião, e sucedendo será com o encargo de pagar dízimos ou outro
+qualquer que Sua Majestade for servido impor-lhe, e não as pagando se poderá dar a quem as
+denunciar, como também sendo o mesmo Senhor servido mandar fundar no distrito destas terras
+alguma vila o poderá fazer ficando então livre, sem encargo algum ou pensão para o sesmeiro, e
+não compreenderá está data vieiras ou minas de qualquer gênero de metal que nas ditas terras se
+descobrir, reservando também os paus Reais, e faltando qualquer das ditas cláusulas, por serem
+conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias, ficarão
+privados delas. Pelo que mando ao ministro ou oficial de justiça, a quem o conhecimento desta
+
+pertencer, dê posse ao dito Antônio Dias Ferreira e o seu genro Marcos de Azevedo Rangel das
+referidas terras na forma acima declarada. E por firmeza de tudo lhe mandei passar a presente por
+mim assinada e selada com o signete de minhas armas, que se cumprirá inteiramente como nela
+se contém e se registrará nos livros da secretaria deste Governo e nos da Fazenda Real dentro do
+tempo declarado. No regimento debaixo da pena nele cominada e nos mais tocar. Dada nesta
+cidade de São Sebastião do Rio de Janeiro. Pedro Fagundes Varela a fez aos 20 dias do mês de
+fevereiro de 1737. //O secretário, José Ferreira da Fonte, a fez escrever// //Gomes Freire de
+Andrade//
+(Ilegível) Vossa Excelência há por bem dar de sesmaria, em nome de sua Majestade, uma légua
+de terras em quadra nos Campos dos Goitacazes a Antônio Dias Ferreira e seu genro Marcos de
+Azevedo Rangel, como nele se declara. Para Vossa Excelência ver.
+Registrada no Livro (ilegível) que serve nesta secretaria do governo de registro das sesmarias e
+provisões a folha 181. Rio, 2 de março de 1737. //José Ferreira da Fonte//
+Cumpra-se. Rio, 1° de abril de 1737.
+Registrada no Livro 1° que serve neste Cartório de registro das sesmarias a folha 22. Rio de
+Janeiro, 3 de abril de 1737. //Francisco Xavier da Silva//
+Registrada no Livro atual dos registros deste Senado a folha 97. São Salvador, 17 de agosto de
+1738. //José Cardoso Ferreira//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Antonio Dias Ferreira e a seu genro, Marcos de Azevedo Rangel, uma legoa, em quadra, de terras
+nos Campos dos Goitacazes. Rio de Janeiro, 20 de fevereiro de 1737.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 10452 e à Portaria n°
+10454.
+Referência:
+AHU_ACL_CU_017-1, Cx. 44\Doc. 10453
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

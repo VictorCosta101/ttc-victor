@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0008
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Belchior da Cunha Vilela",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-10-1672",
+  "Observações da sesmaria": "O suplicante requereu duas léguas e meia de largura nos caminhos do Sueiro em direção ao rio Paraguaçu e afirmou que aquela terra estava devoluta há muitos anos.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Observações da petição": "O sesmeiro pediu duas léguas de largura ao longo do rio Paraguaçu, mas não especificou o comprimento. O provedor, no entanto, apenas concedeu uma légua.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era morador(a) da Capitania; Não tinha terras; Pretendia cultivar; Pretendia lavrar; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou possuir casa e família para sustentar e, por isso, requereu a concessão da sesmaria",
+  "Observações do deferimento e da concessão": "O requerente solicitou duas léguas de largura e não especificou o comprimento, no entanto, o provedor concedeu uma légua de área total, sem confirmar as duas léguas solicitadas. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "Nome do procurador": "Pedro da Rocha de Gouveia",
+  "referencia": "BA0008"
+}
+
+            **Conteúdo Original** (extrato):
+            BA  
+ 
+Alvará de doação de Belchior da Cunha Vilela de 15/10/1672 
+ 
+Registro de uma sesmaria de uma légua de terra que se dá a Belchior da Cunha Vilela.  
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faz saber aos que este alvará de doação e 
+sesmaria virem que, Belchior da Cunha Vilela, mencionou apresentar a petição, cujo teor é o 
+seguinte: senhor, diz Belchior da Cunha vilela, que no Rio da Cachoeira, por cima de Paraguaçu 
+da banda do Sul, partindo com as terras que foram de Antônio Sousa, pelo rio acima da banda 
+do Aporá, está uma sorte de terra de matas, a qual está devoluta e não possuída de pessoa 
+alguma, e porque o suplicante é morador nesta capitania há muitos anos, e tem nela sua casa  
+família e tem para poder lavrar e cultivar a dita terra, e tem servido a Sua Alteza com seu 
+cabedal, e até agora não tem data alguma de terra em que viva, e poderá ser duas léguas e meia 
+dos campinhos do Sueiro para o rio de Paraguaçu de largura. Pede a Vossa Senhoria, lhe faça 
+mercê dar de sesmaria a dita sorte de terra acima confrontada pelo rio de Paraguaçu acima que 
+estiver devoluta da banda do Sul com toda sua largura comprimento, para lavrar e cultivar nela. 
+E receberá mercê. Vista a informação que sobre esta parte o faz, me fez o provedor-mor da 
+Fazenda Real deste Estado, que é a que se segue. Senhor, parece-me que se pode conceder ao 
+suplicante uma légua de terra na parte aonde declara nesta petição pelo rio Paraguaçu acima, 
+confrontada com o mesmo rio da banda do Sul, na forma das ordenações e foral de Sua Alteza, 
+não prejudicando a terceiro, Vossa Senhoria mandará o que for servido. Bahia, 14 de outubro 
+de 1672. Antônio Lopes de Ulhoa// E por bem lhe faço mercê, em nome de Sua Alteza , das de 
+sesmaria a dita légua de terra que, parece ao provedor-mor da Fazenda assim e da maneira que 
+pede e confronta em sua petição, não prejudicando a terceiro, com todas suas águas, campos, 
+matas, testadas, logradores e mais úteis que nelas se acharem, todo forro livre e isento de 
+pensão, ou tributo algum, salvo o dizimo a Deus, que pagará dos frutos que nelas houver, e por 
+elas será obrigado a dar caminhos livres ao conselho para fontes, pontes e pedreiras, pelo que 
+ordeno e mando a todos os ministros e justiças aqui e conhecimento desta com direito deva, ou 
+possa pertencer, lhe mandei dar a posse real efetiva e atual, na forma costumada debaixo das 
+cláusulas acima deferidas, e as mais da ordenação de título das sesmarias para firmeza do que 
+lhe mandei passar, a presente sob meu sinal e selo de minhas armas, o qual se registrará nos 
+livros da secretaria do Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual e 
+inteiramente como nele se contém, sem dúvida embargo, nem contradição alguma. José 
+Cardoso Pereira a fiz nesta cidade de Salvador, Bahia de Todos os Santos, em 15 dias do mês 
+de outubro, ano de 1662. Desta petição houve também vista, o procurador da coroa e Fazenda 
+deste Estado, com cujo parecer a seu favor, informou o provedor-mor dela. Bernardo Vieira 
+Ravasco o fez escrever. Afonso Furtado de Castro do Rio de Mendonça// Registrado no segundo 
+livro dos registros da secretaria do Estado do Brasil, a que toca folhas 143, versos. Bahia, 17 de 
+outubro de 1672. Ravasco // A folha 121 de meu livro das ditas sesmarias, fica lançada esta por 
+mim, escrivão delas, e incorporado o capítulo do regimento do príncipe, Nosso Senhor. Bahia, 
+24 de outubro de 1672. Sebastião de Torres // Registre-se nos livros da Fazenda Real a que toca. 
+Bahia, novembro de 1672. De Ulhoa // Registrou-se no mesmo dia e se entregou ao que fez riba 
+porteiro da relação deste Estado que a apresentou. Miguel Pinto de Freitas// 
+ 
+- Fim da transcrição -  
+Observações: 
+O nome do sesmeiro, tal qual consta no documento original é: Belchior da Cunha Villela 
+
+ 
+Referência: 
+ 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 1, fls. 10v- 11v. 
+Numeração original no livro: 09 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

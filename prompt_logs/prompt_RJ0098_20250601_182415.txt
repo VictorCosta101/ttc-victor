@@ -1,0 +1,97 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0098
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Gonçalo Fernandes (RJ 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-03-1595",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Nas cabeceiras dos chãos de Zacarias Frielas e Silvestre Francisco",
+  "Confrontantes": "Entre João Conde e Jaques Motete",
+  "Justificativas": "Alegou não ter casa própria; Não tinha terras; As terras eram devolutas; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que era pobre e que também tinha filhas para casar e filhos que amparar.",
+  "Observações do deferimento e da concessão": "O suplicante solicitou 30 braças em quadra, porém o Rei só lhe concedeu 15.",
+  "Observações das exigências": "Esta sesmaria está parcialmente completa, pois as folhas referentes às exigências encontram-se ausentes.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0098"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0098
+Carta de concessão de sesmaria da terra de Gonçalo Fernandes de 8 de março de 1595
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1595 anos, em os 8 dias do mês de março do dito ano, em esta
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, em as pousadas de mim
+escrivão adiante nomeado, apareceu Gonçalo Fernandes, morador nesta dita cidade, e me
+apresentou uma petição com um despacho em ela do Senhor Salvador Correia de Sá, capitão e
+governador desta dita cidade e capitania e governança deste dito Rio de Janeiro, por El Rei
+nosso Senhor. Da qual petição e despacho dela o traslado é o seguinte: diz Gonçalo
+Fernandes, morador nesta cidade de São Sebastião, que ele é pobre, tem filhas para casar e
+filhos que amparar, e não tem chãos em que possa fazer casas em que more, pede a Vossa
+Senhoria que lhe faça mercê de dar, em nome de El Rei nosso Senhor, 30 braças de chãos em
+quadra nas cabeceiras dos chãos de Zacarias Frielas e Silvestre Francisco, entre Jaques Motete
+e João Conde, as ditas 30 braças em quadra, no que receberá mercê. Despacho do Senhor
+capitão e governador: dou ao suplicante onde diz 15 braças, como pede em sua petição.
+Salvador Correia de Sá. E tudo visto pelo dito Senhor capitão e governador a petição do dito
+suplicante Gonçalo Fernandes e o que pedia, visto ser justo, havendo respeito ao proveito que
+se pode seguir acerca da República, ao serviço de Deus, de El Rei nosso Senhor e por a terra
+se povoar, deu ao dito suplicante as ditas 15 braças de chão e, conforme ao dito seu despacho,
+porquanto dizia que estava vago e devo [. . . . . . .] (faltam as folhas com o final desta
+sesmaria).//
+-fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria do chão para casas d Gonçalo Fernandes que está na
+cabeceira dos chãos de Zacarias Frielas
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg. 96-97.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg. 96-97.
+Códice 778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

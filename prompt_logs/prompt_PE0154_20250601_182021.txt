@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0154
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0267",
+  "Nome": "Manuel de Barros Acioli, Maria Acioli Lins",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-12-1822",
+  "Observações da sesmaria": "Os suplicantes requereram meia légua de comprimento e meia légua de largura para cada um na freguesia do Rio Preto, termo da vila de Sirinháem. As terras requeridas tinham por limites o rio Panelas até o rio Pirangi. ",
+  "Localidade": "Vila de Sirinháem",
+  "Marcos Geográficos": "Freguesia do Rio Preto, Rio Panelas, Rio Pirangi",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da capitania de Pernambuco, composta por: Afonso de Albuquerque Maranhão, presidente, Jose Mariano de Albuquerque Cavalcante, secretario, Francisco Paes Barreto e Manuel Inacio Bezerra de Melo.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de 3 mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0154"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0154
+Carta de doação e sesmaria de Maria Achiolis Lins e Manuel de Barros Achioles -
+11/12/1822
+Dona Maria Achiolis Lins, e Manoel de Barros Achioles meia légua de terra de
+frente, com uma légua de fundo na freguesia do rio Preto, termo de serinhaem.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que Dona
+Maria Achiolis Lins no dirigiu o requerimento do teor seguinte = Ilustríssimos e
+excelentíssimos senhores diz dona Maria Achiolis Lins, viúva de Gonçalo Francisco
+Achiolis, que tendo o defundo seu marido, levado uma sesmaria ao ponto de lhe ser
+concedida a carta, como mostra pelos documentos juntos, a qual estava nas
+circunstâncias de demarcar, como se vê dos últimos despachos, mas como Sua
+Majestade ilustre tem julgado improcedentes as sesmarias demarcadas antes da
+concessão da carta, é por isso que peço a Vossas Excelências se dignem mandar passar
+para ao depois proceder a medição e demarcação, como é de lei = E receberá mercê = E
+principiando nós a rever e examinar os ditos documentos encontramos o requerimento
+primário dirigido pelo defunto marido da suplicante ao ex-governador desta província
+Caetano Pinto de Miranda Montenegro, o qual é do teor seguinte = Ilustríssimo e
+excelentíssimo senhor = Diz Gonçalo Francisco Achiolis, morador no seu engenho de
+Piabas, freguesia de Uma, que ele pretende tirar por sesmaria uma légua de terra, que se
+acha devoluta e desaproveitada no termo da freguesia novo do rio Preto, começando da
+barra do rio Panelas, pelo rio Pirangi acima, até se inteirar a dita légua em cujas terras
+não há pau brasil, e nem madeiras de construção, e apenas umas capoeiras de matas
+antigas destruídas, que só servem para plantações de algodão, ou pastos de gados, para
+cujo mister as quer aplicar o suplicante em aumento do patrimônio régio, e do bem
+público, e assim requer a Vossa Excelência para que se digne mandar proceder as
+diligências devidas para se lhe conceder a dita sesmaria, e quando não seja por toda a
+extensão da légua pedida, ao menos pelo que na verdade se achar, por título. Pede a
+Vossa Excelência que seja servido deferir-lhe como requer. E receberá mercê = e neste
+requerimento um despacho do dito ex-governador em data de 2 de julho de 1816,
+mandando informar o doutor desembargador juiz conservador das matas: e passando a
+examinar a sua informação, não achamos que nela se encontrasse algum obstáculo a
+referida data; o que vendo então o mesmo ex-governador, mandou por despacho de 11
+
+de novembro do mesmo ano, que a câmara respectiva mandasse afixar os editais do
+estilo por tempo de 30 dias, para se saber se havia terceiro prejudicado, e informasse
+com certidão do oficial, que os houvesse afixados ao que satisfazendo a câmara da vila
+de Serinhaem, informou em ofício do 1º de março de 1817, não haver oposição de
+terceiro prejudicado; o que tendo sido tudo apresentado ao ex-governador Luís do Rego
+Barreto, mandou por despachos de 26 de maio, e 16 de junho de 1818, informar o
+procurador da Coroa, e o escrivão deputado da junta da fazenda, que tão bem lhe não
+puseram impedimento; o que sendo pelo dito ex-governador visto, em 8 de julho do
+mesmo ano, lhe deu o despacho do teor seguinte = o suplicante deve requerer a câmara
+respectiva que lhe nomeie juiz e piloto para a demarcação da sesmaria, e com eles
+poderá medir meia légua de terra quadrada no lugar declarado, para com a demarcação e
+confrontações necessárias se lhe mandar passar a carta de sesmaria = mas antes de
+satisfazer a este despacho lhe dirigiu o suplicante outro requerimento na forma seguinte
+= Ilustríssimo e excelentíssimo senhor = Diz o capitão Gonçalo Francisco Achiolli, que
+obtendo de Vossa Excelência o despacho junto para efeito de medir se meia légua de
+terra, que pretende o suplicante por sesmaria houve por bem Vossa Excelência de
+mandar que se medisse a dita meia légua em quadra, e sendo assim, vem medir-se um
+quarto de légua, em proporção de uma légua quadrada, como lhe advertiu o piloto
+nomeado, e ficará o suplicante prejudicado, por que no caso de se lhe conceder a dita
+sesmaria, vem a pagar o foro de meia légua por um quarto, e por isso suplica a Vossa
+Excelência, se digne mandar que se meça dita meia légua, sobre uma légua de fundo,
+por que desse modo ficará o suplicante com a metade da légua quadrada, ficando a outra
+metade para Manuel de Barros Achioli, que alcançou de Vossa Excelência despacho
+para lhe ser medida = Pede a Vossa Excelência seja servido deferir-lhe na forma
+requerida = E receberá mercê = e ajuntou a este requerimento os papeis do pedido do
+dito Manoel de Barros Achioli sujeitando-os a esta data, sobre o qual o referido
+ex-governador proferiu o seguinte - despacho em 5 de dezembro de 1819 = Quando
+tiver principiado a medição, requeira = O que sendo nos apresentado com o
+requerimento do suplicante, assim como outros requerimentos e despachos, todos
+relativos a medição e demarcação, os quais por isso que Sua Majestade ilustre tem
+julgado improcedentes as datas de sesmarias demarcadas antes da comissão de carta,
+nada interessam para este fim, e sendo tudo por nós examinado, e tendo o achado
+conforme, por despacho de 11 do corrente mandamos passar a presente carta: e portanto,
+pela faculdade, que nos é concedida no capitulo 15 do regimento deste governo,
+
+havemos por bem dar em nome de Sua Majestade ilustre aos ditos dona Maria Achioli
+Lins, e Manuel de Barros Achiolis meia légua de frente sobre uma légua de fundo das
+ditas terras na freguesia do rio Pirangi acima até se inteirar a dirá medição, e
+demarcação na forma referida, pagando o foro anual de 3 mil reis em observância da
+Real Ordem de 28 de setembro de 1700 de que deram fiança na contadoria da junta da
+fazenda publica a folha 66 do livro 7º delas, a qual sesmaria possuirão e gozarão eles,
+suplicantes, e seus herdeiros ascendentes e descendentes, e como sua, que fica sendo de
+hoje para todo o sempre, com todas as matas, campos, rios, águas, fazendas,
+logradouros e mais úteis que nelas se compreenderem, não prejudicando a terceiro, e
+não passará a religiões, e pessoas eclesiásticas, salvo sendo com os mesmos encargos,
+com que as possuem os seculares, e nunca se dividirá em porções, nem se partirá, senão
+por estimação, andando encabeçada em uma só pessoa na forma da ordenação do livro
+4º título 96§23; e assim não passará a herdeiros, ou quaisquer outras pessoas, sem
+consentimento da junta da fazenda pública para nela se darem novas fianças, e se
+fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as
+estradas, rios, fontes e pedreiras, e reservadas ao patrimônio público as madeiras de
+construção, pau brasil, e viveiros de quaisquer metais: e serão obrigados a requerer
+dentro de 3 anos confirmação, e demarcação, povoá-la, e cultivá-la na forma da Ordem
+Régia de 20 de outubro de 1753, e alvará de 25 de janeiro de 1809, e não o cumprindo
+assim, se haverão por devolutas, e novamente se conferirão a quem as requerer. Pelo
+que ordenamos aos ministros da fazenda, e justiça, e mais pessoas, a quem tocar.
+Cumpram e façam cumprir e guardar esta carta de data de sesmaria, como nela se
+contém, fazendo das aos suplicantes posse real, efetiva, e atual na forma da ordenação,
+título das sesmarias. Em firmeza do referido lhe mandamos passar a presente, sendo por
+nós assinada, e selada com o sineta nacional, a qual se registrará na secretaria deste
+governo, na da junta da fazenda pública, e aonde mais tocar. Manuel dos Passos e
+Figueiros, oficial maior da secretaria, a fez em o Recife de Pernambuco, aos 23 de
+dezembro de 1822. E eu, José Mariano de Albuquerque Cavalcante, secretário a fiz
+escrever. Estava o sinete das armas nacionais = Presidente Afonso de Albuquerque
+Maranhão = José Mariano de Albuquerque Cavalcanti. Francisco Paes Barreto =
+Manuel Ignacio Bezerra de Melo = Carta de data de sesmaria pela qual Vossas
+Excelências hão por bem conceder a dona Maria Achiolis Lins e Manuel de Barros
+Achioles, meia légua de terra de frente, com uma légua de fundo na freguesia do rio
+Preto, termo de Serinhaem pelo rio Pirangi acima, em nome de Sua Majestade ilustre,
+
+como nela se declara. Para Vossas Excelências verem = Por despacho do governo de 11
+de dezembro de 1822.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 216-218.
+Observação:
+No documento o nome do suplicante consta como Manoel de Barros Achioles, o que foi
+modificado para Manuel de Barros Achioles, seguindo o padrão proposto para a SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

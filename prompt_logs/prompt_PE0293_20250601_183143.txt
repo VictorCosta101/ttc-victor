@@ -1,0 +1,133 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0293
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro de São Bento de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-09-1596",
+  "Observações da sesmaria": "A Ordem de São Bento de Olinda recebeu a concessão de uma ermida, denominada de São Sebastião, em Olinda. ",
+  "Localidade": "Olinda",
+  "Marcos Geográficos": "Ermida de São Sebastião",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Dom Antônio Barreiros era o bispo do Brasil, com sede na Bahia. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0293"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0293 
+ 
+Nossa Senhora do Monte 
+ 
+Data que se ns fez da Capela de Nossa Senhora do Monte pelo senhor bispo Dom Antonio 
+Barreiros 
+ 
+ 
+Dom Antônio Barreiros por mercê de Deus, e da Santa Igreja de Roma. Bispo do Brasil. 
+Fazemos saber, que vindo nós a este bispado, procuramos logo de nos virem religiosos do reino, 
+para nos ajudarem a cavar em a vinha do Senhor, que nos vieram (de que damos muitas graças 
+ao mesmo Deus) confiando que haveria muito fruto espiritual, como houve até agora, e a 
+experiência nele mostrou em a Bahia, porque tanto que demos a ermida de São Sebastião aos 
+religiosos de São Bento, onde fizeram seu mosteiro, logo o fervor, e devoção começou a 
+crescer, e foi sempre em aumento até agora, e as confrarias que estão em o dito mosteiro são 
+muito melhor servidas; e o mesmo desejamos que haja em esta capitania de Pernambuco, e 
+para que as pessoas assim homens como mulheres que vão em romaria, ou tem novenas em a 
+ermida de Nossa Senhora do Monte, o possam fazer com mais devoção… :... concedemos, e 
+damos a dita ermida aos religiosos do mosteiro de São Bento, para ali fazerem seu recolhimento 
+e mosteiro, esperando que pelo tempo haverá muito proveito espiritual, … santamente que o 
+senhor capitão, e os senhores Of… Câmara o haverem assim por bem, e aprovarão este nosso 
+intento; e além do seu consentimento darão toda a ajuda, e favor, da qual concessão fizemos 
+esta feita, e assinada por nós em Olinda a 7 de setembro de 1596, e selada com o selo de nosas 
+armas - O Bispo. - Cumpra-se, hoje 9 de setembro de 1596. - Manoel Mascarenhas Homem. 
+Cumpra-se, conforme o assento que fizemos em Câmara de Olinda 14 de setembro de 1596. - 
+Simão Ribeiro, escrivão da câmara o escrevi. - Luiz do Rego Barreto. - Baltazar Leitão. - 
+Vicente Corrrea. - Paulo Bezerra. - Simão Gonçalves. - Cumpra-se Olinda 14 de setembro de 
+1596. Figueiredo. De ato de posse dada aos reverendos padres de São Bento da Igreja Nossa 
+Senhora o Monte. D - Ano de nascimento de Nosso Senhor Jesus Cristo de 1596 aos 14 dias 
+do mês de setembro do dito ano, fui eu tabelião abaixo nomeado com o meirinho da correção 
+Manoel do Vaz… [alho], e com os reverendos padres de São Bento o dom Abade Frei Mancio, 
+e o padre Frei Matheus, e nos apresentou a provisão atrás escrita do senhor dom Antônio 
+Barreiros bispo deste Estado do Brasil, e com um cumpra-se do capitão mor, e governador 
+Manoel Mascarenhas Homem, e outro cumpra-se do ouvidor geral do Estado do Brasil, e dos 
+juízes, e vereadores desta vila de Olinda, como por eles atrás consta, e por virtude dos quais os 
+meirinhos atrás declarado comigo tabelião fomos a ermida de Nossa Senhora do Monte com 
+os ditos reverendos padres atrás declarados, e os metemos de posse real, e atual da dita ermida, 
+e igreja, e terras a ela pertencentes, entradas e saídas novas, e velhas, como até hoje são por ela 
+possuídas como por suas cartas e datas, e mercês consta, logo os ditos padres em altas vozes, 
+uma, e duas, e três vezes disseram, se havia alguma pessoa, ou pessoas que lhe tivessem 
+embargos a tomar a dita posse, e por não haver pessoa ou pessoas que lhe tolhissem, nem lhe 
+tivessem embargos, o dito meirinho lhes houve por dada a dita possa na forma, e maneira 
+costumada, real, e atualmente com suas entradas, e saídas; e os ditos pades abriram e fecharam 
+as portas, e aposentos, e cavarão no quintal dadita Igreja, tomando terra nas mãos com todas 
+
+ 
+asmais solenindades costumadas, de que tudoeu tabelião fiz este ato em presença das 
+testemunhas, que presentes estavam, a saber: Francisco Sobrinho, e Antônio Francisco, e 
+Gregório Gonçalves, e Manoel Nogueira e eu Francisco de Oliveira tabelião o escrevi. Manoel 
+Vaz. Manoel Nogueira. Francisco Sobrinho, Gregório Gonçalves. Antônio Francisco. Frei 
+Mancio da Cruz. Frei Matheus de Assunção. O qual traslado eu Vicente Gomes de Veiga 
+cavaleiro fidalgo da casa del Rei nosso Senhor, e tabelião do público judicial, e notas nesta vila 
+de Olinda, e seus termos por Duarte de Albuquerque Coelho, capitão e governador dela por sua 
+Majestade etc, consertei, subscrevi, e assinei hoje 21 dia do mês de agosto de 1628 anos. 
+Vicente Gomes da Veiga. Não se continha mais em dito documento que eu Felipe Nery Correa, 
+tabelião do público judicial e notas da cidade de Olinda, vila do Recife, capitania de 
+Pernambuco por sua Majestade que Deus guarde etc. Aqui fiz trasladar e depois com o próprio 
+e com o oficial abaixo assinado este conferi e consertei e vai sem coisa que duvida faça ao 
+próprio me reporto, que torne a entregar a quem aqui assinou e subscrevi e assinei e público e 
+razão de meus sinais seguintes aos 3 dias do mês de janeiro de 1766. 
+ 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. Fl. 121-121v 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

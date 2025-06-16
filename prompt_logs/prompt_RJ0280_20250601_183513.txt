@@ -1,0 +1,112 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0280
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Pimenta Telo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-07-1722",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas próximas ao engenho no Taipu",
+  "Confrontantes": "Engenho de Pinditiba, Ipiíba",
+  "Justificativas": "Alegou possuir engenhos; Pretendia aumentar suas terras; As terras eram devolutas; Tinha escravos; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0280"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0280
+Carta de concessão de Manuel Pimenta Telo de 17 de julho de 1722
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do sereníssimo infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que havendo o respeito a
+representar-me por sua petição Manuel Pimenta Telo, tenente-coronel de um dos regimentos
+da ordenança desta capitania, que ele é senhor de um engenho no Taipu e para cuja
+conservação se acha sem as terras necessárias, e porque próximas ao dito engenho estão
+algumas terras devolutas, principalmente 2.000 braças que o doutor Francisco da Silveira
+Souto e Maior haverá 40 anos pedi[do] por sesmaria, começando onde acabam as terras do
+engenho de Penditiba, que foi de Gonçalo Morato Roma, correndo para o Ipiíba, e lhe
+concederam em quadra, ficando em meio o caminho que vai das terras do dito engenho para a
+Ipiíba, as quais o dito doutor não povoou no termo da Lei e Foral, e estão ainda em [mato] e
+sem serem cultivadas pelo dito doutor, nem por seus herdeiros, pedindo-me lhe mandasse dar
+por sesmaria as ditas terras e alguns sobejos mais que hajam por aquelas partes, por se achar
+com escravos para as cultivar, de que se seguia utilidade aos dízimos Reais e bem comum. E
+dando-se vista deste requerimento ao provedor da Fazenda Real e procurador da Coroa, não se
+lhe oferecendo dúvida. Hei por bem fazer mercê ao dito tenente-coronel Manuel Pimenta Telo
+de lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, as ditas terras acima
+confrontadas; não excedendo, porém, 1 légua em quadra na forma das ordens do mesmo
+Senhor; sem prejuízo de terceiro e do direito que algumas pessoas possam ter a elas; com
+declaração também que as cultivará e mandará confirmar esta minha carta por Sua Majestade,
+que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo. Pelo que
+mando ao ministro, a que o conhecimento desta pertencer, dê posse ao dito tenente-coronel
+Manuel Pimenta Telo das referidas terras na forma e maneira acima declarada. E por firmeza
+de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de minhas
+armas, que se cumprirá inteiramente como nela se contém, se registrará nos Livros da
+Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de São Sebastião do Rio
+de Janeiro, aos 17 dias do mês de julho de 1722. João Paes de Paredes a fez. O secretário, José
+Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+
+Carta porque Vossa Senhoria há por bem fazer mercê ao tenente-coronel Manuel Pimenta Telo
+de lhe der por sesmaria, em nome de Sua Majestade, que Deus guarde, umas terras que se
+acham no Taipu, contíguas ao seu engenho, na forma que acima se declara.
+Para Vossa Senhoria ver.
+Registrada no 1° Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a
+folha 127. Rio, 17 de julho de 1722.
+//José Ferreira da Fonte//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu sesmaria a
+Manuel Pimenta Telo umas terras, que ficavam contíguas ao seu engenho, situado no Taipu.
+Rio de Janeiro, 17 de julho de 1722.
+Referência:
+AHU_ACL_CU_017-1, Cx. 20\Doc. 4359
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

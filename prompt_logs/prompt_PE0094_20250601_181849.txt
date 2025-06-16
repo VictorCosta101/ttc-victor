@@ -1,0 +1,175 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0094
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0151",
+  "Nome": "Frederico de Aguiar e Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "04-01-1760",
+  "Data da concessão": "22-05-1760",
+  "Observações da sesmaria": "O suplicante requereu uma légua de terra na freguesia de Nossa Senhora da Luz, ribeira do Capibaribe, partindo da Fazenda Topada, subindo para o sítio Jacaré e Crapotos, findando ao norte do rio Capibaribe.",
+  "Localidade": "Freguesia de Nossa Senhora da Luz, ribeira do Capibaribe, Fazenda Topada, sítio Jacaré e Crapotos.",
+  "Marcos Geográficos": "Nossa Senhora da Luz, ribeira do Capibaribe, Fazenda Topada, sítio Jacaré e Crapotos.",
+  "Ribeira": "Ribeira do Capibaribe.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia criar gado; As terras eram devolutas; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, Luís Diogo Lobo da Silva, determinou o pagamento do foro de quatro mil réis ao ano. O governador, Luís Diogo Lobo da Silva, recomendou requerer confirmação real dentro de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0094"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0094
+Carta de doação de sesmaria do alferes Frederico de Aguiar - 22/05/1760
+Carta de doação de sesmaria que se passou ao alferes Frederico de Aguiar e
+Oliveira de uma légua de terra.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade fidelíssima, comendador da
+comenda de Santa Maria de Moncorvo da ordem de Cristo, governador e capitão
+general de Pernambuco, Paraíba e mais capitanias anexas e etc. Faço saber aos que esta
+carta de doação de sesmaria virem, que o alferes Frederico de Aguiar e Oliveira me fez
+o requerimento do teor seguinte:- Ilustríssimo e excelentíssimo senhor - Diz o alferes
+Frederico de Aguiar e Oliveira, que na freguesia de Nossa Senhora da Luz, ribeira do
+Capibaribe, se acha devoluta uma sorte de terras de criar gados, chamados a Volta, que
+partem pela parte debaixo com a fazenda chamada Topada e da parte de cima com a do
+Jacaré, da parte do sul com a do Crapotos e da parte do norte finda com o rio
+Capibaribe, a qual esteve sempre devoluta, e conforme as ordens de Sua Majestade,
+ainda que a princípio fosse dada, e não sendo cultivada dentro de 5 anos, se deve dar
+novamente, ficando sem efeito aquela primeira data, e como o suplicante tem meios e
+fábrica com que breve possa dar grande utilidade a Fazenda de Sua Majestade. Por isto
+requer por sesmaria as ditas terras que terão uma légua na sua extensão ou o que na
+verdade se achar, é assim mais com todas as águas vertentes e mais logradouros,
+portanto — Pede a Vossa Excelência se digne mandar passar-lhe carta de sesmaria das
+ditas terras na forma do estilo — E receberá mercê —. No qual requerimento proferi o
+despacho seguinte: jurando o suplicante não ter outra alguma sesmaria, lhe deferirei
+optando em termos, depois de precederem as diligências do estilo - Recife, 4 de janeiro
+de 1760 - Rubrica – O que satisfez com o termo seguinte de juramento - Aos 4 dias do
+mês de janeiro de 1760, nesta Vila de Santo Antônio do Recife, capitania de
+Pernambuco, em meu escritório aí em cumprimento do despacho de Vossa Excelência,
+dei o juramento aos Santos Evangelhos ao suplicante, o alferes Frederico de Aguiar e
+Oliveira, para que bem e verdadeiramente jurasse se tinha outra sesmaria fora da que
+pedia declarada na petição, e de como assim o disse e declarou, fiz este termo em que
+assinou - e eu, Antônio da Cunha Bandão, escrivão, o escrevi — Frederico de Aguiar e
+Oliveira —. Com o dito termo de juramento mandei por despacho de 5 do dito mês e
+ano, informassem os oficiais da Câmara do distrito, mandando proceder a editais afim
+de por eles se vir no conhecimento se as terras que o suplicante pretende se acham
+
+devolutas e se há terceiro prejudicado em se darem de sesmaria, averiguando se entre
+ela e as confinantes fica a légua para logradouro, os quais deram cumprimento a ele na
+forma seguinte — Ilustríssimo e excelentíssimo senhor - Em observância do despacho
+de Vossa Excelência, lavrado na petição junta do suplicante Frederico de Aguiar e
+Oliveira, mandamos fixar editais na matriz de Nossa Senhora da Luz e nos consta por
+certidão de Manoel da Silva Pereira, oficial de justiça, que o dito edital estivera fixado
+mais de 60 dias e que neles não saíra pessoa alguma com dúvida, embargo ou
+contradição, pelo que nos parece se faz digno o suplicante da sesmaria que pretende,
+sendo Vossa Excelência assim servido de que mandamos passar a presente por n´ss
+assinada. Olinda em Câmara de 18 de outubro de 1760 - Francisco Xavier Lousado,
+escrivão da Câmara, o escrevi - Pedro Velho Barreto — João Luiz da Serra Cavalcante
+— Félix de Paiva Barreto; satisfeito na forma dita, mandei por meu despacho do 30 de
+outubro do mesmo ano — Informar o provedor da Fazenda Real, ouvindo o doutor
+procurador e escrivão da Fazenda, e o dito provedor assim o mandou e a informação do
+segundo é a que se refere - Senhor provedor da Fazenda Real — O suplicante deve
+declarar a porção certa de terra que pretende por sesmaria, assim de comprimento como
+de largura, para que se possa verificar o foro certo que deve pagar anualmente da
+mesma terra, na forma das ordens de Sua Majestade fidelíssima, dando fiança nesta
+praça ao pagamento dos foros, como se pratica; Vossa mercê mandará o que for servido
+— Recife, 4 de novembro de 1760 - Bernardo Pereira de Vasconcelos — Há do
+primeiro na maneira seguinte — Senhor provedor da Fazenda Real — Por ordem régia
+expedida do ano de 1699 — se determina que as terras que se dessem por sesmaria
+pagassem algum foro segundo a extensão ou qualidades delas, e fazendo o suplicante
+menção das confrontações da terra que pede, não declara a extensão dela, pelo que deve
+fazê-la medir, para declarar decerto a sua extensão e expressará a sua qualidade para
+que assim se lhe possa impor o foro que deve pagar: e satisfazendo a isto e a fiança que
+aponta o escrivão da Fazenda Real, me parece que se pode deferir ao requerimento do
+suplicante e Vossa Mercê mandará o que for servido — Recife, 7 de novembro de 1760
+— José Teodoro de Lemos Duarte — Com as ditas informações mandou o referido
+provedor da Fazenda Real, escrivão da mesma, tornasse — O qual satisfez com este
+requerimento — Senhor provedor da Fazenda Real — A terra que o suplicante pretende
+por sesmaria é uma légua em quadro e quer dar a fiança requerida -- portanto — Pede a
+Vossa Senhoria, digo Vossa Mercê seja servido admiti-lo e que se lhe passe sesmaria; e
+receberá mercê — Tornou o dito provedor mandar informar o mesmo escrivão, vista a
+
+declaração do suplicante e este o fez assim —: Senhor provedor da Fazenda Real —
+Como o suplicante declara ser uma légua em quadro a terra que pretende por sesmaria.
+Esta se lhe deve conceder com o foro de quatro mil réis por ano, dando fiança idônea
+nesta Praça ao dito pagamento anual — Vossa mercê mandará o que for servido. —
+Recife, 16 de janeiro de 1761 — Bernardo Pereira de Vasconcelos — Com estas
+informações me informou o mencionado provedor o seguinte — Ilustríssimo e
+excelentíssimo senhor — Informo com as informações do escrivão da Fazenda e
+procurador da mesma — Vossa Excelência mandará o que for servido — João do Rego
+Barros — O que sendo por mim visto, mandei por despacho de 23 de fevereiro deste
+presente ano que dada a fiança na forma declarada, deferiria ao suplicante e como este
+apresentou certidão da Provedoria de haver dada, ultimamente proferi o despacho
+seguinte — Passe sesmaria na forma do estilo - Recife, 22 de maio de 1761 - Rubrica -
+Em virtude do qual e do capítulo 15 do regimento deste Governo — Hei por bem dar de
+sesmaria ao suplicante em nome de Sua Majestade fidelíssima, a légua de terra em
+quadro, pedida e confrontada em sua petição, deixando a légua de permeio para
+logradouro, na forma das ordens do dito senhor, pagando o foro que declara o escrivão
+da Fazenda, ao qual deu fiança na provedoria no livro 14 delas, a folha l57v. E não
+passará a religião alguma, salvo for com o mesmo encargo com que as possuem os
+seculares, cuja terra possuirá e gozará ele e seus herdeiros ascendentes e descendentes,
+como sua que fica sendo de hoje para todo o sempre, com todas as suas pertenças,
+matas, campos, águas, rios, fontes, testadas, logradouros e mais úteis que nelas
+compreenderem, não prejudicando a terceiro, e será obrigado a dar caminhos livres ao
+Conselho para fontes, pontes e pedreiras e a requerer confirmação real dentro em 3 anos,
+e a medir e demarcar, povoar e cultivar na forma que determina a lei do Reino; e não o
+fazendo se dará dita terra por devoluta e se poder novamente dar de sesmaria a pedir —
+Pelo que ordeno aos ministros da Fazenda e Justiça e pessoas a que tocar, cumpram e
+façam cumprir esta data, digo, esta carta de doação de sesmaria, como nela se contém, o
+façam dar ao suplicante a posse real, efetiva e atual, na forma costumada e debaixo das
+cláusulas referidas e das mais da ordenação titulada de sesmaria — Em firmeza do que
+lhe mandei passar a presente por mim assinada e selada com o sinete das minhas armas,
+que se registrará na secretaria deste Governo, Câmara efeito — Dada no Recife de
+Pernambuco — Francisco Gonçalves Reis Lisboa — a fez, aos 22 dias do mês de maio
+do ano do Nascimento de Nosso Senhor Jesus Cristo de 1760. Diogo Lobo da Silva —
+
+do distrito e Provedoria da Fazenda Real, sem o qual não terá esta e um – O secretário
+Antônio José Correa a fez escrever — Luiz.
+- Fim da Carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 143 - 147.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

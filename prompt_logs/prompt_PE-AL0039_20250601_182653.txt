@@ -1,0 +1,101 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0039
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0190",
+  "Nome": "José Rodrigues de Melo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila das Alagoas, no rio Piabas do Sul em direção ao sul e ao norte até as fronteiras das terras de Francisco da Silva Falcão.",
+  "Localidade": "Vila das Alagoas",
+  "Marcos Geográficos": "Rio Piabas do Sul",
+  "Confrontantes": "Francisco da Silva Falcão",
+  "Justificativas": "Pretendia fazer engenho de açúcar; Pretendia lavrar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O documento encontra-se incompleto, não sendo possível averiguar um grande conjunto de informações referentes ao despacho e a concessão. ",
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0039"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0013
+Carta de doação e sesmaria de José Rodrigues de Melo -
+José Rodrigues de Melo, com uma légua de terra no termo da Vila das Alagoas, que
+principia na terra que tirou por sesmaria Francisco da Silva Falcão.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe de divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que José Rodrigues de Melo, que ele pretende tirar por data de sesmaria uma
+légua de terra no termo da Vila da Alagoas, que se acha devoluta e desaproveitada, para nela
+edificar engenho e fazer outras plantas com que aumente o cultivo e o Patrimônio Régio, cuja
+légua principia na terra que tirou por sesmaria Francisco da Silva Falcão, pelo riacho das Piabas
+do Sul acima, com três quartos de légua do rio para o norte e um quarto do rio para o sul; pela
+parte do sul do norte e do poente confina com terras do mesmo Patrimônio Régio; e como para
+obter a dita sesmaria pretende que Vossa Excelência mande que a Câmara fixe editais na forma
+do estilo e se procedam as mais averiguações; e constando delas que a dita terra se acha devoluta,
+a sesmaria que requer com o foro que se lhe arbitrar. E receberá mercê. E sendo por mim visto o
+seu requerimento, ordenei por despacho de 12 de julho do corrente ano de 1794, aos oficiais da
+Câmara do respectivo distrito que mandassem fixar editais na respectiva freguesia, para se saber
+ao certo estar ou não devoluta a mesma terra e haver ou não terceiro prejudicado, e constando-me
+por informação dos ditos oficiais que assim o mandaram executar não haver pessoa alguma que
+aos ditos editais saísse; por outro meu despacho da data de 25 de novembro do dito ano mandei
+ouvir o escrivão da Receita e Despesa da Fazenda Real e assim mais responder o doutor
+procurador da Fazenda e Coroa por outro de 27 do mesmo mês e ano; e como todos
+uniformemente me responderam estar nos termos de se dar ao suplicante a terra pedida de
+sesmaria na forma confrontada em seu requerimento, ultimamente mandei por despacho de 29 de
+novembro do presente ano que se passasse sesmaria na forma da resposta do doutor procurador
+da Fazenda e Coroa e escrivão da Receita e Despesa, pagando anualmente o foro de 6 mil réis por
+légua, por ser das que estão mais próximas a Marinha, do que devia dar fiança na Contadoria da
+mesma Fazenda. Em cumprimento do qual e pela faculdade que Sua Majestade Fidelíssima me
+permite no Capítulo 15 [...] [Não foi fotografada]
+- Fim da transcrição -
+
+Observação: A carta não consta inteira por faltar a imagem correspondente ao restante, como
+mostra acima.
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 44-45.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

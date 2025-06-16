@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0165
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio da Fonseca (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-10-1663",
+  "Observações da sesmaria": "Não foram informadas as medidas da sesmaria, apenas que ela estava localizada no caminho que ia para o Cotegipe ,  fazendo fronteira com as terras de Jorge Fernandes e André Rodrigues Loureiro, com as de João Alves Ribeiro, ao Norte e com as de Ventura da Costa, ao sul.",
+  "Localidade": "Cotegipe",
+  "Confrontantes": "Jorge Fernandes e André Rodrigues Loureiro; João Alves Ribeiro; Ventura da Costa.",
+  "Observações da petição": "O sesmeiro alegou que já ocupava parte da terra solicitada, mas não possuía o registro de sesmaria dela.",
+  "Justificativas": "Necessitava de madeira e lenha; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor afirmou que duvidava que existisse alguma terra que já não tivesse sido dada naquela região, mas que provavelmente estariam devolutas, por isso poderiam ser concedidas caso isso fosse confirmado.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0165"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro da carta de sesmaria do capitão Antônio D’Fonseca. 
+Dom Vasco Mascarenhas etc. Faço saber aos que esta carta de doação e sesmaria virem que o 
+capitão Antônio D’Fonseca me enviou a presentar a petição cujo teor é o seguinte: diz o capitão 
+Antônio D’Fonseca, cavaleiro da Ordem de São Tiago, morador em Paripe que nas cabeceiras 
+das 400 braças de terra que Antônio D’Oliveira do Carvalho, alcaide-mor que foi da Vila-Velha 
+possui naquele limite e da que lhe foi dada de sesmaria pelo governador Men de Sá no ano de 
+1564 e nas cabeceiras das terras que pelo mesmo governador foram dadas de sesmaria ao 
+licenciado Jorge Fernandes e André Rodrigues Loureiro que são do suplicante estão em terras 
+de matos e campos que até o presente não foram dadas a ninguém. E porque o suplicante possui 
+as mais delas sem título algum, cortando lenhas para sua olaria e madeiras que é mister assim 
+para o seu gasto como para o mais que lhe é necessária por ficarem na estada de ditas suas terras 
+e que atalhar a que em nenhum tempo venha a ter dúvidas se houver quem peça essas cabeceiras 
+pelo que pede a Vossa Excelência lhe faça mercê de lhe dar por sesmaria toda a terras que 
+houver nas cabeceiras destas ditas datas depois das sesmarias delas cheias com as quais parte 
+pela banda do mar correndo de ditas cabeceiras para o sertão pelo rumo de leste até chegar ao 
+caminho e estrada que vem de Cotegipe para esta cidade pela mata grande; partindo pela banda 
+do norte com terras que foram de João Gonçalves de Moura e hoje são de João Alves Ribeiro e 
+pela banda do sul com terras de Ventura da Costa e com matos maninhos para que a possua 
+com bom título e aproveite. E receberá mercê. // Antônio da Fonseca // E vista a informação do 
+provedor-mor da Fazenda Real deste Estado cujo o teor é o seguinte: Senhor, o suplicante pede 
+umas terras que diz possuir nas cabeceiras das sesmarias que refere as quais diz que por possuir 
+com título justo e por esta razão requer a Vossa Excelência lhe faça mercê mandar passar a 
+carta dela e parece coisa dificultíssima de entender que no sítio o suplicante aponta que é em 
+Parapef haja palmo de terra que não esteja dado e pedido por muitas pessoas e sem embargo 
+que o suplicante diz que quer que se encham as datas primeiro e as datas são suas mesmas e 
+desta concessão se originarão muitas demandas e se o suplicante possui estas mesmas terras 
+que pede há tantos anos bastante título é a posse em que está para ninguém o tirar dela quando 
+as ditas terras não pertençam a outrem por outro título com tudo como as sesmarias sempre se 
+concedem sem prejuízo de terceiro me parece que se lhe pode conceder ainda que os éreos 
+fiquem sujeitos às demandas que se podem seguir, visto como Sua Majestade manda que se 
+deem as terras que estiverem devolutas e pessoas que as possam cultivar o que o suplicante 
+pode fazer, Vossa Excelência mandará o que for servido. Bahia, 23 de outubro de 1663 // 
+Antônio Lopes de Ulhôa // Tendo eu respeito a tudo, hei por bem e lhe faço mercê com pela 
+presente faço em nome de El-Rei, meu Senhor, dar-lhe de sesmaria as terras que pede assim e 
+da maneira que confronta em sua petição, não prejudicando a terceiro, com todas as suas águas, 
+campos, matos testadas e logradouros e mais úteis que nelas se acharem, tudo forro, livre e 
+isento de foro, pensão ou tributo algum, salvo o dízimo a Deus que pagará dos frutos que nelas 
+houver e por elas será obrigado a dar caminhos livres ao conselho para fontes, pontes e 
+pedreiras. Pelo que ordeno e mando a todos os ministros e justiças a que o conhecimento desta 
+pertencer lhe mandem dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas 
+acima referidas e as mais da ordenação, título de sesmarias. Para a firmeza do que mandei passar 
+a presente sob meu sinal e selo de minhas armas a qual se registrará nos livros a que tocar e se 
+guardará e cumprirá pontual e inteiramente como nela se contém sem dúvida, embargo nem 
+contradição alguma // Bento Pereira de Andrade // a fez nesta cidade do Salvador, Bahia de 
+Todos os Santos aos 19 dias do mês de novembro do ano de 1663 // Bernardo Vieira Ravasco 
+// a fiz escrever // O conde D’Obidos // Registrada no 2° livro de registros a que toca na 
+secretaria do Estado do Brasil a folhas 71. Bahia, 20 de outubro de 1663 // Ravasco // Registre-
+
+se. Bahia. 29 de outubro de 1664 // Ulhôa // E se registrou aqui por bem do despacho acima do 
+provedor-mor da Fazenda Real no mesmo dia. // Gonçalo Pinto de Freitas //. 
+ 
+Referências: 
+DHBN, vol. 21, Pg. 442 - 445 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

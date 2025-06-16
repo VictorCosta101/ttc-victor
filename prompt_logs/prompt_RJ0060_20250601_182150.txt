@@ -1,0 +1,139 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0060
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-03-1594",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Várzea de Nossa Senhora",
+  "Marcos Geográficos": "Cidade de São Sebastião do Rio de Janeiro",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não fazer transpasso a pessoa alguma; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Exigiu-se que, caso não se aproveitasse toda a sesmaria, o que sobrasse se desse a quem pedisse; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que pretendia consertar as casas que já possuía, bem como que era \"um homem pobre e ter filhas para casar\".",
+  "Observações das exigências": "Determinou-se que o suplicante habitasse na cidade do Rio de Janeiro pelos três anos seguintes, não podendo ao longo desse período, vender ou enlear as terras. Após esse período, o requerente estaria habilitado para \"vender, trocar, descambar, dar, doar e fazer dele tudo o que lhe bem vier e aprouver, como cousa sua própria isenta que é\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0060"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0060 
+Carta de concessão de sesmaria de João Carvalho de 11 de março de 1594 
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de nosso 
+senhor Jesus Cristo de 1594 anos aos 11 dias do mês de março do dito ano nesta cidade de São 
+Sebastião do Rio de Janeiro desta costa do Brasil, nas pousadas de mim escrivão adiante 
+nomeado apareceu João Carvalho, morador nesta dita cidade, e me apresentou uma petição com 
+um despacho nela do senhor Salvador Correia de Sá, capitão e governador desta dita cidade e 
+capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor. E da qual petição e 
+despacho dela o treslado é o seguinte: diz João Carvalho, morador nesta cidade, que ele há 
+muitos anos, digo, muitos tempos que tem umas casas nesta cidade, digo, Várzea de Nossa 
+Senhora, porque ora as quer consertar, mas se metem 3 braças de chão entre ele e um ribeiro, 
+pede a Vossa Senhoria, havendo respeito a ser ele um homem pobre e ter filhas para casar, lhe 
+de as ditas 3 braças de chão para acrescentamento das ditas casas no que receberá esmola e 
+mercê. Despacho do Senhor capitão e governador. Dou ao suplicante o chão que pede. Salvador 
+Correia de Sá. E tudo visto pelo dito Senhor capitão e governador a petição do dito suplicante 
+Miguel de Carvalho, digo, João Carvalho, o que ele pedia, visto ser justo e havendo respeito ao 
+proveito que se pode seguir acerca da República, ao serviço de Deus, do El Rei nosso Senhor e 
+por a terra se povoar, deu ao dito suplicante João Carvalho o chão que pede, porquanto dizia que 
+estava devoluto para aproveitar por as razões contidas em sua petição e, conforme ao dito 
+despacho, para aproveitar e acrescentar as ditas casas nele, não sendo já dado a outra pessoa 1°, 
+o qual chão diz que, digo, as quais 3 braças de chão que dito é, diz que estão no dito lugar, que 
+tem a dita medida e que partem pelas ditas confrontações como na sua petição diz, e a braça, 
+porque se medir será a braça craveira, a saber 2 varas de medir por uma, como no Reino se 
+costuma de medir, o que tudo lhe deu e concedeu da maneira adiante declarada, segundo forma 
+do regimento do governador geral, que foi nesta dita cidade Antônio Salema, de que o traslado 
+é o seguinte:  as terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, 
+que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem, ou, posto 
+que o fossem, se por as pessoas a que se deram as não aproveitarem no tempo que eram 
+obrigados, por esta via ou por qualquer outra estiverem vagas, as podereis dar de sesmaria a 
+quem vá pedir e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo 
+sua possibilidade virdes ou vos parecer que podem granjear e aproveitar. As quais terras assim 
+dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso 
+Senhor Jesus Cristo e com as condições e obrigações do foral dado às ditas terras e de minha 
+
+ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas residam 
+na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos, e que 
+dentro no dito tempo as não possam vender, nem enlear, e se algumas pessoas a quem foram 
+dadas terras no termo da dita cidade, as tiverem perdidas por as não aproveitarem, e vá tornarem 
+a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o 
+qual se trasladará nas cartas, porque as assim derdes e isto se entenderá não sendo as ditas terras 
+dadas a outras pessoas com as quais condições, obrigações e declarações, lhe assim deu o dito 
+Senhor capitão e governador as ditas 3 braças de chão ao dito João Carvalho, suplicante, pela 
+dita maneira, para sua guarda e segurança lhe mandou ser feita esta carta pela qual manda que 
+ele haja a posse e senhorio do dito chão para sempre, para ele, todos seus herdeiros e sucessores 
+ascendentes e descendentes que após dele vierem com tal condição e entendimento, que ele viva 
+e resida nesta dita cidade, ou em seu termo, ao menos os ditos 3 anos, no dito regimento 
+declarado a nenhuma via trespassar o dito chão a pessoa alguma sem licença do dito Senhor 
+capitão e governador ou de quem adiante tiver poder para lhe dar, da dita maneira lhe dava e 
+deu o dito chão, acabados os ditos 3 anos, tendo ele feito no dito chão casas e benfeitorias, ele o 
+poderá vender, trocar, descambar, dar, doar e fazer dele tudo o que lhe bem vier e aprouver, 
+como cousa sua própria isenta que é. O que tudo manda que se cumpra e guarde sem dúvida, 
+nem embargo algum, que a ele seja posto e porque, digo, e que esta carta, digo, o qual chão lhe 
+assim deu e concedeu em nome do El Rei nosso Senhor foro e isento, sem foro, nem tributo, 
+somente dízimo a Deus conforme o dito regimento, e porque o sobredito João Carvalho tudo 
+prometeu de ter, manter e cumprir, pela dita maneira lhe mandou passar esta carta de sesmaria, 
+a qual será registrada dentro em 1 ano nos livros da Fazenda Real como o dito Senhor em seu 
+regimento manda sob as penas em ele contidas e declaradas, e por verdade eu, Pero da Costa, 
+escrivão das sesmarias e tabelião das notas por El Rei nosso Senhor em esta cidade de São 
+Sebastião, e seus termos este instrumento de carta de sesmaria escrevi e tomei nos meus livros 
+das notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam onde o 
+dito instrumento fica assinado por o dito Senhor capitão e governador //Salvador Correia de Sá// 
+-Fim da Transcrição- 
+ 
+Observações do documento:  
+As palavras “Jhu Xpo” foram alteradas para“Jesus Cristo”. 
+A palavra “Sor” foi alterada para“Senhor”.  
+
+A palavra “Várgea” foi alterada para “várzea”. 
+Referências:  
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas 
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.01-04. 
+ 
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.01-04. Códice 
+778-1 (1594-1595)  
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

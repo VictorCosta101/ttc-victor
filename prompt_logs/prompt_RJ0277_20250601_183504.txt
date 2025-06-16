@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0277
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Pereira da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-07-1727",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em lugar não identificado",
+  "Marcos Geográficos": "Serra da Tocaia",
+  "Ribeira": "Rio da Serra da Tocaia",
+  "Confrontantes": "Terras que foram do capitão Hierônimo de Rocha e Vasconcelos, terras do padre João de Matos",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0277"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0277
+Carta de concessão do padre Antônio Pereira da Cunha de 19 de julho de 1727
+Luís Vaia Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição o padre Antônio Pereira da Cunha, presbítero do hábito de São Pedro, que ele
+[suplicante] sabe que nos fundos e fim das terras que foram do capitão Hierônimo de Rocha e
+Vasconcelos e fora co(ilegível) das do padre João de Matos e dos mais com quem partem
+águas vertentes ao rio da serra da [Tocaia], e da dita serra a outra banda estão alguns sobejos
+de terras devolutas, e ele se acha com bastantes escravos para as cultivar, de que segue
+utilidade aos dízimos Reais e bem comum, pedindo-me lhe mandasse dar de sesmaria os ditos
+sobejos de terras. Dando-se vista deste requerimento ao provedor da Fazenda Real e ao
+procurador da Coroa, aos quais se não ofereceu dúvida. Hei por bem fazer mercê ao dito padre
+Antônio Pereira da Cunha de lhe dar por sesmaria, em nome de Sua Majestade, que Deus
+guarde, os ditos sobejos de terras; não excedendo, porém, 1 légua em quadra na forma das
+ordens do mesmo Senhor; sem prejuízo de terceiro ou do direito que algumas pessoas possam
+ter a elas; com declaração que as cultivará e pagará os dízimos Reais; e mandará confirmar
+esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe
+denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento
+desta pertencer, dê posse ao dito padre Antônio Pereira da Cunha dos referidos sobejos de
+terras na forma e maneira acima declarada. Por firmeza de tudo, lhe mandei passar a presente
+por mim assinada e selada com o sinete de minhas armas, que se cumprirá inteiramente como
+nela se contém, se registrará nos Livros da Secretaria deste governo e nos mais a que tocar.
+Dada nesta cidade de São Sebastião do Rio de Janeiro. Belchior Francisco da Costa a fez aos
+19 do mês de julho de 1727. O secretário, José Ferreira da Fonte, a fez escrever.
+//Luís Vaia Monteiro//
+Carta de sesmaria porque Vossa Senhoria há por bem ao padre Antônio Pereira da Cunha de
+lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, os sobejos de terras acima
+declaradas.
+Para Vossa Senhoria ver.
+Registrada no Livro das Provisões e Carta de Sesmaria que serve nesta Secretaria do governo
+
+a folha 82. Rio, a 19 de julho de 1727.
+//José Ferreira da Fonte//
+O doutor Manuel da Costa Mimoso, do desembargo de Sua Majestade, que Deus guarde, e seu
+desembargador da relação de Santo, o ouvidor geral, corregedor da comarca nesta cidade do
+Rio de Janeiro e nas mais capitanias de sua repartição, e juiz das justificações, etc. Aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que esta subscreveu, ser a letra da subscrição da carta de sesmaria atrás do
+secretário José Ferreira da Fonte e a firma da assinatura dele é do governador desta praça,
+Luís Vaía Monteiro, nela conteudo o que hei por justificado. Rio de Janeiro , 23 de agosto de
+1728 anos. E eu, Domingos Rodrigues Távora, escrivão, a subscrevi.
+//Manuel da Costa Mimoso//
+-Fim da Transcrição
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria
+ao padre Antônio Pereira da Cunha uma porção de terras, com as confrontações indicadas na
+mesma carta
+Referência:
+AHU_ACL_CU_017-1, Cx. 25\Doc. 5804
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

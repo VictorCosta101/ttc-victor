@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0037
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0182",
+  "Nome": "Francisco da Silva (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-04-1793",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila das Alagoas. A sesmaria localizava-se entre a Barra das Laranjeiras e o rio Piaba do Sul até as fronteiras das terras de Antônio de Barros.",
+  "Localidade": "Vila das Alagoas",
+  "Marcos Geográficos": "Rio Piaba do Sul, Barra das Laranjeiras",
+  "Confrontantes": "Antônio de Barros",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0037"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0011
+Carta de doação e sesmaria de Francisco da Silva - 17/04/1793
+Francisco da Silva, com uma légua de terra em quadra no termo da Vila das Alagoas,
+principiando da Barra das Laranjeiras pelo rio Piaba do Sul.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe de divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que Francisco da Silva me fez um requerimento do teor e maneira seguinte: =
+Ilustríssimo e Excelentíssimo Senhor. Diz Francisco da Silva, morador no termo da Vila das
+Alagoas, cujo distrito há terras devolutas e desaproveitadas, e quer ele suplicante por sesmaria
+uma légua de terra em quadra, pegando da Barra das Laranjeiras pelo rio do Piaba do Sul acima
+até fazer a légua, e do rio para a parte do sul um quarto de légua confrontando com terras de
+Antonio de Barros, tiradas por sesmaria no rio da Saúde, e pela parte do nascente e poente com
+terras da Coroa, como é a dita légua que o suplicante quer tirar por sesmaria, com o foro do estilo,
+por estarem dentro de 30 léguas da Marinha, que pretende a dita terra para a cultivar e povoar:
+portanto. Pede a Vossa Excelência se sirva mandar-lhe passar carta de sesmaria, com as
+confrontações acima declaradas da dita légua de terra. E receberá mercê. E sendo por mim visto o
+seu requerimento, ordenei por despacho de 4 de dezembro de 1792, aos oficiais da Câmara do
+respectivo distrito que mandassem fixar editais na respectiva freguesia, para se saber ao certo
+estar ou não devoluta a mesma terra e haver ou não terceiro prejudicado; e constando-me por
+informação dos ditos oficiais que assim o mandaram executar não haver pessoa alguma que aos
+ditos editais saísse, por outro meu despacho de 9 de abril do presente ano de 1793, mandei ouvir
+o escrivão da Receita e Despesa e assim mais responder ao doutor procurador da Fazenda e
+Coroa, por outro de 3 de abril do dito ano; e como todos uniformemente me responderam estar
+nos termos de se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em seu
+requerimento, pagando anualmente o foro de 6 mil réis por légua por ser das que estão mais
+próximas a Marinha; ultimamente, mandei por despacho de 15 de abril do corrente ano, que se
+passasse sesmaria na forma da resposta do doutor procurador da Fazenda e Coroa e escrivão da
+Receita e Despesa. Em cumprimento do qual e pela faculdade que Sua Majestade Fidelíssima me
+permite no Capítulo 15 do Regimento deste Governo. Hei por bem dar em nome da dita Senhora
+ao referido Francisco da Silva, de sesmaria no termo da Vila das Alagoas uma légua de terra em
+quadra, pegando da Barra das Laranjeiras pelo rio da Piaba do Sul acima até fazer a légua na
+forma confrontada em seu requerimento, pagando o foro anual de 6 mil réis por légua, por ser das
+
+que estão mais próximas a Marinha, que determina a Real Ordem de 28 de setembro de 1700; a
+qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua
+que fica sendo de hoje para todo o sempre, com todas as suas pertenças, matas, campos, águas,
+rios, testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiro, e não
+passará a dita a religiões e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que
+as possuem os seculares; sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes,
+pedreiras e requerer dentro de três anos confirmação, medição, demarcação, povoá-la e cultivá-la
+na conformidade da Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim se dar por
+devoluta e novamente ser conferida a quem a requerer; com mais as condições de que a dita terra
+nunca se dividirá em porções, mas andará encabeçada em uma só pessoa, segundo determina a
+Ordenação do Livro 4º Título 96. § 23; por seguir a natureza dos bens foreiros e de que não
+derrubará, antes conservará as árvores de sucupira, amarelo e pau-brasil, por ficarem reservadas
+para a real serviço; e não traspassará a herdeiros ou outra qualquer pessoa a dita terra sem
+concessão da Junta da Fazenda Real, para nela se dar nova fiança e fazerem as devidas
+escriturações. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo
+dar ao suplicante posse real, efetiva e atual, na forma costumada, debaixo das cláusulas referidas
+e das mais da Ordenação Título das Sesmarias; visto constar por bilhete que apresentou achar-se
+dada a fiança ao foro anual de 6 mil réis na Contadoria da Real Fazenda, a folha 16 verso do
+Livro 4º delas. Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real
+Fazenda. Manoel Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, a fez em o
+Recife de Pernambuco, aos 17 dias de abril. Ano do Nascimento de Nosso Senhor Jesus Cristo de
+1793 || Dom Antônio Pio de Lucena e Castro, secretário do Governo, a fez escrever || Dom
+Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 36-37.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

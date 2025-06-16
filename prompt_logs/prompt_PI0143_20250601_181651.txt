@@ -1,0 +1,165 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0143
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Fernandes (PI1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "17-06-1727",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio Corrente de Cima",
+  "Ribeira": "Corrente",
+  "Confrontantes": "Malhada Grande",
+  "Justificativas": "Tinha escravos; Tinha gado vacum; Tinha gado cavalar; Não tinha terras para a criação de gado; Alegou ser filho do descobridor da terra; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0143"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0143
+Carta de concessão a João Fernandes - 17/06/1727
+Carta de data, e sesmaria de 3 léguas de terra de comprido e uma de largo passada
+a João Fernandes no sítio chamado Corrente de Cima como abaixo se declara.
+ 
+ 
+João da Maia da Gama, etc. Faço saber aos que esta minha carta de data e sesmaria
+virem que a
+mim me enviou a dizer por sua petição João Fernandes, morador
+na capitania do
+Piauí,
+distrito
+do
+Governo
+Geral
+do Estado do Maranhão, que
+ele suplicante possui quantidade de
+gados
+vacuns
+e cavalares, e não tem terras
+próprias para se situar e se aposentar, e porque necessita de 3 léguas de terra no sítio
+chamado Corrente de cima fazendo pião na malhada grande correndo rumo do Norte
+para o Sul légua e meio para uma parte e légua e meia para outra e uma pelo seu
+comprimento ou vice-versa. E porque tem escravos, e mais fábricas para as cultivar
+como dito gado sendo todo em utilidade comum e da Real Fazenda pelos rendimentos
+dos dízimos reais. Portanto, me pedia fosse servido conceder-lhe a dita sorte de terra em
+nome de Sua Majestade, que Deus guarde, mandando se lhe passe carta de data e
+sesmaria na forma do estilo, e receberia mercê e atendendo eu as razões, que alegavam,
+como também ao que responderam os ministros da Fazenda Real, pus por meu despacho
+o seguinte vistas as
+informações
+do provedor-mor
+da Fazenda Real procurador
+e
+escrivão dela pelas quais consta não estarem dadas as terras que o suplicante pede e
+informação do doutor provedor do Piauí e sumário de testemunhas, pelo qual consta ter
+o suplicante povoado o dito sitio com muitos gados que lhe ficaram por morte de seu
+pai, o qual descobrira e povoará a seu custo, sem encargo das violência e ameaças dos
+procuradores de gracia de vila para lhe pagar o arrendamento. Pelo que concedo ao
+suplicante em nome de Sua Majestade, que Deus guarde, 3 léguas de terra de comprido
+e uma de largo no sítio e lugar que pede sem prejuízo de terceiro com condição de pagar
+o foro ou pensão que Sua Majestade, que Deus guarde, for servido impor-lhe na
+confirmação, e de registrar nos livros da Fazenda Real desta capitania e na do Piauí e
+com as mais condições expressadas nas Reais Ordens para que as haja, logre e possua
+como coisa própria e todos os seus herdeiros, ascendentes e descendentes, pagando
+dízimos a Deus, Nosso Senhor, dos frutos que nelas tiver, reservando os paus reais
+que nelas houver para embarcações com declaração que mandará confirmar esta carta
+por Sua Majestade, que Deus guarde, dentro nos primeiros 3 anos seguintes além dos
+registros costumadas nesta cidade e registrará dentro em 6 meses na provedoria da vila
+da
+Mocha
+e
+Piauí,
+e
+cultivará
+as ditas terras,
+de maneira digo
+terras
+e
+dará
+caminhos públicos, e particulares aonde forem necessários para pontes, fontes, portos e
+pedreiras; e se demarcará ao tempo da posse por rumo de corda, e braças craveiras como
+é estilo e Sua Majestade manda. E outrossim, não poderão nelas suceder religiões por
+nenhum título, e acontecendo possuí-las, será com o encargo de pagarem delas dízimos
+a Deus como se fossem possuídas por seculares. E faltando-se a qualquer dessas
+cláusulas,
+se
+haverão
+por
+devolutas,
+e
+se
+darão
+a quem as
+denunciar
+como
+o dito Senhor ordena.
+Pelo que mando
+ao doutor provedor da Fazenda Real,
+mais
+ministros e pessoas a que tocar que na forma referida e com as condições declaradas
+deixem ter, e possuir a dita terra ao dito João Fernandes para ele e todos os seus
+herdeiros, ascendentes e descendentes, como coisa própria. Cumpram e guardem esta
+carta tão inteiramente como nela se contém a qual lhe mandei passar por mim assinada,
+e selada com o sinete de minhas armas, que se registraram onde tocar, e se passou por
+duas vias. Dada nesta Cidade de São Luís do Maranhão aos 17 dias do mês de junho,
+
+ano
+do nascimento de
+Nosso Senhor Jesus
+Cristo
+de
+1727.
+Manuel
+Rodrigues
+Tavares, secretário do Estado, a fez escrever. //João da Maia da Gama//.
+-Fim da Transcrição-
+Referência:
+APEP, Livro 3, Doc 165, fls 138v-139v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

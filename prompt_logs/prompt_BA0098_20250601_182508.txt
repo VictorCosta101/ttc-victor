@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0098
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel de Araújo de Aragão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-03-1690",
+  "Observações da sesmaria": "A sesmaria possuía 10 léguas de comprimento e uma de largura e estava localizada na Pedra da Boa Vista.",
+  "Localidade": "Pedra da Boa Vista",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que seria conveniente que ele povoasse as referidas terras.",
+  "Observações do deferimento e da concessão": "O procurador afirmou que como as medidas solicitadas pelo suplicante não ultrapassavam as quatro léguas em quadra, poderiam ser concedidas as terras. O governador concordou.",
+  "Observações das exigências": "Determinou-se mandar certidão de como as tem povoado; determinou-se não vender as terras sem autorização régia.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita",
+  "referencia": "BA0098"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria concedida ao coronel Manoel de Araújo de Aragão. 
+Dom Frei Manuel da Ressureição do conselho de El Rei, meu senhor. Faço saber aos que este 
+alvará de doação de sesmaria virem que, havendo respeito do que por parte do coronel Manoel 
+de Araujo de Aragão, se me enviou a representar por sua petição cujo o teor é o seguinte: 
+Ilustríssimo senhor, o coronel Manoel de Araujo de Aragão, que Sua Majestade, que Deus 
+guarde, foi servida fazer-lhe mercê o senhor donatário da Vila de Santo Antônio da Conquista, 
+fazendo a sua custa na terra dos maracares que desta cidade 70 léguas e meia mercê tem ele 
+suplicante, posto toda a diligencia, cuidado e fazenda na parte em que se há de fazer a dita vila 
+esteja situado, e para a utilidade dela, conveniência dos que nela morarem e dos mais 
+povoadores. Por razão das condições de irem e virem mais seguras, lhe são necessários selo 
+suplicante para povoar as léguas que são da Pedra da Boavista até topar com terras do Nilo, que 
+serão 8 ou 10 léguas pelo rio acima que estão devolutas os quais pede Vossa senhoria 
+ilustríssima de sesmaria com uma légua de largo para as povoar no termo da lei. E receberá 
+mercê.  E vista a resposta do procurador da Fazenda Real, que é a seguinte: como as léguas que 
+se pedem não tem mais que uma de largo, se podem conceder por serem menos léguas que as 
+4 em quadra que se permite pelos regimentos Reais e ser o suplicante pessoa capacíssima para 
+povoar // Pita // E a informação do provedor da dita Real Fazenda, que também é o que se segue: 
+senhor, confirmem com o parecer do procurador da Fazenda. Vossa Senhoria Ilustríssima 
+mandará o que for servido. Bahia, 5 de março de 1690 // Francisco Lamberto // Hei por bem e 
+faço mercê de conceder e dar de sesmaria em nome do EL Rei, meu senhor, ao dito coronel 
+Manoel de Araújo de Aragão as léguas de terra que pede e confronta em sua petição, como 
+parece aos ministros da Fazenda, não prejudicando a terceiro, com todas as suas águas, matas, 
+testadas, logradouros e mais úteis que nelas se achar com foro livre e isento de pensão salvo o 
+dizimo a ordem de Cristo que pagará pelos frutos que delas houver, e por elas serão obrigados 
+a dar caminhos públicos e particulares para fontes, pontes, portos e pedreiras e de as cultivar na 
+forma da lei e regimento. Pois nesta conformidade lhe as concedo, mandando certidão de como 
+as tem povoado dentro do dito termo, para se registrar nos livros da Fazenda Real, demarcando-
+se no tempo de posse, citados os éreos. E se não poderá vender nem alhear sem ordem expressa 
+de Sua Majestade, e aliás ficarão devolutas para quem de novo as pedir. Pelo o que ordeno a 
+todos os ministros de justiça, a que o conhecimento deva ou possa pertencer, [que] lhe façam 
+dar posse real, efetiva e atual na forma costumada debaixo das cláusulas acima referidas e as 
+mais da ordenação título de sesmarias para a firmeza do que lhe mandei passar a presente sob 
+o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, e nas 
+mais a que tocar da Fazenda Real dele. E escrivão de sesmarias, se guardará e cumprirá tão 
+pontual e inteiramente com nele se contém sem dúvida, embargo nem contradição alguma. // 
+Antônio  Garcia // o fez nesta cidade do Salvador, Bahia de todos os santos aos 6 dias do mês 
+de março, ano de 1690 // Bernardo Vieira Ravasco // a fiz escrever // Frei Manuel, arcebispo 
+governador // selo // Alvará de doação de sesmaria das léguas de terra que há no lugar que 
+chamam de Pedra da Boavista até topar com as das Vila, que serão 8 ou 10 pelo rio acima, com 
+uma de largura que Vossa Senhoria Ilustríssima teve por bem de conceder e dar em nome de 
+Sua Majestade ao coronel Manoel de Araújo de Aragão, não prejudicando a terceiro com as 
+demais cláusulas que dele se declara para Vossa Ilustríssima ver. Registrado no livro segundo 
+dos registros da secretaria do Estado do Brasil, que tocava as folhas 158. Bahia, 8 de março de 
+1690 // Ravasco // Registre-se. Bahia, 8 de março de 1690 // Lamberto // a registrou no dito dia 
+// Francisco Dias de Amaral. 
+
+- Fim de Transcrição- 
+   
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Coronel Manoel de Araujo de 
+Aragão”. 
+ 
+Referências: 
+AN, Códice, fls. 306 – 307. 
+Numeração original no livro: 311 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

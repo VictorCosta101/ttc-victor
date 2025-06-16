@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0079
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Araújo de Aragão, Beatriz de Araújo, Bernarda de Araújo, Felipa Alvares de Araújo, Gonçalo de Barros de Araújo, João de Araújo (BA1), Manuel de Araújo de Aragão, Maria de Araújo (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-08-1683",
+  "Observações da sesmaria": "A sesmaria possuía cinco léguas em quadra e estava localizada próximo à aldeia dos Maracás, no rio Jiquiriçá, fazendo fronteira com as terras de Manuel de Hinojoza (BA0077).",
+  "Localidade": "Próximo à aldeia dos Maracás, no rio Jiquiriçá,",
+  "Marcos Geográficos": "Rio Jiquiriçá",
+  "Confrontantes": "Manuel de Hinojoza ",
+  "Observações da petição": "O sesmeiro solicitou 40 léguas em quadra para ele e seus sete filhos.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; As terras eram devolutas; Tinha cabedal; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 8,
+  "Observações das Justificativas": "Citou a ordenação das sesmarias para justificar seu pedido.",
+  "Observações do deferimento e da concessão": "O procurador afirmou que as 40 léguas em quadra eram disformes, indo contra as ordens reais e que não poderiam ser concedidas. No lugar delas deveriam ser concedidas cinco léguas em quadra. O provedor da Fazenda concordou com o procurador e o governador-geral também.",
+  "Observações das exigências": "Determinou-se mandar certidão de como tem povoado.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita",
+  "referencia": "BA0079"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um alvará de doação de sesmaria de 5 léguas de terra em quadra que se concedeu a 
+Manuel de Araújo de Aragão e seus 7 filhos. 
+Antônio de Souza de Menezes, governador e capitão geral do Estado do Brasil. Faço saber aos 
+que este alvará de doação e sesmaria virem que havendo respeito ao que por parte de Manoel 
+de Araújo de Aragão, se me enviou a representar por sua petição cujo teor é o seguinte: senhor, 
+diz Manoel de Araújo de Aragão, morador e casado em Paraguaçu que ele se acha carregado 
+de filhos e outras obrigações a que dar estado, e não tem terras algumas em que por gados, que 
+tem para livrar suas multiplicações a que se segue proveito grande aos dízimos de sua Alteza a 
+serviço de Deus em povoações de terra, e porque por cima das aldeias que se conquistaram dos 
+maracás estão algumas terras devolutas para se poder povoar com gados. O suplicante tem 
+possibilidade e tem cabedal para fazer, sem se lhe haver dado até a presente sesmaria alguma. 
+Pede a vossa senhoria [que] lhe faça mercê conceder e dar de sesmaria em nome se sua Alteza 
+para si e seus 7 filhos: Antônio de Araujo de Aragão, Gonçalo de Barros de Araujo, João de 
+Araujo, Beatriz de Araujo, Bernarda de Araujo, Maria de Araujo e Felipa Alvares de Araujo, 
+40 léguas de terra em quadra capazes de se povoarem com gados, começando de onde acabar a 
+data do capitão Manuel Hinojoza, correndo para a parte do norte e do sul, e de leste a oeste 
+visto estarem devolutas, suposto que a outrem fosse dados por estarem perdidas e não povoadas, 
+conforme a disposição do direito, livro 4, titulo 43 paragrafo 4; no termo de 5 anos constará do 
+livro de registros da secretaria em que foram lançadas. E receberá mercê. E vista a reposta do 
+procurador da Fazenda Real que é a seguinte: o suplicante é pessoa capaz por seu cabedal a 
+respeito de povoar qualquer honesta porção de terra que lhe for dada em sesmaria, a quantidade  
+de léguas que pede, que passam de 200, estão disformes, que vem de encontro as ordens de sua 
+Alteza, não é incrível que as possa ocupar, e assim me parece confirmando-me com as ditas 
+ordens que se lhes podem conceder 5 léguas em quadra com as condições costumadas // Pita // 
+e a informação do provedor-mor da dita Real Fazenda, que também é a que se segue: senhor, 
+visto que o suplicante tem meios de povoar e aproveitar terras devolutas e que as ordens que há 
+de sua alteza se não excedem, as se podem conceder de sesmaria mais de 25 léguas quadradas, 
+que são 5 léguas em quadra, e sendo possível povoar 1600 léguas que pede a vossa senhoria 
+das 40 léguas em quadra nesta petição, parece em conformidade do parecer do procurador da 
+Fazenda, que na forma costumada se lhe concedam 5 léguas em quadra para as povoar no termo 
+da lei. Vossa senhoria mandará o que for servido. Bahia, 19 de outubro de 1682 // Francisco 
+Lamberto // Hei por bem de conceder de sesmaria, como pelo presente faço em nome de sua 
+Alteza, 5 léguas de terra em quadra na parte que pede e confronta em sua petição com todas as 
+suas águas, matas, testadas, logradouros e mais úteis que nelas se achar com foro livre e isento 
+de pensão salvo o dizimo a ordem de Cristo que pagarão pelos frutos que delas houver, e por 
+elas serão obrigados a dar estradas públicas e particulares para pontes, fontes, portos e pedreiras 
+povoando-as no termo da lei e demarcando-as no termo da posse, citados os éreos e sendo 
+obrigados a mandar certidão de como tem povoado dentro do dito termo para se registrar nos 
+livros da Fazenda Real pelo o que ordeno a todos os ministros de justiça, a que o conhecimento 
+deva ou possa pertencer [que] lhe façam dar posse real, efetiva e atual na forma costumada 
+debaixo das cláusulas acima referidas e as mais da ordenação título de sesmarias para a firmeza 
+do que lhe mandamos passar a presente sob o sinal e selo de minhas armas do qual se registrará 
+nos livros da secretaria do Estado e nas mais a que tocar, se assegurará e cumprirá tão pontual 
+e inteiramente com nele se contem sem dúvida, embargo nem contradição alguma. Dados na 
+cidade do Salvador, Bahia de todos os santos aos 20 dias do mês de agosto, ano de 1683 // 
+Antônio Garcia, oficial maior da secretaria do Estado do Brasil em mandado do senhor Antônio 
+de Souza de Menezes, governador e capitão geral do mesmo Estado, o escrevi. Antônio de 
+Souza // selo // Por despacho de 13 de julho de 1683. Registrado no livro segundo dos registros 
+
+da secretaria do Estado do Brasil a que toca as folhas 112 verso. Bahia, 25 de agosto de 1683 // 
+Registre-se. Bahia, 25 de agosto de 1683 // Garcia // Registre-se. Bahia, 25 de agosto de 1683 
+// Lamberto // Pantaleão Freire a registrou-se em dito dia. 
+ 
+- Fim de Transcrição - 
+  
+ 
+ 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Manoel de Araújo de 
+Aragão”; “Antônio de Araujo de Aragão”; “Gonçallo de Barros de Araujo”; “João de Araujo”; 
+“Beatiz de Araujo”; “Bernarda de Araujo”; “Maria de Araujo”; “Felipa Alvares de Araujo”. 
+ 
+Referências 
+AN, Códice, fls. 230 – 231. 
+Numeração original no livro: 166 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

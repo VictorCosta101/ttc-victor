@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0034
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0328",
+  "Nome": "Francisco de Sales Cardoso Lins",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-11-1791",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio de Santo Antônio, freguesia de Camaragibe, termo da vila de Porto Calvo.",
+  "Localidade": "Porto Calvo",
+  "Marcos Geográficos": "Rio de Santo Antônio",
+  "Justificativas": "Pretendia fazer engenho de açúcar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0034"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0008
+Carta de doação e sesmaria de Francisco de Sales Cardoso Lins - 10/11/1791
+Francisco de Sales Cardoso Lins com uma légua de terra no rio de Santo Antônio da
+freguesia de Camaragibe.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe de divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e demais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que Francisco de Sales Cardoso Lins me fez um requerimento do teor e maneira
+seguinte: = Ilustríssimo e Excelentíssimo Senhor. = Diz Francisco de Sales Cardoso Lins, que no
+rio de Santo Antônio, da freguesia de Camaragibe, termo da vila do Porto Calvo, há terras do
+Patrimônio Régio para se concederem por sesmaria, das quais quer o suplicante uma légua de
+largo e meia légua de fundo, principiando onde finda a légua de terra do sesmeiro Antônio
+Vicente, seguindo pelo dito riacho de Santo Antônio acima até encher a dita légua e meia, com
+meia para o sul e meia para o norte do dito riacho, que muitos sesmeiros que tem tirado pela
+graça de Sua Majestade, se estão apossando demais do que se lhe concede em suas cartas, quer o
+suplicante que o dito lhe dê testada certa, merecendo o favor para ela seguir pelo dito riacho
+acima, a completar o que pretende para nelas levantar engenho e cultivá-las com agricultura. Pede
+a Vossa Excelência se sirva de lhe conceder a dita légua de terra de largura, com o fundo que
+pede, com o foro do estilo. E receberá mercê. E sendo por mim visto o seu requerimento, ordenei
+por despacho meu de 4 de março do corrente ano aos oficiais da Câmara do respectivo distrito,
+que mandassem fixar editais na respectiva freguesia, para se saber ao certo estar ou não devoluta
+a mesma terra e haver ou não terceiro prejudicado; e constando-se por informação dos ditos
+oficiais que assim o mandaram executar não haver pessoa alguma que aos ditos editais saísse; por
+outro meu despacho de 17 de agosto do dito ano mandei ouvir o escrivão da Receita e Despesa, e
+assim mais responder o doutor procurador da Fazenda e Coroa, por outro de 3 de novembro do
+referido ano; e como todos uniformemente me responderam estar nos termos de se dar ao
+suplicante a terra pedida de sesmaria, na forma confrontada em seu requerimento, pagando
+anualmente o foro de 6 mil réis por légua, por ser das que estão mais próximas a Marinha, do que
+devia dar fiança na Contadoria; ultimamente mandei por despacho do sobredito mês e ano que se
+passasse sesmaria na forma da resposta do doutor procurador da Fazenda e Coroa e escrivão da
+Receita e Despesa. Em cumprimento da qual e pela faculdade que Sua Majestade me permite no
+Capítulo 15 do Regimento deste Governo. Hei por bem dar em nome da dita Senhora ao dito
+Francisco de Sales Cardoso Lins uma légua de terra de largo e outra de fundo no rio de Santo
+
+Antônio, da freguesia de Camaragibe, termo do Porto Calvo, principiando onde finda a légua de
+terra do sesmeiro Antônio Vicente, na forma confrontada em seu requerimento, pagando o foro
+anual de 6 mil réis por légua, visto ser das mais próximas a Marinha, que determina a Real
+Ordem de 28 de setembro de 1700; a qual terra possuíra e gozará ele suplicante e seus herdeiros
+ascendentes e descendentes, como sua que fica sendo de hoje para todo o sempre, com todas as
+suas pertenças, matas, campos, águas, rios, testadas, logradouros e mais úteis que ela
+compreender, não prejudicando a terceiro, e não passará a dita a religiões e pessoas eclesiásticas,
+salvo sendo com os mesmos encargos com que as possuem os seculares, sendo obrigado a dar
+caminhos livres ao Conselho para fontes, pontes, pedreiras e requerer dentro de três anos medição
+e demarcação, povoá-la e cultivá-la na forma da Ordem Régia de 20 de outubro de 1753, e não o
+cumprindo assim se dar por devoluta e novamente ser conferida a quem a requerer; com mais a
+condição de que a dita terra nunca se dividirá se não por estimação, e andará encabeçada em uma
+só pessoa, na forma que determina a Ordenação do Livro 4º título 96 § 23; e de que será obrigado
+a não derrubar, antes conservar todos os paus de amarelo e sucupira para construção das naus e
+fragatas de Sua Majestade, e assim mais as árvores de pau-brasil, não passando a dita terra a
+herdeiros do suplicante ou outra qualquer pessoa sem consessão da Junta da Fazenda Real. Pelo
+que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam
+cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante
+posse real, efetiva e atual, na forma costumada, debaixo das cláusulas referidas e das mais da
+Ordenação Título das Sesmarias; visto constar por bilhete que apresentou achar-se dada a fiança e
+o foro anual de 6 mil réis por légua na Contadoria da Real Fazenda, a folha 142 verso Livro 3º
+delas. Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. Dada
+no Recife de Pernambuco, aos 10 dias de novembro. Manoel Barboza da Silva Garcia, oficial
+maior da Secretaria do Governo, o fez. Ano do Nascimento de Nosso Senhor Jesus Cristo de
+1791 || Dom Antônio Pio de Lucena e Castro, secretario do Governo, o fez escrever || Dom
+Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 23-25.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,142 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0147
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Pedro Rodrigues",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "30-04-1727",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio Santa Rosa",
+  "Ribeira": "Gurgueia, Lagoa dos Buritis chamada Anda só",
+  "Confrontantes": "Sítio das Flores, Fazenda da Tranqueira",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; As terras eram devolutas; Tinha gado vacum; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0147"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0147
+Carta de concessão ao capitão Pedro Rodrigues - 30/04/1727
+Carta de data passada ao capitão Pedro Rodrigues, morador no Piauí,
+como abaixo se declara.
+João da Maia da Gama, etc. Faço saber, aos que esta minha carta de data e sesmaria
+virem, que a mim me enviou a dizer, por sua petição, o capitão Pedro Rodrigues,
+morador na capitania do Piauí, que comprando ele, suplicante, uma fazenda de gados
+vacuns na ribeira da Gurgueia chamada Santa Rosa, o qual sítio se acha devoluto, por
+haver ficado do defunto João da Silva, e porque ele, suplicante, o quer pedir e haver por
+sesmaria, pelo estar possuindo e criando nele seus gados, que vem a ser 3 léguas de
+terra no rio do Gurguéia com todos os riachos e varedas vertentes no dito rio Gurguéia,
+por se meter terras inúteis de caatingas e serras, fazendo pião na lagoa dos Buritis
+chamada Anda Só com uma légua para a parte do Sul pelo rio acima, para a parte do
+Norte rio abaixo que é para a parte do sítio das Flores, sítio que parte com a fazenda da
+Tranqueira
+para
+ele, suplicante,
+poder
+pedir
+o
+dito
+sítio
+por
+devoluta,
+e
+receberia mercê; e, depois de ter mandado informar aos ministros, pus por meu
+despacho o seguinte: vistas as informações do dito provedor da Fazenda Real do Piauí, e
+do provedor desta, e procurador da Coroa e Fazenda, e escrivão dela, pelas quais consta
+não estarem dadas as ditas terras; concedo, ao suplicante, em nome de Sua Majestade, 3
+léguas de terra de comprido, no sítio que pede, sem interpolação de terras e com
+obrigação de pagar o foro ou pensão que Sua Majestade, que Deus guarde, for servido
+impor-lhe na confirmação, e juntamente com obrigação de registrar não somente nesta
+provedoria como também na da vila da Mocha, capitania do Piauí, e com as mais
+declarações se lhe passe sua carta sem prejuízo de terceiros, para que as haja, logre e
+possua como coisa sua própria, a todos os seus herdeiros, ascendentes e descendentes
+pagando dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver, reservando os paus
+Reais que nelas houver para embarcações com declaração que mandará confirmar esta
+carta dentro nos primeiros 3 anos seguintes, além dos registros costumados nesta cidade
+e registrará dentro em 6 meses, na provedoria da vila da Mocha e Piauí. E cultivará as
+ditas terras; e dará caminhos públicos e particulares onde forem necessários para pontes,
+fontes, portos e pedreiras; e se demarcará, ao tempo da posse, por rumo de corda e
+braças craveiras, como é estilo e Sua Majestade manda. E, outrossim, não poderão nelas
+suceder religiões por nenhum título. E acontecendo, possuí-las será com o encargo de
+pagarem delas dízimos a Deus, como se fossem possuídas por seculares. E faltando a
+qualquer destas cláusulas, se haverão por devolutas e se darão a quem as denunciar,
+como o dito Senhor ordena. Pelo que mando ao doutor provedor da Fazenda Real, mais
+ministros e pessoas a que tocar, que, na forma referida e com as condições declaradas,
+deixem ter e possuir as ditas 3 léguas de terra de comprido para parte já mencionada ao
+dito capitão Pedro Rodrigues, para ele e todos os seus herdeiros, ascendentes e
+descendente,
+como
+coisa
+sua
+própria.
+Cumpram
+e
+guardem
+esta
+carta
+tão
+inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e selada
+com o sinete de minhas armas, que se registará aonde tocar; e se passou por duas vias.
+Dada nesta cidade de São Luís do Maranhão, aos 30 dias do mês de abril, ano do
+nascimento
+de
+Nosso Senhor Jesus
+Cristo
+de
+1727.
+Manoel
+Rodrigues
+Tavares, secretário do Estado, a fez. //João da Maia da Gama//.
+- Fim da Transcrição -
+
+Referência:
+APEP, Livro 3, doc. 72,  fls. 62-63.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

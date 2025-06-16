@@ -1,0 +1,141 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0082
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0139",
+  "Nome": "Cosme Velho Ferreira, João Barros Ferreira, Pedro Marinho de Azevedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "29-07-1752",
+  "Data da concessão": "12-08-1752",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e duas léguas de largura no distrito da vila de Sirinháem. ",
+  "Localidade": "Vila de Sirinháem",
+  "Justificativas": "Pretendia aumentar as rendas reais; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Pretendia fazer engenho; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das Justificativas": "Os suplicantes alegaram que as terras requeridas encontravam-se devolutas há mais de 100 anos e por não ser de conhecimento público, se eram de senhorios ou de herdeiros, consideraram as terras devolutas. ",
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara de Sirinháem. ",
+  "Observações das exigências": "O governador Luís José Correia de Sá determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Luís José Correia de Sá determinou a confirmação régia no tempo de dois anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0082"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0082
+Carta de doação e sesmaria de Pedro Marinho de Azevedo, Cosme Velho Ferreira
+e João de Barros Ferreira - 12/08/1752
+Carta de doação e sesmaria que se passou a Pedro Marinho de Azevedo, Cosme
+Velho Ferreira e João de Barros Ferreira, de duas léguas de terras em quadro, no
+lugar chamado Oviente, distrito da Vila de Sirinhaém.
+Luiz José Correa de Sá e etc. — Faço saber aos que esta carta de doação e sesmaria
+virem, que Pedro Marinho de Azevedo, Cosme Velho Ferreira e João de Barros Ferreira,
+moradores na freguesia, termo da Vila de Serinhaém etc., enviaram a dizer em petição
+por escrito que no dito lugar e distrito se achava uma sorte de terras chamada Oviente
+ou oVicente, que estavam vago, as quais diziam fora engenho e pelos vestígios que
+mostrava parecia ter sido, porém, em tempo que não havia quem desse notícia dos
+senhorios que foram e nem com verdade quem eram os herdeiros e achavam-se a
+bastante anos devolutas, pelo que mostrava serem passados mais de cem anos por não
+haver quem dê notícia no lugar, se foi ou não engenho, e nem ao menos há herdeiros
+que mostrasse escrituras da data e nem carta de sesmaria, e como os suplicantes
+queriam nas ditas terras a situar e levantar engenho, que servia de cultivamento aos
+dízimos reais, e o não podiam fazer sem licença de Vossa Excelência a dar por sesmaria
+na forma observada; portanto, pediam na conclusão da sua petição fosse servido
+mandar passar carta de sesmaria, feitas as diligências necessárias de duas léguas em
+quadro, fazendo pião no lugar que foi sítio; e havendo em alguma quadra éreo, inteirar-
+se para diante nas que estiverem devolutas e realengas, as quais terras se hão de achar
+devolutas, buscando para a parte do poente a sair aos sertões mais de quarenta léguas e
+para a parte do nascente a povoado cinco ou seis léguas. E receberá mercê — Na qual
+petição sendo-me apresentada, mandei informar o Senado da Câmara da Vila de
+Serinhaém, por despacho de 29 de julho de 1752, o qual satisfez na forma seguinte: —
+Ilustríssimo e Excelentíssimo Senhor — O lugar que o suplicante pede por sesmaria nos
+consta por informação de pessoas antigas haver nele vestígios de que em algum tempo
+foi povoado, mas de presente está devoluto e não há notícia de pessoa a quem pertença;
+Vossa Excelência mandará o que for servido — Vila de Serinhaém em Câmara, 4 de
+agosto de 1752 -. Manoel Pinto de Melo - escrivão da Câmara, o escrevi — Luiz Nunes
+
+da Silva — João Leitão Filgueira — Constantino Vieira do Amparo — Jerônimo
+Salgado Acioli — Antonio Coelho de Souza – A vista da qual informação, mandei
+informar o provedor da Fazenda Real por despacho de 7 de agosto deste dito ano, o
+qual mandou informar o escrivão da mesma Fazenda e responder o doutor procurador
+da mesma, os quais lhe informaram o seguinte -: Senhor provedor da Fazenda Real,
+como da informação dos oficiais da Câmara da Vila de Serinhaém consta estarem
+devolutas as terras que os suplicantes pedem, se lhes deve conceder por sesmaria as 2
+léguas em quadro, que fazem 4 léguas, com o foro de quatro mil réis por légua, que
+importa cada ano em dezesseis mil réis, dando também os suplicantes fiança nesta
+Provedoria ao pagamento dos ditos foros, como é estilo; Vossa Mercê mandará o que
+for servido. Recife, 8 de agosto de 1752 — Bernardo Pereira de Vasconcelos — Fiat na
+forma que aponta o escrivão da Fazenda na sua informação, salvo o prejuízo de terceiro,
+havendo o = Oliveira = Com as quais informações o provedor da Fazenda Real me
+informou o seguinte: Ilustríssimo e Excelentíssimo Senhor - Na forma que aponta o
+escrivão da fazenda em sua informação, salvo o prejuízo, digo, informação me parece
+se mande passar carta de sesmaria aos suplicantes da data de terras que pretendem —
+Recife, 11 de agosto de 1752 — João do Rego Barros — Ultimamente, mandei que
+vistas as informações se passasse carta de sesmaria aos suplicantes das terras que
+requeriam, na forma do estilo, no Recife, em 11 de agosto de 1752 — Com a minha
+rubrica — em cujo cumprimento se passou a presente pela qual = : Hei por bem, em
+virtude do Capítulo 15 do Regimento deste Governo, dar aos suplicantes em nome de
+Sua Majestade as duas léguas em quadro de terras, fazendo pião no lugar que for sítio,
+na forma que requerem e declaram em sua petição e documentos, nesta incerto com
+obrigação, porém, de pagar o foro de quatro mil réis, como diz o escrivão da Fazenda, a
+qual terra povoarão em tempo de cinco anos, sob pena de se darem por desaproveitadas
+e devolutas, e as possuíram como suas que são e ficam sendo, para si e seus herdeiros,
+com todas as suas pertenças, matas, fontes, águas, campos, rios, testadas, logradouros e
+mais úteis que a elas pertencer, não lhe sucedendo por título algum no domínio, possui
+delas religiões, salvo sendo com todos os encargos e foros, como se fossem possuídas
+por seculares e darão caminhos livres ao Conselho para fontes, pontes e pedreiras,
+requerendo a Sua Majestade a confirmação desta no termo de dois anos. Pelo que
+ordeno aos ministros e pessoas a que tocar, lhe façam dar posse na forma do estilo,
+constando terem prestado as fianças requesitadas — Em firmeza do que lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+
+registrará na Secretaria deste Governo e Provedoria Geral e Câmara de Serinhaém —
+Dada na Praça do Recife de Pernambuco, a 12 de agosto — Manoel Coelho de Souza a
+fez no ano de 1752 — O secretário — Antonio José Correa, a fez escrever =. — Luiz
+José Correa de Sá = .
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 78 - 81.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

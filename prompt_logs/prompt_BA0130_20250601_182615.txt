@@ -1,0 +1,83 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0130
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Tomé de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "10-12-1563",
+  "Observações da sesmaria": "A sesmaria possuía 40 léguas quadradas e estava localizada entre o porto da injúria e o rio Real.  Essa sesmaria é um fragmento retirado do livro de Felisbello Freire, História territorial do Brasil, por isso não contém todas as informações de uma carta de doação completa.",
+  "Localidade": "Entre o porto da injúria e o rio Real",
+  "Marcos Geográficos": "Rio Real",
+  "Justificativas": "Não tinha terras; Pretendia fazer benfeitoria; Tinha gado; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Não foram apresentadas exigências.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "referencia": "BA0130"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Eu, El Rei, faço saber aos que este alvará virem que Tomé de Sousa do meu conselho me enviou 
+dizer que eu lhe fizera mercê por toda minha provisão de 10 de dezembro de 1563 de uma 
+sesmaria de 6 léguas ao longo da costa da capitania da Bahia e por se achar a dita dada ao 
+visconde de Castanheira que Deus houve não houvera efeito a dita mercê, pedindo-me que 
+assim para passagem do mesmo gado que tinha o qual trazia em terras alheias por as não ter 
+suas nem as querer tomar para si no temo que foi governador das ditas partes como para outras 
+graugearias e benfeitorias que esperava de fazer e fizesse mercê de outra sesmaria de terra na 
+dita capitania que começa onde acaba a terra que El Rei, meu Senhor e avô, fez mercê ao dito 
+visconde que é 3 léguas do porto da injuria até o rio Real para o contra o norte que podem ser 
+oito léguas ao longo da costa e pelo sertão dentro cinco léguas. Hei por bem fazer mercê a Tomé 
+de Sousa das ditas terras. Essa sesmaria terminava-se 2 léguas no sul do Itapicuru.  
+ 
+Referências: 
+FREIRE, Felisbello. História territorial do Brasil. Salvador: Secretaria da Cultura e Turismo, 
+Instituto Geográfico e Histórico da Bahia, 1998, p. 17. 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

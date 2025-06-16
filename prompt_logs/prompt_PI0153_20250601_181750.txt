@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0153
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Veríssimo Ribeiro Leite",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "24-05-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Acerca do histórico da terra, a carta de concessão informa que \"o está possuindo [o sítio] a mais, de 4 anos, sem contradição de pessoa pelo o achar inculto, e despovoado no tempo que lhe metera os ditos gados\". \r\n",
+  "Localidade": "\"um sítio chamado o Castelo\"",
+  "Ribeira": "\"Riacho, também Castelo, o qual faz barra no Gurguéia\"",
+  "Justificativas": "Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão também consta que o sítio ao qual o solicitante se refere ele \"povoara com gados seus, vacum e cavalar, e com as mais fábricas necessários para a sua conservação\" e que \"pelo o achar inculto, e despovoado no tempo que lhe metera os ditos gados; e, porque queria haver data dele\". ",
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor da Fazenda Real, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Na carta de concessão também consta que \"faltando a qualquer dessas cláusulas, se haverão por devolutas e se darão a quem as denunciar\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0153"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0153
+Carta de concessão ao Veríssimo Ribeiro Leite - 24/05/1728
+Registro de uma carta de data e sesmaria de 3 léguas de terra de comprido e uma
+de largo, no sitio chamado o castelo, a Veríssimo Ribeiro Leite.
+ 
+ 
+João da Maia da Gama, etc. Faço saber, aos que esta minha carta de data e sesmaria
+virem, que a mim me enviou a dizer, por sua petição, Veríssimo Ribeiro Leite, morador
+no Riacho Gurguéia, da capitania do Piauí, deste estado do Maranhão, que ele povoara
+um sítio chamado o Castelo, situado junto ao Riacho, também Castelo, o qual faz barra
+na Gurguéia, e fazia pião meia légua abaixo da Casa da Fazenda, e que a povoara com
+gados seus, vacum e cavalar, e com as mais fábricas necessários para a sua conservação.
+E o está possuindo a mais, de 4 anos, sem contradição de pessoa pelo o achar inculto, e
+despovoado no tempo que lhe metera os ditos gados; e, porque queria haver data dele,
+me pedia lhe fizesse mercê de lhe mandar passar com 3 léguas de comprido uma de
+largo, fazendo pião na parte referida, e reservando caatingas e terras inúteis. E,
+atendendo eu ao que me alegava, e ser em utilidade da Real Fazenda o cultivarem-se as
+terras
+neste
+Estado,
+vista
+a informação e
+sesmaria
+desertas
+que
+tirou
+o doutor provedor do Piauí, e o que informa o provedor-mor. Hei, por bem de conceder,
+ao suplicante, 3 léguas de terra de comprido e uma de largo, no sítio e lugar que pede,
+sem
+prejuízo
+de
+terceiro,
+e
+com
+obrigação
+de
+pagar
+o
+foro
+ou
+imposição que Sua Majestade, que Deus guarde, for servido impor-lhe, na confirmação,
+e de registrar na Fazenda Real do Piauí, e nesta do Maranhão, expressadas nas Reais
+Ordens. Para que as haja, logre e possua como coisa sua própria, e todos os seus
+herdeiros, ascendentes e descendentes, sem pensão nem tributo algum mais que dízimos
+a Deus, Nosso Senhor, dos frutos que nelas tiver, a qual concessão lhe faço não
+prejudicando a terceiro; e, reservando os paus Reais que nelas houver para embarcações
+com declaração que mandará confirmar esta carta, por Sua Majestade, que Deus guarde,
+dentro de 3 anos primeiros seguintes. E as cultivará de maneira que deem frutos; e dará
+caminhos públicos e particulares aonde forem necessários para pontes, fontes, portos e
+pedreiras; e se demarcará, ao tempo da posse, por rumo de corda e braças craveiras,
+como é estilo e Sua Majestade manda. E outrossim, não poderão suceder nelas religiões
+por nenhum título; e, acontecendo, possuí-las será com o encargo de pagarem delas
+dízimos a Deus, como se fossem possuídas por seculares. E, faltando a qualquer dessas
+cláusulas, se haverão por devolutas e se darão a quem as denunciar, como o dito Senhor
+ordena. Pelo que mando ao provedor-mor da Fazenda Real, e mais ministros e pessoas
+a que pertencer, que, na forma referida e com as condições declaradas, deixem ter e
+possuir a dita terra ao dito Veríssimo Ribeiro Leite e seus herdeiros, ascendentes e
+descendentes, como coisa própria. Cumpram e guardem esta carta tão inteiramente, e
+sem dúvida alguma, como nela se contém, a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas, que se registrará onde tocar, e se passou por duas
+vias. Dada nesta Cidade de São Luís do Maranhão, aos 24 dias do mês de maio, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1728. Manoel Rodrigues Tavares,
+secretário do Estado, a fez escrever. //João da Maia da Gama//.
+  - Fim da Transcrição -
+Referência:
+APEP, Livro 4, doc. 102, fls. 76-76v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

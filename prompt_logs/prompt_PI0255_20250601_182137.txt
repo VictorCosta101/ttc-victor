@@ -1,0 +1,187 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0255
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Ambrósio de Sousa, Francisco Xavier",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "28-07-1741",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"na cultura destas se achavam perturbados por se lhe intrometer pelo distrito da sua aldeia o capitão Miguel de Carvalho e Aguiar, que com os pretextos de fazendas de gados se quer senhorear das terras que aos suplicantes foram destinadas para sustento de sua aldeia\". A partir do trecho acima, possivelmente tratava-se de uma solicitação que visava impedir o avanço da atividade pecuária em terras indígenas.",
+  "Localidade": "Sítio O Brejo e Arraial",
+  "Ribeira": "Parnaíba",
+  "Confrontantes": "Terras de Bernardo de Carvalho e Aguiar",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes indígenas alegaram que o capitão Miguel de Carvalho e Aguiar, com o pretexto de alargar suas fazendas de gado, pretendia assenhorear-se das terras dos mesmos, que eram destinadas para o \"sustento de suas aldeias\". Sendo assim, o capitão causava constantes perturbações \"no distrito da sua aldeia\". A plantação de lavouras, de acordo com o que se pode depreender da carta, se constituía na base de sustento da povoação Anapuru-Mirim. ",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Devem possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0255"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0255
+Carta de concessão a Francisco Xavier e Ambrósio de Sousa - 28/07/1741
+Registro de uma carta de data e sesmaria concedida aos capitães e mais índios,
+abaixo referidos, de 3 léguas de terra de comprido e uma de largo, no sítio
+chamado o Brejo e Arraial na ribeira da Parnaíba.
+João
+de
+Abreu
+Castelo
+Branco,
+do concelho de Sua Majestade, governador
+e capitão-general do Estado do Maranhão. Faço saber aos que esta minha carta de data e
+sesmaria virem, que os índios Francisco Xavier, capitão da nação Anapurû-Mirim, e
+Ambrósio de Sousa, capitão dos caboclos, me representaram que eles com os mais
+índios
+seus
+parentes,
+se
+acham
+situados
+nas
+margens
+da ribeira da
+Parnaíba
+na parte chamada o
+Brejo
+e
+Arraial,
+que situou o mestre de
+campo Bernardo de
+Carvalho e Aguiar, cujo alojamento estabeleceu desde o tempo da sua conversão ao
+grêmio desta madre igreja, em cuja obediência virem e também como vassalos
+de Sua Majestade de baixo de sua real proteção fabricam suas lavouras; e porque na
+cultura destas  se achavam perturbados por se lhe intrometer pelo distrito da sua aldeia
+o capitão Miguel de Carvalho e Aguiar, que com os pretextos de fazendas de gados
+se quer senhorear das terras que aos suplicantes foram destinadas para sustento de sua
+aldeia, na forma de Lei e Ordem de Sua Majestade, me pedia fosse servido
+conceder-lhe, em nome do mesmo Senhor, por data e sesmaria, 3 léguas de terra de
+comprido e uma de largo, nas mesmas partes e lugares aonde os suplicantes, e mais
+índios moradores daqueles distritos cultivam suas lavouras. E quando senão ache a
+largura ou comprimento nas confrontações das matas de sua situação, lhe seja uma e
+outra cousa inteirada, seguindo as matas o prometerem. Ao que atendido e a Lei de 10
+de abril de 1680, em que a Sua Majestade por bem que os índios, já domésticos, sejam
+senhores de suas fazendas como o são no sertão, sem foro ou tributo algum das
+terras que ocuparem, ainda que estejam dadas em sesmarias a pessoas particulares.
+Ordenando outrossim, que a cláusula de prejuízo de terceiro se em tendo ser reservado o
+prejuízo, e direito dos índios primeiros e naturais senhores das terras. E atendendo
+também
+a
+informação
+do provedor-mor
+da Fazenda Real,
+e
+ser
+em utilidade da
+mesma Fazenda o cultivarem-se as terras neste Estado. Hei por bem conceder-lhe
+aos suplicantes, em nome de Sua Majestade, por data e sesmaria, 3 léguas de terra de
+comprido e uma de largo, na forma que pedem, nas mesmas partes e com lugares
+em que os mais aldeianos cultivam as suas lavouras, cuja concessão lhe faço debaixo
+das condições expressadas nas Reais Ordens. E com a de não fazer trespasse por meio
+algum, em nenhum tempo, a pessoa alguma religião ou comunidade, sem primeiro dar
+parte na Casa da Fazenda ao provedor-mor dela, para se me fazer presente e ver se se
+deve ou não consentir no tal trespasse, sob pena de ficar nula esta data e se poder
+conceder novamente a
+outrem.
+E
+nesta
+forma
+se
+lhe
+passe
+carta para que os ditos capitães e mais índios hajam, logrem e possuam as ditas terras
+como coisa sua própria, sem pensão, nem tributo algum, mais que o dízimos a Deus
+Nosso Senhor, dos frutos que nelas houver e lavrar, a qual concessão lhe faço não
+prejudicando a Sua Majestade, se no dito sítio quiser mandar fundar alguma vila
+reservando
+os
+paus
+reais que nelas
+houver para embarcações,
+com
+declaração que mandará
+confirmar
+esta
+data
+por Sua Majestade
+dentro
+dos
+3
+anos primeiros seguintes.
+E
+dará caminhos públicos
+e
+particulares
+onde
+forem necessários para pontes, fontes, portos e pedreiras, e se demarcará ao tempo da
+posse por rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E
+outrossim não sucederão nelas religiões, nem pessoas eclesiásticas, por nenhum
+
+título que seja. E acontecendo possuí-las, será com o encargo de pagar delas dízimos a
+Deus como se fossem possuídas por seculares. E faltando a qualquer dessas cláusulas,
+se haverão as ditas terras por devolutas e se darão a quem as denúnciar como
+o dito Senhor ordena.
+Pelo
+que mando ao provedor-mór
+da Fazenda Real,
+mais
+ministros e pessoas a que tocar que na forma referida deixem com as condições
+expressadas, ter e possuir as ditas terras aos ditos capitães e mais índios para eles e
+todos seus herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha carta
+de data tão inteiramente como nela se contém, a que lhe mandei passar por mim
+assinada e selada com o sinete de minhas armas, que se registrará onde tocar e passou
+por duas vias. Dada na cidade de São Luís do Maranhão, 28 de julho, ano
+do nascimento de Vosso Senhor Jesus Cristo de 1741.
+-
+Fim da Transcrição -
+Observação:
+Os nomes dos sesmeiros mencionados no documento original constam como Franco Xer
+e Ambrozio de Souza, no propósito de padronizar os nomes para a plataforma SILB,
+preservou-se o nome de Francisco Xavier e atualizou-se o de Ambrósio de Sousa.
+Referência:
+APEP, Livro 10, Doc. 104, Fls. 79-80.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

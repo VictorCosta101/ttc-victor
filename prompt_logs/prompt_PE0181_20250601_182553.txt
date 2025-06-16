@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0181
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0186",
+  "Nome": "Antônio Rodrigues Teixeira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "30-10-1793",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura barra do riacho da Taveira até o rio Sirinhaém acima. ",
+  "Localidade": "Rio Sirinháem",
+  "Marcos Geográficos": "Riacho da Taveira, Rio Sirinháem",
+  "Justificativas": "Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "\tO governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis. O governador Dom Tomás José de Melo também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0181"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0181
+Carta de doação e sesmaria do padre Antonio Rodrigues Teixeira - 30/10/1793
+Padre Antonio Rodrigues Teixeira, com meia légua de terra em frente e 3 quartos de fundo
+no lugar onde chamam a Ilha, principiando na Barra do Riacho chamado da Treveira, com
+comprimento pelo rio Serinhaem acima, termo da Vila de Serinhaem.
+Dom Thomas José Melo, do Conselho de Sua Majestade Fidelíssima, Cavalheiro da Sagrada
+Religião de Malta, Chefe da Divisão da Armada Real, Governador e Capitão-General de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que o padre Antonio Rodrigues Teixeira me fez um requerimento do teor e
+maneira seguinte: Ilustríssimo e Excelentíssimo Senhor. Diz o padre Antonio Rodrigues Teixeira,
+capelão do Engenho Novo dos Cucauz, Freguesia de Serinhaém, nesta capitania de Pernambuco,
+que ele suplicante quer tirar por sesmaria uma légua de terras em quadra no termo da Vila de
+Serinhaem, no lugar aonde chamam a Ilha, pegando a dita lagoa na Barra do Riacho chamado da
+Traveira, com o comprimento pelo rio Serinhaem acima, até completar a dita légua para parte do
+sul, cujas terras se acham devolutas no centro dos matos despovoados e desaproveitados em
+matos maninhos, livres, e desembaraçados, e do todas as partes não tem éreo algum com quem
+partam por haver e se acham todas por cultivar, sem dar em de sorte alguma lucro algum a Sua
+Majestade, que Deus guarde; e assim, o reverendo suplicante as quer tirar para nelas criar gados e
+fazer várias plantas, dando nisso muitos lucros a Majestade Fidelíssima nos dízimos e direitos
+que se costumam pagar dos frutos das ditas terras, portanto = Pede a Vossa Excelência digníssima
+lhe faça mercê conceder em nome de Sua Majestade a dita légua de terra e sesmaria delas. E
+receberá mercê = E sendo por mim visto o seu regimento, ordenar por despacho meu de 17 de
+abril de 1788, ao aos oficiais da Câmara do respectivo distrito, que mandassem fixar editais na
+respectiva freguesia para se saber ao certo estar ou não devoluta a mesma terra e haver ou não
+terceiro prejudicado, e constando-me por informação dos ditos oficiais que assim o mandaram
+executar não haver pessoa alguma que aos ditos editais saísse, por outro meu despacho de 27 de
+junho de 1789, mandei ouvir ao escrivão da Receita e Despesa da Fazenda Real, e assim mais
+responder o doutor procurador da Fazenda e Coroa, por outro de 30 de junho do dito ano, e como
+todos uniformemente me responderam estar nos termos de se dar ao reverendo suplicante a terra
+pedida de sesmaria, na forma confrontada em seu requerimento, pagando anualmente o foro a
+razão de 6 mil réis por légua, por ser das que estão mais próximas a Marinha, do que devia dar
+fiança na Contadoria, ultimamente mandei por despacho de 23 de outubro do corrente ano, que se
+passasse sesmaria na forma da resposta do doutor procurador da Fazenda e escrivão da Receita e
+
+Despesa da Fazenda Real. Em cumprimento do qual e pela faculdade que Sua Majestade me
+permite no Capítulo 15 do Regimento deste Governo. Hei por bem dar em nome de Sua
+Majestade ao dito padre Antonio Rodrigues Teixeira, meia légua de terra em frente e três quartos
+de fundo no lugar aonde chamam a Ilha, principiando na Barra do riacho chamado da Taveira,
+com comprimento pelo rio Serinhaem acima até completar os ditos três quartos de légua de
+fundo, na forma confrontada e declarada em seu requerimento, pagando o foro anual a razão de 6
+mil réis por légua, visto ser dar mais próximas a Marinha, que determina a Real Ordem de 28 de
+setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e
+descendentes, como sua que fica sendo de hoje para todo o sempre com todas as suas pertenças,
+matas, campos, águas, rios, testadas, logradouros e mais úteis que ela compreender, não
+prejudicando a terceiro; e não passará a dita a religiões e pessoas eclesiásticas, salvo sendo com
+os mesmos encargos com que as possuem os seculares, e sendo obrigado a dar ao Conselho
+caminhos livres para fontes, pontes, pedreiras, e requerer dentro de 3 anos confirmação, medição
+e demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753,
+e não o cumprindo assim, se dar por devoluta novamente, ser conferida a quem a requerer; com
+mais as condições de que a dita terra nunca se dividirá em porções, mas andará encabeçada em
+uma só pessoa, como determina a Ordenação do Reino do Livro 4º título 96 § 23; e de que a dita
+terra nunca se dividirá em porções, mas andará encabeçada em uma só pessoa como determina a
+Ordenação do Reino do Livro 4º título 96 § 23; e de que será obrigado a não derrubar, nem
+queimar as madeiras de sucupira, amarelo, pau-brasil que houver na dita terra, por ficarem
+reservadas para construção das naus e fragatas de Sua Majestade, e assim mais não passará a dita
+terra a herdeiros ou outra qualquer pessoa sem conceção da Junta da Real Fazenda, para nele se
+dar nova fiança e se fazerem as devidas escriturações. Pelo que ordeno aos ministros da Fazenda
+e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de data de
+sesmaria como nela se contém, fazendo dar ao suplicante passe real, efetiva e atual, na forma
+costumada debaixo das cláusulas referidas e das mais da Ordenação Título de Sesmarias, visto
+constar por bilhete que apresentou achar-se dada a fiança ao foro anual de 3 mil réis por meia
+légua na Contadoria da Real Fazenda a folha 4 do Livro 4º delas. Em firmeza do que lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se registrará na
+Secretaria deste Governo e Contadoria da Real Fazenda. Dada no Recife de Pernambuco, aos 30
+dias de outubro. José Fernandes Quintela, segundo oficial de Secretaria do Governo, a fez. Ano
+do Nascimento de Nosso Senhor Jesus Cristo de 1793. Dom Antonio Pio de Lucena e Castro,
+secretário do Governo a fez escrever. Dom Thomas José de Melo.
+-
+Fim da carta -
+
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 37-39.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

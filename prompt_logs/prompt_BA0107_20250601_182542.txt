@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0107
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gaspar da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-05-1698",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura, localizada no sul de Porto Seguro, confrontado ao norte com as terras de Manuel Gonçalves Siqueira.",
+  "Localidade": "Porto Seguro",
+  "Confrontantes": "Manuel Gonçalves Siqueira",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Deve-se reservar madeira para construção de embarcações; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se não passar a terra para outra pessoa sem autorização régia;",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "referencia": "BA0107"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de alvará de doação e sesmaria concedida a Gaspar da Costa para ele e seus 
+descendentes uma légua de terra da largura e 3 de comprimento na capitania de Porto Seguro, 
+pela costa abaixo correndo para o sul. 
+Dom João de Lencastre, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de sesmaria virem que tendo feito a Gaspar da Costa me representar em sua petição 
+cujo o teor é o seguinte: senhor, diz Gaspar da Costa que na capitania de Porto Seguro pela 
+costa abaixo, correndo para o sul, estão devolutas algumas terras, e portanto ele, suplicante, se 
+acha com animo e cabedal para cultivar a dita terra, o que é e utilidade da coroa e rendas reais 
+pelo que pede a Vossa Senhoria [que] lhe faça mercê conceder-lhe de sesmaria em nome de 
+Sua Majestade, uma légua de terra por costa que começará do rio Itanhaém, correndo para o 
+norte e 3 léguas para o sertão confrontando com parte do norte, com a última sesmaria que se 
+tem dado a Manuel Gonçalves Siqueira. E receberá mercê. E visto o parecer do doutor 
+procurador da Fazenda Real que também é o seguinte: Senhor, o suplicante pede de sesmaria 
+as 3 léguas de terra que Sua Majestade, que Deus guarde, manda se possam dar somente, pelo 
+que se me não oferece dúvida sob todas as cláusulas e condições de lei e costumadas, salvo 
+sempre todo o prejuízo de terceiro, e com a condição de não poder cortar madeira alguma das 
+que formam partes de serventia para a fábrica das naus que Sua Majestade foi mandado guardar, 
+digo, foi servido mandar estabelecer neste Estado para seu serviço, estando em lugares que se 
+possam conduzir a porta do mar, sob pena de perder a data com qualquer benefício ou despesa 
+que se nela tiver feito. Vossa Senhoria mandará o que mais convier. Bahia. 13 de maio de 1698 
+// Francisco Lamberto // Hei por bem conceder e dar em nome de Vossa Majestade, que Deus 
+guarde, ao dito Gaspar da Costa, para ele e seus descendentes um légua de terra de largura 3 de 
+comprimento na parte que pede e confronta em sua petição nesta inserida, com condição de não 
+cortar madeira alguma das que houverem serventia para a fábrica das naus de Sua Majestade, e 
+não prejudicando a terceiro, como parece aos ministros da Fazenda Real, e as aproveitará dentro 
+do termo da lei, e as não poderá alhear antes dele, nem passar a outro algum domínio sem as ter 
+aproveitado com condição de se darem logo neste caso a outra pessoa, nem o poderá fazer sem 
+expressa ordem de Sua Majestade e com as mais cláusulas contidas na ordenação do Reino, 
+título de sesmarias e forma do capítulo 26 do regimento novo deste governo geral as quais terras 
+terá e possuirá com todas as suas águas, matas, testadas, logradouros e mais úteis que nelas se 
+acharem com foro livre e isento de pensão salvo o dizimo a ordem de Cristo que pagará pelos 
+frutos que delas houver, e por elas serão obrigados a dar caminhos públicos e particulares para 
+fontes, pontes, portos e pedreiras com declaração que se havendo nas ditas terras alguma aldeia 
+de índios, não fique o dito Gaspar da Costa senhor dela e nem das terras que ocuparem os índios 
+na forma das novas ordens de Sua Majestade. Pelo o que ordeno a todos os ministros e oficiais 
+de justiça, a que o conhecimento deva ou possa pertencer, [que] lhe façam dar e deem  posse 
+real, efetiva e atual demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa 
+dos contos de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o sinal 
+e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, e nas mais a que 
+tocar da Fazenda Real dele e nos do escrivão de sesmarias, se guardará e cumprirá tão pontual 
+e inteiramente com nele se contém sem dúvida, embargo nem contradição alguma. // Manuel 
+Rigueiro // a fez nesta cidade do Salvador, Bahia de todos os santos aos 15 dias do mês de maio, 
+ano de 1698 // Gonçalo Ravasco Cavalcante e Albuquerque // a fiz escrever // Dom João de 
+Lencastre // selo // Alvará de doação que Vossa Senhoria Ilustríssima foi servido conceder em 
+nome de Sua Majestade, que Deus o guarde, a Gaspar da Costa, para ele e seus descendentes 
+um légua de terra de largura e 3 de comprimento na parte que pede e confronta em sua petição 
+neste inserta de não cortar madeira alguma das que houverem serventia para a fábrica das naus 
+
+de Sua Majestade e não prejudicando a terceiro como aponta o provedor-mor da Fazenda Real, 
+nem as aldeias e terras dos índios que nelas se acharem com as cláusulas e respeitos acima 
+declarados. Para Vossa Ilustríssima ver. Registrado no livro 5° dos registros da secretaria do 
+Estado do Brasil, que tocava as folhas 108. Bahia, 16 de maio de 1698 // Ravasco // Registre-
+se. Bahia, 20 de maio de 1698 // Lamberto // Leonardo Lopes de Carvalho // o registrou-se no 
+dito dia, mês e era. 
+ 
+- Fim de Transcrição- 
+ 
+Observações: 
+- O nome original do suplicante consta no documento original como: “Gaspar da Costa” 
+ 
+Referências: 
+AN, Códice 427, fls. 100 – 101v. 
+Numeração original no livro: xx 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

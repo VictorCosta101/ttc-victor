@@ -1,0 +1,168 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0021
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Fernandes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da petição": "11-01-1574",
+  "Data da concessão": "11-01-1574",
+  "Observações da sesmaria": "Título original: Carta de sesmaria do chão para casas do Padre Antônio Fernandes, cojitor.",
+  "Confrontantes": "Simão Dias",
+  "Justificativas": "Alegou não ter casa própria; Não tinha terras; Participou do povoamento; ",
+  "Exigências do Deferimento": "Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0021"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0021 
+ 
+Carta de concessão de sesmaria do Padre Antônio Fernandes de 11 de janeiro de 1574 
+ 
+Forra 
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de 
+nosso Senhor, Jesus Cristo de 1574 anos, aos 11 dias do mês de janeiro, do dito ano nesta cidade 
+de São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas de mim escrivão abaixo 
+nomeado, apareceu  Padre Antônio Fernandes, cojitor da Sé nesta dita cidade e morador nela, 
+me apresentou uma petição com um  despacho nela do Senhor Cristóvão de Barros, capitão e 
+governador desta dita cidade, capitania e governança deste dito Rio de Janeiro, por El Rei nosso 
+Senhor, da qual petição o traslado dela é o seguinte. Senhor, capitão e governador. Diz Padre 
+Antônio Fernandes, cojitor na Sé desta cidade e nela morador, que há sete ou oito anos e pouco 
+mais ou menos que está nesta cidade, e ajudou-a a situar e povoar e nela serviu até agora Sua 
+Alteza, e aos capitães que nela estiveram, e a Vossa Senhoria, e se achou com eles nas coisas 
+de guerra que neste tempo se fizeram e nunca houve chão de sesmaria para fazer casas como os 
+outros moradores, pelo que pede a Vossa Senhoria, que lhe faça mercê de uma dada de terra de 
+sesmaria, que Gaspar Dias, morador de Coimbra tem lhe Salvador Correia de Sá, capitão e 
+governador que foi nesta cidade deu o qual até agora não vindo do Reino aproveitá-la, como 
+Sua Alteza manda em seu foral da qual, dada são 20 braças partindo com Simão Dias pela lagoa 
+acima da banda do noroeste, e 30 braças pelo outeiro acima, assim e da maneira e pelas 
+confrontações que o dito Gaspar Dias tem por suas cartas, ele suplicante em sua petição pede, 
+receberá mercê. E tudo visto pelo dito Senhor, capitão e governador a petição do dito suplicante, 
+Padre Antônio Fernandes, e o que ele pedia visto ser justo e havendo respeito ao proveito que 
+se pode seguir acerca da República, e ao serviço de Deus e Del Rei, nosso Senhor, e por a terra 
+se povoar, deu ao dito Padre Antônio Fernandes, suplicante, 12 braças de terra de largo e 20 de 
+comprido, se entenderá pelo outeiro acima pelas confrontações declaradas em sua petição, 
+porquanto, estava o dito chão devoluto sem nenhuma benfeitoria para o aproveitar e fazer casas 
+nele, como diz não sendo já dado a outrem primeiro, depois de ser dado ao dito Gaspar Dias, o 
+qual chão  está no dito lugar, tem a dita medida e parte pelas ditas confrontações, como em sua 
+petição diz, e a braça será a braça craveira, a saber 2 varas de medir por 1 como no Reino se 
+costuma de medir, o que tudo lhe deu e concedeu na maneira abaixo declarada, segundo forma 
+de sua provisão e do regimento do governador-geral Mem de Sá, de que os traslado de tudo de 
+verbo a verbo é o seguinte. Despacho do Senhor, capitão e governador. Dou ao suplicante, 12 
+braças de terra de largura e 20 de comprido, que se estenderá pelo outeiro acima pelas 
+confrontações declaradas em sua petição, e faça-se-lhe carta. Hoje, 24 de dezembro de 1573. 
+Eu El Rei, faço saber a vós que Cristóvão de Barros, que ora envio para o capitão da capitania 
+do Rio de Janeiro, nas partes do Brasil, que eu sou informado que todas as terras que estão a 
+roda da cidade de São Sebastião, da dita capitania são dadas às pessoas que vivem e são 
+moradores em outras capitanias, sem as terem aproveitada nem beneficiadas, como eram 
+obrigadas, porque por esta causa os moradores que ora, vão viver a dita capitania e pelo tempo 
+forem, não tendo chão onde possam fazer fazendas, querendo nisso prover ei por bem e me 
+apraz que não vindo as pessoas a que as ditas terras são dadas, viver na dita capitania do Rio de 
+Janeiro, dentro de um ano de espaço, que lhe para isso dareis e as aproveitarem, conforme as 
+condições e obrigações com que lhe foram dadas, que em tal caso vós as possais cultivar e 
+tornar a dar pela mesma maneira aos moradores que na dita capitania viverem, tendo  as 
+qualidades necessárias que se requerem para poderem viver nas ditas partes, pelo que vos 
+mando que não querendo as pessoas a que as tais terras forem dadas, e as que não quiserem ir 
+viver a dita capitania dentro do dito tempo de um ano para as aproveitarem, como dito é, as 
+dareis aos moradores que nela viverem, e as pedirem com as condições, obrigações e 
+
+declarações que se deram as pessoas, que ora tem e se costumam dar as ditas terras, e lhe 
+passareis dela suas cartas em forma, e cumprais e  guardeis este alvará como se nele contém, o 
+qual hei por bem que valha e tenha força e vigor como se fosse carta feita em meu nome, por 
+mim assinada e passada pela chancelaria, posto que não seja passada pela chancelaria sem 
+embargo da ordenação do Livro 2º , título 20, que o contrário dispõe. Gonçalo Ribeiro fez em 
+Lisboa 27 dias de outubro de 1571. Eu //Gabriel de Moura// o fiz escrever. Eu El Rei. Alvará 
+que leva Cristóvão de Barros sobre o dar das terras da capitania do Rio de Janeiro.  //Dom 
+Martins// Para Vossa Alteza ver. P. de Dom Martinho Pereira. Registrada. //Sebastião da Costa// 
+Fica selado. //Gabriel de Moura// O qual o alvará está assinado e tinha todas as verbas, 
+inscrições, registros e certidão que a dita provisão requer por virtude do qual eu escrivão dou 
+fé. Mem de Sá, governador-geral, nos poderes que concedeu a Salvador Correia de Sá, e de que 
+usou nesta capitania lhe deu poder para dar de sesmaria terras e chãos,  conforme o regimento 
+e capítulo Del Rei nosso Senhor, por onde o dito governador dava na Baía de Todos os Santos, 
+o qual capítulo é o seguinte. §As terras e águas dos ribeiros que estiverem dentro do termo e 
+limite da dita cidade, que são 6 léguas para cada parte que não forem já dadas às pessoas que 
+as aproveitem, e estiverem vagas e devolutas para mim, e por qualquer via ou modo que seja, 
+podereis dar de sesmaria as pessoas que pedirem, as quais terras dareis livremente e sem outro 
+algum foro nem tributo, somente  o dízimo a Ordem de nosso Senhor, Jesus Cristo, com as 
+condições e obrigações do foral dado as ditas terras de minha ordenação do Livro 4º , título das 
+sesmarias, com tal condição que a tal pessoa ou pessoas residam na povoação da dita Baía, ou 
+das terras que lhe assim forem dadas ou ao menos três anos, e que dentro do dito tempo as não 
+possam vender, nem enlear e tereis lembrança que não deis a cada pessoa mais terra que aquela 
+que virdes, ou vos parecer que segundo sua possibilidade, pode aproveitar e se algumas pessoas 
+a que forem dadas terras no dito termo, e as tiverem perdidas por as não aproveitarem e  
+tornarem  a pedir, vós as dareis de novo para aproveitarem com as condições e obrigações 
+contidas neste capítulo. o qual se trasladará nas cartas das ditas sesmarias. Com as quais 
+condições, obrigações e declarações lhe assim deu o dito Senhor, capitão e governador o dito 
+chão ao dito Padre Antônio Fernandes, pela sobredita maneira e para sua guarda lhe mandou 
+ser feita esta carta, pela qual manda que ele haja a posse e senhorio do dito chão, para sempre, 
+para si e todos os seus herdeiros e sucessores, ascendentes descendentes, que após dele vierem 
+com tal condição  e entendimento, que ele viva nesta cidade ou em seu termo os ditos três anos, 
+dentro do qual tempo ele não poderá vender, nem enlear o dito o chão, por nenhuma vez que 
+seja sem licença do dito Senhor, capitão e governador ou de quem adiante tiver poder para dar, 
+e da dita maneira que dava ao dito chão e acabado os ditos três anos, e tendo ele feito no dito 
+chão casas e benfeitorias, ele poderá vender, trocar, descambar e fazer de tudo que ele bem vier 
+como de coisa sua própria isenta que é, e porque o sobredito Padre, tudo prometeu de ter, manter 
+e cumprir pela dita maneira lhe mandou passar esta carta de sesmaria, a qual será registrada 
+dentro de um ano nos livros da Fazenda Real, como dito o Senhor em seu regimento manda, só 
+as penas nele contidas e por verdade, eu //Pero da Costa// escrivão da sesmarias e tabelião das 
+notas por El Rei nosso Senhor, nesta sua cidade de São Sebastião, e seus termos que esse 
+instrumento de carta de sesmaria escrevi em meus livros das notas e tombo das cartas de 
+sesmaria, que  desta dita cidade que em meu poder ficam, onde o dito instrumento fica assinado 
+pelo dito Senhor, capitão e governador. //Cristóvão de Bairros//  
+ 
+- 
+Fim da Transcrição - 
+ 
+Observações: 
+Título original: Carta de sesmaria do chão para casas do Padre Antônio Fernandes, cojitor. 
+
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página.93; 
+Documento Original:f.39v.,90v. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.93. Códice 50.5.3A(1573-4). 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

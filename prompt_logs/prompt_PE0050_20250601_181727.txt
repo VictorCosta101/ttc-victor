@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0050
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0100",
+  "Nome": "Jerônimo Martins dos Santos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "03-10-1724",
+  "Data da concessão": "06-10-1724",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Sirinháem, nas fronteiras das terras do capitão Domingos Rodrigues da Silva.",
+  "Localidade": "Rio Sirinháem",
+  "Marcos Geográficos": "Rio Sirinháem",
+  "Confrontantes": "Domingos Rodrigues da Silva",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que era herdeiro de João Martins Montezelos, soldado do Terço dos Paulistas dos Palmares, e que solicitava a sesmaria em remuneração dos serviços do seu pai. ",
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto, não foi possível averiguar todas as informações referentes ao despacho e a concessão. \tO procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida com as condições da isenção do pagamento do foro e da pensão, mas com obrigatoriedade do pagamento do dízimo à Ordem de Cristo. Além disso, as terras não deveriam ser possuídas ou transpassadas a religiosos e ordens religiosas e que a concessão fosse realizada de acordo com as Ordenações Filipinas, Livro 4, Título 43.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0050"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0050 
+ 
+Carta de doação e sesmaria de Jerônimo Martins dos Santos - [06/10/1724] 
+ 
+CARTA DE DOAÇÃO DE SESMARIA DE UMA LÉGUA DE TERRA DOS PALMARES, 
+AO CABO DE ESQUADRA JERÔNIMO MARTINS DOS SANTOS. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc – Faço saber aos que esta carta de doação de sesmaria 
+virem, que por  parte do cabo de esquadra Jerônimo Martins se me fez a petição do theor seguinte: - 
+Diz Jerônimo Martins dos Santos, cabo de esquadra, que por falecimento de seu pai João Martins 
+Montezelos, soldado que foi de uma das campanhas do terço de infantaria dos Palmares, ao qual 
+havia Sua Majestade, que Deus guarde, concedido uma légua de terra em quadro, conforme a 
+distribuição com que o dito senhor foi servido repartir pelos ofíciais maiores e menores e mais 
+soldados, as terras conquistadas dos negros rebeldes; e por quanto o suplicante ficou por seu 
+herdeiro e a dita légua, terra em quadro, se acha devoluta nas cabeceiras da sesmaria, que pediu o 
+capitão Domingos Rodrigues da Silva, a qual pede o suplicante como herdeiro do dito seu pai pelo 
+rio acima, chamado Serinhãem, ficando com a sua confrontação em quadro no mesmo rio, por uma 
+e outra parte, e assim mais peço uma légua em quadro por devoluta, o cabo de esquadra Jerônimo 
+Martins, que atualmente e a muitos anos exerce no mesmo terço, como consta de suas certidões, o 
+qual pede no mesmo rio de Serinhãem, nas próprias cabeceiras, as terras circunvizinhas do defunto 
+seu pai, nas partes que lhe convier, as quais pede isentas de pensões e foros, conforme as ordens de 
+Sua Majestade - Pede a Vossa Senhoria seja servido mandar passar ao suplicante sua carta de 
+sesmaria de duas léguas de terra em quadro, assim na mesma maneira, que o suplicante confronta 
+nesta petição. E receberá mercê. = Informe o provedor, ouvindo ao doutor procurador da Coroa e 
+Fazenda = Olinda, 3 de outubro de 1724 = "Rubrica" = Haja vista ao doutor procurador da Coroa e 
+Fazenda Real - Recife, 3 de outubro de 1724 = Barros = Pode se defirir, a vista das cópias das cartas 
+juntas = Recife, 6 de outubro de 1724 = "Pereira". Respondeu o doutor procurador da Coroa e 
+Fazenda Real, ao qual Vossa Senhoria mandou ouvir sobre este requerimento do suplicante, que se 
+lhe pode deferir a vista das cópias das cartas juntas, nem eu posso duvidar em que se lhe dê ao 
+suplicante a légua de terra que pede como único herdeiro de seu pai, João Martins Montezelos, por 
+haver este sido dos conquistadores das que chamam dos Palmares, porém, enquanto a outra légua 
+que pede o suplicante por devoluta no mesma distrito não pode ter lugar, pela razão de que ainda se 
+não achão inteirados os conquistadores das ditas terras, aos quais por Sua Majestade, que Deus 
+guarde, foram doadas que devem preferir ao suplicante, que não foi como consta dos seus 
+documentos que apresentou, e por este fundamento me parece que só a primeira légua de terra que 
+pede se lhe deve dar, se tanto couber nas confrontações declaradas, nas que se conquistaram dos 
+7 de agosto de 
+1725 
+
+Palmares e ficarão por conquistar para o sertão como Sua Majestade foi servido mandar declarar, 
+sem se alterar a forma da sua real ordem, com declaração que delas se pagará o dízimo a ordem de 
+Cristo, sem foro nem pensão, e não passarão a religiões por nenhum título, e quando suceda será 
+com este mesmo encargo; Vossa Senhoria mandará o que lhe parecer mais conveniente ao serviço 
+de Sua Majestade, como costuma. Recife, 6 de outubro de 1724 – “João do Rego Barros” = E 
+atendendo eu a todo o referido e as ordens repetidas do dito senhor e em virtude da faculdade de 
+que me concede no Capítulo 15 do Regimento deste Governo - Hei por bem de lhe fazer mercê em 
+nome de Sua Majestade, dar de sesmaria uma légua de terra em quadro no mesmo sítio e lugar 
+confrontado em sua petição, na forma do parecer do provedor da fazenda real, com todas suas 
+pertenças. 
+- Fim da carta - 
+ 
+ 
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a 
+carta, faltando a parte restante correspondente a concessão. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 304 - 306. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

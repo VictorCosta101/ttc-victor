@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0024
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro de São Bento de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "NA",
+  "Data da concessão": "06-04-1610",
+  "Observações da sesmaria": "O Mosteiro requereu a concessão de uma légua e meia de comprimento e uma légua e meia de largura de terras nos limites da capitania de Itamaracá no rio Capibaribe na fronteira das terras de Gervásio Pires. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Confrontantes": "Gervásio Pires",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Mandou-se dar posse atual; Mandou-se dar posse corporal; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O mosteiro alegou não possuir meios para se manter e requereu a concessão de terras para planta rmantimentos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0024"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0302 
+ 
+Sesmaria de légua e meia de terra que nos deu em Mussurepe o sesmeiro Francisco Coelho de 
+Carvalho. 
+ 
+À margem estão: Em 16 de dezembro de 1687 o M.R.P.D. abade frei José da Trindade 
+com seu convento fez venda destas terras a João de Almeida de Arruda por preço de 80 mil 
+réis de dinheiro. Lavrou a escritura o tabelião Luis Ferreira da Cunha. Nesta terra está agora 
+fundado o engenho do Eixo, cujo senhorio tem os títulos. 
+Francisco Coelho de Carvalho fidalgo da casa del Rei nosso senhor, capitão mor em a 
+capitania da Paraíba e desta de Itamaracá por o dito Senhor etc. Faço saber aos que esta minha 
+carta de sesmaria, e doação virem, e dela o conhecimento com direito pertencer, em como em 
+enviaram a dizer por sua petição o padre abade, e mais religiosos do mosteiro de São Bento de 
+Pernambuco, que havia muitos anos que residiam na dita capitania, da qual acodem e acudiram 
+a servir a capitania de Itamaracá em tudo o que era de sua obrigação como era confessar, e 
+pregar, dizer missas, e sacramentar, e tudo o mais para que são chamados na dita capitania, e 
+nunca receberão mercê alguma de sua Majestade, nem do senhor da terra, e por estarem muito 
+faltos de terras para pasto, e roças para sua sustentação pedindo-me lhes dessa sesmaria, ou 
+devoluto nos limites da dita capitania légua e meia de terra em quadra ao longo do rio 
+Capibaribe aonde se chamava a Enguoará da testada de Gervas Pires pelo rio abaixo da banda 
+do norte, e sendo dada, e povoada conforme o direito, e regimento de sua Majestade na parte, 
+onde a pediram, e pudessem tomar onde estivesse por dar, ou devoluta para qualquer das bandas 
+e pelos rumos que a eles suplicantes bem lhes parecesse, e quando a dita terra se não achasse 
+acomodada toda junta, pudessem eles suplicantes tomar a metade em uma parte, e a outra 
+metade onde mais acomodada achassem, que não fosse dada por aquelas partes pelos rumos 
+que bem lhes parecesse, pondo o cumprimento em largura, e a largura em cumprimento e 
+fazendo por qualquer modo que fosse a dita légua e meia em quadra, no que receberiam mercê. 
+Segundo que tudo isto na petição do dito padre abade, e mais religiosos do dito convento de 
+São Bento se continha, e era conteúdo, a qual sendo-me apresentada, e por mim vista, nela pus 
+por meu despacho, como pedem, não sendo um prejuízo de terceiro, Paraíba 04 de fevereiro de 
+1610. Segundo que tudo isto no meu despacho se continha, e era conteúdo, pelo que lhes 
+mandei passar a presente carta de sesmaria, e doação em forma pela qual hei por bem e me praz 
+de dar, e doar deste dia para todo sempre ao padre abade, e mais religiosos do convento de São 
+Bento de Pernambuco a dita légua e meia de terra, como pediam, não sendo em prejuízo de 
+terceiro, para que de hoje por diante façam dela tudo o que lhes bem vier, e estiver, como de 
+coisa própria que já lhe de hoje para sempre forra, livre, e isenta, sem em tempo algum dela 
+pagarem foro, nem tributo nenhum, como todas suas entradas, e saídas, serventias, usos, e 
+logradouros a dita légua e meia de terra em quadra se demarcarão, e arruma duas entradas, e 
+saídas, serventias, usos, e logradouros da dita petição conteudas e declaradas, e sendo caso que 
+seja dada e povoada conforme o direito, e regimento de sua Majestade na parte onde se pedia, 
+a pudessem os suplicantes tomar onde não fosse dada, e estivesse por dar, ou devoluta para 
+qualquer das bandas, e pelo rumos que aos ditos suplicantes lhes bem parecesse, e quando se 
+não achasse acomodada toda junta, pudessem tomar a metade em uma parte e a outra metade 
+onde mais a achassem, que não fosse dada por aquelas partes, e pelos rumos que bem lhes 
+
+ 
+parecesse, pondo o comprimento em largura, e a largura em comprimento, perfazendo por 
+qualquer modo que for a dita légua e meia de terra em quadra por que assim hei por bem de 
+dar ao dito padre abade, e mais religiosos a dita légua e meia de terra em quadra dna forma, e 
+maneira que dito é, por está lhes dou poder que possam tomar, e tomem a posse da dita légua 
+e meia de terra em quadra, real, atual, e corporalmente, fazendo dela tudo aquilo que lhes bem 
+ier, e por bem tiverem como de coisa sua prípria pussessem real que já é de hoje para sempre, 
+e mando a todas as justiças desta dita capitania que querendo-se o dito padre abade, e mais 
+religiosos, ou o procurador do dito convento meter de posse da dita légua e meia de terra em 
+quadra o metam sem dúvida, nem embargo que a ele seja posto, porque por esta presente carta 
+de sesmaria, e doação sem mais autoridade de justiça, ordem, nem figura de juízo os havia 
+empossado, e investidos da dita légua e meia de terra em quadra de posse e esta se registrar no 
+livro de registros desta alfândega, para se saber como tenho feito doação da dita légua e meia 
+de terra em quadra aos sobreditos religiosos, e por certeza dela lhes mandei passar a presente 
+por mim assinada e selada com o sinete de minhas armas em os 06 de abril, Paulo Vaz escrivão 
+das datas de terras e chãos da dita capitania por o dito Senhor a fez ano de 1610 ano. Pagou 
+nada. E havendo alguns embargos a dita minha data os poderão alegar ordinariamente, como 
+melhor dispõe o direito neste caso, feito em mesmo dia, mês e ano. Francisco Coelho de 
+Carvalho. O qual traslado eu Vicente cavaleiro fidalgo da casa del Rei, nosso senhor, tabelião 
+do público, judicial, e notas nesta vila de Olinda, capitania de pernambuco por Duarte de 
+Albuquerque Coelho, capitão, e governador dela por sua Majestade etc. Consertei, subscrevi, 
+e assinei aos 30 dias do mês de agosto de 1628 anos. Vicente Gomes da Veiga. Consertado por 
+mim tabelião. Vicente Gomes da Veiga. Não se continha mais em dito documento que eu Filipe 
+Nery Correa tabelião do público judicial e notas da cidade de Olinda, Vila de Recife e seus 
+termos capitania de Pernambuco para sua Majestade fidelíssimo que Deus guarde etc. Fiz 
+trasladar do próprio com o qual e com o oficial abaixo assinado este conferi e consertei vai sem 
+coisa que dúvida faça ao próprio me reporto que tornei a entregar ao R. P. procurador geral do 
+mosteiro de São Bento da cidade de Olinda subscrevi e assinei em público e razão de meus 
+sinais seguintes aos 04 dias do mês de janeiro de 1766. 
+ 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 169-171. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

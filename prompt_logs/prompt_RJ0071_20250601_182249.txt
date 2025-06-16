@@ -1,0 +1,171 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0071
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João da Silveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "16-07-1594",
+  "Data da concessão": "16-07-1594",
+  "Observações da sesmaria": "Por meio da carta de concessão, não foi possível inferir o histórico da terra.",
+  "Localidade": "Cabeceiras da Ilha de Quotiata",
+  "Confrontantes": "Ilha do Gato, chão de Pero Vaz e Praça Nova",
+  "Justificativas": "Pretendia fazer casa; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que tinha filhos e filhas, bem como \"ser dos primeiros povoadores e conquistadores\".",
+  "Observações do deferimento e da concessão": "A RJ 0071 seria a concessão oficial do suplicante, já que a anterior (RJ 0070) foi tornada sem efeito.",
+  "Observações das exigências": "Mandou-se também que houvesse \"a posse e senhorio das ditas terras, ilha e chãos para sempre\", além de determinar-se que desse caminhos livres a vieiros. Igualmente exigiu-se que \"as frutifique da data desta em três anos primeiros seguinte e, outrossim, faça de maneira que dentro em quatro meses tenha feito nas ditas terras e ilha algum proveito e plantado alguns mantimentos e, cumpridos os ditos três anos que as tenha aproveitado como dito é, porque não o fazendo ele assim, passados os ditos três anos, se darão as ditas terras e ilha que aproveitadas não tiver de sesmaria a quem a pedir para as aproveitar\". Uma última exigência seria que \"quanto ao chão para casas, dentro nos ditos 3 anos, ele os não poderá vender, nem enlear, nem por nenhuma via traspassar sem licença do dito Senhor capitão e  governador ou de quem adiante tiver poder para lhe dar\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0071"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0071
+Carta de concessão de sesmaria da terra de João da Silveira de 18 de julho de 1594
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1594 anos em os 18 dias dos mês de julho do dito ano em esta
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, em as casas da morada de
+mim escrivão adiante nomeado, apareceu João da Silveira, morador e meirinho nesta dita
+cidade, e me apresentou uma petição com um despacho em ela do Senhor Salvador Correia de
+Sá, capitão e governador desta dita cidade e capitania e governança deste dito Rio de Janeiro,
+por El Rei nosso Senhor. E da qual petição e despacho dela o traslado é o seguinte: Senhor
+capitão e governador, diz João da Silveira, morador nesta cidade, que o Senhor governador
+geral, Mem de Sá, que santa glória haja, lhe fez mercê de lhe dar uma dada de terra de
+sesmaria neste rio da banda de além de frente desta cidade, pegado com a dada de Martim
+Afonso, índio, e na cabeceira da dada de Jorge Fernandes, que Deus tem, e nas mais
+cabeceiras dos mais vizinhos comarcantes, ou de quem quer que fosse as terras, nas quais
+cabeceiras e tarras lhe deu meia légua de terra de largo, e duas mil braças craveiras de
+comprido, pela terra adentro, com todas as águas que nela houvesse, e assim lhe deu também
+uma ilha que está neste rio, que se chama Quotiata, que está pegado com a Ilha do Gato. E
+tudo lhe deu por carta e, porque ele suplicante ainda não fez benfeitorias da dita terra e ilha,
+pede a Vossa Senhoria lhe de novamente assim e da maneira que foi dada, e a dita ilha pela
+mesma maneira tudo novamente, lhe faça mercê de lhe dar de sesmaria, assim mais lhe faça
+mercê de lhe dar na cabeceira desta dada de que faz menção, meia légua de terra de largo e
+duas mil braças craveiras de comprido, pela terra dentro assim correrá da maneira que a
+primeira dada correr, assim na largura como no comprimento, digo, compridão, como todas as
+águas e campos que nela houverem, assim mais lhe faça mercê de lhe dar de sesmaria nas
+cabeceiras de uns chãos para casas que Vossa Senhoria lhe deu na Praia de nosso Senhora,
+apegado com o chão de Pero Vaz e Praça Nova, lhe de Vossa Senhoria 20 braças de largo na
+dita cabeceira dos ditos chãos e 50 braças de comprido a terra dentro tudo de sesmaria, e
+assim lhe de o sobejo, a terra e o chão que se achar entre ele, João da Silveira, e Pero Vaz e
+suas dadas, que podem ser 4 braças de largo com a compridão que se achar e, sendo dada a
+terra, correrá adiante, e assim também o chão que pede para casas, tudo lhe de sesmaria para
+nas terras fazer sua fazenda e nos chãos fazer casarias, visto ter filhos e filhas e ser dos
+primeiros povoadores e conquistadores, no que receberá mercê. Despacho do Senhor capitão e
+governador: dou ao suplicante, João da Silveira, o que pede em sua petição e na maneira que
+
+em ela declara. Hoje, 16 de julho de 94.
+Salvador Correia de Sá. E tudo visto pelo dito
+Senhor capitão e governador a petição do dito suplicante João da Silveira e o que ele pedia,
+visto ser justo, havendo respeito ao proveito que se pode seguir acerca da República, ao
+serviço de Deus, de El Rei nosso Senhor e por a terra se povoar, deu ao dito suplicante, João
+da Silveira, suas terras, ilha e chãos que pedia e pede em sua petição, assim e da maneira que
+em sua petição pede e, conforme ao dito seu despacho, porquanto dizia que nas ditas terras e
+ilha queria fazer sua fazenda e roças, nos ditos chãos queria fazer casas e por as mais razões
+em sua petição declaradas, não sendo já dadas a outras pessoas 1°, as quais terras, ilha e chãos
+diz que estão nos ditos lugares e que partem pelas ditas confrontações, como em sua petição
+diz, e a braça, porque se medirem as ditas terras e chãos, será braça craveira ss., a saber duas
+varas de medir por uma, como no Reino se costuma de medir, e que tudo lhe deu e concedeu
+pela maneira adiante declarada segundo forma do regimento do governador geral, que foi
+nesta dita cidade Antônio Salema, de que o traslado é o seguinte: e as terras que estiverem
+dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte,
+que não forem dadas a pessoas que as aproveitem, ou posto que o fossem, se por as pessoas a
+que se deram as não aproveitarem no tempo que eram obrigadas por esta via ou por qualquer
+outra, estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que
+não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos
+parecer que podem granjear a aproveitar. As quais terras assim dareis livremente, sem outro
+algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo, e com as
+condições e obrigações do foral dado às ditas terras e da minha ordenação do Livro 4°, título
+das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da dita
+capitania ou das terras que lhe assim forem dadas ao menos 3 anos, e que dentro no dito
+tempo, as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no
+termo da dita cidade, as tiverem perdidas por as não aproveitarem, e vá tornarem a pedir, vós
+lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se
+trasladará nas cartas porque as assim derdes, e isto se entenderá não sendo as ditas terras
+dadas a outras pessoas com as quais condições, obrigações e declarações, lhe assim deu o dito
+Senhor capitão e governador as ditas terras, ilha e chãos para casas do dito suplicante João da
+Silveira, pela sobredita maneira, para sua guarda e segurança lhe mandou ser feita esta carta,
+pela qual manda que ele haja a posse e senhorio das ditas terras, ilha e chãos para sempre,
+para ele e todos seus herdeiros e sucessores ascendentes e descendentes que após dele vierem
+com tal condição e entendendimento, que ele rompa e aproveite as ditas terras e as frutifique
+da data desta em três anos primeiros seguinte e, outrossim, faça de maneira que dentro em
+
+quatro meses tenha feito nas ditas terras e ilha algum proveito e plantado alguns mantimentos
+e, cumpridos os ditos três anos que as tenha aproveitado como dito é, porque não o fazendo
+ele assim, passados os ditos três anos, se darão as ditas terras e ilha que aproveitadas não tiver
+de sesmaria a quem a pedir para as aproveitar, e lhe será deixado alguns logradouros do que
+aproveitado não tiver e, sobretudo, pagará mil réis para as obras do Conselho, e dará pelas
+ditas terras caminhos e serventias ordenadas e necessárias para o Conselho, para fontes,
+pontes, vieiros e pedreiras que necessárias forem as quais terras e ilha, pela dita maneira lhe
+dera e chãos para casas, lhe assim deu tudo e concedeu em nome de El Rei nosso Senhor,
+forro e isento, sem foro, nem tributo, somente o dízimo a Deus, digo, somente de tudo o que
+lhe nosso Senhor Deus der nelas de suas novidades, lavouras e criações pagará os dízimos a
+Deus conforme o dito Regimento, e quanto ao chão para casas, dentro nos ditos 3 anos, ele os
+não poderá vender, nem enlear, nem por nenhuma via traspassar sem licença do dito Senhor
+capitão e governador ou de quem adiante tiver poder para lhe dar e, da dita maneira, lhe dava
+e deu o dito chão e, acabados os ditos 3 anos, tendo ele feito nos ditos chãos casas e
+benfeitorias, ele os poderá vender, trocar, descambar, dar e doar e fazer de tudo o que lhe bem
+vier e aprouver, como cousa própria isenta que é, o que tudo manda que se cumpra e guarde
+sem dúvida nem embargo algum, que a ele seja posto e que esta carta seja registrada dentro
+em um ano nos livros da Fazenda Real, como o dito Senhor em seu regimento manda sob as
+penas em ele contidas e declaradas, e porque o sobredito João da Silveira, suplicante, tudo
+prometeu de ter, manter e cumprir, pela dita maneira lhe mandou passar esta carta de sesmaria
+e por verdade eu, Pero da Costa, tabelião das notas e escrivão das sesmarias por El Rei nosso
+Senhor nesta cidade de São Sebastião e seus termos, este instrumento de carta de sesmaria
+escrevi e tomei nos meus livros das notas e tombo das cartas das sesmarias desta dita cidade
+que em meu poder ficam, onde o dito instrumento fica assinado por o dito Senhor capitão e
+governador, com o riscado que diz "por", no que não faça dúvida porque se fez por verdade, e
+eu sobredito escrevi // Salvador Correia de Sá//
+-fim da transcrição-
+Observações do documento:
+A palavra “Jhu Xpo” foi alterada para “Jesus Cristo”.
+
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg. 27-30.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.27-30. Códice
+778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

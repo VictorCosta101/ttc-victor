@@ -1,0 +1,168 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0090
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0147",
+  "Nome": "João Garcia Velho do Amaral",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "05-01-1757",
+  "Data da concessão": "15-07-1758",
+  "Observações da sesmaria": "O suplicante pediu uma sesmaria de 524 palmos de terra, mas recebeu a concessão de 484 palmos de terra, ao fim das hortas desta Vila, na parte detrás das casas do capitão Luiz da Cunha (PE0061) e Bento Gomes de Oliveira (PE0062) (PE0076), entre a data de sesmaria do tenente-coronel Antônio José Vitoriano Borges da Fonseca e do capitão João da Costa de Andrade (PE0085), até a baixa do mar do rio intermédio ao Recife e Boa Vista.",
+  "Localidade": "Recife e Boa Vista.",
+  "Marcos Geográficos": "Recife e Boa Vista.",
+  "Confrontantes": "Capitão Luiz da Cunha (PE0061), Bento Gomes de Oliveira (PE0062) (PE0076), tenente-coronel Antônio José Vitoriano Borges da Fonseca e capitão João da Costa de Andrade (PE0085).",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, Luiz Diogo Lobo da Silva, recomendou a concessão de 484 palmos de terra. O governador, Luiz Diogo Lobo da Silva, determinou o pagamento do foro de 50 réis por palmo e que se fizesse a confirmação com Sua Majestade.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0090"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0090
+Carta de doação e sesmaria de João Garcia Velho do Amaral –
+05/07/1758
+Carta de doação e sesmaria que se deu em nome de Sua Majestade ao ajudante
+João Garcia Velho do Amaral, 484 palmos de terra.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade fidelíssima, comendador da
+comenda de Santa Maria de Moncorvo da Ordem de Cristo, governador e capitão
+general de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de
+doação de sesmaria virem, que o ajudante João Garcia Velho do Amaral me fez o
+requerimento do teor seguinte: Ilustríssimo e Excelentíssimo Senhor — Diz o ajudante
+João Garcia Velho do Amaral, que no fim da rua das Hortas desta vila, por detrás das
+casas do capitão Luiz da Cunha e Bento Gomes de Oliveira, procurando o aterro dos
+Afogados, entre a data que por sesmaria ao tenente coronel Antônio José Vitoriano
+Borges da Fonseca e ao capitão João da Costa de Andrade, se acham 524 palmos de
+terra desaproveitadas de frente, na qual quer o suplicante fazer edifícios por serem estes
+úteis para aumento da vila e não causarem no lugar embaraço às fortificações, para cujo
+fim pretende-se lhe dê de sesmaria a dita terra com todo o seu fundo até a baixa mar do
+rio intermédio ao Recife e Boavista, por se não seguir daí prejuízo a sua navegação,
+mandando-se-lhe para este efeito passar sua carta de sesmaria na forma do estilo. O por
+que toda aquela terra é coberta d'água salgada em toda a maré cheia e por pantanosa, é
+incapaz de edifício sem que primeiro se lhe faça um grande entulho socalco e alicerce
+profundo, e para esse benefício é preciso o trabalho de 10 anos, os quais para isso se
+deve dar mortos ao suplicante, e outrossim — há necessidade de dois becos para
+servidão do povo, dos quais de ordinário ocupam 20 palmos de terra cada um, nestes
+termos — Pede a Vossa Excelência seja servido mandar se passe ao suplicante sua
+carta de sesmaria da dita terra, com os anos que se pede para findos eles pagar o foro do
+estilo dos palmos de terra seguidos que ficarem tirados os necessários para os becos da
+comum servidão, e receberá mercê — Informe o provedor da Fazenda Real — ouvindo
+o doutor procurador da mesma — Recife, 5 de janeiro de 1757 — Rubrica — Informe o
+escrivão da Fazenda e responda o doutor procurador da mesma — Barros — Senhor
+provedor da Fazenda — Sobre o requerimento do suplicante, é preciso que primeiro
+informe o Senado da Câmara desta Vila, a respeito do lugar se impede a servidão da
+
+república e a navegação do rio; e o capitão Antônio José de Lemos, para declarar se
+impede a fortificação desta praça e constando que não cause prejuízo algum, parece
+justo se conceda ao suplicante os palmos de terra que se acharem líquidos, depois da
+medição se deve fazer para constar da quantidade certa de que há de pagar foro, sendo
+também atendível que se lhe concedam alguns anos mortos a respeito do benefício, que
+lhe é necessário fazer e have se já concedido ao tenente-coronel Antônio José
+Victoriano Borges da Fonceca, 6 anos mortos na sesmaria que se lhe deu no mesmo
+lugar; Vossa Mercê mandará o que for servido — Recife, aos 11 de janeiro de 1757 —
+Bernardo Pereira de Vasconcellos —
+Senhor provedor da Fazenda Real — Deve
+satifazer ao suplicante a tudo o que relata o escrivão na sua informação supra, Vossa
+Mercê mandará o que for servido — Recife, 16 de fevereiro de 1757 —
+Caetano
+Ribeiro Soares — Ilustríssimo e Excelentíssimo Senhor — Com a informação do
+escrivão da Fazenda, informo a Vossa Excelência —. Recife, 20 de fevereiro de 1757
+— João do Rego Barros — Informe o Senado da Câmara do distrito — Recife, 22 de
+fevereiro de 1757 — Rubrica — Ilustríssimo e Excelentíssimo Senhor — Vimos e
+examinamos o lugar de que faz menção a petição do suplicante e achamos que não
+prejudica ao bem público dos edifícios que se pretende; e é o que podemos informar a
+Vossa Excelência, que mandará o que for servido — Recife, aos 2 de abril de 1757 —
+E eu, Joaquim José de Souza, escrivão da Câmara, o escrevi — Fernando Fragoso de
+Albuquerque — José Ignacio da Costa — José Teodoro de Lemos Duarte — Informe o
+capitão-engenheiro Antônio José de Lemos, declarando se a obra que o suplicante
+intenta fazer, no sítio que pretende, serve de prejuízo a fortificação, e fazendo na sua
+presença medir os palmos que deles se lhe podem dar, sem prejuízo do público e do
+mais que se pretende acautelar — Recife, 22 de outubro de 1757 — Rubrica =
+Ilustríssimo e Excelentíssimo Senhor — Fui ver a porção de terra que pede o suplicante
+em sua petição, e principiando a medir da data que se fez ao tenente-coronel Antônio
+José Victoriano Borges da Fonceca até a data do capitão João da Costa de Andrade
+(que é o que nomeia o suplicante), achei 524 de terreno pantanoso, dos quais devem
+ficar 40 palmos para dois becos, para servidão do povo, dando-se-lhe os 484 palmos
+por sesmaria para neles construir as moradas de casas, que não embaraçam as
+fortificações desta praça nem ao bem público delas, toda esta terra é coberta d’água
+salgada em toda a maré cheia e incapaz de se fundar nela sem um grande entulho e
+sucaleo que deve o suplicante mandar fazer, pelo que me parece atendível o
+requerimento que faz dos anos mortos, depois dos quais deve pagar o foro costumado
+
+para Sua Majestade — Recife, 29 de fevereiro de 1758 — Antônio José de Lemos — E
+não se continha mais em dito requerimento do suplicante, informações e respostas que
+estando todas conformes e sendo-me apresentado, nele proferi o despacho seguinte: -
+Vistas as informações, passe-se carta de sesmaria com as declarações necessárias e
+aponta o capitão-engenheiro Antônio José de Lemos, dando-se 6 anos mortos para
+depois dos ditos continuar em pagar a pensão anual a respeito de cada palmo, na forma
+do estilo na Provedoria da Fazenda Real, na qual se registrará e porão as verbas
+necessárias para constar do ônus com que se lhe concede e haver cuidado de sua
+cobrança — Recife, 26 de junho de 1758 — Rubrica — Em cujo cumprimento se
+passou a presente, pela qual tenho e hei por bem dar ao suplicante em nome de Sua
+Majestade e do Capítulo 15 do Regimento deste Governo, os 484 palmos de terra, na
+forma que diz o capitão-engenheiro na sua informação e confrontados em dita petição
+com o fundo nela requerido, pagando o foro de 50 réis pelo palmo e não passará as
+religiões salvo se for com os mesmos encargos, que os tem os seculares cuja porção de
+terra logrará e possuirá ele e seus herdeiros ascendentes e descendentes, como sua que
+fica sendo de hoje e para todo sempre, não prejudicando a terceiro; e o ministro da
+Fazenda Real tomará a razão desta data para bem da arrecadação dos foros e será
+obrigado a requerer confirmação a Sua Majestade na forma que o dito senhor ordena
+em suas reais ordens; pelo que ordeno aos ministros da Fazenda e Justiça e mais
+pessoas a que tocar, cumpram e façam cumprir esta carta de doação e sesmaria como
+nela se contém e façam dar ao suplicante a posse real, efetiva e atual na forma
+costumada e debaixo das cláusulas referidas e das mais da ordenação titulada de
+sesmarias. — Em firmeza do que lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se registrará na secretaria deste governo,
+provedoria da Fazenda Real e mais partes a que tocar. Dada nesta praça do Recife de
+Pernambuco, aos 15 dias do mês de julho — Francisco Gonçalves Reis Lisboa a fez —
+no ano do Nascimento de Nosso Senhor Jesus Cristo, de 1758 — O secretário Antônio
+José Correa a fez escrever —. Luiz Diogo Lobo da Silva —.
+- Fim da Carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 110 - 114.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

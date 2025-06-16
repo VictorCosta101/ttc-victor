@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0003
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0006",
+  "Nome": "Cristóvão Paes Cavalcante , Gaspar de Mendonça Bandeira, João Cavalcante de Albuquerque, João de Magalhães, Manoel Alves de Azevedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "05-01-1691",
+  "Data da concessão": "08-01-1691",
+  "Observações da sesmaria": "A sesmaria concedida localizava-se entre o rio Sirinhaém, ao sul, e o rio Ipojuca, ao norte, na localidade da Aldeia do Carapote. Os suplicantes requereram seis léguas de terra de forma contínua, sem especificar a divisão para cada sesmeiro. A sesmaria confrontava-se com as terras do capitão Bernardo Vieira de Melo, da parte leste a oeste, e com as terras do capitão Manuel Carneiro da Cunha, da parte sul a norte. ",
+  "Localidade": "Na Aldeia do Carapote, entre os rios Sirinhaém e Ipojuca",
+  "Marcos Geográficos": "Ao norte o rio Ipojuca e ao sul o rio Sirinhaém ",
+  "Confrontantes": "Terras do capitão Manuel Carneiro e terras do capitão Bernardo Vieira de Melo",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia criar gado; Pretendia plantar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse direito aos sucessores; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a concessão fosse dada de acordo com as Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0003"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0006 
+Carta de doação de sesmaria do capitão João Cavalcante de Albuquerque, capitão Christovão 
+Paes Cavalcante, capitão Gaspar de Mendonça Bandeira, João de Magalhães e Manoel Alves 
+de Azevedo – 08/01/1690 
+ 
+SESMARIA DE UMAS TERRAS ENTRE OS RIOS SERINHEM E IPOJUCA, QUE SE 
+DERAM AO CAPITÃO JOÃO CAVALCANTE DE ALBUQUERQUE E A OUTRAS 
+PESSOAS 
+ 
+    Antônio Félix Machado da Silva e Castro, do Conselho de Sua Majestade, marquês de Monte-
+bello, senhor e donatário do conselho de terras de Entre Homem e Cavado, senhor das casas de 
+Castro e Vasconcellos, Barroso e dos solares delas, alcaide-mor de Mourão, comendador e alcaide-
+mor das comendas e Vilas do Casal e [sexto] da Ordem de São Bento de Aviz, governador da 
+capitania de Pernambuco e das mais anexas e etc. Faço saber aos que esta carta de doação e 
+sesmaria virem que a mim se me representou a petição cujo teor é o seguinte: “Senhor marquês 
+governador”, Dizem que o capitão João Cavalcante de Albuquerque, o capitão Christovão Paes 
+Cavalcante, O capitão Gaspar de Mendonça Bandeira, João de Magalhães e Manoel Alves de 
+Azevedo, todos moradores uns na freguesia de São Lourenço da Mata e outros na freguesia de 
+Nossa Senhora da Luz, da mesma mata, que pelo rio de Sirinhaém para cima da parte do norte, e 
+pelo rio de Ipojuca da parte do sul no lugar chamado Aldeia do Carapote estão muitas terras 
+devolutas, sem haver quem as frequente, nem nelas metam gados nem menos plantem lavouras, e 
+porque eles suplicantes querem povoar toda aquela terra devoluta, se a dar  para nela plantarem suas 
+lavouras e trazerem seus gados no lugar confrontado, começando da parte de leste a oeste que se 
+entestar com terras do capitão-maior Bernardo Vieira de Melo e da parte do sul ao norte até entestar 
+com terras do capitão Manoel Carneiro da Cunha, portanto pedem a Vossa Senhoria seja servido dar 
+largura no lugar e partes confrontadas, para nelas trazerem seus gados e terem suas lavouras; e 
+receberão mercê. Informe o provedor da Fazenda Real, com seu parecer e com intervenção do 
+procurador da Coroa e Fazenda. Olinda, 5 de janeiro de 1691. “Rubrica””. Haja vista o procurador 
+da Coroa e Fazenda Real destas Capitanias. Recife, 5 de janeiro de 1691 “Barros”. Não ponho 
+dúvida a se concederem aos suplicantes de sesmaria, nas partes confrontadas, de 6 léguas de terras 
+ordinárias e contínuas, fazendo-se a data na forma da ordenação, Livro 4º, título 43. Recife, 5 de 
+janeiro de 1691 “Pereira”. Senhor, com a resposta do procurador da Coroa, que sou do mesmo 
+parecer, informo a Vossa Senhoria para mandar o que for servido. Recife, 5 de janeiro de 1691. 
+“João do Rego Barros” e havendo outrossim, respeito ao que Sua Majestade, que Deus guarde, me 
+encomenda sobre este particular no capítulo 15 do regimento deste Governo. Hei por bem de lhes 
+fazer mercê dar, como em virtude da presente dou de sesmaria de seis léguas de terras ordinárias e 
+contínuas, como pareceu ao provedor e procurador da Fazenda, nos lugares que os  suplicantes 
+pedem, assim e da maneira que confronta na sua petição, para sempre as lograrem eles e seus 
+herdeiros, achando-se devolutas e não prejudicando a terceiro com todas as suas águas, campos, 
+matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de tributo 
+foro ou pensão alguma, salvo dízimo a Deus; e só serão obrigados a dar caminhos livres ao 
+Conselho para fontes, pontes e pedreiras. Pelo que ordeno a todos os ministros da Fazenda e Justiça 
+destas capitanias ou aos que o conhecimento desta carta pertencer, façam a dar posse real, efetiva e 
+atual na forma costumada e debaixo das cláusulas referidas e das mais da ordenação título das 
+sesmarias, que para firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o 
+sinete de minhas armas, a qual se registrará nos livros da Secretaria destas capitanias e nos da 
+Fazenda Real a que tocar. Dada nesta cidade de Olinda, em 8 dias do mês de janeiro. Antônio 
+Pereira a fez, ano de 1691. O secretário, Antônio Barbosa de Lima, a fez escrever “O marquês de 
+Monte-bello”. 
+- Fim da carta – 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. Vol. 1, p. 16-18. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,151 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0049
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0217",
+  "Nome": "Teodósio Luís da Costa Moreira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "31-08-1810",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no rio Mundaú, termo da vila e comarca das Alagoas. A terra se estendia do dito rio a leste até a barra do rio Capapim. ",
+  "Localidade": "Rio Mundaú",
+  "Marcos Geográficos": "Rio Capapim",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0049"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0023 
+ 
+Carta de concessão de Teodósio Luís da Costa Moreira de 20/02/1810 
+ 
+Teodósio Luís da Costa Moreira com meia légua de terra em quadra no lugar do rio 
+Mundaú do termo e comarca da vila das Alagoas 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho do príncipe regente nosso senhor, e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria virem, 
+que Teodósio Luís da Costa Moreira me fez o requerimento do teor seguinte = 
+Ilustríssimo e excelentíssimo senhor = Diz Teodósio Luís da Costa Moreira, que ele 
+pretende tirar por sesmaria uma légua de terra ao longo do rio chamado Mundaú, termo 
+da vila e comarca das Alagoas, servindo o dito rio de testada pela parte do nascente, 
+pegando da barra do riacho denominado Capapim que desemboca naquele mesmo rio do 
+Mundaú, meia légua para cada uma dos lados, servindo o mesmo riacho do Capapim de 
+pesão, tendo a referida légua de terra duas de fundo, correndo direito para o nascente ao 
+longo do dito riacho do Capapim por uma, e outra parte deste, de sorte que vem a ser uma 
+légua por cada uma das margens abaixo do mencionado riacho Capapim, e porque se 
+acham sem senhorio as ditas terras e não causa dano a real construção, antes é útil em 
+aumento da agricultura para que pretende o suplicante as mesmas terras, por tanto = Pede 
+a V. Ex.ª seja servido mandar passar-lhe por data a carta de sesmaria na forma que fica 
+ponderado, precedidas, as diligências do costume. E receberá mercê. E sendo visto seu 
+requerimento ordenei por despacho de 29 de outubro de 1805 que informasse 
+desembargador juiz conservador das matas reais, e informando este que não haviam nas 
+ditas terras pau-brasil, nem madeira de construção e das que se mandarão reservar para o 
+Arsenal Real por despacho de 14 de dezembro do dito ano ordenei a câmara do distrito 
+que mandasse terceiros prejudicados, informando-me a dita câmara, que ninguém se 
+opusera, mandei por despacho de 1º de setembro de 1807, que informasse o escrivão 
+deputado da Junta da Real Fazenda, e também o doutor procurador da mesma Fazenda 
+por outro despacho de 4 de setembro do referido mês e ano, e como ambos informaram 
+que se podiam dar de sesmaria ao suplicante as terras contempladas em seu requerimento, 
+pagando o foro anual de seis mil réis por légua de que deu fiança na Contadoria da Real 
+Fazenda a folhas 112 do Livro 6º delas, mandei ultimamente por despacho de 20 de 
+fevereiro do presente ano, que se passasse carta de sesmaria pela faculdade que sua Alteza 
+Real me concede no capítulo 15 do regimento deste governo e portanto Hei por bem dar 
+em nome do mesmo Augusto Senhor ao dito Teodósio Luís da Costa Moreira meia légua 
+de terra em quadro no lugar do rio Mundaú do termo e comarca da vila das Alagoas, como 
+declara em seu requerimento, fazendo pião no riacho Capaim, correndo um quarto de 
+légua para cada um dos lados do mencionado riacho Capapim, a qual sesmaria possuirá, 
+e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua que fica 
+sendo se hoje para todo sempre, com todas as matas, campos, rios, águas, testadas, 
+logradouros, e mais úteis, que nela compreender, não prejudicando a terceiro e não 
+passará a dita terra a Religião, e pessoas eclesiásticas, salvo sendo com os mesmo 
+encargos, com que as possuem os seculares e nunca se dividirá em porções, nem se 
+repartirá se não por estimação, andando encabeçada em uma só pessoa, na forma da 
+Ordenação do livro 4º título 96 parágrafo 23, e assim não passará a referida terra a 
+herdeiros, ou qualquer outra pessoa sem consentimento da Junta da Real Fazenda, para 
+
+nela se darem novas fianças e se fazerem as devidas escriturações, sendo taméem 
+obrigado a dar ao conselho caminhos livres para pontes, fontes, pedreiras e querer dentro 
+de três anos confirmação, medição, demarcação, povoá-la e cultivá-la na conformidade 
+da ordem ´regia de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e não o 
+cumprindo assim se haverá por devoluta, e novamente, se conferira a quem a requerer. 
+Pelo que mando as ministros da Fazenda e Justiça, e mais pessoas a quem tocar cumpram, 
+e façam cumprir, e guardar esta carta de data de sesmaria, como nela costumada, debaixo 
+das cláusulas referidas, e das mais da Ordenação título das sesmarias visto constar por 
+bilhetes achar-se dada a fiança; Em firmeza do referido lhe mandei passar a presente , que 
+sendo por mim assinada e selada com o selo das minhas armas se registará na secretaria 
+deste Governo, e na da Junta da Real Fazenda e aonde mais tocar. Manuel Freire Mariz 
+oficial maior da Secretaria a fez em o Recife de Pernambuco aos 31 dias do mês de agosto 
+de 1810. José Carlos Mairink da Silva Ferrão secretário do Governo a fez escrever = 
+Caetano Pinto de Miranda Montenegro = Carta de data de sesmaria pela qual V. Ex.ª há 
+por bem dar a Teodósio Luís da Costa Moreira em nome de Sua Alteza Real meia légua 
+de terra em quadra no lugar do rio Mundaú do termo e comarca da vila das Alagoas. Por 
+Despacho do ilustríssimo e excelentíssimo senhor general de 20 de Fevereriro de 1810/. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, 116-117. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

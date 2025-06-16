@@ -1,0 +1,114 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0233
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel André Pinheiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "21-01-1722",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na margem do rio Iriri",
+  "Ribeira": "Iriri",
+  "Confrontantes": "Data de terras de Nossa Senhora do Carmo, com igreja e olaria",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0233"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0233
+Carta de concessão de Manuel André Pinheiro de 21 de janeiro de 1722
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+uma petição Manuel André Pinheiro, que no rio de Iriri, onde os religiosos de Nossa Senhora
+do Carmo têm uma data de terras em que estão situados com igreja e olaria, se acha um
+sobejos de terras pegados a dita data pelas travessas do Rio de [Iurui], caminho de leste para o
+de Iriri no sertão sem dono e devolutos. Pedindo-me que lhe mandasse dar por sesmaria os
+ditos sobejos destas por se achar com bastantes escravos para as cultivar, de que se seguia
+utilidade aos Reais dízimos e bem comum. Dando-se vista deste requerimento ao provedor da
+Fazenda Real e ao procurador da Coroa, não se lhes oferecendo dúvida. Hei por bem fazer
+mercê ao dito Manuel André Pinheiro de lhe dar por sesmaria, em nome de Sua Majestade,
+que Deus guarde, os referidos sobejos de terras, não excedendo, porém, 1 légua em quadra na
+forma das ordens do mesmo Senhor; sem prejuízo de terceiro ou do direito que algumas
+pessoas possam ter a elas; com condição de que as cultivará e mandará confirmar esta minha
+carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará
+mais tempo. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento desta
+pertencer, dê posse ao dito Manuel André Pinheiro dos referidos sobejos de terras na forma e
+maneira acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, que se cumprirá inteiramente como nela se
+contém, se registrará nos Livros da Secretaria deste governo e nos mais a que tocar. Dada
+nesta cidade de São Sebastião do Rio de Janeiro, aos 21 dias do mês de janeiro de 1722.
+[João] Paes de Paredes a fez. O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a Manuel André Pinheiro de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, uns sobejos de terras na forma e
+maneira acima declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+118. Rio, 21 de janeiro de 1722.
+
+//José Ferreira da Fonte//
+Registre-se nos Livros da Fazenda Real, Rio, 23 de janeiro de 1722.
+//(não identificado)//
+(Ilegível) a folha 32. Rio, 30 de janeiro de 1722
+//Manuel de Vasconcelos Velho//
+Registrada no Livro 21 de registros nesta Provedoria a folha 40. Rio de Janeiro, 28 de 1722.
+//Francisco de Oliveira Leitão//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro fez mercê a Manuel André
+Pinheiro de lhe dar por sesmaria uma légua de terras, em quadra, na margem do rio Iriry, com
+as confrontações na mesma carta indicados. Rio de Janeiro, 21 de janeiro de 1722.
+Manoel André Pinheiro foi atualizado para Manuel André Pinheiro.
+Referência:
+AHU_ACL_CU_017-01, Cx. 19, D. 4283
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

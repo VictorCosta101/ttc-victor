@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0021
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel de Matos Bethlem",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-11-1673",
+  "Observações da sesmaria": "A sesmaria estava localizada ao longo do rio Paraguaçu, possuindo cinco léguas em quadra e fazia fronteira, ao oeste, com as terras de capitão Baltazar da Mota Peixoto (BA0012).",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Baltazar da Motta Peixoto",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Tinha cabedal; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que deveriam ser concedidas três ou quatro léguas em quadra, já o provedor afirmou que seria melhor conceder quatro léguas. O governador-geral decidiu doar as cinco léguas solicitadas pelo suplicante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0021"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de sesmaria de 5 léguas de terra, de medida ordinária concedida ao alferes 
+Manuel de Matos Bethlem. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que, Manuel de Matos Bethlem, alferes do mestre de campo, João Furtado de 
+Mendonça me enviou a representar por sua petição, cujo teor é o seguinte: senhor Manuel de 
+Matos Bethlem é alferes do mestre de campo João Furtado de Mendonça, que ele está servindo 
+a Sua Alteza nesta praça, e tem cabedal para poder passar logo terras dos que se conquistaram 
+aos bárbaros, e porque ao longo do rio de Paraguaçu abaixo de data que se concedeu ao capitão 
+Baltazar da Motta Peixoto, da banda do Leste, há algumas que estão ainda por dar. Pede a Vossa 
+senhoria, lhe faça mercê dar de sesmaria em nome de Sua Alteza, 5 léguas em quadra ao longo 
+do dito rio de Paraguaçu, da banda da nascente abaixo da data do capitão Baltazar da Motta, 
+começando onde ele acaba com suas entradas saídas e serventias. E receberá mercê. Visto a 
+resposta do provedor da Fazenda que é a que se segue: bem se podem conceder ao suplicante, 
+3 ou 4 léguas de terra de sesmaria na forma que pede, obrigando-se a aproveitá-las no termo da 
+lei, e sem prejuízo de terceiro. Bahia, 10 de novembro de 1673. Rocha// A informação do 
+provedor-mor da Fazenda Real que é a seguinte: senhor, parece-me que bem se podem conceder 
+ao suplicante, 4 léguas de terra em quadra, obrigando-se na forma do regimento foral, sem 
+prejuízo de terceiro, Vossa senhoria mandará o que for servido. Bahia, 10 de novembro de 1673. 
+Antônio Lopes de Ulhoa// Hei por bem de lhe conceder, como pela parte faço de sesmaria, em 
+nome de Sua Alteza, 5 léguas de terra da medida ordinária, ao dito alferes Manuel da Motta 
+Bethlem, assim como a pede e confronta em sua petição, não prejudicando a terceiro, nem as 
+terras que se determinou tivessem as povoações que de novo se prezem para se darem a seus 
+povoadores, e serão obrigados a povoá-las no termo da lei e regimento, pois nesta 
+conformidade, lhes concedo a todas suas águas, campos, matos, testadas e logradouros, e mais 
+úteis que nelas se acharem, todo foro livre e isento de pensão, ou tributo algum, salvo o dízimo 
+a Deus, que pagará dos frutos que nelas houver, e por elas será obrigado a dar caminhos livres 
+ao conselho, para fontes, pontes e pedreiras. Pelo que ordeno e mando a todos ministros de 
+justiça, a que o conhecimento deste com direito deva ou possa pertencer, lhe façam dar a posse 
+real efetiva e atual na forma costumada debaixo das cláusulas acima referidas, e as mais da 
+ordenação, título das sesmarias. Faça firmeza do que lhe mandei passar o presente sob meu 
+sinal e selo de minhas armas, o qual se registrará nos livros da secretaria do Estado e nas mais 
+a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nele se contém, sem 
+dúvida embargo, nem contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, 
+Bahia de Todos os Santos, nos 10 dias do mês de novembro, ano de 1673. Bernardo Vieira 
+Ravasco o fez escrever. Afonso Furtado de Castro do Rio de Mendonça// Registrada no 
+primeiro livro dos registros da secretaria do Estado do Brasil, a que toca as folhas 188. Bahia, 
+10 de novembro de 1673. Ravasco// Cumpra-se e registre-se, como Sua Alteza mandou. Bahia, 
+10 de novembro de 1673. Ulhoa// Registrou-se no mesmo dia, e se entregou ao suplicante 
+Miguel Pinto de Freitas.  
+ 
+- Fim da transcrição- 
+ 
+Observações do documento:  
+ 
+O nome original do sesmeiro, tal qual consta no documento original, é Manoel de Mattos 
+Bethlem.  
+ 
+
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 38 – 39.  
+Numeração original no livro: 35 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

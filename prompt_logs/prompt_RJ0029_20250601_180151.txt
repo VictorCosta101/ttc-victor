@@ -1,0 +1,159 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0029
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Aleixos Manuel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "03-11-1578",
+  "Data da concessão": "03-11-1578",
+  "Observações da sesmaria": "Título original: Carta de sesmaria das terras de Aleixo Manuel que partem com as cabeceiras de Antônio de Mariz e Antônio de Sampaio e Francisco Gonçalves e Iliseu Monteiro que tudo não será mais de meia légua.\r\n",
+  "Ribeira": "Rio Saracuruna",
+  "Confrontantes": "Antônio de Sampaio; Antônio de Mariz; Pero Fernandes; Cristóvão Monteiro; Francisco Gonçalves; Aires Fernandes; Eliseu Monteiro",
+  "Observações da petição": "O documento está incompleto. ",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento está incompleto. ",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0029"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0029
+Carta de concessão de sesmaria da terra de Aleixos Manuel de 3 de novembro de 1578
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que, no ano do nascimento de
+nosso Senhor Jesus Cristo de 1578 anos em os 3 dias do mês de novembro do dito ano nesta
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil,
+nas pousados de mim
+escrivão adiante nomeado, apareceu Aleixos Manuel, morador nesta dita cidade, e me
+apresentou uma petição com os 2 despachos em ela do Senhor Salvador Correia de Sá, capitão
+e governador desta dita cidade e capitania deste dito Rio de Janeiro, por El Rei nosso Senhor
+[...] do dito Aleixo Manuel [...] da qual petição e despacho dela o traslado de tudo é o
+seguinte. Diz Aleixo Manuel, morador nesta cidade, que [...] lhe foram dadas por sesmaria
+umas terras que estão por [...] Antônio de Mariz as quais [...] se achou serem de [...] de Sua
+Alteza [...] que oferece por onde a [...] e porque é um homem casado com mulher e filhos
+pede a Vossa Senhoria [...] lhe de em nome de Sua Alteza, de sesmaria uns sobejos de terra
+que estão pelo Rio de Saracuruna da dita banda esquerda e que comece de Antônio de
+Sampaio até Antônio de Mariz, todo aquele sobejo que entre ambos está e que houver
+correndo pela cabeceira de Antônio de Mariz e de outra dada de Pero Fernandes, piloto,
+correndo para o Sudoeste até entestar nas terras que ficaram de Cristóvão Monteiro
+confrontando com Antônio de Sampaio e com os mais [...] lhe couberem ao redor dos ditos
+sobejos e assim mais uns sobejos de terras que estão por cima da cabeceira de Aires
+Fernandes entre [...] e Aldeia das Velhas onde esta torna [...] ao longo de Nhumirim da banda
+[...] confrontando com Francisco Gonçalves [...] e com os mais que confrontam [...] ditos
+sobejos o que tudo pede a [...] e de sesmaria em [...] e da carta que tem não [...] não caber a
+dita terra que [...] lhe foi dada como da carta [...] dada e receberá mercê. Despacho do Senhor
+capitão e governador. Dou ao suplicante a quantidade da terra que pede [...] e torne ao que o
+dito Aleixos [...] por escrito e deu em resposta [...]
+não sabe o suplicante com certeza
+porquanto são sobejos e não [...] e se os haverá ou não pede a Vossa Senhoria lhes de,
+havendo-os e receberá mercê. Traslado do outro despacho do dito Senhor capitão e
+governador. Dou ao suplicante os sobejos que diz de Antônio de Mariz, de Antônio de
+Sampaio e Pero Fernandes pelas cabeceiras de Eliseu Monteiro contanto que passem de meia
+légua em quadra. Hoje, [...] de novembro de 1578. Salvador Correia de Sá. E tudo visto pelo
+
+dito Senhor capitão e governador a petição do dito suplicante Aleixo Manuel e o que lhe ele
+pedia, visto ser justo e havendo respeito ao proveito que se pode seguir acerca da República,
+ao serviço de Deus e do Rei nosso Senhor, por a terra se povoar deu ao dito suplicante a terra
+e os sobejos contidos, conforme o seu despacho e conforme a ela, a dita terra devoluta e em
+matos maninhos, sem nenhuma benfeitoria para o dito suplicante aproveitar e fazer sua
+fazenda de roças como diz nela, não sendo já dada a outras pessoas 1°, a qual terra está nos
+ditos lugares, tem a dita medida e parte pelas ditas confrontações como em sua petição diz, e a
+braça, porque se mediu a dita meia légua, será braça craveira scilicet a saber 2 varas de medir
+por uma, como no Reino se costuma de medir, o que tudo lhe deu e concedeu na maneira
+abaixo declarada segundo forma do regimento do governador geral Antônio Selema de que
+traslado é o seguinte. § As terras que estiverem dentro do termo e limites da dita cidade de
+São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as
+aproveitarem ou, posto que o fossem, se por as pessoas a que se deram as não aproveitem no
+tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar
+de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa mais terra que
+aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar,
+as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do
+Mestrado de nosso Senhor Jesus Cristo, e com as condições e obrigações do foral dado às
+ditas terras e de minha ordenação do Livro 4°, título das sesmarias, com condição que a tal
+pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem
+dadas ao menos três anos, e que dentro no dito tempo as não possam vender, nem enlear, e se
+algumas pessoas a que forem dadas terras no termo da dita cidade e as tiverem perdidas pôr as
+não aproveitarem, e vá tornarem a pedir, vós lhes podereis de novo dar com as condições e
+obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes, e
+isto se entenderá não sendo as ditas terras dadas a outras pessoas com as quais condições,
+obrigações e declarações, lhe assim deu o dito Senhor capitão e governador as ditas terras ao
+dito Aleixo Manuel, suplicante, pela dita maneira e pela sua guarda e segurança, lhe mandou
+ser feita esta carta, pela qual manda que haja a posse e senhorio delas para sempre, para ele,
+sua mulher, filhos, netos, herdeiros e sucessores ascendentes e descendentes que após dele
+vierem com tal condição e entendimento, que ele rompa e aproveite as ditas terras e as
+frutifique da data desta em três anos primeiros seguintes e, outrossim, fará de maneira que
+dentro em quatro meses tenham feito nelas algum proveito e plantado alguns mantimentos,
+
+cumpridos os ditos três anos que as tenha aproveitado como dito é, porque não o fazendo ele
+assim, passados os ditos três anos, se darão as ditas terras que aproveitadas não tiver de
+sesmaria, a quem as pedir para as aproveitar, e lhe será deixado alguns logradouros do que
+aproveitado não tiver e, sobretudo, pagará mil réis para as obras do Concelho e dará por elas
+caminhos e serventias ordenadas e necessárias para o Concelho, para fontes, pontes, viveiros e
+pedreiras que necessários forem as quais terras, pela sobredita maneira lhe assim deu e
+concedeu em nome do Rei nosso Senhor foras e isenta, sem foro, nem tributo, somente de
+tudo o que lhe nosso Senhor der nela de suas novidades, lavouras e criações, pagará os
+dízimos a Deus conforme ao dito regimento, o que tudo manda que cumpra e guarde sem
+dúvida, nem embargo, algum que a ele seja posto e que esta carta seja registrada dentro em 1
+ano nos livros da Fazenda Real, como o dito Senhor manda em seu regimento, o que tudo,
+digo, e porque o dito suplicante Aleixos Manuel tudo prometeu de ter, manter e cumprir, pela
+dita maneira lhe mandou passar esta carta de sesmaria e por verdade eu, Pero da Costa,
+escrivão das sesmarias e tabelião das notas por El Rei nosso Senhor em esta sua cidade de São
+Sebastião, e seus termos que este instrumento de carta de sesmaria escrevi e tomei nos meus
+livros das notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam
+onde o dito instrumento fica assinado por o dito Senhor capitão e governador //Salvador
+Correia de Sá//
+-fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria das terras de Aleixo Manuel que partem com as cabeceiras
+de Antônio de Mariz e Antônio de Sampaio e Francisco Gonçalves e Iliseu Monteiro que tudo
+não será mais de meia légua.
+Referências :
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro:
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 122-125.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79)
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

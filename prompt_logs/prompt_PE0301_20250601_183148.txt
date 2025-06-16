@@ -1,0 +1,113 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0301
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Baltazar Gonçalves (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "07-08-1625",
+  "Observações da sesmaria": "O suplicante requereu 5000 braças de comprimento e 5000 braças de largura entre Maciape e Mussurepe, do outeiro de Miritibi até Bucaranga. ",
+  "Localidade": "Maciape e Mussurupe",
+  "Marcos Geográficos": "Outeiro de Miritibi, Bucaranga",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ser morador na vila de Olinda há 34 anos e que participou de todas as batalhas e guerras do serviço de Sua Majestade e do senhor Duarte de Albuquerque, em defesa desta sua capitania, assim aos inimigos do mar, como potiguares de terra, e porque tem muitos escravos e não tem terra em que possa lavrar e plantar mantimentos requereu ao donatário a concessão de uma sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0301"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0301 
+ 
+Concessão de Baltazar Gonçalves de 07/08/1625 
+ 
+Sesmaria de terra que nos vendeu Isabel Dias e ato de posse 
+  
+Petição. Senhor doutor ouvidor geral. Diz o padre abade de São Bento, desta cidade de Olinda, 
+que a ele lhe pertence o título que apresenta, pela compra que fez da propriedade nele conteuda, 
+e porque o dito título está com sua danificação, por muito antigo, o quer ele suplicante fazer 
+trasladar judicialmente para sua guarda, portanto: Pede a vossa mercê mande que qualquer 
+tabelião a que for apresentado, lhe traslade em modo que faça fé, e outrossim, lhe lance nas 
+notas, para a todo o tempo constar. E receberá mercê. Despacho: Como pede. Moraes. Traslado 
+do que se pede. Diz Baltazar Gonçalves, morador nesta vila há 34 anos, que reside nela e 
+sempre se achou com suas armas em todas as ocasiões que se ofereceram de rebates do serviço 
+de Sua Majestade e do senhor Duarte de Albuquerque, em defesa desta sua capitania, assim 
+aos inimigos do mar, como [pitiguares] de terra, e porque tem muitos escravos e não tem terra 
+em que possa lavrar e plantar mantimentos, e entre as terras de Maciape e Mussurepe, há 
+alguma sobras demarcando-se que podem ser 4 até 5000 braças de terra em quadra. Pede a 
+Vossa Senhoria lhe faça mercê dar todas as ditas sobras que houver, entre as ditas demarcações 
+que se mediram do outeiro de Miribiti até onde chamam Buracanga, para mantimentos. E 
+receberá mercê. Passe carta de data das 4 até 5000 braças de terra em quadra ao suplicante no 
+lugar que confronta, não prejudicando a terceiro. Olinda, em 7 de agosto de 1725. Albuquerque. 
+Matias de Albuquerque, capitão general e governador deste Estado do Brasil, por ElRei, Nosso 
+Senhor. Faço saber aos que esta minha carta de data for mostrada e o conhecimento dela com 
+direito pertencer, que Baltazar Gonçalves me fez a petição atrás escrita, a qual vista e o que 
+nela alega, e por desejar de lhe fazer mercê: Hei por bem de lhe dar ao dito Baltazar Gonçalves, 
+em nome do senhor Duarte de Albuquerque, meu irmão, cujos poderes tenho, 4 até 5000 braças 
+de terra em quadra, que diz poderá haver de sobras entre as terras de Maciape e Mussurepe, as 
+quais se mediram do outeiro de Miritibi, até onde chamam Buracanga, como em sua petição 
+pede, onde não for dado, nem prejudicar a terceiro, e as ditas 4 até 5000 braças de terra em 
+quadra dou e concedo ao dito Baltazar Gonçalves, com todas as águas, pastos e madeiras que 
+nelas houver, e as possuirá ele e seus herdeiros e descendentes de hoje para sempre, sem dúvida, 
+nem contradição de pessoa alguma, e da posse se fará termo nas costas desta minha carta que 
+se registrará nos livros das datas e sesmarias desta capitania; e se cumprirá sem dúvida, nem 
+embargo algum, como nela se contém. Dada em Olinda, aos 7 dias do mês de agosto, sob meu 
+
+sinal e sinte de minhas armas. Pedro Teixeira Franco a fez, ano do nascimento de Nosso Senhor 
+Jesus Cristo de 1625; e estas terras dou até 5000 braças somente e para mantimentos, que 
+servindo algum tempo de mais, pagarão em o que se consertar com os donatários desta 
+capitania. Mathias de Albuquerque. Estava o sinal do selo. Confirmo a mercê da terra que o 
+senhor Mathias de Albuquerque, meu irmão, fez mercê ao suplicante Baltazar Gonçalves, em 
+meu nome, na forma declarada. Arraial, 23 de agosto de 1633. Duarte de Albuquerque Coelho. 
+Carta da data de 4 a 5000 braças de terra em quadra de Baltazar Gonçalves, em nome do senhor 
+Duarte de Albuquerque, no lugar que nela se confronta.  
+[Ato de posse…] 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 166-167. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

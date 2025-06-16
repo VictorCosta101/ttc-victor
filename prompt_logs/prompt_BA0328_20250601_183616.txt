@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0328
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Batista de Sousa ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-02-1699",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada no rio Jaguari, abaixo do rio das Caravlevas, fazendo fronteira com as terras de Antônio Marinho Bacelar (BA0530). Essa sesmaria foi retirada, originalmente, da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria, no entanto, foi encontrada a sesmaria completa no códice 427 do Arquivo Nacional, podendo as informações serem complementadas.",
+  "Localidade": "Rio Jaguari ou Rio Caravelas",
+  "Marcos Geográficos": "Rio Jaguari ou Rio Caravelas",
+  "Confrontantes": "Antônio Marinho Bacelar",
+  "Justificativas": "Participou da Guerra dos Bárbaros; Pretendia cultivar; As terras eram devolutas; Tinha cabedal; Eram terras que não se sabia se tinham dono; Pretendia mudar-se para a Capitania; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Deve-se reservar madeira para construção de embarcações; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que as terras estava desaproveitadas por falta de moradores.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa e Fazenda foi de parecer favorável, alegando que as terras estavam incultas e que seria benéfico à Coroa o seu aproveitamento. O provedor da Fazenda Real também foi de parecer favorável, afirmando que algumas exigências deveriam ser cumpridas. As exigências serão registradas no devido campo.",
+  "Observações das exigências": "Determinou-se que o suplicante não poderia alhear-se das terras antes de as ter aproveitado. Citou o capítulo 26 do regimento do Governo-Geral.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Ramires",
+  "referencia": "BA0328"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA 0328 
+Carta de concessão a João Batista de Sousa de 20/02/1699 
+Dom João de Lencastre, do Conselho de Sua Majestade, que Deus guarde. Faço saber aos 
+que este alvará de doação e sesmaria virem que João Batista de Sousa se me enviou a 
+apresentar a petição, cujo teor é o seguinte: senhor, diz o João Batista de Sousa que ele, 
+suplicante, tem por notícia que no rio Jaguari, abaixo do das Caravelas, estão muitas terras 
+devolutas e desaproveitadas por falta de moradores que as cultivem, e que Vossa Senhoria 
+lhe faça mercê dar em nome de Sua Majestade, que Deus guarde, 1 légua de terra de 
+largura e três de comprimento para o sertão a toda a pessoa que tem posses e cabedal para 
+as poder provar e cultivar, e porque ao suplicante concedam todas os pastos necessários 
+para aceitar a dita mercê. Portanto, pede que Vossa Senhoria lhe faça mercê conceder a 
+dita légua de terra de largura, correndo para o Jaguari, de onde acaba a data de Antônio 
+Marinho Bacelar, ou em outra qualquer parte que na dita paragem estiver devoluta, sem 
+prejudicar a terceiro. E receberá mercê. E visto o parecer do doutor procurador da Fazenda 
+e Coroa, que é o que se segue: não se me oferece dúvida, estando estas terras incultas e 
+sem serem dadas, que se deem ao suplicante para que as cultive no termo da lei, e não o 
+fazendo, que se possam dar. Bahia, 13 de fevereiro de 1699. Ramires. E a informação do 
+provedor-mor da Fazenda Real do mesmo Estado, que é a que se segue: senhor, 
+conformo-me com o que parece ao doutor procurador da Fazenda Real, sob todas as 
+cláusulas da lei. E dar mercê com a condição de não poder o suplicante cortar madeiras 
+algumas das que tiverem serviço para a fábrica das naus de Sua Majestade, que Deus 
+guarde, foi servido mandar restabelecer neste Estado, porque este prejuízo é demais 
+consequência que toda a utilidade que elas podem dar dos dízimos dos frutos que plantar 
+em criações que tiver, sob pena de perder a data com todas as benfeitorias que tivessem 
+feito e as mais que tiverem. Vossa Senhoria mandará o que mais convier. Bahia, 18 de 
+fevereiro de 1699. Francisco Lamberto. Hei por bem conceder e dar em nome de Sua 
+Majestade, que Deus guarde, ao dito João Batista de Sousa, para ele e seus descendentes 
+1 légua de terra de largura e três de comprimento, no rio Jaguari, na parte em que as pede 
+e confronta em sua petição neste inserta, que começará a correr de onde acabar a de 
+Antônio Marinho Bacelar, não prejudicando a terceiro, com as cláusulas que o provedor-
+mor da Fazenda Real aponta na sua informação, a qual terra se aproveitará dentro do 
+termo da lei, e as não poderá alhear nem passará a outro algum domínio sem as ter 
+aproveitado, com condição de se darem logo neste caso a outra pessoa, nem o poderá 
+fazer sem expressa ordem de Sua Majestade, e com as mais cláusulas contidas na 
+Ordenação do Reino, título de sesmarias e forma do capítulo 26 do regimento novo deste 
+Governo-Geral, as quais terras terá e possuirá com todas as suas águas, matas, testadas, 
+logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de pensão, salvo o 
+dízimo à Ordem de Cristo, que pagará pelos frutos que delas houver, e por elas serão 
+obrigados a dar caminhos públicos e particulares para fontes, pontes, portos e pedreiras, 
+com declaração que se havendo nas ditas terras alguma aldeia de índios, não fique o dito 
+João Batista de Sousa senhor dela e nem das terras que ocuparem os índios, na forma das 
+novas ordens de Sua Majestade. Pelo que ordeno a todos os ministros e oficiais de justiça 
+a que o conhecimento deva ou possa pertencer, lhe façam dar e deem posse real, efetiva 
+e atual, demarcando-se no tempo dela, citados os heréus, que enviarão certidão à Casa 
+dos Contos, de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob 
+o sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado, e 
+nas mais a que tocar da Fazenda Real dele e nos do escrivão de sesmarias, se guardará e 
+cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, embargo nem 
+
+contradição alguma. Antônio Lopes Savedra a fez nesta cidade da Bahia de Todos os 
+Santos, aos 20 dias do mês de fevereiro, ano de 1699. Gonçalo Ravasco Cavalcante e 
+Albuquerque a fiz escrever. Dom João de Lencastre. Selo. Alvará de doação e sesmaria 
+pelo qual serviu de Vossa Senhoria Ilustríssima conceder e dar em nome de Sua 
+Majestade, que Deus o guarde, a João Batista de Sousa, para ele e seus descendentes, 
+légua de terra de largura e três de comprimento pelo rio do Jaguari, que começará de onde 
+acabar a data de Antônio Marinho Bacelar, ou em outra qualquer parte como confronta 
+em sua petição neste inserta, e não prejudicando a terceiro e com as cláusulas que o 
+provedor-mor da Fazenda aponta na sua informação, nem às aldeias e terras dos índios 
+que nelas se acharem, nas condições apontadas e se demarcar e confirmar esta por Sua 
+Majestade dentro de um ano, pelos respeitos acima declarados. Para Vossa Ilustríssima 
+ver. Registrado no livro 5° dos registros da Secretaria do Estado do Brasil, que tocava a 
+folha 128. Bahia, 25 de fevereiro de 1699. Ravasco. Registre-se. Bahia, 27 de fevereiro 
+de 1699. Lamberto. Registrado no dia 2 de março do mesmo ano. 
+- Fim de Transcrição- 
+Observações: 
+- O nome do suplicante consta no documento original como: “João Baptista de Souza”. 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 2, fls. 127v – 129. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

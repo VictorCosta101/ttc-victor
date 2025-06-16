@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0212
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Carlos Antônio",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-01-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobrequadra dos fundos da roça chamada do Secretário",
+  "Marcos Geográficos": "Matos maninhos",
+  "Justificativas": "Alegou que já pagava o dízimo havia um tempo; Alegou serem as terras devolutas nunca doadas anteriormente; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também ao suplicante que fosse \"obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barco para se atravessar, ficará reservada de uma das margens dele a terra que baste para serventia pública\". Exigiu-se ainda que fossem reservados os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0212"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0212
+Carta de concessão de sesmaria de Carlos Antônio de 22 de janeiro de 1750
+Matias Coelho de Souza, mestre de campo de infantaria de um dos terços da guarnição desta
+praça, cujo cargo está o governo dele e suas capitanias.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Carlos Antônio, morador em Inhomirim, distrito desta cidade, que na sobre quadra
+dos fundos da roça chamada do secretário, da parte do poente, se achavam terras devolutas em
+matos maninhos, e sem serem aproveitados de pessoa alguma só pelo suplicante que havia
+mais de um ano morar na mesma roça chamada do secretário, de que tinha pago em dízimos e
+assim pretendia se lhe concedesse por sesmaria uma légua de terras de testada na sobredita
+quadra do poente com outra de fundo, pedindo-me lhe mandasse passar a dita sesmaria na
+forma do estilo. Sendo visto o seu requerimento, em que foi ouvido a Câmara desta cidade, a
+quem se não ofereceu dúvidas, nem ao provedor da Fazenda Real e procurador da Coroa dela,
+a quem se deu vista. Hei por bem dar de sesmaria, em nome de Sua Majestade e em virtude da
+ordem do dito Senhor de 15 de junho de 1711, em que me dá faculdade para conceder
+sesmarias ao dito Carlos Antônio uma légua de terras de testada com outra de fundo na parte
+acima declarada e com as confrontações expressadas, sem prejuízo de terceiro ou do direito
+que alguma pessoa tenha a elas, com declaração que as cultivará e mandará confirmar esta
+minha carta por Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo,
+e antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para esse efeito
+notificadas as pessoas com quem confrontar, e será obrigado a fazer os caminhos de sua
+testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que
+necessite de barco para se atravessar, ficará reservada de uma das margens dele a terra que
+baste para serventia pública. Nesta data não poderá suceder em tempo algum pessoa
+eclesiástica ou religião, e sucedendo será com encargo de pagar dízimos e outros qualquer que
+Sua Majestade lhe impuser de novo, e não os pagando se poderá dar a quem a denunciar,
+como também sendo o dito Senhor servido mandar fundar no distrito dela alguma vila o
+poderá fazer ficando livre, sem encargo algum ou pensão para o sesmeiro, e não
+compreenderá nesta data vieiros ou minas de qualquer gênero de metal que nela se descobrir,
+reservando também os paus Reais, e faltando a qualquer das ditas cláusulas, por serem
+conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias, ficará
+privado desta. Pelo que mando ao ministro ou oficial de justiça a que o conhecimento desta
+pertencer, dê posse ao dito Carlos Antônio das referidas terras na forma acima declarada. E
+por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o signete de
+
+minhas armas, que se cumprirá como nela se contém e se registrará nesta secretaria do
+Governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro.
+João de Souza e Melo a fez aos 22 de janeiro de 1750. O secretário do governo, Antônio da
+Rocha Machado, a fez escrever. //Matias Coelho de Souza//
+Carta porque Vossa Senhoria faz mercê dar de sesmaria, em nome de Sua Majestade, a Carlos
+Antônio uma légua de terras de testada com outra de fundo na parte acima declarada. Para
+Vossa Senhoria ver.
+Registrado nos Livros das Provisões do Governo a folha 160. Rio, a 22 de janeiro de 1750.
+//Antônio da Rocha Machado//
+- Fim da Transcrição -
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Carlos Antonio uma legoa de terras de testada, com outra de fundo, com as confrontações
+expressas na mesma carta. Rio de Janeiro, 22 de janeiro de 1750.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 16420 e a Portaria n°
+16422.
+Referência:
+AHU_ACL_CU_017-01, Cx. 71, D. 16421
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

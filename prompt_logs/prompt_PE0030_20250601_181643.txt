@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0030
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0056",
+  "Nome": "Pedro de Melo Falcão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "08-06-1713",
+  "Data da concessão": "12-06-1713",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e três léguas de largura nas fronteiras da vila de Serinháem, no sítio do Cucaú, na passagem do engenho Xangoá. ",
+  "Localidade": "Serinháem",
+  "Marcos Geográficos": "Sítio de Cucaú, Engenho Xangoá",
+  "Justificativas": "Pretendia criar gado; Pretendia cultivar; Pretendia lavrar; As terras eram devolutas; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse o foro régio e seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "\tO governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0030"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0030 
+ 
+Carta de doação e sesmaria de Pedro de Melo Falcão - 12/06/1713 
+ 
+SESMARIA QUE SE PASSOU AO CAPITÃO-MOR PEDRO DE MELO FALCÃO DE TRÊS 
+LÉGUAS DE TERRA NA CAPITANIA DE SERINHÃEM. 
+ 
+Félix José Machado de Mendonça e etc. etc. Faço saber aos que esta carta de doação de sesmaria 
+virem que o capitão-mor Pedro de Melo Falcão me representou a petição cujo teor é o seguinte: 
+Senhor. Diz o capitão-mor Pedro de Melo Falcão, que é da vila de Serinhãem, que nas cabeceiras da 
+dita vila e capitania no sítio chamado Cocahú se acham três léguas de terra em quadro pela beira do 
+rio acima, que chamam a passagem que vai para o engenho do Xangoá, pegando do dito rio para a 
+parte do sertão, as quais léguas de terra se acham devolutas e o suplicante as quer povoar, sendo 
+Vossa Excelência servido dar-lhes por sesmaria, atendendo ao merecimento e satisfação com que 
+tem servido a Sua Majestade, que Deus Guarde, há tantos anos, pede a Vossa Excelência lhe faça 
+mercê, por ser conveniente ao bem público destas três léguas de terra em quadro ao suplicante por 
+sesmaria na forma costumada para as possuir e cultivar dentro de um ano com gados e lavouras. E 
+receberá mercê. Informe o provedor da Fazenda Real, ouvindo ao procurador da Coroa. Recife, 8 de 
+junho de 1713. "Rubrica". Haja vista ao doutor procurador da Coroa e Fazenda. Recife, 8 de junho 
+de 1713. "Barros". Não tenho dúvida que se dê ao suplicante de sesmaria na parte que confronta três 
+léguas de terra, sendo a data de léguas ordinárias e contínuas e feita na forma da ordenação livro 4º 
+título 43, e pagando o foro na forma do assento da junta. Recife, 8 de junho de 1713. "Pereira". 
+Excelentíssimo senhor, informo a Vossa Excelência com a resposta do doutor procurador da 
+Fazenda e Coroa; Vossa Senhoria mandará o que for servido. Recife, 10 de junho de 1713. "João do 
+Rego Barros". E havendo, outrossim, respeito ao que Sua Majestade me encomenda no capítulo 15 
+do regimento deste Governo. Hei por bem de lhe fazer mercê dar no suplicante acima nomeado, 
+como pela presente dou de sesmaria em nome de Sua Majestade, que Deus guarde, nos mesmos 
+lugares, partes e testadas que confrontam em sua petição, três léguas de terra ordinárias e contínuas, 
+na forma que parece ao doutor procurador da Coroa e disposições das ordens reais, pagando de foro 
+por cada légua seis mil reis, o qual povoará dita terra no tempo de cinco anos, aliás se darão por 
+devolutas e as possuirá e gozará ele suplicante e seus herdeiros, não prejudicando a terceiro, com 
+todas as suas matas, águas, campos, testadas, logradouros e mais úteis que nelas se acharem, e será 
+obrigado a dar pelas ditas terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a 
+requerer a confirmação desta por Sua Majestade no termo de dois anos. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias a que o conhecimento desta carta pertencer, lhe 
+façam dar a posse real, efetiva e atual, na forma costumada e debaixo das cláusulas referidas e das 
+mais da ordenação título de sesmarias, que por firmeza de tudo lhe mandei passar a presente por 
+
+mim assinada e selada com o sinete de minhas armas; a qual se registrará nos livros da Secretaria 
+deste Governo, nos da Fazenda e Foral Real, e sem esta precisa circunstancia não terá vigor nem 
+validade a presente carta de sesmaria. Dada neste Recife de Pernambuco, em os 12 dias do mês de 
+junho = Lizardo Ribeiro Monção a fez = ano de 1713. O secretário Joaquim Mendes de Alvarenga a 
+fez escrever. Félix José Machado de Mendonça Eça Castro e Vasconcelos. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 189 - 190. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

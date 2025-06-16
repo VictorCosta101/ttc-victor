@@ -1,0 +1,88 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0024
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0170",
+  "Nome": "José da Silva de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "A sesmaria requerida possuía uma légua de terra, situava-se no termo da Vila das Alagoas, começando no rio Sibaúma, seguindo para a estrada do Salgado e para freguesia de São Miguel, continuando para o sertão adentro pelo rumo direito.",
+  "Localidade": "Vila das Alagoas, rio Sibaúma e freguesia de São Miguel.",
+  "Marcos Geográficos": "Vila das Alagoas, rio Sibaúma e freguesia de São Miguel.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O conteúdo da carta está incompleta, devido o mal estado da letra, conforme consta ao fim da mesma.",
+  "Observações do deferimento e da concessão": "O conteúdo da carta está incompleta, devido o mal estado da letra, conforme consta ao fim da mesma por isto está faltando as informações do deferimento.",
+  "Observações das exigências": "O conteúdo da carta está incompleta, devido o mal estado da letra, conforme consta ao fim da mesma. Por isso não é possível obter as exigências do parecer final.",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0024"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0024 
+Carta de doação e sesmaria de José da Silva de Albuquerque -  
+José da Silva de Albuquerque com três léguas de terra no rio de Sibaúma Grande, 
+termo das Alagoas. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e 
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. — Faço saber aos que 
+esta carta de doação de sesmaria virem, que José da Silva de Albuquerque me fez um 
+requerimento do teor e maneira seguinte: = Ilustríssimo e Excelentíssimo Senhor - Diz o 
+capitão José da Silva de Albuquerque, que na conformidade da Ordem Livro 4.º título 43, 
+não quer Sua Majestade Fidelíssima hajam terras devolutas, e como o suplicante tem por 
+notícia que no lugar do rio Sibaúma Grande, termo da Vila das Alagoas, se acham devolutas 
+bastantes terras incultas, cujas terras principiam onde atravessa o dito rio a estrada que vai 
+do Salgado para a freguesia de São Miguel e daí para cima buscando o sertão rumo direito 
+vão as ditas terras com uma légua de largo para cada parte do rio, e como o suplicante as 
+quer cultivar para maior utilidade da Real Coroa requer. [...] 
+Não pôde continuar pelo mal estado da letra. 
+-Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. 
+p. 253. 
+Observação: A carta encontra-se incompleta devido ao mal estado da letra, como posto 
+acima. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

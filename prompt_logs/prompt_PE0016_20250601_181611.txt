@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0016
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0027",
+  "Nome": "Bento Gonçalves Vieira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "15-03-1701",
+  "Data da concessão": "16-04-1701",
+  "Observações da sesmaria": "O suplicante era senhor do engenho Grujaú de Cima e solicitou as terras devolutas vizinhas ao engenho. A sesmaria requerida confrontava a leste com as terras do engenho do suplicante, a norte com as terras de Lima Pereira e com as terras do engenho Morenos. ",
+  "Localidade": "Engenho Grujaú de Cima",
+  "Marcos Geográficos": "Engenho Grujaú de Cima, Engenho Morenos",
+  "Confrontantes": "Terras de Lima Pereira",
+  "Observações da petição": "No requerimento o suplicante não informou a extensão da área requerida e nem os valores de comprimento e de largura.",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante deveria pagar o foro das léguas e seguir as determinações das Ordenações Filipinas, Livro 4º, Título 43.  O provedor da Fazenda Real, Inácio de Morais Sarmento, determinou que ainda se deveria acrescentar a obrigação do suplicante de demarcar a terra requerida dentro de um ano, pois esta era uma condição essencial para o pagamento do foro. ",
+  "Observações das exigências": "O governador Fernando Martins Mascarenhas de Lencastre determinou que o suplicante pagasse o foro de 6 mil réis por légua. O governador Fernando Martins Mascarenhas de Lencastre determinou que o suplicante povoasse a terra dentro do tempo de 5 anos.he",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Inácio de Morais Sarmento",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0016"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0016 
+ 
+Carta de doação e sesmaria de Bento Gonçalves Vieira – 13/04/1701 
+ 
+CARTA DE SESMARIA E DOAÇÃO AO SARGENTO BENTO GONÇALVES VIEIRA. 
+ 
+Fernando Martins Mascarenhas de Lencastro, do Conselho de Sua Majestade, governador e capitão 
+geral de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação de 
+sesmaria virem que o sargento-mor Bento Gonçalves Vieira me representou a petição cujo teor é o 
+seguinte: Senhor. Diz o sargento-mor Bento Gonçalves Vieira, senhor do engenho de Grujaú, que 
+partem para a banda do norte com terras de Lima Pereira e da parte do leste com terras do engenho 
+Grujaú de cima, e pela parte com terras do engenho Morenos, e porque esta sorte de terras são 
+matas que estão devolutas sem aproveitamento algum e nem se sabe que tenham dono, portanto a 
+Vossa Senhoria pede seja servido dar-lhe de sesmaria a dita sorte de terra na forma confrontada E 
+receberá mercê. Informe o provedor da Fazenda Real, ouvindo o procurador. Olinda, 15 de março 
+de 1701 “Rubrica”. Haja vista o doutor procurador da Coroa “Moraes”. Não tenho dúvida a que se 
+conceda ao suplicante de sesmaria a terra que pede, pagando o foro na forma da ordem de Sua 
+Majestade, (espaço em branco no original) certidão de [mantid.e] de terras fazendo-se a data na 
+forma da ordenação livro 4.º título 43. Recife, 10 de abril de 1701. Pereira. E que conformando-me 
+com o parecer do procurador da Coroa, não se me oferece dúvida em que se passe ao suplicante a 
+carta de sesmaria que pede, aumentando nela as mais condições que aponta o dito procurador da 
+Coroa, que o suplicante se demarcará dentro de um ano, tanto por evitar dúvidas com os éreos, 
+como por assim necessário para saber se o foro que deve pagar a Sua Majestade, que Deus guarde, 
+o que se não verifica sem proceder a demarcação; sem embargo de tudo Vossa Senhoria mandará o 
+que for servido. Recife, 11 de abril de 1701. “Ignácio de Moraes Sarmento. Passe carta de sesmaria. 
+Recife, 12 de abril de 1701. “Rubrica”. E havendo, outrossim, respeito ao que Sua Majestade me 
+encomenda no capítulo 15 do regimento deste Governo: hei por bem de lhes fazer mercê dar ao 
+suplicante acima nomeado (como pela presente dou de sesmaria) em nome de Sua Majestade nos 
+mesmos lugares, partes e testadas que confrontam em sua petição, a sorte de terras que pede na 
+forma da ordem do dito senhor, pagando de foro por cada légua seis mil réis, a qual povoará no 
+tempo de cinco anos, aliás se darão por devolutas e as possuirá e gozará o dito suplicante, ele e seus 
+herdeiros, não prejudicando a terceiro com todas as suas matas, águas, campos, testadas, 
+logradouros e mais uteis que nelas se acharem, e será obrigado a dar pela dita terra caminhos livres 
+ao concelho para fontes, pontes ou pedreiras, e a requerer a confirmação desta data para Sua 
+Majestade, que Deus guarde, em termo de dois anos; pelo que ordeno a todos os ministros da 
+Fazenda e Justiça destas capitanias a que o conhecimento desta carta pertencer, lhe façam dar a 
+posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da 
+
+Ordenação Título das sesmarias, que por firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da secretaria deste 
+Governo, nos da Fazenda real e nos do foral de que é escrivão o capitão Manoel da Cunha e sem 
+esta precisa circunstância não terá vigor nem validade alguma a presente carta de sesmaria. Dada 
+neste Recife de Pernambuco, em os 13 dias de abril “Lizardo Ribeiro Monção” a fez, ano de 1701. 
+O secretario Antônio Barboza de Lima a fez escrever. D. Fernando Martins Mascarenhas de 
+Lencastro. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 66 - 67. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

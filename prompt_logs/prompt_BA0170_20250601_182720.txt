@@ -1,0 +1,101 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0170
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos Gonçalves ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-04-1666",
+  "Observações da sesmaria": "A sesmaria possuía aproximadamente uma légua de terra e estava localizada na Terra Nova, Bahia, vizinha às terras que o suplicante já possuía (BA0169). Não foram especificadas as medidas de largura e comprimento. ",
+  "Localidade": "Terra Nova",
+  "Confrontantes": "Domingos Gonçalves",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0170"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma carta de doação e sesmaria de Domingos Gonçalves na terra nova. 
+ 
+Dom Vasco de Mascarenhas etc. Faço saber aos que esta carta de doação e sesmaria virem que 
+Domingos Gonçalves me enviou a representar a petição cujo o teor é o seguinte: Domingos 
+Gonçalves, que ele está possuindo uns sobejos de terra nos distritos da Terra Nova, e adiante 
+da terra que possui descobriu uma varge de terra onde estava um cambo com 7 laranjeiras e 
+limoeiros; e porque o suplicante que povoar e cultivar a dita terra de que resultará utilidade a 
+Fazenda de Sua Majestade porquanto está despovoada a dita terra. Pede a Vossa Excelência lhe 
+faça mercê conceder de sesmaria a dita légua de terra na conformidade que pede. E receberá 
+mercê. E vista a informação do provedor mor da Fazenda Real deste Estado cujo o teor é o 
+seguinte: Senhor, o suplicante está possuindo as terras de que trata pelos títulos que me 
+apresentou e quer que Vossa Excelência lhe faça mercê dar de sesmaria o sítio de um mocambo 
+que descobriu junto a ela que deve ser terra de uma légua, pouco mais ou menos, parece-me 
+que se lhe deve conceder sem prejuízo de terceiro porque não encontra foral de Sua Majestade, 
+e o suplicante é lavrador e tem posses para poder povoar e cultivar a dita terra. Vossa Excelência 
+mandará o que for servido. Bahia, 10 de março de 1666 // Antônio Lopes de Ulhôa // Tendo eu 
+consideração a tudo, hei por bem e lhe faço mercê em nome de El-Rei, meu Senhor, dar de 
+sesmaria como pela presente faço a dita légua de terra assim e da maneira que pede e confronta 
+em sua petição, não prejudicando a terceiro com todas as suas água, campos, matos, testadas, 
+logradouros e mais úteis que nelas se acharem, tudo forro, livre e isento de forro, pensão ou 
+tributo algum, salvo o dízimo a Deus que pagará dos frutos quer nela houver. E por elas será 
+obrigado a dar caminhos livres ao conselho para pontes, fontes e pedreiras. Pelo que ordeno e 
+mando a todos os ministros de justiça a quem o direito desta com direito deva ou possa 
+pertencer, lhe mando dar posse efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas, e as mais da ordenação, título das sesmarias. Para firmeza do que lhe mandei passar 
+a presente sob meu sinal e elo de minhas armas, a qual se registrará nos livros a que tocar e se 
+guardará e cumprirá tão pontual e inteiramente como nela se contém, sem dúvida, embargo nem 
+contradição alguma // Antônio de Sousa e Azevedo a fiz nesta cidade do Salvador, Bahia de 
+Todos os Santos aos 12 dias do mês de abril de 1666 // Ravasco // Registre-se // Bahia, 13 de 
+abril de 1666 // de Ulhôa // Foi registrada em 14 do dito mês e ano. 
+ 
+Referências: 
+DHBN, vol. 22, Pg. 248 - 249 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

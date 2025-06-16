@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0302
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Batista",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-10-1577",
+  "Observações da sesmaria": "O suplicante requereu a concessão de meia légua de comprimento e meia légua de largura no rio Massurepe, afluente do rio Capibaribe, na ribeira do Maciape. A terra possuía por limite as terras de Gonçalo Mendes Leitão. ",
+  "Localidade": "Rio Mussurepe",
+  "Marcos Geográficos": "Rio Capibaribe",
+  "Ribeira": "Maciape",
+  "Confrontantes": "Gonçalo Mendes Leitão",
+  "Justificativas": "Pretendia fazer engenho de açúcar; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que possui posses e gente suficiente para erguer um engenho de água no tempo de quatro meses. Por esta razão o suplicante requereu a concessão de sesmaria. Com o engenho levantado, o suplicante alegou passar a pensão do açúcar na forma do costume.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0302"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0302 
+ 
+Doação feita por Jerônimo de Albuquerque a João Batista de uma légua de terra em 
+Mussurepe. 
+ 
+Jerônimo de Albuquerque capitão, e governador desta capitania pelo senhor Duarte Coelho de 
+Albuquerque meu sobrinho, capitão, e governador dela por el Rei nosso Senhor etc. Faço saber 
+que por João Batista, morador nesta vila, me foi apresentada uma petição por escrito com um 
+meu despacho ao pé dela por mim, e por os procuradores do senhor Duarte Coelho de 
+Albuquerque assinado, cujo traslado é o seguinte: diz João Batista, que há 8 anos que é morador 
+nesta vila, e hora é casado, e tem posse, e gente para poder fazer um engenho de açúcar, pelo 
+que pede a vossa mercê lhe dê uma légua de terra em quadra para fazer o dito engenho na água 
+do rio Massurepe que se mete no rio de Capibaribe a riba de Maciape, o qual engenho quer 
+fazer dentro em tempo de 04 anos, e do açúcar que nele fizer, quer pagar a pensão costumada, 
+e a légua de terra que assim pede em quadra, lhe será dada, e demarcada da testada da dádiva 
+de Gonçalo Mendes Leitão de Maciape, pelo de Capibaribe pelo meio da dita légua, assim e da 
+maneira que corre a demarcação do dito Gonçalo Mendes Leitão, e sendo alguma terra nesta 
+que pede dada, lhe darão por diante, ou nas ilhargas onde não for dada, no que receberão mercê, 
+e não havendo água para o dito engenho, fará um trapiche que é engenho de bois, e com ele 
+cumprirão. Despacho. Conserte-se com os procuradores do senhor meu sobrinho, e 
+consertando-se, me torne “Albuquerque” Gonçalo Vaz, e Rodrigo Álvares, como procuradores 
+do senhor governador estamos consertados com o suplicante João Batista de pagar de pensão 
+de todo o açúcar  que fizer no engenho, que diz, a 4 por cento, por onde vossa mercê lhe pode 
+dar a terra, e água que pede, onde não for dada hoje 03 dias do mês de outubro de 1577 anos. 
+Gonçalo Vaz. Rodrigo Álvares. E sendo trapiche, não havendo água para engenho, pagarão 2% 
+por cento somente de todo o açúcar que nele fizer. Rodrigo Álvares. Gonçalo Vaz. E vista por 
+mim sua petição, e pedir, pus nela por meu despacho. Passem carta ao suplicante da légua de 
+terra, que pede, não sendo dada alguma parte dela, então tomarão outra tanta, por diante, ou 
+nas ilhargas, ou aonde quiser, de maneira que lhe fique uma légua de terra em quadra com todas 
+as lenhas e madeiras que na dita terra houver, e sendo caso que aonde pede não haja nenhuma 
+terra, então a tomarão na derradeira dádiva que até hoje não for dada, hoje 03 do mês de outubro 
+de 1577 anos. - Pelo que hei por bem de dar, e doar deste dia para todo sempre ao suplicante 
+uma légua de terra em quadra de sesmaria com todas suas lenhas e madeiras, e água, que na 
+dita légua de terra houver, para bem do dito engenho, a qual terra assim dou ao dito João Batista 
+para ele, e sua mulher, e filhos, e netos, e herdeiros, e ascendentes, e descendentes, e para todas 
+as pessoas, que após ele vierem, e deles a houverem, para que logrem, e possuam a dita légua 
+de terra, e águas, e dela, e nela farão o que lhes bem vier, como de coisa sua própria que já é 
+deste dia para todo sempre que já é com todas as entradas, e saídas, e serventias, e logradouros, 
+e porque assim me aprove com parecer dos procuradores do dito meu sobrinho Duarte Coelho 
+Albuquerque, que lhe mandei passar a presente carta, a qual mando que se cumpra, e guarde 
+como nela se contém. Dada em esta vila de Olinda sob meu sinal e selo das armas do dito meu 
+sobrinho qu ante mim serve, feito hoje 05 dias do mês de outubro do dito ano, Vicente Jorge, 
+escrivão das dádivas, e demarcações a fiz pelo senhor Jerônimo de Albuquerque. Ao selo dez 
+réis. Gonçalo Vaz. O qual traslado eu Vicente Gomes da Veiga cavaleiro fidalgo da casa del 
+
+ 
+Rei, nosso senhor, e tabelião do público, judicial, e notas nesta vila de Olinda, capitania de 
+Pernambuco por Duarte de Albuquerque, capitão e governador dela por sua Majestade etc. 
+Consertei, subscrevi, e assinei aos 30 dias do mês de agosto de 1628. Vicente Gomes da Veiga. 
+Consertado por mim tabelião Vicente Gomes da Veiga. - Não se continha mais em dito 
+documetno que eu Filipe Nery Correa tabelião do público judicial e notas da cidade de Olinda 
+Vila do Recife e seus termos capitania para sua Majestade fidelíssima que Deus guarde etc. - 
+Fiz trasladar do próprio com o qual e com o oficial abaixo assinado este conferi e consertei vai 
+sem coisa que dúvida faça ao próprio me reporto que tornei a entregar ao R. P. procurador geral 
+do mosteiro da cidade de Olinda, subscrevi e assinei em público e razão meus sinais seguintes 
+aos 04 dias do mês de janeiro de 1766 anos. 
+ 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 176v-178. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

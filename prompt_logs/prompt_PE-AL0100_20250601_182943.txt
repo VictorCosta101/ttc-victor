@@ -1,0 +1,75 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0100
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos de Araújo Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-02-1706",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura na vila das Alagoas, entre as terras de José de Farias Franco e Catarina de Araújo e tinha por limite as terras dos herdeiros de Domingos Jorge Velho e o rio Putisatuba. ",
+  "Localidade": "Vila das Alagoas",
+  "Marcos Geográficos": "Rio Putisatuba",
+  "Confrontantes": "José de Farias Franco, Catarina de Araújo, Herdeiros de Domingos Jorge Velho",
+  "Exigências do Deferimento": "Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O documento é um trecho resumido do Códice 155 do Arquivo Nacional do Rio de Janeiro. O Códice contém as cópias das sesmarias presentes no arquivo da Tesouraria-geral da Provedoria-mor da Bahia. O códice foi publicado nas Publicações do Arquivo Nacional no ano de 1931. Por causa destas circunstâncias, não foi possível identificar detalhes importantes com relação a concessão, despacho e deferimento.",
+  "Observações das exigências": "O suplicante não poderia alhear a terra sem cultivar primeiro. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0100"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0074
+Carta de concessão de Domingos de Araújo Lima de 06/02/1706
+Padre Domingos de Araújo Lima. – Alvará de 6 de fevereiro de 1706. – 1 légua de
+largo e 3 de comprido. - No termo da Vila das Alagoas, sobras de terras entre o
+capitão José de Farias Franco e Catarina de Araújo, e pela cabeceira com sesmaria dos
+herdeiros do mestre de campo Domingos Jorge Velho, no riacho Putisatuba. –
+Condições: As do Foral e de não alhear sem as ter aproveitado, obtendo licença do
+monarca, não apoderar-se das terras dos índios e de mandar confirmar dentro de 1 ano.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 155, fl. 273.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

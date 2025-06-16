@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0047
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0097",
+  "Nome": "João Pereira Campos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "04-05-1725",
+  "Data da concessão": "07-05-1725",
+  "Observações da sesmaria": "O suplicante requereu uma légua e meia de comprimento e uma légua e meia de largura no Ararobá, entre o riacho do Panema e o riacho do Moxotó, próximo aos Campos de Mariana.",
+  "Localidade": "Ararobá",
+  "Marcos Geográficos": "Riacho do Panema, Riacho do Moxotó, Campos de Mariana",
+  "Justificativas": "Pretendia criar gado; Tinha gado; Pretendia pagar foro régio; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Não foi possível identificar o escrivão da carta de sesmaria. O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida com as condições do pagamento do foro régio de 4 mil réis por légua, o pagamento do dízimo à Ordem de Cristo, de que as terras não fossem possuídas ou passassem a religiosos e ordens religiosas e que a concessão fosse realizada de acordo com as Ordenações Filipinas, Livro 4, Título 43.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0047"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0047 
+ 
+Carta de doação e sesmaria do reverendo padre João Pereira Campos - 07/05/1725 
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU AO REVERENDO PADRE JOÃO 
+PEREIRA CAMPOS, DE UMA LÉGUA E MEIA DE TERRAS NO ARARÓBA. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas etc. - Faço saber aos que esta carta de doação de sesmaria 
+virem que por parte do reverendo padre João Pereira Campos, se me representou a petição cujo teor 
+é o seguinte: Diz o padre João Pereira Campos, morador na capitania do Araróba, que ele suplicante 
+tem notícia de umas sortes de terras entre o Panema e riacho do Moxotó, chamadas Penorè, Caxitô, 
+Parida e Campos da Mariana, e por que estas sortes de terras nunca foram povoadas e se acham 
+devolutas, as quer haver por sesmaria para criar seus gados vacuns e cavalares; portanto, pede a 
+Vossa Excelência lhe faça mercê mandar passar sua carta de sesmaria para, digo, de lágua e meia de 
+terra nas paradas, digo, paragens nomeadas, fazendo do comprido largo e o contrário, com todos os 
+seus logradouros e testadas, confrontando com os éreos da parte do nascente e poente, pagando-se 
+de foro o que é estilo depois de povoadas, visto estarem descobertas – E receberá mercê. Despacho 
+- Informe o provedor da Fazenda Real, ouvindo o doutor procurador da Coroa. Recife, 4 de maio de 
+1725 - Rubrica - Despacho do provedor da Fazenda - Haja vista ao doutor procurador da Fazenda, 
+digo, ao doutor provedor da Coroa e Fazenda Real – Recife, 4 de maio de 1725 - Barros. Não tenho 
+dúvida em que se faça a data ao reverendo suplicante, nas partes que se confrontam em sua petição, 
+sendo a data na forma da Ordenação Livro 4.° título 43 e do assento em junta e estilo. Recife, 4 de 
+maio de 1725 – Pereira - Resposta do procurador da Coroa, digo, da Fazenda Real - Senhor 
+governador e capitão general - Responde o doutor procurador da Coroa e Fazenda Real, a quem 
+Vossa Senhoria mandou-me ouvir sobre este requerimento do suplicante, que não tem dúvida a que 
+se lhe passe a data na forma da Ordenação Livro 4º título 43, nas partes que se confrontão em sua 
+petição e do assento e Junta e do estilo, a qual se me não oferece dúvida, com a cláusula de pagar 
+dízimo a ordem de Cristo e com a condição de não passar a religiosos, se não quando suceda com o 
+mesmo encargo que se fossem as terras possuídas por seculares, pagando o foro de quatro mil réis 
+por légua, na forma do estilo e assento da Junta; Vossa Senhoria, porém, mandará o que for servido, 
+digo, conveniente ao serviço de Sua Majestade, que Deus guarde, como costuma - Recife, 4 de maio  
+de 1725 = João do Rego Barros – Despacho; Passe carta de sesmaria com as cláusulas e condições 
+que aponta o procurador da Fazenda Real. Recife,  7 de maio de 1725 – E atendendo eu a todo o 
+referido e a faculdade que Sua Majestade me concede em o capítulo 15 do Regimento deste 
+Governo – Hei por bem de lhe fazer mercê e dar de sesmaria uma légua e meia de terra ao 
+reverendo padre João Pereira Campos, em quadro no mesmo sítio e lugares confrontados em sua 
+Em 7 de maio 
+de 1725 
+- 
+Pereira 
+
+petição, na mesma forma que parece ao provedor e procurador da Coroa e Fazenda Real, cuja 
+doação lhe faço das ditas terras em nome de Sua Majestade, com o foro de quatro mil réis por ano 
+de cada uma légua e o dízimo a ordem de Cristo, ditas terras ele as legará a seus herdeiros com 
+todos os seus viveres e logradouros, não prejudicando a terceiro, dando por elas estradas, fontes, 
+pedreiras e rios livres, os quais não passarão a religiosos e quando suceda será com o mesmo 
+encargo de foro e dízimo. Pelo que ordeno aos ministros da Justiça e Fazenda, a quem o 
+cumprimento desta carta pertencer, lhe façam dar a posse real, efetiva e atual, com todos os seus 
+pertences, logradouros e mais viveres que nelas se acharem devoluto, que por firmeza de tudo lhe 
+mandei passar. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 297 - 299. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

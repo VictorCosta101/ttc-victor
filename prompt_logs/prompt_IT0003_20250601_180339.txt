@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0003
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0010",
+  "Nome": "Baltazar Pereira de Melo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-05-1690",
+  "Data da concessão": "06-03-1691",
+  "Observações da sesmaria": "O suplicante solicitou a sesmaria próxima as terras que já possuía. A sesmaria requerida confrontava ao sul as terras do suplicante, que havia adquirido por meio de compra a Joana da Silva Lona, viúva de Bernardo de Oliveira; ao norte confrontava as terras de Cosme Bezerra Cavalcante, que haviam sido possuídas anteriormente por Sebastião Vidal; a leste a sesmaria confrontava o rio Tracunháem e a oeste as terras de Sebastião da Costa e Manuel Antônio. Não foi informado pelo suplicante o tamanho das terras requeridas e nenhuma medida de largura ou comprimento por se tratar, segundo o requerente, de sobras devolutas. ",
+  "Localidade": "Rio Tracunháem",
+  "Marcos Geográficos": "Rio Tracunháem, Goiana",
+  "Ribeira": "do Tracunhaém ",
+  "Confrontantes": "Terras de Cosme Bezerra Cavalcante ao norte, rio Tracunháem a leste e terras de Sebastião da Costa e Manuel Antônio a oeste",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; Solicitou as terras para si e seus herdeiros; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida de acordo com as Ordenações Filipinas, Livro 4º, Título 43. O provedor da Fazenda Real, João do Rego Barros, recomendou que a sesmaria fosse concedida por ser o suplicante, Baltazar Pereira de Melo, um advogado letrado formando da Universidade de Coimbra muito inteligente, erudito e com boa reputação na cidade de Olinda.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "IT0003"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0003 
+ 
+Carta de doação e sesmaria do doutor Baltazar Pereira de Melo – 06/03/1691 
+ 
+SESMARIA DE UMAS TERRAS QUE SE DERAM AO DOUTOR BALTAZAR PEREIRA 
+DE MELO  
+ 
+Dom Antônio Félix Machado da Silva e Castro, do conselho de Sua Majestade, marquês de Monte-
+bello, etc. Faço saber aos que esta carta de doação e sesmaria virem que a mim se me representou a 
+petição cujo teor é o seguinte: Senhor “Governador”. – Diz o  doutor Baltazar Pereira de Melo que 
+ele tem e possui uma sorte de terras na ribeira do rio Tracunhaém, da parte de Goiana correndo pelo 
+rio abaixo que houve por título de compra que dela fez a Joana da Silva Lonna, viúva que ficou por 
+falecimento de Bernardo de Oliveira, a qual sorte de terras, parte da banda do norte com terras que 
+foram de Sebastião Vidal e hoje são do Capitão Cosme Bezerra Cavalcante, da parte do sul com 
+terras que são do alferes Manoel Cazado, da parte de leste com o mesmo rio Tracunhaém e da parte 
+do sertão e oeste com terras que são de Sebastião da Costa e de Manoel Antônio e por que entre as 
+ditas confrontações pode haver alguma terra devoluta, tanto no comprimento como na largura, a 
+qual não esteja dada a pessoa alguma e a ele suplicante lhe é necessária havendo-a, portanto pede a 
+Vossa Senhoria lhe faça mercê, havendo respeito ao que até agora não lhe foi feita data alguma, 
+sendo morador nesta capitania e filho dela, conceder e dar por data a ele suplicante toda a terra que 
+se achar devoluta e sem dono por não ser dada entre as ditas confrontações, tanto de comprimento 
+como de largura para ele suplicante e seus herdeiros; e receberá mercê. Informe o provedor da 
+Fazenda Real, ouvindo ao procurador da Coroa. Olinda, 13 do mês de maio de 1690. “Rubrica”. O 
+doutor Antônio Rodrigues Pereira diga o que lhe parecer sobre este requerimento que o suplicante 
+faz, na forma que Sua Senhoria ordena. Olinda, 21 de maio de 1690 “Ramires”. Não tenho dúvida 
+alguma em que se lhe conceda de sesmaria aos suplicantes o que pedem, contanto que a sua custa 
+de mais que os confrontados em sua petição e a data se faça nas formas da Ordenação. Livro 4º. 
+Título 43. Recife, 4 de julho de 1690. “Pereira”. Senhor, o suplicante não só por natural e morador 
+nesta cidade é merecedor de Vossa Senhoria lhe fazer mercê da terra que pede, mas também por ser 
+letrado graduado na Universidade de Coimbra e advogado de muito boa nota, assim nos termos 
+judiciais como em discutir com grande erudição e melhor inteligência para a concordância delas, e 
+nestes termos goza de grandes privilégios, de particulares honras e em direito se reputam para 
+defesa da República [...?] que militam com que bem pode esperar da grandeza de Vossa Senhoria a 
+mercê que pretende da terra que se achar devoluta entre as confrontações referidas na sua petição, 
+dando-se-lhe de sesmaria condições e cláusulas da Ordenação. Livro. 4º Título. 43. Olinda, 28 de 
+agosto de 1690 “Belchior” [...?] O doutor Antônio Rodrigues Pereira, as quais sobras possuíram ele 
+e seus herdeiros achando-se devolutas e não prejudicando a terceiro com todas as suas águas, 
+
+campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre, isento de 
+tributo, foro ou pensão alguma, salvo dízimo a Deus, e só será obrigado a dar pelas ditas terras 
+caminhos livres ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno a todos os ministros 
+da Fazenda e Justiça destas capitanias ou aos que o conhecimento desta carta pertencer, lhe façam 
+dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da 
+Ordenação título das sesmarias, que para firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros de Secretaria destas 
+capitanias e nos da Fazenda Real a que tocar, e se guardará e cumprirá tão pontual e inteiramente 
+como nela se contém. Dada nesta cidade de Olinda, em os dias 6 do mês de março. Antônio Pereira 
+a fez, ano de 1691. “O secretario Antônio Barboza de Lima a fez escrever “O marquês de Monte-
+bello”. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 25 - 27. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0240
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Jerônimo Coutinho da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "16-10-1741",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no sertão do Caminho Novo das Minas",
+  "Ribeira": "Inhomirim, Paraíba, Rio Grande, Piabanha",
+  "Confrontantes": "Terras de Caetano Manuel da Mota Ferraz, terras de Pedro Moreira dos Santos",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado \"a fazer os caminhos da sua testada com pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma margem dele meia légua ao menos para ficar em público\". Determinou-se ainda que fossem reservados os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0240"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0240
+Carta de concessão de Jerônimo Coutinho da Silva de 16 de outubro de 1741
+Gomes Freire de Andrade, do conselho de Sua Magestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general da capitania do Rio de Janeiro com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que a mim me enviou a dizer por sua
+petição o tenente Jerônimo Coutinho da Silva, que no sertão do Caminho Novo das minas,
+que vai do rio de Inhomirim saia ao da Paraíba para a parte do nascente, no lugar onde faz
+barra o Rio Grande no do Piabanha, se acha muita terra devoluta, sem ser pedida, nem
+povoada por pessoa alguma até o presente. Porque o suplicante se achava com escravos
+bastantes para poder povoar, queria haver por sesmaria 1 légua de terra principiando esta pela
+parte do sul, onde acaba a data de outra légua que se concedeu a Caetano Manuel da Mota
+Ferraz, e da parte do poente partindo com terras que hoje são de Pedro Moreira dos Santos,
+correndo para o rio do dito Piabanha até fazer a légua em quadra, e se não confrontavam estas
+duas quadras por serem para o sertão que todo se achava ainda devoluto, me pedia lhe
+concedesse por sesmaria a dita légua de terras em quadra na forma das ordens de Sua
+Majestade, sendo visto o seu requerimento e o que sobre ele informou o provedor da Fazenda
+Real e procurador da Coroa. Hei por bem dar de sesmaria, em nome de Sua Majestade, ao dito
+tenente Jerônimo Coutinho da Silva 1 légua de terra em quadra; com as confrontações acima
+declaradas; sem prejuízo de terceiro, do direito e posse que alguma pessoa tenha a elas; com
+declaração, porém, que as cultivará e mandará confirmar esta carta por Sua Majestade dentro
+de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar posse delas, as fará
+medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas com quem
+confrontar; será obrigado a fazer os caminhos da sua testada com pontes e estivas onde
+necessário for, e descobrindo-se nelas rio caudaloso, que necessite de barca para se atravessar,
+ficará reservada de uma margem dele meia légua ao menos para ficar em público; nesta data
+não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o
+encargo de pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os
+pagando se poderá dar a quem as denunciar; como também sendo o mesmo Senhor servido
+mandar fundar no distrito delas alguma vila o poderá fazer ficando esta livre e sem encargo
+algum para o sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de
+metal que nela se descobrir, reservando também os paus Reais; e faltando a qualquer das ditas
+cláusulas, por serem conformes às ordens de Sua Majestade ou as que dispõe a Lei e Foral das
+Sesmarias, será privado desta. Pelo que mando ao ministro ou oficial de justiça, a que o
+
+conhecimento dela pertencer, dê posse ao dito Jerônimo Coutinho da Silva das referidas terras
+na forma acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, que se cumprirá como nela se contém
+registrando-se nos Livros a que tocar. Dada na cidade de São Sebastião do Rio de Janeiro, aos
+16 dias do mês de outubro de 1741. O secretário do governo, Antônio da Rocha Machado, a
+fez.
+//Gomes Freire de Andrade//
+Carta por que Vossa Excelência há por bem de conceder, em nome de Sua Majestade, ao
+tenente Jerônimo Coutinho da Silva 1 légua de terra em quadra no sertão do Caminho Novo
+das minas, que vai do rio de Inhomirim saia ao do Paraíba, com as confrontações e clásulas
+que nesta se declaram.
+Para Vossa Excelência ver.
+Registre-se nos Livros da Fazenda Real. Rio, 8 de fevereiro de 1742.
+//Melo//
+Registrada no Livro 6° que serve nesta Secretaria do governo de registro de Provisões e
+Sesmarias a folha 78. Rio de Janeiro, 17 de outubro de 1741.
+//Antônio da Rocha Machado//
+Registrada no Livro 1° do Tombo das Sesmarias que serve neste Cartório a folha 61. Rio de
+Janeiro, a [1°] de fevereiro de 1742.
+//Francisco Xavier da Silva//
+Registrada no Livro 29 dos registros desta Provedoria a folha 16. Rio, 13 de fevereiro de
+1742.
+//André Francisco Xavier//
+O doutor João Alvares Simões, do desembargo de Sua Magestade, seu ouvidor geral,
+corregedor da comarca nesta cidade do Rio de Janeiro e nas mais capitanias de sua repartição,
+juiz das justificações, etc. Aos que a presente certidão de justificação virem, faço saber que a
+mim me constou por fé do escrivão do meu cargo, que esta subscreveu, ser a letra da
+subscrição da sesmaria retro do secretário deste governo, Antônio da Rocha Machado, e o
+sinal posto no fim dela do excelentíssimo senhor governador Gomes Freire de Andrade, o que
+por justificado. Rio de Janeiro, 12 de [outubro] de 1742 anos. E eu, Domingos Rodrigues
+Tavora, escrivão, a subscrevi.
+//João Alvares Simões//
+-Fim da Transcrição-
+
+Observações:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria
+ao Tenente Jerônimo Coutinho da Silva uma legoa de terras, [em] quadra, no sertão do
+caminho novo das minas. Rio de Janeiro, 16 de outubro de 1741.
+Referência:
+AHU_ACL_CU_017-01, Cx. 51, D. 11932
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0027
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco de Abreu da Costa Ravasco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "17-10-1673",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas em quadra e estava localizada no Campo Grande, Bahia.",
+  "Localidade": "Campo Grande",
+  "Observações da petição": "O suplicante, junto com outros dois requerentes, Cristóvão Vieira Ravasco de Albuquerque e Manuel de Dória Ravasco, solicitaram cinco léguas em quadra para cada um deles. ",
+  "Justificativas": "Não tinha terras; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que serve há muitos anos na Bahia.",
+  "Observações do deferimento e da concessão": "O provedor da Fazenda afirmou que deveriam ser concedidas quatro léguas em quadra ao capitão Cristóvão Vieira Ravasco de Albuquerque, pois ele tinha mais posse que os demais, já os outros dois, Francisco de Abreu da Costa Ravasco, o requerente dessa sesmaria, e Manuel de Dória Ravasco, deveriam receber juntos quatro léguas em quadra. O governador-geral decidiu conceder duas léguas em quadra à Francisco de Abreu da Costa Ravasco. As sesmarias dos demais requerentes foram dadas em outro registro.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0027"
+}
+
+            **Conteúdo Original** (extrato):
+            BA  
+Registro de uma sesmaria de duas léguas de terra da medida ordinária, concedida a Francisco 
+de Abreu da Costa Ravasco.  
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que Francisco de Abreu da Costa Ravasco, outros me enviaram a representar 
+por sua petição, cujo teor é o seguinte: senhor, dizem Cristóvão Vieira Ravasco de 
+Albuquerque, Francisco de Abreu da Costa Ravasco, e Manuel de Dória Ravasco, que ele tem 
+servido a Sua Alteza há muitos anos no presidido desta praça, e nenhum deles tem cabedal 
+bastante para povoar terras, sem sesmaria alguma. Pedem a Vossa senhoria lhe faça mercê dar 
+de sesmaria 5 léguas de terra em quadra a cada um no presidido do Campo Grande, correndo 
+para o rumo de Oeste para o do Sul separadamente a cada um deles, sendo caso, que se tenha 
+concedido alguma sesmaria na própria parte, se sigam as dos suplicantes pelo mesmo Campo 
+Grande adiante para a banda do Sul à Oeste, onde acabar a sesmaria ou sesmarias que se tiverem 
+concedido na própria parte, onde os ditos campos forem mais úteis. E receberá mercê. E vista 
+a resposta do procurador da Coroa e Fazenda Real, que é a seguinte: bem se podem conceder 
+aos suplicantes todos 3, 6 ou 7 léguas de terra de sesmaria na forma que pedem, e obrigando-se 
+a povoa-las no termo da lei e regimento, sem prejuízo de terceiro e nem da nova povoação. 
+Bahia, 11 de outubro de 1673. Rocha// Informação do provedor-mor da Fazenda Real, que a 
+que se segue: senhor, regulando as possibilidades dos suplicantes me parece que se pode 
+conceder ao capitão Cristóvão Vieira Ravasco de Albuquerque, 4 léguas de terra em quadra por 
+ter mais serviços e cabedal para as poder povoar e aos 2 suplicantes outras 4 léguas para ambos 
+na na forma do regimento e foral de sua alteza sem prejuízo de terceiro vossa senhoria mandará 
+o que for servido. Bahia, 16 de outubro de 1673. Antônio Lopes de Ulhoa// Hei por bem de lhe 
+conceder e dar ao dito Francisco de Abreu da Costa Ravasco, 2 léguas de terra da medida 
+ordinárias na parte que pede e confronta em sua petição, não prejudicando a terceiro nem as 
+terras que se determinou tivessem as povoações que de novo se fizessem para se darem a seus 
+povoadores, com todas suas águas, campos, matas, testadas, logradouros, e mais úteis que nelas 
+se acharem, todo foro livre e isento de pensão ou tributo algum, salvo o dízimo a Deus, que 
+pagará dos frutos que nelas houver, e por elas será obrigado a dar caminhos livres ao conselho 
+para fontes, pontes e pedreiras. Pelo que ordeno e mando a todos os ministros de justiças, a que 
+o conhecimento deste com direito deva ou possa pertencer, lhe façam dar a posse real efetiva e 
+atual na forma costumada debaixo das cláusulas acima referidas, e as mais da ordenação, título 
+das sesmarias. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas 
+armas, a qual se registrará nos livros da secretaria do Estado, e nos mais a que tocar, e se 
+guardará e cumprirá tão pontual inteiramente como nele se contém, sem dever do embargo nem 
+contradição alguma. Antônio Garcia a fiz nesta cidade do Salvador, Bahia de Todos os Santos, 
+em 17 dias do mês de outubro, ano de 1673. Bernardo Vieira Ravasco o fez escrever. Afonso 
+Furtado de Castro do Rio de Mendonça// Registrado no primeiro livro dos registros da secretaria 
+do Estado, e nos mais a que tocar as folhas .... verso. Bahia, 17 de outubro de 1673. Cumpra-se 
+e registre-se como Sua Alteza manda. Bahia, .... novembro de 1673. Registrou-se no mesmo 
+dia e ano. Miguel Pinto de Freitas//.  
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+ 
+O nome do sesmeiro, tal qual consta no documento original, é Francisco de Abreu da Costa 
+Ravasco.  
+
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 47 – 47v.  
+Numeração original no livro: 44 
+ 
+  
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

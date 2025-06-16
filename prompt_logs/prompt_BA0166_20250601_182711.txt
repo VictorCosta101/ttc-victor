@@ -1,0 +1,111 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0166
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Guedes de Brito, Bernardo Vieira Ravasco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-08-1663",
+  "Observações da sesmaria": "Não foram informadas as medidas específicas nem totais da sesmaria, apenas foi informado que as medidas dela seriam das terras que estavam entre a nascença do rio Tapicuru até o Paraguaçu.",
+  "Localidade": "Entre os rios Tapicuru e o Paraguaçu",
+  "Marcos Geográficos": "Rio Tapicuru; rio Paragaçu",
+  "Justificativas": "Pretendia plantar roças; Pretendia criar gado; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Alegou que seria para o bem comum a construção de estradas que pretendia fazer.",
+  "Observações do deferimento e da concessão": "O provedor afirmou que os suplicantes eram homens de bastante cabedal e por isso poderiam povoar a terra.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": " Antônio Lopes de Ulhôa",
+  "referencia": "BA0166"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma provisão porque o conde de obidos vice-rei deste Estado dá de sesmaria aos 
+capitães Antônio Guedes e Bernardo Vieira Ravasco as terras que principiam na nascença do 
+Tapicuru até o Rio São Francisco. 
+Dom Vasco de Mascarenhas, conde de obidos gentil-homem da câmara de El-Rei, meu Senhor, 
+do seu conselho de Estado, vice-rei e capitão geral de mar e terra do Estado do Brasil etc. Faço 
+saber aos que esta carta de doação e sesmaria virem que os capitães Antônio Guedes de Brito e 
+Bernardo Vieira Ravasco me enviaram apresentar a petição cujo o teor é o seguinte: Antônio 
+Guedes de Brito e  o capitão Bernardo Vieira Ravasco que tendo eles algumas notícias que no 
+mais interior do sertão há muitas terras que se podem cultivar com criações de gados e roçarias 
+as quais querem eles mandar descobrir e povoar a sua custa o que resultará em grande utilidade 
+da Fazenda Real e bem comum em razão das passagens que pretendem fazer com os tapuias 
+que nelas habitam com que se evitará o não descerem a fazer dano as terras que estão povoadas. 
+Pedem a Vossa Excelência lhe faça mercê conceder de sesmaria por devolutas as terras que 
+principiam na nascença do Tapicuru até o Rio de São Francisco e por ele acima tantas léguas 
+quantas há da própria nascença do Tapicurú ao Paraguaçu e dela a do Tapicurú com todos os 
+matos, portos, enseadas, salinas, brejos, e tudo mais o que dentro destas demarcações ficarem, 
+digo, demarcações ficar. Pedem a Vossa Excelência lhe conceda em nome de Sua Majestade 
+para ambos. E receberá mercê. E vista a informação do provedor-mor da Fazenda Real deste 
+Estado cujo teor é o seguinte: Senhor, os suplicantes são pessoas que tem bastante cabedal para 
+povoar as terras de que trata e a Fazenda de Sua Majestade receberá grande utilidade de que se 
+cultivem por onde me parece que sem prejuízo de terceiro lhe faça Vossa Excelência mercê 
+delas. Vossa Excelência mandará o que for servido. Bahia, 10 de agosto de 1663 // Antônio 
+Lopes de Ulhôa // E outrossim constar do cabedal dos impetrantes. Hei por bem e lhe faço 
+mercê em nome de Sua Majestade dar de sesmaria as léguas de terra que pedem assim da 
+maneira que confrontam em sua petição com todas as suas águas, campos, matos, testadas, 
+logradouros e mais úteis que nelas se acharem não prejudicando a terceiro tudo forro, livre e 
+isento de foro ou pensão ou tributo algum salvo dízimo a Deus que pagarão dos frutos que nelas 
+houverem e por elas serão obrigados a dar caminhos livres ao conselho para fontes, pontes e 
+pedreiras. E porque convém conservar os índios livres em suas aldeias hei por bem de reservar 
+nesta data uma légua de terra em quadra a cada aldeia que compreenderem nela para suas 
+lavouras e sustento pelo que ordeno todas as justiças e ministros a quem o conhecimento deva 
+ou possa pertencer lhe mandem dar posse real, efetiva e atual na forma costumada debaixo das 
+cláusulas acima referidas e as mais da ordenação, título das sesmarias e para firmeza do que 
+mandei passar sob meu sinal e selo de minhas armas a qual se registrará nos livros da secretaria 
+e Fazenda Real deste Estado a qual se guardará e cumprirá tão pontual e inteiramente como 
+nela se contém sem dúvida, embargo nem contradição alguma // Bento Pereira de Andrade  // a 
+fez nesta cidade do Salvador, Bahia de Todos os Santos em os 22 do mês de agosto, ano de 
+1663 // João Henriques // o fiz escrever // O conde de Óbidos // Registrada na secretaria no livro 
+dos registros a folhas 63. Registre-se. Bahia, 20 de janeiro de 1663 // De Ulhôa // Registrou-se 
+em 9 de outubro do dito ano. 
+- Fim de Transcrição - 
+ 
+Referências: 
+DHBN, vol. 21, Pg. 185 - 187 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

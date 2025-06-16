@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0047
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio da Silva Figueiredo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-05-1674",
+  "Observações da sesmaria": "A sesmaria possuía três léguas quadradas, localizada ao longo do rio Paraguaçu, fazendo fronteira com as terras de Manuel Cordeiro de Peralta ao oeste e com as terras de Francisco Araujo de Aragão ao sul.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Manuel Cordeiro de Peralta; Francisco Araujo de Aragão",
+  "Observações da petição": "O sesmeiro solicitou quatro léguas de largura e uma léguas e meia de comprimento.",
+  "Justificativas": "Não tinha terras; Tinha gado; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Contribuiu com todas as fintas para as conquistas do sertão.",
+  "Observações do deferimento e da concessão": "O procurador afirmou que poderiam ser concedidas três léguas quadradas ao suplicante e o provedor da Fazenda concordou. O Governador-Geral também concordou e concedeu as léguas sugeridas.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0047"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de doação de sesmarias de três léguas de terra da medida ordinária, 
+concedida a Antônio da Silva Figueiredo junto ao rio Paraguaçu da parte do sul 
+ 
+ 
+Afonso Furtado de Castro do Rio de Mendonça, faço saber aos que este alvará de 
+doação e sesmarias virem, que Antonio da Silva Figueiredo, me enviou a representar sua 
+petição, cujo o teor é o seguinte: Senhor, diz: Antonio da Silva figueredo, morador na vargem 
+da Cachoeira, que ele contribuiu em todas fintas que se lançaram para a conquista do sertão, 
+assistindo particularmente com sua pessoa e fábrica na entrada, que fez o capitão-mor Francisco 
+Dias, na ocasião que foi ao Aporá, levando nessa ocasião, a sua custa dois socorros de farinhas 
+do seu sítio do Genipapo, que desta doze léguas da Cachoeira, e comboiando os mais socorros, 
+que lhe ordenaram, o brando em tudo grande e zelo do serviço de sua alteza, e porque os 
+suplicantes tem gados bastantes para situar, e não tem terras próprias para poder fazer do que 
+recebeu grande perda na sua fazenda, pede vossa senhoria lhe queira fazer mercê em nome de 
+sua alteza, lhe dar de sesmarias um sorte de terra de matos e caatingas, que está devolutas junto 
+ao rio Paraguaçú, que poderão ser quatro léguas de terra de largo e légua e meia de 
+comprimento, qual parte do poente com terras de Manuel Cordeiro de Peralta correndo pelo rio 
+de Paraguaçú da parte do sul digo a qual parte, pela poente com terras de Manoel Cordeiro 
+Peralta e correndo pelo rio Paraguaçu abaixo pela parte sul servindo ao dito rio de demarcação, 
+em vista com terras povoadas de Francisco Araujo de Aragão, e com os mais heróis que com 
+diretamente pertenceu. E, receberá a mercê. Visto, a resposta do provedor da Fazenda Real, 
+que é o seguinte: Bem, se pode conceder ao suplicante três léguas de sesmarias de terra na 
+forma que pede, obrigando-o a cultivar no termo da lei do regimento, visto sem prejuízo de 
+terceiro, obrigando-o mais a pagar os dízimos dos frutos que na dita terra desde, na forma de 
+regimento. Bahia, 16 de abril de 1674. //  Rocha ///. E informação do provedor-mor da dita 
+Fazenda Real, que é aqui se segue: Senhor, parece-me, que se pode conceder ao suplicante a 
+terra que declara o procurador da Fazenda Real, a deu mais condições, que por ele se apontam. 
+Vossa senhoria mandará, o que for servido, Bahia, 11 de maio de 1674. //Antônio Lopes de 
+Ulhôa //. Hei, por bem de lhe conceder, como pelo presente, faço tres leguas de terra de medida 
+ordinária na parte que pede, confronta em sua petição, como parece ao procurador da Fazenda 
+Real e provedor-mor dela, não prejudicando a terceiro nem as terras que se determinou, para a 
+povoação que de novo se fizerem, com todos as águas, campos, matas. testadas e logradouros 
+a mais que nela se acharem, tudo forro livre isento de pensão ou tributo algum, salvo o dízimo 
+a Deus,que pagará dos frutos que nela houver, e por elas será obrigado a povoar no termo da 
+lei e regimento, digo obrigado-o dar caminhos livres ao concelho para fontes, pontes, pedreiras 
+e será obrigado a povoar no termo do regimento, pela que ordena e mando os ministros de 
+justiças a que conhecimento deste com direito deva ou possa pertencer, lhe façam dar posse 
+real, efetiva e atual na forma costumada debaixo das cláusulas acima referidas, as mais 
+ordenações título das sesmarias para firmeza do que lhe mandei possa apresentar soube meu 
+sinal e selo de minhas armas, o qual, se qual se registrou no livro da secretaria do estado e nos 
+mais a que tocar, se guardará e cumprirá tão pontual e inteiramente como nela contem, sem 
+duvida embargo nem contradição alguma. //.Antônio Garcia o fez nesta cidade do Salvador 
+Bahia de todos santos em 11 de maio de 1674 // Bernardo Vieira Ravasco o fez escrever // 
+Afonso Furtado de Castro de Rio de Mendonça //. 
+ 
+ Apostila 
+E declaro que as três léguas de medida ordinária, se entendem três de cumprindo junto rio, e 
+uma de largo e está se registou na margem do registro desde alvará. Bahia, 18 de julho de 1674 
+// Bernardo Vieira Ravasco o fez escrever// Afonso Furtado de Castro do Rio de Mendonça//. 
+
+Registrado no segundo livro registro da secretaria do estado Brasil a que toca  as folhas 17. 
+Bahia, 11 de maio de 1674. // Ravasco//. Fica registrado a postila no registro da mesma provisão 
+na forma dela. Bahia, 8 de julho 1674. // Ravasco//. Despacho do provedor-mor. Registra-se 
+nos livros da Fazenda Real com sua alteza manda. Bahia, 8 de novembro de 1674 de Ulhoa. 
+Registrou-se no mesmo do dito se entregou ao requerente Sebastião Gomes, que a deu registra. 
+// Miguel Pinto Freitas\\. 
+ 
+Referências: 
+BA-AN, Códice 427, fl 86v – 87 –87v 
+Numeração original no livro: 00 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

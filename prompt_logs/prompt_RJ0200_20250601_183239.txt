@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0200
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Soares Coelho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "04-08-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita.",
+  "Localidade": "Caminho Novo, freguesia da Piedade",
+  "Confrontantes": "Terras de Antônio Carvalho",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou o suplicante que \"havia concorrido para o Caminho Novo que abriu o padre Felipe Teixeira Pinto da freguesia da Piedade para esta cidade, com dinheiro, mantimentos e escravos\", pretendendo que lhe fosse concedida tal mercê como remuneração.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se ao suplicante que seria \"obrigado a fazer os caminhos de sua testada com pontes estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para atravessar, ficará reservado uma das margens dele a terra que baste para a serventia pública\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0200"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0200
+Carta de concessão de sesmaria de Antônio Soares Coelho de 4 de agosto de 1750
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento mor de batalhas de seus
+exércitos, governador e capitão general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais. Nesta faço saber que esta minha carta de sesmaria virem que atendendo a me
+representar por sua petição Antônio Soares Coelho, que ele havia concorrido para o Caminho
+Novo que abriu o padre Felipe Teixeira Pinto da freguesia da Piedade para esta cidade, com
+dinheiro, mantimentos e escravos, queria que em remuneração se lhe concedesse no dito
+Caminho meia légua de terras em quadra principiando aonde acabava a data concedida a Antônio
+Carvalho, continuando pelo Caminho adiante correndo de leste para oeste, pedindo-me lhe
+mandasse passar sesmaria na forma do estilo. Sendo visto o seu requerimento, em que foi ouvido
+o Senado da Câmara desta cidade a quem se não ofereceu dúvida, nem ao provedor da Fazenda
+Real e procurador da Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria, em nome de
+Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho de 1711, em que me da
+faculdade para conceder sesmarias ao dito Antônio Soares Coelho meia légua de terras em quadra
+no caminho novo da freguesia da Piedade que vem para esta cidade, com as confrontações acima
+expressandas, sem prejuízo de terceiro ou do direito que alguma pessa tenha a elas, com a
+declaração que as cultivará e mandará confirmar esta minha carta por Sua Majestade dentro de 2
+anos, e não o fazendo se lhe denegará mais tempo, e antes de tomar posse delas as fará medir e
+demarcar judicialmente, sendo para esse efeito notificadas as pessoas com quem confrontar, e
+será obrigado a fazer os caminhos de sua testada com pontes estivas onde necessário for, e
+descobrindo-se nela rio caudaloso que necessite de barca para atravessar, ficará reservado uma
+das margens dele a terra que baste para a serventia pública, e nesta data não poderá suceder em
+tempo algum pessoa eclesiástica ou religião, e sucedendo será com encargo de pagar dízimos e
+outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se poderá dar a quem
+denunciar, como também sendo o dito Senhor servido mandar fundar no distrito dela alguma vila
+o poderá fazer ficando livre, sem encargo algum ou pensão para o sesmeiro, e não compreenderá
+esta data vieiros ou minas de qualquer gênero de metal que nela se descobrir, reservando também
+os paus Reais, e faltando qualquer das ditas cláusulas, por serem conforme as ordens de Sua
+Majestade e as quem dispõe a Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando ao
+ministro ou oficial de justiça a que o conhecimento desta pertencer, dê posse ao dito Antônio
+
+Soares Coelho das referidas terras na forma acima declarada. E por firmeza de tudo lhe mandei
+passar a presente por mim assinada e selada com sinete de minhas armas, que se cumprirá como
+nela se contém e se registrará nesta secretaria de Governo e nas mais partes a que tocar. Dada
+nesta cidade de São Sebastião do Rio de Janeiro, João de Souza Melo a fez em 4 de agosto de
+1750. //O secretário de governo, Antônio da Rocha Machado, a fez escrever// //Gomes Freire de
+Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a Antônio
+Soares Coelho meia légua de terras em quadra no Caminho Novo que se abriu da freguesia da
+Piedade para esta, na forma acima declarada. Para Vossa Excelência ver.
+Registrada no Livro 10 das provisões do governo a folha 243. Rio, a 4 de agosto de 1750.
+//Antônio da Rocha Machado//
+Registrada à folha 12 do Livro das Sesmarias que serve neste Senado. Rio, em 8 de agosto de
+1750. //Francisco de Almeida Jordão//
+Registrada nos Livros da Fazenda Real. Rio, 20 de agosto de 1750. (não identificado)
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Antonio Soares Coelho meia legua de terras, em quadra, no novo caminho da Freguezia da
+Piedade. Rio, 4 de agosto de 1750.
+Conforme o trabalho de Roseli D’Elboux intitulado Vale do Paraíba: fusão de saberes e técnicas
+(2004), foi possível descobrir que o Caminho Novo da freguesia da Piedade foi construído
+objetivando a entrada do café na província paulista em 1725. Essa estrada saia da Freguesia da
+Piedade e ia até a Fazenda Santa Cruz, no Rio de Janeiro. Atualmente a freguesia da Piedade
+corresponde a Lorena- SP.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 15736 e à Portaria n°
+15738.
+Referência:
+AHU_ACL_CU_017-1, Cx. 67\Doc. 15737
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

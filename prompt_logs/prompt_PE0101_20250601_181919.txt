@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0101
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0158",
+  "Nome": "Manuel de Siqueira Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-09-1770",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura na ribeira do Cuputí, no sítio da Carahiba, nos limites do Poço da Cruz até a fazenda da Samambaia, ao norte, e até a fazenda do Concalô, ao sul, e as terras de Antônio de Rezende e o riacho Moxotó, a leste. ",
+  "Localidade": "Riacho Moxotó",
+  "Marcos Geográficos": "Poço da Cruz",
+  "Ribeira": "do Cuputí",
+  "Confrontantes": "Fazenda da Samambaia, Fazenda do Concalô, Antônio de Rezende",
+  "Justificativas": "As terras eram devolutas; As terras eram habitadas pelo gentio; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se demarcar; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Manuel da Cunha Meneses determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Manuel da Cunha Meneses determinou a confirmação régia no tempo de três anos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0101"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0101
+Carta de doação e sesmaria de Manoel Siqueira Barbosa - 25/09/1770
+Manoel de Siqueira Barbosa com três léguas de terra de comprido e uma de largo
+no sítio Caraíba na ribeira do Cuputi.
+Manoel da Cunha Menezes, do Conselho de Sua Majestade Fidelíssima, governador e
+capitão-general de Pernambuco, Paraíba e mais capitanias anexas etc. = Faço saber aos
+que esta carta de doação de sesmaria virem, que tendo consideração a Manoel de
+Siqueira Barbosa me representar ter a custa de sua fazenda risco de vida e das dos seus
+seculares, digo, e das dos seus familiares, descoberto o sítio de terras chamado Caraíba,
+na ribeira do Cuputi, por se achar enfestado de gentio bravo e feras que o habitavam,
+requerendo-me houvesse eu por bem atendendo ao referido e ao benefício que havia
+feito a Real Fazenda na sua descoberta, por cujo respeito tinha preferência a outra
+qualquer pessoa mandar-lhe passar sua carta de doação de sesmaria de três léguas de
+terra de comprido e uma de largo no dito sítio Caraíba, na ribeira do Cuputi, pegando do
+Poço da Cruz, correndo rumo pelo riacho acima, buscando o norte a confrontar com
+terras da Fazenda da Sambambaia, pelo sul a confrontar com terras da fazenda do
+Concalaço, na largura pela parte do nascente a confrontar com terras de Antônio de
+Resende no riacho Moxotó e pela parte do poente com a serra do Pipipam, e sendo por
+mim visto e examinado o seu requerimento, e precedendo as informações da Câmara
+competente, que fizera afixar editais no respectivo distrito para ver se havia ou não
+terceiros prejudicados e dos oficiais da Contadoria da Real Fazenda, a quem mandei
+ouvir e todos uniformemente convieram, se lhe conferisse a dita doação de sesmaria,
+pagando o foro de quatro mil réis por légua em cada um ano. Hei por bem na
+conformidade do Capítulo l5 do Regimento deste Governo, dar de sesmaria ao dito
+Manoel de Siqueira Barbosa em nome de Sua Majestade Fidelíssima três léguas terra de
+comprido e uma de largo no sítio Caraíba, na ribeira do Cuputi, pegando do Poço da
+Cruz pela ribeira acima, com as confrontações acima declaradas, ficando a água do dito
+Poço da Cruz de onde faz barra os dois riachos livres para os gados do dito Manoel de
+Siqueira Barbosa e os de Antônio de Resende, confinante e mediando a légua de
+permeio para logradouro dos eréos, pagando o foro de quatro mil réis por légua em cada
+um ano, visto ser em distância de mais de trinta léguas desta Praça, como determina a
+Real Ordem de 28 de setembro de 1700, do qual dará fiança idônea na Contadoria da
+Real Fazenda desta capitania, cuja terra possuirá e gozará ele, Manoel de Siqueira
+
+Barbosa, seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje
+para todo o sempre, com todos os seus pertences, matas, campos águas, rios, pontes,
+fontes, testadas, logradouros e mais úteis que ela compreende, não prejudicando a
+terceiro, e não passará a religiões e pessoas eclesiásticas, salvo for com os mesmos
+encargos, com que as possuem os seculares, e será obrigado a dar caminho livre ao
+Conselho para fontes, pontes e pedreiras, e a requerer dentro em três anos confirmação
+real, medição e demarcação, povoá-la e cultivá-la, e não cumprindo assim se dará por
+devoluta e novamente será conferida a quem requerer, na conformidade da Real Ordem
+de 20 de outubro de 1753, e como mostrou haver satisfeito a Real Fazenda de Sua
+Majestade Fidelíssima a quantia de cento e trinta e dois mil réis de foros que devia do
+tempo que se tem utilizado da referida terra, os quais se carregaram ao tesoureiro dos
+miúdos, Manoel Antônio Duarte, como constou do seu conhecimento em forma tirado
+do livro 1.º a que toca a folha 6 = Ordeno aos ministros da Fazenda e Justiça e mais
+pessoas a quem tocar, cumpram, façam cumprir e guardar esta carta de doação de
+sesmaria como nela se contém, fazendo dar ao suplicante a posse real, efetiva e atual na
+forma costumada, debaixo das cláusulas referidas e das mais da ordenação títulos de
+sesmarias. - Em firmeza do que lhe mandei passar a presente por mim assinada e selada
+com o sinete das minhas armas, que se registrará na Secretaria deste Governo e
+Contadoria da Real Fazenda. - Dada no Recife de Pernambuco, aos 25 dias do mês de
+setembro - Francisco Gonçalves Reis Lisboa, oficial maior da Secretaria do Governo a
+fez — Ano do Nascimento de Nosso Senhor Jesus Cristo de 1770 = O secretário do
+Governo, José Gonçalves da Fonseca, a fez escrever. = Manoel da Cunha Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 214 - 217.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

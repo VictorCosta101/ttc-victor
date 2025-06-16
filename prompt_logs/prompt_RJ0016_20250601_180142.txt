@@ -1,0 +1,101 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0016
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Miguel Brás Azevedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "11-11-1573",
+  "Data da concessão": "11-11-1573",
+  "Observações da sesmaria": "Título original: Carta de sesmaria das terras de Brás Azedo.\r\n",
+  "Localidade": "Liriuçu",
+  "Marcos Geográficos": "Tapera de um tamoio por nome Jcojoo",
+  "Confrontantes": "Jorge Fernandes; Jácome Pinheiro; Diogo de Braga ",
+  "Observações da petição": "O documento está incompleto, faltantes as páginas 69-74.",
+  "Justificativas": "Alegou não ter casa própria; Era morador(a) da Capitania; Não tinha terras; Alegou possuir muitos familiares; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Sabe que foram concedidas 500 medidas de terra, mas não existe uma especificação, pois o documento está incompleto. ",
+  "Observações das exigências": "A carta está incompleta. ",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0016"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0016 
+ 
+Carta de concessão de sesmaria de Brás Azedo de 11 de novembro de 1573 
+ 
+Forra 
+Saibam quantos este instrumento de carta de sesmaria virem, que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1573, aos 11 dias do mês de novembro do dito ano, nesta cidade 
+de São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas de mim escrivão abaixo 
+nomeado, apareceu  Miguel Brás Azedo, morador nesta dita cidade, e me apresentou uma 
+petição com um  despacho nela do Senhor Cristóvão de Barros, capitão e governador desta dita 
+cidade, capitania e governança deste dito Rio de Janeiro por El Rei nosso Senhor,  da qual 
+petição o traslado dela é o seguinte: Brás Azedo faz a saber a Vossa Mercê em como ele há 
+cinco anos e mais que está nessa cidade, e até agora não tem terra para lavrar nem fazer suas 
+roças para sustentamento de sua mulher e filhos, pede a Vossa Mercê, que lhe faça a mercê de 
+sesmaria os sobejos de terra que houver em Liriuçu, que é onde Diogo de Braga tem e Jácome 
+Pinheiro que agora é de Jorge Fernandes, os quais sobejos pede até uma tapera de um tamoio 
+por nome Jcojoo, onde Domingos de Braga o matou, no que Vossa Mercê lhe fará mercê. E 
+tudo visto pelo dito Senhor, capitão e governador a petição do dito suplicante Brás Azedo, e o 
+que lhe pedia visto ser justo e havendo respeito ao proveito que se pode seguir acerca da 
+República e ao serviço de Deus e Del Rei nosso Senhor,  por a terra se povoar deu ao dito 
+suplicante, Brás Azedo, 500 [Faltam as folhas  69-74 com a continuação desta carta].  
+ 
+- 
+Fim da Transcrição - 
+ 
+Observações: 
+Título original: Carta de sesmaria das terras de Brás Azedo. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 79;  
+Documento Original : f.27.,68.  
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.79. Códice 50.5.3A(1573-4).      
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

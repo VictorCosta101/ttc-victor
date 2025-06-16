@@ -1,0 +1,81 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0021
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Beatriz de Vasconcelos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "02-11-1691",
+  "Observações da sesmaria": "A suplicante requereu 5 mil braças de terra de comprimento e 5 mil braças de largura na ribeira do Arassagipe, capitania de Itamaracá. A sesmaria atravessava o caminho utilizado por Feliciano Coelho de Carvalho para ir a serra da Copaoba",
+  "Localidade": "Itamaracá",
+  "Ribeira": "do Arassagipe",
+  "Exigências do Deferimento": "Determinou-se não prejudicar léguas dos índios da aldeia; Exigiu-se que, caso não fossem as terras povoadas, se dessem a quem pedisse; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou que herdou as terras do pai, Antônio de Holanda Vasconcelos, e por esta razão requeria a concessão. ",
+  "Observações do deferimento e da concessão": "\tO documento é um trecho resumido do Códice 155 do Arquivo Nacional do Rio de Janeiro. O Códice contém as cópias das sesmarias presentes no arquivo da Tesouraria-geral da Provedoria-mor da Bahia. O códice foi publicado nas Publicações do Arquivo Nacional no ano de 1931. Por causa destas circunstâncias, não foi possível identificar detalhes importantes com relação a concessão, despacho e deferimento.",
+  "Observações das exigências": "As condições exigidas foram aquelas estabelecidas no foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0021"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0021
+Carta de concessão de Beatriz de Vasconcelos de 02/11/1691
+Dona Beatriz de Vasconcelos – Alvará de confirmação de 2 de novembro de 1691. –
+5000 braças de terra em quadra. – No Itamaracá, na ribeira chamada Arassagipe, por
+uma e outra parte 5000 braças de terra em quadra, e além da outra chamada
+Momauguape, a qual atravessa um caminho por onde fora Feliciano Coelho à
+Capaoba, no tempo das bexigas, podendo fazer do comprimento largura e vice-versa,
+para cima ou para baixo, com todas as águas, terras e logradouros que houver, dentro
+dos limites. – Condições: As do Foral, de não se apoderarem das aldeias dos índios e
+das terras que este cultivaram; e a confirmação ser com cláusula de ter vigor, se as
+terras estiverem povoadas e rendosas por seu pai; aliás, ficará de nenhum efeito, tanto
+a confirmação como a primeira concessão. – Observação: Foi herança de seu pai,
+Antônio de Holanda Vasconcelos, da sesmaria concedida na Paraíba à este, em 28 de
+março de 1603; e ora confirmarda.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 155, fl. 24v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0284
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "jerônimo de albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "23-05-1542",
+  "Observações da sesmaria": "O sesmeiro requereu 58 braças de terra na vila de Olinda. A terra requerida localizava-se na rua do Varadouro, na parte norte com a fonte e as terras de Pantaleão Gonçalves; na parte sul com as feitorias e com o rio do concelho. ",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Rua do Varadouro, Feitorias",
+  "Confrontantes": "Pantaleão Gonçalves",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário da capitania de Pernambuco, Duarte Coelho, concedeu a isenção do pagamento do dízimo ao suplicante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0284"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0284 
+ 
+Carta de concessão de Jerônimo de Albuquerque de 23/05/1542 
+ 
+Data dos chãos de que fez desistência Duarte de Albuquerque 
+ 
+Diz dom Filipe de Moura, como tutor e curador dos filhos menores que ficaram de Jerônimo 
+de Albuquerque, que Deus tem, que por lhe pertencerem uns chãos que estão nos arrabaldes 
+desta vila, entre a horta do contrabaixo e Varadouro, de que tinha a sua carta que se perdeu, a 
+qual está registrada nos Livros do Registro da Fazenda. Pede a Vossa Mercê mandar dar o 
+traslado dela, de modo que faça fé. E receberá mercê. Dê-se-lhe o translado dos Livros do 
+Registro da Fazenda e Alfândega, como pede. Olinda, 20 de outubro de 99. [C…] Segue-se o 
+traslado da carta que se pede. Duarte Coelho, capitão e governador destas terras da Nova 
+Lusitânia. Faço saber a quantos esta minha carta de doação virem, que a mim apraz e hei por 
+bem de dar e doar deste dia para todo o sempre a Jerônimo de Albuquerque, fidalgo da Casa 
+de ElRei, Nosso Senhor, morador nesta minha vila de Olinda, o chão que está na rua do 
+Varadouro, o qual se demarca da maneira seguinte, convém a saber: Parte de uma parte com a 
+rua do Varadouro; e da banda do norte parte com a rua que vai para a Fontainha e com o chão 
+de Pantaleão Gonçalves; e da banda do sul parte com as ruas das feitorias até entestar com o 
+rio que se há de tirar e serventia da vila e concelho; e da banda do mar parte com o dito rio e 
+serventia, que é da banda do leste. E assim, hei por bem e me apraz de dar e doar ao dito 
+Jerônimo de Albuquerque, o chão que está junto da praça da dita vila, o qual tem de testada ao 
+longo da rua Nova 11 braças e 3 palmos, e de comprido, ao longo de Brás Pires, 17 braças e 2 
+palmos, e pela traseira no longo da dita rua de Val de Fontes, outras 17 braças e 3 palmos, e 
+dali torna para a dita praça ao longo da ferraria 7 braças até entestar com a dita praça, onde 
+findou a dita demarcação; os quais chãos demarcados, da maneira que dito é, dou ao dito 
+Jerônimo de Albuquerque e sua mulher, e todos aque dele descenderem, deles se porderão 
+lograr e aproveitar, e poderão fazer deles o que lhes bem vier, como de coisa sua própria, livre 
+e isenta, os quais chãos lhe dou forros, livres e isentos, sem nunca em tempo algum ele nem 
+seus herdeiros, nem as pessoas que os houverem deles, pagarem nenhum foro, nem tributo, 
+nem direito algum, assim dos chãos como quintais, se os fizerem; e porque assim me aprouver 
+de dar e doar os sobreditos chãos ao dito Jerônimo de Albuquerque, da maneira que acima vai 
+declarado, lhe mandei dar esta minha carta de doação, por mim assinada e selada de meu selo, 
+e mando que se registre no Livro do Tombo, e mando que se cumpra e guarde na maneira que 
+
+nela se contém. Bartolomeu Dias, escrivão das datas das terras do cabo de Santo Agostinho até 
+a Santa Cruz, pelo senhor governador, a fez aos 23 dias do mês de maio de 1542 anos; as quais 
+braças acima declaradas são de 9 palmos de vara, e entender que se há que da banda da fortaleza 
+confina com a casa da ferraria, que hora é a casa da cadeia, que se há de fazer, e da banda do 
+sertão confina com Brás Pires e pela dianteira com a rua Nova e da traseira com a rua de Val 
+de Fontes. A qual carta eu, Afonso Gago, escrivão da Fazenda de ElRei, Nosso Senhor, nesta 
+capitania trasladei da própria, a qual era assinada pelo senhor governador e selada com o selo 
+de suas armas, e dizia ser feita por Bartolomeu Dias, escrivão das datas, a qual eu trasladei aos 
+4 dias de julho do ano de 1550; e assinei de meu sinal costumado, Afonso Gago. O qual traslado 
+da carta de data da sesmaria, eu, Antonio Vaz, escrivão das execuções da Fazenda e Alfândega, 
+pelo dito senhor, fiz trasladar do Livro velho do Registro, que está em meu poder às folhas 42 
+na volta e acaba à folha 44, e o consertei com o tabelião aqui assinado, subscrevi e assinei de 
+meu sinal raso e costumado; hoje, 2 dias do mês de novembro de 1599. Antonio Vaz, e comigo 
+tabelião, Marcos de Mesquita de Oliveira. O qual traslado eu, Vicente Gomes da Veiga, 
+cavaleiro fidalgo da Casa de Nosso Senhor e tabelião público, judicial e notas, nesta vila de 
+Olinda, capitania de Pernambuco, por Duarte de Albuquerque Coelho, capitão e governador 
+dela por Sua Majestade; consertei, subscrevi e assinei hoje, aos 28 dias do mês de agosto de 
+1628. Vicente Gomes da Veiga. Não se continha mais em dito documento, que eu, Filipe Nery 
+Correa, tabelião do público judicial e notas da cidade de Olinda, vila do Recife e seus termos, 
+capitania de Pernambuco, para Sua Majestade, que Deus guarde etc., fiz trasladar bem e 
+fielmente e vai sem dúvida, na verdade, com o qual e com o oficial abaixo assinado, o conferi 
+e consertei ao próprio, me reporto que tornei a entregar ao reverendo padre pregador do dito 
+mosteiro, que também assinou, escrevi e assinei em público e [razão] de meus sinais seguintes, 
+aos 3 de janeiro de 1766. 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 22-23. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

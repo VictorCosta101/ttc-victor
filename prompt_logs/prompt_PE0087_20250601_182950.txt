@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0087
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0144",
+  "Nome": "Frutuoso Fernandes, João de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "27-02-1749",
+  "Data da concessão": "02-01-1750",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e uma légua de largura na ribeira do rio Ipojuca, ao longo do dito rio e distante três léguas da aldeia de Nossa Senhora da Escada. ",
+  "Localidade": "Rio Ipojuca",
+  "Marcos Geográficos": "Aldeia de Nossa Senhora da Escada",
+  "Ribeira": "do Ipojuca",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara do Recife.",
+  "Observações das exigências": "O governador Luís José Correia de Sá determinou o pagamento anual do foro régio no valor de 4 mil réis. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Caetano da Silva Pereira",
+  "referencia": "PE0087"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0087
+Carta de doação e sesmaria de Frutuoso Fernandes e João de Oliveira - 02/01/1750
+A Frutuoso Fernandes e a João de Oliveira, se deu sesmaria.
+Luiz José Correa de Sá, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc - Faço saber aos que esta carta de doação e
+sesmaria virem, que Frutuoso Fernandes e João de Oliveira me fizeram o requerimento
+do teor seguinte: Ilustríssimo e Excelentíssimo Senhor — Dizem Fructuoso Fernandes e
+João de Oliveira que na ribeira do rio Ipojuca, três léguas distantes da aldeia de Nossa
+Senhora da Escada, pegando da cachoeira do dito rio acima, na forma expressada, digo,
+dito rio a que chamam da culheira para cima, correndo o rumo direito pelo mesmo rio
+acima, se acha muita porção de terra devoluta e desaproveitada, a qual querem os
+suplicantes cultivar, dando-se-lhe por sesmaria duas léguas, começando da dita
+cachoeira pelo dito rio acima na forma expressada e uma para cada lado do mesmo rio
+ou até onde contestar com eréos —: Pede a Vossa Excelência seja servido mandar-lhe
+passar carta de sesmaria, pagando o foro costumado na forma das ordens de Sua
+Majestade – E receberá mercê — Informe o provedor da Fazenda Real - Recife, 27 de
+fevereiro de 1849 — Rubrica - Informe o escrivão da Fazenda e responda o doutor
+procurador da mesma. Barros — Senhor provedor da Fazenda Real, por ordem de Sua
+Majestade de 21 de março de 1744, registrada no Livro 4.° de ordens, que serve nesta
+Provedoria, é o dito senhor servido determinar que para se concederem sesmarias de
+terras nos sertões desta capitania, sejam ouvidas as Câmaras dos distritos a que
+pertencerem, e que de outra sorte se não hão de confirmar, o que satisfeito me parece
+justo o requerimento dos suplicantes a que se lhes conceda as léguas de terra que pedem,
+pagando o foro de 4:000 por cada uma, a cuja importância devem dar fiança nesta
+Provedoria, para segurança do dito foro — Recife, 28 de fevereiro de 1749 - Caetano da
+Silva Pereira - Ilustríssimo e Excelentíssimo Senhor, digo, de 1749 — José Ferreira da
+Silva — O requerimento dos suplicantes é justo e me parece se lhe deve deferir na
+forma que informa o escrivão da Fazenda Real. Recife, 3 de março de 1749 - Caetano
+da Silva Pereira — Ilustríssimo e Excelentíssimo Senhor — Por ordem de Sua
+Majestade que se acha registrada nesta Provedoria, é o mesmo senhor servido se não
+permitam datas de sesmarias sem serem ouvidas as câmaras respectivas a que
+
+pertencerem as terras que se pedirem, que de outra sorte se não hão de confirmar as
+datas, o que satisfeito me parece justo o requerimento, pagando os suplicantes o foro de
+quatro mil réis por cada légua de terra, para o que devem primeiro dar fiança; Vossa
+Excelência mandará o que for servido. Recife, 4 de março de 1749 - Rubrica -
+Ilustríssimo e Excelentíssimo Senhor. Por se, digo, de 1749. João do Rego Barros —
+Respondam os oficiais da Câmara do distrito onde pertencer — Recife, 5 de março de
+1749 - Rubrica - Ilustríssimo e Excelentíssimo Senhor. Por se evitarem litígios e
+prejuízos de
+terceiro,
+por não
+haverem
+hoje
+terras
+que não
+estejam
+dadas,
+principalmente no lugar que os suplicantes requerem, parece-me justo que o capitão-
+mor do distrito informe primeiro a Vossa Excelência se há terras devolutas no lugar
+requerido e com sua informação diremos se os oferecer a Vossa Excelência sobre o
+mesmo requerimento. Recife em Câmara, 2 de julho de 1749 - E eu, José de Araújo
+Viana, escrivão da Câmara, o escrevi — Manoel Ribeiro de Oliveira - Caetano da Silva
+Pereira - Francisco Pereira Dutra - Informe o capitão-mor do distrito se as terras que os
+suplicantes pretendem estão devolutas. - Recife, 5 de julho de 1749 - Rubrica =
+Ilustríssimo e Excelentíssimo Senhor — Por informação que me dá o comandante da
+freguesia de Ipojuca, do distrito da Câmara desta Vila, declara-lhe não consta haver data
+das terras que se pedem, mas somente têm notícia que Narciso Carneiro tem uma data
+no mesmo rio de Ipojuca e que não sabe as léguas e distância que compreende, o que
+melhor constará da mesma data ou demarcação e suas confrontações e que não sabe se
+achem as que se pedem senhoreadas de pessoa alguma; Vossa Excelência mandará o
+que for servido - Recife, 28 de outubro de 1749 - João da Costa Monteiro — A vista da
+informação do capitão-mor, responda a Câmara - Apipucos, 9 de novembro de 1749 —
+Rubrica - O requerimento dos suplicantes se faz atendível e nos parece estar em termos
+de Vossa Excelência lhes deferir, visto constar não haver prejuízo de terceiro, nem ao
+bem público, porém nos parece deve informar o escrivão da Fazenda da data de Narciso
+Carneiro, o quanto compreende e se tem sobras, é o que podemos informar a Vossa
+Excelência, que mandará o que for servido. Recife em Câmara, 21 de novembro de
+1749 — E eu, José Araújo Viana, escrivão da Câmara, o escrevi — Antonio da Rocha
+Dantas —, Manoel Ribeiro de Oliveira —, Sebastião Antunes de Araújo —, Jorge
+Carneiro de Almeida — Satisfação ao que apontam os oficiais da Câmara, informando
+o escrivão da Fazenda Real — Trapiche do Cabo, 5 de dezembro de 1749 — Rubrica —
+Ilustríssimo e Excelentíssimo Senhor - Nesta Provedoria se acha registrada uma data de
+Sesmaria passada em 20 de Outubro de 1715, pela qual se concedeu a João Tenório de
+
+Molina, uma légua de terra no distrito da freguesia de Ipojuca pelo rio acima, junto a
+um riacho Matapiruma, cortando do mar para as ditas terras, fazendo pião na serra que
+está junto ao dito riacho e dela tomando meia légua para cada parte desta data de terra
+que se acha hoje de posse de Narciso Carneiro da Silva, por uma escritura de doação,
+que apresentou nesta Provedoria, ficando obrigado a pagar os foros pela fiança que deu
+confirmando-as [...] desta sesmaria com as quais, digo, que os suplicantes apontam em
+sua petição, parece-me deferir uma da outra, avista do que Vossa Excelência mandará o
+que for servido - Recife, 9 de dezembro de 1749 — Bernardo Pereira de Vasconcelos
+—, e não se continha mais no dito requerimento dos suplicantes informações e respostas,
+que estando todas conformes e sendo-me apresentado nele, mandei por meu despacho
+de 20 de dezembro de 1749 — Dado no caso que se lhes passou carta de sesmaria, em
+cujo cumprimento se passou a presente, pela qual tenho e — Hei por bem dar aos
+suplicantes em nome de Sua Majestade, na forma do Capítulo 15 do regimento deste
+Governo, as duas léguas de terra pedidas e confrontadas em sua petição, com todas as
+suas pertenças, matas, logradouros, fontes, rios, vertentes e o mais a elas pertencentes,
+para eles e seus herdeiros ascendentes descendentes, para que as lograrão e possuirão
+como suas, que são e ficam sendo por virtude desta doação e sesmaria, não
+prejudicando a terceiro, pagando o foro que aponta o provedor da Fazenda Real cada
+légua e ficaram obrigados a dar caminhos livres ao Conselho para estradas, fontes e
+pedreiras, não passando por nenhum título a religiões salvo se for como seculares e com
+os mesmos encargos; há de fazer confirmar esta data por Sua Majestade, no tempo que
+o dito Senhor determina em suas ordens, pelo que ordeno aos ministros da Justiça e
+Fazenda lhe deem e façam dar posse da dita terra, o que o comandante da freguesia fará
+executar, sem dúvida, embargo ou contradição alguma, para que eles a povoem e
+cultivem, como são obrigados — Em firmeza do que lhe mandei passar a presente por
+mim assinada e selada com o sinete de minhas armas, que se registrará na Secretaria
+deste Governo e Provedoria Geral - Manoel Coelho de Souza a fez no Apipucos, a 2 de
+janeiro de 1750 - Felipe Nery Correa, oficial maior da Secretaria, a fez escrever = Luiz
+José Corrêa de Sá =.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 91 - 95.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

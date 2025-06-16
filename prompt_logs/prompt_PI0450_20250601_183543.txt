@@ -1,0 +1,106 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0450
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Luís Carlos Pereira de Abreu",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-04-1735",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"o suplicante povoou por estar inculta\".\r\n",
+  "Localidade": "Ilha chamada Canária",
+  "Ribeira": "Parnaíba",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Alegou serem as terras devolutas nunca doadas anteriormente; Alegou que não prejudicaria a terceiros; Esperava evitar contendas; Não possuía as terras com justo título; Pretendia criar gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0450"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0450
+Carta de Concessão a Luís Carlos Pereira de Abreu - 01/04/1735
+Registro de uma data passada a Luís Carlos Pereira de Abreu, morador na Capitania do
+Piauí
+José da Serra etc. Faço saber aos que esta minha carta de data e sesmaria virem, que a mim
+me enviou a dizer por sua petição Luís Carlos Pereira de Abreu, morador na Capitania do
+Piauí, que na ilha chamada Canária junto ao rio Parnaíba, que o suplicante povoou por estar
+inculta e que por não ter outra de sesmaria necessitava de 3 léguas de terra de comprimento e
+uma de largura, para nela continuar suas criações de gado; pedindo-me fosse servido
+conceder-lhe, em nome de Sua Majestade, as ditas 3 léguas de terra de comprimento e uma de
+largura na ilha confrontada; e receberia mercê. E atendendo, eu, as suas razões que alegava,
+como também ao que respondeu o provedor-mor da Fazenda Real e ser em utilidade da
+mesma Fazenda, a cultivarem-se as terras neste Estado. Hei por bem, de conceder ao
+suplicante, em nome de Sua Majestade, as 3 léguas de terra de comprimento e uma de largura
+na forma e pela parte que pede, com as confrontações que declara e condições expressadas
+nas Reais Ordens; com a condição de não fazer trespasse a pessoa alguma, em nenhum tempo
+sem que primeiro dê parte na Casa da Fazenda ao provedor dela, para se me fazer presente se
+se deve, ou não, consentir no tal trespasse, sob pena de ficarem as ditas terras devolutas para
+se concederem novamente a outrem; e nesta forma se lhe passe sua carta para que as haja,
+logre e possua como cousa sua própria e todos os seus herdeiros, ascendentes e descendentes,
+sem pensão, nem tributo algum, mais que o dízimo a Deus, Nosso Senhor, dos frutos que
+nelas tiver; a qual concessão lhe faço não prejudicando a terceiro, nem a Sua Majestade, se na
+dita paragem quiser mandar fundar alguma vila, reservando os paus reais que nelas haver para
+embarcações; com declaração que mandará confirmar esta carta, por Sua Majestade, dentro de
+3 anos seguintes - digo, primeiros seguintes - e cultivar as ditas terras de maneira que deem
+frutos; e dará caminhos públicos e particulares onde forem necessários para partes, fontes,
+portos e pedreiras; e se demarcar ao tempo da posse por rumo de corda e braças , como é
+estilo e Sua Majestade manda; e outrossim, não poderão sueceder nelas religiões por nenhúm
+título e, acontecendo possuí-las, será com o encargo de pagarem delas dízimos a Deus, como
+se fossem possuídas por seculares; e faltando a qualquer dessas cláusulas, se haverão por
+devolutas e se dará a quem as denunciar, como o dito Senhor ordena. Pelo que mando ao
+provedor-mór da Fazenda e mais ministro e pessoa a que tocar, que na forma referida e com
+as condições declaradas deixem ter e possuir as ditas terras ao dito Luís Carlos Pereira de
+Abreu, para ele e todos os seus herdeiros, ascendentes e descendentes. Cumpram e guardem
+esta minha carta tão inteiramente como nela se contém, a qual lhe mandei passar por mim
+assinada e selada com o sinete de minhas armas, que se registrará onde tocar e se passou por
+duas vias. Dada nesta cidade de Belém do Pará, ao 1º de abril do ano de nascimento de Nosso
+Senhor Jesus Cristo de 1735. Antônio da Rocha Machado, secretário de Estado, a fez escrever
+// José da Serra //
+- fim da transcrição -
+Referência:
+APEP, Livro 7, doc. 135. Fls. 96v - 97.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

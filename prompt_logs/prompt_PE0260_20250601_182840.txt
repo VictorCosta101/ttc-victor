@@ -1,0 +1,98 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0260
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0360",
+  "Nome": "Catarina de Tal, Francisco de Oliveira Porto, Francisco de Sousa Fagundes, João Ferreira de Lima, José Simões, Manuel Ferreira, Pedro Vieira de Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "07-10-1681",
+  "Observações da sesmaria": "Os suplicantes requereram terras existentes no interior no rio São Francisco em direção a capitania de Pernambuco, passando pelos dois lados do rio Itapucanha. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio São Francsico, Rio Itapucanha",
+  "Observações da petição": "Os suplicantes não informaram a quantidade de léguas requeridas e nem as medidas pretendidas. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0260"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0260 
+ 
+Carta de concessão de José Simões, Francisco de Oliveira Porto, Catarina de Tal, Pedro 
+Vieira de Lima, Manuel Ferreira, Delfino Francisco de Sousa Fagundes e João Ferreira 
+de Lima de 07/10/1681 
+ 
+Sesmaria de umas terras existentes no interior, passando o rio São Francisco para a parte 
+de Pernambuco, no rio de Itapucanha de um e outro lado e com suas vertentes, concedida 
+em canha de um e outro lado e com suas vertentes, concedida em 7 de outubro de 1681 a 
+José Simões, Francisco de Oliveira Porto, Catarina de tal, Pedro Vieira de Lima, Manoel 
+Ferreira, Delfino Francisco de Souza Fagundes e João Ferreira de Lima e seus herdeiros, 
+pelo Governador Ayres de Souza de Castro, sem foro ou pensão alguma, salvo o dízimo 
+a Deus. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.100. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

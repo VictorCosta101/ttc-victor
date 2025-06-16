@@ -1,0 +1,91 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0295
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Povo de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "17-03-1550",
+  "Observações da sesmaria": "O donatário de Pernambuco, Duarte Coelho, concedeu ao povo de Olinda das terras comunais da vila em direção ao rio Beberibe. ",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Rio Beberibe",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário de Pernambuco, Duarte Coelho, concedeu aos moradores da vila de Olinda os assentos dos montes para plantação dos moradores da vila e a várzea até o rio Beberibe para criação de gado, isento do pagamento de tributos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0295"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0295 
+ 
+Sesmaria da terra que Duarte Coelho deu a Nossa Senhora do Monte 
+ 
+Jesus Maria. Duarte Coelho, fidalgo da Casa dElRei, Nosso Senhor, capitão e governador 
+destas terras da Nova Lusitânia, por ElRei, Nosso Senhor etc. Faço saber a quem esta minha 
+carta de doação virem, que ano do nascimento de Nosso Senhor Jesus Cristo, de 1550, aos 17 
+dias do mês de março do dito ano, a requerimento dos vereadores do Conselho desta Vila de 
+Olinda, foi mandado tirar do Livro do Tombo e matrícula, carta de doação das coisas que ele, 
+dito senhor governador, tinha dado a esta vila, moradores e povoadores dela, as quais foram 
+dadas pelo dito senhor governador na era de 1537, as quais coisas e dadas são as seguintes: No 
+ano de 1537, deu e doou o senhor governador a esta sua vila de Olinda, e para seu serviço e de 
+todo seu povo, moradores e povoadores dela, as coisas seguintes. Os assentos deste monte e 
+[?] dele, para roçarias e vivendas dos ditos moradores e povoadores, os quais lhe dá livres, 
+forros e isentos de todo o direito e pensam por várzeas [?] das vacas e a de Beberibe, e as que 
+vão pelo caminho que vai para o [?] do Gonçalves, e isto para os que não tem onde passem 
+seus gados, e isto será nos capins para [?] que as [rebotraz] dos matos para roças, a que houvesse 
+ou as arrendar que estão dos capins para o alagadiço e para os mangues com que confinam as 
+terras dadas a Rodrigo Alvares e outras pessoas. D. O. Rocio que está de frente da vila para o 
+sul até o ribeiro e do ribeiro até a lombada do monte, que faz para os mangues do rio Beberibe, 
+onde se fez o Varadouro. 
+Observação: No tombo e foral de Olinda não continua, ficando em branco a folha 125 e a 
+primeira página da folha 126, reservados para a continuação do mesmo. 
+Cedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 124-125. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

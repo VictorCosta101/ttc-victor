@@ -1,0 +1,105 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0283
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Borges Raimundo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "14-09-1723",
+  "Observações da sesmaria": "A carta encontra-se completamente ilegível, o que não permite precisar informações acerca da petição.",
+  "Localidade": "Terras devolutas na Serra do Frade",
+  "Marcos Geográficos": "Serra do Frade",
+  "Justificativas": "As terras eram devolutas; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta encontra-se completamente ilegível, não sendo possível identificar por quais instâncias a mesma passou.",
+  "Observações das exigências": "A carta encontra-se completamente ilegível, não sendo possível identificá-las.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0283"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0283
+Carta de concessão de José Borges Raimundo de 14 de setembro de 1723
+(Ilegível)
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo, a folha
+151. Rio, 14 de setembro de 1723.
+//José Ferreira da Fonte//
+O doutor Antônio de Sousa de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor-geral e corregedor da comarca, com alçada no cível e crime desta cidade
+do Rio de Janeiro e mais capitanias de sua repartição, juiz das justificações, etc. Aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que esta subscrição ser a firma posta no fim da carta de sesmaria retro do
+governador e capitão-general desta praça, Aires de Saldanha, e a firma ao pé do assento a dita
+ser do secretário José Ferreira da Fonte, o que tudo hei por justificado. Rio de Janeiro, 3 de
+outubro de 1724. Eu, Domingos Rodrigues Távora, escrivão, a subscrevi.
+//Antônio de Sousa de Abreu Grade//
+- Fim da Transcrição -
+Observação:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro, concedeu e deu de sesmaria a
+José Borges Raimundo uma légua de terras, em quadra, nos sertões da Serra do Frade, com as
+confrontações indicadas na mesma carta. Rio de Janeiro, 14 de setembro de 1723.
+O documento 4986, de acordo com a página inicial do Projeto Resgate, corresponde a uma
+carta pelo qual o governador concedeu uma sesmaria para o suplicante. Aparentemente, essa
+carta não está digitalizada, pois apenas uma parte dela se encontra na página 2 desse
+documento
+(https://resgate.bn.br/docreader/DocReader.aspx?bib=017-1_RJ&pagfis=11715).
+Portanto, foi transcrita apenas a página digitalizada disponível no link anterior.
+A fim de fornecer mais informações da sesmaria e do sesmeiro, fornecemos abaixo a
+transcrição da petição de confirmação da respectiva carta de concessão:
+“Haja vista o Procurador da Fazenda Real. Lisboa, 5 de maio de 1725.
+[rubricas]
+Senhor
+Diz José Borges Raimundo, que a ele suplicante lhe fez mercê o governador e capitão-general
+da capitania do Rio de Janeiro de carta de sesmaria, em nome de Sua Majestade, de 1 légua de
+
+terra que se achava devoluta, como tudo me consta da dita carta que junto oferece, e por que a
+deseja confirmar por Sua Majestade, na forma declarada na mesma carta.
+Para Vossa Majestade lhe faça mercê mandar confirmar (ilegível) de posse da légua da terra,
+em nome de Sua Majestade que lhe concedeu o governador e capitão-general, como se declara
+na mesma carta.
+Receberá mercê.”
+Referência:
+AHU_ACL_CU_017-1, Cx. 22\Doc. 4986.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

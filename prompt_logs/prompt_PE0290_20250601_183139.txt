@@ -1,0 +1,103 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0290
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Martins",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-01-1570",
+  "Observações da sesmaria": "O suplicante requereu 600 braças de terra no Macuípe, ao longo da banda norte do rio Capibaribe.",
+  "Localidade": "Macuípe",
+  "Marcos Geográficos": "Rio Capibaribe, Macuípe",
+  "Observações da petição": "O suplicante requereu 600 braças de terra, mas o donatário da capitania concedeu somente 300 braças quadradas. ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ser morador da vila de Olinda há mais de 24 anos e por possuir duas filhas solteiras em idade para casa e por não ter terras para lavrar requereu a concessão da sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0290"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0290 
+ 
+Concessão de Antônio Martins de 04/01/1570 
+ 
+Outro traslado. Duarte Coelho de Albuquerque, capitão e governador desta capitania, 
+e governança de nova Luzitânia por El Rei nosso Senhor etc. Faço saber aos que esta 
+minha carta de sesmaria for mostrada, e o conhecimento dela com direito a pertencer, 
+como a mim enviou a dizer por sua petição Antônio Martins Alfaiate morador nesta 
+vila de Olinda, que ele havia 24 anos que era morador nesta vila, sem nunca até o 
+presente momento lhe ser dada terra alguma, em que pudesse lavrar, e fazer 
+benfeitorias, e que por ele suplicante ter duas filhas para casar, me pedia lhe fizesse 
+mercê de lhe dar em MACUÍPE de longo do rio Capibaribe da banda norte 600 braças 
+de terra, no que lhe faria mercê no qual pus por meu despacho. Passem carta ao 
+suplicante  de 300 braças de terra em quadra na parte que pede, e não impedirá 
+engenho a 20 de dezembro de 1579. Pelo qual hei por bem, e me praz de dar, e doar 
+deste dia para todo sempre ao dito Antônio Martins para ele e sua mulher, filhos, e 
+netos, herdeiros ascendentes e descendentes, e para todas as pessoas que após eles 
+vierem 300 braças de terra em quadra… do rio de Macuipe do longo do rio de 
+Capibaribe da banda norte, não sendo dadam e sendo dada, adiante onde não for dada 
+até o presente, as quais braças serão craveiras de 10 palmos de vara, da qual terra que 
+lhe assim dou ao dito Antonio Martins, e todos seus sucessores, e as pessoas a que a 
+dita terra suceder, ou vier ou deles a houveram, dela se poderá lograr e aproveitar 
+como coisa sua própria , que já é deste dia para todo sempre, sem que por ele o dito 
+Antônio Martins, nem seus herdeiros, nem as pessoas, a quem a dita terra suceder, 
+pagarem foro, nem tributo, nem direito algum, somente dízimo a Deus, e manda que a 
+dita terra lhe seja demarcada no dito lugar de Macuipe da banda do norte do dito rio e 
+porque assim me aprove de lhe dar a dita terra pela dita maneira de sesmaria, lhe 
+mandei passar esta carta, a qual mando que se cumpra, e guarde como nela, se conté, e 
+se registre no Livro da Fazenda de sua Majestade, dada nesta vila de Olinda sob meu 
+sinal, e selo de minhas armas, que ante mim serve, aos 04 dias do mês de janeiro, João 
+Rodrigues, escrivão a fez ano de nascimento do nosso Senhor Jesus Cristo de 1570 
+anos. Pagou com ida, e nota 100 réis. Duarte Coelho de Albuquerque. Ao selo nada. 
+Francisco do Amaral. De. 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 82. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

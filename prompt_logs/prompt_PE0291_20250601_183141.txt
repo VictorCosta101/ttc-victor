@@ -1,0 +1,105 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0291
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gomes Correa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "24-11-1579",
+  "Observações da sesmaria": "O suplicante requereu 1500 braças de terra de comprimento e 1500 braças de largura no Mucuípe, no rio Capibaribe, nas fronteiras das terras de Gonçalo Mendes Leitão.",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe, Macuípe",
+  "Confrontantes": "Gonçalo Mendes Leitão",
+  "Observações da petição": "O suplicante requereu 1500 braças quadradas, mas o donatário de Pernambuco somente concedeu 400 braças quadradas. ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ser morador na vila de Olinda há 5 anos, servindo como mestre capela da Igreja Matriz e nas guerras ocorridas na capitania. Por seu serviço, requeria a concessão das terras para levantar benfeitorias. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0291"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0291 
+ 
+Concessão de Gomes Correa de 24/11/1579 
+ 
+Outro traslado. Duarte Coelho de Albuquerque capitão e governador desta capitania, e 
+governança da nova Luzitânia por El Rei nosso Senhor etc. Faço saber a quantos esta 
+minha carta de sesmaria, e o conhecimento dela como direito pertencer, como a mim 
+enviou a dizer por sua petição Gomes Correa morador nesta vila de Olinda, em como 
+ele havia 5 anos  que era morador nesta vila de Olinda, e que em todo o dito tempo 
+servira de Mestre da Capela da  Igreja Matriz, e assim se achara em todas as guerras, 
+que no dito tempo se fizeram na terra, e por quanto ele suplicante  não tinha terra de 
+sesmaria, em que fizesse benfeitorias, me pedia havendo respeito ao sobredito lhe 
+desse 1500 braças de terra em quadra na testada da terra de Gonçalo Mendes Leitão 
+em Macuipe da banda da nascença do dito rio, e sendo caso que seja dada a outra 
+pessoa primeiro que a ele suplicante adiante para o sertão, no que lhe faria mercê, na 
+qual pus por meu despacho, passe carta ao suplicante de 400 braças em quadra aonde 
+pede, a 04 de novembro de 1579 anos. Pelo qual hei por bem, e me prâz de dar, e doar 
+ao dito Gomes Correa para ele, sua mulher, filhos, e netos, herdeiros ascendentes e 
+descendentes, e para todas as pessoas, que após ele vierem, 400 braças de terra em 
+quadra craveiras de 10 palmos de vara do dito lugar nascimento do dito rio não sendo 
+dada, e sendo dada no dito lugar correrá adiante onde não for dada até o presente, e 
+lhe será demarcada no dito lugar pela dita maneira e passado o ato de demarcação no 
+qual se fará declaração com quem parte, e como da qual terra o dito Gomes Correa, e 
+todos os seus sucessores, e as pessoas a quem a dita terra suceder, ou vier, ou deles a 
+houverem, dela se poderão lograr, e aproveitar como coisa sua própria que já é deste 
+dia para todo o sempre, sem o dito Gomes Correa, e todos seus sucessores, e as 
+pessoas a quem a dita terra suceder, ou vier, ou deles a houverem, por ela pagarem 
+foro, nem tributo, nem direito algum, somente dizimo a Deus, e porque assim me 
+aprove de lhe dar a dita terra pela dita maneira, lhe mandei passar esta carta, a qual 
+mando que se cumpra, como nela se contém, e se registre no Livro de Tombo de sua 
+Alteza, dada nesta vila de Olinda, sob meu sinal e selo de minhas armas, que ante 
+mim serva aos 24 dias do mês de novembro. João Rodrigues escrivão das dadas a fez 
+ano de 1579 anos. Pagou desta com notas, e idas 100 réis. Duarte Coleho de 
+Albuquerque. Ao selo 10 réis. Francisco do Amaral. De. 
+
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 82. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

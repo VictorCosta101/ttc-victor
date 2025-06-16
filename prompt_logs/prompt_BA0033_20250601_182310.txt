@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0033
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Alexandre Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura, localizada no rio Paratigi, fazendo fronteira com as terras de Manuel Fernandes e Antônio Garcia (BA0013).",
+  "Localidade": "Rio Paratigi",
+  "Marcos Geográficos": "Rio Paratigi",
+  "Confrontantes": "Manuel Fernandes; Antônio Garcia",
+  "Observações da petição": "A sesmaria foi solicitada por três sesmeiros, Alexandre Pereira, o que recebeu a concessão dessa terra, Antônio da Maia Gonçalves e José Cardoso Pereira. Eles solicitaram três léguas em quadra para cada um.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Serviu a Sua Majestade; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Afirmaram que serviram à Coroa com muita pontualidade sobre todos os recursos que chegavam naquela capitania e que eles precisavam distribuir, principalmente os referentes às conquistas do sertão.",
+  "Observações do deferimento e da concessão": "Como foi afirmado na observação da sesmaria, três sesmeiros fizeram a solicitação dela, pedindo três léguas em quadra para cada. O procurador da Coroa afirmou que isso daria nove léguas em quadra, o que não poderia ser por causa das ordenações, por isso, afirmou que fossem concedidas três léguas em quadra para todos eles e não para cada um. O provedor da Fazenda afirmou que deveriam ser concedidas quatro léguas em quadra para todos eles. O governador-geral decidiu conceder três léguas de comprimento e uma de largura à Alexandre Pereira, de forma individual. Os outros sesmeiros teriam suas concessões registradas em outras cartas.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0033"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA 
+ 
+Registro de um alvará de sesmaria de 3 léguas de terra de comprimento e uma de largura 
+concedida a Alexandre Pereira. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que, Alexandre Pereira, oficial-mor do escrivão da Fazenda Real deste Estado 
+e outro, me enviaram a representar por sua petição, cujo teor é o seguinte: senhor, dizem 
+Alexandre Pereira, oficial-mor do escrivão da Fazenda Real deste Estado, e Antônio da Maia 
+Gonçalves, também oficial do mesmo escrivão que servem na Casa dos Contos, um há 33 anos 
+e outro a 22 contínuos em todas as matérias da arrecadação da dita Real Fazenda, e da matrícula 
+da gente de guerra do exército desta praça com muita pontualidade e no trabalho, que acresceu 
+das naus da Índia e da mesma conquista do sertão; nas duas jornadas que a ela fizeram, sendo 
+aviados para esta casa dos contos assistindo-lhes a fazer todas as lista do socorro, que se deu a 
+infantaria, índios de São Paulo enquanto assistiram nesta cidade e fardas, e mais aviamentos, 
+que se lhe faziam por ordem de Vossa Senhoria e provedor-mor, sem de todo o referido se lhes 
+ter feito mercê alguma. E José Cardoso Pereira, morador nesta cidade, e casado com obrigação 
+de filhos, que ele, suplicante, serviu a Sua Alteza de oficial-mor, da secretaria deste Estado, 5 
+anos e 2 meses, e com o contínuo trabalho e assistência que a Vossa Senhoria é presente 
+[acudindo] as suas obrigações com grande pontualidade e também no trabalho que demais 
+acresceu com a conquista dos bárbaros em que tanto se tem trabalhado e suposto que o 
+suplicante o não continuou na secretaria, o veio fazer na casa dos contos, onde atualmente está 
+servindo e assistindo a todas as mostras que se passaram a gente de São Paulo, e índios mansos 
+vendidos; assim na terra como no mar, com o sargento-mor Francisco Rabello, e sempre 
+fazendo as listas para seu sustento enquanto a que se detiveram, e aos que de presente estão, e 
+a tudo o mais de que é encarregado do serviço de Sua Alteza [a cuide] com zelo e satisfação 
+que notório de que Vossa Senhoria se pode informar, e porque pelo rio do Paratigi acima, onde 
+acabam as datas de terra que Vossa Senhoria foi servido conceder e dar de sesmaria ao ajudante, 
+Manuel Fernandes, e ao licenciado Antônio Garcia, nas conquistas da parte do norte ou oeste, 
+estão algumas devolutas que não são pedidas, e eles suplicantes as querem povoar. Pedem a 
+Vossa Senhoria que respeitando as razões referidas lhes façam dar de sesmaria em nome de Sua 
+Alteza 3 léguas de terra em quadra a cada um deles suplicantes nas partes que pedem e 
+confrontam em sua petição, visto serem das terras conquistadas. E receberá mercê. E visto a 
+resposta do procurador da Fazenda Real, que é a que se segue. Pedem os suplicantes 9 léguas 
+de terra em quadra, que multiplicadas são 81 o que não tem lugar nem pode ser conforme a 
+ordenação e regimento, e assim somente 3 léguas em quadra que [a ser] 9 se devem conceder 
+aos suplicantes, que é o mais que podem aproveitar e povoar no termo da lei e regimento, 
+obrigando-se na forma dele, e com as condições que declara sem prejuízo de terceiros. Bahia, 
+14 de outubro de 1673. //Rocha// E informação do provedor-mor da Fazenda Real deste Estado 
+que é o seguinte: senhor, parece-me que bem se podem conceder aos suplicantes 4 léguas de 
+terra em quadra na forma do regimento e foral sem prejuízo de terceiros. Vossa Senhoria 
+mandará o que for servido. Bahia, 16 de outubro de 1673.// Antônio Lopes Ulhôa// Hei por bem 
+de conceder e dar como pelo presente faço de sesmaria em nome de Sua Alteza 3 léguas de 
+terra de comprimento, e uma de largura ao dito Alexandre Pereira, que é o que lhe toca na forma 
+que parece ao procurador da Coroa e Fazenda Real, e na parte que a pede e confronta em sua 
+petição não prejudicando a terceiros, nem as terras, que se determinou tivessem as povoações 
+que de novo se fizessem para se darem a seus povoadores, e será obrigado a povoá-las no termo 
+da lei e regimento, pois nesta conformidade lhes concedo com todas suas águas, campos, matos, 
+testadas, logradouros, e mais úteis que nelas se acharem, todo forro livres e isento de pensão ou 
+tributo algum, salvo dízimo a Deus que pagará dos frutos que nelas houver, e por elas será 
+
+ 
+obrigado a dar caminhos livres ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno a 
+todos os ministros e justiça a que o conhecimento deste com direito deva ou possa pertencer, 
+lhe façam dar a posse real efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas, e as mais da ordenação, título das sesmarias. Para firmeza do que lhe mandei passar 
+o presente sob meu sinal e selo de minhas armas, o qual se registrará nos livros da secretaria do 
+Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nele 
+se contém, sem dúvida embargo nem contradição alguma. Antônio Garcia, o fez nesta cidade 
+do Salvador. Bahia de Todos os Santos, em os 3 de novembro de 1673.Bernardo Vieira 
+Ravasco, o fiz escrever.//Afonso Furtado de Castro do Rio de Mendonça// Registrado no 
+segundo livro dos registros da secretaria do Estado do Brasil, a que toca a folhas 3. Bahia, 3 de 
+novembro de 1673. //Ravasco//Cumpra-se e registre-se como Sua Alteza manda. Bahia 5 de 
+dezembro de 1673. //de Ulhoa// E se registrou no dito dia. //Miguel Pinto de Freitas//. 
+ 
+-Fim da transcrição- 
+Observações do documento: 
+ 
+O nome do sesmeiro, tal qual consta no documento original é: Alexandre Pereira. 
+ 
+Referência: 
+ 
+AN, Códice 427, fls. 54v-56 
+Numeração original do livro: 51 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

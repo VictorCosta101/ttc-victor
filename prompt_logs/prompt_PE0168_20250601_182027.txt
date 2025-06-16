@@ -1,0 +1,154 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0168
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0279",
+  "Nome": "Joaquim Francisco Bastos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-02-1825",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no distrito da vila de Sirinháem, no rio Pirangi. ",
+  "Localidade": "Vila de Sirinháem",
+  "Marcos Geográficos": "Rio Pirangi",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Francisco de Lima e Silva determinou o pagamento anual do foro régio no valor de 6 mil réis. O governador Francisco de Lima e Silva também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0168"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0168
+Carta de doação e sesmaria de Joaquim Francisco Bastos - 12/02/1825
+Joaquim Francisco Bastos com uma légua de terra em quadro no termo da Villa de
+Sirinhaém.
+Francisco de Lima e Silva, fidalgo da casa de Sua Majestade, ilustre guarda roupa do
+mesmo Augusto senhor, Gram Cruz da Ordem Imperial do Cruzeiro, comendador na de
+São Bento da Avis, general em chefe do exército cooperador da Boa Ordem da
+província de Pernambuco, e nela interinamente encarregado do governo civil e militar
+etc. Faço saber aos que esta carta de sesmaria virem, que Joaquim Francisco Bastos
+dirigiu ao ex-governador desta província, Luís do Rego Barreto, o requerimento do teor
+seguinte = Ilustríssimo e excelentíssimo senhor = Diz Joaquim Francisco Bastos, 2º
+oficial interino da secretaria da junta da Real Fazenda desta capitania, que havendo certa
+porção de terras realengas devolutas e livres de matas destinadas para a construção real,
+pelo rio denominado Pirangi, no termo da vila de Sirinhaém: requer a Vossa Excelência
+lhe conceda por sesmaria uma légua de terra em quadra, principiando a sua demarcação,
+onde findar a que tem requerido Antônio José de Melo, que é da [Cachoeira] dos
+Caroços pelo dito rio abaixo da parte do sul, preenchendo-se a dita légua para qualquer
+das partes que não ocupar [erio] algum, pagando o suplicante o foro respectivo =
+portanto = Para a Vossa Excelência seja servido atender o requerimento do suplicante,
+deferindo-o como for de justiça. E receberá mercê = sobre o qual deu o dito
+ex-governador o seu primeiro despacho em 7 de abril de 1819, na forma seguinte = A
+Câmara respectiva mande por editais na forma da lei por tempo de 30 dias e me informe
+se há terceiro prejudicado, ao que a mesma Câmara satisfez em ofício de 27 de setembro
+de 1820, acompanhado das certidões dos editais, afirmando não ter neste tempo
+comparecido terceiro prejudicado, então por despacho de 14 de outubro do mesmo ano,
+mandou informar o doutor desembargador juiz conservador das matas reais, que
+nenhuma dúvida lhe pôs, em consequência do que lhe deu em 8 de julho de 1821 o
+despacho do teor seguinte = Informe o procurador da Coroa e Real Fazenda, e não
+oferecendo tão bem este embaraço algum, mandou informar o escrivão deputado em 19
+do mesmo mês e ano, e informando este não haver dúvida na concessão da terra pedida
+em 16 de agosto do dito ano, mandou que a Câmara respectiva nomeasse juiz o piloto
+para a demarcação. E demorando-se o cumprimento deste despacho, que foi apresentado
+a junta do Governo provisório desta província, como arbitrário pela reprovação do
+
+desembargo do Paço; esta mandou por despacho de 22 de agosto de 1822 que se
+passasse carta de sesmaria: e como as terras donde devia principiar a demarcação do
+suplicante tivessem mudado de [erio], apresentou o requerimento do teor seguinte =
+Ilustríssimos e excelentíssimos senhores = Diz Joaquim Francisco Bastos, que tendo
+alcançado de Vossas Excelências despacho para se lhe passar carta de sesmaria e
+prestado a fiança do estilo, como consta dos documentos juntos, tem notícia que a terra
+que igualmente requeria por sesmaria Antônio José de Melo, no fim da qual se há de
+demarcar o suplicante, não lhe pertence; por haver desistido, e sim do padre Antônio
+José da Silva, que se acha de posse neste termos, requer a Vossas Excelências hajam por
+bem mandar declarar na carta de sesmaria de suplicante, que o lugar pretendido é donde
+finalizar a sesmaria, já demarcada do dito padre Silva, portanto = Para a Vossas
+Excelências assim o mandem = E receberá justiça = sobre o qual a junta do Governo
+provisório mandou informar a Câmara respectiva por despacho de 24 de setembro de
+1823, que informou, pertencerem as terras de donde deva principiar a demarcação do
+suplicante ao padre Antônio José da Silva, como alegava em seu requerimento, e por
+mim visto e examinado, mandei que se passasse a presente carta por despacho de 12 do
+corrente. E portanto, pela faculdade que me é concedida no capítulo 15 do regimento
+deste Governo e mais ordens a este fim dirigidas. Hei por bem conceder em nome de
+Sua Majestade ilustre constitucional e defensor perpétuo do império do Brasil a
+Joaquim Francisco Bastos uma légua de terra no termo da vila de Sirinhaém, junto no
+rio Pirangi, com as confrontações declaradas no último requerimento, pagando o foro
+anual de 6 mil réis na conformidade da Imperial Ordem de 28 de setembro de 1700, de
+que deu fiança na secretaria da junta da fazenda pública a folhas 98 do livro 7º delas. A
+qual sesmaria possuirá e gozará ele suplicante e seus herdeiros ascendentes e
+descendentes, como sua que fica sendo de hoje para todo o sempre, com todas as matas,
+campos, rios, águas, testadas, logradouros e mais úteis que nela de compreenderem, não
+prejudicando a terceiro. E não passará a religiões e pessoas eclesiásticas, salvo sendo
+com os mesmos encargos com que as possuem os seculares, e nunca se dividirá em
+porções, nem as partirá, senão por estimação andando encabeçada em uma só pessoa na
+forma da ordenação, livro quarto, título 96 e parágrafo 23, sem consentimento da junta
+da Fazenda Pública, para nela se darem novas fianças e as fazerem as devidas
+escriturações, ficarão livres para a serventia dos povos todas as estradas, rios, fontes e
+pedreiras, e reservadas ao patrimônio público as madeiras de construção, pau brasil e
+viveiros de quaisquer metais, e será obrigado a requerer dentro de 3 anos confirmação a
+
+medir e demarcar, em cujo ato poderão preencher-se para o lado ou lados em que
+houverem terras devolutas, caso encontrem obstáculo dos éreos confinantes na medição
+quadrada, a povoá-la e cultivá-la na forma da Ordem de 20 de outubro de 1753, o alvará
+de 25 e janeiro de 1809, e não cumprindo assim se haverá por devoluta e novamente se
+concederá a quem requerer. Pelo que ordeno aos ministros da Fazenda e da Justiça, e
+mais pessoas a quem tocar, cumpram e façam cumprir esta carta de data de sesmaria,
+como nela se contém, fazendo dar ao referido posse real, efetiva e atual na forma da
+ordenação título das sesmarias. Em firmeza do referido, lhe mandei passar a presente
+por mim assinada e selada com o sinete das armas imperiais, a qual se registrará na
+secretaria deste Governo, na da Junta da Fazenda Pública e donde mais tocar. Manoel
+Izidro de Miranda, 3º oficial da secretaria, a fez em o Recife de Pernambuco, aos 26
+dias do mês de fevereiro de 1825. 4º da independência e do império = E eu, Manoel dos
+passos e Figueiroa, oficial maior da secretaria, a fiz escrever = Francisco de Lima e
+Silva = Estava o sinete das armas imperiais = carta de data de sesmaria, pela qual Vossa
+Excelência há por bem conceder em nome de Sua Majestade ilustre constitucional uma
+légua de terra em quadro no termo da vila de Sirinhaém a Joaquim Francisco Bastos,
+como nela se declara = Para Vossa Excelência ver – Por despacho do seu excelentíssimo
+senhor general, encarregado do Governo da província, de 12 de fevereiro de 1825.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 241-243.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0067
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0123",
+  "Nome": "Bento da Rocha Pessoa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-07-1732",
+  "Observações da sesmaria": "O sesmeiro requereu seis braças e meia de comprimento e dez braças de largura na vila do Recife, na sua das Senzalas, na fronteira com o rio Capibaribe.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rua das Senzalas, Rio Capibaribe",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Pretendia fazer casa; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador solicitou o parecer do tenente general artilheiro Diogo da Silveira Veloso para averiguar se a concessão das terras requeridas prejudicavam as casas fronteiras e vizinhas devido a construção em área de mangue e maré. ",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento do foro régio no valor de 600 réis por braça concedida anualmente. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0067"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0067
+Carta de doação e sesmaria de Bento da Rocha Pessoa - 09/07/1732
+Bento da Rocha Pessoa, com data de 65 palmos [de] terra de frente e 100 de fundo
+na senzala do Recife.
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de
+Sua Majestade, que Deus guarde, governador e capitão general de Pernambuco e mais
+capitanias anexas e etc. Faço saber aos que esta carta de doação e sesmaria virem, que a
+mim se me representou a petição do teor seguinte — Excelentíssimo Senhor —: Diz o
+alferes Bento da Rocha Pessoa, que ele suplicante possui três moradas de casas na
+Senzala, com seus quintais pegados as ditas casas, para a banda do rio, e por quanto
+quer aforar os chãos fronteiros as ditas casas, para a banda do rio os palmos que se lhe
+poderem consignar, para nelas poderem fazer casas de sobrado ou térreas ou o que mais
+lhe convier, portanto — Pede a Vossa Excelência lhe faça mercê mandar aforar os ditos
+chãos que lhes forem consignados para a Coroa, passando-lhe sua carta de sesmaria,
+declarando os palmos e fundo que se lhe dá para neles fazer, o que nesta relata para si e
+seus descendentes ou quem as possuir. E receberá mercê e sendo por mim vista a dita
+petição, mandei que informasse o tenente-general Diogo da Silveira Veloso, por meu
+despacho de 28 de junho de 1732 — o qual respondeu que vendo os chãos que o
+suplicante pretende aforar a Sua Majestade, os quais em todas as três moradas de casas
+que ali possui ocupam 65 palmos de frente, e a este lhe parecia se podiam aforar 100
+palmos de fundo, com obrigação de que entulhará a sua custa o que para os inteirar lhe
+for necessário; e como são realengos e estão devolutos, e não prejudicam a terceiro nem
+ao bem público, antes é conveniente se vão aumentando as casas e muito mais que por
+aquela parte, se vá entulhando o terreno em razão da nova fortificação e que se lhe não
+oferecia dúvida a que eu lhe mandasse aforar os ditos 65 palmos de frente com 100 de
+fundo, pagando por cada um deles 60 réis, que é o preço por que se tem aforado os mais
+que importa cada ano 3:900 réis, e era o que lhe parecia; com cuja resposta mandei que
+informasse o provedor da Fazenda Real, por despacho de 2 de julho de 1732 — e
+respondeu que ao requerimento do suplicante lhe parecia se fazia atendível, vista a
+informação que me deu o tenente-general Diogo da Silveira Veloso, com a qual se
+conformava, não havendo foro maior de 60 réis por palmo, com o que mandei que
+informasse o procurador da Coroa e Fazenda, por despacho de 5 de julho de 1732, o
+
+qual disse se lhe não oferecia dúvida por parte da Fazenda de Sua Majestade, que se
+afore ao suplicante os chãos que pede, na forma que declara o tenente-general e com o
+foro que diz, por ser este o com que se tem aforado os mesmo. O que tudo assim visto,
+mandei por meu último despacho de 8 de julho de 1732 — que se passasse carta de
+sesmaria na forma que aponta o tenente-general, pagando a 60 réis por palmo, que
+começará a vencer do 1° do mês de São João, que vem em diante, em cuja observância e
+pela faculdade que Sua Majestade me concede no capítulo 15 do regimento deste
+Governo; Hei por bem de dar de sesmaria ao suplicante os ditos 65 palmos de terra de
+frente e 100 de fundo, na rua da senzala do Recife, assim e da maneira que confronta em
+sua petição, e como aponta o tenente-general em sua resposta acima, com a obrigação
+de pagar de foro a Fazenda Real a 60 réis por palmo cada um ano, que começará a
+correr do 1º dia do mês de São João que vem em diante, os quais chãos logrará ele e
+seus descendentes, não prejudicando a terceiro com todas suas pertenças e logradouros,
+e não passarão a religiões por nenhum título e passando será com o mesmo encargo, que
+por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, que se registrará nos livros da Secretaria deste Governo e nos
+da Provedoria Geral, carregando-se em receita por lembrança ao almoxarife o dito foro.
+Pelo que ordeno aos ministros da Justiça ou Fazenda a que tocar, lhe façam dar a posse
+real, efetiva e atual, do que se fará termo nas costas desta na forma costumada - . Recife
+de Pernambuco, 9 de julho de 1732 – O secretário José Duarte Cardoso a fez escrever
+== Duarte Sodré Pereira Tibão = .
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 26 - 28.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

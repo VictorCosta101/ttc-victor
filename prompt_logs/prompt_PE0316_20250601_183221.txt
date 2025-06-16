@@ -1,0 +1,429 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0316
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Albuquerque Melo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "06-05-1626",
+  "Data da concessão": "06-05-1626",
+  "Observações da sesmaria": "O suplicante requereu a concessão de quatro léguas de comprimento e quatro léguas de largura em quaisquer partes da capitania de Pernambuco.",
+  "Observações da petição": "O suplicante não informou o local exato da concessão de terras, mas requereu a concessão de uma sesmaria em uma parte disponível da capitania.",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0316"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0316 
+ 
+Instrumento em pública forma passado a requerimento do Reverendo Dom 
+Abade do mosteiro de São Bento desta cidade com o teor de vários documentos 
+que se acham incorporados em uma sentença vinda da suplicação de Lisboa a 
+favor dos Reverendos religiosos do dito mosteiro, e em uma carta executória a 
+favor dos mesmos, obtida do juízo da ouvidoria geral do cível desta cidade, que 
+tudo reconheço verdadeiro, como abaixo se declara. 
+ 
+Saibam quantos este público instrumento passado em pública forma do ofício de mim, 
+tabelião, ou como em direito melhor nome e lugar haja virem, que sendo no ano do 
+nascimento de Nosso Senhor, Jesus Cristo, de 1803 anos, aos 19 dias do mês de 
+dezembro do dito ano, nesta cidade do Salvador, Bahia de Todos os Santos, e cartório 
+de mim, tabelião, ao diante nomeado e assinado, aí por parte do Reverendo Dom 
+Abade do mosteiro de São Bento desta cidade, me foi apresentada uma sentença, que 
+no Tribunal da Suplicação de Lisboa alcançaram os Reverendos religiosos do mesmo 
+mosteiro, e uma carta executória alcançada pelos mesmos no juízo da ouvidoria geral 
+do cível desta cidade, requerendo-me lhe passasse em pública forma do meu ofício o 
+teor de vários documentos que nelas se achavam incorporados, e por parte do mesmo 
+Reverendo suplicante foram apontados, o que satisfiz, não só por obrigação do dito 
+ofício, como por reconhecer serem a dita sentença e carta verdadeiras, e se acharem 
+sem vício, emenda ou coisa que dúvida faça, dando-lhe em pública forma do meu 
+ofício os teores dos ditos documentos apontados, e passando a rever a mesma 
+sentença, e carta, consta do seu contexto proporem os Reverendos religiosos do 
+mosteiro de São Bento, causa de libelo, reivindicação no juízo da vila de São 
+Francisco, e nele apresentaram o seu libelo, que o Reverendo suplicante pede em 
+pública forma do meu ofício se acha incorporado na dita carta executória, e por se 
+achar na verdade sem coisa que dúvida faça, dei em pública forma do meu ofício o 
+seu teor, que de verbo ad verbum é do modo, forma e maneira seguinte: Libelo. 
+Dizendo como autores o Reverendo Padre Dom Abade e mais religiosos do convento 
+de São Bento desta mesma cidade contra os réus, o capitão André da Rocha Dantas e 
+sua mulher Maria de Sousa de Vasconcelos, e pelo melhor modo que em direito lugar 
+houvesse e se cumprisse, pedia licença para articular de papéis pedidos; e que 
+provariam que sendo vivo, Fernão Vaz Freire, dado em abril de 1614 de sesmaria, 
+além de outra mais terra, a ilha Periocaba, chamada então assim, por aí cercando o rio 
+Periocaba, o qual agora se chama a ilha grande de Fernão Vaz Freire, que tomou o tal 
+nome, porque tanto que lhe foi dada pela dita sesmaria, cuja carta se perdera na 
+
+entrada que fez o inimigo na Bahia, mas se apresentava seu treslado, logo o dito 
+Fernão Vaz Freire tomara posse dela por seu procurador, judicialmente por autoridade 
+de justiça, mansa e pacificamente, sem contradição de pessoa alguma; Provariam que 
+ficando assim de posse o dito Fernão Vaz Freire da dita ilha, onde estava já com seu 
+curral e fábrica, e um feitor por nome Manuel da Silveira, que em nome do dito 
+Fernão Vaz Freire tomou posse da dita ilha, que lhe deu o ouvidor da capitania 
+Francisco de Andrade de Brito, com o tabelião Paulo de Sousa com sua casa de 
+sobrado, que nela fez com currais de gado vacum e criações de ovelhas e cabras, e 
+nela assistiu muitos anos com suas roçarias, escravos de Guiné e da terra e seus 
+criados, até que o governador Dom Luís de Sousa o mandou prender, e mandou para o 
+Reino preso, dizendo fosse fazer vida com sua mulher, e contudo lhe ficou o dito 
+curral com seu feitor, por nome Jáques Macum, que tinha cuidado dela, a quem 
+pagava soldada e estava da sua mão como feitor, criado que era na dita ilha; sendo 
+primeiro povoador da dita ilha, com que fez o primeiro barco que ali houve, em que 
+passava o gado e fazia pescarias, onde tomou a dita ilha grande o nome do dito 
+FernãoVaz Freire pelo dito titulo da posse que dela tinha tomado, e daquele tempo a 
+esta parte se chamou sempre por sua, e reteve, como hoje retém, seu nome = Provaria 
+que enquanto o dito Fernão Vaz Freire fora ao Reino, o padre Francisco Fernandes 
+Caramugeiro e o padre Agostinho Brandão dos Santos se lhe foram meter na dita ilha, 
+e o dito Fernão Vaz Freire alcançara no ano de 1628 as sentenças que oferecia contra 
+os ditos padres, para que lhe despejassem a dita ilha, e depois continuou os mesmos 
+requerimentos no ano de 1629 = Provariam que estando assim o dito Fernão Vaz 
+Freire de posse da dita ilha grande, com casas, currais e pessoas de sua mão havia 14 
+anos, ou o tempo que na verdade se achasse, estando ausente o dito Fernão Vaz Freire, 
+o réu André da Rocha Dantas, por ser homem poderoso, rico e aparentado naquela 
+paragem, e em todas as mais deste Estado do Brasil, assim por sua parte como pela de 
+sua mulher, se foi a dita ilha e se meteu nela poderosa e potencialmente, metendo nela 
+currais e gado seu e alheios, obrigando a todos os que estavam na dita terra e ilha 
+grande lhe pagasse com renda dela, sem título algum, que justo, ou válido fosse, e 
+tendo, o protestavam de ir, digo, dizer contra ele. = Provariam que introduzindo-se o 
+dito réu, digo, introduzindo-se assim o dito réu senhor da dita ilha grande, 
+poderosamente obrava aos moradores que nela estavam lhe pagassem forçosamente a 
+8 e 10 mil réis por cada sítio, os quais conhecendo não ser a dita ilha sua, pagavam 
+muito contra a sua vontade, e contudo os fazia pagar, como foi a João Coelho Tinoco, 
+
+Baltazar de Sousa, Gabriel da Costa, Francisco de Passos, Antônio da Serra, Roque 
+Leitão, Bartolomeu Rodrigues, Diogo da Costa, Marcos de Barros, Faustino da Costa, 
+Baltazar Gonçalves, Diogo Cardoso, Antônio João, Francisco Nunes da Mata, 
+Sebastião Carvalho, Gaspar Gonçalves, que ao todo são 14 sítios, e um que o réu tem, 
+que a razão de 8 mil réis somente importam todos os anos 120.830 reis, que tantos lhe 
+deviam pagar os réus da indevida ocupação até a real entrega, com todos os mais 
+rendimentos que a dita ilha grande podia ter e dar, o que tudo protestavam haver pelos 
+ditos réus = Provariam que o dito Fernão Vaz Freire fizera doação a eles autores de 
+todo direito, ação e pertença da dita ilha e das mais terras, o qual é falecido da vida 
+presente; e assim lhe ficava pertencendo o direito da dita doação; e como tais 
+mandaram na era, digo mandaram, já na era de 1645, o padre Frei Lourenço para 
+meter seus gados na dita ilha, e torná-la a povoar como antes a tinha seu antecessor 
+Fernão Vaz Freire, o que foi contradito pelo dito réu, e lhe não queria largar a dita ilha 
+sem contenda de justiça, e nem entregar os rendimentos dela, era fama pública, e em 
+fim e conclusão do seu libelo, pediam recebimento dele, e provado o necessário, 
+fossem os ditos réus condenados a que lhes restituísse toda a ilha, e abrisse mão dela 
+com todas as rendas, perdas e danos da indevida ocupação até real entrega, que se 
+liquidaria na execução da sentença, protestavam por tempo e carta para fora ajuntar 
+papeis = E nada mais a respeito do libelo consta dele, que assim se acha na dita carta 
+executória, constando igualmente dela, que depois de proposto o dito libelo no juízo 
+ordinário da vila de São Francisco, dele viera avocado para o juízo da ouvidoria geral 
+do cível desta cidade, onde correndo seus termos, fora dada pelo respectivo ministro a 
+sentença que juntamente pede o Reverendo suplicante em pública forma do meu 
+ofício, por obrigação do qual, por se achar ela incorporada na mesma carta executória 
+sem vício nem coisa que dúvida faça, lhe dei o seu teor em pública forma, que é do 
+modo e maneira seguinte = Sentença = Vistos estes autos, libelo dos autores, o padre 
+Dom Abade do mosteiro de São Bento desta cidade e mais religiosos dele, 
+contrariedade dos réus André da Rocha Dantas e sua mulher Maria de Sousa de 
+Vasconcelos, oposição dos opoentes Cosme Dias da Fonseca, sua mulher Dona Isabel 
+de Moura e mais artigos recebidos, doação, cartas de sesmaria, sentenças, certidões, 
+cartas missivas, papéis outros e inquirições juntas, mostra-se que no ano de 1614 se 
+dera de sesmaria a Fernão Vaz Freire duas ilhas no rio de São Francisco, uma por 
+nome Periocaba, e outra chamada dos Jenipapos; e assim mais duas léguas de terra em 
+quadra ao longo do dito rio, começando do fim da data de Leonardo de Barros, de que 
+
+tomou posse por autoridade de justiça sem contradição de pessoa alguma, e logo fez 
+casas de sobrado na ilha Periocaba, pôs currais de gado vacum, e criou ovelhas e 
+cabras, e plantou mantimentos, a cultivou e aproveitou com muitos escravos, que nela 
+meteu e teve aí por seu feitor a Manuel da Silveira, e com seus escravos esteve e 
+assistiu muitos anos na dita ilha, e foi o primeiro que a povoou e fez o primeiro barco, 
+que aí houve para a passagem do gado, e com o seu nome lhe deu o que hoje tem, 
+chamando-se comumente por todos a ilha grande de Fernão Vaz Freire com que é 
+hoje conhecida, e não com o nome de Periocaba que tinha antigamente, quando se lhe 
+deu de sesmaria: mostra-se que sendo preso o dito Fernão Vaz Freire, por ordem do 
+governador Dom Luís de Sousa, e mandado para o Reino a fazer vida com sua mulher, 
+deixou na dita ilha por seu feitor a Jaques Machon, estrangeiro, para lhe feitorizar e 
+ter dela cuidado, da sua fábrica, gados e mais coisas que aí havia: mostra-se que 
+metendo-se de posse de partes da dita ilha, os padres Agostinho Brandão dos Santos e 
+Francisco Fernandes Caramogeiro, o dito Fernão Vaz Freire os demandou em juízo 
+contraditório, e houve contra eles sentenças que passaram em causa julgada, e em que 
+se sentenciou que ele era o senhor e possuidor da dita ilha, e se mandou que fosse 
+restituída a posse dela: mostra se que o dito Fernão Vaz Freire, como senhor e 
+possuidor da dita ilha, deu nela sítio para currais de arrendamento a João Coelho 
+Tinoco, Baltazar de Sousa, Gabriel da Costa, Francisco de Passos, Antônio da Serra, 
+Roque Leitão, Bartolomeu Borges, Diogo da Costa, Marcos de Barros, Faustino da 
+Costa, Baltazar Gonçalves, Diogo Cardoso, Antônio João, Francisco Nunes da Mota, 
+Sebastião Carvalho e Gaspar Gonçalves, os quais todos como seus colonos e 
+rendeiros que eram, lhe pagavam em cada um ano rendados ditos sítios: mostra-se que 
+estando o dito Fernão Vaz Freire assim de posse da dita ilha por si, seu feitor e 
+colonos, que nela tinha, e durando ainda a sua ausência com a jornada, que obrigado 
+fez ao Reino, o réu André da Rocha Dantas, tomando daí ocasião, se meteu de posse 
+da dita ilha, e nela pôs currais de gado, e por ser muito poderoso, e aparentado 
+naquelas partes, obrigou por força aos colonos e rendeiros do dito Fernão Vaz Freire, 
+que lhe pagassem a ele a renda, e de cada sítio lhe levou 8 e 10 mil réis em cada ano, 
+e por esta maneira de próprio [moto], sem mais ordem nem autoridade de justiça 
+privou e esbulhou ao dito Fernão Vaz Freire da posse em que estava da dita ilha, e se 
+levantou com ela, e a está possuindo: mostra-se que o dito Fernão Vaz Freire, 
+tomando em sua terça a dita ilha, e aquelas duas léguas de terra que lhe foram dadas 
+de sesmaria, e outras coisas, fez de tudo doação aos autores e ao seu mosteiro por 
+
+boas obras que dele tinha recebido, e com obrigação de lhe dizerem uma missa em 
+cada semana, e de lhe darem sepultura dentro do cruzeiro da sua Igreja, e por este 
+título pertence aos autores a dita ilha; e querendo eles povoarem como sua que é, 
+mandaram depois de ido o inimigo holandês 2 religiosos para este efeito, e o réu 
+André da Rocha Dantas, acompanhado dos seus parentes e amigos, lhe impediu e não 
+consentiu que entrassem na dita ilha, nem dela tomassem posse, por virtude da dita 
+doação mostra-se que no ano de 1596 se deram de sesmaria a João da Rocha Vicente, 
+na testada do reguengo de Jorge de Albuquerque duas léguas de terra, uma para o 
+Norte e outra para o Sul, com 4 léguas para o sertão, e que no ano de 1597 se lhe 
+derão mais duas léguas de terra do esteiro para o mar, e uma légua do esteiro para 
+cima, e no ano de 1602 uma légua que havia de sobejo entre a sua data e o mar, e 
+outra entre a sua data e o rio de São Francisco; e no ano de 1600 nas cabeceiras de 
+Dom Felipe de Moura duas léguas para o Leste, e outras duas para o Sul; porém não 
+se acha que em algumas destas datas se compreenda a ilha Periocaba, chamada hoje 
+ilha grande de Fernão Vaz Freire, que é a de que se trata, nem outra alguma ilha das 
+que há no dito rio de São Francisco: mostra-se que o dito João da Rocha Vicente, seu 
+genro Sebastião da Rocha Dantas, pai do réu, foram os primeiros povoadores, que 
+houve no rio de São Francisco, e que eles seguraram os caminhos dos assaltos e furtos 
+que fazião os gentios levantados, e os escravos de Guiné que andavam fugidos, e 
+amparavam e recolhiam em suas casas as pessoas que caminhavam por aquelas partes, 
+e guardavam acostado mar dos inimigos, impedindo-lhes fazerem aguada e o 
+comércio que tinham com os gentios; mas nenhuma destas coisas é coisa bastante 
+para poderem fazer suas as terras que lhe não foram dadas de sesmaria: mostra-se, que 
+no ano de 1612, deu de sesmaria Duarte de Albuquerque Coelho, a Dom Felipe de 
+Moura e a seus genros Antônio Ribeiro de Lacerda e Cosme Dias da Fonceca, 
+opoente no dito rio de São Francisco, 4 léguas de terra em quadra, da boca do rio 
+Piahuguí para a banda do Norte, correndo por ele acima, tanto de uma banda como da 
+outra, com todas as ilhas que se achassem entre os ditos rios no limite das ditas 4 
+léguas, as quais se lhe mediram e demarcaram no ano de 1615, sendo para isso citados 
+Mesia Barbosa, viúva do dito João da Rocha Vicente, e seus filhos Tomé da Rocha e 
+Gonçalo da Rocha; e o dito Sebastião da Rocha Dantas, seu genro, e Cristóvão da 
+Rocha, que na dita medição e demarcação foram prejudicados, porquanto com elas se 
+entrou pelas terras que ocupavam e cultivavam, e em que traziam seus gados e feita a 
+dita medição e demarcação, se deu logo posse das terras que ficaram dentro nela a 
+
+Dom Antônio de Moura, procurador do dito Dom Felipe de Moura, seu pai, e dos 
+ditos Antônio Ribeiro de Lacerda, e Cosme Dias da Fonseca, seus cunhados, quieta e 
+pacificamente, sem contradição de pessoa alguma: porém não se mediu nem 
+demarcou ilha alguma, nem dela se deu posse ao dito Antônio de Moura, nem se 
+prova que caia no limite das ditas 4 léguas, e dando-se no mesmo tempo e pelos 
+mesmos oficiais de justiça que fizeram a dita medição e demarcação, posse ao dito 
+Fernão Vaz Freire das terras e ilhas contidas na sua data, sendo presente o dito Dom 
+Antônio de Moura e Cristóvão da Rocha, não houve pessoa alguma que a 
+contradissesse, por serem as terras e ilhas desta data diferentes das outras, que então 
+se mediram e demarcaram, e ficaram fora das medições e demarcações que delas se 
+fizeran, e assim, ainda que depois o dito Dom Felipe de Moura e seus genros dessem 
+na dita ilha sítios para currais de gado, e cobrassem renda de alguns colonos deles, 
+como não tinham título, nem a dita ilha ficou dentro da medição e demarcação das 
+suas terras, não adquiriram nela domínio algum, nem a fizerão sua, nem a posse em 
+que estiveram lhe deu direito para a prescreverem, porque foi de menos anos dos que 
+se requerem para a prescrição ordinária, e sem título, era-lhe necessário de 30 anos 
+com o que se convence que nunca a dita ilha foi do dito Dom Felipe de Moura, nem 
+de seus genros, Antônio Ribeiro de Lacerda e Cosme Dias da Fonceca, e menos do 
+réu André da Rocha Dantas, porque além de não ter titulo, no ano de 1618, a pediu de 
+arrendamento ao dito Dom Felipe de Moura e a sua mulher Dona Genebra, e depois a 
+seu filho e procurador Dom Antônio de Moura, por lhe remeterem seus pais este 
+negócio, e com a violência com que seu pai e avô costumaram tomar as terras alheias, 
+se meteu na dita ilha por força, derrubando os currais do dito Fernão Vaz Freire, e 
+esbulhando-o da posse pacífica em que estava com bom título, e como possuidor de 
+má fé que é, não pode prescrever em tempo algum, maiormente quando, por causa da 
+guerra com que o inimigo holandês infestou tantos anos o rio de São Francisco, e toda 
+a capitania de Pernambuco, não pôde o réu André da Rocha Dantas ser demandado 
+pela dita ilha, e teve lugar para a possuir muitos anos, e gozar os rendimentos dela: 
+mostra-se, que Mesia Barbosa e seus filhos Tomé da Rocha e Gonçalo da Rocha, 
+venderam a seu genro e cunhado Sebastião da Rocha Dantas, pai do réu, somente duas 
+léguas de terra do rio de Piáguhir para baixo e uma para cima, e não consta que lhe 
+vendessem ilha alguma, como se vê do escrito da venda, folhas 371, e assim ficam 
+sendo pouco verdadeiras as testemunhas do réu, que nisto juraram o contrário, como 
+também enquanto juram contra o que consta das escrituras e papéis autênticos juntos a 
+
+estes autos, e conseguintemente em nenhuma coisa se lhe deve dar crédito: mostra-se 
+que querendo Lourenço de Brito Correia, comprar ao dito Fernão Vaz Freire a dita 
+ilha, o opoente Cosme Dias da Fonseca, lhe pediu o não fizesse, e por esta razão, e 
+por não ter logo dinheiro para dar, deixou de a comprar o dito Lourenço de Brito 
+Correia, e não por entender que não era do dito Fernão Vaz Freire: mostra-se que a 
+medição e demarcação das 4 léguas de terra que se deram ao dito Dom Felipe de 
+Moura e a seus genros, entrou pelas terras dadas ao dito João da Rocha Vicente, e em 
+razão disto seus herdeiros protestaram não lhe prejudicar em tempo algum, por ser a 
+sua data mais antiga, e nunca largaram as terras que possuiam, nem consentiram que 
+entrasse nelas o dito Dom Felipe de Moura, eseus genros, e não tendo eles as terras da 
+sua data, não lhe pertencem as ilhas que ficam no limite das terras alheias: mostra-se 
+que ao poente Dona Isabel de Moura, é filha do dito Dom Felippe de Moura e mulher 
+do dito Antônio Ribeiro de Lacerda, ambos já defuntos: mostra-se que a ré Maria de 
+Sousa de Vasconcelos é falecida, e por sua morte ficaram por seus herdeiros, seus 
+filhos, Antônio da Rocha, Aurélia da Rocha e outros menores de 14 anos, dos quais é 
+legítimo administrador o réu André da Rocha Dantas, seu pai; e como filhos e 
+herdeiros da ré originária, foram habilitados para esta causa, o que tudo visto e o mais 
+que dos autos consta, julgo que a ilha de que se trata foi dada ao dito Fernão Vaz 
+Freire, e não pertence aos réus nem aos opoentes, nem se compreende nas suas datas, 
+e condeno aos réus que larguem e restituam aos autores a dita ilha com os frutos e 
+rendimentos da indevida ocupação até a real entrega, que se liquidarão na execução 
+desta sentença, e paguem os réus e os opoentes as custas destes autos em que os 
+condeno. Bahia, 10 de novembro de 1655 = Soares = E nada mais se contém na dita 
+sentença, que assim se acha incerta na dita carta executória, a que em tudo e por tudo 
+me reporto, e passando a rever a sentença vinda do Tribunal da Suplicação da Corte e 
+cidade de Lisboa nela incorporada, se acha todo o atrás referido, e a sentença, ou 
+acordão, proferido na Relação desta cidade da Bahia, igualmente pedido o seu teor em 
+pública forma do meu ofício, que assim cumpri por se achar limpa e sem vício a 
+referida sentença pedida, cujo teor é o seguinte. = Acordão = Acordão do desembargo 
+= Não são agravados os agravantes réus e opoentes pelo ouvidor geral do cível, vistos 
+os autos. Cumpra-se sua sentença por seus fundamentos, e condenam aos agravantes 
+nas custas deles igualmente para metade na forma da mesma sentença. Bahia, 7 de 
+julho de 1657= Seco = Maia = Nada mais se continha no dito acordão, que assim se 
+acha na referida sentença, como também dela consta achar-se o acordão proferido no 
+
+Tribunal da Suplicação, a favor dos mesmos Reverendos suplicantes, e por estes 
+pedido em pública forma do meu ofício, e o seu teor é o seguinte. Acordam. Que não 
+são agravados os agravantes pelos desembargadores da casa e Relação do Brasil, e 
+cumpra-se sua sentença por seus fundamentos e o mais dos autos, e condena aos 
+agravantes nas custas deles. Lisboa, em 5 de dezembro de 1658. Brito. Privado. O 
+qual instrumento eu, Joaquim Tavares de Macedo Silva, tabelião público do judicial e 
+notas nesta cidade da Bahia e seu termo, bem e fielmente sem coisa que dúvida faça, 
+fiz passar em pública forma do meu ofício com os teores dos documentos que me 
+foram pedidos e constam da dita carta executória e sentença que me foram 
+apresentadas, e a elas me reporto e as tornei a entregar à pessoa, que de como as 
+recebeu, aqui assinou, e com outro oficial de justiça ao conserto comigo abaixo 
+assinado, este instrumento conferi, concertei, subscrevi e assinei de meus sinais 
+público e raso seguintes, de que atualmente uso nesta sobredita cidade do Salvador, 
+Bahia de Todos os Santos, no mesmo dia, mês e ano ao princípio declarado, pagou-se 
+de feito deste instrumento por parte do Reverendo suplicante, que o pediu e requereu, 
+contado na forma do atual Regimento de sua Alteza Real, observado e praticado em 
+todo este Estado do Brasil, e capitania da Bahia ao todo ao escrivão, que este 
+subscreveu a soma, e quantia de 2880 réis, e de selos do papel 520 réis, e eu, Joaquim 
+Tavares de Macedo Silva, tabelião, que o soscrevi. Estava o sinal público, em 
+testemunho deverdade Joaquim Tavares de Macedo da Silva. Consertado por mim, 
+tabelião, Joaquim Tavares de Macedo Silva. E comigo escrivão João Pedro Xavier 
+dos Anjos. Frei Manuel do Sacramento. Auto de posse, que ao reverendo, digo que 
+dei ao reverendo padre frei Pedro dos Mártires da Ilha Grande como procurador do 
+reverendo padre Dom Abade de São Bento. Ano do nascimento de Nosso Senhor 
+Jesus Cristo de 1656 anos, nesta vila de São Francisco, capitania de Pernambuco, aos 
+21 dias do mês de abril do dito ano na Ilha Grande, termo desta dita vila de São 
+Francisco, aonde eu, tabelião, fui chamado por parte do reverendo padre Frei Pedro 
+dos Mártires, como procurador bastante do reverendo padre Dom Abade Frei Mancio 
+dos mártires da Ordem do Patriarca São Bento, presentes as testemunhas ao diante 
+assinadas e nomeadas, e pelo dito Padre Frei Pedro, me foi dito e requerido que em 
+virtude das sentenças que me apresentava, e com o despacho [?] cumpra-se do juiz 
+Antônio Gonçalves Vieira, e procuração que me apresentou do Reverendo Padre Dom 
+Abade lhe desse posse da dita ilha grande na conformidade das ditas sentenças e visto 
+seu requerimento lhe dei na maneira seguinte, andou o dito Padre Frei Pedro dos 
+
+Mártires pela dita terra e ilha grande muito devagar, tomando um facão na mão, 
+roçando e cortando matos, e cavando com uma enxada, e plantando árvores de 
+espinho, e botando terra para o ar, e eu, tabelião, disse em altas vozes 3 vezes se havia 
+alguma pessoa, ou pessoas que contradissessem o dar a dita posse, e por não haver 
+contradição de pessoa alguma, lhe dei a dita posse pacificamente, real, corporal, atual, 
+cível e natural possessão de toda a dita terra e ilha grande, matos, lenhas, matas, 
+madeiras, pastos, águas e de tudo a elas pertence na forma das ditas sentenças e 
+procuração e ficou ele dito Padre Frei Pedro dos Mártires, investido, incorporado e 
+empossado de toda a dita terra e ilha grande, levantando cruz, sendo testemunhas 
+presentes Amaro Bezerra e o alferes Félix Botelho deLemos, José Martins Bezerra, e 
+de como dei a dita posse, e o dito Reverendo Padre Frei Pedro, aceitou, se assinou 
+aqui comigo como dito juiz Antônio Gonçalves Vieira, e se assinaram, e eu, como 
+pessoas pública estipulante e aceitante aceitei e estipulei em nome de quem tocar, 
+assim ausentes como presentes, e eu, Damião da Rocha, tabelião, o escrevi. Frei Pedro 
+dos Mártires. Antônio Gonçalvez Vieira. Félix Botelho de Lemos. Amaro Bezerra. 
+José Martins. Declaro que a dita posse eu, tabelião, a dei ao Reverendo Padre Frei 
+Pedro dos Mártires, no sítio onde o defunto Fernão Vaz Freire teve o seu gado e curral, 
+onde hoje está Aleixo Fernandes, e de como ali ilha dei se assinaram aqui todas as 
+pessoas e testemunhas contidas no auto atrás; e eu, Damião da Rocha, tabelião, o 
+escrevi, Frei Pedro dos Mártires. Amaro Bezerra. José Martins Bezerra. Antônio 
+Gonçalves Vieira. Félix Botelho de Lemos. O qual treslado de posse e declaração 
+abaixo, eu, Damião da Rocha, público tabelião do judicial e notas, nesta vila de São 
+Francisco e seu termo por Sua Majestade, etc. Que em meu livro de notas tomei a que 
+me reporto e dele o trasladei bem e fielmente sem coisa que dúvida faça, escrevi e 
+assinei de meu sinal público seguinte. Estava o sinal público Damião da Rocha. E não 
+se continha mais no dito instrumento de auto da posse retro, o qual eu, Joaquim 
+Tavares de Macedo Silva, tabelião do público, judicial e notas, nesta cidade do 
+Salvador, Bahia de Todos os Santos e seu termo, por Sua Alteza Real, que Deus 
+Guarde, em cumprimento do despacho proferido pelo doutor juiz de fora atual, 
+Domingos José Cardoso, no requerimento foi a segunda folha deste livro, aqui bem e 
+fielmente, sem coisa que dúvida faça, fiz copiar do próprio que me foi apresentado 
+pelo Reverendo procurador geral do Mosteiro de São Bento desta mesma cidade Frei 
+Manuel do Sacramento, pelo achar verdadeiro e autorizado judicialmente como se 
+deixa ver no próprio traslado e o tornei a entregar depois de lançado ao dito 
+
+Reverendo procurador geral que de como o recebeu, aqui assinou, e este mesmo 
+traslado juntamente como tabelião companheiro Antônio Barbosa de Oliveira conferi 
+como original, concertei, subscrevi e assinei na Bahia, aos 15 dias do mês de 
+novembro de 1803 anos. Eu, Joaquim Tavares de Macedo Silva, tabelião que o 
+subscrevi e assinei. Conferido por mim, tabelião, conferido por mim, tabelião, 
+Antônio Barbosa de Oliveira, Joaquim Tavares de Macedo Silva, Frei Manuel do 
+Sacramento [devida] alguma e se registrará nos livros das datas e sesmarias desta dita 
+capitania. Diz João de Albuquerque de Mello que pela qualidade de sua pessoa e 
+serviços seus e de seus pais e avós, merece que se lhe dê alguma data de terra nesta 
+capitania = Pede a Vossa Senhoria 4 léguas em quadra, para as poder tomar juntas ou 
+em partes, como mais quiser, em quaisquer partes desta capitania de sumária ou por 
+devolutas. E receberá mercê = Despacho = Passe carta de data ao suplicante de 4 
+léguas de terra em quadra, as quais poderá tomar juntas ou em partes como mais 
+quiser, em quaisquer partes desta capitania, onde não for dadas nem prejudicar a 
+terceiro, nem a outras cartas que haja mais antigas dadas pelos donatários desta 
+capitania. Olinda, em 6 de maio de 1626 = M = Carta = Mathias de Albuquerque, 
+capitão e governador deste Estado do Brasil, etc. Faço saber aos que esta minha carta 
+for mostrada e o conhecimento dela com direito pertencer, que João de Albuquerque 
+de Mello me fez a petição atrás escrita, a qual vista e o que nela alega, e por desejar 
+de lhe fazer mercê, hei por bem de lhe dar em nome do senhor Duarte de Albuquerque, 
+meu irmão, cujos poderes tenho, 4 léguas de terra em quadra, as quais poderá tomar 
+juntas ou em partes como mais quiser, em quaisquer partes desta capitania de 
+sesmaria ou devolutas, onde não for dada nem prejudicar a terceiro, nem a outras 
+cartas que haja mais antigas dadas pelos donatários desta capitania, as quais 4 léguas 
+de terra em quadra dou e concedo ao dito João de Albuquerque de Mello, com todas 
+as águas, pastos e madeiras que nelas houver, para que as possua ele e seus herdeiros 
+e descendentes, de hoje para sempre, sem dúvida nem contradição alguma, e da posse 
+se fará termo nas costas desta minha carta, que se cumprirá e guardará inteiramente 
+como nela se contém, sem embargo nem dúvida alguma, e se registrará nos livros das 
+datas e sesmarias desta dita capitania. Dada nesta vila de Olinda, sob meu sinal e 
+sinete de minhas armas. Pedro Teixeira Franco a fez aos 6 de maio, ano do 
+nascimento de Nosso Senhor Jesus Cristo de 1626 = Mathias de Albuquerque = Carta 
+de data a João de Albuquerque de Mello de 4 léguas de terra em quadra, que poderá 
+juntas ou em partes como quiser, em quaisquer partes desta capitania de sesmaria, as 
+
+por devolutas em nome do senhor Duarte de Albuquerque, meu irmão = Fica 
+registrada a carta atrás por mim, João Rodrigues Chaves, escrivão das datas e 
+registros no livro 22, a folhas 46 e 47, em 21 de janeiro de 1627 anos = João 
+Rodrigues Chaves = O qual traslado de carta de data eu, Gaspar Pereira, público 
+tabelião do judicial e notas nesta vila de Olinda e seus termos, capitania de 
+Pernambuco, por Duarte de Albuquerque Coelho, capitão e governador dela por Sua 
+Majestade, que Deus guarde, fiz trasladar da própria carta, que tornei a João de 
+Albuquerque de Mello, e assinou de como a recebeu, e com o próprio o concertei, e 
+com o oficial abaixo assinado subscrevi e assinei em raso. Olinda, 4 de janeiro de 
+1630 anos. Gaspar Pereira = Concertado por mim, tabelião, Gaspar Pereira, e comigo 
+tabelião Vicente Gonçalves = João de Albuquerque de Mello.  
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. livro II, p. 30R-34V. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

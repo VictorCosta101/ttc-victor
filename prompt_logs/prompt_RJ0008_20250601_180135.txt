@@ -1,0 +1,98 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0008
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Sesmeiro não identificado 1",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "01-01-1573",
+  "Data da concessão": "01-01-1573",
+  "Observações da sesmaria": "Título: Trecho de carta de sesmaria.\r\nSabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original.",
+  "Localidade": "Rio de Janeiro",
+  "Observações da petição": "O documento está incompleto.",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento está incompleto.",
+  "Observações das exigências": "O documento está incompleto. ",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0008"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0008 
+ 
+Trecho de carta de concessão sesmaria não identificada 
+ 
+[f.XIII] e conforme ao regimento que lhe para isso foi dado, e portanto, notifico assim o dito Mem de 
+Sá, e mando-lhe que meta ao dito Cristóvão de Barros de posse da dita capitania e governança, para 
+servir pelos ditos quatro anos, como dito é, e em minha chancelaria lhe será dado juramento que bem 
+e verdadeiramente sirva guardando em tudo meu serviço, e o direito as partes, antes que o dito 
+Cristóvão de Barros parta deste Reino, me dará menagem pela fortaleza da dita capitania, segundo 
+ordenança e de como a deu apresentará certidão, nas custas desses de Duarte Dias, fidalgo de minha 
+casa e meu secretário, o qual hei por bem que valha e  tenha a força e vigor como se fosse carta feita 
+em meu nome, e selada do meu selo pendente, sem embargo da ordenação do Livro 2º, título 20, que 
+diz que as coisas que houver de durar mais de um ano se passem por cartas e passando por alvarás 
+que valham. André Vidal o fez em Lisboa a 31 de outubro de 1571. Sebastião da Costa o fez escrever. 
+E sendo caso que Cristóvão de Barros, vá de rota abatida daqui tomar a dita cidade de São Sebastião, 
+e por essa causa lhe não poder dar a posse a Mem de Sá,  como acima declarado, manda os juízes e 
+vereadores da dita cidade, que lhe deem a dita posse e cumpram este alvará como nele contém. Rei. 
+A qual alvará estava assinado e tinha todas as verbas, inscrição, registro e certidão que a dita provisão 
+requer, por virtude do qual eu escrivão dou fé. Mem de Sá, governador geral, nos poderes que 
+concedeu a Salvador Correia de Sá, de que usou nesta capitania lhe deu poder para dar de sesmaria 
+terras e chãos, conforme o regimento do capítulo Del Rei nosso Senhor, por onde as dele dava na 
+Baía de Todos os Santos o qual [faltam folhas] 
+ 
+- 
+Fim da Transcrição - 
+- 
+ 
+Observações: 
+Título: Trecho de carta de sesmaria. 
+Sabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: dadas 
+por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página  47; Documento Original : 
+f.XIII.  
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.47. Códice 50.5.3A(1573-4). 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

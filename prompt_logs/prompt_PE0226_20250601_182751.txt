@@ -1,0 +1,75 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0226
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0207",
+  "Nome": "Antônio Carvalho de Macedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-02-1804",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura  nas cabeceiras das caatingas de sertão, no termo dos Garanhuns, da barra do Sertãozinho, no riacho das Panelas, do leste até oeste na barra do Gato e sítio da Capoeira.",
+  "Localidade": "Garanhuns",
+  "Marcos Geográficos": "Riacho das Panelas, Sertãozinho, Barra do Gato, Sítio da Capoeira",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores da junta interina Manuel Xavier Carneiro da Cunha, João de Freitas de Albuquerque e Dom Jorge Eugênio de Lócio e Seilblitz determinaram o pagamento anual do foro régio no valor de 4 mil réis.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0226"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0226
+Carta de concessão de Antônio Carvalho de Macedo de 20/02/1804
+Sesmaria de Antônio Carvalho de Macedo, de uma légua de terra em quadro, nas cabeceiras
+das caatingas de sertão, em termo de Garanhuns, pegando da barra do Sertãozinho, riacho das
+Panelas abaixo, da parte do nascente até conferir a légua, e da parte do poente pegará da barra
+do gato pelo riacho abaixo, até perfazer a dita légua, fazendo pião no sítio da Capoeira, com o
+foro anual de 4 mil réis, concedida por, digo, em 20 de fevereiro de 1804, por Dom Jorge
+Eugênio de Locio e Seilbiz. Manoel Joaquim, digo, Xavier Carneiro da Cunha e João de
+Freitas de Albuquerque.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE EDUCACAO
+E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 13.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

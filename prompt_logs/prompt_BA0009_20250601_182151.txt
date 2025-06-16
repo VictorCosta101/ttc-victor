@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0009
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisca de Sande",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "25-11-1671",
+  "Observações da sesmaria": "A suplicante requereu para si sobejos de terra que não foram dados até aquele momento que eram vizinhos às terras que já possuía, em Jaguaripe, fazendo fronteira com as terras de Luiz Gonçalves Peniche. Não especificou o tamanho da terra solicitada.",
+  "Localidade": "Jaguaripe",
+  "Confrontantes": "Luiz Gonçalves Peniche",
+  "Observações da petição": "A suplicante não especificou o tamanho da terra que solicitou. ",
+  "Justificativas": "Alegou possuir engenhos; Alegou serem as terras devolutas nunca doadas anteriormente; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou que possuía filhos e fábricas para tornar útil a terra solicitada.",
+  "Observações do deferimento e da concessão": "A solicitante não especificou o tamanho da terra, no entanto, o provedor afirmou que o governador deveria conceder duas léguas de terra na área onde a solicitante estava pedindo, alegando que ela possuía cabedal e engenhos e que por isso precisava de mais lenha. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "referencia": "BA0009"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Alvará de doação de Dona Francisca de Sande de 25/11/1671 
+Registro de uma carta de doação e sesmaria de duas léguas de terra, concedida a Dona Francisca 
+de Sande. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça do conselho de guerra de Sua Alteza, 
+governador e capitão general de mar e terra do Estado do Brasil. Faço saber, aos que este alvará 
+de doação e sesmaria virem que, Dona Francisca de Sande, viúva do mestre de campo, Nicolau 
+Aranha Pacheco, mencionou apresentar a petição, cujo teor é o seguinte: senhor, diz Dona 
+Francisca de Sande, viúva do mestre de campo, Nicolau Aranha Pacheco, que ela é senhora de 
+uma fazenda de matos em Jaguaripe, entre a terra da suplicante e a de Luiz Gonçalves Peniche, 
+seu vizinho, estão um sobejos de terra que não estão dados até agora de sesmaria a pessoa 
+alguma, e a suplicante quer aproveitar a dita terra, porque tem filhos, fábrica e engenho para o 
+qual aproveitando as tenhas ficara também aproveitando as terras. Pede a Vossa senhoria, lhe 
+faça mercê dar de sesmaria a terra e sobejos que já estar por dar, entre a terra da suplicante e a 
+de Luiz Gonçalves Peniche, todos os matos, águas, e serventias que lhe pertencerem. E receberá 
+mercê. Vista a informação que, sobre este particular me fez o provedor-mor da Fazenda Real 
+deste Estado que é a que se segue. Senhor, a suplicante possui uma sorte de terra, que houve de 
+seus [paijo] a que pretende acrescentar os sobejos que der, um entre a dita terra e a de Luiz 
+Gonçalves Peniche, entendo que seguindo as sesmarias que são dadas a diversas pessoas em 
+Jaguaripe, não pode haver palmo de terra que não esteja dado, mas quando foram léguas, a 
+suplicante é afazendada, digo, é pessoa afazendada que tem filhos e engenho que necessitam de 
+lenhas, e fica sendo do serviço de Sua Alteza concedendo-lhe os sobejos para que, ao seu 
+engenho não faltem lenhas; pelo que me parece que Vossa Senhoria lhe deve deferir 
+concedendo-lhe até ali duas léguas nos ditos sobejos, sem prejuízo de terceiro na forma do 
+regimento foral. Vossa senhoria mandará o que for servido. Bahia, 21 de novembro de 1671. // 
+Antônio Lopes de Ulhoa// E consta ter cabedal para cultivar as ditas terras. Hei por bem de lhe 
+conceder, como pelo presente faço em nome de Sua Alteza, até duas léguas de terra nos ditos 
+sobejos que pede e confronta em sua petição, não prejudicando a terceiro, com todos suas águas, 
+campos, matas, testadas, logradouros, e mais úteis que nelas se acharem, todo foro livre, e isento 
+de pensão, ou tributo algum, salvo o dízimo a Deus, que pagará dos frutos que nelas houver, e 
+por elas será obrigado a dar caminhos livres ao conselho para fontes, pontes, e pedreiras, pelo 
+que ordeno e mando a todos os ministros e justiças que o conhecimento deste com direito deva, 
+ou possa pertencer, lhe mandem dar a posse real efetiva e atual na forma costumada debaixo 
+das cláusulas acima deferidas, e as mais da ordenação, título das sesmarias para firmeza do que 
+lhe mandei passar a presente sob meu sinal e selo de minhas armas, a qual se registrará nos 
+livros da secretaria do Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual 
+inteiramente como nela se contém, sem dúvida e embargo, bem contradição alguma. José 
+Cardozo Pereira o fez na dita cidade do Salvador, Bahia de Todos os Santos, em 25 dias do mês 
+de novembro, ano de 1671. Bernardo Vieira Ravasco o fez escrever. Afonso Furtado de Castro 
+do Rio de Mendonça // Registrado no segundo livro dos registros da secretaria do Estado do 
+Brasil, a que toca a folhas 133. Bernardo Vieira Ravasco o fez escrever. Afonso Furtado de 
+Castro do Rio de Mendonça // Registrada no livro segundo dos registros da secretaria do Estado 
+do Brasil, a que toca as folhas 148. Bahia, 19 de abril de 1673. Ravasco // Registre-se nos livros 
+da Fazenda Real. Bahia, 22 de abril de 1673. De Ulhoa // Registrada em ditos 22 de abril do 
+dito ano em que retornou a Roque Fernandes [Reba]. Miguel Pinto de Freitas // 
+ 
+-Fim da transcrição-  
+
+ 
+Observações:  
+ 
+O nome do sesmeiro no documento original é: Dona Francisca de Sande. 
+ 
+ 
+Referência: 
+  
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 1, fls. 14v – 15v.  
+Numeração original no livro: 14 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

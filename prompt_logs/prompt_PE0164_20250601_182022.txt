@@ -1,0 +1,150 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0164
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0265",
+  "Nome": "João José de Sousa Rangel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "18-10-1822",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no lugar denominado Chambá, no distrito da vila do Limoeiro, próximo a serra da Gorita.",
+  "Localidade": "Vila do Limoeiro",
+  "Marcos Geográficos": "Chambá, Serra da Gorita",
+  "Justificativas": "Era descobridor(a) das terras; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Afonso de Albuquerque Maranhão, Francisco Paula Gomes dos Santos, José Mariano de Albuquerque Cavalcante e Manuel Inácio Bezerra de Melo.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0164"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0164
+Carta de doação e sesmaria de João José de Sousa Rangel - 27/09/1822
+João José de Sousa Rangel, com uma légua de terra em quadra no lugar do
+Chambá, termo da vila do Limoeiro.
+Nós, o presidente, e membros da junta provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de sesmaria virem, que João José de
+Sousa Rangel dirigiu ao ex-capitão general Luís do Rego Barreto o requerimento do
+theor seguinte = Ilustríssimo e excelentíssimo senhor = Diz João José de Sousa Rangel,
+tenente de milícias, que tendo requerido a Vossa Excelência duas léguas de terras por
+sesmaria, no lugar denominado chambá, procurando a serra da Gurita, termo da vila do
+Limoeiro, foi Vossa Excelência servido conceder-lhe meia légua quadrada, e por que no
+dito lugar se acham sobras bastantes e Vossas Excelências tem concedido a várias que
+tem requerido sesmarias uma légua quadrada, requer o suplicante a Vossa Excelência,
+que em atenção a ter sido ele mesmo o descobridor daquelas terras devolutas, e mal
+possuídas, lhe conceda a mesma graça, que tem concebido aos demais sesmeiros, sujeito
+ao respectivo foro real, visto que ainda se não tem demarcado a dita meia légua de terra
+concedida: por tanto = Pede a Vossa Excelência seja servido deferir ao suplicante como
+requer. E receberá mercê = e sendo pelo mesmo visto o seu requerimento, por despacho
+de 5 de junho de 1820, mandou ajuntar o próprio requerimento ao que satisfez,
+unindo-lhe outro requerimento acompanhado dos editais que a câmara da vila do
+Limoeiro mandará afixar a informação da mesma câmara, em que se mostra não ter
+havido oposição da mesma câmara, em que se mostra não ter havido oposição alguma,
+tudo em comprimento do despacho de 7 de junho de 1818, as informações do doutor
+procurador da Coroa, em consequência do despacho de 29 de julho do memso ano, o
+qual tão bem lhe não poem embaraço, e a do escrivão deputado da junta da fazenda
+pública em comprimento do despacho de 31 de julho do mesmo, igualmente sem
+oposição, e com despacho de 13 de agosto do dito ano em que lhe mandava medir a
+meia légua de terra declarada no requerimento supra mandou o mesmo capitão general
+por despacho de 7 de junho de 1820, que demarcasse uma légua entre os hereos o
+capitão-mor Antonio Barboza da Silva o capitão Joaquim de Barros, e o alferes João de
+Deus, fazendo testada na sesmaria do Chambá de nascente a poente, declarando
+primeiro se era o único pertendente, e não tendo satisfeito a primeira parte por lhe
+constar que sua Alteza Real o príncipe regente constitucional, e perpétuo defensor do
+
+Brasil por uma provisão, sobre a data de uma sesmaria concedida a Francisco de
+Oliveira Guimarães, havia julgado improcedente as sesmarias demarcadas antes da
+conceção da carta, satisfez a segunda declarando não haver outro pretendente, e
+ajuntando para prova a pública forma de uma carta concedida ao referido capitão-mor
+que se havia oposto a uma anterior pertenção que não progrediu por ser em terras
+requeridas pelo mesmo capitão-mor e que pela dita carta depois se lhe haviam
+concedido, e sendo nos presentes todos estes documentos, assim como os papéis da
+referida pertenção, que não progrediu, e achando nos tudo conforme com as leis das
+sesmarias, ordenamos por nosso despacho de 27 de setembro do corrente ano, que se lhe
+passasse a presente carta: E portanto pela faculdade que nos é concedida no capítulo 15
+do regimento deste governo. Havemos por bem dar em nome de sua Alateza Real, o
+príncipe regente constitucional, e perpétuo protetor do Brasil, ao dito João José de
+Sousa Rangel, a referida terra na forma dita, pagando o foro anual de 6 mil réis em
+observância da Real Ordem de 28 de setembro de 1700, de que deu fiança na contadoria
+da junta da fazenda publica a folha 61 do livro 7º delas. A qual sesmaria possuirá, e
+gozará ele, suplicante, e seus herdeiros, ascendentes e descendentes, como sua, que fica
+sendo de hoje por todo sempre com todas as matas, campos, rios, águas, testadas,
+logradouros, e mais úteis, que nelas se compreenderem, não prejudicando a terceiro, e
+não passará a religiões, e pessoas eclesiásticas, salvo sendo com os mesmos encargos,
+com que as possuem os seculares, e nunca se devidirá em porções, nem se partira senão
+por estimação andando encabeçada em uma só pessoas na forma da ordenação livro 4º
+titulo 96§23, e assim não passará a herdeiros, ou quaisquer outras pessoas sem
+consentimento da junta da fazenda publica, para nela se darem novas fianças, e se
+fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as
+testadas, rios, fontes, e pedreiras, e reservadas ao patrimônio nacional as madeiras de
+construção, pau brasil e vieiros de quaisquer metais, e será obrigado a requerer dentro
+de 3 anos confirmação, medição, e demarcação, povoá-la, e cultivá-la na forma da
+Ordem Régia de 20 de outubro de 1753, e alvará de 25 de janeiro de 1809, e não o
+comprindo assim se haverá por devolutas, e novamente se conferirá a quem requerer.
+Pelo que: ordenamos aos ministros da fazenda, e justiça, e mais pessoas a quem tocar.
+Cumpram e façam cumprir, e guardar esta carta de data de sesmaria como nela se
+contém fazendo das ao suplicante posse real, efectiva, e actual na forma da ordenação
+título das sesmarias. Em firmeza do referido, lhe mandamos passar a presente que sendo
+por nós assinada, e sellada com o sinete das armas reais, se registrará na secretaria deste
+
+governo, na de junta da fazenda pública, e onde mais tocar. Manoel Izidoro de Miranda
+3º oficial da secretaria do governo a fez em o Recife de Pernambuco aos 18 dias do mês
+de outubro de 1822. E eu, José Mariano de Albuquerque Cavalcante, secretário, a fiz
+escrever = estava o senete das armas nacionais = Affonso de Albuquerque Maranhão
+presidente = Francisco Paula Gomes dos Santos = Manoel Ignacio Bizerra de Mello =
+José Mariano de Albuquerque Cavalcante = Carta de data de sesmaria pela qual vossa
+excelência hão por bem conceder em nome de sua alteza real o príncipe regente
+constitucional e perpétuo protetor do Brasil a João José de Souza Rangel, tenente de
+Milícias, huma legoa em quadra no lugar do Chambá, termo da vila do Limoeiro como
+nela se declara = Para Vossas Excelências verem = Por despacho do governo de 27 de
+setembro de 1822.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 235-236.
+Observações:
+O nome do suplicante consta como João Joze de Souza Rangel, o que foi modificado
+para João José de Sousa Rangel, seguindo o padrão proposto para a plataforma SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

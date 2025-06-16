@@ -1,0 +1,172 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0113
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "José da Costa e Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "16-06-1698",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento e estava localizada ao longo do rio Corumbaú , ao sul de Porto Seguro, fazendo fronteira com as terras de Antônio Lopes Torrão (BA0108).",
+  "Localidade": "Porto Seguro",
+  "Marcos Geográficos": "Rio Corumbaú",
+  "Confrontantes": " Antônio Lopes Torrão",
+  "Observações da petição": "Junto do pedido do sesmeiro existe uma procuração dando poderes à João de Araújo Barbosa de Antônio Branco, Manuel Gonçalves e à Domingos Simões da  Cunha para poderem receber e tomar posse da sesmaria no lugar do suplicante.",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Bonicho ",
+  "referencia": "BA0113"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de alvará de doação e sesmaria pelo qual se concedeu em nome se Sua Majestade, que 
+Deus guarde, a José da Costa e Araújo para e ele e seus descendentes uma légua de terra de 
+largura e 3 de comprimento na parte em que pede e confronta em sua petição. 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que havendo respeito a José da Costa e Araújo me 
+representar em sua petição cujo o teor é o seguinte: Senhor, diz José da Costa e Araújo que na 
+capitania de Porto Seguro, abaixo para o sul, estão terras devolutas que, posto algum tempo, 
+foram dadas e não foram povoadas. E Porquanto ele, suplicante, quer povoar a dita terra a que 
+é em utilidade da Coroa e rendas Reais, e pelo o que pede a Vossa Senhoria [que] lhe faça mercê 
+conceder de sesmaria, em nome de Sua Majestade, uma légua de terra por costa que começará 
+do rio Corumbaú correndo para sul e 3 léguas para o sertão, confrontando pela parte do sul com 
+a sesmaria que se tem dado a Antônio Lopes Torrão, e por costa com o mar para o sertão onde 
+acabar as ditas 3 léguas. E receberá mercê. E visto o parecer do doutor procurador da Fazenda 
+Real deste Estado a que se deu vista que é o que se segue: Fiat Justitia. // Doutor Bonicho // E 
+a informação do provedor-mor da mesma Fazenda Real que também é o que se segue: Senhor, 
+as 3 léguas de terra que o suplicante pede são que Sua Majestade, que Deus guarde, manda 
+[que] se possam dar de sesmaria a quem tenha cabedais com que as povoar e fazer rendas. E 
+tendo o suplicante esta condição, parece [que] se lhe pode conceder sob as condições da lei e 
+cláusulas de não poder cortar madeiras algumas das que tiverem serventia para a fábrica das 
+naus que Sua Majestade foi servido mandar estabelecer neste Estado para seu serviço, estando 
+em parte que possam ter condição a porto, pagando os dízimos dos frutos que tem, na norma 
+confirmada. Vossa Senhoria mandará o que mais convier. Bahia, 9 de junho de 1698 // 
+Francisco Lamberto // Hei por bem conceder e dar em nome de Sua Majestade, que Deus 
+guarde, ao dito José da Costa e Araújo, para ele e seus descendentes as ditas uma légua de terra 
+de largura e 3 de comprimento na parte que pede e confronta em sua petição neste inserta como 
+parece aos ministros da Fazenda Real não prejudicando a terceiro, com as cláusulas que o 
+provedor-mor da Fazenda Real aponta na sua informação a qual terra  se aproveitará dentro do 
+termo da lei, e as não poderá alhear nem passará a outro algum domínio sem as ter aproveitado 
+com condição de se darem logo neste caso a quem a outra pessoa, nem o poderá fazer sem 
+expressa ordem de Sua Majestade e com as mais cláusulas contidas na ordenação do Reino, 
+título de sesmarias e forma do capítulo 26 do regimento novo deste governo geral as quais terras 
+terá e possuirá com todas as suas águas, matas, testadas, logradouros e mais úteis que nelas se 
+acharem com foro livre e isento de pensão salvo o dízimo a ordem de Cristo que pagará pelos 
+frutos que delas houver, e por elas serão obrigados a dar caminhos públicos e particulares para 
+fontes, pontes, portos e pedreiras com declaração que se havendo nas ditas terras alguma aldeia 
+de índios, não fique o dito José da Costa e Araújo senhor dela e nem das terras que ocuparem 
+os índios na forma das novas ordens de Sua Majestade. Pelo o que ordeno a todos os ministros 
+e oficiais de justiça, a que o conhecimento deva ou possa pertencer, [que] lhe façam dar e deem 
+posse real, efetiva e atual demarcando-se no tempo dela citados os éreos, que enviarão certidão 
+a casa dos contos de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob 
+o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, e nas 
+mais a que tocar da Fazenda Real dele e nos do escrivão de sesmarias, se guardará e cumprirá 
+tão pontual e inteiramente com nele se contém sem dúvida, embargo nem contradição alguma. 
+// Manuel Rogério // o fez nesta cidade do Salvador, Bahia de Todos os Santos aos 16 dias do 
+mês de junho, ano de 1698 // Gonçalo Ravasco Cavalcante e Albuquerque // a fiz escrever // 
+Dom  João de Lencastro // selo // Alvará de doação e sesmaria pelo qual serviu de Vossa 
+Senhoria Ilustríssima conceder e dar em nome de Sua Majestade, que Deus o guarde, a José da 
+Costa e Araújo, para ele e seus descendentes as uma légua de terra de largura e 3 de 
+
+comprimento como pede e confronta em sua petição neste inserta, com condição de não cortar 
+madeiras algumas para a fábrica das naos de Sua Majestade, não prejudicando a terceiro nem 
+as aldeias e terras dos índios que nelas se acharem nas condições apontadas e se demarcar e 
+confirmar esta por Sua Majestade, dentro de um ano pelos respeitos acima declarados. Para 
+Vossa Ilustríssima ver. Registrado no livro 5° dos registros da secretaria do Estado do Brasil, 
+que tocava as folhas 113. Bahia, 17 de junho de 1698 // Ravasco. 
+ 
+Procuração de José da Costa de Araújo 
+Por esta por mim feita e assinada, digo eu, José da Costa e Araújo, que concedo todos os meus 
+poderes que me direito me são concedidos ao capitão João de Araújo Barbosa de Antônio 
+Branco, Manuel Gonçalves e a Domingos Simões da  Cunha para que qualquer um deles possa 
+tomar posse em meu nome, vertendo da provisão junta de uma légua de terra de largura pela 
+costa abaixo, correndo para o sul sendo chamam rio Corumbaú, e 3 de comprimento correndo 
+para o sertão que confrontam com Antônio Lopes Torrão e poder a qualquer dos meus 
+constituintes substabelecer os poderes desta minha procuração nas pessoas que melhor lhes 
+parecer, tirando os traslados desta que lhe forem necessárias, e ficando este sempre em seu 
+vigor. Reservado sempre por uma nova citação, e poderão agravar e embargar e jurar em minha 
+alma, senhora do que parecer a presente por mim feita e assinada. Bahia 20 de novembro de 
+1698 anos. 
+ 
+Substabelecendo  
+Subestabeleço os poderes que por esta em são concedidos na pessoa de Antônio Branco, para 
+que com os mesmos poderes concedidos na procuração acima faço e digo o que no mesmo 
+fizera no presente foro, conforme o dito outorga, e por verdade foi este subestabelecimento que 
+foi o [que] assinei de minha letra e sinal em Porto Seguro. 21 de janeiro de 1699 // João de 
+Alvares Barbosa. 
+ 
+Posse  
+Saibam quantos este auto de posse virem como no ano de nascimento de nosso Senhor Jesus 
+Cristo de 1699 anos aos 20 dias do mês de fevereiro do dito ano, nesta vila de Nossa Senhora 
+da Penha, capitania de Porto Seguro de Sua Majestade, na ponta do Mato Grosso no rio 
+Corumbaú de onde um tabelião abaixo nomeados com o ministro Bartolomeu Gonçalves, fomos 
+com testemunhas abaixo nomeados e assinada é por Antônio Branco, procurador de José da 
+costa de Araújo, me foi apresentada numa procuração com a carta de sesmaria concedida pelo 
+senhor Dom João de Lancastro requerendo-me que em virtude dela lhe deve posse daquelas 
+terras por pertencerem a seu constituinte o que visto por mim, logo o dito ministro, gritou em 
+alta voz que dava posse daquelas terras, se houvesse quem tivesse que dizer a ela que visse com 
+seus embargos e por serem terras que não foram dadas a outras pessoas, não houve quem 
+soubesse, e logo o dito Marinho Matos Terra Ramos na mão do dito procurador, e o houve por 
+bem neles, dando hei posse real, efetiva e atual do que o tabelião por este termo de posse em 
+que foram testemunhas Gonçalo Neto Cruz, João Roiz e olheiros; pessoas de mim, tabelião, 
+conhecidas que todos assinaram com o dito // Marinho // e eu // Manuel Neto Cruz // Bartolomeu 
+Gonçalves // João Roiz // e // Antunes // Registrou-se. Bahia, 18 de junho de 1700 // Lamberto 
+// Leonardo Lopes de Carvalho // e registrou-se em 30 do dito mês e ano. 
+
+- Fim de Transcrição- 
+ 
+ 
+Observações: 
+- O nome do suplicante consta no documento original como: “Joseph da Costa e Araújo” 
+ 
+Referências: 
+AN, Códice, fls. 151 – 153v. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

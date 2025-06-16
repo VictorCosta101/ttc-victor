@@ -1,0 +1,177 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0355
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Maria de Oliveira de Morais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "28-04-1725",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "A Passagem",
+  "Marcos Geográficos": "Chapadas, caatingas",
+  "Ribeira": "Longá, Corrente",
+  "Justificativas": "Pretendia criar gado; Tinha escravos; Tinha cabedal; Tinha gado vacum; Tinha gado cavalar; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Alegou ser filho do descobridor da terra; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante ainda alegou que seu pai foi \"um dos primeiros povoadores e conquistadores da capitania do Piauí\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0355"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0355
+Carta de concessão a Maria de Oliveira de Morais - 28/04/1725
+Carta de data e sesmaria de Maria de Oliveira de Morais
+  
+João da Maia da Gama etc. Faço saber aos que esta minha carta de [reformação] de data
+e sesmaria virem que a mim me enviou a dizer por sua petição Maria de Oliveira de
+Morais, filha do capitão Sebastião da Costa de Oliveira, um dos primeiros povoadores e
+conquistadores na capitania do Piauí, onde era moradora ela suplicante impetrara, e
+alcançara carta de data e sesmaria, que apresentara de 3 léguas de terra de comprido, e
+uma de largo por todo o comprimento na barra do rio do Longá, distrito da
+dita capitania onde tinha situado com seus gados e fábrica com a condição de as mandar
+confirmar por Sua Majestade, que Deus guarde, dentro em 3 anos e por que no dito
+termo consignado tivera a suplicante justo impedimento para fazer remessa da dita
+carta para ser confirmada por causa da ausência que neste tempo fizera o dito seu pai as
+minas
+e
+a
+outras
+partes,
+e
+como
+mulher
+não
+tivera
+quem
+lhe
+solicitasse
+a dita confirmação que agora a pretendia impetrar, para o que me pedia fosse servido
+ordenar se lhe passasse carta de reformação de tempo de outros 3 anos incluindo-se nela
+os teores da carta junta para poder impetrar a dita confirmação de Sua Majestade, a qual
+carta junta é do teor seguinte: Christovão da Costa Freire, senhor de Pancas do
+Conselho de
+Sua Majestade, que
+Deus guarde,
+governador e capitão
+general do Estado do Maranhão etc. Faço saber aos que esta minha carta de data e
+sesmaria virem que tendo [repetido] ao que por sua petição me enviou a dizer Maria de
+Oliveira de Morais, filha do capitão Sebastião da Costa de Oliveira, um dos primeiros
+povoadores e conquistadores da capitania do Piauí, que achando-se o dito seu pai
+com quantidade de gados vacuns e cavalares na dita capitania, com parte dele povoara
+um sítio na barra do Rio do Longá onde chamavam A Passagem, por conta
+da suplicante, e pela dita terra estar devoluta quando o povoou, e ter nela todas as
+fábricas, e homens escravos, e cavalos e tudo o mais necessário, necessitava de 3 léguas
+de comprido e uma de largo por todo o comprimento para a criação dos ditos gados e
+suas multiplicações, reservando do rio as pontas e [obras], e da terra toda [inútil] de
+criar gados. Pedindo-me lhe fizesse mercê conceder em nome de Sua Majestade, que
+Deus guarde, por carta de data e sesmaria as ditas 3 léguas de terra de comprido e uma
+de largo em todo o comprimento na dita parte da barra do rio do Longá, e atendendo às
+razões que alegou e ao que respondeu o provedor da Fazenda Real e ser utilidade dela
+cultivarem-se as terras neste Estado. Hei por bem de conceder em nome de Sua
+Majestade, que Deus guarde, por carta de data e sesmaria a dita Maria de Oliveira de
+Morais, 3 léguas de terra de comprido e uma légua de largo por todo o comprimento na
+barra do rio do Longá no sítio chamado A Passagem, fazendo pião na passagem do rio
+Corrente e por ele acima légua e meia, e daí para baixo outra légua e meia com uma de
+largo, ficando o dito rio em meio, reservando dela as pontas e [obras] da terra, e a
+Chapada Catinga e terra Carrascos, e toda a inútil de criar gados, para que a haja, logre e
+possua como sua própria, tanto ela como todos os seus herdeiros, ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor,
+dos frutos que nelas tiver. A qual concessão lhe faço não prejudicando a terceiro, e
+reservando os paus reais que nelas houver para embarcações, com declaração que
+mandará confirmar esta carta por Sua Majestade dentro em 3 anos primeiros seguintes,
+e cultivará as ditas terras de maneira que deem frutos, e dará caminhos públicos e
+particulares onde forem necessários para pontes fontes, portos, e pedreiras e se
+demarcará ao tempo da posse por rumo de corda e braças craveiras, como é estilo e
+
+o dito senhor manda; e outrossim não poderão nelas suceder religiões por nenhum
+título, e acontecendo possuí-las será com encargo de pagarem delas dízimos como se
+fossem possuídas por seculares, e faltando-se a qualquer destas cláusulas se haverão por
+devolutas e se darão a quem as denunciar como o dito Senhor ordena. Pelo que mando
+ao provedor da Fazenda Real desta capitania e mais ministros a que tocar que na forma
+referida e com as condições declaradas deixem ter e possuir as ditas 3 léguas de terra de
+comprido e uma légua de largo em todo o comprimento nas partes já nomeadas
+a dita Maria de Oliveira Morais para ela e todos os seus herdeiros, ascendentes e
+descendentes, como coisa própria. Cumpram e guardem esta carta inteiramente como
+nela se contém, a qual lhe mandei passar por mim assinada, e selada com o sinete de
+minhas
+armas,
+que
+se
+registrará
+onde
+tocar.
+Dada
+nesta cidade de
+São
+Luís
+do Maranhão aos 14 dias do mês de agosto, no do nascimento de nosso senhor Jesus
+Cristo de 1713, Gervásio Leite [Rebelo], secretário do Estado a fez // Christovão da
+Costa
+Freire
+//
+E
+que
+tudo
+visto
+por
+mim
+mandei
+separasse
+carta
+de
+reformação para dentro de 3 anos a confirmar, e não o fazendo se dará a quem a pedir
+debaixo das mesmas cláusulas nesta expressadas. Dada nesta cidade de São Luís do
+Maranhão aos 28 de abril, ano do nascimento de nosso senhor Jesus Cristo de 1725.
+Joseph Duarte Cardozo, secretário do Estado, a fez // João da Maia da Gama.
+- Fim da Transcrição -
+Observações do documento:
+O nome original da sesmeira, como consta no documento, é Maria de Oliveira de
+Moraes.
+Referência:
+APEP, Livro 2, fls. 28v - 30, Doc. 36
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

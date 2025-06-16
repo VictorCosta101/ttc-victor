@@ -1,0 +1,166 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0012
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0082",
+  "Nome": "Miguel de Godoi e Vasconcelos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-09-1721",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e três léguas de largura no rio Mangoaba. A sesmaria possuía como limite as terras do engenho de José Barros de Pimentel pelo dito rio Magoaba acima pela parte norte até as fronteiras com o rio Camaragibe, ao sul. ",
+  "Localidade": "Rio Camaragibe",
+  "Marcos Geográficos": "Rio Magoaba, Rio Camaragibe",
+  "Confrontantes": "José Barros Pimentel",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; As terras eram devolutas; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se não fazer benfeitorias que prejudicassem a água do poço; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse fosse isento do foro régio, mas seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Dom Francisco de Sousa ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Francisco de Sousa ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0012"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0012 
+Carta de doação e sesmaria de Miguel de Godoi e Vaconcelos – 11/09/1721 
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU A MIGUEL DE GODOI E 
+VASCONCELOS, CAPITÃO CABO DO ARRAIAL DE SÃO CAETANO DOS PAULISTAS 
+DA CAMPANHA DOS PALMARES. 
+ 
+Dom Francisco de Souza, do Conselho de Sua Majestade, comendador da ordem de Cristo, da 
+Comenda de Santo Eurico etc etc etc. Faço saber aos que esta carta de doação de sesmaria virem, 
+que se me representou a petição cujo teor é o seguinte: Senhor governador = Diz Miguel de Godoi e 
+Vasconcelos, capitão de Infantaria do Terço dos Palmares dos Paulistas, cabo do Arraial de São 
+Caetano, por Sua Majestade, que Deus guarde, foi servido dar três léguas de terra em quadro a cada 
+um dos capitães do dito terço, sem foro nem penção alguma que o dízimo a Deus, como consta das 
+reais ordens de Sua Majestade que a estavam inclusas, em virtude das quais quer o supplicante tirar 
+sua carta de sesmaria pelo rio de Mangoaba acima, pegando das cabeceiras das terras do engenho de 
+José de Barros Pimentel, já defunto, capitão-mor que foi da capitania do Porto Calvo, três léguas de 
+terra em quadro pelo dito rio acima, fazendo pião no mesmo rio por estarem devolutas para o sertão 
+e pelo rumo do norte, buscando o rio da capitania e da parte do sul, buscando o rio Camaragibe 
+pelas cabeceiras das ditas datas, até encher as dez léguas de terra em quadro para o sertão e terras 
+conquistadas dos negros rebeldes dos Palmares, por onde os ditos negros continuaram a sair e fazer 
+repetidas mortes e roubos pelos moradores vizinhos, e como o suplicante foi um dos restauradores: 
+portanto, pede a Vossa Senhoria seja servido atendendo ao deduzido, fazer-lhe mercê conceder e dar 
+as ditas terras, na quantidade de três léguas em quadro, na parte confrontada, em nome de Sua 
+Majestade, que Deus guarde = E receberá mercê. = Seguem-se as cartas reais do dito senhor, sobre 
+este mesmo requerimento = Caetano de Melo de Castro = Amigo. Eu, EIRei, vos envio muito 
+saudar. Havendo visto o que se me representou por parte dos paulistas, sobre as formas que se dão 
+as sesmarias, cuidando que os ministros deputados a elas hão de ir distribuir no sertão e que 
+primeiro se hão de decidir, ainda que sumariamente, os prejuízos de terceiros que lhes sejam 
+entregues as terras; e atendendo as razões que se me ofereceram e propusera a favor do mestre de 
+campo Domingos Jorge Velho, que na existência da campanha e movimentos de guerra dos negros 
+dos Palmares, se tem assinalado e merecido tanto, e me pareceu mandar-vos declarar que no sítio 
+que ele nomear, se lhe deem seis léguas de terra de sesmaria a cada um deles em quadro: ao 
+sargento-mor, em sítio apartado, quatro léguas em quadro; aos capitães de infantaria, três léguas 
+também em quadro a cada um deles; aos alferes, duas léguas em quadro a cada um; a cada sargento, 
+uma légua em quadro; a cada soldado branco, da mesma maneira, uma legoa em quadro; e a cada 
+um dos companheiros se assine junto ao dito sítio da sua data, para se aldearem os índios dela 
+quatro légoas em quadro para sítio e mantimento da sua aldeia, com declaração que a repartição 
+
+destas terras se estenda se tanto couber no sítio dos Palmares, que se conquistarão e ficarão de 
+conquistar para o sertão, sem que possa exceder a forma dela, e quando não caia no tal sítio, se 
+diminuirá menos que for possível, procurando-se que o mestre de campo e o sargento-mor fiquem 
+bem acomodados, e também os mais cabos inferiores, e fazendo que as terras que se repartirem se 
+lhes deem com efeito e os meta de posse, sem embargo de qualquer direito com que outras pessoas 
+por antecedentes sesmariais as pretendam, os quais poderão requerer perante vós ou a quem tocar, 
+para que examinados os seus títulos, se tiverem direito, os acomodem em outras terras equivalentes 
+e de tudo o que se deferir nesta matéria, me dareis conta pelo meu Conselho Ultramarino com os 
+papéis e documentos que as partes tiverem oferecido e nestas ditas datas se imporão as obrigações 
+costumadas. Escrita em Lisboa, a 28 de janeiro de 1698 = Rei = Segue-se segunda carta real = 
+Governador da capitania de Pernambuco = Eu, EIRei, vos envio muito saudar = Por carta de 26 de 
+maio deste ano fui servido ordenar mandeis passar ao mestre de campo, sargento-mor, mais oficiais 
+e soldados do Terço dos Palmares da conquista dessa capitania, suas cartas de datas de sesmarias 
+das terras do rio dos Camorins e Parnaíba, como se confrontam dar aos mais donatários com as 
+confrontações, quantias e cláusulas costumadas na forma das minhas ordens, e vendo o que se me 
+representou por parte dos mesmos mestre de campo, sargento-mor, oficiais e soldados do dito Terço, 
+em razão das ditas terras se lhe serem dadas e confirmadas em tempo que se davam de sesmarias, 
+sem a pensão de foral, e não ser justo que sendo-lhes assim dadas, conquistadas e desertas, por-lhes 
+antes do dito foral se lhes ponha agora a pensão ao passar as cartas. Fui servido resolver se lhes 
+passassem suas cartas de sesmarias, sem pensão do dito, e que delas não paguem mais que o dízimo 
+a Deus; do que me parece avisar-vos para que nesta forma lhes façais passar as suas cartas de datas 
+de sesmarias. Escrita em Lisboa, a 14 de junho de 1703 = Rei = Despacho = Informe o provedor da 
+Fazenda Real, ouvindo ao doutor procurador da Coroa e Fazenda. Recife, 27 de maio de 1721 = 
+Rubrica = Vá vista ao doutor procurador da Fazenda. Recife, 26 de junho de 1722 = Barros = Não 
+tenho dúvida = Recife, 27 de junho de 1722 = Pereira" Senhor governador. Responde o doutor 
+procurador da Coroa e Fazenda Real, a quem Vossa Senhoria me mandou ouvir sobre este 
+requerimento do suplicante, que não tem dúvida e nem a mim se pode oferecer a vista das ordens de 
+Sua Majestade, que Deus guarde, que o suplicante apresenta em que Vossa Senhoria lhe mande dar 
+de sesmaria as três léguas de terra em quadro que pede, sendo as que declara das que se 
+conquistaram no sítio dos Palmares e ficaram por conquistar para o sertão, sem foro nem pensão 
+mais que o dízimo a Deus, na forma que Sua Majestade mandou declarar. É o que posso informar a 
+Vossa Senhoria, que mandará o que lhe parecer mais conveniente ao serviço de Sua Majestade com 
+a retidão que observa. Recife, 24 de julho de 1722 = João do Rego Barros - E havendo, outrossim, 
+respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste Governo, e a tudo 
+mais que o dito senhor determina em suas reais ordens, neste particular. Hei por bem fazer-lhe 
+
+mercê dar ao suplicante acima nomeado, como pela presente dou de sesmaria em nome de Sua 
+Majestade, nos mesmos lugares, partes e testadas que confrontam em sua petição as três legôas de 
+terra que nela declara e pede em quadro, na mesma forma que parece ao provedor e procurador da 
+Fazenda e Coroa, livres de foro, em virtude da ordem de Sua Majestade que aqui vai inclusa, exceto 
+o dízimo a Deus, de que o dito senhor o não isenta, segundo as disposições reais, o qual povoará a 
+dita terra no tempo de cinco anos, aliás se darão por devolutas e a possuirá e posará o suplicante e 
+seus herdeiros, não prejudicando a terceiro, com todas as suas matas, águas, campos, testadas, 
+logradouros e mais úteis que nelas se acharem, com mais a condição de que não sucederão nas ditas 
+terras religiosos por nenhum título, e acontecendo que sucedão e possuindo-as, seja com o encargo 
+de deverem e pagarem dízimos como se fossem possuídas por seculares, e faltando-se a isto se 
+darão por devolutas, como Sua Majestade ordena por carta de 17 de junho do ano de 1711. Serão 
+obrigados a dar pela dita terra caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a 
+requerer a confirmação desta data pelo dito senhor no termo de dois anos. Pelo que ordeno a todos 
+os ministros da Fazenda e Justiça destas capitanias a quem o conhecimento desta carta pertencer, 
+lhes façam dar a posse real, efetiva e atual na forma costumada e debaixo das clausulas referidas e 
+da ordenação título de sesmarias, o que por firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da Secretaria deste 
+Governo e nos mais a que tocar. Dada nesta Vila do Recife de Pernambuco, em os 11 de setembro - 
+Manoel da Silva Rosa a fez, ano de 1721 - O secretario Thomé de Matos Girão a fez escrever - 
+Dom Francisco de Souza. - 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 261 - 265. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

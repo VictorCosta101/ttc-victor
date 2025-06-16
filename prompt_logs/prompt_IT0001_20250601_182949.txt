@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0001
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0003",
+  "Nome": "Francisco Berenguer de Andrada",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "04-08-1689",
+  "Data da concessão": "03-11-1689",
+  "Localidade": "Boa Vista",
+  "Confrontantes": "próximo as terras que pertenciam a André Vidal de Negreiros",
+  "Justificativas": "Pretendia aumentar as rendas reais; Era descobridor(a) das terras com sua fazenda; Pretendia criar gado; As terras eram devolutas; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se pagar pensão por engenho, caso este seja levantado; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor deferiu após ouvir o procurador.",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Sebastião Lopes Grandio",
+  "Nome do procurador": "Diogo Pereira da Silveira",
+  "referencia": "IT0001"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0001
+Carta de concessão do capitão-mor Francisco Berenguer de Andrada
+SESMARIA DE UMAS TERRAS ONDE CHAMAM A TERRA NOVA, QUE SE DERÃO AO
+CAPITÃO-MOR FRANCISCO BERENGUER DE ANDRADA.
+Antônio Luiz Gonçalves da Câmara Coutinho, comendador das comendas de São Miguel de
+Bobadella, São Tiago de Ronfe, São Salvador de Mayorca, almotacel-mor do Reino e governador
+da capitania de Pernambuco e das mais anexas e etc. Faço saber aos que esta carta de sesmaria
+virem, que o capitão-mor da Villa de Igarassu, Francisco Berenguer de Andrada, me representou
+petição cujo o teor é o seguinte: “Senhor governador”. Diz o capitão-mor Francisco Berenguer de
+Andrada, que ele serve a Sua Majestade há trinta e sete anos, e de próximo mandou descobrir umas
+terras desertas no sertão acima da Terra Nova e de umas terras do governador André Vidal de
+Negreiros; e por que em ditas terras de novo descobertas [há] alguns pedaços que se podem pousar
+com gado, sendo as mais anexas muito agrestes e sem água, e ele suplicante quer pousar as que
+tiverem serventia com gados e que fará serviço a Sua Majestade pelo crescimento de seus dízimos
+reais; e por que
+em ditas terras há um outeiro a que os descobridores apelidaram a Boa-vista,
+portanto e pelas razões referidas pede a Vossa Senhoria lhe faça mercê dar de sesmaria dez léguas
+de terra em quadro, tanto de comprido como de largo, ficando o outeiro do apelido da Boa-vista em
+meio da dita terra que a Vossa Senhoria pede, em que receberá mercê. Informe o provedor da
+Fazenda Real da capitania de Itamaracá, ouvindo ao procurador da Coroa dela. Olinda, 4 de agosto
+de 1689. “Rubrica do Governador”. O procurador da Coroa licenciado, Diogo Pereira da Silveira,
+responda a esta petição, para que com a sua resposta informe ao senhor governador. Vila da
+Conceição, 6 de setembro de 1698. “Grandia”. Sendo assim, como o suplicante diz estarem
+satisfeitas as dúvidas que
+se me ofereceram, assim sobre as léguas de terra, como acerca dos
+confins, e se deve fazer na data quando ao senhor governador pareça, havendo respeito ao
+merecimento do suplicante e as mais conveniências que a capitania se podem seguir de povoarem;
+dar-lhe-ás de sesmaria, pião no outeiro declarado na petição, para que dele se mensurem para
+aquém e para além as léguas que ao suplicante se darem, obrigando-se, porém, o suplicante a no
+termo da Lei a povoá-las, sob o pretexto de que não as povoando ou parte delas no tal termo de se
+poderem dar a outrem, por descobertas e com declaração de pagar pensão quando nelas levantar
+engenhos se para isso tiverem capacidade. Olinda, 22 de setembro de 1689. O procurador da Coroa,
+Diogo Pereira da Silveira. Informo a Vossa Senhoria com o último despacho o parecer do
+procurador da Coroa. Vossa Senhoria mandará o que for servido. Itamaracá, 11 de setembro de 1689.
+“Sebastião Lopes Grandio”. E havendo outrossim respeito ao que Sua Majestade, que Deus guarde,
+[havia] me encomendado sobre este, particular no capítulo 15, do Regimento deste Governo. Hei
+por bem de lhe fazer mercê, dar como em virtude do presente dou de sesmaria as dez léguas de terra
+
+em quadro no lugar que acima se pede, tanto de comprido como de largo, ficando o outeiro da Boa-
+vista em meio da dita terra, tudo assim e da maneira que pede o suplicante, e confronta na sua
+petição para sempre lográ-las, ele e seus herdeiros, achando-se devolutas e não
+prejudicando a
+terceiro, com todas as suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se
+acharem; tudo foro livre, isento de tributo, foro ou pensão, salvo dízimo a Deus; e só serão
+obrigados a dar pelas ditas terras caminhos livres ao Conselho, para fontes, pontes e pedreiras. Pelo
+que ordeno a todos os ministros da Fazenda e Justiça destas capitanias ou aos que o conhecimento
+desta carta pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada e debaixo das
+cláusulas referidas e das mais da ordem título das sesmarias, que para firmeza de tudo lhe mandei
+passar a presente assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da
+Secretaria destas capitanias e nas mais a que tocar. Dada nesta cidade de Olinda, em aos 25 dias de
+junho = Antônio Pereira a fez, ano de 1689, o secretário Antônio Barbosa de Lima a fez escrever =
+Antônio Luiz Gonçalves da Câmara Coutinho.
+- Fim da carta -
+Referência:
+Documentação Histórica Prnambucana, Livro I, fls. 08 - 10.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

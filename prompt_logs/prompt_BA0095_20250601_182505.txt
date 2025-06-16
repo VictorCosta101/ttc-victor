@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0095
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": " Manuel de Matos de Viveiros",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-01-1688",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e duas de comprimento e estava localizada no rio Joanes, fazendo fronteira com as terras que foram de Francisco Ozório, com as de Antônio Cavalcante e com as de Luís Nunes Santarém e Jerônimo Rodrigues de Castro.",
+  "Localidade": "Rio Joanes",
+  "Marcos Geográficos": "Rio Joanes",
+  "Confrontantes": "Francisco Ozório; Antônio Cavalcante; Luís Nunes Santarém e Jerônimo Rodrigues de Castro",
+  "Justificativas": "Alegou possuir engenhos; Era morador(a) da Capitania; Necessitava de madeira e lenha; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se que não poderia exceder as três léguas concedidas; determinou-se enviar certidão de como as tem povoado; determinou-se não passar a terra para outra pessoa.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita ",
+  "referencia": "BA0095"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria concedida a Manuel de Matos de Viveiros, para ele, e seus herdeiros, 
+assim e da maneira que a pede e confronta em sua petição com declaração, que não poderá exceder 
+ao comprimento de três léguas inclusivas. 
+Matias da Cunha do concelho de Sua Majestade. Faço saber aos que este alvará de doação e 
+sesmaria virem, que havendo respeito ao que por parte de Manuel de Matos de Viveiros, se me 
+enviou a representar por sua petição cujo teor é o seguinte: senhor, diz Manoel de Matos de 
+viveiros, senhor do engenho da Pitinga, que no rio de Joanes está um pedaço de terra devoluta, que 
+parte por uma banda com terras que foram de Francisco Ozório, e por outra com terras que foram 
+de Antônio Cavalcante, e pelas com as que são de Luiz Nunes Santarém, e de Jerônimo Rodrigues 
+de Castro, o qual terá de largura uma légua, e de comprimento duas, pouco mais, ou menos; e 
+porque o suplicante necessita da dita terra para benefício do seu engenho, por não ter cabiceiras 
+onde leve as madeiras necessárias, [?] engenho real, que Sua Majestade manda favorecer para sua 
+conservação. Pede a Vossa Senhoria lhe faça mercê das de sesmaria o dito pedaço de terra assim 
+confrontado, ou o que se achar entre os ditos engenhos, digo os ditos [?] nomeados. E receberão 
+mercê. É vista a resposta do procurador da Fazenda Real, que é a seguinte: Não duvido que se 
+conceda o que pede o suplicante // Pita // É a informação do provedor mor da dita real fazenda, que 
+também é a que se segue. Senhor conforme com a resposta do procurador, e me parece que na carta 
+de doação se deve declarar a quantidade, ou medida da terra que se pede, e as mais cláusulas e 
+condições da lei das sesmarias, e costumadas, com que informo a Vossa Senhoria, que mandará o 
+que mais convier, e for servido. Bahia 15 de janeiro de 1688 // Francisco Lamberto // Ei por bem 
+de conceder, e dar de sesmaria ao suplicante, como pela presente faço, em nome de Sua Majestade 
+para ele e seus herdeiros a dita terra, assim e da maneira que a pede, e confronta em sua petição, 
+com declaração, que não poderá exceder no comprimento de três léguas inclusivas, como parecer 
+aos ministros da fazenda, não prejudicando a terceiro com todas suas águas, campos, matos, 
+testadas, logradouros, e mais úteis que nelas se achar tudo forro, livre, e isento de pensão, ou tributo 
+algum, salvo dízimos a ordem de Cristo que pagará dos frutos que nelas houver, e por ela será 
+obrigado a dar caminhos públicos a todos e à partes para fontes, pontes, portos, e pedreiras, e de as 
+cultivar no termo da lei e regimento, pois nesta conformidade lhe concedo, mandando certidão de 
+como as tem povoado dentro no dito termo para se registrar nos livros da Fazenda Real, e 
+demarcando-se ao tempo da posse listados [?], com declaração, que a cultivará sem [?], nem alhear 
+logo a outrem, sob pena de se lhe tirarem por devolutas: Pelo que manda a todos os ministros de 
+justiça a que é conhecimento deste com direito, deva ou possa pertencer lhe façam dar a posse real, 
+efetiva e atual na forma costumada de baixo das cláusulas acima deferidas, e as mais da ordenação 
+título das sesmarias para firmeza do que lhe manda passar a presente [?] sinal, e zelo, de minhas 
+armas, o qual se registrara nos livros da secretaria deste estado, e nos mais a que tocar da Fazenda 
+Real. Escrivão das sesmarias, e se guardará, e cumprirá tão pontual, inteiramente como nele se 
+contém dúvida, embargo, nem contradição alguma. Manoel [?] a fez nesta cidade de Salvador 
+Bahia de todos os santos em 19 de janeiro de 1688. Bernardo Vieira Ravasco o fez escrever Mathias 
+da Cunha [?] alvará de doação e sesmaria que Vossa Senhoria fez [?] dar em nome de Sua 
+Majestade a Manoel de Matos de Viveiros, para ele, e seus herdeiros a dita terra, assim e da maneira 
+que a pede, e confronta em sua petição com declaração que não poderá exceder ao comprimento 
+de três léguas inclusivas, como parece aos ministros da fazenda, não prejudicando a terceiro e das 
+mais clausulas acima referidas para Vossa Senhoria ver. Registrado no livro quarto dos registros 
+da Secretaria do Estado do Brasil, a que toca às folhas 153 [?]. Bahia 20 de janeiro 1688 // Ravasco 
+
+// Despacho do provedor mor registra-se. Bahia 27 de janeiro de 1688 // Lamberto // Registrou-se 
+no mesmo dia e ano acima // Francisco Dias do Amaral //. 
+ 
+- Fim da transcrição – 
+ 
+Referências: 
+B.A. - A.N., Cód. 427 vol I, Flsf 298v – 300v. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

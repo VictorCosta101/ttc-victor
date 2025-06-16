@@ -1,0 +1,102 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0002
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "RJ0002",
+  "Nome": "Manuel Machado (RJ 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "01-01-1573",
+  "Data da concessão": "01-01-1573",
+  "Observações da sesmaria": "Título original: Carta de Sesmaria do chão para casas e quintais de Manuel Machado, alfaiate.\r\n",
+  "Localidade": "Rio de Janeiro",
+  "Marcos Geográficos": "Caminho Jubericica",
+  "Confrontantes": "Salvador Correa de Sá; Maria Parim. ",
+  "Justificativas": "Alegou não ter casa própria; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O documento está incompleto",
+  "referencia": "RJ0002"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0002  
+ 
+ 
+Carta de concessão de sesmaria de Manuel Machado de 1573 
+ 
+Forra 
+Saibam quantos este público instrumento de carta de sesmaria virem que, no ano de nascimento 
+do nosso Senhor Jesus Cristo de 1573 em os … dias do mês de setembro do dito ano nesta 
+cidade de São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas de mim escrivão 
+abaixo nomeado apareceu Manuel Machado, alfaiate, morador nesta cidade e me apresentou 
+uma petição com um despacho nela do Senhor Cristóvão de Barros, capitão e governador desta 
+dita cidade e capitania deste Rio de Janeiro, por El Rei Nosso Senhor e da qual petição o traslado 
+dela é o seguinte. Senhor capitão e governador. Diz Manuel Machado, morador nesta cidade, 
+que por ele não ter chão para fazer suas casas pede a Vossa Senhoria lhe dê 50 braças num chão 
+que está defronte desta cidade, o qual chão está e parte com Figueiredo numa roça que foi de 
+Salvador Correia de Sá, correndo pela água que desce da dita roça e correndo pelo caminho de 
+Jubericica e pela capoeira que foi de Marim Parim e isto respeitando, Vossa Senhoria, ter ele 
+mulher e filhos, nesta cidade, e serem os primeiros moradores, o qual chão correrá pelo monte 
+acima porque é para casas e quintal, o qual lhe dê, Vossa Senhoria, de sesmaria no que receberá 
+mercê. E visto pelo dito senhor capitão e governador a petição do dito suplicante Manuel 
+Machado e o que ele pedia visto ser justo [Faltam folhas]. 
+ 
+- 
+Fim da Transcrição - 
+ 
+Observações do documento: 
+Sabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original. 
+Título original: Carta de Sesmaria do chão para casas e quintais de Manuel Machado, alfaiate. 
+Referências: 
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 32; 
+Documento Original :  f. Iv. 
+Original no livro: “Documentos Históricos, tombo das cartas de sesmarias do Rio de janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”.  
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca Nacional, 
+dep. Nacional do livro, 1928.pg.32; Códice 50.5.3A(1573-4). 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

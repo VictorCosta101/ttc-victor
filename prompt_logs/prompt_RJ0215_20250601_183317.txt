@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0215
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Inácio Gomes de Macedo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-05-1738",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio Jaconé, Saquarema",
+  "Marcos Geográficos": "Ponta Negra",
+  "Confrontantes": "Terras dos Religiosos Bentos, terras do capitão Antônio Coelho de Brito",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0215"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0215
+Carta de concessão de Inácio Gomes de Macedo de 09 de maio de 1738
+José da Silva Paes, brigadeiro de infantaria dos exércitos de Sua Majestade, cujo cargo está o
+governo do Rio de Janeiro e suas capitanias.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Inácio Gomes de Macedo, que na praça de Saquarema se acham terras inocupadas
+e que nunca foram possuídas por pessoa alguma, pedindo-me lhe desse de sesmaria, em nome
+de Sua Majestade, meia légua de terra de testada e uma de sertão no sítio a que chamam
+Jaconé além da Ponta Negra, principiando das datas dos Religiosos Bentos para Saquarema
+até entestar com as do capitão Antônio Coelho de Brito, fazendo testada pelo (ilegível) ao
+rumo que correr, e ao sertão a que correr-se do (ilegível) para cuja cultura se acha com
+escravos, e visto o requerimento e a utilidade que se segue aos dízimos Reais de se povoarem
+as terras inocupadas e a responder o provedor da Fazenda Real e o procurador da Coroa, se
+lhes não ofereceu dúvida. Hei por bem fazer mercê, em nome de Sua Majestade, de dar por
+sesmaria ao dito Inácio Gomes de Macedo as ditas terras, não excedendo, porém, uma légua
+em quadra, e não sendo o caminho de minas, na forma das ordens do mesmo Senhor, e com as
+confrontações no requerimento acima expressadas, sem prejuízo de terceiro ou do direito
+(ilegível) e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo, e antes de tomar posse delas as fará medir e demarcar
+judicialmente, sendo para este efeito notificadas as pessoas com quem confrontar, e será
+obrigado a fazer os caminhos da sua testada fazendo-lhe pontes e estivas onde necessário for,
+e descobrindo-se nelas rio caudaloso que necessite barca para se atravessar, ficará reservada
+de uma margem dele meia légua ao menos para ficarem pública, e nas ditas terras não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com encargo de
+pagar dízimos e outro qualquer o Ilustrissimo Senhor impor-lhes de novo, e não os pagando se
+poderá dar a quem as denunciar, como também sendo o mesmo Senhor servido mandar fundar
+no distrito destas terras alguma vila o poderá fazer ficando livre, sem encargo algum ou
+pensão para o sesmeiro, e não compreenderá esta data vieiros ou minas de qualquer gênero de
+metal que nas ditas terras se descobrir, reservando também os paus Reais, e faltando a
+qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que
+dispõem a Lei e Foral das Sesmarias, ficará privado delas. Pelo que mando ao ministro ou
+oficial de justiça a que o conhecimento desta pertencer, dê posse ao dito Inácio Gomes de
+Macedo da referida sesmaria na forma acima declarada. E por firmeza de tudo lhe mandei
+passar a presente por mim assinada e selada com o signete de minhas armas, (ilegível) da
+
+secretaria deste Governo e nos da Fazenda Real no tempo declarado no regimento debaixo da
+pena nele cominada e nos mais a que tocar. Dada na cidade de São Sebastião do Rio de
+Janeiro. Pedro Fagundes Varela, oficial da secretaria, a fez aos 9 dias do mês de maio de 1738
+(ilegível).
+Carta porque Vossa Senhoria há por bem dar de sesmaria, em nome de Sua Majestade, a
+Inácio Gomes de Macedo (ilegível)
+Registre-se nos Livros da Fazenda Real. Rio, 25 de setembro de 1738. //Melo//
+Registrada a folha 27 do Livro das Patentes e Sesmarias que serve nesta secretaria do Rio, a
+10 de maio de 1738. //José Ferreira da Fonte//
+Cumpra-se. //(ilegível)//
+Registrada no Livro 27º dos Registros desta Provedoria a folha 113. Rio, 26 de setembro de
+1738. //Antônio de Faria Melo//
+Doutor João Soares Tavares, cavaleiro professo na ordem de Cristo do desembargo de Sua
+Majestade, seu ouvidor geral, corregedor da comarca nesta cidade do Rio de Janeiro e juiz das
+notificações. Aos que a presente certidão de justificação virem, faço saber que a mim me
+constou por fé do escrivão do meu cargo, que esta subscreveu, ser o sinal posta no fim da
+carta de sesmaria retro do brigadeiro e governador José da Silva Paes, nela o conteúdo do o
+que hei por justificado. Rio de Janeiro, 27 de 1739 anos. Eu, Domingos Rodrigues Távora,
+escrivão a subscrevi. //[assinatura]//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Ignacio Gomes Macedo uma legua de terra no sitio denominado Jacaré. Rio de Janeiro, 9 de
+maio de 1738.
+Esta carta de concessão está disponível no AHU anexada à Petição n° 10058 e à Portaria n°
+10060.
+Título original do sesmeiro: Ignacio Gomes de Macedo.
+A Lagoa do Jaconé e de Ponta Negra estão localizadas em Saquarema, Região dos Lagos.
+Referência:
+AHU_ACL_CU_017-01, Cx. 43, D. 10059
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

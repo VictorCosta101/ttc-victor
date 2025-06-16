@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0184
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0198",
+  "Nome": "Manuel dos Santos de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-04-1801",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura entre o o rio Ipojuca e o rio Capibaribe, do riacho Mulungu até o riacho do Tubirá. ",
+  "Localidade": "Riacho Mulungu",
+  "Marcos Geográficos": "Riacho Mulungu, Riacho Tubirá, Rio Capibaribe, Rio Ipojuca",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "\tOs governadores interinos determinaram o pagamento anual do foro régio no valor de 4 mil réis. Os governadores interinos também determinaram a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0184"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0184 
+Carta de doação e sesmaria de Manoel dos Santos de Oliveira – 20/04/1801 
+ 
+Manoel dos Santos de Oliveira, uma légua de terra em quadra entre Ipojuca e Capibaribe, 
+pegando da barra do riacho denominado do Molungu para o riacho da Tubiba, sendo a 
+largura da dita barra para o dito rio e os fundos para a banda da Serra Verde, tudo com 
+data de carta de sesmaria. 
+Dom José Joaquim da Cunha de Azevedo Coutinho, do Conselho de Sua Alteza Real, bispo de 
+Pernambuco, Pedro Sheverin, chefe de esquadra intendente da Marinha, o desembargador José 
+Joaquim Nabuco de Araújo, ouvidor geral desta Comarca, governadores interinos da Capitania 
+Geral de Pernambuco etc. Fazemos saber aos que esta carta de sesmaria virem, que Manoel dos 
+Santos de Oliveira fez a este Governo o requerimento do teor e maneira seguinte: Diz Manoel dos 
+Santos de Oliveira que ele há quatro anos que entrou a povoar, relhear e plantar umas terras que 
+achou incultas, desaproveitadas e sem donos entre Ipojuca e Capibaribe, e pegando da barra do 
+riacho denominado Malungu para o riacho de Tubirá, e porque até o presente está o suplicante 
+trabalhando sem ter título, e Sua Alteza Real manda conceder as terras devolutas e 
+desaproveitadas, requer o suplicante a Vossa Excelência e senhorias em nome de Sua Alteza Real 
+hajam de conceder ao suplicante em dito lugar uma légua de terra em quadra, pegando da barra 
+do dito riacho Molungu para o riacho Tubira, sendo a largura da dita terra para o dito rio e os 
+fundos para a banda da Serra Verde, não pagando o suplicante senão o dízimo a Alteza Real = 
+Pede a Vossa Excelência, [Reverendíssima] Senhoria, sejam servidos conceder ao suplicante a 
+sesmaria na forma pedida, e receberá mercê = E sendo por nós visto o seu requerimento, 
+mandamos por despacho de 14 de novembro de 1800 que a Câmara respectiva mandasse fixar 
+editais por tempo de trinta dias no respectivo distrito, para se saber ao certo estar ou não devoluta 
+a mesma terra e haver ou não terceiros prejudicados, e constando-nos por informação da dita 
+Câmara que assim o mandou executar não haver pessoa alguma que aos ditos editais saísse, por 
+outro despacho de 19 de fevereiro do corrente ano, mandamos ouvir a Contadoria da Real 
+Fazenda e assim mais responder o doutor procurador da mesma Fazenda e Coroa, por outro de 5 
+de março do referido ano, e como todos uniformemente responderam estar nos termos de se dar 
+ao suplicante a terra pedida de sesmaria na forma confrontada com seu requerimento, pagando o 
+foro anual de 4 mil réis por légua, por acharem na distância de mais de trinta léguas da Marinha, 
+do que devia dar fiança na Contadoria da Real Fazenda, como também que devia pagar o foro 
+vencido de 4 anos que na dita terra entrou a cultivar e plantar: Ultimamente mandamos por 
+despacho de 24 de março do sobredito ano que se passasse carta de sesmaria na forma da resposta 
+
+do doutor procurador da Coroa e Contadoria da Real Fazenda: Em cumprimento do qual e pela 
+faculdade que Sua Alteza Real permite no Capítulo 15 do Regimento deste Governo. Houvemos 
+por bem dar em  nome do mesmo Augusto Senhor ao referido Manoel dos Santos de Oliveira, 
+uma légua de terra em quadra entre Ipojuca e Capibaribe, e pegando da barra do riacho Molungu 
+para o riacho da Tubiba, sendo a largura da dita barra para o dito rio aos fundos para a banda da 
+Serra Verde, na forma confrontada em seu requerimento, pagando o foro anual de 4 mil réis pela 
+referida légua de terra, visto estar na distância de mais de trinta léguas da Marinha, que determina 
+a Real Ordem de 28 de setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus 
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo o sempre, com 
+todas as suas pertenças, matos, campos, rios, águas, testadas, logradouros e mais úteis que ela 
+compreender, não prejudicando a terceiro e não passará a dita terra a religiões e pessoas 
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, sendo 
+obrigado a dar ao Conselho caminhos livres para fontes, pontes, pedreiras e requerer dentro de 3 
+anos confirmação, medição, demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia 
+de 20 de outubro de 1753, e não o cumprindo assim, se dar por devoluta e novamente ser 
+conferida a quem a requerer, com condição de não demolir árvores de pau-brasil e outras 
+madeiras que sirvam para construção das embarcações reais, quando as hajam, como também 
+com condição que a dita terra nunca se dividirá em porções, nem repartirá, senão por estimação, 
+andando encabeçada em uma só pessoa na forma da Ordenação Livro 4º título 96 § 23, sendo 
+obrigada a pessoa que suceder na dita terra por morte ou outro qualquer título do primeiro 
+possuidor a vir aprezentar-se na Junta da Real Fazenda desta capitania, para se fazerem os 
+devidos assentos, debaixo da pena de que não executando assim, ficará a dita terra devoluta para 
+se conferir a quem a requerer. Pelo que ordenamos aos ministros da Fazenda e Justiça e mais 
+pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria, como 
+nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada, 
+debaixo das cláusulas referidas e das mais da Ordenação Título das Sesmarias, visto constar por 
+bilhete que apresentou, achar-se dado a fiança ao foro anual de 4 mil réis pela referida légua de 
+terras na Contadoria da Real Fazenda a folha 34 do Livro 5º delas, como também ter pago 
+dezesseis mil réis do foro de quatro anos vencidos em 31 de dezembro de 1800, os quais se 
+carregarão a folha 11 do Livro da Receita das Adições da Real Fazenda do tesoureiro interino 
+delas [Fan.o Pr.r do o]. Em firmeza do que lhe mandamos passar a presente por nós assinada e 
+selada com o selo das armas reais que se registrará na Secretaria deste Governo e Contadoria da 
+Real Fazenda. José Bernardes Quintela, oficial maior da Secretaria do Governo, a fez em o Recife 
+
+de Pernambuco aos 20 de abril. Ano do Nascimento de Nosso Senhor Jesus Cristo de 1801. 
+Manoel da Cunha de Azevedo Coutinho Garcia Chichorro = José Joaquim Nabuco de Araújo. 
+- Fim da carta - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 63-64. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

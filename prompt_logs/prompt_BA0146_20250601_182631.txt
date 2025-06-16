@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0146
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Maria Carvalha Ermitoa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "05-11-1629",
+  "Observações da sesmaria": "A sesmaria era um conjunto de casas e terrenos dentro da cidade de Vila Velha, próximo à igreja. Não foram dadas mais informações sobre as teras.",
+  "Localidade": "Vila Velha",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que era possuidora das terras, mas que com a invasão da cidade, perdeu os papeis; Alegou ser viúva e que tinha que cuidar de cinco filhas.",
+  "Observações das exigências": "Determinou-se que não poderia vender a terra.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0146"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro da carta de sesmaria de Maria Carvalha Ermitoa de Santo Antônio de Vila Velha 
+registrada em 6 de dezembro de 1629 
+Diz Maria Carvalha Ermitoa de Santo Antônio de Vila Velha que ela e seu marido, defunto, 
+foram os primeiros ermitães daquela casa que havia anos está com pouco princípio, e eles com 
+suas ajudas e dos devotos a puseram no estado em que está, e assim fizeram mais ao longo da 
+igreja umas casas para eles viverem, e com a tomada desta cidade se lhes perderam os seus 
+papeis, e porque ela é velha e tem uma filha viúva pobre com 5 filhos, pede a Vossa Senhoria 
+em nome de Sua Majestade lhe faça mercê e doação das ditas suas casas e terras decentes a elas 
+para dar a dita sua filha Isabel Carvalha. E receberá mercê.  
+Despacho do Senhor Governador Geral  
+Passe carta de sesmaria na forma que pede a suplicante, não prejudicando a terceiro. Bahia, 5 
+de novembro de 1629. O governador. 
+Carta de sesmaria  
+Saibam quantos este instrumento de carta de sesmaria virem que o ano do nascimento de nosso 
+Senhor Jesus Cristo de 1629 anos aos 5 dias do mês de novembro na cidade do Salvador, Bahia 
+de Todos os Santos, partes do Brasil e pousadas de mim, tabelião por parte de Maria Carvalha 
+Ermitoa de Santo Antônio de Vila Velha me foi dado uma petição com um despacho nela do 
+senhor Diogo Luiz de Oliveira, capitão e governador geral de todo este Estado do Brasil da qual 
+petição e despacho o traslado é o seguinte: Diz Maria Carvalha Ermitoa de Santo Antônio de 
+Vila Velha que ela e seu marido, defunto, foram os primeiros ermitães daquela Casa que havia 
+anos estava com pouco principio, e eles com suas esmolas e ajudas dos devotos o puzeram no 
+estado em que está e assim fizeram mais ao longo da igreja umas casas para eles viverem, e 
+com a tomada desta cidade se lhes perderam os seus papeis, e porque ela é velha e tem uma 
+filha viúva pobre com 5 filhos, pede a Vossa Senhoria em nome de Sua Majestade lhe faça 
+mercê e doação das ditas suas casas e terras decentes a elas para dar a dita sua filha Isabel 
+Carvalha. E receberá mercê. Despacho. Passe carta de sesmaria na forma que pede a suplicante, 
+não prejudicando a terceiro. Bahia, 5 de novembro de 1629. O governador. Traslado do 
+regimento de El-Rei, Nosso Senhor. As terras e águas das ribeiras que estiverem dentro no 
+termo e limite da dita cidade que são 6 léguas para cada parte que não forem dadas as pessoas 
+que as aproveitem e estiverem vagas e devolutas para mim por qualquer outra via ou modo que 
+seja, podereis dar de sesmaria as pessoas que as pedirem as quais terras assim dareis livremente 
+sem foro nem tributo algum, somente o dízimo a Ordem de Nosso Senhor Jesus Cristo e com 
+as condições e obrigações do foral dado as ditas terras e de minha ordenação, título das 
+sesmarias com condição que a tal pessoa, ou pessoas, residam na povoação da dita Bahia ou 
+das terras que assim lhe forem dadas ao menos 3 anos e que dentro no dito tempo as não possam 
+vender nem alhear, e tereis lembrança que não deis a cada pessoa mais terras que aquela que 
+segundo sua possibilidade virdes ou vos possa parecer que pode aproveitar ele algumas pessoas 
+e que foram dado terras no dito termo as tiverem perdidas por as não aproveitarem, e as 
+tornearem a pedir vós lhes dareis de novo para as aproveitarem com as condições e obrigações 
+contidas neste capitulo o qual se trasladará nas cartas das ditas sesmarias com as tais condições 
+e obrigações de o dito senhor governador a suplicante de sesmaria as dirás suas cartas e chão 
+decentes a elas na forma de sua petição e pelas confrontações dela sem prejudicar a terceiro, 
+tudo forro e isento sem foro nem tributo algum, somente o dizimo a ordem de Nosso Senhor 
+Jesus Cristo de que lhe mandou passar sua carta de sesmaria pela qual manda que ela haja posse 
+
+e senhorio de tudo, e fará registrar esta carta nos livros da Fazenda de Sua Majestade dentro de 
+um ano, e assinou aqui o dito senhor governador, e eu // Brás da Costa // escrivão das sesmarias 
+o escrevi. // Diogo Luiz de Oliveira // O qual instrumento de carta de sesmaria, eu, // Brás da 
+Costa // escrivão das ditas datas de sesmaria nesta dita cidade e seus termos por Sua Majestade 
+em meu livro de sesmaria tomei, e dele este fiz passar e o concertei, e assinei de meu público 
+sinal // Diogo Luiz de Oliveira // Registre-se no livro das sesmarias // Soares // A qual carta de 
+sesmaria aqui registrei da própria a que me reporto, a qual tornei parte. Bahia, 6 de dezembro 
+de 1629 // Pedro Viegas Giraldes //. 
+ 
+Referências: 
+DHBN, vol. 15, Pg. 338 - 341 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

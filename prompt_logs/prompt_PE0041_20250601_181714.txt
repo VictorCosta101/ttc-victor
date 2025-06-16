@@ -1,0 +1,109 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0041
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0086",
+  "Nome": "João Ribeiro Paes, Manuel de Araújo de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "22-09-1723",
+  "Data da concessão": "19-12-1723",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de terras começando do oeste do rio da serra Passira Mirim e confrontando com parte do rio Camaragibe.",
+  "Localidade": "Serra Passira Mirim e rio Camaragibe.",
+  "Marcos Geográficos": "Serra Passira Mirim e rio Camaragibe.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Não tinha terras; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que não se passasse para religiosos; Mandou-se pagar o dízimo; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I,. sem constar os detalhes do parecer final.",
+  "Observações das exigências": "A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I,. sem constar os detalhes do parecer final.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0041"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0041
+Carta de doação e sesmaria de Manuel de Araújo de Carvalho e João Ribeiro Paes -
+CARTA DE DOAÇÃO DE SESMARIA, QUE SE PASSOU EM [19 DE DEZEMBRO DE
+1723], EM NOME DE SUA MAJESTADE AO CORONEL MANUEL DE ARAÚJO DE
+CARVALHO E A JOÃO RIBEIRO PAES, DE DUAS LÉGUAS DE TERRA EM QUADRO
+NAS PARTES E LUGARES NELE DECLARADAS.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general e etc.
+Faço saber aos que esta carta de doação de sesmaria virem, que o coronel Manuel de Araújo de
+Carvalho e João Ribeiro Paes, que eles tem, digo, me apresentaram a petição cujo teor é o seguinte:
+Senhor. Dizem o coronel Manuel de Araújo de Carvalho e João Ribeiro Paes, que eles tem notícia
+[de] haver terra devoluta e desaproveitada ao pé da serra Passira Mirim, da parte do poente,
+vertentes da serra correndo para o poente, e porque os suplicantes tem seus gados e precisam de
+terra para os situar, o que é em utilidade dos vassalos de Sua Majestade, que Deus guarde, e dos
+dízimos reais; pede a Vossa Senhoria lhes faça mercê mandar passar carta de sesmaria de duas
+léguas de terra em quadro, começando das vertentes da dita serra para o poente, confrontando da
+parte do Camaragibe com os éreos que se acharem, uma légua de terra em quadro para cada um, e
+que não achando terra na largura, se possam encher no comprimento. E receberá mercê. = Despacho
+– Informe o provedor da Fazenda Real, ouvindo o doutor procurador da Coroa e Fazenda Real.
+Recife, 22 de setembro de 1723. “Barros”. Não tenho dúvida, sendo a data na forma da Ordenação
+Livro 4.º título 43, e pagando o foro assentado em junta. Recife, 22 de setembro de 1723. – Pereira
+– Senhor governador e capitão general. Responde o doutor procurador da Coroa, a quem Vossa
+Senhoria me mandou ouvir, o que se lhe não oferece dúvida na data, na forma da Ordenação Livro
+4.º título 43, pagando-se na forma que Sua Majestade, que Deus guarde, foi servido declarar por
+carta de 20 de janeiro do ano de 1699, o foro conforme o assento da Junta; e que nas datas de
+sesmarias, além das obrigações de pagar dízimos a ordem de Cristo e as mais costumadas, se
+opunha a de um foro segundo a grandeza da terra, e que estas convenientes aos seu real serviço, se
+não deem e fiquem para sua Real Fazenda, e que não passam as ditas terras a religiosos por nenhum
+título, e sucedendo pagarão dízimos como se fossem possuídas por seculares, e pagarão também o
+foro de quatro mil réis por légua, como está determinado: se me não oferece dúvida; Vossa Senhoria
+mandará, porém, o que lhe parecer mais conveniente ao serviço de Sua Majestade, como costuma.
+Recife, 23 de setembro de 1723. = João de Rego Barros = E havendo respeito ao que Sua Majestade
+me ordena no capítulo 15 do regimento deste Governo e tudo o mais que o dito senhor determina
+em suas reais ordens nesse particular. Hei por bem fazer-lhe mercê de dar em nome de Sua
+Majestade [...].
+- Fim da carta -
+
+Observação:
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I,. sem
+constar os detalhes do parecer final.
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 275 - 276.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

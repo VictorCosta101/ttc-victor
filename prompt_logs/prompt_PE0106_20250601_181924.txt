@@ -1,0 +1,142 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0106
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0163",
+  "Nome": "Luís Ferreira de Morais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "12-12-1774",
+  "Data da concessão": "03-07-1775",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e três léguas de largura no termo da vila de Sirinháem, no riacho do Pereira, nas fronteira das terras de Antônio Teixeira Galvão, a leste, e ao norte até as terras de Manuel Cláudio Lino. ",
+  "Localidade": "Vila de Sirinháem",
+  "Marcos Geográficos": "Riacho do Pereira",
+  "Confrontantes": "Antônio Teixeira Galvão; Manuel Cláudio Lino",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ser filho de Luiz da Silveira Pimentel, capitão do Terço dos Palmares, e devido o pai ter falecido antes de ter alcançado a sesmaria que havia requerido, como mercê em retribuição dos seus serviços, o dito suplicante requereu-a para si. ",
+  "Observações das exigências": "O governador José César de Meneses determinou que o suplicante requeresse a confirmação régia no tempo de três anos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0106"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0106
+Carta de doação e sesmaria de Luiz Ferreira de Moraes - 03/07/1775
+Luiz Ferreira de Moraes com três léguas de terra no riacho chamado do Pereira.
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que
+esta carta de doação de sesmaria virem, que Luiz Ferreira de Morais me enviou a dizer por
+sua petição o seguinte: Ilustríssimo e Excelentíssimo Senhor — Diz Luiz Ferreira de
+Moraes, que Sua Majestade Fidelíssima foi servido para a continuação da guerra dos
+Palmares mandar-se formasse um terço da gente que o mestre de campo dos Paulistas,
+Domingos Jorge Velho, trazia em sua companhia em o qual foi provido por um dos
+capitães do dito terço, Luiz da Silveira Pimentel, em atenção aos serviços que este havia
+feito como se fez ver da Patente Real junta, e sendo com efeito conquistado o gentio e
+restauradas as terras dos Palmares, mandou Sua Majestade se repartissem estas terras
+pelos oficiais e soldados da sua conquista, dando-se a cada capitão três léguas em quadro
+com a preferência e circunstâncias que se fazem ver do segundo documento junto,
+extraído do Livro 5 de Registro das Ordens Régias desta Secretaria, e porque o dito
+capitão Luiz da Silveira Pimentel faleceu logo, sem se utilizar daquela graça concedida ao
+suplicante, compete requerê-la como seu filho legítimo e herdeiro loteado, como se
+manifesta do terceiro documento; nestes termos recorre a Vossa Excelência, para que
+atendendo ao referido, se digne mandar-lhe passar carta de sesmaria das ditas três léguas
+de terra em quadro, como determina a dita Real Ordem, como se tem praticado com os
+sucessores de outros que na mesma guerra militaram, o que com verdade há de constar dos
+Livros de Sesmarias desta Secretaria; e por ser notório, se acham daquelas mesmas terras
+que Sua Majestade Fidelíssima manda, se repartam muitas devolutas e desertas na Vila de
+Serinhaém, quer o suplicante as que pretende no lugar chamado Riacho do Pereira,
+pegando na testada das terras de Antônio Teixeira Galvão, da parte do leste, buscando
+direito de oeste até inteirar no comprimento as referidas três léguas e a quadra delas
+pegará do mesmo riacho para o norte até topar com terras do capitão Manoel Cláudio Lino,
+e a que faltar para inteirar será do mesmo riacho para o sul, onde o suplicante se pode
+
+completar sem prejuízo de terceiro. Pede a Vossa Excelência seja servido mandar que a
+Câmara daquele continente mande fixar editais que estejam o tempo do estilo, e constando
+por certidão do oficial daquela diligência não haver terceiro prejudicado, lhe mande Vossa
+Excelência passar a dita carta de sesmaria, pagando o suplicante o produto desta sem mais
+pensão nem foro algum, o que assim se emende na dita Real Ordem, pois sendo as ditas
+terras como com efeito são para se fundar engenhos forçosamente, resulta a Sua Majestade
+aumentos nos dízimos e o mais que costumam pagar; E receberá mercê = E visto o seu
+requerimento, ordenei por despacho meu de 12 de dezembro do ano próximo pretérito, aos
+oficiais da Câmara do respectivo distrito, mandassem fixar editais para se saber ao certo
+estar ou não devoluta a dita terra, e haver ou não terceiros prejudicados, e constando-me
+por informação dos ditos oficiais que assim mandaram executar, que não houve pessoa
+alguma que aos ditos editais saísse, por outro meu despacho da data de 3 do mês de junho
+do corrente ano; mandei ouvir ao contador e mais oficiais da Contadoria da Real Fazenda,
+e como todos uniforme me responderão estar nos termos de se dar ao suplicante a
+sesmaria pedida, visto mostrar-se habilitado herdeiro do capitão que foi do terço dos
+Paulistas Luiz da Silveira Pimentel, ultimamente mandei por meu despacho de 28 do
+mesmo mês, assim se executasse em cumprimento do qual e em observância da graça
+concedida por Sua Majestade aos restauradores dos Palmares, pela sua real ordem de 28
+de janeiro de 1698, pela faculdade que o mesmo senhor me permite no Capítulo 15 do
+Regimento deste Governo. Hei por bem dar em nome do dito senhor ao sobredito Luiz
+Ferreira de Moraes as três léguas de terra em quadro, na forma da Real Ordem acima
+indicada de 28 de janeiro de 1698, conforme a graça nela conferida no lugar pedido e
+confrontado no seu mesmo requerimento, cuja terra possuirá e gozará ele suplicante e seus
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo sempre,
+com todos os seus pertences, matas, campos, águas, rios, fontes, pontes, testadas,
+logradouros e mais úteis, que ela compreender, não prejudicando a terceiro, e não passará
+a dita a religiões e pessoas eclesiásticas, salvo for com os mesmos encargos com que as
+possuem os seculares, digo, com que as possuem os sesmeiros, sendo obrigado a dar ao
+Conselho caminhos livres para fontes, pontes e pedreiras, e requerer dentro de três anos
+confirmação real, medição e demarcação, povoá-la e demarcá-la, digo, povoá-la e cultivá-
+la, tudo na conformidade da Ordem Régia de 20 de outubro de 1753, e assim não se dar
+
+por devoluta e novamente ser conferida a quem a requerer. Pelo que ordeno ao ministros
+da Fazenda e Justiça e mais pessoas a quem tocar cumpram, façam cumprir e guardar esta
+data de sesmaria como nela se contém, fazendo dar ao suplicante posse real, efetiva e atual,
+na forma costumada, debaixo das cláusulas referidas e das mais da Ordenação títulos de
+sesmarias. Em firmeza do que lhe mandei passar a presente por mim assinada e selada
+com o sinete das minhas armas, que se registrará na Secretaria deste Governo e
+Contadoria da Real Fazenda. — Dada no Recife de Pernambuco, aos 3 dias do mês de
+julho = Diogo Velho Cardoso, oficial maior da Secretaria do Governo, a fez. — Ano do
+Nascimento de Nosso Senhor Jesus Cristo de 1775 - - O secretário do Governo, Manuel
+de Carvalho Paes de Andrade, a fez escrever — José Cesar de Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+228 - 231.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

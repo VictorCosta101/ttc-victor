@@ -1,0 +1,99 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0241
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0314",
+  "Nome": "Luís de Andrade Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "14-05-1785",
+  "Observações da sesmaria": "O suplicante requereu duas mil braças de comprimento e duas mil braças de largura na freguesia de São Lourenço da Mata, por detrás dos engenhos Cayará, Camorim, Maiçope e Água Fria, ao sul, e com as terras pertencentes as propriedades de Igrassutinga, Iguarassupitinga, e o engenho Aguiar, ao norte. ",
+  "Localidade": "Freguesia de São Lourenço da Mata",
+  "Confrontantes": "Engenhos Cayará, Camorim, Maiçope, Água Fria, Igrassutinga, Iguarassupitinga e Aguiar",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0241"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0241 
+ 
+Carta de concessão de Luís de Andrade Lima de 14/05/1785 
+ 
+Sesmaria de 2000 braças de terra em quadra, na freguesia de São Lourenço da Mata, por 
+detrás dos engenhos Cayará, Camorim, Maiçope e Água Fria da parte do sul, e do norte 
+com as terras pertencentes as propriedades de Igrassutinga, Iguarassupitinga, e o engenho 
+Aguiar, concedida em 14 de maio de 1785 a Luís de Andrade Lima e seus herdeiros 
+ascendentes e descendentes, pelo capitão general José César de Menezes, com o foro 
+anual de 6 mil réis por légua, como determina a citada real ordem; a qual não poderá 
+passar a religiões ou outras pessoas eclesiásticas, salvo com os mesmos encargos, e nem 
+ser dividida, como dispõe a citada ordenação. Com cópia no livro 7º folha 119. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.pp.82-83. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

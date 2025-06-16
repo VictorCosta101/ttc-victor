@@ -1,0 +1,150 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0050
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0218",
+  "Nome": "Antônio Felipe Soares de Andrade de Brederode",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-02-1812",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na comarca das Alagoas nos sítios denominados de Mato Grosso, Macujé, Jussurá, localizados entre os Rios da Saúde, e Sapucaí.",
+  "Localidade": "Comarca das Alagoas",
+  "Marcos Geográficos": "Mato Grosso, Macujé, Jussurá, Rio da Saúde, Rio Sapucaí.",
+  "Justificativas": "Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0050"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0024 
+ 
+Carta de concessão de Antônio Felipe Soares de Andrade de Brederode de 26/02/1812 
+ 
+Antônio Felipe Soares de Andrade de Brederode com uma légua de terra em quadro no 
+lugar de Mato Grosso do termo da comarca das Alagoas 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho do príncipe regente nosso senhor e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de data de sesmaria virem, 
+que Antônio Felipe Soares de Andrade de Brederode me fez o requerimento do teor 
+seguinte = Ilustríssimo e excelentíssimo senhor = Diz Antônio Felipe Soares de Andrade 
+de Brederode que na comarca das Alagoas existem uns sítios denominados dos Mato 
+Grosso, Macujé, Jussurá, entre os rios da Saúde, e Sapucahi, os quais já foram habilitados, 
+e se acham presentemente abandonados dos moradores, devolutos e desaproveitados; e 
+por que sabe pertencentes a Real Fazenda, o suplicante para as poder cultivar pretende se 
+lhe conceda ali sesmaria de uma légua quadrada na qual fiquem inclusos os ditos sítios 
+portanto pede a V. Ex.ª se digne mandar proceder as diligências, do estilo para lhe 
+conceder a sesmaria = E receberá mercê = E sendo visto seu requerimento ordenei pos 
+despacho de 5 de fevereiro de 1811, que informasse o desembargador juiz conservador 
+das Matas Reais, e informado este que não haviam nas ditas terras pau-brasil, nem 
+madeiras de construção, e das que se mandavam reservar para o Arsenal Real, por 
+despacho dele de setembro do dito ano ordenei a câmara do distrito que mandasse afixar 
+os editais do estilo por tempo de trinta dias para se saber se haviam terceiros prejudicados, 
+e informando-me a dita câmara, que ninguém se opusera, mandei por despacho de 10 de 
+janeiro de 1812, que informasse o escrivão deputado da Junta da Real Fazenda e também 
+o doutor procurador da mesma Fazenda por outro despacho de 13 do referido mês e ano, 
+e como ambos informaram que se podiam dar de sesmaria ao suplicantes as terras 
+contempladas em seu requerimento, mandei ultimamente por despacho de 6 de Fevereiro 
+do presente ano, que se passasse carta de sesmaria, e portanto: Hei por bem dar em nome 
+de Sua Alteza Real o príncipe regente nosso senhor ao dito Antônio Felipe Soares de 
+Andrade de Brederode de uma légua de terra em quadra nos sítios mencionados em seu 
+requerimento, devendo na forma requerida pelo doutor procurador da Coroa, fazer pião 
+no lugar de Mato Grosso com meia légua para cada lado, se não compreender terras que 
+tenham madeiras de construção, pagando o foro anual de seis mil réis de que deu fiança 
+na Contadoria da Real Fazenda a folhas 129 do Livro 6.º delas; a qual sesmaria possuirá, 
+e gozará ele suplicante e seus herdeiros, ascendentes e descendentes, com sua que fica 
+sendo de hoje para todo sempre, como todas as matas, campos, rios, águas, testadas, 
+logradouros, e mais úteis, que nela compreender, não prejudicando a terceiro e não 
+passará a dita a religião, e pessoas eclesiásticas, salvo sendo com os mesmo encargos, 
+com que as possuem os seculares, nunca se dividirá em porções, nem se partirá se não 
+por estimação, andando encabeçada em uma só pessoa na forma da Ordenação do livro 
+4.º título 96 parágrafo 23, e assim não passará a referida terra a herdeiros ou qual quer 
+pessoa sem consentimento da Junta da Real Fazenda, para nela se darem novas fianças, e 
+se fazerem as devidas escriturações, sendo tão bem obrigado a dar ao conselho caminhos 
+livres para ponte, fontes e pedreiras e requerer e requerer dentro de três anos confirmação, 
+medição e demarcação, povoá-la, e cultivá-la na conformidade da ordem régia de 20 de 
+outubro de 1753 e alvará de 25 de janeiro de 1809 e não cumprindo assim se haverá por 
+
+devoluta, e novamente se conferirá a quem a requerer. Pelo que mando aos ministros da 
+Fazenda, e Justiça. e mais pessoas a quem tocar, cumpram e façam cumprir, e guardar 
+esta carta de data de sesmaria, como nela se contém, fazendo dar ao suplicante posse real, 
+efetiva e atual na forma costumada, debaixo das cláusulas referidas, e das mais da 
+Ordenação título das sesmarias, visto constas por bilhete achar-se dada a fiança. Em 
+firmeza do referido lhe mandei passar a presente por mim assinada e selada com o sinete 
+das minhas armas, a qual se registrará na secretaria deste Governo, na da Junta da Real 
+Fazenda, e aonde mais tocar. Manuel Freire Mariz oficial maior da Secretaria a fez em o 
+Recife de Pernambuco aos 26 de fevereiro de 1812/. José Carlos Mairink da Silva Ferrão 
+secretário do Governo a fiz escrever = Caetano Pinto de Miranda Montenegro = Carta de 
+data de sesmaria pela qual V. Ex.ª há por bem dar a Antônio Felipe Soares de Andrade de 
+Brederode em nome de Sua Alteza Real uma légua de terra em quadra no lugar de Mato 
+Grosso do termo da comarca da vila das Alagoas como foro anual de seis mil réis para V. 
+Ex.ª ver = Por despacho do ilustríssimo e excelentíssimo senhor general de 6 de Fevereiro 
+de 1812/. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, 118-119. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

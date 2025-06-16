@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0285
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Rodrigues Alcântara, Tomé de Souto Gonzaga",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "27-06-1724",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio Iguaçu",
+  "Ribeira": "Iguaçu",
+  "Confrontantes": "Terras que pediu Francisco Barbosa Barreto, terras de Manuel Correa",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0285"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0285
+Carta de concessão de Tomé de Souto Gonzaga e Manuel Rodrigues Alcântara de 27 de junho
+de 1724.
+Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de Sua
+Majestade, que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro,
+São Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor
+da dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que
+Deus guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representarem-me por
+sua petição Thomé de Souto Gonzaga e Manuel Rodrigues Alcântara, que eles se achavam
+com bastantes escravos para cultivar (ilegível) 1 légua de terras que se acham devolutas no rio
+de Aguassû, de onde acabam as que pediu Francisco Barbosa Barreto, fazendo testada pelo
+(ilegível) sertão (ilegível) as terras de Manuel Corrêa de Marques, partindo (ilegível)
+Francisco se achava, e da outra com quem direito for, pedindo-me
+lhe mandasse dar de
+sesmaria para repartir entre ambos a dita (ilegível), e dando-se vista deste requerimento ao
+provedor da Fazenda Real e ao procurador da Coroa, aos quais se não se ofereceu dúvidas.
+Hei por bem fazer mercê de dar de sesmaria, em nome de Sua Majestade, que Deus guarde,
+aos ditos Tomé de Souto Gonzaga e Manuel Rodrigues Alcântara das referidas terras
+(ilegível); não excedendo, porém, uma légua em quadra na forma das Ordens do mesmo
+Senhor; sem prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas; com
+declaração que as cultivarão e mandarão confirmar esta minha carta por Sua Majestade, que
+Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo. Pelo que mando
+ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê (ilegível) Tomé de
+Souto Gonzaga e Manuel Rodrigues Alcântara das referidas terras na forma (ilegível) governo
+e nas mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro aos 27 dias do
+mês de junho de 1724. O secretário José Ferreira da Fonte (ilegível).
+//Aires de Saldanha de Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria faz por bem fazer mercê a Tomé de Souto Gonzaga e Manuel
+Rodrigues Alcântara (ilegível).
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+182. Rio, 27 de junho de 17(24).
+//José Ferreira da Fonte//
+Cumpra-se e registra-se nos Livros da Fazenda Real. Rio, 8 de (ilegível).
+//Cordovil//
+
+Registrada no Livro 21 dos registros da Fazenda Real a folha 188. Rio, 10 de julho de 1724.
+//José Leitão//
+Lançada no Livro da nota atual que serve neste Cartório de sesmarias a folha 133. Rio de
+Janeiro, 11 de julho de 1724.
+//Pedro de Matos//
+Reconheço a firma das (ilegível) atrás de (ilegível) a mão do governador desta praça Aires de
+Saldanha de Albuquerque (ilegível)
+-Fim da Transcrição-
+Observação do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Tomé do Souto Gonzaga e a Manuel Rodrigues Alcântara uma légua de terras n’uma das
+margens do rio Aguassû, com as confrontações indicadas na mesma carta. Rio de Janeiro, 27
+de junho de 1724.
+Referência:
+AHU_ACL_CU_017-01, Cx. 23, D. 5193
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

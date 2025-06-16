@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0038
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0187",
+  "Nome": "Narciso Xavier Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-12-1793",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia do Camaragibe, termo da vila de Porto Calvo, ao longo do rio do Passo Corado.",
+  "Localidade": "Freguesia de Camaragibe",
+  "Marcos Geográficos": "Rio do Passo Corado",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0038"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0012
+Carta de doação e sesmaria de Narciso Xavier Pereira - 20/12/1793
+Narcizo Xavier Pereira, com meia légua de terra em quadra no riacho do Passo Cortado, da
+parte do norte, na freguesia de Camaragibe, termo da vila de Porto Calvo.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, chefe de divisão da Armada Real, governador e capitão-general de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que Narciso Xavier Pereira me fez um requerimento do teor e maneira seguinte:
+= Ilustríssimo e Excelentíssimo Senhor. Diz Narciso Xavier Pereira, morador no Porto Calvo, que
+naquele termo há bastantes terras devolutas e desaproveitadas, principalmente na freguesia de
+Camaragibe, no riacho do Passo Cortado, onde o suplicante quer que Vossa Excelência em nome
+de Sua Majestade lhe dê por sesmaria uma légua de terra de comprido do dito riacho por ele
+acima e outra de largo, meia para cada parte do dito riacho, fazendo pião de cumprimento na
+Cachoeira do Botelho, cuja sesmaria quer o suplicante para povoar e cultivar, pagando o foro do
+estilo, prestando o suplicante a precisa fiança, cujas terras partem por todos os lados com terras
+do Patrimônio Real = Pede a Vossa Excelência seja servido mandar que a Câmara respectiva faça
+fixar editais na forma do estilo, e não tendo embaraço, passar-lhe a sua carta de sesmaria na
+forma requerida. E receberá mercê. E sendo por mim visto o seu requerimento, ordenei por
+despacho meu de 28 de agosto de 1792, aos oficiais da Câmara do respectivo distrito mandassem
+fixar editais na respectiva freguesia para se saber ao certo estar ou não devoluta a mesma e haver
+ou não terceiro prejudicado, e constando-me por informação dos ditos oficiais que assim o
+mandaram executar, não haver pessoa alguma que aos ditos editais saísse, por outro meu
+despacho da Receita e Despesa e assim mais responder o doutor procurador da Fazenda e Coroa,
+por outro de 15 do referido mês e ano, como todos uniformemente me responderam estar nos
+termos de se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em seu
+requerimento, pagando anualmente o foro a razão de 6 mil réis por légua, por ser das que estão
+mais próximas a Marinha; ultimamente mandei por despacho de 9 de agosto de 1793 que se
+passasse sesmaria na forma da resposta do doutor procurador da Fazenda e Coroa e escrivão da
+Receita e Despesa. Em cumprimento do qual e pela faculdade que Sua Majestade me permite no
+Capítulo 15 do Regimento deste Governo: Hei por bem dar em nome da dita Senhora ao dito
+Narciso Xavier Pereira de sesmaria no riacho do Passo Cortado, na freguesia de Camaragibe,
+termo da Vila de Porto Calvo, meia légua de terra em quadro da parte do norte do dito riacho do
+Passo Cortado, na forma confrontada em seu requerimento, pagando o foro anual de 6 mil réis,
+
+visto ser mais próximas a Marinha, que determina a Real Ordem de 28 de setembro de 1700; a
+qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua
+que fica sendo de hoje para todo o sempre, com todas as suas pertenças, matas, campos, águas,
+rios, testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiro, e não
+passará a dita a religiões e pessoas eclesiásticas, salvo sendo com os mesmos encargos com que
+as possuem os seculares; sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes,
+pedreiras e requerer dentro de três anos confirmação, medição, demarcação, povoá-la e cultivá-la
+na conformidade da Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim se dar por
+devoluta e novamente ser conferida a quem a requerer; com mais a condição que a dita terra,
+segundo a natureza dos bens foreiros, como determina a Ordenação do Livro 4º Título 96 § 23; e
+de quenão derrubará, antes conservará as árvores de sucupira, amarelo e pau-brasil, por ficarem
+reservadas para a real serviço; e não traspassará a herdeiros ou outra qualquer pessoa a dita terra
+sem concessão da Junta da Fazenda Real, para nela se dar nova fiança e fazerem as devidas
+escriturações. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo
+dar ao suplicante posse real, efetiva e atual, na forma costumada, debaixo das cláusulas referidas
+e das mais da Ordenação Título das Sesmarias; e visto constar por bilhete que apresentou
+achar-se dada a fiança ao foro anual de 6 mil réis na Contadoria da Real Fazenda, a folha 45 do
+Livro 4º delas. Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real
+Fazenda. José Fernandes Quintela, segundo oficial da Secretaria do Governo, a fez em o Recife
+de Pernambuco, aos 20 dias de dezembro. Ano do Nascimento de Nosso Senhor Jesus Cristo de
+1793. Dom Antonio Pio de Lucena de Castro, secretário do Governo, a fez escrever = Dom
+Thomas José de Melo.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 39-40.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

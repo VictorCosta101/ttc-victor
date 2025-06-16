@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0010
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco Peres de Almeida, Manuel de Almeida (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-03-1673",
+  "Observações da sesmaria": "Os suplicantes requereram pedaços de terras que nunca foram cultivados nem povoados, nas ribeiras de Francisco Dias d'Ávila, entre os rios Tibau, Saguipe e Sabaúna, possuindo cinco léguas de comprimento e três de largura, fazendo fronteiras com as terras do mestre de campo Antônio Guedes de Brito.  Na sesmaria consta que ela ficava localizada nas ribeiras de Francisco Dias d'Ávila, no entanto, optou-se por colocar \"ribeira do Rio São Francisco\" no campo \"Ribeira\".",
+  "Localidade": "Ribeiras de Francisco Dias d'Ávila",
+  "Marcos Geográficos": "Rio Tibau; rio Saguipe e rio Sabaúna",
+  "Ribeira": "do Rio São Francisco",
+  "Confrontantes": "Antônio Guedes de Brito",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Era descobridor(a) das terras; Pretendia criar gado; Pretendia povoar as terras com dispêndio de sua fazenda; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda, Antônio Lopes Ulhôa, afirmou que conhecia os suplicantes e que eles possuíam grande cabedal para poderem povoar as terras solicitadas.",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes Ulhôa ",
+  "referencia": "BA0010"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma carta de sesmaria do capitão Manuel de Almeida e Francisco Peres de Almeida. 
+Afonso Furtado de Castro do Rio de Mendonça do conselho de guerra de sua Alteza, governador 
+e capitão general de mar e terra do Estado do Brasil. Faço saber aos que este alvará  de doação 
+e sesmaria virem que o capitão Manoel de Almeida e o capitão Francisco Peres de Almeida me 
+representaram por sua petição cujo teor é o seguinte: senhor, diz o capitão Manoel de Almeida 
+que nas ribeiras de Francisco Dias de Avila, entre o rio chamado tibau, na grande Sergipe, estão 
+terras e pastos povoados que nunca foram cultivados nem descobertas se não por eles 
+suplicantes na qual paragem pedem, começando das labieiras e por entre os rios acima, cinco 
+léguas partido pela banda do rio Sabaúna com ele, o suplicante capitão Manoel de Almeida, e 
+pela banda do rio saguipe com terras de quem direito hajam de pertencer, e pela banda do sertão 
+com terras do mestre de campo Antônio Guedes de Brito com 3 léguas de largo entre os ditos 
+dois rios e povoando-os eles os suplicantes com gados [e] criações poderá ter a fazenda de sua 
+Alteza luiso a qual a sorte de terra de maneira confrontada pedem os suplicantes para ambos --
+---- ou partirem tanto um como outro pede a nossa senhoria que [lhes] dê ditas de sesmaria e da 
+maneira confrontada em sua petição, e por devoluta, por nunca serem povoadas nem cultivadas 
+de pessoa alguma com todos os campos, pastos e matas que dentro da dita terra houver. E 
+receberá mercê. Visto a informação do provedor-mor da Fazenda Real deste estado que é o 
+seguinte: Senhor, os suplicantes são pessoas as que conheço suas fazendas, particularmente a o 
+capitão Manoel de Almeida que tem grande cabedal em gado com que pode povoar as terras de 
+tractas. [No] caso, me parece que lhe podem conceder porque ainda que a ordem de sua Alteza 
+não da lugar a se concederem outra sesmaria em que uma légua me consta que não ter efetivo 
+por estar a dada, e assim não pode haver contradições do foral e ordenação de sua alteza, não 
+sendo em prejuízo de terceiro, vossa senhoria mandará ao que for servido. Bahia, 24 de março 
+de 1672 // Antônio Lopes Ulhôa // hei por bem de lhe conceder, como pelo presente faço em 
+nome de sua alteza, as 5 léguas de terra na forma que aparece ao provedor-mor da Fazenda Real 
+assim de maneira que pedem e confrontam em sua petição não prejudicando a terceiro, com 
+todas suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se acharem. Tudo 
+foro livre e isento de pensão ou tributo algum salvo o dizimo a Deus que pagará dos frutos que 
+nelas houver e por elas serão obrigados a dar-se caminhos livres ao conselho para fontes, pontes 
+e pedreiras e pediras com declaração que povoarão as ditas terras no termo da lei. Regimento 
+alias ficara devoluta para se dar a quem de novo a pedir, pelo que ordeno e mando a todos os 
+ministros e justiças a quem conhecimento desta com direito deca ou possa pertencer lhe 
+mandem dar posse real, efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas com mais da ordenação título das sesmarias para firmeza de que mandei passar a 
+presente sob meu sinal e selo de minhas armas a qual se registrará nos livros da secretaria do 
+estado nos mais a que tocar // Antônio Gouveia // a fez nesta cidade do Salvador, Bahia de todos 
+os santos aos 20 dias do mês de março, ano de 1673 // Bernardo Vieira Ravasco // a fez escrever 
+// Afonso de Castro do Rio de Mendonça // Registrada no segundo livro de registros da 
+secretaria do estado do Brasil a que toca folhas 149. Bahia, 21 de março de 1672 // Ravasco 
+//Registros nos livros da Fazenda a que toca. Bahia, 2 de maio de 1673 // de Ulhôa // Registrou-
+se no mesmo dia entornou ao capitão Manoel de Almeida // Miguel Pinto de Freitas //. 
+ 
+- Fim da Transcrição – 
+ 
+
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Manuel de Almeida” e 
+“Franscisco Pires de Almeida”. 
+ 
+Referências:  
+AN, Códice, fls. 15v – 16v. 
+Numeração original no livro: 14 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

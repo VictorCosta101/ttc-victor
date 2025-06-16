@@ -1,0 +1,137 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0143
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Luís Gomes de Bulhões, Manuel da Costa da Câmara",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-09-1673",
+  "Observações da sesmaria": "A sesmaria possuía seis léguas em quadra e estava localizada próxima a aldeia dos maracás, nas proximidades do rio Paraguaçu.",
+  "Localidade": "Aldeia dos Maracás",
+  "Marcos Geográficos": "Rio Paragaçu",
+  "Observações da petição": "Os sesmeiros solicitaram cinco léguas em quadra para cada um.",
+  "Justificativas": "Pretendia aumentar as rendas reais; Era descobridor(a) das terras com risco de vida por causa dos índios; Não tinha terras; Tinha cabedal; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador afirmou que não poderiam conceder aos suplicantes as léguas solicitadas, pois elas eram excessivas. O provedor afirmou que deveriam ser concedidas três léguas em quadra para cada um. O governador-geral concedeu as três léguas em quadra para cada um dos suplicantes.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0143"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Alvará de doação e sesmaria de três léguas de terra concedida ao Tenente General da Artilharia, 
+Luís Gomes de Bulhões, e ao capitão Manuel da Costa da Câmara a cada um na parte que a 
+pede. 
+Afonso Furtado de Castro do Rio de Mendonça do Conselho de Guerra de sua Alteza. Faço 
+saber aos que este alvará de doação e sesmaria virem que me enviaram a dizer por sua petição, 
+o Tenente general Luís Gomes de Bulhões e o capitão Manuel da Costa da Câmara, cujo teor é 
+o seguinte: Senhor dizem o Tenente General da Artilharia, Luís Gomes de Bulhões e o capitão 
+Manuel da Costa da Câmara, moradores nesta cidade da Bahia, que eles têm servido a Sua 
+Alteza nas guerras deste Estado, e estão fazendo atualmente, e são casados, com filhos, sem 
+lhes darem nunca terra alguma de sesmaria e porque irá nas que se descobriram no sertão que 
+ocupava o gentio bárbaro há muitas que eles, suplicantes podem lavar, e povoar de gados, e tem 
+cabedal para o fazer como é notório de que resultará aumento da Fazenda Real, e a está 
+República, pedem a Vossa Senhoria lhe faça mercê dar de sesmaria em nome de Sua Alteza, 
+cinco léguas em quadra a cada um deles, suplicantes na terra que fica das aldeias dos maracás 
+que ora se conquistaram para o poente, começando da banda do leste, onde principiar o campo, 
+e dali correndo para o poente da parte do norte, encostando na sesmaria que antes desta estiver 
+dada, e pela do sul com quem se achar o rio, e sendo caso que esteja dada a terra, assim 
+confrontado a pedem encostada nela, da parte que estiver por dar do nascente ou poente ou sul, 
+segundo melhor lhes estiver, e elegerem. E receberá mercê//: E vista a resposta do Procurador 
+da Coroa e Fazenda que é o seguinte. Por assim muitas léguas de terra os que pedem os 
+suplicantes, porque nem o Regimento, nem condição permitem tão largas sesmarias maiores, 
+que se provarão e confirmarão por Sua Alteza, foram até cinco léguas e se não excede este 
+número e para chegar a todos, e assim se povoarem melhor se devem conceder aos suplicantes 
+até quatro, e não dez, como eles pedem, pouco mais ou menos. Bahia, catorze de setembro de 
+mil seiscentos e setenta e três: Rocha. E declaro que as léguas que se concederem não devem 
+ser em quadro, porque nessa forma quatro vem a ser doze, e que seja sem prejuízo de terceiro 
+para evitar dúvidas e pleitos dia ut supra: Rocha. //E informação do Provedor-Mor da Fazenda 
+Real, que o seguinte: Senhores suplicantes são pessoas de merecimentos e possibilidades como 
+Vossa Senhoria é presente e poderão cultivar e povoar brevemente as terras que se lhe derem e 
+assim me parece que se pode conceder três léguas em quadra a cada um, porque se as povoarem 
+no termo da lei, se consegue o que Sua Alteza manda, e não as povoando ficam para se poderem 
+dar a quem as pedir e assim não vem a ser em prejuízo e darem se com as condições do 
+Regimento na forma das ordens de Sua Alteza sem prejuízo de terceiro, Vossa Senhora mandará 
+e que for servido. Bahia, setembro, dezesseis de mil seiscentos e setenta e três. Antônio Lopes 
+de Ulhôa.// Hei por bem e lhes faço mercê em nome de Sua Alteza, dar aos suplicantes três 
+léguas de terra em quadra a cada um, parece ao Provedor mor da Fazenda Real, e assim e da 
+maneira que as pedem e confrontam em sua petição, com declaração que serão obrigados a 
+povoá-las no termo da lei, pois nesta conformidade lhes concedo, não prejudicando a terceiro, 
+nem as terras que se determinou tivessem as povoações que de novo se fizessem para se darem 
+a seus povoadores, com todas suas águas, campos, matas, testadas, logradouros, e mais úteis 
+que nelas se acharem tudo forro, livre e isento de pensão ou tributo algum, salvo o dízimo a 
+Deus, que pagará dos frutos que nelas houver, e por elas serão obrigados a dar caminhos livres 
+ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno e mando a todos os Ministros e 
+Justiças a que o conhecimento desta, com direito deva ou possa pertencer, lhes fação dar posse 
+real e efetiva, e atual debaixo das cláusulas acima referidas e as mais da ordenação, título das 
+
+sesmarias para a firmeza do que lhes mandei passar o presente sob meu sinal e selo de minhas 
+armas, ao qual se registrará nos livros da Secretaria do Estado e nos mais a que tocar, e se 
+guardará e cumprirá tão pontual e inteiramente como nela se contém, sem dúvida, embargo, 
+nem contradição alguma. Antônio Garcia a fez nesta cidade de Salvador, Bahia de Todos os 
+Santos em vinte e sete dias do mês de setembro, ano de mil seiscentos e setenta e três. Bernardo 
+Vieira Ravasco o fez escrever: Afonso Furtado de Castro do Rio de Mendonça. Alvará de 
+doação e sesmaria de três léguas de terra que Vossa Senhoria tem por bem conceder ao Tenente 
+General da Artilharia, Luís Gomes de Bulhões e ao capitão Manuel da Costa da Câmara, a cada 
+um na parte que a pede, e confronta em sua petição, não prejudicando a terceiro, pelo respeito 
+acima declarados para Vossa Senhoria. Ver registrado no primeiro livro dos Registros da 
+Secretaria do Estado do Brasil, a que toca a folhas cento e setenta e três. Ravasco: cumpra-se e 
+registra-se como sua Alteza manda. Bahia, outubro de mil seiscentos e setenta e três: de Ulhoa. 
+Registrou-se em doze de outubro e se entregou aos suplicantes: Miguel Pinto de Freitas. 
+- Fim da Transcrição – 
+ 
+Observações do documento:  
+ 
+O nome do sesmeiro no documento original é: Luiz Gomes de Bulhões e Manoel da Costa da 
+Câmara. 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 30v, 31 – 31v 
+Numeração original do livro: 27 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

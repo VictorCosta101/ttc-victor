@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0035
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0073",
+  "Nome": "Domingos Rodrigues Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da petição": "30-08-1717",
+  "Data da concessão": "03-09-1717",
+  "Observações da sesmaria": "A sesmaria estava localizada no Engenho das Covas, confrontando para o leste com as terras do capitão Faustino Queixada e do padre João Gomes, para o oeste as terras dos religiosos de São Bento.",
+  "Localidade": "Engenho das Covas",
+  "Marcos Geográficos": "Engenho das Covas",
+  "Confrontantes": "Faustino Queixada e padre João Gomes.",
+  "Observações da petição": "Na carta de sesmaria não consta a quantidade de léguas requerida pelo sesmeiro, assim como a quantidade definida pelo governador para a concessão.",
+  "Justificativas": "Pretendia ampliar engenho; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que o suplicante pagasse o foro régio e seguisse as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Lourenço de Almeida ordenou que o suplicante pagasse o foro de 6 mil réis por légua requerida. O governador Lourenço de Almeida ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Lourenço de Almeida ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0035"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0035
+Carta de doação e sesmaria de Domingos Rodrigues Pereira - 03/09/1717
+SESMARIA QUE SE PASSOU A DOMINGOS RODRIGUES PEREIRA
+Dom Lourenço de Almeida, do Conselho de Sua Majestade, governador e etc. etc. Faço saber aos
+que esta carta de doação de sesmaria virem que Domingos Rodrigues Pereira me representou a
+petição cujo teor é o seguinte: Senhor governador = Expõe a Vossa Senhoria Domingos Rodrigues
+Pereira, que ele rematou em praça publica o engenho chamado das Covas, que foi do capitão-mor
+Mathias Coelho Barbosa o qual rematou com todas as terras pertencentes ao dito engenho, na
+mesma forma que os mais senhores que foram do dito engenho as possuíram e gozaram de quarenta
+anos a esta parte, as quais terras confrontam pela parte do leste com terras que hoje são do capitão
+Faustino Gomes, digo, Queixada e com as do padre João Gomes, e pelo presente, digo, poente com
+terras dos religiosos de São Bento, e pelas notícias que o suplicante tem, lograrão e possuirão os
+sobreditos senhores que foram do engenho estas terras, com algumas braças de sobras que há entre
+as terras do sobredito capitão Faustino Queixada e terras do dito engenho que sobraram das datas
+dos sobreditos éreos, e como todos os senhorios cujo foram do dito engenho de quarenta anos a esta
+parte lograram e cultivaram as ditas sobras se é que as há e o suplicante arrematou o engenho com
+todas as terras que os mais antecessores lograram e possuiram; quer o suplicante lograr e possuir
+também as ditas sobras, mas por data e sesmaria de Vossa Senhoria, pelo que; Pede a Vossa
+Senhoria seja servido conceder-lhe por sesmaria as sobreditas sobras, havendo-as entre as terras do
+suplicante e terras dos sobreditos éreos e mais circunvizinhanças; ao depois de inteiradas suas
+sesmarias para assim as lograr e possuir, não só pela posse de quarenta anos, mas também por
+legítimo título para aumento e firmeza do dito engenho; E receberá mercê. = Despacho = Informe o
+provedor da Fazenda Real, ouvindo ao doutor procurador da Coroa. Recife, 30 de agosto de 1717.
+"Rubrica". Haja vista ao doutor procurador da Coroa. Recife, 30 de agosto de 1717. - "Barros". Não
+tenho dúvida, pagando o foro na forma da nova ordem de Sua Majestade, pelo assento que se fez
+em junta. Recife, 30 de agosto de 1717 = Pereira = Senhor governador. Sua Majestade, que Deus
+guarde, por sua real ordem de 20 de janeiro do ano de 1699, dispõe que as pessoas a quem se derem
+sesmarias de futuro, se ponha nelas a obrigação de pagar dizimo a ordem de Cristo e de um foro
+segundo a grandeza da terra, além das mais obrigações costumadas, com declaração que sendo as
+terras convenientes para seu real serviço, se não deem e fiquem para a Fazenda Real. E por outra
+ordem de 17 de junho do ano do 1711, ordena que não suceda nas ditas terras religiões por nenhum
+título, e acontecendo que sucedão e possuindo-as, seja com o encargo de pagar delas dízimo como
+se fossem possuídas por seculares; e faltando a isto, se haverão por devolutas e se darão a quem as
+denunciar. Ao requerimento do suplicante, responde o doutor procurador da Coroa que não tem
+
+dúvida pagando o foro da dita nova ordem pelo assento que se fez em junta, com o que me
+conformo, sendo debaixo das cláusulas e condições acima declaradas, visto que para o real serviço
+não são de utilidade por sua insuficiência, e o foro a razão de seis mil réis por légua, que é o que se
+assentou em junta. É o que posso informar a Vossa Senhoria, que mandará o que for servido, digo,
+serviço de Sua Majestade, como costuma. Recife, 31 de agosto de 1717 = João do Rego Barros = E
+havendo, outrossim, respeito ao que Sua Majestade me concede no capítulo 15 do regimento deste
+Governo. Hei por bem fazer-lhe mercê dar ao suplicante acima nomeado, como pela presente dou
+de sesmaria em nome de Sua Majestade, que Deus guarde, nos mesmos lugares, partes e testadas
+que confrontão em sua petição as sobreditas sobras de terras de que faz menção, de mais das que
+pertencem ao dito engenho, na mesma forma que parece ao provedor da Fazenda Real e ao doutor
+procurador da Coroa, pagando de foro por cada légoa seis mil réis e o dízimo a ordem de Cristo,
+segundo as disposições reais, o qual povoará dita terra no tempo de cinco anos, aliás se darão por
+devolutas e a possuirá ele suplicante e seus herdeiros, não prejudicando a terceiro, com todas as
+suas matas, águas, campos, testadas, logradouros e mais úteis que nelas se acharem, observando-se
+a condição da ordem de Sua Majestade de 17 de junho do ano de 1711; e faltando a esta se haverão
+por devolutas, na forma da mesma ordem, e será obrigado a dar pela dita terra caminhos livres ao
+Conselho para fontes, pontes ou pedreiras. Pelo que ordeno a todos os ministros da Justiça e
+Fazenda destas capitanias a que o conhecimento desta carta pertencer, lhe façam dar a posse real,
+effctiva e atual, na forma costumada e debaixo das cláusulas referidas e da ordenação título de
+sesmarias, que por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas, a qual se registrará nos livros da Secretaria deste Governo, nos da Fazenda
+e Foral Real a que tocar; e sem esta precisa circunstância, não terá vigor nem validade a presente
+carta de sesmaria. Dada nesta Vila do Recife, aos 3 de setembro = Manoel da Silva Rosa a fez = ano
+de 1717 = O secretário, Thomé de Matos Girão, a fez escrever = Dom Lourenço de Almeida.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 235 - 238.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

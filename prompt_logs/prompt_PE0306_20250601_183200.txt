@@ -1,0 +1,175 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0306
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Isabel de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-03-1577",
+  "Observações da sesmaria": "A susplicante requereu uma légua de comprimento e uma légua de largura no Jaboatão na fronteira de Francisco Fernandes do Porto.",
+  "Localidade": "Jaboatão",
+  "Confrontantes": "Francisco Fernandes do Porto",
+  "Justificativas": "Pretendia fazer engenho de açúcar; Pretendia pagar foro régio; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se pagar pensão por engenho, caso este seja levantado; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou ser filha de Jerônimo de Albuquerque e em remuneração aos serviços do pai requereu a concessão de uma terra para levantar engenho.",
+  "Observações das exigências": "A governadora e capitã de Pernambuco, Beatriz de Albuquerque, concedeu licença ao suplicante para levantar engenhos de açúcar, assim de água como trapiches e fazendo moendas de água, com a condição do pagamento de foro e pensão ao donatário e aos seus sucessores desta capitania de cada 100 arrobas de açúcar, três e fazendo trapiche de cada arroba e meia.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0306"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0306 
+ 
+Doação de uma légua de terra feita a dona Isabel de Albuquerque, nos limites de Jaboatão e 
+das águas para engenho 
+ 
+Saibam quantos este instrumento de doação de terra de sesmaria e aforamento virem, que no 
+ano do nascimento de Nosso Senhor Jesus Cristo de 1577, aos 29 dias do mês de março do dito 
+ano, nesta vila de Olinda da Nova Lusitânia, partes do Brasil de que é capitão e governador o 
+senhor Duarte Coelho de Albuquerque, por ElRei, Nosso Senhor etc. Na Fortaleza desta vila, 
+onde estava a senhora dona Beatriz de Albuquerque, logo por ela, dita senhora, foi dito em 
+presença de mim, tabelião e testemunhas adiante escritas, que Duarte Coelho de Albuquerque, 
+capitão e governador desta capitania, seu filho quando se fora para o reino, a fizera seu 
+procurador para em nome poder dar terras, aforar engenhos e dar ofícios em seu nome, e por 
+esta razão dona Isabel de Albuquerque, sua sobrinha, filha do senhor Jorge (a margem está: 
+Jerônimo) de Albuquerque, seu irmão lhe fizera petição para lhe dar uma légua de terra de 
+sesmaria e lhe aforar as águas para fazer um engenho, na qual petição ela, senhora, lhe pusera 
+um despacho em que hora lhe requeria lhe mandasse fazer carta em forma, apresentando a 
+procuração que ela, dita senhora, tinha e a petição e despacho do que todo o traslado é o 
+seguinte: Saibam quantos este instrumento de procuração virem, que no ano do nascimento de 
+Nosso Senhor Jesus Cristo de 1572, aos 22 dias do mês de julho, nesta vila de Olinda da Nova 
+Lusitânia, terra do Brasil, e na rua nova desta dita vila, nas pousadas do senhor Duarte Coelho 
+de Albuquerque, capitão e governador desta capitania, em presença de mim, tabelião público 
+adiante nomeado, e das testemunhas adiante escritas, que por quanto ele estava de caminho 
+para o reino, por este público instrumento dava todo o seu poder cumprido e bastante como ele 
+o tem, e por direito mais pudesse e deve valer a senhora dona Beatriz de Albuquerque, sua mãe, 
+para que por ele e em seu nome possa requerer e governar esta capitania como capitão e 
+governador dela, assim nas coisas da justiça, como de guerra, e possa em nome dele, 
+constituinte, passar cartas de ofícios e serventias deles, e de confirmações, e tudo o mais que 
+ela vir que é necessário e que cumpra a governança da terra, e possa dar terras de sesmarias e 
+licença para se fazer engenhos de águas, trapiches, marinhas de sal e todos os mais engenhos 
+que houverem de fazer em toda esta capitania, conforme o capítulo de sua doação, como lhe 
+pagarem dos tais engenhos e marinhas, os foros e pensões em que se consertarem com as partes 
+e aforar as terras do seu reguengo que não forem aforadas por aqueles foros em que se consertar, 
+e possa de todo o sobredito fazer escrituras de sesmarias e aforamentos, com as cláusulas e 
+condições que justas lhe parecer e neles obrigar os bens e rendas dele constituinte, e que tudo 
+o que a dita senhora, dona Beatriz, sua mãe, fizer e disser em seu nome, assim nas coisas da 
+governança da justiça, como da guerra e de tudo o mais, tudo havia por firme e valioso deste 
+dia para todo o sempre, como que por ele fosse mandado e feito, e que em tudo a dita senhora 
+sua mãe represente a pessoa dele, constituinte, porque todo quanto poder tem, todo trespassava 
+na dita senhora sua mãe, e que sendo caso que nesta faleça alguma cláusula ou condição que 
+em alguma parte tenha [minha], o há por cumprido debaixo da palavra acima, onde diz que em 
+tudo represente a pessoa dele constituinte, prometendo perante mim, tabelião, de assim ter, 
+manter, cumprir e guardar sem [mingoa] nem invocação alguma, e que para isso obrigava todos 
+os seu bens, rendas havidas, e por haver sendo a tudo presentes por testemunhas João Dias 
+
+[Pilião], Francisco Fernandes e Vicente Pires, moradores e estantes nesta dita vila, e declarou 
+o dito senhor governador que se não obrigava a confirmar, se não as coisas que lhe parecerem 
+justas, e que as que não forem por ele confirmadas, não tenham força, nem vigor testemunhas 
+as sobreditas, e eu, João Rodrigues, público tabelião das notas em esta dita vila e seus termos, 
+por ElRei, Nosso Senhor, que este instrumento em o livro de minhas notas, tomei e dele o tirei 
+bem e fielmente, consertei com o próprio e aqui meu sinal público, fiz que tal é como se segue. 
+Estava o sinal público. - Petição: Senhora. Diz dona Isabel de Albuquerque, filha de Jerônimo 
+de Albuquerque, que o dito seu pai foi dos primeiros povoadores que vieram a esta terra e há 
+42 anos que vive nela, e ajudou a sustentar e ganhar com grande risco de sua pessoa e gastos 
+de sua fazenda, em 10 anos que foi capitão dela na maior força das guerras do gentio e ele foi 
+causa de estar pacífico do gentio como consta e tem muitos filhos e pouco que lhes dar e deixar 
+na sustentação de suas pessoas, segundo sua qualidade ela é moça e seu pai velho. Pede a vossa 
+senhoria que havendo a tudo respeito, pela procuração que tem do senhor Duarte Coelho de 
+Albuquerque, capitão e governador, seu filho, lhe faça mercê de lhe dar de sesmaria  uma légua 
+de terra em quadra nos limites de Jaboatão, partindo com a terra que vossa senhoria tem dado 
+a Francisco Fernandes do Porto, pela parte onde não for dada e pelos rumos que a ela, 
+suplicante, ou seu procurador em seu nome melhor lhe parecer e mais acomodada, e não 
+cabendo a dita légua em quadra e ao tempo que for demarcada, se faça declaração por que 
+rumos correm e quais são seus éreos, e caindo a dita terra ou parte dela no reguengo, lhe pagará 
+o foro que justo for e assim lhe faça mercê de lhe dar licença, para na dita terra poder fazer 
+engenhos e moendas de águas e bois, e tomar todas as águas que puder para isso e para regadas 
+de seus canaviais e do mais que lhe aprouver, com pagar dos engenhos o foro e pensão que 
+justo for, e assim lhe faça mercê das lenhas e madeiras que na dita terra houver, no que receberá 
+mercê. Hei por bem em nome e como procurador bastante que sou de Duarte Coelho de 
+Albuquerque, meu filho, capitão e governador desta capitania, com parecer que tomei com seus 
+procuradores de dar de sesmaria a dona Isabel de Albuquerque, minha sobrinha, a légua de 
+terra que pede em sua petição, assim e da maneira que nela diz; e assim hei por bem de lhe dar 
+licença, que possa com as águas que puder tomar na dita terra, fazer engenhos de açúcar, assim 
+de água como trapiches e fazendo moendas de água, pagará de foro e pensão ao dito e a seus 
+sucessores desta capitania de cada 100 arrobas de açúcar, três e fazendo trapiche de cada [101] 
+arrobas e meia, e assim lhe dou as lenhas e madeiras que na dita terra houver e que possa 
+aproveitar-se das águas no que lhe for necessário para o dito engenho; e sendo caso que alguma 
+da dita terra cair no reguengo, de tudo o que a terra der, um por cento, não sendo coisa viva e 
+com o traslado da dita petição acima, e este despacho se faça carta em forma que assinarão os 
+procuradores do dito meu filho, e isto havendo respeito no que alega notório o qual engenho 
+ou trapiche será obrigada a fazer dentro no tempo da Ordenação. Hoje, 26 de março de 1577 
+anos. Dona Beatriz de Albuquerque. E traslado como dito é, logo pela dita senhora dona Beatriz 
+de Albuquerque, foi dito que por bem da dita procuração, em nome do dito seu filho, dava e 
+havia por dada a dita dona Isabel de Albuquerque, sua sobrinha, a dita légua de sesmaria e 
+licença para fazer engenho de açúcar, assim e da maneira que se contém no despacho que está 
+ao pé da petição, com o foro e pensão nele conteúdo, e logo aparecerão o senhor Jerônimo de 
+Albuquerque, pai da dita dona Isabel e por ele foi dito que aceitava a dita légua de terra e 
+licença para fazer engenho em nome da dita dona Isabel, sua filha, conforme o despacho que a 
+dita senhora dona Beatriz pusera no pé da petição, e por assim serem contentes, mandaram ser 
+
+feito este instrumento e que desta nota lhe fossem dados os traslados que pedidos forem, sendo 
+presentes por testemunhas Manuel de Lima, Gregório da Rocha e Jerônimo Dias Lessa, todos 
+moradores e estantes nesta dita vila, e assim foram presentes Gonçalo Vaz, Francisco do 
+Amaral, Rodrigo Alvares e João Dias [Pilião], procurador do dito senhor Duarte Coelho de 
+Albuquerque, moradores nesta dita vila, que aqui assinaram com a dita senhora dona Beatriz e 
+eu, Antônio Lopes, tabelião, o escrevi. O qual traslado eu, Vicente Gomes da Veiga, cavaleiro 
+fidalgo da Casa dElRei, Nosso Senhor, e tabelião público, judicial e notas nesta vila de Olinda, 
+capitania de Pernambuco, por Duarte de Albuquerque Coelho, capitão e governador dela por 
+Sua Majestade etc., consertei, subscrevi e assinei, hoje, 28 dias do mês de setembro de 1628 
+anos. Vicente Gomes da Veiga; não se continha mais dito documento que eu, Filipe Nery 
+Correa, tabelião do público judicial e notas da cidade de Olinda, vila do Recife e seus termos, 
+capitania de Pernambuco, por Sua Majestade Fidelíssima, que Deus guarde etc. - Fiz trasladar 
+do próprio, com o qual e com o oficial abaixo assinado, este conferi e consertei, vai sem coisa 
+que dúvida faça, ao próprio me reporto que tornei a entregar a quem aqui assinou, subscrevi e 
+assinei em público e razão de meus sinais seguintes, aos 4 dias do mês de janeiro de 1766 anos. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 240-241. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

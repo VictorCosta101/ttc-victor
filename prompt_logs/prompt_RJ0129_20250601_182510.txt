@@ -1,0 +1,154 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0129
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Belchior Tavares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-11-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Outeiro de Gericinó",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Confrontantes": "Terras de João de Bastos Gonçalves e de Gonçalo de Aguiar",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que vivia na capital há 26 anos, com mulher e filhos.",
+  "Observações das exigências": "Determinou-se ao suplicante ainda que \"haja a posse e senhorio da dita terra para sempre\", além de mandar-se que \" rompa e aproveite e frutifique a dita terra dada desta em 3 anos primeiros e seguintes e outrossim fará de maneira que dentro de 4 meses tenha feito nas ditas terras algum proveito, plantado alguns, digo, alguns mantimentos e cumpridos 3 anos que as tenha aproveitado, como dito é, porque não fazendo ele assim, passados os ditos 3 anos, se darão as ditas terras que aproveitadas não tiverem de sesmaria a quem lhes pedir para aproveitar lhe será dado alguns logradouros do que aproveitado não tiver, sobretudo pagará 1000 reis para as obras do Conselho e dará pelas ditas terras, caminhos, serventias ordenadas e necessárias para o Conselho e para fontes e pontes, vieiras e pedreiras para, digo, que necessário forem. As quais terras que pela sobredita maneira lhe assim deu e concedeu em nome Del-Rei nosso senhor, forras e isentas sem forro nem tributo algum, somente de tudo que nosso senhor der nela de suas novidades e lavouras e criações e pagará os dízimos a Deus conforme o dito Regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0129"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0129
+Carta de concessão de sesmaria de Belchior Tavares de 15 de novembro de 1603
+Forra
+Saibam quantos este instrumento de cartas de sesmarias virem, que no ano do
+nascimento do nosso senhor Jesus Cristo de 1603 anos, aos 15 dias do mês de novembro
+do dito ano, às ave Marias da noite, nessa cidade de São Sebastião do Rio de Janeiro do
+Brasil, nas pousadas de mim escrivão adiante nomeado, apareceu Belchior Tavares,
+morador nesta cidade, e me apresentou uma petição com um despacho nela do senhor
+Martim de Sá. capitão e governador desta dita cidade, capitania e governança deste dito
+Rio de Janeiro por El-Rei nosso Senhor. Da qual petição do despacho dela o traslado é o
+seguinte: Belchior Tavares, morador nesta cidade do Rio de Janeiro, com mulher e
+filhos há 26 anos e sem ter terras para lavrar e fazer sua fazenda, pede a vossa senhoria
+que lhe dê de sesmarias toda a terra que houver por dar na fralda do outeiro de
+Jorixinonga em toda redondeza do dito outeiro assim de uma banda como da outra,
+começando a medir onde acabar João de Bastos Gonçalves e Gonçalo Aguiar. E
+receberá mercê. Despacho do senhor capitão e Governador. Dou ao suplicante o que
+pede em sua petição e passe-lhe a carta. Rio de Janeiro, a 10 de setembro de 1603.
+//Martim de Sá// Tudo visto pelo dito senhor capitão e Governador, a petição do dito
+suplicante o dito Belchior Tavares e o que ele pedia, visto ser justo e havendo respeito
+ao proveito que se pode seguir acerca da República e ao serviço de Deus Del-Rei nosso
+Senhor e por toda a terra se povoar deu ao dito suplicante Belchior Tavares a terra
+contida na dita petição e conforme o dito despacho porquanto dizia que estava vaga e
+devoluta e por aproveitar, para aproveitar e fazer sua fazenda e roças, como diz nela,
+não sendo já dada a outra pessoa ou pessoas, primeiro. A qual terra diz que está no dito
+lugar e que tem a dita medida e que parte pelas ditas confrontações como em sua petição
+diz, digo, a qual terra diz que está no dito lugar e que tem a dita medida e que parte
+pelas ditas confrontações como em sua petição diz, a qual terra lhe deu e concedeu em
+nome Del-Rei nosso Senhor e pela maneira adiante declarada segundo forma do
+regimento Del-Rei nosso senhor de que o translado é o seguinte: as terras que estiverem
+dentro do termo limite da dita cidade de São Sebastião que são de 6 léguas para cada
+parte que não forem dadas a pessoas que as aproveitem ou, posto que o fôssem, se pelas
+pessoas aqui se derem as não aproveitarem no tempo que eram obrigadas por esta via ou
+
+por outra qualquer estiverem vagas, as poderes dar de sesmaria a quem vos pedir e tereis
+lembranças que não dei a cada pessoa mais terras que aquela que segundo sua
+possibilidade virdes ou vos parecer que possam granjear e aproveitar. As quais terras
+assim dareis livremente sem foro algum, somente o dízimo a Ordem do mestrado de
+Nosso Senhor Jesus Cristo e com as condições e obrigações do foral dado as ditas terras
+e de minha Ordenação do Livro 4º, título das sesmarias, com a condição que a tal pessoa
+ou pessoas residam na povoação da dita capitania ou das terras que assim forem dadas
+ao menos 3 anos e dentro do dito tempo as não possam vender nem enlear e se algumas
+pessoas a que assim forem dadas as terras no termo da dita cidade e estiverem perdidas
+por não as aproveitarem e a vós tornarem a pedir, vós as podereis de novo dar com as
+condições e obrigações contidas neste capítulo, o qual se transladará nas cartas, porque
+as assim derdes e isto se entenderá que não sendo as ditas terras dadas a outras pessoas.
+Com as quais condições, obrigações e declarações lhe assim deu o dito senhor capitão e
+governador a dita a terra ao dito Belchior Tavares, suplicante pela dita maneira. E para
+sua guarda de segurança lhe mandou ser feita esta carta pela qual manda que ele haja a
+posse e senhorio da dita terra para sempre, para ele, sua mulher e seus filhos, netos,
+herdeiros e sucessores ascendentes e descendentes que dele vierem com tal condição e
+entendimento, que ele rompa e aproveite e frutifique a dita terra dada desta em 3 anos
+primeiros e seguintes e outrossim fará de maneira que dentro de 4 meses tenha feito nas
+ditas terras algum proveito, plantado alguns, digo, alguns mantimentos e cumpridos 3
+anos que as tenha aproveitado, como dito é, porque não fazendo ele assim, passados os
+ditos 3 anos, se darão as ditas terras que aproveitadas não tiverem de sesmaria a quem
+lhes pedir para aproveitar lhe será dado alguns logradouros do que aproveitado não
+tiver, sobretudo pagará 1000 reis para as obras do Conselho e dará pelas ditas terras,
+caminhos, serventias ordenadas e necessárias para o Conselho e para fontes e pontes,
+vieiras e pedreiras para, digo, que necessário forem. As quais terras que pela sobredita
+maneira lhe assim deu e concedeu em nome Del-Rei nosso senhor, forras e isentas sem
+forro nem tributo algum, somente de tudo que nosso senhor der nela de suas novidades
+e lavouras e criações e pagará os dízimos a Deus conforme o dito regimento o que tudo
+manda que se cumpra e guarde, sem dúvida nem embargo algum que a ele seja posto ,e
+que esta carta seja registrada dentro de 1 ano nos livros da Fazenda como dito o senhor
+em seu regimento manda sobre as penas nele contidas e declaradas, e porque o sobredito
+Belchior Tavares suplicante tudo prometeu de ter e manter pela dita maneira e mandou
+passar a carta de sesmaria, e por verdade eu Pero da Costa, escrivão da sesmarias e
+
+tabelião das notas por El-Rei nosso senhor nesta cidade de São Sebastião em seus
+termos que, este instrumento de carta de sesmaria escrevi e tomei nos termos dos Livros
+de Notas e Tombo das cartas de sesmarias desta cidade que em meu poder estão, onde o
+dito instrumento fica assinado pelo dito senhor capitão e Governador [P.S. do próprio
+punho de Martins de Sá]: não se entenderão esta data 2 léguas de terra que estiver por
+dar, que se estenderá acabando a terra de que tem carta Gonçalo D’Aguiar que deu ao
+patrimônio ao padre Vigário e que lhe a confirmei nesta declaração fiz por escusar
+demandas. É o de Manoel Gomes de Montarroio
+Martim de Sá
+- Fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria das terras de Belchior Tavares que estão em
+Goyxinom
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+A expressão “às ave Marias da noite” significa 18 horas.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL. Tombo das
+Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.
+pg. 184-186.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg.
+184-186. Códice 778-1 (1594-1595). FL: 80v-82-v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

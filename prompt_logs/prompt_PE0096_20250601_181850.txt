@@ -1,0 +1,207 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0096
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0153",
+  "Nome": "Sebastião Bezerra Cavalcante de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "27-08-1763",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no sertão do Panema, na freguesia de Nossa Senhora do Ó. A sesmaria requerida possuía por limites as terras do suplicante, o sítio Salobro de Francisco Gomes de Abreu e em direção a nordeste o caminho de Garanhuns.",
+  "Localidade": "Freguesia de Nossa Senhora do Ó",
+  "Marcos Geográficos": "Sertão do Panema, Freguesia de Nossa Senhora do Ó, Garanhuns",
+  "Confrontantes": "Francisco Gomes de Abreu",
+  "Justificativas": "Pretendia criar gado; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou estar cultivando e povoando uma terra que foi arrematada por seu tio, a despeito dos donos originais reclamarem posse e domínio da referida terra. ",
+  "Observações do deferimento e da concessão": "O governador requereu o parecer do sargento-mor do distrito, Jerônimo Mendes Pais, e dos índios da povoação de Águas Belas, que foram contrários a decisão de conceder a sesmaria.",
+  "Observações das exigências": "O governador Luís Diogo Lobo da Silva determinou a confirmação régia no tempo de três anos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0096"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0096
+Carta de doação e sesmaria do capitão Sebastião Bezerra Cavalcanti de Albuquerque
+- 27/08/1763
+Carta de doação de sesmaria que passou de três léguas de terra de comprido e uma de
+largo ao capitão Sebastião Bezerra Cavalcanti de Albuquerque.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade Fidelíssima, comendador da
+comenda de Santa Maria de Moncorvo da Ordem de Cristo, governador e capitão general
+de Pernambuco, Paraíba e mais capitanias anexas etc. = Faço saber aos que carta de doação
+de sesmaria virem, que o capitão Sebastião Bezerra Cavalcanti de Albuquerque, me fez o
+requerimento do teor e maneira seguinte: Ilustríssimo e Excelentíssimo Senhor = Diz o
+capitão Sebastião Bezerra Cavalcanti de Albuquerque, que ele suplicante, tem situado uma
+fazenda de gado vacum e cavalar em um sítio de terras de criar gados no sertão de Panema,
+Freguesia de Nossa Senhora do Ó, perto das folhas chamado este o Saloubro, do qual sítio
+se chama o senhor dele Francisco Gomes de Abreu, morador na cidade da Bahia, por data
+de sesmaria que tirou seus pais daqueles lugares, e porque parece a ele senhor o tal sítio,
+não é do suplicado porque o pai do suplicado, Loupo Gomes de Abreu, vendeu em sua vida
+um único sítio de criar gados que possuía naquele lugar chamado o Genipapo à Cosme de
+Brito e este o vendeu depois de sua mulher por falecer, este ao tenente Jeronimo de Sá, e
+este entrou a descobrir lugares de poder situar outros sítios perto deste que o suplicado
+tinha comprado, como de fato descobriu o sítio perto deste que o suplicado, digo, o sítio do
+olho d’água da Conceição, o qual o vendeu o dito Jerônimo de Sá a um Tomé de Gouvea,
+de que recebera logo uma limitada quantia a conta do mesmo sítio, ficando o mais a
+pagamento, o qual sítio de um a outro é distante três léguas, e depois sobre a mesma
+cobrança que fazia o dito Jerônimo de Sá ao dito Tomé de Gouveia, por este lhe não querer
+pagar o mandou matar e se procedeu sequestro pelos ausentes na fazenda do dito Gouveia,
+e arrematou o dito gado o reverendo Manoel de Araujo Cavalcanti, tio dele, suplicante, e
+achando melhor lugar para situamento de gado mais acima do olho d’água da Conceição,
+meia légua para situamento de gado mais acima, digo, meia légua que é o olho d’água do
+Saloubro, entrou a situar e a cultivar e fazer currais, e situou os seus gados e neste mesmo
+tempo veio o suplicado Francisco Gouveia de Abreu da Bahia, e achando o sítio do
+Genipapo arrematado por dívidas do dito Jeronimo de Sá, se chamou a posse do sítio de
+Soloubro e chamando-se senhor por não pago o sítio do Genipapo, isto sem autoridade
+
+alguma de Justiça, e o reverendo padre, tio do suplicante, sujeito a pagar-lhe foro, como fez
+e por sua morte ficou ele suplicante pagando o mesmo foro ao procurador do suplicado, que
+é o capitão Antonio Vieira de Melo, e porque de presente teve ele suplicante notícia da
+ordem de Sua Majestade, que Deus guarde, que a junta no qual é servido mandar se passem
+sesmaria aos que tiverem roteado e cultivado os ditos sítios, ainda que deles estejam
+pagando foros os arrendamentos por não pertencerem aos sesmeiros, acho devem arrendar e
+só pertencer este poder aos donatários, e que só logrem o que por si ou seus feitores tiverem
+situado o que melhor consta da certidão e a ordem junta, ainda quando dito sítio por
+nenhum título pertence ao suplicado pelos fundamentos declarados acima, o que melhor
+consta do papel de venda junto do pai do suplicado, e pertencer verdadeiramente o dito sítio
+do Soloubro a Sua Majestade, que Deus Guarde; e como o suplicante está debaixo da
+mesma ordem por ter sido seu tio que roteou e cultivou, e ele suplicante o dito sítio pois no
+lugar não teve outra situação, quer ele suplicante que Sua Excelência seja servido mandar
+passar-lhe data por sesmaria do dito sítio, na forma da ordem de Sua Majestade, que Deus
+guarde, com as confrontações expressas, fazendo da casa da fazenda pião para a parte do
+nascente légua e meia, a entestar com terras do mesmo suplicante chamado o sítio de São
+Francisco, e para a parte do poente outra légua e meia que separa a serra acima do
+[ . . . ] até onde chegar a dita medição e parte do nordeste buscando o caminho (um sinal
+ilegível) Garanhuns a outra meia légua que acima fica inteirada as três léguas de comprido
+e um de largo, sem prejudicar as mais fazendas: portanto = Pede a Vossa Excelência seja
+servido mandar passar ao suplicante a pedida data de sesmaria com o foro costumado na
+forma confrontada = E receberá mercê = Em cujo requerimento mandei por meu despacho
+de 15 de novembro de 1759 informar o provedor da Fazenda Real, ouvindo o procurador e
+escrivão da mesma, o qual também mandou o dito escrivão e respondeu o mesmo
+procurador como o fez da maneira seguinte — Senhor provedor da Fazenda Real = Pelo
+que o suplicante alega em sua petição e mostra pelos documentos juntos, parece estar em
+termos de se lhe conceder por sesmaria as três léguas de terra de comprido e uma de largo,
+que requer na forma da Ordem de Sua Majestade com a obrigação de pagar o foro de quatro
+mil réis por légua em cada ano e dando fiança idônea nesta Provedoria aos pagamentos do
+dito foro como se pratica; Vossa Mercê mandará o que for servido. Recife, aos 27 de
+novembro de 1759 = Bernardo Ferreira de Vasconcelos — E o segundo respondeu como se
+
+declara = Senhor provedor da Fazenda Real = Conformo-me com a resposta e informação
+do escrivão supra, ainda que o suplicante não mostra [que] roteou e cultivou tais terras;
+Vossa Mercê mandará o que for servido = Recife, 27 de novembro de 1759 — Caetano
+Ribeiro Soares. Com a tal resposta e informação, disse o provedor na sua que dando o
+suplicante a fiança que apontava o escrivão, não se lhe oferecia dúvida na data que
+pretendia, e sendo esta apresentada dei em 11 de novembro, digo em 11 de dezembro do
+dito ano outro despacho, mandando informar os oficiais da Câmara do Distrito e que
+procedessem os Editais examinando se havia terceiro prejudicado em se darem as terras de
+que se tratava, e se entre elas e as sesmarias mais próximas mediava areia competente a
+ficar a légua de logradouro e a darem-se ao suplicante as que pretendia estes o satisfizeram
+com uma certidão do escrivão da dita Câmara, pela qual constava haver-se fixado editais no
+lugar em que o suplicado requeria a dita doação, estando estes os dias da lei, não houve
+quem saísse com dúvida, embargo ou contradição, o que sendo por mim visto, repeti
+terceiro despacho em 15 de janeiro de 1761, mandando que jurando o suplicante não ter
+sesmaria alguma além da que pretendia, constando por informação do sargento-mor
+Jerônimo Mendes de Pais, não se carecer das terras mencionadas para acomodação dos
+índios de que se manda e requer as novas Vilas na forma da Ordem de Sua Majestade,
+deferirei que satisfez o sobredito a este despacho com a informação seguinte - Ilustríssimo e
+Excelentíssimo Senhor = Informando-me de alguns índios da povoação de Águas Belas,
+chamada até agora Cumunity que é a povoação de índios mais vizinha do sítio do Saloubro,
+de que trata a petição do suplicante está o tal sítio em tal distância que julgo não ser de
+utilidade alguma aquela povoação ou muito menos a outros índios, por que os não há
+naquela vizinhança e muito menor inconveniência se encontra em se lhe passar a sesmaria
+ao suplicante do referido sítio, pondo-se condição que ordinariamente se costuma expressar
+em semelhantes datas sem prejuízo de terceiro, pela qual condição especialmente se
+entendem os índios como senhores originais, como o tem declarado Sua Majestade. E o que
+posso informar a Sua Excelência = que mandará o que for servido. Ilha de Santa Maria, 20
+de setembro de 1761 = Jerônimo Mendes de Paes = E abaixo da dita, o juramento deste teor
+— Juro e jurarei em Juízo, se necessário for, em como não tenho data nenhuma de terras de
+sesmaria e nunca as pedi nem por mim nem por meus pais, nem há questão, somente esta
+que pretendo tirar = Várgea, 13 de março de 1762 = Sebastião Bezerra Cavalcanti de
+
+Albuquerque = E incluso mais me fez este requerimento — Ilustríssimo e Excelentíssimo
+Senhor — Diz o capitão Sebastião Bezerra Cavalcante de Albuquerque, que pela
+informação junta do sargento-mor Jeronimo Mendes de Pais e as mais respostas inclusas no
+mesmo documento, se mostra estar em termos de Vossa Excelência lhe mandar passar data
+de sesmaria do sítio que pretende, segundo o requerimento junto, por se terem feitas as
+diligências necessárias na forma que Vossa Excelência foi servido mandar ainda quando no
+ano passado de 1762, o doutor ouvidor geral das Alagoas fez medição as terras necessárias
+aos índios carijóes, e ficaram estas que o suplicante pretende livres e isentas com muitas
+obras dos ditos índios. Nestes termos, como o suplicante se acha com gados bastantes dos
+dízimos reais que comprou e não tem onde os possa acomodar se não na mesma fazenda, e
+se acha debaixo dos cinco anos que Vossa Majestade dá para ver se o lugar é suficiente
+para situação ou não, nestes termos = Pede a Vossa Excelência seja servido mandar passar-
+lhe data de sesmaria na forma das ordens de Sua Majestade Fidelíssima, com as cláusulas
+que o suplicante alega na sua súplica junta = E receberá mercê — No qual proferi
+ultimamente em 25 de agosto de 1763 outro despacho, mando que constando primeiro
+haver o suplicante dado fiança na Provedoria do foro que devia pagar por cada légua de
+terra, na cláusula que nelas se incorporaram e o mesmo senhor determina, se lhe passe carta
+de sesmaria, em virtude da qual e do Capítulo 15 do Regimento deste Governo. Hei por
+bem dar carta de sesmaria ao suplicante em nome de Sua Majestade Fidelíssima, as três
+léguas de terras de comprido e uma de largo pedida e confrontada em sua petição, deixando
+a légua do primeiro para logradouro na forma das ordens do dito senhor, pagando o foro
+que declara o escrivão da Fazenda Real, o qual deu fiança na Provedoria no Livro delas a
+fazenda [...] e não passará a religião alguma, salvo for com o mesmo encargo com que as
+possuem os seculares, cuja terra possuirá ele e gozará seus herdeiros ascendentes e
+descendentes, como sua que fica sendo de hoje para sempre com todos os seus pertences,
+matas, campos, águas, rios, fontes testadas, lougradouros e mais úteis que nela
+compreenderem, não prejudicando a terceiro, e será obrigado a dar caminhos livres ao
+Conselho para fontes e pedreiras, e requerer confirmação real dentro em três anos, e a
+demarcar e medir, povoar e cultivar, na forma que determina a Lei do Reino, e não fazendo,
+dar a dita terra por devoluta e se poder dar de novamente de sesmaria a quem a pedir = Pelo
+que ordeno aos ministros da Fazenda e Justiça e mais pessoas a que tocar, cumpram e
+
+façam cumprir e guardar esta carta de doação de sesmaria como nela se contém, e façam
+outrossim dar ao suplicante a posse real, efetiva e atual, na forma costumada e debaixo das
+cláusulas referidas e das mais da ordenação, número e sesmaria = Em firmeza do que lhe
+mandei passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará na Secretaria do Governo, Câmara de Olinda e Provedoria Geral da Fazenda, sem
+o que não terá esta efeito = Dada no Recife de Pernambuco, aos 27 dias do mês de agosto
+— Francisco Gonçalves Reis Lisboa a fez, ano de 1763. = O Secretário Antônio José
+Correia a fez escrever — Luiz Diogo Lobo da Silva =
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+162 - 168.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

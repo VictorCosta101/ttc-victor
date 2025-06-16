@@ -1,0 +1,105 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0024
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Fernão Lopes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "01-01-1574",
+  "Data da concessão": "01-01-1574",
+  "Observações da sesmaria": "Título original: Carta de sesmaria do chão para casa de Fernão Lopes.\r\nSabe-se que a carta é do ano de 1574 pela ordem dos registros no códice original.\r\n",
+  "Exigências do Deferimento": "Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento está incompleto. ",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0024"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0024 
+Carta de concessão de sesmaria de Fernão Lopes 
+ 
+[Faltam as folhas iniciais da carta.][f.51, 119?] nem enlear e tereis lembrança que não deis a 
+cada pessoa mais terra que aquela virdes, ou vos parecer que segundo sua possibilidade pode 
+aproveitar, se algumas pessoas a que forem dadas terras no dito termo e as tiverem perdidas por 
+não as aproveitarem, e vos-las tornarem a pedir, vós as darei de novo para aproveitarem com as 
+condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas das ditas 
+sesmarias. Com as quais condições, obrigações e declarações lhe assim deu o dito Senhor, 
+capitão e governador ao dito chão para o dito suplicante, Fernão Lopes, pela sobredita maneira, 
+para sua guarda lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio 
+das ditas sesmarias. Com as quais condições, obrigações e declarações lhe assim deu o dito 
+Senhor, capitão e  governador o dito chão ao dito suplicante, Fernão Lopes, pela sobredita 
+maneira, e para sua guarda lhe mandou ser feita essa carta, pela qual manda que ele haja a posse 
+e senhorio, para sempre, para si e todos os seus herdeiros e sucessores, ascendentes e 
+descendentes e após dele vierem com tal condição e entendimento, que ele viva nesta dita 
+cidade, ou que em seus termos os ditos três anos em que o dito regimento declarados e dentro 
+do qual tempo, ele não poderá vender nem enlear o dito chão, por nenhuma via que seja sem 
+licença do dito Senhor, capitão e governador ou de quem ao diante tiver poder para a dar, da 
+dita maneira lhe dava o dito chão e acabados os ditos três anos, tendo ele feito no dito chão 
+casas e benfeitorias, ele não poderá vender, trocar, descambar, dar, doar e fazer de tudo que lhe 
+bem convier, como coisa sua própria isenta que é, e porque os sobreditos Fernão Lopes, tudo 
+prometeu de ter, manter e cumprir, pela dita maneira ele mandou passar esta carta de sesmaria, 
+a qual manda que se cumpra e guarde sem dúvida nem embargo que lhe seja posto, que seja 
+registrado dentro de um ano nos livros da Fazenda Real, como dito o Senhor, em seu regimento 
+manda só as penas nele contidas, e por verdade, eu Pero da Costa, tabelião das notas e escrivão 
+das sesmarias por El Rei nosso Senhor nesta sua cidade de São Sebastião, e seus os termos que 
+este instrumento de carta de sesmaria escrevi nos meus livros das notas e tombo das carta das 
+sesmarias, desta cidade que em meu poder ficam, onde o instrumento fica assinado pelo dito 
+Senhor, capitão e governador. E não faça dúvida na entrelinha que diz "Cristóvão...", e na 
+entrelinha que diz "de Barros", porque se fez por fazer verdade e eu sobredito que o escrevi. 
+//Cristóvão de Barros//  
+ 
+- 
+Fim da Transcrição - 
+Observações: 
+Título original: Carta de sesmaria do chão para casa de Fernão Lopes. 
+Sabe-se que a carta é do ano de 1574 pela ordem dos registros no códice original. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristóvão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 107; 
+Documento Original : f.51, 119? 
+ 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg. 107. Códice 50.5.3A(1573-4).      
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

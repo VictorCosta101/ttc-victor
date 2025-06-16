@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0084
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manoel Vieira Chaves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-09-1779",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que o requerente representou que \"ele era senhor e possuidor de um sítio de terras\".\r\n",
+  "Localidade": "Sítio das Serras",
+  "Marcos Geográficos": "Termo da Vila de Nossa Senhora do Livramento do Parnaguá",
+  "Ribeira": "Parnaguá, Santa Maria e Piauí",
+  "Confrontantes": "Fazenda do Barreiro e Fazenda de Santo Antônio",
+  "Justificativas": "Tinha gado; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "E porque pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. E havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0084"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0084
+Carta de concessão a Manoel Vieira Chaves - 01/09/1779
+Registro de uma carta de data e sesmaria, passada a Manoel Vieira Chaves.
+Domingos Barreiras de Macedo, ouvidor geral pela lei, Fernando José Veloso de
+Miranda e Sousa, capitão da companhia de Dragões, Manoel Veloso [Taveira], vereador
+mais velho no presente ano, e governador desta capitania de São José do Piauí, por Sua
+Majestade Fidelíssima, que Deus guarde. Fazemos saber aos que esta nossa carta de
+data e sesmaria venham a ver que Manoel Pereira Chaves, morador na vila [Paranaguá],
+a suceder da câmara nos representou que ele senhor e possuidor de um sítio de terras de
+criar gados no campo de Gilbões, termo da mesma Vila, porque deles tenha título, o
+pretendia haver por própria das ordens de Sua Majestade, por carta de data e sesmaria,
+no que chamam das Serras passar de 3 léguas de comprimento e um de largura em que
+tem princípio pela parte do norte, como a parte da fazenda chamada do Barreiro dos
+herdeiros do defunto [ausente] Antonio Gomes, desde os [raios] do poente corre o brejo
+onde nasce um rio de nome de Santa Maria; e da parte do sul com a serra que [mede] a
+fazenda de Santo Antônio do capitão Domingos Barreira de Macedo e da parte do norte
+com o rio Piauí; a qual sorte da serra [?] com data sem benefício ou cultura alguma que
+lá houverem depousado seus antepossuidores porque atendendo também a informação
+dos oficiais da Câmara, o doutor provedor que foi servido, digo, provedor da Fazenda
+Real foi ouvido, e se lhe não o forem dada alguma e ser em utilidade da mesma Real
+Fazenda, e cultivarem-se as terras neste Estado. Haverá por bem conceder-lhe em nome
+de Sua Majestade por data e sesmarias as ditas 3 léguas de terra se cumprido e uma de
+largo na forma e parte que pede, com as confrontações que declara, e com as condições
+expressadas nas Reais Ordens, e com a se não fazer trespasse em meio algum, nenhum
+tempo, a pessoa alguma, religião ou comunidade sem que primeiro dê parte na Casa da
+Fazenda ao provedor dela para se nos fazer presente e ver se se deve ou não consentir
+no tal trespasse, sob pena de ficar nula esta data ou se possa novamente conceder a
+outrem. Concedo como se lhe passa carta para que o dito Manoel Vieira Soares haja,
+logre e possua as sobreditas terras como coisa sua própria para ele e seus herdeiros,
+ascendentes e descendentes sem pensão nem tributo algum mais que o dízimo a Deus,
+Nosso Senhor, dos frutos faz que nela houver ou lavrar a qual concessão lhe fazemos
+não prejudicando a terceiros nem a Sua Majestade; se no dito sítio quiser mandar fundar
+alguma vila reservando os paus reais que pelas houver para embarcações com a
+declaração que mandara confirmar esta data por Sua Majestade dentro de 3 anos
+primeiros seguintes. E cultivará as ditas terras de maneira que deem frutos; e dará
+caminhos públicos e particulares onde forem necessários para pontes, fontes, portos e
+pedreiras; e havendo nas mesmas terras estradas públicas que atravesse rio caudaloso
+que necessite de barco para se passar não só ficará de ambas as bandas deste rio e terra
+que baste para uso público, mas sim também de uma delas meia légua de terras em
+quadra para a comodidade pública e de quem arrendar a dita paragem; e se demarcará
+ao tempo da posse, por rumo de cordas e braças craveiras, como é estilo e Sua
+Majestade manda. E outrossim, não poderá suceder nela a religião alguma e outras
+pessoas eclesiásticas por nenhum título que seja, e acontecendo possuí-las será com os
+encargo de pagarem delas dízimos a Deus como se lhe forem possuídas por seculares. E
+faltando a quais forem destas cláusulas, se haverão as ditas terras por devolutas e se
+darão a quem as denunciar como o mesmo senhor ordena. Pelo que manda ao provedor
+da Fazenda Real, mais ministros, e pessoas a que tocar, que forma referida e com as
+
+condições expressadas deixem ter e possuir a sobreditas terras ao dito Manoel Vieira
+Soares como coisa sua própria para ele e seus herdeiros, ascendentes e descendentes o
+que assim também compram e guardem esta nossa carta de data e sesmaria tão
+inteiramente como nela se contém a qual lhe mandamos passar por nós assinada e
+selada com o sinete das armas reais que se registrara nas partes onde tocar e se passou
+por duas vias. Dada nesta cidade de São José do Piauí ao primeiro de setembro do ano
+no nascimento de Nosso Senhor Jesus Cristo de [1779]. Eu, Manoel Vicente Costa,
+secretário do governo desta capitania, o fiz escrever. //Fernando José Veloso de
+Miranda// Estava o selo// Carta de data e sesmaria, porque Vosso Senhorias hão por bem
+conceder em nome de Sua Majestade a Manoel Vieira Chaves 3 léguas de terras de
+comprido e uma de largo na paragem chama os Sal[?] da Vila do Paranaguá com as
+confrontações que na mesma se declara. Para Vossa senhora ver.
+-Fim da Transcrição-
+Referência:
+APEPI, Livro 1, fls. 59v-60v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0188
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0204",
+  "Nome": "Martinho da Cruz Viana",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-06-1802",
+  "Observações da sesmaria": "O suplicante requereu duas braças de comprimento e uma braça de largura na vila do Recife, a oeste do portão da Fortaleza das Cinco Pontas.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Fortaleza das Cinco Pontas",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores interinos determinaram o pagamento anual do foro régio no valor de mil réis por braça concedida. Os governadores interinos também determinaram a obrigação da confirmação régia. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0188"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0188 
+Carta de doação e sesmaria de Martinho da Cruz Viana – 19/06/1802 
+ 
+Martinho da Cruz Vianna com 20 palmos de terra e 16 braças de fundo da parte de poente, 
+na rua de Nossa Senhora do terço desta vila, pegando da última casa da parte do poente que 
+são de Manoel Antônio da Silva. 
+Dom José Joaquim da Cunha de Azevedo Coutinho, do Conselho de Sua Alteza Real, bispo de 
+Pernambuco, Pedro Sheverin, chefe de esquadra e intendente da comarca, o desembargador José 
+Joaquim Nabuco de Araújo, ouvidor geral desta comarca, governadores interinos da capitania 
+geral de Pernambuco etc. Fazemos saber aos que esta carta de data de sesmaria virem, que 
+Martinho da Cruz Viana nos fez um requerimento do teor e maneira seguinte: = Excelentíssimo e 
+Reverendíssimo Senhor e Ilustríssimos Senhores = Diz Martinho da Cruz Viana, homem branco, 
+morador nesta praça, que ele suplicante fizera um requerimento a Vossa Excelência 
+Reverendíssima e Senhorias, para fatura de tirar por sesmaria 20 palmos de terra e 16 braças de 
+fundo da parte do poente, pagando foro anualmente a Sua Majestade, pelo que for do estilo pagar, 
+cujo chãos que o suplicante pretende é ao sair para a Fortaleza das Cinco Pontas, da parte do 
+poente como fica; e por que o dito ainda não está despachado, segundo diz o porteiro nestes 
+termos, roga o suplicante a Vossa Excelência Reverendíssima e Senhorias, por equidade sejam 
+servidos despachar o requerimento do suplicante, com a reta justiça que costumam, nestes termos 
+= Pede a Vossa Excelência Reverendíssima e Senhorias sejam servidos deferir ao suplicante no 
+que pretende = E receberá mercê = E sendo visto por nós o seu requerimento, ordenamos por 
+despacho de 2 de julho de 1799 informasse a Câmara respectiva, a qual informou ser útil a 
+pertençam do suplicante, e por outro nosso despacho de 3 de agosto do dito ano, mandamos 
+informar ao procurador da Coroa e Fazenda, a qual satisfez que visto não aparecer impedimento e 
+estar livre como informou a respectiva Câmara, estava nos termos de se lhe conceder pagando de 
+foro por cada palmo anual 100 réis; ficando porém advertido e obrigado que se acontecer, será 
+preciso porque a defesa da Vila ou a Fortaleza melhor poder julgar a sua artilharia ser demolida a 
+casa que ao suplicante fizer a sua custa; por que mostrou pelos mais documentos que juntou estar 
+nos termos se de lhe conferir a sesmaria que pretende, havendo já prestado a fiança do estilo na 
+Contadoria da Real Fazenda, a folha 119 verso do Livro 5º delas, lhe deferimos por outro nosso 
+despacho de 20 de novembro do referido ano se passasse carta de sesmaria na forma do estilo, 
+com foro proporcionado aos palmos de terra que pretende no lugar requerido; em cumprimento 
+do que e pela faculdade que Sua Alteza Real nos concede no Capítulo 15 do Requerimento, 
+pagando o foro anual de 100 réis por cada um palmo, a qual terra possuirá e gozará ele suplicante 
+
+e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para todo o 
+sempre, não prejudicando a terceiro, e não passará a dita a religião e pessoas eclesiásticas, salvo 
+sendo com os mesmos encargos com que as possuem os seculares, sendo obrigado a requerer 
+confirmação régia e de fazer o edifício para que ela são dadas, a fim do aumento da população 
+desta Vila, e não cumprindo assim se dar por devolutas e novamente ser conferida a quem a 
+requerer, com a condição de que se dar por devolutas e novamente ser conferida a quem a 
+requerer, com a condição de que a dita terra nunca se dividirá em porções, nem repartirá, senão 
+por estimação, andando encabeçada em uma só pessoa, na forma da Ordenação Livro 4º título 96 
+§ 23, e não passará a dita terra a herdeiro ou outra qualquer pessoa sem concessão da Junta da 
+Real Fazenda, para nela se dar nova fiança e me fazerem as devidas escriturações. Pelo que 
+ordenamos aos ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam 
+cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo dar ao suplicante 
+posse real, efetiva e atual, na forma costumada, debaixo das cláusulas referidas e das mais da 
+Ordenação Título das Sesmarias, visto constar por bilhete que apresentou achar-se dada a fiança 
+ao foro anual a razão de 100 réis por cada palmo na Contadoria de Real Fazenda a folha 112 
+verso do Livro 5º delas = Em firmeza do que lhe mandamos passar a presente por nós assinada e 
+selada com o selo da armas reais, que se registrará na Secretaria deste Governo e Contadoria da 
+Real Fazenda. Dada no Recife de Pernambuco, aos 19 dias do mês de junho. Manoel Freire 
+Mariz, oficial da Secretaria do Governo, a fez. Ano do Nascimento de Nosso Senhor Jesus Cristo 
+de 1802. Manoel da Cunha de Azevedo Coutinho Souza Chichorro, secretario do Governo, a fez 
+escrever = Dom José, bispo de Pernambuco = Pedro Sheverin = José Joaquim Nabuco de Araújo. 
+- Fim da carta - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 77-79. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

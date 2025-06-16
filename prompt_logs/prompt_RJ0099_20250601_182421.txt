@@ -1,0 +1,139 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0099
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Leonel de Magalhães",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "01-04-1595",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. ",
+  "Localidade": "Na fronteira do mar, da outra banda da rua que vai para Nossa Senhora",
+  "Marcos Geográficos": "Várzea de Nossa Senhora",
+  "Confrontantes": "Testada de Julião Rangel",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foi possível identificar as justificativas do suplicante pelo fato de a carta apresentar-se incompleta.",
+  "Observações do deferimento e da concessão": "Quanto ao deferimento, a carta informa que das 12 braças solicitadas pelo suplicante, foram concedidas numa margem entre 8 a 10 braças.",
+  "Observações das exigências": "Citou-se o Regimento do Governador Geral Antônio Salema, o qual diz que: \"as terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não aproveitem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo, com as condições e obrigações do foral dado às ditas terras e de minha ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos, e que dentro do dito tempo, as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade as tiverem perdidas por as não aproveitarem, vá tornarem a pedir, vós lhes podereis denovo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas\". Determinou-se ao suplicante que \"haja a posse e senhorio do dito chão\", bem como exigiu-se que \"viva e resida na dita cidade ou em seu termo ao menos os ditos 3 anos em o dito regimento declarados, dentro do qual tempo ele não poderá vender, nem enlear, nem por nenhuma via traspassar o dito chão a pessoa alguma sem licença do dito Senhor capitão e governador ou de quem adiante tiver poder para lhe dar e, da dita maneira, lhe dava o dito chão e, acabados os ditos 3 anos, tendo ele feito no dito chão casas e benfeitorias, ele o poderá vender, trocar, descambar, dar, doar e fazer tudo o que lhe bem vier e aprouver como coisa sua própria, isenta que é\".",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0099"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0099
+Carta de concessão de sesmaria da terra de Lionel de Magalhães de 1° de abril de 1595
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1595 anos, em o 1° dia do mês de abril do dito ano, em esta
+cidade de São Sebastião do Rio de Janeiro do Brasil, em as pousadas de mim escrivão adiante
+nomeado, apareceu um filho de Lionel de Magalhães e me apresentou uma petição com um
+despacho nela do Senhor Salvador Correia de Sá, capitão e governador desta dita cidade e
+capitania e governança deste Rio de Janeiro, por El Rei nosso Senhor. Da qual petição e
+despacho dela o traslado é o seguinte: diz Lionel de Magalhães, morador nesta cidade, que
+ele, pela necessidade que tem, mercou uns chãos a Tomé de Alvarenga para fazer umas casas
+para se agasalhar com sua mulher e filhos, os quais estão na várzea de nossa Senhora entre
+Julião Rangel e Amador Brás [. . . . . . . . . . . . . . .] tão poucos que lhe [. . . . . . . . . . . . .]r casas
+para agasalhar [. . . . . . . . . . . .] pede a Vossa Senhoria, havendo respeito acima dito, lhe faça
+mercê de lhe dar de sesmaria na fronteira do mar, da outra banda da rua que vai para nossa
+Senhora, 12 braças de chão de comprido, a largura para o mar o que a Vossa Senhoria bem
+parecer. E receberá mercê. Despacho do Senhor capitão e governador: dou ao suplicante,
+partindo com a testada de Julião Rangel por adiante 8 braças até 10 havendo. Salvador
+Correia de Sá. E tudo visto pelo dito Senhor capitão e governador a petição do dito Lionel de
+Magalhães e o que ele pedia, visto ser justo, havendo respeito ao proveito que se pode seguir
+acerca da República, ao serviço de Deus, de El Rei nosso Senhor e por a terra se povoar, deu
+ao dito suplicante Lionel de Magalhães o chão dito, digo, o chão contido no dito seu despacho
+e, conforme a ele, porquanto dizia que estava devoluto e por aproveitar para o dito Lionel de
+Magalhães aproveitar e fazer casas, como diz, não sendo já dado a outra pessoa 1°, o qual
+chão diz que está no dito lugar, tem a dita medida e que parte pelas ditas confrontações, como
+na sua petição diz, e a braça será braça craveira .ss., a saber duas varas de medir por uma,
+como no Reino se costuma de medir, o qual chão lhe deu e concedeu na maneira adiante
+declarada, segundo forma do Regimento do governador geral, que foi nesta dita cidade
+Antônio Salema, de que o traslado é o seguinte: e as terras que estiverem dentro do termo e
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas
+a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não
+aproveitem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas,
+as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa
+
+mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem
+granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente
+o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo, com as condições e obrigações
+do foral dado às ditas terras e de minha ordenação do Livro 4°, título das sesmarias, com
+condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que
+lhe assim forem dadas ao menos 3 anos, e que dentro do dito tempo, as não possam vender,
+nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade as tiverem
+perdidas por as não aproveitarem, vá tornarem a pedir, vós lhes podereis denovo dar com as
+condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim
+derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas com as quais
+condições, obrigações e declarações, lhe assim deu o dito Senhor capitão e governador o dito
+chão ao dito suplicante Lionel de Magalhães, pela dita maneira, para sua guarda e segurança,
+lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio do dito chão
+para ele, todos seus herdeiros e sucessores ascendentes e descendentes que após dele vierem,
+com tal condição e entendimento que ele viva e resida na dita cidade ou em seu termo ao
+menos os ditos 3 anos em o dito regimento declarados, dentro do qual tempo ele não poderá
+vender, nem enlear, nem por nenhuma via traspassar o dito chão a pessoa alguma sem licença
+do dito Senhor capitão e governador ou de quem adiante tiver poder para lhe dar e, da dita
+maneira, lhe dava o dito chão e, acabados os ditos 3 anos, tendo ele feito no dito chão casas e
+benfeitorias, ele o poderá vender, trocar, descambar, dar, doar e fazer tudo o que lhe bem vier
+e aprouver como coisa sua própria, isenta que é, o que tudo manda que se cumpra e guarde,
+sem dúvida, nem embargo algum, que a ele seja posto e que esta carta seja registrada dentro
+em 1 ano nos livros da Fazenda Real, como o dito Senhor em seu regimento manda sob as
+penas em ele contidas e declaradas, e porque o sobredito Lionel de Magalhães tudo prometeu
+de ter, manter e cumprir, pela dita maneira lhe mandou passar esta carta de sesmaria e por
+verdade eu, Pero da Costa, escrivão das sesmarias e tabelião das notas por El Rei nosso
+Senhor, em esta sua cidade de São Sebastião e seus termos, que este instrumento de carta de
+sesmaria escrevi e tomei nos meus livros das notas e tombo das cartas das sesmarias desta dita
+cidade que meu poder ficam, onde o dito instrumento fica assinado por o dito Senhor capitão
+e governador. //Salvador Correia de Sá//
+-fim da transcrição-
+
+Observações do documento:
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg. 97-99.
+Original no livro: Arquivo Nacional- Seção de Doc. Hist.- Livro transcrito: pg. 97-99.
+Códice 778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

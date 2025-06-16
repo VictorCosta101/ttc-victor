@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0024
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Vasco Marinho Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía uma légua e meia em quadra e estava localizada no poente de Salvador, nos sertões de onde se conquistaram o território dos indígenas, nas proximidades do rio Paraguaçu, fazendo fronteira ao sul com as terras de Amaro Homem de Almeida (BA0014).",
+  "Localidade": "Proximidades do rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Amaro Homem de Almeida",
+  "Observações da petição": "Essa sesmaria foi solicitada por dois suplicantes, Vasco Marinho Pereira e Francisco Rebelo de Macedo. Este tinha solicitado para ele e cada um de seus três filhos três léguas em quadra; aquele tinha solicitado uma légua e meia em quadra. No final, o governador-geral concedeu a sesmaria apenas à Vasco Marinho Pereira.",
+  "Justificativas": "Não tinha terras; As terras eram devolutas; Tinha escravos; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que era cidadão;",
+  "Observações do deferimento e da concessão": "Essa sesmaria foi solicitada por dois suplicantes, Vasco Marinho Pereira e Francisco Rebelo de Macedo. Este tinha solicitado para ele e cada um de seus três filhos três léguas em quadra; aquele tinha solicitado uma légua e meia em quadra. O provedor da Fazenda afirmou que as terras solicitadas por Francisco Rebelo eram muito extensas, por isso, ao invés de três léguas em quadra para ele e cada um de seus filhos, separadamente, deveriam ser concedidas três léguas em quadra para ele e seus filhos, em uma única sesmaria. O governador-geral, no entanto, concedeu apenas as terras solicitadas por Vasco Marinho Pereira.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0024"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um Alvará de sesmaria de légua e meia de terra em quadra concedida a Vasco 
+Marinho 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este Alvará de doação e 
+sesmaria virem que Vasco Marinho Pereira me enviou apresentar por sua petição cujo teor é o 
+seguinte. Senhor. Francisco Rebelo de Macedo, morador cidadão casado nesta cidade da Bahia 
+com sua fazenda de canas que lavra no Iguape por seu feitor e escravos que a ele e a 3 filhos 
+que teve se lhe não deu nunca terra de sesmaria, e tem notícia que estão devolutos muitos 
+campos ao poente desta cidade, no sertão que hora se conquistou do gentio bárbaro, ele e Vasco 
+Marinho Pereira, seu sobrinho, tem cabedal para povoar as que Vossa Senhoria lhes der no que 
+receberá a fazenda de Sua Alteza aumento em suas rendas. Pedem à Vossa Senhoria lhe faça 
+mercê dar de sesmaria, em nome de Sua Alteza, para ele, para o dito Vasco Marinho e para seus 
+3 filhos pastos de gados nos ditos campos gerais adiante da data de Amaro Homem de Almeida 
+para o sul ou para qualquer dos lados da dita data, de onde esteve o por dar; e as acharem de 
+servir. E receberá mercê. E  visto a resposta do provedor da Coroa e Fazenda Real que é a 
+seguinte. Bem se podem conceder aos suplicantes as 3 léguas de terra que pedem em quadra 
+que como são 5, ainda são menos que as do Regimento, porém vejo que os suplicantes pedem 
+para cada um 3 léguas em quadra, e ainda que são pessoas distintas parece muito, e assim que 
+ao suplicante Francisco Rabelo de Macedo se devem conceder duas léguas; aos mais suplicantes 
+que são 4 léguas e meia a cada um em quadra, obrigando-se a povoá-la no termo da lei, sem 
+prejuízo de terceiro. Bahia, 28 de outubro de 1673 // Rocha // E informação do provedor-mor 
+da Fazenda Real que é a que se segue. Senhor. O suplicante não nomeia os nomes de seus 3 
+filhos para se lhe conceder terra separadamente da data de seu pai, porque se não pode conceder 
+. . . . para ser quantia certa a cada um, e assim me parece que se podem conceder 3 léguas de 
+terra em quadra para si e seus filhos e a Vasco Marinho légua e meia, como parece ao procurador 
+da Fazenda na forma do Regimento e Foral, sem prejuízo de terceiro. Vossa Senhoria mandará 
+o que for servido. Bahia, 28 de outubro de 1673. Antonio Lopes de Ulhoa. Hei por bem conceder 
+e dar como pelo presente faço de Sua Alteza à Vasco Marinho léguas e meia de terra em quadra, 
+assim como a pede e comporta em sua petição, não prejudicando a terceiro nem as terras que 
+se determinou tivessem as povoações que de novo se fizessem para se darem aos seus 
+povoadores, e será obrigado a povoá-las no termo da lei, pois nesta conformidade lhe as concedo 
+com todas as suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se 
+acharem, tudo forro, livre e isento de pensão ou tributo algum, salvo dízimo a Deus, que pagará 
+dos frutos que nelas houver, e por elas será obrigado a dar caminhos livres ao Conselho para 
+fontes, pontes e pedreiras. Pelo que ordeno e mando a todos os ministros de justiça a que o 
+conhecimento deste com direito deva ou possa pertencer, lhe mandem dar a posse real na forma 
+costumada debaixo das cláusulas acima referidas, e as mais da Ordenação, título Das Sesmarias. 
+Para firmeza do que lhe mandei passar o presente, sob meu sinal e selo de minhas armas, a qual 
+se registrará nos Livros da Secretaria do Estado e nos mais a que tocar, e se guardará e cumprirá 
+tão pontual e inteiramente como nele se contém sem dúvida, embargo nem contradição. Antônio 
+Garcia o fez nesta Cidade de Salvador, Bahia de Todos os Santos, em 09 dias do mês de 
+novembro, ano de 1673. Bernardo Vieira Ravasco o fiz escrever // Afonso Furtado de Castro 
+do Rio de Mendonça // Registrada no primeiro Livro dos Registros da Secretaria do Estado do 
+Brasil, a que toca à folhas 187 verso. Bahia, 09 de novembro de 1673 // Ravasco // Cumpra-se 
+e registre-se como Sua Alteza manda. Bahia, 13 de novembro de 1673 // de Ulhoa // Registrou-
+se em 14 do dito e se entregou ao criado do procurador da Coroa // Miguel Pinto de Freitas // 
+- Fim da transcrição -  
+ 
+
+Observações do documento: 
+ 
+- O nome original dos sesmeiros é Francisco Rebello de Macedo e Vasco Marinho Pereira; 
+- A carta não está contida na SILB;  
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 41v – 42. 
+Numeração original no livro: 38 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

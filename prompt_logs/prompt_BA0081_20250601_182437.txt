@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0081
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Ventura da Cruz Arrais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "31-01-1684",
+  "Observações da sesmaria": "A sesmaria possuía 10 braças de largura e 40 de comprido, na rua de baixo de Nossa Senhora da Ajuda, junto às hortas e brejo de Salvador, fazendo fronteira com o quintal do capitão João Rodrigues Reis.",
+  "Localidade": "Rua de baixo de Nossa Senhora da Ajuda, junto às hortas, e brejo de Salvador",
+  "Confrontantes": "João Rodrigues Reis",
+  "Observações da petição": "O sesmeiro queria oficializar as terras, pois estava tendo dúvidas sobre os limites delas com as terras do capitão João Rodrigues Reis.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro queria oficializar as terras, pois estava tendo dúvidas sobre os limites delas com as terras do capitão João Rodrigues Reis.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Bezerra",
+  "referencia": "BA0081"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA 
+ 
+Registro do alvará de doação, e sesmaria de 8, ou 10 braças de terra de largo, pouco 
+mais ou menos, e 30, ou 40 de comprido. 
+ 
+ 
+Antônio de Sousa de Meseses, governador e capitão-mor do Estado do Brasil, etc. Faço 
+saber aos que este alvará de doação, e sesmaria virem que havendo respeito ao que por parte do 
+Doutor Ventura da Cruz Arrais, se me enviou a representar por sua petição, cujo teor é o 
+seguinte: Senhor, diz o Doutor Ventura da Cruz Arrais, que ele é senhor, e possuidor de umas 
+casas sitas na rua de baixo de Nossa Senhora da Ajuda, junto às hortas, e brejo desta cidade, 
+aonde de presente vive, cujas confrontações tem por três partes com clareza por seus títulos, e 
+só pelas partes dos quintais, cortando ao nordeste não dá o seu título a clareza necessária do 
+hereo com quem parte, posto que está de posse da parte, por esta parte com as terras, e quintal 
+do capitão João Rodrigues Reis, por cuja razão a queiram voluntariamente esbulhar da parte do 
+dito quintal alguns capitães desta praça, que moram no quartel nas casas que ficam a oeste na 
+rua que chamam dos capitães, dizendo, que parte desta terra era de Sua Majestade que serão 
+pouco mais, ou menos 8, ou 10 praças de largo, e 30, ou 40 de comprido, começando a contar 
+no comprimento as braças desde o muro a que chamam da galé, correndo para o leste até o 
+regato do brejo, e porque o suplicante quer conservar-se pacífico na dita terra que possui, e 
+dizem toca a Sua Majestade. Pede a Vossa Senhoria lhe faça mercê dar de sesmaria as ditas 30, 
+ou 40 braças de terra de comprido, ou o que na verdade se achar, começando a contá-las do 
+muro a que chamam a galé para baixo, correndo ao leste até o regato do brejo, com toda a sua 
+largura, que serão pouco mais, ou menos 8, ou 10 braças de largo, tendo por demarcação o partir 
+na largura para a parte do nordeste com terras, e quintal do capitão João Rodrigues Reis. E 
+receberá Mercê. E vista a resposta do procurador da Fazenda Real, que é a seguinte: A terra que 
+se dá de sesmaria é a que está inculta, e sem se aproveitar, ou fosse já algum tempo lavrada, e 
+aproveitada, ou matos maninhos, que nunca foram lavrados, e aproveitados. Esta terra que o 
+suplicante pede é quintal das suas casas, e deve estar aproveitada, e dela está de posse, como 
+diz, e somente a pede de sesmaria por evitar alguma dúvida, e por se dizer que toca a Sua 
+Majestade, pelo que sendo como diz na petição nenhuma dúvida tenho a que se lhe dê de 
+sesmaria e com as condições, e cláusulas ordinárias e na forma da lei. Bahia, 28 de janeiro de 
+1684 // Bezerra // E a informação do provedor-mor da dita Real Fazenda, que também é a que 
+se segue: Senhor, com o parecer do procurador da fazenda informo a Vossa Senhoria para 
+mandar o que for servido. Bahia, 28 de 1684 // Francisco Lamberto // Hei por bem de conceder 
+aos suplicantes, e dar de sesmaria, como pelo presente faço, em nome de Sua Majestade, as 
+ditas 8, ou 10 braças de terra de largo, pouco mais, ou menos, e 30, ou 40 de comprido, assim 
+como a pede, e confronta em sua petição, como parece aos ministros da fazenda, não 
+prejudicando a terceiro, com todas suas águas, campos, matos, testadas, logradouros e mais 
+úteis que nelas se acharem, tudo forro, livre, e isento de pensão ou tributo algum, salvo dízimo 
+a Ordem de Cristo, que pagará dos frutos que nela houver, e por ela será obrigado a dar 
+caminhos públicos a todos, e a particulares para fontes, pontes, portos, e pedreiras, a qual lhe 
+concedo por ser tão pouca, e conter o que se declara. Pelo que ordeno a todos os ministros de 
+justiça a que o conhecimento deste com direito deva, ou possa pertencer, lhes façam dar a posse 
+real, efetiva e atual, se necessário for, na forma costumada, debaixo das cláusulas acima 
+referidas, e as mais da ordenação título das sesmarias. Para firmeza do que lhe mandei passar a 
+presente sob meu sinal e selo de minhas armas, o qual se registrará nos livros da secretaria deste 
+Estado, e nos mais a que tocar, e se guardará, e cumprirá tão pontual e inteiramente, como nele 
+se contém, sem dúvida, embargo, nem contradição alguma. Dada nesta cidade do Salvador, 
+Bahia de Todos os Santos em os 31 dias do mês de janeiro ano de 1684. Antônio Garcia, oficial 
+maior da secretaria deste Estado do Brasil que sirvo por impedimento do secretário dele, e 
+
+mandado do senhor Antonio de Sousa de Meneses, governador e capitão-mor do mesmo Estado, 
+o escrevi // Antonio de Sousa // Selo // Registrado no livro segundo dos registros da secretaria 
+do Estado do Brasil a que toca a folhas 116. Bahia, 1 de fevereiro de 1684 // Garcia // Gratis // 
+Registre-se. Bahia, 1 de março de 1684 // Lamberto // Pantaleão Freire Porto a registrou no 
+mesmo dia. 
+ 
+Fim da transcrição. 
+ 
+Referências: 
+BA - AN, Códice 427, fls 239 - 240v. 
+Numeração original no livro: 171. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

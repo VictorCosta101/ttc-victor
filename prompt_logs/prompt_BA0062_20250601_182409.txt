@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0062
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "José Malheiro Pereira, Marcos Malheiro Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-11-1679",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas de comprimento e meia légua de largura e estava localizada no rio Buranhém, em Porto Seguro.",
+  "Localidade": "Rio Buranhém",
+  "Marcos Geográficos": "Rio Buranhém",
+  "Justificativas": "As terras eram devolutas; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0062"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria de Marcos Malheiro Pereira e José Malheiro Pereira, de duas léguas 
+de terra de comprimento e meia de largura, na capitania de Porto Seguro, no sítio de Itakamosi 
+até a laje. 
+ 
+Roque da Costa Barreto do Conselho de Sua Alteza. Faço saber aos que este alvará de doação 
+e sesmaria virem que, havendo respeito do que por parte de Marcos Malheiro Pereira e José 
+Malheiro Pereira, se me enviou a representar por sua petição, cujo teor é o seguinte: senhor 
+Marcos Malheiro Pereira, e José Malheiro Pereira e porquanto no rio desta Vila de Porto Seguro 
+estão uns matos maninhos da banda do sul, e hora eles os querem aproveitar começando de 
+Itakamosi até a lage, que podem ter de comprimento duas léguas, pouco mais ou menos, e 
+estarem devoluto. Pedem a Vossa Senhoria lhes dê de sesmaria para eles e seus ascendentes e 
+descendentes, entrando para o sul o que puderem romper. E receberão mercê. Senhor, a largura 
+desta data que se pede nesta petição é meia légua. Vossa Senhoria mandará o que for servido. 
+E vista a resposta do Procurador da Fazenda, que é a que se segue. Não se me oferece dúvida a 
+se conceder aos suplicantes as duas léguas de terra de comprimento e meia de largura no sítio 
+que declaram com as cláusulas ordinárias. Dízimos a Ordem de Cristo sem prejuízo de terceiros, 
+cultura no termo do regimento, e demarcação ao tempo da posse que deem estradas públicas a 
+todos e particulares para fontes, portos e pedreiras. Bahia, 2 de novembro de 1679. //Freitas//. 
+E a informação do provedor-mor da dita Real Fazenda, que é também a seguinte: senhor 
+entendo que se deve deferir aos suplicantes na forma que responde o provedor da Fazenda. 
+Vossa Senhoria mandará o que for servido. Bahia, 4 de novembro de 1679. //Antônio Lopes de 
+Ulhôa// Hei por bem de lhe conceder, como pelo presente faço em nome de Sua Alteza, as duas 
+léguas de terra de comprimento e meia de largura, no sítio que declaram em sua petição como 
+parece aos Ministros da Fazenda, não prejudicando a terceiros, com todas suas águas, campos, 
+matos, testadas, logradouros, e mais úteis que nelas se acharem, todo forro, livre e isento de 
+pensão ou tributo algum. Salvo dízimo a Ordem de Cristo, que pagarão dos frutos que nelas 
+houver, e por elas serão obrigados a dar caminhos livres ao Conselho para fontes, pontes e 
+pedreiras, demarcando-se ao tempo da posse, citados os héreos, por se evitarem dúvidas que 
+podem acontecer. Pelo que ordeno a todos os ministros de justiça, a que o conhecimento deste 
+com direito deva ou possa pertencer lhes façam dar a posse real e efetiva e atual na forma 
+costumada, debaixo das cláusulas acima referidas e as mais da ordenação, título das sesmarias. 
+Para firmeza do que lhe mandei passar o presente sob meu sinal e selo de minhas armas, o qual 
+se registrará nos livros da secretaria do Estado, e nos mais a que tocar e se guardará e cumprirá 
+tão pontual e inteiramente como nele se contém, sem dúvida embargo nem contradição alguma. 
+Antônio Garcia, o fez nesta cidade do Salvador, Bahia de Todos os Santos, em os 10 de 
+novembro de 1679. Bernardo Vieira Ravasco, o fiz escrever. //Roque da Costa Barreto// Selo. 
+Alvará de doação e sesmaria de duas léguas de terra de comprimento e meia de largura, que 
+Vossa Senhoria teve por bem conceder a Marcos Malheiro Pereira e José Malheiro Pereira, na 
+capitania de Porto Seguro, no sítio que declaram em sua petição, não prejudicando a terceiros 
+na forma e pelos respeitos acima declarados para Vossa Senhoria do Estado do Brasil, a que 
+toca a folhas 68, verso. Bahia, 10 de novembro de 1679. Despacho do provedor-mor. Registre-
+se nos livros a que toca. Bahia, 20 de dezembro de 1679. //Antônio Lopes de Ulhoa// E se 
+registrou em dia, mês, e ano acima. //João da Costa//. 
+ 
+-Fim da transcrição- 
+Observações do documento: 
+ 
+
+Os nomes dos sesmeiros, tal qual constam no documento original são:  Marcos Malheiro Pereira 
+e José Malheiro Pereira. 
+ 
+Referência: 
+ 
+AN, Códice 427, fls. 163-164 
+Numeração original do livro: 123 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

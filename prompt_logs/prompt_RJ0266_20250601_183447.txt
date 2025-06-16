@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0266
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Antunes Ferreira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-10-1754",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas nos sertões gerais da Serra de Sambê",
+  "Marcos Geográficos": "Serra de Sambê, sertões gerais, pântanos alagadiços do ribeiro O Grande",
+  "Confrontantes": "Terras de José Pereira Rabelo",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; As terras eram devolutas; Pretendia povoar as terras com dispêndio de sua fazenda; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante também alegou que as terras eram \"capazes de benefício para criar gados e outras lavouras nas partes altas\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar ficará reservado de uma das margens dele a terra que baste para a serventia pública\". Determinou-se também que, na terra concedida, fossem reservados os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0266"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0266
+Carta de concessão de Manuel Antunes Ferreira de 17 de outubro de 1754
+José Antônio Freire de Andrade, governador interino das capitanias das Minas Gerais e Rio de
+Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Manuel Antunes Ferreira, morador no termo da vila de Santo Antônio de Sá, que
+nos sertões gerais da Serra de Sambê, da parte da nascente, se achavam vagos e sem posse de
+pessoa alguma, por não serem ainda dadas, uns pântanos alagadiços do ribeiro chamado O
+Grande, e por serem capazes de benefício para criar gados e outras lavouras nas partes altas,
+queria que se lhe concedesse por ser mais 1 légua de terra na dita paragem, fazendo testada
+onde acabar a data de José Pereira Rabelo ou quem direito for, e com duas de sertão para em
+todo o modo compreender os ditos pântanos de uma e outra parte de ambos os ribeiros,
+seguindo o rumo da data do dito Rabelo, pedindo-me lhe mandasse passar sesmaria na forma
+do estilo. Sendo visto o seu requerimento, em que foi ouvido o Senado da Câmara da vila de
+Santo Antônio de Sá de Macacu, a quem se não ofereceu dúvida, nem ao provedor da Fazenda
+Real e procurador da Coroa dela, a quem se deu vista. Hei por bem de dar de sesmaria, em
+nome de Sua Majestade e em virude da ordem do dito Senhor de 15 de junho de 1711, ao dito
+Manuel Antunes Ferreira 1 légua de terra de testada com 2 de sertão na parte acima declarada;
+com as confrontações expressadas; sem prejuízo de terceiro ou do direito que alguma pessoa
+tenha a elas; com declaração que as cultivará e mandará confirmar esta minha carta por Sua
+Majestade dentro de 2 anos, e não fazendo se lhe denegará mais tempo; antes de tomar posse
+delas, as fará medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas
+com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes e estivas
+onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se
+atravessar ficará reservado de uma das margens dele a terra que baste para a serventia pública;
+nesta data [não] poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo
+será com encargo de pagar dízimos e outro qualquer que Sua Majestade lhe impor de novo, e
+não o fazendo se poderá dar a quem as denunciar; como também sendo o dito Senhor servido
+mandar fundar no distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum
+ou pensão para o sesmeiro; não compreenderá esta data vieros ou minas de qualquer gênero
+de metal que nela se descobrir, reservando também os paus Reais; e faltando qualquer das
+ditas cláusulas, por serem conforme as ordens de Sua Majestade e as que dispõe a Lei e Foral
+das Sesmarias, ficará privado desta. Pelo que mando ao ministro ou oficial de justiça, a quem
+pertencer o conhecimento desta, dê posse ao dito Manuel Antunes Ferreira das ditas terras na
+
+forma acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada
+e selada com o sinete de minhas armas, que se cumprirá como nela se contém, e se registrará
+nesta Secretaria do governo e mais partes aonde tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João de Souza e Melo a fez em 17 de outubro de 1754. O secretário do
+governo, Antônio da Rocha Machado, a fez escrever.
+//José Antônio Freire de Andrade//
+Carta porque Vossa Senhoria faz mercê a Manuel Antunes Ferreira de 1 légua de terra de
+testada com 2 de sertão por sesmaria, em nome de Sua Majestade, na parte e forma acima
+declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro que serve de registro das Sesmarias de governo a folha [9]1. Rio, a 17 de
+outubro de 1754.
+//Antônio da Rocha Machado//
+Registrada à folha 23 do Livro do Registro de Sesmarias que serve no Senado da Câmara
+desta cidade. Rio de Janeiro, 31 de outubro de 1754.
+//André Martins Brito//
+Registre-se nos Livros da Fazenda Real. Rio, 5 de novembro de 1754.
+//Melo//
+Registrada à folha 52 do Livro 35 que serve de registro desta Provedoria. Rio, 14 de outubro
+de 1754.
+//Luís Melo de Faria//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Manuel Antunes Ferreira uma légua de terra de testada e 2 de sertão na Serra do Sambé, na
+capitania do Rio de Janeiro. Rio, 17 de outubro de 1754.
+Manoel Antunes Ferreira foi atulizado para Manuel Antunes Ferreira.
+Referência:
+AHU_ACL_CU_017-1, Cx. 81\Doc. 18873
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

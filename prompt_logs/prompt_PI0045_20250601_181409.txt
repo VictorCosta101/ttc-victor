@@ -1,0 +1,118 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0045
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Bento Simões Borges",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-08-1798",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio do Riacho dos Bois",
+  "Ribeira": "Ribeira do Piauí",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "E porque pretendia haver título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a qualquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. E havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0045"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0045
+Carta de concessão de Bento Simões Borges - 02/08/1798
+Registro de carta de data e sesmaria de Bento Simões Borges
+Dom João de Amorim Pereira, cavaleiro da ordem de Cristo, sargento-mor de infantaria,
+fidalgo da casa real, governador da capitania de São José do Piauí, etc. Faço saber aos que
+esta minha carta de data e sesmaria virem que Bento Simões Borges, morador nesta data, me
+representou que na ribeira do Piauí desta freguesia, no cais denominado Riacho dos Bois,
+entre o dito riacho e a légua de onde se acha por terra devoluta, e porque ele tinha
+possibilidade para poder povoar de gados vacum, de qual grande me pedia se lhe concedesse
+em nome de Sua Majestade uma data e sesmaria de três léguas de terra de comprido e uma de
+largo, fazendo pião no referido sítio do Riacho dos Bois, correndo o seu comprimento por
+onde melhor conta lhe fizesse cultivar terras devolutas, ao que atendendo também a
+informação da Câmara e do provedor da Fazenda Real que foi ouvido, se lhe não ofereceu
+dúvida alguma e ser em utilidade da mesma Fazenda Real cultivarem as terras neste Estado.
+Hei por bem conceder-lhe em nome de Sua Majestade por data e sesmaria três léguas de terra
+de comprido e uma de largo, na forma e parte que pede, com as confrontações que declara e
+com as condições expressadas nas reais ordens, e com a de não fazer trespasse por meio
+algum, nem com tempo ou pessoa alguma, religião ou comunidade, sem que primeiro dê
+parte na Casa da Fazenda, ao provedor dela, para me fazer presente e ver se se deve ou não
+consentir no tal trespasse, sob pena de ficar nula esta data e se puder novamente conceder a
+outro. E nesta forma se lhe passa carta, para que o dito Bento Simões Borges haja, logre e
+possua as sobreditas terras como coisa sua própria para si e seus herdeiros ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos
+frutos que nela tiver ou lavrar, a qual conceção lhe faço não prejudicando a terceiro nem a
+Sua Majestade; se no dito sítio quiser fundar alguma vila, reservando os paus reais que nelas
+houver para embarcações, com declaração que mandará confirmar esta data por Sua
+Majestade dentro em três anos primeiros seguintes; e cultivará das ditas terras de maneira que
+deem frutos; e dará caminhos públicos e particulares onde forem necessários para pontes,
+fontes, portos e pedreiras; e havendo nas mesmas terras estradas públicas que atravesse rio
+caudaloso que necessite de barca para se atravessar, não só ficará de ambas as bandas do tal
+rio a terra que baste para uso público, mas sim também de uma delas meia légua de terra em
+
+quadra para comodidade pública e de quem arrendar a dita passagem; e demarcará ao tempo
+da posse por rumo de corda e braças craveiras, como é estilo e Sua Majestade manda; e
+outrossim, não poderão suceder nelas religiões nem outras pessoas eclesiásticas por nenhum
+título que seja, e acontecendo possuí-las, será com encargo de pagarem delas dízimo a Deus
+como se fossem possuídas por seculares; e faltando a qualquer destas cláusulas se haverão as
+ditas terras por devolutas e se darão a quem as denunciar, como o mesmo senhor ordena. Pelo
+que mando ao provedor da Fazenda Real, mais ministros e pessoas a que tocar, que na forma
+requerida e com as condições expressadas, deixem ter e possuir as sobreditas terras ao dito
+Bento Simões Borges, como coisa sua própria para si e seus herdeiros ascendentes e
+descendentes, e que assim também cumpram e guardem esta minha carta de data e sesmaria
+tão inteiramente como nela se contém; e registrará nas partes onde tocar, a qual lhe mando
+passar e vai assinada por mim e selada com o selo de minhas armas; e se passou por duas
+vias. Dada e passada nesta cidade de Oeiras do Piauí, 2 de agosto de 1798. E eu, Thomas de
+Aquino Ozório, secretário do governo desta capitania, fiz escrever ao dom João de Amorim
+Pereira // lugar do selo // carta de data e sesmaria, porque Vossa Senhoria há por bem
+conceder em nome de Sua Majestade a Bento Simões Borges 3 léguas de terra de comprido e
+uma de largo no sítio denominado riacho dos bois, de Oeiras do Piauí, desta província, com
+as confrontações que na mesma se declara. Para Vossa Senhoria ver.
+– Fim da carta –
+Referência:
+APEPI, Livro 1, fls. 138v - 139v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

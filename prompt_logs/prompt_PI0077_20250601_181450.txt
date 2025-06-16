@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0077
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Joaquim Cesário Batista Viana",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-10-1798",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Lugar Lagoa da Onça",
+  "Marcos Geográficos": "Termo da Cidade de Oeiras",
+  "Confrontantes": "Fazenda Santa Cruz, olho d'água do Limoeiro e caatingas gerais",
+  "Justificativas": "Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "E porque não tinha título das ditas terras e a pretendia haver por carta de data de sesmaria, me pedia lhe mandasse passar.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a qualquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.\r\nE havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0077"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0077
+Carta de concessão de Joaquim Cesário Batista Viana - 03/10/1798
+Registro da carta de data e sesmaria passada a Joaquim Cesário Batista Viana
+Dom João de Amorim Pereira, cavaleiro da Ordem de Cristo, sargento-mor de infantaria,
+fidalgo da Casa Real e governador da capitania de São José do Piauí etc. Faço saber aos que
+esta minha carta de data e sesmaria virem, que Joaquim Cesário Batista Viana, morador na
+Fazenda do Fradinho, do termo desta cidade, me representou que no lugar da Lagoa da Onça
+deste mesmo termo se acham terras devolutas e desaproveitadas suficientes para se
+estabelecer qualquer fazenda ou posse de gados ou da agricultura, e porque era de comum
+proveito, interessante [a nação], o aumento dos dízimos da Real Fazenda e se tinha bens com
+que as podia promover e adiantar, me requeria lhe concedesse em nome de Sua Majestade por
+data e sesmaria 3 léguas de terra de comprido e 1 de largo, no lugar da dita lagoa e fazendo
+nela pião, levando a légua e meia para o nascente a terminar com os reparos da Fazenda Santa
+Cruz, légua e meia para o poente confinando como os terrenos do olho de água do Limoeiro, e
+meia légua tanto para o sul como para o norte, pelas caatingas gerais de que se achava
+cercada, ao que atentando também a informação da Câmara e provedor da Fazenda Real que
+foi ouvido e se lhes não oferece dúvida alguma e ser em utilidade da mesma Fazenda Real o
+cultivarem-se as terras neste Estado. Hei por bem conceder-lhe, em nome de Sua Majestade,
+por data e sesmaria 3 léguas de terras de comprido e 1 de largo na forma e parte que pede,
+com as confrontações que declara com as condições expressadas nas Reais Ordens e com as
+de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma, religião ou
+comunidade, sem que primeiro dê parte na Casa da Fazenda ao provedor dela para me fazer
+presente e ver se se deve ou não consentir no tal trespasse, sob pena de ficar nela esta data, e
+se puder novamente conceder a outro; e nesta forma se lhe passa carta para que o dito
+Joaquim Cesário Batista Viana haja, logre e possua para si e seus herdeiros ascendentes e
+descendentes, sem pensão nem nem tributo algum, mais que o dízimo a Deus Nosso Senhor,
+dos frutos que nelas tiver ou lavrar; a qual concessão lhe faço não prejudicando a terceiro nem
+a Sua Majestade; se no dito sítio quiser fundar alguma vila, reservando os paus reais que nelas
+houver para embarcações, com declaração que mandará confirmar esta data por Sua
+Majestade dentro em 3 anos primeiros seguintes; e cultivará as ditas terras de maneira que
+deem frutos; e dará caminhos públicos e particulares onde forem necessários, para pontes,
+fontes, portos e pedreiras; e havendo nas mesmas terras estradas públicas que atravesse rios
+caudalosos que necessite de barca para se atravessar, não só ficarão de ambas as bandas do tal
+rio a terra que baste para uso público, mas sim também de uma delas meia légua de terra em
+quadra para comodidade pública e de quem arrendar a dita paragem, que a demarcará ao
+tempo da posse por termo de corda e braças craveiras, como é estilo e Sua Majestade manda.
+Outrossim, não poderão suceder nela religiões nem outras pessoas eclesiásticas por nenhum
+título que seja e acontecendo possuí-las serão com o encargo de pagarem delas dízimos a
+Deus como se fossem possuídas por seculares e faltando a qualquer destas cláusulas, se
+haverão as ditas terras por devolutas e se darão a quem as denunciar como a mesma Senhora
+ordena. Pelo que mando ao provedor da Fazenda Real e mais ministros e pessoas a quem
+tocar, que na forma requerida e com as condições expressadas, deixem ter e possuir as
+
+sobreditas terras como coisa sua própria para si e seus herdeiros ascendentes e descendentes, e
+que assim também cumprem e guardem esta mesma carta de data e sesmaria tão inteiramente
+como nela se contém; e se resgistrará nas partes onde tocar, a qual lhe mandei passar e vai
+assinada por mim e selada com o selo de minhas armas; e se passou por duas vias. Dada e
+passada nesta cidade de Oeiras do Piauí, aos 3 de outubro, ano do nascimento de Nosso
+Senhor Jesus Cristo, de 1798. E eu, Thomas de Aquino Osório, secretário do ilustríssimo
+governador desta capitania, a fiz escrever. Dom João Amorim Pereira // Estava o selo // Carta
+de data e sesmaria, porque Vossa Senhoria há por bem conceder, em nome de Sua Majestade,
+a Joaquim Cesário Batista Viana 3 léguas de terras de comprido e 1 de largo no lugar da
+Lagoa da Onça do termo desta cidade, com as confrontações que na mesma se declaram. Para
+Vossa Senhoria ver. Primeira via.
+– Fim da carta –
+Observações do documento:
+No documento original, o nome do sesmeiro aparece como Joaquim Sezario Baptista Viana.
+Referências:
+APEPI, Livro 1, fls. 150.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

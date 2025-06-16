@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0031
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0058",
+  "Nome": "Inácio da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Herdada",
+  "Data da petição": "10-04-1714",
+  "Data da concessão": "21-04-1714",
+  "Observações da sesmaria": "O suplicante requereu seis léguas de terra de comprimento pelo que se achar de largura, na freguesia de Santo Amaro, Jaboatão, começando das cabeceiras das terras do Engenho dos Pintos pelo rio Jaboatão acima, confrontando com as terras do Engenho dos Morenos, Engenho do Grujaú e Engenho do Cabiguçu, indo em direção a oeste até o Engenho das Laranjeiras e Mata de Santo Antão.",
+  "Localidade": "Freguesia de Santo Amaro, Jaboatão",
+  "Marcos Geográficos": "Freguesia de Santo Amaro, Jaboatão, rio Jaboatão, Engenho dos Morenos, Engenho do Grujaú, Engenho do Cabiguçu, Engenho das Laranjeiras e Mata de Santo Antão.",
+  "Confrontantes": "Engenho dos Morenos, Engenho do Grujaú, Engenho do Cabiguçu e Engenho das Laranjeiras.",
+  "Observações da petição": "Na carta de concessão, o sesmeiro não identificou quantidade de largura requeridas, constando apenas a quantidade de comprimento, o que não permite saber a área total da sesmaria.",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio de Souza Magalhães, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que o suplicante povoasse a terra dentro do tempo de 5 anos. O governador Félix José Machado de Mendonça Eça Castro e Vasconcelos ordenou que o suplicante requeresse a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio de Souza Magalhães",
+  "referencia": "PE0031"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0031
+Carta de doação e sesmaria de Ignácio da Cunha – 21/04/1714
+CARTA DE SESMARIA QUE SE PASSOU AO LICENCIADO IGNÁCIO DA CUNHA DE
+UMAS TERRAS PARAA BANDA DO RIO JABOATÃO ACIMA.
+Félix José Machado de Mendonça Eça de Castro e Vasconcelos, do Conselho de Sua Majestade e
+etc. Faço saber aos que esta carta de doação de sesmaria virem que o licenciado Ignácio da Cunha
+Moura, me representou a petição cujo teor é o seguinte: Excelentíssimo senhor. Diz o licenciado
+Ignácio da Cunha Moura, que seu pai, o capitão Manoel da Cunha Moreno, havia alcançado por
+sesmaria e data de umas sortes de terras situadas na freguesia de Santo Amaro Jaboatão, que
+começam das cabeceiras das terras do Engenho dos Pintos, pelo rio de Jaboatão acima, tudo quanto
+se pudesse descobrir devoluto até entestar com os éreos, e porque o dito seu pai ocupou parte destas
+terras em um engenho chamado das Laranjeiras, e parte das ditas terras há mais de trinta anos que
+estão devolutas por nunca se ocuparem como sejam as que se acham da parte do nascente, que
+confrontam com as terras do Engenho das Laranjeiras, digo, dos Morenos, e terras do Engenho do
+Grujaú e terras do Engenho do Cagibuçú, e da parte do poente com as terras do Engenho das
+Laranjeiras e Mata de Santo Antão, as quais terras assim devolutas que se acharem do comprimento
+e largura, há ele de mister para as cultivar e ocupar, por quanto estão vagas e se lhe podem dar de
+sesmaria por não as haver o dito seu pai ocupado e cultivado no termo da Lei. Pede a Vossa
+Excelência lhe faça mercê conceder ditas terras, assim confrontadas na maneira que declara, por
+sesmaria na forma do estilo. E receberá mercê. = Informe o provedor da Fazenda Real, ouvindo o
+procurador da Coroa. Recife, 10 de abril de 1714. = Rubrica = Haja vista ao doutor procurador da
+Coroa e Fazenda. Recife, 10 de abril de 1714. = "Barros" =. Pela lei, estão devolutas as terras
+pretendidas por passarem de cinco anos que não foram aproveitadas e se não devem conceder mais
+que as que [razoavelmente] puder aproveitar o suplicante na forma da mesma Lei e Ordenação,
+título 43 § infini. É o que posso informar. Recife, 11 de abril de 1714. "Souza Magalhães".
+Excelentíssimo senhor, informo a Vossa Excelência com a resposta do doutor procurador da
+Fazenda, a que me conformo e a vista das ordens de Sua Majestade, que Deus guarde, deferirá
+Vossa Excelência como for servido. Recife, 12 de abril de 1714. "João do Rego Barros". Declare o
+suplicante as léguas de terra que pode ocupar. Recife, 13 de abril de 1714. "Rubrica".
+Excelentíssimo senhor. O suplicante que pela informação do provedor da Fazenda Real, referindo-
+se ao doutor procurador da dita Fazenda, se lhe devem dar as terras que comodamente possa
+aproveitar na forma da lei alegada pelo dito doutor procurador, e como necessita ele suplicante de
+seis léguas de terra na parte pedida na petição retro, com as que se acharem de largura, as quais
+poderá comodamente aproveitar na forma da dita lei; pede a Vossa Excelência lhe faça mercê, visto
+
+a informação do provedor da Fazenda, conceder por data de sesmaria as ditas terras pedidas com a
+extensão que diz, para se lhe poder passar a carta de sesmaria. E receberá mercê. Informe
+novamente o provedor da Fazenda Real, ouvindo ao procurador dela. Recife, 16 de abril de 1714.
+"Rubrica". Torne vista ao doutor procurador da Fazenda. Recife, 18 de abril de 1714. "Barros".
+Podendo aproveitar a terra que pede, se me não oferece dúvida. Recife, 18 de abril de 1714. "Souza
+Magalhães". Excelentíssimo senhor. Informo a Vossa Excelência com o último parecer e resposta do
+doutor procurador da Fazenda, com que me conformo; Vossa Excelência, porém, mandará o que for
+servido. Recife, 18 de abril de 1714. = "João do Rego Barros"; e havendo, outrossim, respeito ao
+que Sua Majestade me concede no capítulo 15 do regimento deste Governo. Hei por bem fazer-lhe
+mercê dar ao suplicante acima nomeado como pela presente dou de sesmaria em nome de Sua
+Majestade, que Deus guarde, nos mesmos lugares, partes e testadas que confrontam em sua petição
+seis léguas de terra ordinárias e contínuas na forma que parece ao doutor procurador da Coroa e
+disposição das ordens reais, pagando de foro por cada légua seis mil reis, o qual as povoará no
+tempo do cinco anos, aliás se darão por devolutas e as possuirá e gozará ele e seus herdeiros, não
+prejudicando a terceiro, com todas as suas matas, águas, campos, testadas, logradouros e mais úteis
+que nelas se acharem, e também será obrigado a dar pelas mesmas terras caminhos livres ao
+Conselho para fontes, pontes ou pedreiras, e requerer a confirmação desta data por Sua Majestade
+no termo de dois anos. Ordeno pelo que a todos os ministros da Fazenda e Justiça destas capitanias,
+a quem o conhecimento desta pertencer, lhe façam dar a posse real, efetiva e atual, na forma
+costumada e debaixo das cláusulas referidas e das mais da ordenação título de sesmarias, que por
+firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas
+armas; a qual se registrará nos livros da Secretaria deste Governo e nos mais a que tocar, da
+Fazenda e Foral Real, e sem esta precisa circunstancia não terá vigor nem validade a presente carta
+de sesmaria. Dada nesta Vila de Santo Antônio do Recife, em os 21 de abril = Manoel da Silva Rosa
+a fez, ano de 1714. = O secretário Joaquim Mendes de Alvarenga, a fez escrever – Félix José
+Machado de Mendonça Eça de Castro e Vasconcellos =.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 193 - 195.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

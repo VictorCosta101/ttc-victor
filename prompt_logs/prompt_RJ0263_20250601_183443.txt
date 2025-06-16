@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0263
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Luís Francisco de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-02-1726",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no distrito de Cabo Frio",
+  "Ribeira": "Bacaxá",
+  "Confrontantes": "Paragem chamada pedra",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0263"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0263
+Carta de concessão de Luís Francisco de Sousa de 4 de fevereiro de 1726
+Carta de sesmaria de 1 légua de terras em Bacaxá, distrito de Cabo Frio, concedida a Luís
+Francisco de Sousa.
+Saibam quantos este publico instrumento de carta de sesmaria virem que no ano do
+nascimento de nosso senhor Jesus Cristo de 1726, aos 7 dias do mês de fevereiro do dito ano,
+nesta cidade de São Sebastião Rio de Janeiro, em casas de morada de mim tabelião e escrivão
+das sesmarias, adiante nomeado, [a]pareceu presente Luís Francisco de Sousa, morador nesta
+cidade, e por ele me foi apresentada uma carta de sesmaria que (ilegível) do governador atual
+desta capitania, Luís Vaía Monteiro, pela qual lhe faz mercê, em nome de Sua Majestade, que
+Deus guarde, de 1 légua de terras no rio Bacaxá, distrito de Cabo Frio, na forma que consta da
+dita carta que [é do teor seguinte].
+Luís Vaía Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga e governador da capitania do
+Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Luís Francisco de Sousa, que no distrito de Cabo Frio, digo, que no distrito da
+cidade de Cabo Frio se acham muitas terras devolutas em um rio chamado Bacaxá, e paragem
+chamada pedra (ilegível). Pedindo-me, por se achar com bastantes escravos para as cultivar,
+lhe manda-se dar por sesmaria 1 légua em quadra, fazendo testada pela dita pedra meia légua
+para baixo e meia para cima. E dando-se vista deste requerimento ao provedor da Fazenda
+Real e procurador da Coroa, as quais se não ofereceu dúvida. Hei por bem fazer mercê ao dito
+Luís Francisco de Sousa de lhe dar por sesmaria, em nome de Sua Majestade, que Deus
+guarde, a dita légua de terra em quadra na forma das ordens do mesmo Senhor; sem prejuízo
+de terceiro ou do direito que algumas pessoas possam ter a elas; com declaração que as
+cultivará e mandará confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro
+de 2 anos, e não fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial
+de justiça, a que o conhecimento desta pertencer, dê posse ao dito Luís Francisco de Sousa das
+referidas terras na forma e maneira acima declarada. Por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém e se registrará nos Livros deste governo e nos mais a que
+tocar. Dada nesta cidade de São Sebastião [do] Rio de Janeiro, aos 4 de fevereiro de 1726.
+João Ferreira da Silva a fez. O secretário, José Ferreira da Fonte, a fez escrever.
+//Luís Vaía Monteiro// Lugar do selo.
+
+Carta porque Vossa Senhoria há por bem fazer mercê a Luís Francisco de Sousa de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, 1 légua de terras em quadra na forma
+e maneira acima declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+28 verso. Rio, 4 de fevereiro de 1726. //José Ferreira da Fonte//
+Cumpra-se e registre-se nos Livros da Fazenda Real. Rio, 5 de fevereiro de 1726. //Cordovil//.
+Registrado no Livro 22 de registros da Provedoria da Fazenda Real, a folha 9 verso. Rio, 6 de
+fevereiro de 1726. //José Leitão//
+E não [se continha] mais a dita carta de sesmaria que aqui lancei na verdade, e tornei a
+entregar ao dito Luís Francisco de Sousa, e a que me reporto em fé do que a escrevi, assinei e
+confessei. //Manoel de Vasconcelos Velho// Confessado por mim tabelião e escrivão das
+sesmarias, Manoel de Vasconcelos Velho. A qual carta de sesmaria eu (ilegível), escrivão
+deles, a que fiz tresladar do Livro (ilegível) e a que me reporto, por ser verdade (ilegível) a
+subscrevi e assinei.
+//Manoel de Vasconcelos Velho//
+O doutor [Manoel de Passos Soutinho], juiz de fora com alçada no civel e crime nesta cidade
+do Rio de Janeiro, nela e seu termo, que pela lei serviu de [procurador] geral e corregedor da
+comarca com alçada no civil e (não identificado) nas mais capitanias de sua repartição e juiz
+das justificações. Faço saber aos que a presente certidão de justificação virem, que a mim me
+constou por fé do escrivão do meu cargo, que esta subscreveu, ser a letra da subscrição da
+carta de sesmaria atrás sinal (ilegível) do tabelião Manoel de Vasconcelos Velho nela contido,
+o que hei por justificado. Rio de Janeiro, 8 de (ilegível). Eu, Domingos Rodrigues Távora,
+escrivão, a subscrevi.
+//Manoel de Passos Soutinho//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta patente pela qual o governador do Rio de Janeiro concedeu e deu de
+sesmaria a
+Luiz Francisco de Sousa uma légua de terras, em quadra, nas margens do Rio
+Bacaxá.
+Luiz Francisco de Souza foi atualizado para Luís Francisco de Sousa.
+
+Referência:
+AHU_ACL_CU_017-01, Cx. 24, D. 5388
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,156 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0136
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Maria de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "29-11-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Jerissinonga (Gericinó)",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Justificativas": "As terras eram devolutas; Pretendia fazer engenho; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se à suplicante que \"As águas dos ribeiros que estiverem dentro do dito termo que não forem dadas em que haver disposição para se fazerem engenhos de açúcar ou de outras quaisquer coisar dareis também pela dita maneira de Sesmaria livremente sem foro algum e as que derdes para engenhos de açúcar serão as pessoas que tiverem a possibilidade para poderem fazer dentro do tempo que limitardes que será oque bem parecer e para serviço e meneio dos ditos engenhos de açucares e granjearia deles, lhes dareis aquela terra que virdes que lhes é necessário e as ditas pessoas a que assim derdes as ditas águas e terras serão obrigada de cada uma em sua terra fazer torre ou casa forte de cerca e grandura que segundo o lugar onde estiver vos parecer necessário para a segurança do dito engenho e povoadores de seu limite de que fará declaração nas cartas que lhes passardes das ditas sesmarias e serão obrigados a aproveitarem as ditas águas e terras como dito é sem as poderem vender nem transpassar a outras pessoas nem por outra via enlear por tempo de 3 anos e para se assim cumprir se transladará nas cartas que lhes assim passardes das ditas sesmarias este capítulo e assim o que está antes deste. E se algumas pessoas a que forem dadas águas no termo da dita cidade de São Sebastião assim presente como ausente as tiverem perdidas por não fazerem benfeitorias que eram obrigadas e as quiserem ora aproveitar e a vós pedirem para isso, vós as podeis dar com as condições, e declarações contidas neste capítulo, não sendo já dadas a outras pessoas\", como também exigiu-se que \"haja posse e senhorio delas, para sempre\". Além disso, ainda foi mandado que \"rompa, aproveite e frutifique a dita terra data desta em 3 anos primeiros seguintes, ou no tempo que o dito senhor capitão e governador  ou aquém ao diante seu cargo tiver lhe limitar como o dito tempo for cumprido, que as tenha aproveitado, como dito é (porque não o fazendo ela assim, passado o dito tempo) se darão as ditas águas que aproveitadas não tiverem de sesmaria a quem as pedir para aproveitar, e sobretudo pagará 1000 réis para as obras do Conselho  as quais águas que pela sobredita maneira lhe assim deu forras e isentas sem foro nem tributo, nem pensão somente de tudo que lhe Nosso Senhor der nelas de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme dito regimento, o que tudo manda que se cumpra e guarde sem dúvida, nem embargo algum que lhe seja posto, e que esta carta seja registrada dentro de 1 ano nos livros da Fazenda Real como dito senhor em seu regimento manda sob as penas nela contidas e declaradas\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0136"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0136
+Carta de concessão de sesmaria Maria de Oliveira 29 de novembro de 1603
+Forra
+Saibam quantos este instrumento de cartas sesmaria virem, que não ano do nascimento
+de nosso Senhor Jesus Cristo de 1603 anos, aos 29 dias do mês de novembro do dito
+ano, nesta cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim
+escrivão adiante nomeado, apareceu João Barbosa, que ora serve nesta dita cidade de
+Sargento-Mor, morador nela, e me apresentou uma petição com despacho nela do
+senhor Martim de Sá, capitão e governador desta dita cidade, capitania e governança
+deste dito Rio de Janeiro por El-Rei nosso Senhor. Da qual a petição o despacho dela é
+o seguinte. Maria de Oliveira, mulher que foi de João Bastos, que Deus o tem, faz saber
+a Vossa Senhoria , que o capitão e governador desta dita cidade Salvador Correia de Sá,
+deu ao dito seu marido de sesmaria nos limites do termo desta cidade, o outeiro de
+Jerissinonga com mais meia légua de terra pela fralda dele, conforme a carta que tem e
+oferece, e porquanto, na dita dada há algumas aguas que houver na dita dada. E receberá
+mercê. Despacho do senhor capitão e governador: Dou à suplicante as águas que sua
+petição pede, e delas lhe passem Carta. Rio de Janeiro, 4 de novembro de 1603 //Martim
+de Sá//. E tudo visto pelo dito senhor capitão e governador a petição da dita suplicante
+Maria de Oliveira e o que ela lhe pedia, visto ser justo e havendo respeito ao proveito
+que se pode seguir acerca da República e ao serviço de Deus e Del-Rei nosso Senhor, e
+para terra se povoar, lhe deu as águas que pedia e onde as pede contidas, porquanto,
+dizia que estava e devoluta e por aproveitar para engenhos de açúcar nelas sendo para
+isso como diz nelas não sendo já dadas a pessoa ou pessoas primeiro, as quais águas que
+dito é lhe deu e concedeu em nome Del-Rei Nosso Senhor e pela maneira adiante
+declarada, segundo forma de seu Regimento de Sua Magestade Del-Rei Nosso Senhor,
+de que o traslado é o seguinte: as terras que estiverem dentro do termo e limite da
+cidade São Sebastião que são 6 léguas para cada parte que não forem dadas as pessoas
+que lhes aproveitarem ou, posto que o fossem, e pelas pessoas a que se deram as não
+aproveitarem no tempo em que eram obrigadas por esta via ou por outra qualquer
+estiverem vagas, as poderei dar de sesmaria aquém a vós pedir e tereis lembrança que
+não dei a cada pessoa mais terra do que aquela que segundo sua possibilidade virdes e
+vos parecer que podem granjear e aproveitar. As quais terras assim dareis livremente
+sem outro algum foro, somente o dízimo a Ordem do Mestrado de nosso Senhor Jesus
+Cristo e com as condições e obrigações do Foral dado as ditas terras da minha
+Ordenação do Livro 4º, título das sesmarias com a condição que a pessoa ou pessoas
+residam na povoação dessa dita capitania ou das terras que lhes assim forem dadas ao
+menos 3 anos e que dentro do dito tempo não possam vender nem enlear, e se algumas
+pessoas a que forem dadas no termo da dita cidade e estiverem perdida por não
+aproveitarem e a vós tornarem a pedir, as poderei de novo dar, com as condições e
+obrigações contidas neste capítulo, o qual se transladará nas cartas, porque as assim
+derdes. E isto se entenderá não sendo as ditas terras dadas a outras pessoas. As águas
+dos ribeiros que estiverem dentro do dito termo que não forem dadas em que haver
+disposição para se fazerem engenhos de açúcar ou de outras quaisquer coisar dareis
+também pela dita maneira de Sesmaria livremente sem foro algum e as que derdes para
+
+engenhos de açúcar serão as pessoas que tiverem a possibilidade para poderem fazer
+dentro do tempo que limitardes que será oque bem parecer e para serviço e meneio dos
+ditos engenhos de açucares e granjearia deles, lhes dareis aquela terra que virdes que
+lhes é necessário e as ditas pessoas a que assim derdes as ditas águas e terras serão
+obrigada de cada uma em sua terra fazer torre ou casa forte de cerca e grandura que
+segundo o lugar onde estiver vos parecer necessário para a segurança do dito engenho e
+povoadores de seu limite de que fará declaração nas cartas que lhes passardes das ditas
+sesmarias e serão obrigados a aproveitarem as ditas águas e terras como dito é sem as
+poderem vender nem transpassar a outras pessoas nem por outra via enlear por tempo de
+3 anos e para se assim cumprir se transladará nas cartas que lhes assim passardes das
+ditas sesmarias este capítulo e assim o que está antes deste. E se algumas pessoas a que
+forem dadas águas no termo da dita cidade de São Sebastião assim presente como
+ausente as tiverem perdidas por não fazerem benfeitorias que eram obrigadas e as
+quiserem ora aproveitar e a vós pedirem para isso, vós as podeis dar com as condições,
+e declarações contidas neste capítulo, não sendo já dadas a outras pessoas. Com as quais
+condições, obrigações e declarações lhes assim deu o dito senhor, capitão governador as
+ditas águas e terras à dita Maria de Oliveira, suplicante, pela dita maneira e para sua
+guarda e segurança lhe mandou ser feita esta carta de pela qual manda que ela haja
+posse e senhorio delas, para sempre, para ela e seus herdeiros, sucessores ascendentes
+que dela vierem com a tal condição e entendimento que ela rompa, aproveite e frutifique
+a dita terra data desta em 3 anos primeiros seguintes, ou no tempo que o dito senhor
+capitão e governador ou aquém ao diante seu cargo tiver lhe limitar como o dito tempo
+for cumprido, que as tenha aproveitado, como dito é (porque não o fazendo ela assim,
+passado o dito tempo) se darão as ditas águas que aproveitadas não tiverem de sesmaria
+a quem as pedir para aproveitar, e sobretudo pagará 1000 réis para as obras do Conselho
+as quais águas que pela sobredita maneira lhe assim deu forras e isentas sem foro nem
+tributo, nem pensão somente de tudo que lhe Nosso Senhor der nelas de suas novidades,
+lavouras e criações, pagará os dízimos a Deus conforme dito regimento, o que tudo
+manda que se cumpra e guarde sem dúvida, nem embargo algum que lhe seja posto, e
+que esta carta seja registrada dentro de 1 ano nos livros da Fazenda Real como dito
+senhor em seu regimento manda sob as penas nela contidas e declaradas. E porque a
+sobredita Maria de Oliveira, suplicante tudo prometeu de ter, manter e cumprir pela
+sobredita maneira o dito senhor capitão e governador lhe mandou passar esta carta de
+sesmaria, por verdade eu Pero da Costa, escrivão das sesmarias e tabelião das notas por
+El-Rei nosso Senhor, nesta cidade de São Sebastião e em seus termos, que este
+instrumento de carta de sesmaria escrevi e tomei nos livros de Notas e tombo das cartas
+de sesmaria nesta dita cidade que em meu poder estão, onde o dito instrumento fica
+assinado pelo dito senhor capitão e governador //Martim de Sá//
+- Fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria das águas que pediu Maria d’Oliveira, dona viúva,
+mulher que foi de João de Bastos, que estão em Jorissinonga, termo desta cidade.
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL. Tombo das
+Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.
+pg. 204-207. Livro Original 98v101v-.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

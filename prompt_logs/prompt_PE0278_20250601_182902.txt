@@ -1,0 +1,92 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0278
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0387",
+  "Nome": "João Muniz de Sousa, Lázaro Frazão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "18-09-1699",
+  "Observações da sesmaria": "Os suplicantes requereram seis léguas de comprimento e duas léguas de largura no sertão do riacho Cajucá, entre o rio Sirinháem e o rio Ipojuca, a oeste da lagoa das Inhumas.",
+  "Localidade": "Riacho Cajucá",
+  "Marcos Geográficos": "Riacho Cajucá, Rio Sirinháem, Rio Ipojuca, Lagoa das Inhumas",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0278"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0278 
+ 
+Carta de concessão de Lázaro Frazão Caldeira e João Muniz de Souza de 18/09/1699 
+Sesmaria de 6 léguas de terra de comprido e 2 de largo no sertão e no lugar do riacho 
+chamado Cajucá, entre os rios Ipojuca e Capibaribe cortando para a lagoa das Inhumas 
+parte do poente, principiando do mesmo riacho, concedida em 18 de setembro de 1699 
+ao capitão Lázaro Frazão Caldeira, alferes João Muniz de Souza moradores em Santo 
+Antão e seus herdeiros, pelo Governador Dom Fernando Muniz Mascarenhas e 
+Alencastro, sem foro ou pensão alguma, salvo o dízimo a Deus. 
+Esta sesmaria tinha à margem as seguintes observações: 
+1ª Daqui por diante pensão de 140 réis, e 60 réis sendo 30 léguas junto desta costa. Rd no 
+livro 1º a folha 226. 
+2ª Por sentença do Provedor da Fazenda Real, o capitão maior João do Rego Barros dada 
+nos autos de uma causa que está no cartório do escrivão dos feitos da mesma Fazenda 
+Vicente Ferreira e Matos, foram desobrigadas as pessoas conteúdas nesta sesmaria e seus 
+herdeiros, Manoel de Azevedo Caldeira, e alferes Domingos da Fonseca de pagar foros 
+delas por se acharem estas envolvidas em outra sesmaria dada ao capitão Bernardo Vieira 
+de Melo, de que pôs esta verba em virtude da mesma sentença. Recife 20 de fevereiro de 
+1712. 
+3ª Três léguas de comprido e uma de largo (ordem Real) devem conforme a dita ordem 
+povoar dentro de 5 anos, aliás ficam devolutas as terras. E se são devolutas não se 
+povoando por ditos 5 anos, veja-se a dúvida que eles põem sobre não quererem povoar se 
+não passados ditos 5 anos. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.pp.111-112. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

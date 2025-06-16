@@ -1,0 +1,143 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0087
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Carvalho Ramos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "14-06-1729",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio a Tranqueira",
+  "Ribeira": "Gurgueia",
+  "Confrontantes": "Alagoa Grande",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; As terras eram devolutas; As terras eram habitadas pelo gentio; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Também pretendia haver o título da terra por meio de carta e data de sesmaria.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0087"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0087
+Carta de concessão a João Carvalho Ramos - 14/06/1729
+Carta de data e sesmaria passada ao sargento-mor João Carvalho Ramos
+Alexandre de Sousa Freire. Faço saber aos que esta minha carta de data e sesmaria
+virem, que a mim me enviou a dizer por sua petição o sargento-mór João Carvalho
+Ramos, morador na Gurguéia, termo da capitania do Piauí, que ele tem povoado um
+sítio de criar gados vacuns no riacho Gurguéia, a qual achou devoluto, sem gados
+algum, desinfetando do gentio bárbaro com grande risco de sua vida e seus escravos; e
+dispondo de sua fazenda que fez não só toda desinfestação e povoação do dito sítio. E
+mais
+[acoziais]
+de
+bandeiras
+que
+se
+deram
+ao dito gentio, dos quais sempre
+o suplicante sempre se houve com zelo e que tocam dos moradores e do serviço de
+Sua Majestade. E porque está na posse do dito sítio pacificamente a muitos anos com
+gados e mais fábricas necessárias para sua conservação e quer haver data dela.
+Portanto, me pedia fizesse mercê mandar-lhe passar a dita data do sítio referido
+a que chamam a Tranqueira, fazendo pião na Alagoa Grande, légua e meia pelo
+dito riacho da Gurguéia acima, e légua e meia para baixo de uma e outra parte com
+todas as mais vertentes riachos e logradouros na forma que tem povoado e conforme as
+ordens de Sua Majestade receberia mercê. E atendendo eu, as razões que alegava, como
+também ao que respondeu o provedor-mór da Fazenda Real, a quem deu vista e ser em
+utilidade da mesma Fazenda o cultivarem se as terras neste Estado. Por bem de
+conceder ao suplicante em nome de Sua Majestade 3 léguas de terra de comprimento,
+digo, 3 léguas de terra na forma que pede com as confrontações nela declaradas e
+condições expressadas nas Reais Ordens. E com a condição de não fazer trespasse por
+meio
+algum,
+em
+nenhum
+tempo, a nenhuma pessoa ou comunidade, religião,
+sem que primeiro dê parte na Casa da Fazenda ao provedor dela, para se me fazer
+presente se se deve ou não consentir no tal trespasse, sob pena de ficar a dita carta de
+data nula para se poder novamente conceder a outrem. Nesta forma, se lhe passou
+carta para que
+as
+haja,
+logre
+e
+possua
+como
+coisa
+sua
+própria, e todos os
+seus herdeiros, ascendentes e descendentes, sem pensão, nem tributo algum, mais que o
+dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver, a qual concessão lhe faço não
+prejudicando a terceiro, reservando os paus reais que nelas houver para embarcações,
+com a declaração que mandará confirmar esta carta por Sua Majestade dentro de três
+anos primeiros seguintes e cultivará as ditas terras de maneira que dêem frutos; e dará
+caminhos públicos e particulares onde forem necessários para pontes, fontes, portos e
+pedreiras. E se demarcará ao tempo da posse por rumo de corda e braças craveiras,
+como é estilo e Sua Majestade manda. E outrossim, não poderão suceder nelas religiões,
+por nenhum titulo e acontecendo possuí-las será com o encargo de pagarem delas
+dízimos a Deus como se fossem possuídas por seculares; e faltando a qualquer dessas
+cláusulas, se haverão por devolutas e se darão a quem as denunciar, como o dito senhor
+ordena. Pelo que mando ao provedor-mór da Fazenda Real e mais ministros, e pessoas
+a que tocar que na forma referida e com as condições declaradas. Deixem ter e possuir
+as ditas terras ao dito sargento-mór João Carvalho Ramos como coisa própria, para ele
+e todos os seus herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha
+carta como nela se contém, a qual lhe mandei passar por mim assinada e selada com o
+sinete de minhas armas e se registrará onde tocar e se passou por duas vias. Dada
+nesta cidade de São Luís do Maranhão, 14 de junho, do ano do nascimento de Nosso
+Senhor Jesus Cristo de 1729. E eu, João Antônio Ferreira, secretário do Estado, a fiz
+escrever. Alexandre de Sousa Freire.
+ 
+
+-Fim da Transcrição-
+Observação:
+João Carvº. Ramos. Forma como está escrito o nome do sesmeiro na documentação
+original.
+Referência:
+APEP, Livro 4, doc 237, fls. 170 - 170v.
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

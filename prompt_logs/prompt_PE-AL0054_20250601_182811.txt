@@ -1,0 +1,99 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0054
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0316",
+  "Nome": "João Francisco Lins",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "22-05-1786",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura no distrito da vila de Porto Calvo, no riacho chamado Papamondeba, em direção ao norte até o rio Camaragibe, principiando, da fronteira das terras do Engenho Escorial, Pixixe e Cousa do capitão-mor José Inácio de Lima",
+  "Localidade": "Riacho Papamondeba",
+  "Marcos Geográficos": "Engenho Escorial, Pixixe e Cousa",
+  "Confrontantes": "José Inácio de Lima",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0054"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0028 
+ 
+Carta de concessão de João Francisco Lins de 22/05/1786 
+ 
+Sesmaria de meia légua de terra em frente, e três quartos de légua de fundo, no termo da 
+vila do Porto Calvo, no riacho chamado Papamondeba, que fica para a parte do norte até 
+o rio Camaragibe, principiando, onde finda a légua de terra do Engenho Escorial, as da 
+Pixixe e Cousa de capitão-mor José Inácio de Lima, concedida em 22 de maio de 1786 a 
+João Francisco Lins e seus herdeiros ascendentes e descendentes, pelo capitão general 
+José César de Menezes, com o foro anual de 6 mil réis por légua, como determina a citada 
+Real Ordem; a qual além de não poder passar a religiões ou outras pessoas eclesiásticas, 
+por título algum, salvo com os mesmos encargos, não pode ser dividida ou partida, como 
+dispõe a citada ordenação. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.pp.83-84. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

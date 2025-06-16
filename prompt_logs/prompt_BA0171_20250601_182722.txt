@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0171
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Gonçalves Cambado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-06-1666",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas totais, não sendo especificadas as medidas de comprimento e largura, e estava localizada nascença do Inhambupe, fazendo fronteira com as terras que foram de Francisco de Barros e João Lobo de Mesquita. ",
+  "Localidade": "Nascença do Inhambupe",
+  "Marcos Geográficos": "Rio Inhambupe",
+  "Confrontantes": "Francisco de Barros; João Lobo de Mesquita",
+  "Observações da petição": "O sesmeiro solicitou quatro léguas totais.",
+  "Justificativas": "Era morador(a) da Capitania; Serviu a Sua Majestade; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou ter contribuído para o sustento da infantaria naquela capitania.",
+  "Observações do deferimento e da concessão": "O provedor afirmou que deveriam ser concedidas duas léguas para o suplicante ao invés das quatro solicitadas. O governador concordou com o provedor.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0171"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registo de uma carta de doação e sesmaria de Antônio Gonçalves Cambado, no Inhambupe. 
+ 
+Dom Vasco Mascarenhas etc.Faço saber aos que esta carta de doação e sesmaria virem que 
+Antônio Gonçalves Cambado, morador em Sergipe do Conde me enviou apresentar a petição 
+cujo o teor é o seguinte. Diz Antônio Gonçalves Cambado, morador em Sergipe do Conde, 
+homem casado e com muita família de filhos e netos, que ele há 50 anos assiste nesta capitania 
+onde tem feito a Sua Majestade muitos e grandes serviços, com o risco de sua pessoa, escravos, 
+e cavalos; andando nos assaltos no tempo que esta cidade esteve ocupada pelo inimigo; e 
+fazendo a sua custa conduzir o gado para esta cidade em tempo que havia muita falta dele, 
+dando carne à infantaria por tempo de 6 meses; e trazendo nela madeira para os quarteis em 
+tempo do Senhor Diogo Luiz de Oliveira e em tempo do Governador Pedro da Silva meteu 
+nesta praça muito gado com sua fábrica e negros, para sustento da infantaria; ajudando a fazer 
+14 mastros para a armada do Conde da Torre, e dando 12 dúzias de Taboado para a armada do 
+Conde Dávila de Aguiar, tudo a sua custa, com outros muitos serviços que tem feito de que 
+constarão pelos livros da Fazenda Real. E porque não o tem terras bastantes para se poder 
+acomodar, e para seus gados; e tendo descoberto com muito dispêndio de sua fazenda umas 
+alagoas e pastos entre uns matos e caatingas entre os tocos e os ira as Merlim  carregando para 
+o norte sobre a nascença do Inhambupe, e da parte do sul confrontam com matos catingas, aonde 
+esteve um mocambo de Negros, e da parte do leste sobre a cachoeira do Iravá que foram de 
+Francisco de Barros e João Lobo de Mesquita que estão devolutas e tem o suplicante 
+possibilidade para as cultivar. Pede a Vossa Excelência lhe faça mercê dar de sesmaria 4 léguas 
+de terra na parte nomeada. E receberá mercê. E a vista a Informação do provedor mor da 
+Fazenda Real deste Estado cujo termo é o seguinte: O suplicante tem servido a Sua Majestade 
+muitos anos no que lhe foi encarregado com muto zelo e algum dispêndio de sua fazenda, e é 
+pessoa de cabedal para poder povoar as terras como Sua Majestade manda, e assim me parece 
+se lhe pode conceder 2 léguas de terra em quadra na parte que pede não prejudicando a terceiro. 
+Vossa Excelência mandará o que for servido. Bahia 2 de junho de 1666 // Antônio Lopes de 
+Ulhôa // Tendo eu consideração a tudo Hei por bem e lhe faço mercê em nome de El-Rei dar 
+de sesmaria como pela presente faço 2 léguas de terra assim e da maneira que confronta em sua 
+petição não prejudicando a terceiro com todas as suas águas, campos, matos, testadas, e 
+logradouros, e mais úteis que nelas se achatem, tudo forro, livre, e isento de pensão ou tributo 
+algum, salvo dízimo a Deus que pagará nos frutos que nelas houver. E por elas será obrigado a 
+dar caminhos livres ao Concelho para fontes, pontes e pedreiras. Pelo que ordeno e mando a 
+todos os ministros de justiça a quem o conhecimento desta com direito deva ou possa pertencer 
+lhe mandem dar a posse real, efetiva, e atual na forma costumada debaixo das cláusulas acima 
+referidas e as mais da ordenação, título das sesmarias. Para firmeza do que lhe mandei passar a 
+presente sob meu sinal e selo de minhas armas, a qual se registará nos livros a que tocar, e se 
+guardará e cumprirá tão pontual e inteiramente como nela se contém sem dúvida, embargo nem 
+contradição alguma. Dado nesta Cidade do Salvador Bahia de Todos os Santos em os 17 dias 
+do mês de junho de 1666. E eu // Antônio de Sousa e Azevedo // Oficial- Maior da Secretaria 
+deste Estado o fiz escrever por mandado de Sua Excelência e impedimento do Secretário do 
+mesmo Estado. // O Conde de Óbidos //. Registado no primeiro Livro de Registos a que toca da 
+Secretaria deste Estado do Brasil a folhas 106. Bahia, 17 de junho de 1666. // Azevedo //. 
+Cumpra-se e registe-se. Bahia 17 de junho de 1666. de Ulhôa. No mesmo dia registei e entreguei 
+a Francisco Lopes de Leão. 
+ 
+ 
+
+- Fim de Transcrição - 
+Referências: 
+DHBN, vol. 22, Pg. 295 - 297 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,186 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0099
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0286",
+  "Nome": "Bento Francisco Torres",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da petição": "19-12-1767",
+  "Data da concessão": "13-04-1768",
+  "Observações da sesmaria": "O suplicante requereu nove braças de comprimento e quatro braças de largura na vila do Recife. A terra requerida localizava-se dentro do Forte do Matos, na entrada para a frente dos armazéns reais. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Forte do Matos",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou possuir um armazém, próximo ao Forte do Matos, em que recolhia palha e madeira e pagava foro a Fazenda Real. O armazém, posteriormente, foi requisito pelo governo da capitania e o suplicante ficou sem ter um lugar para trabalhar e recolher o seu material. Por isto, requereu a concessão de uma terra, dentro do Forte, em conveniência ao serviço régio já que as palhas e madeiras eram utilizadas na construção naval da Companhia Geral de Comércio de Pernambuco e Paraíba. ",
+  "Observações das exigências": "O governador Antônio de Sousa Manuel e Meneses, conde de Vila Flor, determinou o pagamento anual do foro régio no valor de 800 réis por braça concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do procurador": "José Teodoro de Lemos Duarte",
+  "referencia": "PE0099"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0099
+Carta de doação e sesmaria de Bento Francisco Torres - 13/04/1768
+A Bento Francisco Torres se lhe deu 90 palmos de terra de comprido e 40 de largo no
+forte do Matos.
+Antônio de Souza Manoel e Menezes, conde da Vila Flor, do Conselho de Sua Majestade etc.
+Faço saber aos que esta carta de doação e sesmaria virem, que Bento Francisco Torres, patrão-
+mor da barra deste porto e sargento-mor do rio doce, me fez o requerimento do teor e maneira
+seguinte = Ilustríssimo e Excelentíssimo Senhor. Diz Bento Francisco Torres, patrão-mor da
+barra, que tendo um armazém no Forte do Matos pertencente a Real Fazenda, em que recolhia
+palha, arrendado pela quantia de trinta mil réis por ano em que o teve e o conservou por
+tempo de dois para três anos, e como Vossa Excelência careceu do dito armazém para
+alfândega do tabaco, entregou o suplicante a chave e vendo Vossa Excelência que o dito
+armazém fazia muita falta ao suplicante, principalmente por estar em paragem competente
+para alojamento da palha e mais aviamentos com que crenam e fabricam os navios neste porto,
+tanto os de Sua Majestade Fidelíssima como os particulares, lhe determinou Vossa Excelência
+que fizesse o suplicante um armazém para alojamento da dita palha, no lugar que corre da
+tenda do armeiro, que esta ao pé do portão do dito forte, para a parte do lamarão em que no tal
+lugar se acha um telheiro de Antônio Francisco Gesteira, e como o suplicante tem o material
+junto para fazer o dito armazém, o não pode principiar sem que se tire o telheiro e Vossa
+Excelência lhe conceda licença para o fazer, pagando de foro o que lhe competir dos palmos
+que o armazém ocupar, o que, digo, a vista do que pede a Vossa Excelência seja servido
+mandar por seu despacho dar licença para se fazer o dito armazém e mandar tirar o telheiro
+que embaraça o lugar onde o suplicante quer fazer o dito armazém. E receberá mercê = Nele
+por despacho de 18 de dezembro do ano próximo passado, mandei por despacho, digo,
+mandei informar o provedor da Fazenda Real, ouvindo o doutor procurador e escrivão da
+mesma, e o dito provedor assim o praticou em observância do que informou o escrivão da
+maneira seguinte = Senhor provedor da Fazenda Real – É sem dúvida que o armazém que o
+suplicante tinha arrendado para a fábrica do seu ofício se lhe tomou para o expediente da Real
+Fazenda, digo, para o expediente do real serviço, como alega e parece justo se lhe conceda a
+porção de terra suficiente para fabricar o armazém que pretende erigir para o mesmo e feito,
+para o que será preciso que o capitão Antônio José de Lemos examine o lugar para certeza se
+prejudica ou não a servidão pública, e para constar dos palmos que se lhe os aforar, pagando o
+foro costumado, como se pratica = Recife, aos 19 de dezembro de 1867 = Bernardo Pereira de
+
+Vasconcelos = Responde o procurador = Senhor provedor da Fazenda Real = Convenho no
+que informa o escrivão da Fazenda e pelo que respeito a tirar-se o telheiro, parece que se deve
+averiguar se o dono dele o tem com José Teodoro de Lemos Duarte = Digo, se o dono dele o
+tem com licença e paga foro da terra – Recife, 19 de dezembro de 1767 – José Teodoro de
+Lemos Duarte = E com esta informação e resposta me informa o dito provedor, e por
+despacho meu de 19 do dito mês e ano, mandei que o capitão Antônio José de Lemos
+praticasse o que aponta o escrivão da Fazenda e Antônio Francisco Gesteira respondesse na
+parte que lhe tocar, o dito capitão diz assim - Ilustríssimo e Excelentíssimo Senhor = O
+armazém que o suplicante pretende fazer, ocupando ele noventa palmos de comprido e
+quarenta de largo, não prejudica em coisa alguma a servidão do público, porém como é dentro
+do Forte chamado do Matos, não se deve erigir nele obra alguma sem primeiro se fazer termo
+de se demolir quando seja necessário, sem em nada prejudicar a Fazenda, pagando de cada
+palmo de seu comprimento o foro que se pratica = É o que posso informar a Vossa Excelência
+– Recife, 20 de dezembro de 1767 - Antônio José de Lemos = Responde também o dito
+Gesteira da maneira seguinte = Ilustríssimo e Excelentíssimo Senhor – O telheiro de que se
+trata, o aforou Luiz Ferreira de Moura no ano de 1754, com licença do Ilustríssimo e
+Excelentíssimo Senhor Luiz José, que se acha registrada na casa das contas e tem pago o foro
+– Antônio Francisco Gesteira. Por ajuste que fez com o dito Luiz Ferreira de Moura, e como
+este é antigo e tem pago o seu foro, parece justo que deve preferir a outro qualquer que se
+oponha. Vossa Excelência mandará o que for servido. Recife, 21 de dezembro de 1767
+Antônio Francisco Gesteira = O que por mim visto por despacho de 22 do dito mês de
+dezembro, mandei vir o suplicante com esta a minha presença depois do que repetiu outro
+requerimento do teor seguinte = Ilustríssimo e Excelentíssimo Senhor = Diz Bento Francisco
+Torres, patrão-mor da barra, que usando do requerimento junto e vistas as informações do
+provedor da Fazenda Real, escrivão e procurador da mesma, e do capitão-engenheiro Antônio
+José de Lemos, e achar-se o dito requerimento corrente em que nenhuma das informações
+põem dúvida do lugar do armazém que o suplicante intenta, a tempo que a companhia geral
+carece desta parte de terra para ajuntar o que melhor lhe convém para fazer estaleiro para
+fábrica dos seus navios, quer o suplicante, sendo Vossa Excelência servido remover-lhe o
+lugar em que o suplicante intentava para outro que fica defronte do armazém do trem de Sua
+Majestade Fidelíssima, encostado ao mesmo do Forte do Matos, da parte de dentro na frente
+do dito armazém do trem, a vista do que pede a Vossa Excelência seja servido remover-lhe o
+lugar do armazém para outro que o suplicante aponta, da quantia de palmos que o capitão-
+engenheiro marcou no lugar que o suplicante pretende, assinando termo na forma do estilo e
+
+por-lhe o foro que se pratica, pago no tribunal em que Vossa Excelência for servido. E
+receberá mercê. Em cujo requerimento, por despacho de 21 de janeiro do corrente ano,
+mandei que o dito capitão Antônio José de Lemos fosse ao lugar que o suplicante declarava e
+nele praticasse as diligências que o mesmo pedia para me informar. Satisfez o referido capitão
+e diz o seguinte = Ilustríssimo e Excelentíssimo Senhor = Fui ao lugar onde o suplicante
+pretende fazer o seu armazém e naquele terreno fica marcado o referido armazém com
+noventa palmos de comprido e quarenta de largo, e em tudo me reporto a minha primeira
+informação que junto se oferece neste requerimento. É o que posso informar a Vossa
+Excelência, que mandará o que for servido – Recife, 3 de fevereiro de 1768 = Antônio José de
+Lemos = Vista a dita informação, mandei por despacho de 8 do corrente mês de abril informar
+o novo requerimento pelo provedor da Fazenda Real, ouvindo o doutor procurador e o mesmo
+provedor, assim o praticou e a informação é o que se segue = Senhor provedor da Fazenda
+Real = Suposto as sesmarias sejam praticadas e do suplicante não embaraça o real serviço,
+como assevera o capitão-engenheiro, contudo me parece necessário que o suplicante faça
+termo de demolir, sendo-lhe ordenado para o serviço da Real Fazenda, pagando o foro que for
+do estilo. Recife, 10 de abril de 1768 – José Inácio da Cunha = Mandou mais o provedor
+informar o escrivão e este o faz assim = Senhor provedor da Fazenda Real = A vista da
+informação junta do capitão Antônio José de Lemos sobre este requerimento, por esse estar
+em termos de se lhe deferir assinando o suplicante nesta Provedoria o termo que aponta o dito
+capitão e dando fiança dos foros que se vencerem a razão de oitenta réis o palmo, como de
+presente se pratica = Recife, 11 de abril de 1768 = Bernardo Pereira de Vasconcelos – Com
+esta informação e a do doutor procurador, me informa o provedor = Ilustríssimo e
+Excelentíssimo Senhor = Conformo-me com a informação do escrivão da Fazenda e resposta
+do doutor procurador da mesma. Vossa Excelência mandará o que for servido – João do Rego
+Barros = Mandei mais por despacho de 11 do corrente mês, que satisfizesse o suplicante o que
+apontava o escrivão do procurador da Fazenda, e o fez com os termos que ficam lançados na
+Provedoria no livro 1º deles a folha 31 e no livro 15 a folha, o que tudo sendo por mim visto
+mandei por despacho de 13 do corrente lhe passasse carta de sesmaria, em virtude da qual hei
+por bem na conformidade do Capítulo 15 do Regimento deste Governo, dar ao dito Bento
+Francisco Torres em nome de Sua Majestade Fidelíssima, os noventa palmos de terra de
+comprido e quarenta de largo que declara a informação do capitão Antônio José de Lemos,
+pedidos em seu segundo requerimento, pagando o foro de oitenta réis por cada palmo em cada
+um ano, que o provedor da Real Fazenda mandará abrir acento no livro competente da receita
+e despesa da Provedoria para por ele se haverem nos anos que correrem os foros que se forem
+
+vencendo, e não passará a religiões, salvo for com os mesmos encargos que tem os seculares,
+cuja porção de terra gozará e possuirá ele e seus herdeiros ascendentes e descendentes, como
+sua que fica sendo de hoje para todo sempre, não prejudicando a terceiro, e será obrigado a
+requerer a confirmação de Sua Majestade na forma que o dito senhor ordena em suas reais
+ordens – Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas que tocar,
+cumpram, guardem e façam cumprir e guardar esta carta de doação de sesmaria, como nela se
+contém, e lhe façam dar ao suplicante a posse real, efetiva e atual, na forma costumada e
+debaixo das cláusulas referidas e das mais da ordenação e títulos de sesmarias. Em firmeza do
+que lhe mandei passar a presente por mim assinada e selada com o sinete das minhas armas,
+que se registrará na secretaria deste governo e Provedoria da Real Fazenda = Dada no Recife
+de Pernambuco, aos 13 dias do mês de abril – Francisco Gonçalves Reis Lisboa, oficial maior
+da Secretaria, a fez, ano do Nascimento de Nosso Senhor Jesus Cristo de 1768 = O secretário
+do Governo, José Gonçalves da Fonseca, a fez escrever = Conde copeiro=.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+193 - 198.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

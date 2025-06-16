@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0046
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0092",
+  "Nome": "André Pereira Fontes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "20-06-1724",
+  "Data da concessão": "26-06-1724",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e três léguas de largura na freguesia de Santo Antão da Mata no rio Ipojuca abaixo até entestar com as terra do Engenho do Maranhão, na freguesia de Ipojuca. ",
+  "Localidade": "Freguesia de Santo Antão da Mata",
+  "Marcos Geográficos": "Rio Ipojuca",
+  "Confrontantes": "Engenho do Maranhão",
+  "Observações da petição": "O suplicante requereu três léguas de comprimento e três léguas de largura, porém somente foi concedido uma légua quadrada. ",
+  "Justificativas": "Pretendia criar gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou a concessão somente de uma légua quadrada. O provedor da Fazenda Real, João do Rego Barros, recomendou que a sesmaria fosse concedida com as condições do pagamento do foro régio, do dízimo a Ordem de Cristo, de que as terras não fossem possuídas ou passassem a religiosos e ordens religiosas e que seguisse as Ordenações Filipinas, Livro 4, Título 43.",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura ordenou que o suplicante pagasse o foro de 4 mil réis por légua requerida.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0046"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0046 
+ 
+Carta de doação e sesmaria de André Pereira Fontes - 26/06/1724 
+ 
+CARTA DE SESMARIA QUE SE PASSOU A ANDRÉ PEREIRA FONTES DE UMA LÉGUA 
+DE TERRA NA FREGUESIA DE SANTO ANTÃO DA MATA. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco etc. Faço saber aos que esta carta de doação de sesmaria virem, que André Pereira 
+Fontes me apresentou a petição cujo teor é o seguinte: - Senhor. Diz André Pereira Fontes, morador 
+no rio de São Francisco, que ele tem descoberto uma sorte de terras que se acham na freguesia do 
+Santo Antão da Mata, que começam pelo rio de Ipojuca abaixo, de uma e outra parte três léguas em 
+quadro a entestar com terras do Engenho do Maranhão, freguesia de Ipojuca, por querer as situar 
+com gados vacum e cavalar, porque lhe são necessárias. Pede a Vossa Senhoria lhe faça mercê, 
+ouvindo o procurador da Fazenda Real, e dar-lhe as ditas terras, digo, as ditas três léguas de terras 
+na forma que declara acima de sesmaria. E receberá mercê. - Informe o provedor da Fazenda Real, 
+ouvindo ao doutor procurador dela. Olinda, 20 de junho de 1724. "Rubrica". Haja vista ao doutor 
+procurador da Coroa e Fazenda. Recife, 20 de junho de 1724 - ''Barros". Não tenho dúvida em que 
+se dê ao suplicante uma légua de terra em quadro na parte que confronta na sua petição; sendo a 
+data na forma da Ordenação Livro 4.° título 43, e pago o foro na forma do assento da Junta. Recife, 
+20 de junho de 1724 - "Pereira". = Senhor governador e capitão general. Responde o procurador da 
+Fazenda Real, a quem Vossa Senhoria mandou ouvir que se lhe não oferece dúvida em que ao 
+suplicante se deem somente uma légua de terra na parte que confronta em sua petição, sendo a data 
+na forma da Ordenação Livro 4.° título 43, e pago o foro na forma do assento da junta, do que me 
+conformo pela razão de que para mais não pode ter lugar uma doação de sesmaria, que para uma só 
+légua de terra, e sendo esta data feita, com as condições de pagar dízimo a ordem de Cristo e de não 
+passar a religiosos, se não com a cláusula de que será com o encargo como se fosse possuída por 
+seculares, com o foro de quatro mil réis por ano, não se oferece coisa que faça dúvida; Vossa 
+Senhoria mandará o que lhe parecer mais conveniente ao serviço de Sua Majestade, que Deus 
+guarde, com a retidão que costuma. Recife, 20 de junho de 1724 = João do Rego Barros = E 
+havendo, outrossim, respeito ao que Sua Majestde me concede no capítulo 15 do Regimento deste 
+Governo. Hei por bem fazer-lhe mercê ao supplicante acima nomeado de dar-lhe, como pela 
+presente dou de sesmaria em nome do dito senhor, que Deus guarde, uma légua de terra no mesmo 
+lugar e parte que confronta em sua petição, na mesma forma que pareceu ao doutor provedor e 
+procurador da Fazenda Real, pagando quatro mil réis de foro e o dízimo a ordem de Cristo por ano; 
+e possuirá ele e seus herdeiros com todos os seus logradouros e mais úteis que o suplicante nela 
+achar. Pelo que ordeno a todos os ministros da Fazenda e Justiça destas capitanias a quem o 
+
+conhecimento desta carta pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada e 
+debaixo das cláusulas referidas e da Ordenação título de sesmarias, que por firmeza de tudo lhe 
+mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual se 
+registrará nos livros da Secretaria deste Governo e nos da Fazenda e Foral Real, e sem esta precisa 
+circunstância não terá vigor nem validade a presente carta de sesmaria. Dada nesta cidade de 
+Olinda, em 26 de junho de 1724 - Bento Soares Pereira a fez = O secretário, Manoel da Silva Rosa, 
+a fez escrever. Dom Manoel Rolim de Moura. 
+- Fim da carta – 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 286 - 288. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

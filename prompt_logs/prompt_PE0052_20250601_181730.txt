@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0052
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0071",
+  "Nome": "Antônio Vieira da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "28-09-1726",
+  "Data da concessão": "28-09-1726",
+  "Observações da sesmaria": "A sesmaria que o suplicante requereu situa-se nas margens do rio Beberibe e seu outeiro, passando pelo Engenho Velho aos coqueiros denominados Conselho. Na carta de sesmaria não consta a quantidade de léguas requeridas.",
+  "Localidade": "Rio Beberibe, Engenho Velho.",
+  "Marcos Geográficos": "Rio Beberibe, Engenho Velho.",
+  "Confrontantes": "Pedro Duarte",
+  "Justificativas": "As terras eram devolutas; Tinha dinheiro para pagar o foro régio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de sesmaria constam apenas as justificativas mencionadas acima para a concessão.",
+  "Observações do deferimento e da concessão": "Na carta de sesmaria não consta a quantidade de léguas suplicadas e concedidas. Determinou-se o pagamento do foro de mil e seiscentos réis por cada ano mais o pagamento do dízimo.",
+  "Observações das exigências": "Ordenou-se que o suplicante pagasse o foro de mil e seiscentos réis por cada ano. Foi citado o Capítulo 15 do Regimento do Governo.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0052"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0052
+Carta de doação e sesmaria de Antônio Vieira da Silva - 28/09/1726
+O CAPITÃO ANTÔNIO VIEIRA DA SILVA, DAS TERRAS DOS ALAGADOS DE
+BEBERIBE –.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. = Faço saber aos que esta carta de doação virem, que
+por parte do capitão Antônio Vieira da Silva se me representou a petição do teor seguinte: "Senhor."
+= Diz o capitão Antônio Vieira da Silva, que ele suplicante alcançou a carta de data inclusa dos
+ofícios da Câmara da cidade de Olinda, da sorte de terras nela declaradas, com o foro de mil e
+seiscentos réis [a] cada um ano; e para poder o suplicante mandar confirmar a dita carta por Sua
+Majestade, que Deus guarde, lhe é necessário por a confirmação de Vossa Senhoria aonde tocar;
+portanto, pede a Vossa Senhoria lhe mande passar nova carta de data das ditas terras, em
+confirmação da do Senado de Olinda, na forma do estilo. E receberá mercê. - As quais terras são
+situadas nas margens do rio de Beberibe e foram desafogados pelo alferes Pedro Camelo de Abreu,
+tio do suplicante, e começam os ditos desalagados no pé do oiteiro do mesmo Pedro Camelo, por
+baixo de uma levada que vinha do Beberibe grande atravessando o pequeno e vindo costeando o pé
+do dito oiteiro, como ainda hoje se vê, e divisa em pontes por onde dizem, vinha água a cidade de
+Olinda, desta mesma parte correndo os desalagados abaixo da banda do Engenho Velho, até junto
+onde estavam uns coqueiros que se chamam do Conselho, onde se acha um marco no pé de uma
+emberibeira e da outra banda que é a do rio pegando do dito Beberibe pequeno, correndo pelos
+alagados abaixo até entestar com as cercas de Pedro Duarte, onde também se mete o dito Beberibe
+pequeno no grande; cujas terras assim confrontadas, mandou o dito senado da Câmara por em praça
+a quem por mais desse de foro na forma do estilo, e por não haver quem desse mais de mil e
+seiscentos réis de foro por cada um ano, as houveram por arrematadas passados os dias da Lei; e o
+dito capitão Antônio Vieira da Silva que foi o último lance, de que lhe mandarão passar a referida
+carta de data, que se me apresentou com todos os documentos autênticos do referido, o que sendo
+por mim visto e pela faculdade que Sua Majestade me concede no capítulo 15 do Regimento deste
+Governo. – Hei por bem dar e confirmar a referida carta de data das ditas terras ao capitão Antônio
+Vieira da Silva, assim e da maneira que o Senado da Câmara lhes deu, com obrigação de pagar de
+foro mil e seiscentos réis por cada um ano, as quais logrará ele e seus herdeiros em virtude da posse
+em que está, sem mais obrigação alguma salvo dízimo a Deus; e dará pelas ditas terras caminhos
+livres ao Conselho para pontes, fontes e pedreiras; por firmeza de tudo lhe mandei passar a presente
+por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da
+Secretaria deste Governo e nos mais a que tocar. – Dada nesta Vila de Santo Antônio do Recife de
+
+Pernambuco, em aos 28 dias do mês de setembro de 1726. = O secretario Manoel da Silva Rosa a
+fez escrever. = Dom Manoel Rollim de Moura =.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 307 - 309.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

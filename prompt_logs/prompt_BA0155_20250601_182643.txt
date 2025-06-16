@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0155
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Peixoto Viegas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "09-07-1653",
+  "Observações da sesmaria": "Não foram informadas as medidas da sesmaria, apenas que ela estava localizada nos termos da cidade de Cachoeira, na Bahia, na região das Itapororocas, Jacuípe e Água Fria.",
+  "Localidade": "Cidade de Cachoeira",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alegou que tinha comprado a terra e a estava ocupando há três anos, mas a pessoa que o vendeu não possuía mais os papéis da sesmaria, pois ele os tinha perdido devido à invasão que ocorreu em 1624.",
+  "Observações do deferimento e da concessão": "O provedor afirmou que as terras deveriam ser concedidas ao suplicante, pois era uma pessoa de muito cabedal.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0155"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro da carta de sesmaria de João Peixoto Viegas das terras de Itapororocas, Jacuípe e água 
+fria. 
+João Rodrigues de Vasconcelos e Sousa, conde de castelo melhor etc. Faço saber aos que esta 
+carta de sesmaria virem que João Peixoto Viegas me representou em sua petição como houvera 
+de João Lobo de Mesquita, por título de compra as datas de terra e campos das Itapororocas, 
+Jacuípe e Água Fria sitas no termo desta cidade que chama da Cachoeira das quais ele, 
+suplicante estava de posse havia mais de 3 anos, e ia povoando de gado com grande risco e 
+despesa em razão do gentio bravo, que nelas deu muitas vezes, e porque o vendedor lhe não 
+dava títulos de sesmaria das ditas terras por se haver pedido na tomada da cidade pelo inimigo 
+no ano de 1624 como na escritura da compra que ofereceu se declarava: me pedia lhe fizesse 
+mercê em nome de Sua Majestade confirmar-lhe as ditas sesmarias dadas a seus antecessores e 
+assim e da maneira que as possuíam ou conceder-lhe as ditas terras de sesmaria nova ou pelo 
+melhor modo e via que em direito pudesse ser, e bem assim os sobejos, voltas, enseadas, águas, 
+salinas e os mais matos que ao redor das ditas terras estivessem por dar, visto ser em utilidade 
+da Fazenda e rendas de Sua Majestade: tendo eu consideração a tudo e a informação que sobre 
+este particular me fez o provedor-mor da Fazenda Real deste Estado ser o impetrante 
+benemérito do que pede assim pelo bem que me consta servir a Sua Majestade no que é ocupado 
+como pelo muito cabedal que tem para a povoação e cultura das ditas terras e ser grande o 
+benefício que resulta a Fazenda Real, e a esta república . Hei por bem de lhe confirmar como 
+pela presente faço em nome de Sua Majestade as sobreditas terras que houve por título de 
+compra do dito João Lobo de Mesquita nos distritos da Cachoeira, assim e da maneira que as 
+nomeia e confrontam na escritura que delas se fez ao dito impetrante e em defeito de se haver 
+perdido os primeiros títulos que era obrigado dar-lhe o vendedor João Lobo de Mesquita, lhe 
+dou de novo em nome do mesmo Senhor todas as sobreditas terras do mesmo modo que o 
+impetrante as declara; e bem assim todos os sobejos, voltas, enseadas, águas, salinas e matos 
+que ao redor das ditas terras estiverem por dar a ele, pede com suas testadas e logradouros, tudo 
+livre e isento de foro, tributo ou pensão alguma, salvo o dízimo a Deus que pagará dos frutos e 
+criações que nelas houver com cláusula de não prejudicar a terceiro e por elas serão obrigados 
+a dar caminhos livres ao conselho para fontes, pontes e pedreiras. Pelo que ordeno aos oficiais 
+de justiça a que tocar, lhes deem a posse real, efetiva e atual e aos ministros a que o 
+conhecimento desta com direito possa pertencer e cumpram e façam cumprir e guardar, tão 
+pontual e inteiramente como nela se contém, sem dúvida, embargo e nem contradição alguma. 
+Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas armas a qual 
+se registrará nos livros a que tocar // Francisco Cardoso // a fez nesta cidade do Salvador, Bahia 
+de Todos os Santos em os 9 dias do mês de julho, ano de 1653 // Bernardo Vieira Ravasco // 
+secretário de Estado e guerra de Sua Majestade, neste do Brasil, o fiz escrever. O conde de 
+castelmellhor. Por despacho de Sua Excelência de 3 de julho de 1653. // Francisco da Rocha 
+Barbosa // Registre-se nos livros da Fazenda sem embargo de ser passado o tempo.  Bahia, 19 
+de abril de 1655 // Ferreira // no mesmo dia se registrou. // Gonçalo Pinto de Freitas //.  
+ 
+ 
+ 
+Referências: 
+DHBN, vol. 18, Pg. 348 - 350 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

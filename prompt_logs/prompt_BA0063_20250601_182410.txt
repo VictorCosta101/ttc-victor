@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0063
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "André de Brito de Almeida, Francisco Barjon, Francisco de Oliveira Rêgo, José de Oliveira Corrêa, Pedro Barjon, Simão da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "13-03-1678",
+  "Observações da sesmaria": "A sesmaria possuía  duas léguas de comprimento e uma de largura, localizada no rio de Santa Cruz, em Porto Seguro.",
+  "Localidade": "Rio de Santa Cruz",
+  "Marcos Geográficos": "Rio de Santa Cruz",
+  "Justificativas": "Alegou já cultivar roçaria de mantimentos; Não possuía as terras com justo título; Solicitou as terras para si e seus herdeiros; Alegou já cultivar cana; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 6,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0063"
+}
+
+            **Conteúdo Original** (extrato):
+            BA/PS 
+ 
+Registro de uma sesmaria de duas léguas de terra de comprimento e uma de largura na capitania 
+de Porto Seguro, concedidas a Dom Francisco Barjon, André de Brito de Almeida, José de 
+Oliveira Corrêa, e os capitães, Simão da Silva, e Dom Pedro Barjon.  
+ 
+Roque da Costa Barreto do conselho de Sua Alteza. Faço saber aos que este alvará de doação e 
+sesmaria virem que, Dom Francisco Barjon, André de Brito de Almeida, José de Oliveira 
+Corrêa, Francisco de Oliveira Rêgo, e os capitães Simão da Silva, e Dom Pedro Barjon, me 
+enviaram a representar por sua petição, cujo teor é o seguinte: senhor, dizem Dom Francisco 
+Barjon, André de Brito de Almeida, José de Oliveira Corrêa, Francisco de Oliveira Rêgo, e os 
+capitães Simão da Silva, e Dom Pedro Barjon, moradores na capitania do Porto Seguro, que no 
+rio de Santa Cruz, estão de posse em umas terras da parte do Norte, cavando nelas sem 
+contradição alguma, houvera 2 anos em que tem seus canaviais e roças, e porque não tem carta 
+delas, e as querem aproveitar por não terem outras terras. Portanto, pedem a Vossa Senhoria, 
+lhes conceda de sesmaria, começando de Paraituba, até a Reticumba, duas léguas pelo dito rio 
+acima, com uma de largura da parte do Norte, para eles suplicantes e seus herdeiros. E receberá 
+mercê. Vista a resposta do procurador da Fazenda, que é a seguinte. Não se me oferece dúvida 
+a dar-se ao suplicante as duas léguas de comprimento com uma de largura que pedem com as 
+condições ordinárias. Dízimos à Ordem sem prejuízo de terceiro, altura no termo da lei e 
+demarcação ao tempo da posse, citados os Éreos, estradas públicas a todos particulares para 
+fontes, pontes, portos e pedreiras. Bahia, 13 de março de 1678. Freitas// A informação do 
+provedor da dita Real Fazenda, que também é a que se segue. Senhor, entendo que se deve 
+deferir aos suplicantes dando-lhes a terra que pedem de sesmaria, porque não encontra as ordens 
+e regimento de Sua Alteza, sendo sem prejuízo de terceiro e com as mais condições que aponta 
+o procurador da Fazenda, a quem se não oferece dúvida. Vossa Senhoria mandará o que for 
+servido. Bahia, 12 de março de 1678. Antônio Lopes de Ulhôa// Hei por bem de conceder aos 
+suplicantes e dar de sesmaria em nome de Sua Alteza, duas léguas de terra de comprimento 
+com uma de largura, como parece aos dois ministros da Fazenda, assim como a pedem e 
+confrontam em sua petição, não prejudicando a terceiro com todas suas águas, campos, matos, 
+testados e logradouros, e mais úteis que nelas se acharem, todo forro livre e isento de pensão 
+ou tributo algum, salvo o dízimo à Ordem de Cristo, que pagará dos frutos que nelas houver, e 
+por elas serão obrigados a dar estradas públicas a todos particulares para fontes, pontes, portos 
+e pedreiras, demarcando-se ao tempo da posse, citados os Éreos. Pelo que ordeno a todos os 
+ministros de justiça, a que o conhecimento deste com direito deva ou possa pertencer, lhe façam 
+dar a posse real efetiva e atual na forma costumada debaixo das cláusulas acima referidas, e as 
+mais da ordenação, título das sesmarias. Para firmeza do que lhe mandei possam apresentar sob 
+meu sinal e selo de minhas armas, no qual se registrará nos livros da secretaria do Estado do 
+Brasil e nos mais a que tocar, e se guardará e cumprirá tão pontual inteiramente como nele se 
+contém, sem dúvida embargo nem contradição alguma. Antônio Garcia o fiz nesta cidade do 
+Salvador, Bahia de Todos os Santos, nos 13 dias do mês de março, ano de 1678. Bernardo 
+Vieira Ravasco o fiz escrever. Roque da Costa Barreto// Selo. Registrado no livro segundo dos 
+registros da secretaria deste Estado do Brasil, a que toca a folha 71. Bahia, 13 de março de 1678. 
+Ravasco // Despacho do provedor-mor. Registre-se nos livros da Fazenda, a que toca. Bahia, 
+15 de março de 1678. Antônio Lopes de Ulhoa// Registrou-se em 8 do dito mês e ano acima. 
+João Dias da Costa//.  
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+
+ 
+Os nomes dos sesmeiros, tal qual constam no documento original, são Dom Francisco Barjon, 
+André de Brito de Almeida, José de Oliveira Corrêa, e os capitães, Simão da Silva, e Dom 
+Pedro Barjon. 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 165v – 166v.  
+Numeração original no livro: 125 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

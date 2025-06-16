@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0284
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José de Vargas Pissarro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "18-07-1735",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita.",
+  "Localidade": "Testada do sítio [Taroinpenba]",
+  "Confrontantes": "Terras de João de Matos Pimenta e outeiro de Álvaro Lopes",
+  "Justificativas": "Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta encontra-se parcialmente ilegível, o que dificultou a identificação de outras justificativas.",
+  "Observações do deferimento e da concessão": "Não foi possível identificar por que instâncias a carta passou, devido ao grau considerável de ilegibilidade do documento.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que \"descobrindo-se nelas rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma margem dele meia légua ao menos para ficar em público\". Além disso, determinou-se que a terra não fosse vendida por um prazo de três anos. Caso desobedecesse a uma das cláusulas, ficaria privado da concessão, conforme a Lei e o Foral das Sesmarias.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0284"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0284
+Carta de concessão de José de Vargas Pissarro de 18 de julho de 1735
+José da Silva Paes, brigadeiro de infantaria dos exércitos de Sua Majestade, cujo cargo está o
+governo do Rio de Janeiro e suas capitanias.
+Faço saber, aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição José de Vargas Pissarro, morador nesta cidade, que ele (ilegível) umas 200 braças
+de terras de testada no sítio chamado [Taroinpenba] as quais fazem as confrontações pela
+(ilegível) correndo buscando um outeiro de Álvaro Lopes Matos Pimenta uma ilharga das
+terras de Bernardo (ilegível) e porque se achava com bastantes escravos e necessitava
+(ilegível) e mandará cultivar e confirmar (ilegível) as fará medir e demarcar (ilegível) as
+pessoas com quem confrontar; e as não poderá vender dentro do tempo de 3 anos;;
+descobrindo-se nelas rio caudaloso, que necessite de barca para se atravessar, ficará reservada
+de uma margem dele meia légua ao menos para ficar em público; nas ditas terras não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com encargo de
+pagar dízimos e outro qualquer que Sua Majestade for servido impor-lhe de novo, não os
+pagando se poderão por devolutas, e poderão dar a quem as denunciar; como também sendo o
+mesmo Senhor servido mandar fundar no distrito destas terras alguma vila o poderá fazer,
+ficando livres e sem encargo algum ou pensão para o sesmeiro; faltando a qualquer das ditas
+cláusulas, por serem conforme as Ordens de Sua Majestade e as que dispõem a Lei e Foral
+das Sesmarias, ficará privado das ditas terras. Pelo que mando ao ministro ou oficial de
+justiça, a que o conhecimento desta pertencer, dê posse ao dito José Vargas Pissarro, das
+referidas terras na forma acima declarada.
+E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém, se registará nos Livros da Secretaria deste governo e nos
+da Fazenda Real no tempo declarado no regimento de baixo da pena nele cominada e nos
+mais a que tocar. Dada na cidade de São Sebastião do Rio de Janeiro, (ilegível) da Silva do
+Rosário a fez, aos 18 dias do mês de julho de 1735. O secretário, José Ferreira da [Fonte], a
+fez escrever.
+//José da Silva Paes//
+Carta de sesmaria porque Vossa Senhoria há por bem fazer mercê [dar de sesmaria, em nome
+de Sua Majestade,] a José de Vargas Pissarro de 1 sobejos (ilegível) de terras como acima se
+declara.
+Para Vossa Senhoria ver.
+
+Registrada no Livro das Patentes e Provisões do (ilegível)
+Cumpra-se e registre-se no Livro das Sesmarias nº 49º. Rio, agosto de 1735.
+//Pacheco//
+Registrou nos Livros da Fazenda Real. Rio, 17 de novembro de 1735.
+//Cordovil//
+Registrada no Livro 1° que serve neste Cartório de registro das sesmarias a folha 13. Rio de
+Janeiro, 5 de agosto de 1735.
+//Francisco Xavier da Silva//
+Registrado no Livro 25° dos registros da Provedoria da Fazenda Real a folha 232. Rio, 2 de
+março de 1736.
+//(Ilegível)//
+O doutor João Soares Tavares, cavaleiro professo na Ordem de Cristo, desembargador de Sua
+Majestade, seu ouvidor geral e corregedor da comarca do Rio de Janeiro, juiz das
+justificações, etc. Aos que a presente certidão de justificação virem, faço saber que a mim me
+constou por por fé do escrivão de meu cargo, que está subscreveu, ser a letra e o sinal visto
+no fim da carta de sesmaria retro de (ilegível) secretário desta cidade, José da Silva (ilegível),
+o que hei por justificado. Rio de Janeiro, 22 de 1739 anos. E eu, Domingos Rodrigues
+Távora, escrivão, a subscreveu.
+//João Soares Tavares//
+-Fim da Transcrição-
+Observação: Primeira página quase que completamente ilegível.
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+José de Vargas Pissarro uns sobejos de terras de trás do outeiro Alvaro Lopes. Rio de Janeiro,
+18 de julho de 1735.
+Referência:
+AHU_ACL_CU_017-01, Cx. 43, D. 10166.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

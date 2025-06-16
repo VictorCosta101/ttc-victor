@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0044
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0090",
+  "Nome": "Manuel Aranha da Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "10-05-1724",
+  "Data da concessão": "20-05-1724",
+  "Observações da sesmaria": "O suplicante requereu cinco braças de comprimento e duas braças de largura na vila do Recife. A sesmaria requerida localizava-se na rua por detrás da ponte do Recife, entre as casas do padre Manuel Alves e as casas da viúva Maria da Costa e Manuel da Costa Pereira. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rua da Ponte, Ponte do Recife",
+  "Confrontantes": "Manuel Alves, Maria da Costa e Manuel da Costa Pereira",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou estar ocupando a terra requerida e por isso requereu a concessão da sesmaria. ",
+  "Observações do deferimento e da concessão": "O provedor, João do Rego Barros, recomendou que o suplicasse pagasse o foro régio. ",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura determinou o pagamento de 6 mil réis de foro por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0044"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0044 
+ 
+Carta de doação e sesmaria de Manuel Aranha da Fonseca - 20/05/1724 
+ 
+CARTA DE DOAÇÃO DE SESMARIA QUE SE PASSOU AO CAPITÃO MANUEL 
+ARANHA DA FONSECA DE UMAS TERRAS AREOSAS SITUADAS NA VILA DO 
+RECIFE, ONDE SE ACHAVAM DEVOLUTAS. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas etc.. Faço saber aos que esta carta de doação de sesmaria 
+virem, que o capitão Manoel Aranha da Fonceca me apresentou a petição cujo teor é o seguinte: 
+Senhor. Diz o capitão Manoel Aranha da Fonceca que nos chãos que se acham por detrás da rua da 
+ponte do Recife, pegando onde pega a data do primeiro doado o padre Manoel Alves, para a parte 
+das traseiras das casas da rua da ponte como quem se achar confrontar para cada um dos lados, tudo 
+quanto se acha devoluto, que são 22 palmos de fundo e cinquenta de frente, as quais se confrontam 
+com as traseiras da casa da viúva Maria da Costa e a de Manoel da Costa Pereira, e porque nenhum 
+dos donos dos chãos vizinhos ocuparam os que o suplicante confronta, entendendo que lhe 
+pertenciam pelas datas e sesmarias de outros chãos pegados que lhe pertencem, começou a edificar 
+naquele solo e melhor informado tem o suplicante notícia que estava devoluto e é reguengo, razões 
+porque a pede de sesmaria ouvindo-se o provedor da Fazenda Real e seu procurador. Pede a Vossa 
+Senhoria lhe faça mercê conceder a dita quantidade de chãos que confronta em sua petição por carta 
+de doação de sesmaria, assim e da mesma maneira que nela declara. E receberá mercê. "Informe o 
+provedor da Fazenda Real, ouvindo ao procurador dela. Recife, 10 de maio de 1724 - Rubrica - 
+Haja vista ao doutor procurador da Coroa e Fazenda. Recife, 19 de maio de 1724 = Barros - Visto o 
+que alega, não tenho dúvida no que se pede. Recife, 23 de maio de 1724 "Pereira" - Senhor 
+governador e capitão general = Respondeu o doutor procurador da Coroa e Fazenda, a quem Vossa 
+Senhoria mandou ouvir, que não tem dúvida no que se pede, visto o que alega; também se me não 
+oferece dúvida que seja o suplicante deferido em seu requerimento, sendo a data de solo de 
+reguengo, que pede na forma de Sua Majestade, que Deus guarde, tem ordenado pelas suas reais 
+ordens, que se acham na Secretaria deste Governo, de que sendo necessário, como nelas três, a terra 
+que se concede para seu real serviço, se haverá por devoluta, e ainda que não seja obrigado a pagar 
+o dízimo a ordem de Cristo por não ser para cultivar, pagará o foro de seis mil réis por légua como 
+está assentado em Junta: é o que posso informar a Vossa Senhoria, que mandará o que for servido. 
+Recife, 25 de maio de 1724 = João do Rego Barros. = E havendo, outrossim, respeito ao que Sua 
+Majestade me concede no capítulo 15 do Regimento deste Governo. Hei por bem fazer-lhe mercê ao 
+suplicante acima nomeado, dar-lhe como pela presente dou de sesmaria em nome de Sua Majestade, 
+que Deus guarde, no mesmo lugar e pelo que confronta em sua petição, os 22 palmos de fundo e 50 
+de frente, na mesma forma que parece ao provedor da Fazenda Real e ao doutor procurador dela, 
+
+pagando de foro por cada braça o que dever a respeito de seis mil réis, que é estilo, pagar-se ou 
+pagarem-se por cada légua, e conseguintemente possuirá os referidos chãos, ele e seus herdeiros, 
+com todos os logradouros e mais úteis que o suplicante neles achar; livres da paga do dízimo a 
+ordem de Cristo, por não serem terras capazes de cultura, como o declara em sua informação o 
+sobre dito provedor da Fazenda Real. Pelo que ordeno aos ministros da Justiça e Fazenda destas 
+capitanias a quem o conhecimento desta carta pertencer, lhe façam dar a posse real, efetiva e atual, 
+na forma costumada e debaixo das cláusulas referidas e da Ordenação título de sesmarias, que por 
+firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas 
+armas, a qual se registrará nos livros da Secretaria deste Governo e nos mais a que tocar; e sem esta 
+precisa circunstância não terá vigor nem validade a presente carta de sesmaria, dada nesta Vila do 
+Recife de Pernambuco, em os 20 dias do mês de maio de 1724. O secretario, Manoel da Silva Rosa, 
+a fez escrever. Dom Manoel Rolim de Moura =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 283 - 285. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

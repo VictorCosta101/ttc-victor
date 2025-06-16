@@ -1,0 +1,736 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0005
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Cordeiro, Manuel de Almeida (BA1), Manuel Mendes, Manuel Nunes Salvado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-12-1671",
+  "Data da concessão": "10-01-1672",
+  "Observações da sesmaria": "Os solicitantes, embora não indiquem a quantidade de léguas requeridas, solicitam terras no lugar \"chamado o Gorogai, cortando pelo rio que chamam Camarajipe, termo desta cidade, cortando pelo dito rio acima ao norte até dar com terras de Francisco de Barros Lobo e terras que foram de João Lobo de Mesquita, e para oeste 2 léguas e outras 2 para o leste, ficando-lhe servindo o dito rio de pião entre a dita terra e para o sul, partindo com terra de quem com direito hajam de pertencer\".\r\nNa solicitação consta que o capitão Manuel de Almeida ficaria com a terça parte e os outros três dividiram os outros dois terços. ",
+  "Localidade": "Gorogai",
+  "Marcos Geográficos": "Rio Camarajipe; Gorogai; ",
+  "Confrontantes": "Pedro Marinho; Francisco de Barros Lobo; terras que foram de João Lobo de Mesquita; servindo o rio Camarajipe de pião.",
+  "Observações da petição": "O provedor da Fazenda Real em seus despacho declara que os suplicantes \"não declaram as léguas de terras que podem haver desde as cabeceiras de Pedro Marinho até dar com terras de Francisco de Barros Lobo, e assim me parece, que sem prejuízo de terceiro se lhes conceder 3 léguas de norte a sul, começando das cabeceiras de Pedro Marinho, e outras 3 léguas de leste para oeste, ficando o rio no meio\"",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia aumentar as rendas reais; Pretendia criar gado; Pretendia ajudar no povoamento; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações das Justificativas": "Pretendem povoar, criar gados e mais fábricas ",
+  "Observações das exigências": "Termos de deferimento da concessão segue as alegações do provedor mor da Fazenda Real ",
+  "Despacho favorável": "Sim",
+  "Nome do provedor": "Antônio Lopes Ulhôa",
+  "referencia": "BA0005"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 0005 
+ 
+Carta de concessão de Manuel de Almeida, Manuel Nunes Salvado, Manuel Mendes e João 
+Cordeiro de ​10/01/1672 
+ 
+Registro de uma provisão de sesmaria do capitão Manuel de Almeida, Manuel Nunes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Salvado, Manuel Mendes e João Cordeiro da data de terra no Gorogai. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+sesmaria virem, que o capitão Manuel de Almeida, Manuel Nunes Salvado, Manuel Mendes e
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+João Cordeiro me enviaram apresentar a petição cujo teor é o seguinte: Senhor, diz o capitão
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+  
+ 
+Manuel de Almeida, Manuel Nunes Salvado, Manuel Mendes e João Cordeiros, todos em
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+união conformidade que na data que pedem a saber, o capitão Manuel de Almeida na terça
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+parte, e as duas para os três companheiros nomeados que nas cabeceiras onde acaba Pedro
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marinho, chamado o Gorogai, cortando pelo rio que chamam Camarajipe, termo desta cidade,
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cortando pelo dito rio acima ao norte até dar com terras de Francisco de Barros Lobo e terras
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+que foram de João Lobo de Mesquita, e para oeste 2 léguas e outras 2 para o leste, ficando-lhe
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+ 
+ 
+servindo o dito rio de pião entre a dita terra e para o sul, partindo com terra de quem com
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+direito hajam de pertencer; as quais terras estão devolutas e nunca foram pedidas, povoadas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+nem descobertas, e tem nelas campos e matos e porque povoando-as eles, suplicantes, de
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+gados e mais fábricas pode ter Sua Alteza lucro, como de feito terá. Pedem a Vossa Senhoria
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+lhe faça mercê dar ditas terras de sesmarias com todos os campos, matos que dentro delas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+houver, para as povoarem e cultivarem, a si e da maneira acima referido nesta petição. E
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+receberá mercê. E vista a informação que sobre este particular me fez o provedor-mor da
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Fazenda Real deste Estado que é a que se segue: Senhor, os suplicantes não declaram as
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+léguas de terras que podem haver desde as cabeceiras de Pedro Marinho até dar com terras de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Francisco de Barros Lobo, e assim me parece, que sem prejuízo de terceiro se lhes conceder 3
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+léguas de norte a sul, começando das cabeceiras de Pedro Marinho, e outras 3 léguas de leste
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+para oeste, ficando o rio no meio; guardando-se nesta data as ordens e foral de Sua Alteza.
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Vossa Senhoria mandará o que for servido. Bahia, 18 de dezembro de 1671. // Antônio Lopes
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Ulhôa // Hei por bem de lhes conceder como pela presente faço em nome de Sua Alteza, 3
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+léguas de terra na parte que pedem, e na forma que parece ao provedor-mor da Fazenda Real,
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+não prejudicando a terceiro, com todas suas águas, campos, matos, testadas, logradouros e
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+mais úteis que nelas se acharem tudo forro livre e isento de pensão ou tributo algum, salvo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dízimo a Deus que pagará dos frutos que nelas houver, e por elas serão obrigados a dar
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+caminhos livres ao conselho para fontes, pontes e pedreiras. Pelo que ordeno e mando a todos
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+os ministros e justiças a que o conhecimento deste com direito deva ou possa pertencer lhe
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mandem dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas acima
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+referidas, e as mais da ordenação títulos de sesmarias para firmeza do que lhe mandei passar o
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+presente, sob meu sinal e selo de minhas armas, a qual registrará nos livros da secretaria do
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Estado, e nos mais a que tocar, e se guardará e cumprirá tão prontual e inteiramente, como
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+nela se contém sem dúvida alguma, embargo, nem contradição // Antônio Garcia // o fez nesta
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+Cidade do Salvador, Bahia de Todos os Santos, nos 10 dias do mês de janeiro, ano de 1672 //
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Bernardo Vieira Ravasco // o fez escrever // Afonso Furtado de Castro do Rio de Mendonça //
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Registrado no primeiro livro dos registros da secretaria do Estado do Brasil, a que toca folhas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+139. Bahia, 10 de fevereiro de 1672 // Ravasco // A folhas 118 do meu livro das sesmarias
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fica lançada esta por mim, escrivão delas. Bahia, 17 de fevereiro de 1672. // Sebastião de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Torres // Despacho do provedor-mor. Registre-se no livro a que toca. Bahia, 19 de fevereiro
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+de 1672 // De Ulhôa // No mesmo dia se registrou e se entregou a seu dono // Miguel Pinto de
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+Freitas // 
+
+ 
+ 
+- Fim da Transcrição - 
+ 
+Observações​: 
+- Os nomes dos suplicantes no documento original constam como: “Manoel de Almeyda”;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Manoel Nunes”; “Manoel Mendes” e “João Cordeiro”. 
+ 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. I, fls. 6v-7v 
+Numeração original no livro: 05 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

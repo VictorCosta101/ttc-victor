@@ -1,0 +1,113 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0014
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0065",
+  "Nome": "Jerônimo de Matos da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "08-05-1666",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura no distrito entre a vila de Goiana e a Paraíba, próximo ao rio do Goaramame.",
+  "Localidade": "Distrito de Goiana",
+  "Marcos Geográficos": "Rio do Goaramame",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que havia comprado as terras que estava de posse do vigário da vila de Goiana, Estevão Ribeiro da Silveira e dos herdeiros de Domingos Lopes e por isso solicitava a concessão da sesmaria. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "IT0014"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0014 
+ 
+Carta de concessão de Jerônimo de Matos da Silva de 08/06/1666 
+Registo de uma carta de doação de Jeronimo de Matos da Silva, morador em Pernambuco 
+de uma légua de terra no sertão entre o distrito de Goiana e Paraíba.  
+ 
+Dom Vasco Mascarenhas, etc. Faço saber aos que esta carta de doação e sesmaria virem 
+que Jerônimo de Matos da Silva me enviou a apresentar a petição cujo teor é o seguinte. 
+Diz Jeronimo de Matos da Silva morador em Pernambuco que ele possui meia légua de 
+terra no sertão entre o distrito de Goiana e Paraíba que houve por compra do vigário de 
+Goiana Estevão Ribeiro da Silveira e o dito dos herdeiros de Domingos Lopes; a qual 
+sorte de terra começa sua demarcação da nascença do Rio do Goaramame correndo por 
+ele abaixo, e a tem ocupado com gado vacum. E porque nas cabeceiras dela há terras 
+devolutas, e ele suplicante as quer ocupar com o dito gado vacum: o que é em utilidade 
+da Fazenda Real: pelo que pede a vossa excelência lhe faça mercê dar uma légua em 
+quadra começando da cabeceira da meia légua que ele suplicante possui pelo rio abaixo, 
+e de largura de uma banda ou outra do Rio Goaramame donde houver sobra para se 
+encher. E receberá mercê. E vista a Informação do provedor-mor da Fazenda Real deste 
+Estado cujo teor é o seguinte. Senhor. A Petição do suplicante não encontra o Foral Real 
+de Sua Majestade antes é um benefício de Sua Real Fazenda por ser homem que pode 
+povoar a terra que pede, segundo a informação que tomei, por onde me parece se lhe deve 
+conceder. Vossa excelência mandará o que for servido. Bahia junho o 1º de 1666. Sem 
+prejuízo de terceiro. Antônio Lopes d’Ulhôa. Tendo consideração a tudo Hei por bem e 
+lhe faço mercê em nome d'El-Rei meu Senhor (como pela presente faço) dar de sesmaria 
+a dita légua de terra, assim e da maneira que pede e confronta em sua petição não 
+prejudicando a terceiro, com todas as águas, campos, matos, testadas, logradouros, e mais 
+úteis que nelas se acharem, tudo forro, livre, e isento de foro pensão ou tributo algum, 
+salvo o dízimo a Deus que pagará dos frutos que nelas houver. E por ela será obrigado a 
+dar caminhos livres ao conselho para pontes, fontes e pedreiras. Pelo que ordeno a todos 
+os ministros de Justiça a quem o conhecimento desta de direito deva ou possa pertencer 
+lhe mandem dar a posse efetiva, e atual na forma costumada debaixo das cláusulas acima 
+referidas e as mais da Ordenação título das sesmarias. Para firmeza do que lhe mandei 
+passar a presente sob meu sinal e selo de minhas armas; a qual se registará nos Livros a 
+que tocar, e se guardará tão pontual e inteiramente como nela se contém sem dúvida, 
+embargo nem contradição alguma. Dada nesta cidade do Salvador Bahia de Todos os 
+Santos em os 8 dias do mês de junho ano de 1666. E eu Antônio de Souza e Azevedo 
+oficial-maior da Secretaria deste Estado do Brasil a fiz e escrevi por mandado de Sua 
+Excelência e impedimento do secretário do dito Estado. O Conde d'Óbidos. Registada no 
+2º Livro de Registo da Secretaria deste Estado do Brasil a folhas 105. Bahia e junho 9 de 
+1666. Azevedo. Registe-se nos Livros da Fazenda. Bahia e junho 10 de 666. De Ulhôa. 
+Registou-se no mesmo dia e se entregou ao Capitão Manuel Marques que a deu a registar. 
+Gonçalo Pinto de Freitas 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 22, pp. 275-
+277. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

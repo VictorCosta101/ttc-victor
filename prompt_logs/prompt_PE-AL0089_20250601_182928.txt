@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0089
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0422",
+  "Nome": "Jerônimo Serrão de Paiva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-10-1632",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura no rio São Francisco, do riacho do Upanema até a morro da Jacioba.",
+  "Localidade": "Riacho do Upanema",
+  "Marcos Geográficos": "Morro da Jacioba, Rio São Francisco",
+  "Observações da petição": "A sesmeira Maria Barbosa de Almeida (AL 0056) requereu ao governo-geral o registro da concessão da sesmaria de Jerõnimo Serão de Paiva que havia recebido como doação. ",
+  "Justificativas": "Alegou possuir curral; Participou da guerra contra os holandeses; As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0089"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0063 
+ 
+Carta de concessão de Jerônimo Serrão de Paiva Antônio Carvalho e Maria Carvalho de 
+10/12/1674 
+Registo de uma petição que Maria Barbosa de Almeida fez ao provedor-mor da Fazenda 
+para lhe mandar registar a petição e sesmaria, que apresentou, concedida ao sargento-mor 
+Jeronimo Serrão de Paiva pelo donatário de Pernambuco Duarte de Albuquerque Coelho, 
+de que lhe tinha feito doação que abaixo se segue. 
+ 
+Petição. Maria Barbosa de Almeida, que o sargento-mor Jerônimo Serrão de Paiva lhe 
+fez doação das terras conteúdas na sesmaria junta, e porquanto está lançada nos livros da 
+fazenda da Capitania de Pernambuco, e como ele suplicante é morador nesta cidade, e a 
+dita sesmaria é muito velha e está rota a quer mandar lançar nos livros dos registros da 
+sesmarias desta Fazenda pelo que pede a vossa mercê lhe faça mercê mandar lançá-la, na 
+forma que se registram as mais. E recebera mercê. Despacho do provedor-mor registre-
+se no Livro a que tocar Bahia e junho 26 de 1676. De Ulhôa. Petição. Diz o capitão e 
+sargento-mor Jerônimo Serrão de Paiva que ele tem uns currais de gado no distrito do rio 
+de São Francisco capitania de Nossa Senhora da Barra de Ipanema ate a Jacioba, as quais 
+pois e povoou de nove e com muito custo da sua fazenda e risco por lhe ficar o gentio 
+muito vizinho, sendo o primeiro povoador que junto dele sitiou vinte e cinco léguas pelo 
+rio acima aonde até então não havia que houvesse posto gado, e foi ocasião de outros 
+muitos se porém mais abaixo por ele suplicante lhes ficar com os seus currais sempre na 
+fronteira do dito gentio e porque fez estas povoação e em fé de que Cristóvão da Rocha 
+tinha título daquelas terras entrou nelas por sua ordem; e porque hora tem sabido; que das 
+ditas terras não tem título algum o dito Cristóvão da Rocha, e anda impetração de vossa 
+senhoria lhes dar depois que eles suplicantes a seguros os danos que do gentio se tinham 
+estando desertas e porque conforme o direito visto ser ele o primeiro povoador delas e 
+outrossim ter cabedal para povoar mais, e vai fazendo em muito proveito das rendas de 
+Sua Majestade e de vossa senhoria. Pede a vossa senhoria lhe faça mercê de lhe mandar 
+passar carta de data de duas léguas de terras, e duas para o sertão começando da dita barra 
+do rio Ipanema ate o Jacioba, sem prejudicar a terceiro, na forma costumada. E receberá 
+mercê. Despacho do donatário passe carta de data de duas léguas de terras na forma da 
+petição acima, e nos sítios que pede Ana [?] 7 de outubro de 1632. Rubrica de Duarte de 
+Albuquerque Coelho. Carta de sesmaria. Duarte de Albuquerque Coelho capitão e 
+governador da capitania de Pernambuco, etc. Faço saber aos que esta minha carta virem 
+e o conhecimento dela com direito pertencer que Jeronimo Serrão de Paiva sargento-mor 
+da cidade da Bahia me fez a petição atrás escrita, a qual vista e o que nela alega. Hei por 
+bem e me apraz de lhe fazer mercê de duas léguas de terra do rio de São Francisco que 
+começaram a correr da Barra do rio Ipanema ate o Jacioba, e outras duas para o sertão 
+que se demarcaram na forma ordinária com a largueza que comumente se dá cada légua 
+de terras não prejudicando a terceiro de outras cartas que há mais antigas dadas para nem, 
+ou meus antecessores ou por quem nossos poderes tivesse as quais duas léguas de terra 
+na maneira sobredita dou e concedo ao dito sargento-mor Jerônimo Serrão de Paiva com 
+toda as águas, pastas, e madeiras que neles houver e as possuirá ele e seus herdeiros 
+descendentes de hoje, para sempre, sem dúvidas nem contradição de pessoa alguma e da 
+posse se fará assento nas costas desta minha Carta na forma costumada e se registrará nos 
+livros das datas e sesmaria destas capitania, e se cumprirá como nela se contem dada neste 
+Arraial de Paramerim capitania de Pernambuco sob meu sinal e selo de minhas armas 
+
+Francisco de Souza a fez aos oito dias do mês de outubro ano do Nascimento de Nosso 
+Senhor Jesus Cristo de 1632 anos. Duarte de Albuquerque Coelho. Selo. Registrada no 
+Livro quarto a folhas quatro. Francisco de Souza e não dizia mais as ditas petiões, 
+despachos e sesmarias que aqui se registou em 6 de junho de 1676 anos e se entregou ao 
+sargento que foi da companhia do capitão Sebastião Barbosa de Almeida que a deu e 
+registrou Manuel Freire de Olivedo.  
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 106-107v 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

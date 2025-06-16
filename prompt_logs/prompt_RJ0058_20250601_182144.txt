@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0058
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Gonçalves dos Quintos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "02-09-1579",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Também, é importante observar que o suplicante pede requerimento para três localidades diferentes, delas solicitando concessão de título de sesmaria. ",
+  "Localidade": "Piraiqueaçu",
+  "Marcos Geográficos": "Ilha de São Sebastião",
+  "Ribeira": "Piraíque",
+  "Justificativas": "Pretendia lavrar; ",
+  "Exigências do Deferimento": "Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Por razões que a carta encontra-se incompleta, não foi possível identificar se a concessão passou pelas instâncias da Câmara, da Provedoria e da Procuradoria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0058"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0058 
+ 
+Carta de concessão de sesmaria de Antônio Gonçalves dos Quintos de 2 de setembro de 1579 
+ 
+Forra 
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1579 anos, aos 2 dias do mês de setembro do dito ano nesta cidade 
+de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante nomeado, 
+apareceu Belchior Tavares, morador nesta dita cidade, e por ele me foi dado uma petição feita 
+em nome de Antônio Gonçalves dos Quintos com um despacho nela do Senhor Salvador 
+Correia de Sá, capitão e governador desta dita cidade e capitania deste dito Rio de Janeiro, por 
+El Rei nosso Senhor e da qual petição e despacho dela o traslado é o seguinte. Diz Antônio 
+Gonçalves dos Quintos, ora instante nesta cidade e morador na capitania de São Vicente, que a 
+ele lhe é necessário para sustento de sua casa e de sua família ter terras para fazer sua fazenda 
+e trazer suas criações, pelo que pede a Vossa Mercê, pelos poderes que tem do governador da 
+capitania de Santo Amaro, lhe faça mercê de lhe dar de sesmaria um pedaço de terra que está 
+na Ilha de Guaíbe da dita capitania de Santo Amaro, onde se chama pela língua dos negros 
+Acaraípe, a qual terra parte de uma banda com as terras de João Pires, o Ruivo, que Deus tem, 
+e da outra banda com as terras que foram de um bairro, as quais terras correm logo, começando 
+das terras de João Pires, que Deus tem, pelo rumo de leste e de lés-nordeste até conquistar com 
+o dito Bertolameu Antunes e da piaçaba, da onde desembocam correndo direito ao sul e ao su-
+sueste até conquistar com as terras de um bairro, as quais são terras chãs que a mulher dele, 
+suplicante, e seu antecessor lavraram sempre, tem a maior parte aproveitada e pagam dízimo a 
+Deus, delas as quais ele suplicante pede agora novamente a Vossa Mercê, e assim mais, pede a 
+Vossa Mercê lhe faça mercê de lhe dar de sesmaria uma légua de terra, tanto de largo como de 
+comprido, além da ponta de Bertioga, assim de areais como de outeiros, onde acabar Simão 
+Machado para adiante correndo direto ao longo da costa, aonde não for dado aonde pede, que 
+ele suplicante corra adiante onde não for dado, e assim mais, pede a Vossa Mercê na Ilha de 
+São Sebastião meia légua de terra, tanto de largo como de comprido, onde se chama Piraiqueaçu 
+de maneira que lhe fique o dito Piraíque e rio dele no meio da dita dada com as águas que na 
+dita meia légua houver, porquanto, ele suplicante é pessoa que tem gente para poder lavrar as 
+ditas terras, ter filhos e enteados para casa, e na capitania de São Vicente não houver cousa que 
+posso a pedir por ser tudo dado, e de tudo lhe mande passar carta de sesmaria em forma na qual 
+irão trasladados os poderes que Vossa Mercê tem do governador e senhor da dita terra para sua 
+guarda e conservação de suas terras e, porquanto, Vossa Mercê está nesta capitania do Rio de 
+
+Janeiro, mande-me seu despacho que Pero da Costa, escrivão das sesmarias desta cidade, lhe 
+passe sua dita carta em seus livros das notas das ditas sesmarias, no que receberá mercê. 
+Despacho do Senhor capitão e governador Salvador Correia de Sá. Dou ao suplicante Antônio 
+Gonçalves as terras e águas que pede em sua petição nos lugares onde as pede, e pelas 
+confrontações que diz em sua petição assim e da maneira que as pede, as quais terras e águas 
+lhe dou em nome do Senhor André de Albuquerque e dos mais Senhores, cujas as ditas terras 
+são e, pelos poderes que tenho dos ditos Senhores, e conforme a eles lhes dei por datas de hoje 
+para sempre, forras e isentas, sem foro, nem pensão, somente o dízimo a Deus e, porquanto, eu 
+estou nesta capitania deste Rio de Janeiro, mando a Pero da Costa, tabelião das notas e escrivão 
+das sesmarias nesta cidade, lhe passe sua carta em forma nos seus livros das sesmarias em a 
+qual irá o traslado da procuração que tenho, e o dito aproveitará as ditas terras e águas conforme 
+a ordenação, será obrigado a registrar a dita carta nos livros da Fazenda Real da dita capitania 
+de São Vicente e a confirmar pelos ditos Senhores, e quanto as águas, fazendo ele ou outros 
+nelas engenhos de açúcar ou trapiches, pagarão aos ditos Senhores as pensões e foros que na 
+dita capitania se costuma dar. Hoje, 2 de setembro de 1579. Salvador Correia de Sá. E tudo 
+visto pelo dito Senhor capitão e governador a petição do dito suplicante Antônio Gonçalves dos 
+Quintos e o que lhe pedia, visto ser justo,  havendo respeito ao proveito que se pode seguir 
+acerca da República, ao serviço de Deus, do Rei nosso Senhor, e bem e proveito dos ditos 
+Senhores de cujus as ditas terras e águas são, por as terras se povoarem e acrescentamento de 
+suas rendas, lhe deu as terras e águas que pedia e pede em sua petição, e conforme ao dito seu 
+despacho, porquanto, dizia que estavam vagas, devolutas e em matos maninhos, e para o dito 
+suplicante Antônio Gonçalves aproveitar e fazer benfeitorias, e fazendo nelas como diz, não 
+sendo já dadas a outras pessoas primeiro,  as quais terras estão nos ditos lugares, tem as ditas 
+medidas e partem pelas ditas confrontações, segundo sua petição diz, e a braça, porque se 
+[Interrompe-se aqui o códice.] //Salvador Correia de Sá // 
+ 
+ 
+-fim da transcrição- 
+ 
+ 
+ 
+Observações do documento:  
+
+Título original: Carta de sesmaria das terras e águas de Antônio Gonçalves do Quintos morador 
+em São Vicente as quais pede-me a capitania de São Vicente na Ilha de Guaíbe e na Bertioga e 
+na Ilha de São Sebastião no Praiqueaçu. 
+ 
+Referências: 
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 232-234. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79) 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

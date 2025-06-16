@@ -1,0 +1,79 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0066
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0350",
+  "Nome": "Antônio Barbosa de França , Antônio Martins Pereira, Antônio Velho Tinoco, José da Cunha (PE 2), José da Silva, Lourenço Cordeiro, Lourenço de Almeida, Manuel de Sandes, Maria Martins, Mateus Pereira de Almeida, Pascoal Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-05-1680",
+  "Observações da sesmaria": "Os suplicantes requereram 48 léguas de comprimento e 48 léguas de largura entre o rio São Francisco e o rio Paraíba. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio Paraíba",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 11,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0066"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0040
+Carta de concessão de Lourenço de Almeida, José da Silva, ntônio Martins Pereira, Antônio
+Velho Tinoco, Mateus Pereira de Almeida, José da Cunha, Manuel de Sandes, Francisco
+Martins, Antônio Barbosa da Franca, Maria Martins, Lourenço Cordeiro e Pascoal Dias de
+25/05/1680
+Sesmaria de 48 léguas de terra em quadra, entre o rio de São Francisco e o da Paraíba, para o
+sertão quase oitenta léguas, compreendendo algumas serras que se chamam Iquichio, cortando
+pelo rio Mapenico, concedida em 25 de maio de 1680 a Dom Lourenço de Almeida, o capitão
+José da Silva, o capitão Antônio Martins Pereira, o capitão Antônio Velho Tinoco, Mateus
+Pereira de Almeida, Dom José da Cunha, Manuel de Sandes, Francisco Martins, Antônio
+Barbosa da Franca, Maria Martins, Lourenço Cordeiro e Pascoal Dias e seus herdeiros, pelo
+governador Ayres de Souza de Castro, sem foro ou pensão alguma, salvo o dízimo a Deus.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE EDUCAÇÃO
+E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 97.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

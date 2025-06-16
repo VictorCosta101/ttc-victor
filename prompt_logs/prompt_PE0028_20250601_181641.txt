@@ -1,0 +1,99 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0028
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0053",
+  "Nome": "Gregório de Sousa Marinho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "03-10-1710",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no rio São Francisco, entre o sítio Puyú e a serra do Guingalho. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio São Francisco",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia criar gado; Serviu a Sua Majestade; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta encontra-se incompleta. Desta forma, não foi possível identificar os dados do despacho e da concessão.",
+  "Observações das exigências": "A carta encontra-se incompleta. Desta forma, não foi possível identificar os dados do despacho e da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0028"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0028 
+ 
+Carta de doação e sesmaria de Gregório de Souza Marinho - 10/09/1710 
+ 
+SESMARIA QUE SE PASSOU À GREGORIO DE SOUZA MARINHO DE TRÊS LÉGUAS 
+DE TERRA, QUE FICAM NO SERTÃO, TERMO DO RIO DE SÃO FRANCISCO. 
+ 
+Dom Manoel Alves da Costa, do Conselho de Sua Majestade, bispo governador de Pernambuco e 
+mais capitanias anexas e etc. Faço saber aos que esta carta de doação de sesmaria virem que 
+Gregório de Souza Marinho me representou a petição cujo teor é o seguinte: Senhor, diz Gregório 
+de Souza Marinho, cabo d'esquadra da companhia do capitão André Dias de Figueiredo, do terço de 
+que é mestre de campo João de Freitas da Cunha, que ele suplicante tem servido a Sua Majestade, 
+que Deus guarde, na ocupação de soldado 17 anos, como dos seus serviços melhor consta, e porque 
+de presente se acha devoluta uma sorte de terras no sertão, termo do rio de São Francisco, sítio que 
+lhe chamam o Puyú, cortando para a serra do Guindalho, e ele suplicante as quer povoar com gado 
+seu, havendo-as por devolutas por sesmaria em refém de seus serviços; o que visto, pede a Vossa 
+Senhoria seja servido mandar por seu despacho se lhe deem três léguas de terra no dito sertão e 
+paragem por ser conveniente ao serviço de Sua Majestade, que Deus guarde, que se povoem os 
+sertões na forma do estilo. E receberá mercê. = Despacho = Informe o provedor da Fazenda Real, 
+ouvindo o procurador dela. Recife, 3 de setembro de 1710. = Rubrica = Haja vista o doutor 
+procurador da Coroa e Fazenda. Recife, 5 de setembro de 1710. = Barros = Não tenho duvida, 
+sendo a data feita na forma da Ordenação Livro 4.° título 43; e pagando o foro na forma das ordens 
+de Sua Majestade e assento da junta. Recife, 8 de setembro de 1710. = Pereira = Senhor, informo a 
+Vossa Senhoria com o que pareceu ao procurador da Coroa. Recife, 10 de setembro de 1710. = João 
+do Rego Barros = E havendo, outrossim, respeito ao que Sua Majestade me concede no capitulo 15 
+do regimento deste Governo. 
+- Fim da carta - 
+ 
+Observações: 
+A carta parece estar incompleta pelo conteúdo, mas só consta esta versão no livro. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 185 - 186. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

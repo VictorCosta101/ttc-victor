@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0180
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0184",
+  "Nome": "Inácio da Cunha Souto Maior",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "09-04-1793",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura na freguesia da Luz. A sesmaria requerida possuía por limites a leste com as do Engenho Covas do mestre de campo Jose de Araújo Pinheiro; pelo oestes com terras de Simão Rodrigues e João da Silva; pelo sul com terras do Outeiro do mesmo João da Silva; e pelo Norte com terras de São Bento de Nossa Senhora dos Remédios.",
+  "Localidade": "Freguesia da Luz",
+  "Confrontantes": "José de Araújo Pinheiro, Simão Rodrigues, João da Silva, São Bento de Nossa Senhora dos Remédios",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que era casado com Vicência Maria da Cãmara e herdou um lote de terras do seu sogro, José Martins Leitão, que havia adquirido por título de compra. Portanto, o suplicante desejava requerer a terra em sesmaria.",
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 3 mil réis. O governador Dom Tomás José de Melo também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0180"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0180
+Carta de doação e sesmaria de Ignácio da Cunha Souto Maior - 09/04/1793
+Ignacio da Cunha Souto Mayor, com meia légua de terra no lugar da Cacira na freguesia da
+Luz.
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, Cavalheiro da Sagrada
+Religião de Malta, Chefe de Divisão da Armada Real Governador e Capitão-General de
+Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de data de
+sesmaria virem, que Ignácio da Cunha Souto Maior, me fez um requerimento do teor e maneira
+seguinte: = Ilustríssimo e Excelentíssimo Senhor. = Diz o alferes Ignácio da Cunha Souto Maior,
+que ele tem notícia que [Antônio] de Barros Lobo pretende por sesmaria meia légua de terras
+situadas na freguesia da Luz, chamadas Cucira, que partem pelo nascente com terras do Engenho
+denominado Covas, do mestre de campo José de Araújo Pinheiro, pelo poente com terras de
+Simão Rodrigues e João da Silva, pelo sul com terras do outeiro do mesmo João da Silva, e
+finalmente, pelo norte com terras de São Bento de Nossa Senhora dos Remédios, com o pretexto
+de devolutas; e porque estas mesmas terras sempre foram ocupadas e aproveitadas por seu sogro,
+José Martins Leitão, de quem o mesmo suplicante é herdeiro por cabeça de sua mulher, Vicência
+Maria da Câmara, e pelos outros ante possuidores a quem o dito seu sogro sucedeu por título de
+compra e doação que se oferece; nestes termos, visto o suplicante às ocupar hoje, quer preferir na
+sesmaria que deles pretende tirar o suplicado, visto que neste caso sua preleção ao possuidor.
+Pede a Vossa Excelência que se digne mandar se passe ao suplicante carta de sesmaria da dita
+meia légua de terras, na forma do estilo. E receberá mercê. E sendo por mim visto o seu
+requerimento, ordenei por despacho meu de 31 de maio de 1788 aos oficiais da Câmara do
+respectivo distrito, que mandassem fixar editais na respectiva freguesia para se saber ao certo
+estar ou não devoluta e mesma terra e haver ou não terceiro prejudicado; e constando-me por
+informação dos ditos oficiais, que assim mandaram executar, não haver pessoa alguma que aos
+ditos editais saísse, por outro meu despacho de 23 de março do dito ano mandei ouvir o escrivão
+da Receita e Despesa da Fazenda Real, e assim mais responder o doutor procurador da Fazenda e
+Coroa, por outro de 22 de setembro de 1792; e como todos uniformemente me responderam estar
+nos termos de se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em seu
+requerimento, pagando anualmente o foro de 3 mil réis, por ser das que estão mais próximas a
+Marinha, ultimamente mandei por despacho de 3 de outubro do dito ano, que se passasse
+sesmaria na forma da resposta do doutor procurador da Fazenda e Coroa e escrivão da Receita e
+Despesa. Em cumprimento do qual e peça faculdade que Sua Majestade me permite no Capítulo
+
+15 do Regimento deste Governo. Hei por bem dar em nome de Sua Majestade ao dito Ignacio da
+Cunha Souto Maior, de sesmaria no lugar Cucira, da freguesia da Luz, meia légua de terra na
+forma confrontada em seu requerimento, pagando o foro anual de 3 mil réis, visto ser das mais
+próximas a Marinha, que determina a Real Ordem de 28 de setembro de 1700; a qual terra
+possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como sua que fica
+sendo de hoje para todo o sempre, com todas as suas pertenças, matas, campos, águas, rios,
+testadas, logradouros e mais úteis que ela compreender, não prejudicado a terceiro; e não passará
+a dita a religiões, pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as
+possuem os seculares, sendo obrigado obrigado a dar ao Conselho caminhos livres para fontes,
+pontes, pedreiras, e requerer dentro de 3 anos medição, demarcação e confirmação, povoá-la e
+cultivá-la na conformidade da Real Ordem de 20 de outubro de 1753, e não cumprindo assim se
+dar por devoluta e novamente ser conferida a quem a requerer; com mais as condições de que a
+dita terra nunca se dividirá em porções, mas andará encabeçada em uma só pessoa, segundo a
+natureza dos foreiros, como determina a Ordenação do Livro 4º título 96. § 23; e de que não
+derrubará antes contornará as árvores de sucupira, amarelo e pau Brasil, por ficarem reservadas
+para o real serviço, e não transpassará a herdeiros ou outra qualquer pessoa dita terra sem
+concessão da Junta da Fazenda Real, para nela se dar nova fiança e fazerem as devidas
+averiguações, digo devidas escrituração. Pelo que ordeno aos ministros da Fazenda e Justiça, e
+mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria,
+como nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma costumada,
+debaixo da cláusulas referidas e das mais da Ordenação Título das Sesmarias, visto constar por
+bilhete que apresentou, achar-se dada a fiança ao foro anual de 3 mil réis na Contadoria da Real
+Fazenda, a folha 1 do Livro 4º delas. Em firmeza do que lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, que se registrará na Secretaria deste Governo e
+Contadoria da Real Fazenda. Manoel Barboza da Silva Garcia, oficial maior da Secretaria do
+Governo, a fez em o Recife de Pernambuco, aos 9 dias de abril. Ano do Nascimento de Nosso
+Senhor Jesus Cristo de 1793 || Dom Antonio Pio de Lucena e Castro, secretário do Governo, a fez
+escrever || Dom Thomas José de Melo.
+-
+Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco, 1821, fls. 34-36.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

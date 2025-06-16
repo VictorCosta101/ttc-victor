@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0072
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0128",
+  "Nome": "José Paes dos Santos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "O suplicante requereu 10 braças de terras e três braças de largura na vila do Recife, próximo as terras que o suplicante já possuía. A sesmaria localizava-se próxima a rua das Senzalas e fazia fronteira com o rio Capibaribe.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rio Capibaribe, Rua das Senzalas",
+  "Justificativas": "As terras eram devolutas; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Em razão do documento encontrar-se incompleto, não foi possível averiguar todas as informações referentes a concessão e ao despacho. O governador solicitou o parecer do tenente general artilheiro Diogo da Silveira Veloso e do engenheiro Luiz Xavier Bernardo para determinar se a concessão das terras requeridas prejudicaram o projeto de construção das fortificações e da cidadela militar no entorno do Recife.",
+  "Observações das exigências": "Em razão do documento encontrar-se incompleto, não foi possível averiguar todas as informações referentes a concessão e ao despacho.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0072"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0072
+Carta de doação e sesmaria de José Pais dos Santos - 04/02/1740
+Carta de sesmaria de cento e seis palmos de terra, que se deu a José Pais dos Santos.
+Henrique Luiz Pereira Freire, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. — Faço saber aos que esta minha carta de doação
+e sesmaria virem, que por parte de José Paes dos Santos, morador nesta Vila de Santo Antônio,
+Recife, se me representou a petição do teor seguinte: Diz José Paes dos Santos, morador nesta
+praça do Recife, no beco chamado das miudinhas, na rua da sanzala, que vai sair ao rio que o
+antecessor de Vossa Excelência lhe deu de sesmaria, como se vê da carta junta no realengo 44
+palmos de frente e 30 de fundo, no lugar donde o suplicante tem sua casa e quintal, que
+entulhou a sua custa, e por que quer o suplicante para baixo dos 44 palmos, por
+haver
+entulhado a sua custa no dito realengo por sesmaria mais 106 palmos, que fazem por todos
+150 palmos, e caso que falte alguma coisa, se obriga a entulhar dentro de um ano, começando
+logo a pagar, não obstante Antônio da Silva Santos já haver aforado a Câmara de Olinda, e
+que não tem lugar e é erro notório por ser como realengo e não pertence a dita Câmara. Pede a
+Vossa Excelência seja servido mandar-lhe passar sesmarias de todos os 150 palmos, na forma
+da carta junta, e logo começará a pagar e receberá mercê — Informe o tenente-general Diogo
+da Silveira Veloso - Recife, 11 de maio de 1739 — Estava a rubrica — Ilustríssimo e
+excelentíssimo senhor — Para poder informar a Vossa Excelência, fui ver os chãos que o
+suplicante pretende aforar, os quais achei que parte estão aterrados e que ainda os cobre a
+maré, de que bem se colige serem realengos os ditos chãos, visto que o suplicante tem já
+aforado 44 palmos de frente, correndo para a parte do rio com 30 de fundo, correndo este para
+a parte da ponte, me parece se lhe podem aforar os 106 palmos que pede, continuados para a
+dita parte do rio com o mesmo fundo de 30 palmos, obrigando-se o suplicante a entulhar o
+que faltar, para se preencherem os ditos 106 palmos, sem que obste ter o Senado da Câmara
+de Olinda aforado os ditos chãos a terceira pessoa, que não deve ter lugar semelhante
+aforamento por serem os ditos sãos realengos; é o que posso informar a Vossa Excelência,
+que deferirá ao suplicante com a justiça que costuma = Recife, 26 de janeiro de 1740 —
+Diogo da Silveira Veloso — . Informe o tenente-general Luiz Xavier Bernardo. Várzea, 29 de
+janeiro de 1740 — Estava a rubrica — Ilustríssimo e excelentíssimo senhor — Conforme a
+planta da fortificação, nenhum ângulo reentrante quase de frente das casas do suplicante, ao
+que atendendo e que a maré não descobre tanta terra quanto pretende, me parece se lhe deve
+
+conceder além dos 44 palmos, que tem aforado mais 50 de frente, correndo para o rio com 30
+de fundo para a parte do poente, sem que se possa conceder mais terra além dos 50 palmos
+que de novo pretende aforar, e pelo que respeita ao que diz a Câmara ter aforado, não tem
+nem deve ter lugar tal foro, por que o realengo só é do soberano poder e a Câmara não tem
+tratado, e é erro de quem lhe pede, o que se lhe deve assim declarar, isto é o que me parece,
+Vossa Excelência mandará o que for servido. Recife, 3 de fevereiro de 1740 — Luiz Xavier
+Bernardo. — Declarem os tenentes-generais excelentíssimo, que os chãos de que se trata não
+faz mal a fortificação — Olinda, 13 de fevereiro de 1740 = Estava a rubrica — Ilustríssimo e
+excelentíssimo senhor — Com a tendência ao prejuízo da fortificação, é que me parece se
+devem conceder somente 50 palmos, por que sendo mais lhe poderá prejudicar, sendo meio de
+demolir-se as obras, quanto mais que ainda o suplicante não tem entulhado 50 palmos a
+benfeitoria que o suplicante tiver feito, por que as suas linhas se não devem a faltar pelo
+respeito de semelhantes obras, quanto mais que ainda o suplicante não tem entulhado 50
+palmos, em que no modo que possa, convenho se lhe concedam como o dito se sujeita a pagar
+logo foro delas e em utilidade da Fazenda de Sua Majestade, e não embaraçam a fortificação,
+torno a dizer se lhe podem conceder: Vossa Excelência mandará o que for servido. — Recife,
+4 de fevereiro de 1740 — Luiz Xavier Bernardo — Ilustríssimo e excelentíssimo senhor —
+Dois são os projetos que delineados para se fortificar o Recife, o primeiro é o da cidadela e
+obra circunvala o dito Recife, o segundo é mais restrito por que vem cortar por meio do
+terreno que fica entre a tenelha das portas e a mesma cidadela, a que já se deu princípio, seja
+um ou seja outro, o desenho que se execute sempre é mais conveniente que aquele terreno da
+parte [...] a maré se aterre e assim o dispõem as ordens de Sua Majestade, que Deus guarde,
+nas quais manda que naquela paragem se faça botar lastro dos navios, para pouco a pouco ir
+crescendo e calcando-se o terreno [...] quem primeiro entulhar a sua custa, ainda que seja com
+a conveniência de Vossa Excelência aforar cem mais palmos, me parece que se não deve
+desprezar, pelo que lhe é em dúvida que para ele se conservar cem palmos [...] há de entulhar
+150 em razão de que a maré e etc.
+Não se pôde continuar pelo mal estado da letra. (1)
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+43 - 46.
+Observações: A carta encontra-se incompleta, como consta acima ser devido o estado da letra.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

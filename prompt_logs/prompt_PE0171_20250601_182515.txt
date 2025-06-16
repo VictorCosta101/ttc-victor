@@ -1,0 +1,137 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0171
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0318",
+  "Nome": "Manuel de Oliveira Cruz",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-04-1788",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila de Sirinháem. A sesmaria tinha por limite da cachoeira de Manuel José, nas fronteiras das terras de Manuel Gomes da Cunha, até o riacho Crasuípe pelo rio Una até o norte. ",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Riacho Crasuípe, Cachoeira de Manuel José, Rio Una",
+  "Confrontantes": "Manuel Gomes da Cunha",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Dom Tomás José de Melo determinou o pagamento anual do foro régio no valor de 6 mil réis. O  governador Dom Tomás José de Melo também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0171"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0171
+Carta de doação e sesmaria de Manuel de Oliveira Cruz - 25/04/1788
+Manoel de Oliveira Cruz com uma légua de terra em quadra pelo rio de Una acima da
+parte do norte, termo da Vila de Serinhaém
+Dom Thomas José de Melo, do Conselho de Sua Majestade Fidelíssima, cavalheiro da Sagrada
+Religião de Malta, coronel do Mar da Armada Real, governador e capitão general de Pernambuco
+e mais capitanias anexas etc. Faço saber aos que esta carta de data de sesmaria virem, que Manoel
+de Oliveira Cruz me fez um requerimento do teor e maneira seguinte = Ilustríssimo e
+Excelentíssimo Senhor = Diz Manoel de Oliveira Cruz, morador nesta Praça, que ele em 30 de
+julho de 1783 requerera ao antecessor de Vossa Excelência lhe mandasse dar por sesmaria uma
+légua de terra em quadra, pegando da Cachoeira de Manoel José, na testada das terras de Manoel
+Gomes da Cunha, compreendendo dentro delas o Riacho de Crasuipe, pelo rio de Una acima da
+parte do norte, termo da Vila de Serinhaem, fora o mesmo senhor servido mandar que a Câmara
+respectiva fixasse editais e informasse, e fixando a dita Câmara os editais, se opusera Manoel
+Ferreira de Moraes Sarmento, e sendo tudo remetido ao dito senhor, fora ele servido não deferir
+ao suplicante, por cujo motivo fizera o suplicante citar ao suplicado pelo juízo dos feitos da Real
+Fazenda, e vindo com embargos, e sendo estas impugnados pelo suplicado, afinal obtivera o
+suplicante sentença a seu favor, e o ministro respectivo julgara livre a terra pedida pelo suplicante
+na forma da resposta do procurador da Coroa, tudo isto consta do documento junto; e porque
+naqueles editais não houve outra oposição se não a do suplicado, e esta foi desvanecida em juízo
+competente; parece está em termos de ser deferido o suplicante; e como sobre a dita terra já se
+fizeram as deligências do estilo. Pede a Vossa Excelência seja servido, atento o referido, mandar
+passar Carta de Sesmaria = E receberá mercê = E sendo por mim visto o seu requerimento, e
+constando dos documentos que a ele juntou está devoluta e livre a terra pedida, e que o
+impedimento com que saíra Manoel Ferreira de Moraes Sarmento à mencionada terra, na ocasião
+em que foram postos os editais pela Câmara respectiva, em observância do despacho do meu
+excelentíssimo antecessor, da data de 30 de julho de 1783, se achava decidido a favor do
+suplicante pelo juízo dos feitos da Fazenda, mandei por despacho meu de 16 de fevereiro do
+corrente ano, ouvir o escrivão da Fazenda Real, e assim mais responder o doutor procurador da
+Fazenda e Coroa por outro de 23 do dito mês e ano; e como ambos responderam estar nos termos
+de se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em seu requerimento,
+pagando o foro anual de seis mil réis por légua, por ser das que estão mais próximas a marinha,
+
+do que devia dar fiança na Contadoria; ultimamente, mandei despacho de 3 de março de presente
+ano, que se passasse sesmaria na forma da resposta do doutor procurador da Fazenda e Coroa, e
+escrivão da Fazenda Real; Em cumprimento do qual e pela faculdade que Sua Majestade
+Fidelíssima me permita no capítulo 15 do registro deste Governo. Hei por bem dar em nome da
+dita senhora ao sobredito Manoel de Oliveira Cruz de sesmaria uma légua de terra em quadra,
+pegando da Cachoeira de Manoel José, na testada das terras de Manoel Gomes da Cunha,
+compreendendo dentro delas o riacho de Crussuipe pelo Rio de Una acima da parte do norte,
+termo da Vila de Serinhaem, na forma confrontada em seu requerimento, pagando o foro anual de
+seis mil réis por légua, visto ser das mais próximas à Marinha, que determina a Real Ordem de 28
+de setembro de 1700; a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e
+descendentes, como sua que fica sendo de hoje para todo o sempre, com todas as suas pertenças,
+matos, campos, rios, águas, testadas, logradouros e mais úteis, dita a religiões e pessoas
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem a seculares; sendo
+obrigado a dar requerer dentro de 3 anos confirmação, medição, demarcação, povoá-la e
+cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim
+se dar por devoluta e novamente ser conferida a quem requerer; com mais as condições de que
+não se utilizará, nem demolirá as árvores de Amarelo, Securipa, Pau-Brasil, que a dita terra
+compreender por deverem ficar reservadas para construção das naus de Sua Majestade e do Real
+Serviço, e da que a mencionada terra nunca se dividirá em porções senão por estimação, andando
+sempre emcabeçada em uma só pessoa, na forma que determina a Ordenação do Livro 4º título
+99. §. 23 + Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo
+dar ao suplicante posse real efetiva e atual, na forma costumada, debaixo das cláusulas referidas e
+das mais da ordenação título das sesmarias, visto constar por bilhete que apresentou achar-se
+dada a fiança ao foro anual de seis mil réis por légua na contadoria da Real Fazenda, a folha 15
+do Livro 3º delas, e assinado o termo de não demolir nem se utilizar das árvores, e acima
+mencionados a folha 18 do Livro 3º a que toca. Em firmeza do que lhe mandei passar a presente
+por mim assinada e selada com o sinete de minhas armas, que se registrará na Secretaria deste
+Governo e Contadoria da Real Fazenda. Dada no Recife de Pernambuco, aos 25 dias de abril.
+Manoel Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, o fez. Ano do
+Nascimento de Nosso senhor Jesus Cristo de 1788 || Dom Antônio Pio de Lucena e Castro,
+secretário do Governo, o fez escrever || Thomas José de Melo.
+[margem esquerda]
+
+§ 23 + Sendo obrigada a pessoa que suceder na dita terra, por qualquer título que for, a vir logo
+reconhecer por direta Senhora à junta da Fazenda Real destas capitanias, debaixo da cominação
+de que o não fazendo assim, se dará a mencionada terra a quem a requerer.
+- Fim da carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 01-02.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

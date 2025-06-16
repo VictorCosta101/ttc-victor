@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0004
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Referência da antiga plataforma SILB": "PE 0047",
+  "Nome": "Colégio Jesuíta da Bahia , Colégio Jesuíta do Recife",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "25-01-1708",
+  "Data da concessão": "01-02-1708",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de largura e duas léguas de comprimento na região do rio São Francisco, entre as serras do Marabá e do Apieca. As terras iam do rio Utiuba até o rio São Francisco e tinham por limites as terras Damião da Rocha, Fernão Mendes, Francisco Coelho da Maia e a terra dos herdeiros de Baltazar Alves Camelo. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio São Francisco, Rio Utiuba, Serra do Marabá, Serra do Apieca",
+  "Confrontantes": "Damião da Rocha, Fernão Mendes, Francisco Coelho da Maia e a terra dos herdeiros de Baltazar Alves Camelo",
+  "Justificativas": "Pretendia criar gado; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Sebastião de Castro Caldas ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Sebastião de Castro Caldas ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Sebastião de Castro Caldas ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0004"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0004 
+ 
+Carta de doação e sesmaria do padre reitor do Colégio da Bahia e do padre reitor do Colégio 
+do Recife – 01/02/1708 
+ 
+SESMARIA QUE SE PASSOU AO PADRE REITOR DO COLÉGIO DA BAHIA E AO 
+PADRE REITOR DO COLÉGIO DESTE RECIFE. 
+ 
+Sebastião de Castro Caldas, do Conselho de Sua Majestade e etc. etc. Faço saber aos que esta carta 
+de doação de sesmaria virem que o padre reitor do Colégio da Bahia e o padre reitor do Colégio do 
+Recife me representaram a petição cujo teor é o seguinte: Senhor. Diz o padre reitor do Colégio da 
+Bahia e o padre reitor do Colégio do Recife, que na jurisdição do rio de São Francisco desta 
+capitania do meio da serra Marabá para a serra Apieaca, entre as terras de Damião da Rocha e 
+Fernão Mendes e Francisco Coelho da Maya, e das terras que foram dos herdeiros de Baltasar Alves 
+Camelo pela parte do rio Utiuba, por ele abaixo para a parte do rio de São Francisco e pela do sertão 
+com a data de Damião da Rocha estão umas sobras de terra que nunca foram dadas e que poderão 
+ser duas léguas pouco capazes de aproveitar em razão de não ter água senão em tempo de inverno, e 
+poderão no dito tempo servir de logradouros aos gados dos suplicantes e ser conveniente as ditas 
+sobras de terra, para este efeito, pelo que pede a Vossa Senhoria lhes faça mercê dar de sesmaria as 
+ditas sobras de terra na dita paragem em nome de Sua Majestade, que Deus guarde, para os ditos 
+Colégios, na forma do estilo. = E receberá mercê. = Informe o provedor da Fazenda Real, ouvindo o 
+procurador dela. Recife, 25 de janeiro de 1708. = Rubrica. = Haja vista ao doutor procurador da 
+Coroa. Recife, 29 de janeiro de 1708 = Barros. = Não tenho dúvida, sendo a data na forma da 
+Ordenação Livro 4.° título 43., e pagando o foro na forma das ordens de Sua Majestade e assento da 
+junta. Recife, 29 de janeiro de 1708. = Pereira. = Senhor, conformo-me com o parecer do doutor 
+procurador da Coroa, Vossa Senhoria mandará o que for servido. Recife, 29 de janeiro de 1708. = 
+João do Rego Barros = Visto a informação do provedor e procurador da Fazenda, se passe carta na 
+forma do estilo. Recife, 21 de janeiro de 1708. = Rubrica. = E havendo, outrossim, respeito ao que 
+Sua Majestade me concede no capítulo 15 do regimento deste Governo. Hei por bem fazer mercê 
+dar aos suplicantes acima nomeados, como pela presente dou de sesmaria em nome de Sua 
+Majestade, que Deus guarde, e nos mesmos lugares confrontados em sua petição, duas léguas de 
+terra, pouco mais ou menos, que se acham de sobras entre as terras das pessoas acima nomeadas, 
+como parece ao procurador da Coroa e Fazenda, pagando por cada uma légua quatro mil reis, os 
+quais povoarão as ditas no tempo de cinco anos, aliás se darão por devolutas e as possuirão e 
+gozarão os ditos suplicantes e seus herdeiros, não prejudicando a terceiro com todas as suas matas, 
+campos, testadas, logradouros e mais úteis que nelas se acharem, e serão obrigados a dar pelas ditas 
+terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a requerer a confirmação 
+desta data por Sua Majestade em tempo de dois anos, pelo que ordeno a todos os ministros da 
+
+Justiça e Fazenda destas capitanias a que o conhecimento desta carta pertencer, lhe façam dar a 
+posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e das mais da 
+ordenação título de sesmarias, que para firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a que se registrará nos livros da Secretaria deste 
+Governo, nos da Fazenda Real e nos do Foral, e sem esta precisa circunstância não terá validade 
+alguma a presente carta de sesmaria. Dada neste Recife de Pernambuco, ao 1.º dia do mês de 
+fevereiro = José de Brito Menezes a fez = ano de 1708. O secretario Antônio Barboza de Lima a fez 
+escrever. = Sebastião de Castro Caldas. = 
+= Não teve efeito esta sesmaria, por haverem os ditos feito deixação dela, como consta na 
+Provedoria da Fazenda desta capitania, por cuja causa se não cobra o foro dela. = 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 157- 158. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

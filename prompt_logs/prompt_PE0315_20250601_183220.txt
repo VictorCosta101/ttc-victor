@@ -1,0 +1,100 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0315
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gaspar Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-12-1590",
+  "Observações da sesmaria": "O sesmeiro requereu a concessão de alguns chãos de terra que ele já possuia no Recife, próximo ao paço de Fernão Soares.",
+  "Localidade": "Recife",
+  "Confrontantes": "Fernão Soares",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0315"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0315 
+ 
+Felipe Cavalcante, capitão e governador, locotenente nesta capitania de Pernambuco, 
+da Nova Lusitânia, nesta vila de Olinda, nas partes do Brasil, pelo muito ilustre 
+senhor Jorge de Albuquerque Coelho, capitão e governador desta capitania por ElRei, 
+Nosso Senhor. Faço saber a quantos esta minha carta de doação for mostrada e o 
+conhecimento dela com direito pertencer, que a mim enviou a dizer por sua petição 
+Gaspar Dias, morador no Recife, que ele tem uns chãos no dito Recife, entre a casa 
+onde vive e o paço de Fernão Soares, nos quais tem feito suas casas, e porque não 
+acha a carta dos ditos chãos, ser morador de muito tempo nesta capitania e a ter 
+mulher e filhos, lhe faça mercê de novamente lhe dar os ditos chãos da maneira acima 
+dita, no que receberá mercê. Ao qual puz por meu punho despacho: Passe carta ao 
+suplicante dos chãos que pede. Hoje, 30 de junho de 90 anos. Felipe Cavalcante. O 
+qual chão hei por bem dar ao dito Gaspar Dias, por sesmaria, para ele e sua mulher, 
+filhos e netos, herdeiros ascendentes e descendentes, e para todas as pessoas que após 
+deles vierem e deles o houverem, para que dele façam como de coisa sua própria, que 
+já é deste dia para todo sempre, sem foro, nem tributo algum, por ser areia [sadia] que 
+não produz fruto nenhum, e porque assim me aprouve de lhe mandar a presente 
+doação nesta vila de Olinda, sob meu sinal e selo das armas do senhor governador que 
+ante mim servem, aos 17 dias do mês dezembro. Gabriel Daniel, escrivão das datas 
+das terras e sesmarias, águas e demarcações de toda esta capitania, pelo senhor 
+governador dela, a fez no ano de 1590. Pagou desta e nesta nada. Felipe Cavalcanti. 
+Ao selo 20 réis. Figueiredo. Registre-se. Vieira. Fica registrado no livro dos registros 
+das sesmarias, novo, por mim, Antônio da Rocha, escrivão da Fazenda e 
+Almoxarifado nesta capitania de Pernambuco, pelo dito senhor, a folha 31 até 33. 
+Olinda, 28 de março de 1591 anos. Antônio da Rocha. Cumpra-se neste Recife, a 13 
+de julho de 1602. O governador. 
+- Fim da Transcrição - 
+ 
+Referência: 
+Revista 
+do 
+Instituto 
+Arqueológico, 
+Histórico 
+e 
+Geográfico 
+Pernambucano, 1896, p. 67. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

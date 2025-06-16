@@ -1,0 +1,154 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0218
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Carvalho de Almeida",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "08-08-1740",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio São Pedro",
+  "Ribeira": "Marataoan",
+  "Confrontantes": "Riacho Salgado, chapadas, terras, caatingas, carrascos e toda a inutilidade de criar gados",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; Era descobridor(a) das terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Apesar de a terra já ter sido concedida ao requerente no ano de 1713, pedia uma nova carta de sesmaria pela razão de omissão dos procuradores em não confirmar o título dentro do prazo previsto. Além disso, pretendia se apossar do sítio por meio do título.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0218"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0218
+Carta de concessão a Manuel Carvalho de Almeida - 08/08/1740
+Registro de uma carta de data e sesmaria passada a Manuel Carvalho de Almeida,
+3 léguas de terra de comprido no sítio por nome São Pedro que se achão
+nas cabeceiras de um riacho, a que chamão o Salgado e uma de largo em todo
+o comprimento.
+João
+de
+Abreu
+de
+Castelo
+Branco,
+do
+concelho
+de Sua Majestade,
+governador, capitão-general do Estado do Maranhão. Faço saber aos que esta minha
+carta de data e sesmaria virem, que Manuel Carvalho de Almeida, morador na ribeira do
+Marataoan, me representou que ele descobrira este sítio e ajudou a desinfestar terras
+dele do gentio do Corso à sua custa e despesa, razão porque pedira de sesmaria no sítio
+chamado São Pedro na dita ribeira 3 léguas de terra de comprido e uma de largo, que lhe
+foi concedida no ano de 1713, a qual por omissão de seus procuradores se lhe não
+confirmou ele o presente; e porque necessitava de nova carta de sesmaria, me pedia
+fosse servido conceder-lhe, em nome de Sua Majestade, de 3 léguas de terra de
+comprido e uma de largo, as 3 de comprido no sítio por nome São Pedro, que se acham
+nas cabeceiras de um riacho que chamam o Salgado com uma légua de largo em todo o
+comprimento, fazendo pião onde estava a casa correndo dela para o Norte légua e meia,
+e da mesma casa para o Sul outra légua e meia, uma légua de largo por todo o
+comprimento ficando o riacho Salgado no meio, e reservando delas as voltas e pontas; e
+da terra as chapadas, terras e caatingas, carrascos, e toda a inutilidade de criar gados. Ao
+que atendendo e a informação que sobre este requerimento deu o provedor-mor da
+Fazenda Real, e ser em utilidade da mesma Fazenda o cultivarem-se as terras neste
+Estado. Hei por bem conceder-lhe, em nome de Sua Majestade, as ditas 3 léguas de terra
+de comprido e uma de largo no sítio, e com as confrontações acima declaradas com as
+condições expressadas nas Reais Ordens. E com a de não fazer trespasse a pessoa
+alguma, em nenhum tempo e religiões, ou comunidades, sem que primeiro dê parte na
+Casa da Fazenda Real ao provedor-mor dela se se deve ou não consentir no tal
+trespasse, sob pena de ficar nula esta data e se poder novamente conceder a outrem. E
+nesta forma se lhe passa sua carta de data para que os haja, logre e possua como coisa
+sua própria, e todos os seus herdeiros, ascendentes e descendentes, sem pensão, nem
+tributo algum, mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver, a
+qual concessão lhe faço não prejudicando a terceiro, nem a Sua Majestade, se
+no dito sítio quiser mandar fazer alguma vila reservando os paus reais que nelas houver
+para
+embarcações
+com
+declaração
+que
+mandará
+confirmar
+esta
+carta
+dentro
+dos primeiros 3 anos seguintes por Sua Majestade. E cultivará as ditas terras de maneira
+que dêem fruto; e dará caminhos públicos e particulares onde forem necessários para
+pontes, fontes, portos e pedreiras; e se demarcará ao tempo da posse por rumo de corda
+e braças craveiras, como é estilo e Sua Majestade manda. E outrossim, não sucederão
+nelas religiões ou comunidades, ou pessoas eclesiásticas, por nenhum título que seja e
+acontecendo possuí-las, será com o encargo de pagar delas dízimos a Deus como se
+fossem possuídas por seculares. E faltando a qualquer dessas cláusulas se haverão por
+devolutas as ditas terras e se darão a quem as denunciar como o dito Senhor ordena.
+Pelo que mando ao provedor-mor da Fazenda Real, e mais ministros e pessoas a que
+tocar, que na forma referida e com as condições expressadas, deixem ter e possuir
+ao dito Manuel Carvalho de Almeida as ditas 3 léguas de terra de comprido e uma de
+largo,
+com
+as
+confrontações
+acima
+expressadas,
+para
+ele
+e
+todos
+os
+seus herdeiros, ascendentes e descendentes como coisa própria. Cumpram e guardem
+
+esta minha carta da data tão inteiramente como nela se contém, a qual lhe mandei
+passar por duas vias por mim assinada e selada com o sinete de minhas armas, e se
+registrará aonde tocar. Dada na cidade de São Luís do Maranhão, 8 de agosto, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1740. E eu, José Gonçalves da Fonseca
+secretário do Estado, a fiz escrever. //João de Abreu de Castelo Branco//.
+-
+Fim da Transcrição -
+Observação:
+Mel Carvalho de Almeyda. Forma como está escrito o nome do sesmeiro na
+documentação original.
+Referência:
+APEP, Livro 10, doc 10, fls. 12-13.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

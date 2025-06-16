@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0058
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0108",
+  "Nome": "João Cavalcante de Albuquerque, Pedro Velho Barreto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-09-1727",
+  "Data da concessão": "10-10-1727",
+  "Observações da sesmaria": "Os suplicantes requereram 3 léguas de comprimento e uma légua de largura para cada um na ribeira do rio Capibaribe, no riacho da Madre de Deus, tendo por confrontações o rio Capibaribe a leste e ao sul as terras da Congregação do Oratório e ao norte com João da Fonseca Rego. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe, Riacho da Madre de Deus",
+  "Confrontantes": "Congregação do Oratório, João da Fonseca Rego",
+  "Justificativas": "Pretendia criar gado; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes alegaram possuir muitas despesas e por isso requereram a isenção do pagamento do foro por tempo de 5 anos. ",
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida de acordo com: as Ordenações Filipinas, Livro 4º, Título 43; o pagamento do dízimo; o pagamento de 4 mil réis do foro anual e a proibição de se passar a terra para religiosos ou ordens religiosas. ",
+  "Observações das exigências": "O governador Dom Manuel Rolim de Moura determinou o pagamento de 4 mil réis de foro por cada légua concedida. O governador Dom Manuel Rolim de Moura determinou a confirmação régia no tempo de 5 anos. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0058"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0058 
+ 
+Carta de doação e sesmaria de Pedro Velho Barreto e o coronel João Cavalcante de 
+Albuquerque - 10/10/1727 
+ 
+SESMARIA DE SEIS LÉGUAS DE TERRA A PEDRO VELHO BARRETO E O CORONEL 
+JOÃO CAVALCANTE D'ALBUQUERQUE, NA RIBEIRA DO CAPIBARIBE 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc. 
+Faço saber aos que esta carta de doação de sesmaria virem que se me representou a petição cujo teor 
+é o seguinte: Dizem Pedro Velho Barreto e o coronel João  Cavalcante d'Albuquerque, que a sua 
+notícia é vindo estarem devolutas seis léguas de terra na ribeira do Capibaribe da Mata, as quais 
+começam de um riacho que chamam da Madre de Deus, pelo rio Capibaribe acima até o poço 
+fundo, correndo a Pedra Lisa e daí as nascentes do rio Capibaribe, como fundo que se acha do dito 
+rio para a parte do sul, até contestar com as terras dos reverendíssimos padres da Congregação do 
+Oratório deste Recife, e para a parte do norte contestam com as de Mathias [...] João da Fonseca 
+Rego e outros éreos que constará de suas datas, nas quais ditas terras  querem os suplicantes criar 
+seus gados e porque estas carecem de se fazer nelas grandes trabalhos para si, porém, capazes deste 
+exercício, para o que lhes são necessários os primeiros cinco anos, não poderão nestes pagar foro 
+por esta causa, portanto pedem a Vossa Senhoria seja servido mandar-lhe passar carta de sesmaria, 
+na forma que se observa das ditas 6 léguas de terra, com a cláusula referida, atendendo ao aumento 
+que resulta a Fazenda Real. E receberá mercê. = Informe o provedor da Fazenda Real, ouvindo o 
+procurador da Coroa. Recife, 13 de setembro de 1727. = Rubrica = Haja vista ao doutor procurador 
+da Coroa – Recife, 13 de setembro de 1727. “Barros” – Não  tenho dúvida, sendo a data na forma 
+da Ordenação Livro 4.º título.º 43, e conforme o estilo – Recife, 15 de setembro de 1727 - “Pereira”. 
+Senhor governador e capitão general –. Pela  resposta do doutor procurador da Coroa a quem Vossa 
+Senhoria me mandou ouvir sobre este requerimento dos suplicantes, se mostra dizer que não tem 
+dúvida, sendo a data na forma da Ordenação Livo 4.º título 43, e conforme o estilo; a qual também a 
+mim se não me oferece dúvida, com declaração de que se pagará dízimo a ordem de Cristo de todos 
+os frutos que houverem nas ditas terras, e de não entrarem nelas religiões por nenhum título, e 
+acontecendo será como se fossem possuídas por seculares e com o foro de 4$000 por légua a cada 
+ano; Vossa Senhoria mandará o que lhe parecer mais conveniente ao serviço de Sua Majestade, com 
+a retidão que observa = Recife, 15 de setembro de 1727 – “João do Rego Barros”. O que visto e 
+atendendo eu a faculdade que Sua Majestade me concede no capítulo 15 do Regimento deste 
+Governo: hei por bem de lhes dar do dito senhor como pela presente dou as ditas seis léguas de terra 
+confrontadas na petição acima, com as mesmas cláusulas que apontão o doutor provedor e 
+procurador da Coroa e Fazenda Real, de pagarem dízimo a ordem de Cristo e quatro mil réis de foro  
+
+por cada légua, e não passarão as ditas terras a religiões por nenhum título e quando succeda será 
+com o mesmo encargo, como se fossem possuídas por seculares; as quais lograrão eles e seus 
+herdeiros com todas as suas pertenças de matas, campos, logradouros e mais úteis que nelas houver, 
+dando ao Conselho entradas livres, fontes, pontes ou pedreiras; Pelo que ordeno aos ministros da 
+Justiça ou Fazenda a quem o conhecimento desta  pertencer, lhe deem a posse real, efetiva e atual, 
+na forma costumada de que se fará assento nas costas destas, com a qual requererão a confirmação 
+de Sua Majestade dentro de um ano e serão obrigados a povoar as ditas terras dentro de cinco anos, 
+aliás se darão por devolutas; que para firmeza de tudo lhe mandei passar a presente por mim 
+assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da Secretaria deste 
+Governo e nos do foro real e mais que  tocar. Dada nesta Vila de Santo Antônio do Recife de 
+Pernambuco, em os 10 do mês de outubro de 1727 - Bento Soares Pacheco a fez escrever – Dom 
+Manoel Rolim de Moura =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 317 - 319. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

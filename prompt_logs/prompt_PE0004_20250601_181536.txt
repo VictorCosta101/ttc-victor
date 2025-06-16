@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0004
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0007",
+  "Nome": "André de Oliveira, Apolinário Pereira, Joaquim de Oliveira Neves, Lázaro Frazão, Manuel da Fonseca Rego, Manuel Gomes, Matias Sício",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "18-01-1691",
+  "Data da concessão": "24-01-1691",
+  "Observações da sesmaria": "No requerimento, os suplicantes não especificaram as medidas do comprimento e largura da sesmaria requerida. A única informação sobre a área foi a solicitação do total de 24 léguas. Pela leitura do documento, acredita-se que as 24 léguas solicitadas sejam referentes a área total da sesmaria.  ",
+  "Localidade": "Xaquereda, entre os rios Capibaribe e Paraíba",
+  "Marcos Geográficos": "Xaquereda, rio Capibaribe e Rio Paraíba",
+  "Observações da petição": "Os suplicantes requereram a sesmaria com um total de 24 léguas. O parecer do procurador da Coroa, no entanto, não foi favorável para esta quantidade, sendo concedidas somente 21 léguas de terra. ",
+  "Justificativas": "Pretendia criar gado; Pretendia plantar; As terras eram devolutas; Tinha gado; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "O despacho concedido pelo procurador da Coroa, Antônio Rodrigues Pereira, foi parcial pois determinou que as léguas concedidas fossem diminuídas de 24 para 21. O procurador também determinou que a concessão fosse dada de acordo com as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0004"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0004 
+Carta de doação de sesmaria do coronel Manoel da Fonseca Rego, Joaquim de Oliveira Neves, 
+capitão-mor do Arabá Matias Sicio, André de Oliveira, Apolinário Pereira, capitão Lazaro 
+Frazão e Manoel Gomes – 24/01/1691 
+ 
+SESMARIA DE UMAS TERRAS ENTRE OS RIOS CAPIBARIBE E PARAÍBA NO 
+SERTÃO, SE DERAM AO TENENTE CORONEL MANOEL DA FONSECA REGO E A 
+OUTRAS PESSÔAS. 
+ 
+Dom Antônio Félix Machado da Silva e Castro, do conselho de Sua Majestade, marquês de Monte-
+bello, senhor e donatário do conselho de terras de Entre Homem e Cavado, senhor  e donatário das 
+casas de Castro e Vasconcelos, Barroso e dos solares delas, alcaide-mor de Mourão, comendador e 
+alcaide-mor das comendas e Vilas do Casal e [sexto] da Ordem de São Bento de Aviz, governador 
+da capitania de Pernambuco e das mais anexas e etc. Faço saber aos que esta carta de doação e 
+sesmaria virem que a mim se me representou a petição cujo teor é o seguinte: “Senhor, marquês 
+governador”. Dizem o tenente coronel Manoel da Fonseca Rego, Joaquim de Oliveira Neves, 
+capitão-mor do Arabá, Matias Sicio, André de Oliveira, Apolinário Pereira, o capitão Lazaro Frazão 
+e Manoel Gomes que entre o rio Capibaribe e rio Paraíba, em meio está muita terra devoluta no 
+lugar chamado Xaquereda o qual por muitas partes tem muitas serras e matas inabitáveis com 
+alguns pastos, cujos lugares estão sem serem habitados e devolutas, e por que eles suplicantes 
+querem situar o dito lugar Xaquereda e juntamente presume que naquelas matas e serras haverá 
+também muitos sítios capazes de terem gados e lavouras, que eles suplicantes pretendem descobrir 
+e os querer situar, fazendo neles suas casas e tendo seus gados e suas lavouras, portanto pedem a 
+Vossa Senhoria seja servido conceder-lhes por sesmaria o dito por entre os dois rios, correndo para 
+o mar por onde o rumo melhor; dar-lhes vinte e quatro léguas para nelas fazerem sítios e terem seus 
+gados; e receberão mercê. Informe o provedor da Fazenda Real com intervenção do procurador da 
+Coroa e Fazenda. Olinda, 18 de janeiro de 1691 “Rubrica”. Haja vista o procurador da Coroa e 
+Fazenda Real. Recife, 23 de janeiro de 1691 “Barros”. Não tenho dúvida se concedam aos 
+suplicantes que se concedam aos suplicantes vinte e umas léguas de terras de sesmaria ordinárias e 
+contínuas na parte que confrontam em sua petição, fazendo-se data na forma da Ordenação, Livro 
+4º, título 43. Recife, 23 de janeiro de 1691 “Pereira”. Senhor, com a resposta do procurador da 
+Coroa e forma dela informo a Vossa Senhoria para mandar o que for servido. Recife, 23 de janeiro 
+de 1691. “João do Rego Barros”. E havendo outrossim, respeito ao que Sua Majestade, que Deus 
+guarde, me encomenda no capítulo 15 do regimento deste Governo, sobre este particular. Hei por 
+bem de lhes fazer mercê dar, como em virtude do presente dou, de sesmaria vinte e uma léguas de 
+terras ordinárias e contínuas, como pareceu ao procurador da Coroa, entre os dois rios Capibaribe e 
+Paraíba, no lugar chamado Xaquereda, o que por isto lhe concedo assim e da maneira que as pedem 
+e confrontam em sua petição, com a largura e comprimento que nela se aponta para sempre as 
+lograrem eles e seus herdeiros, achando-se devolutas e não prejudicando a terceiro com todas as 
+suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre 
+e isento de tributo, foro ou pensão alguma, salvo dízimo a Deus; e só serão obrigados a dar destas 
+ditas terras caminhos livres ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias ou aos que o conhecimento desta carta pertencer, 
+lhe fação dar a posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e 
+das mais da ordenação título das sesmarias, que para firmeza de tudo lhe mandei passar a presente 
+por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos livros de 
+Secretaria destas capitanias e nos da Fazenda Real a que tocar, e se guardará e cumprirá tão pontual 
+e inteiramente como nela se contém. Dada nesta cidade aos 24 do mês de janeiro. Antônio Pereira a 
+fez, ano de 1691. “O secretário Antônio Barboza de Lima, o fez escrever “O marquês de Monte-
+bello”. 
+- Fim da carta – 
+ 
+
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. Vol. 1, p. 18-
+20. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

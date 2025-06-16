@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0101
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Sebastião Gonçalves Aranha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada nos chamados Campos Gerais, fazendo fronteira com as terras de Francisco Rebelo de Macedo (BA0025). ",
+  "Localidade": "Campos Gerais",
+  "Confrontantes": "Francisco Rebelo de Macedo",
+  "Justificativas": "Pretendia aumentar as rendas reais; Era morador(a) da Capitania; As terras eram devolutas; Tinha cabedal; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0101"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro da carta de sesmaria do capitão Sebastião Gonçalves Aranha e a seus 3 filhos.  
+ 
+Afonso Furtado de Castro do Rio de Mendonça, do Conselho de guerra de Sua Alteza, 
+governador e capitão geral de mar e terra deste Estado do Brasil etc. Faço saber aos que 
+este Alvará de doação e sesmaria, que o capitão Sebastião Gonçalves Aranha me enviou 
+a representar por sua petição, cujo teor é o seguinte = Senhor, o capitão Sebastião 
+Gonçalves Aranha, morador nesta cidade da Bahia, casado, com 3 filhos, com sua fazenda 
+de canas, que lavra no Iguape por seus feitos, e ele suplicante nunca se lhe deu terras de 
+sesmaria, e porque ele suplicante tem servido a Sua Alteza; e tem pago muitas fintas, que 
+estão devolutos muitos campos ao poente desta cidade, no sertão que hora se 
+conquistaram ao gentio bravo, e ele suplicante tem cabedal para povoar as que Vossa 
+Senhoria lhe conceder, no que receberia a Fazenda de Sua Alteza aumento em suas 
+rendas. Pede a Vossa Senhoria lhe faça mercê dar de sesmaria em nome de Sua Alteza 
+em [ilegível] quadra para pasto de gados nos ditos campos gerais adiante da data de 
+Francisco Rebelo de Macedo, para o Sul ou para qualquer 4 lados da dita data e estiver 
+por dar e as acharem de servir. E receberá mercê = E vista a resposta do provedor da 
+Fazenda Real que é o que se segue: parece se devem de conceder as 3 léguas de terra de 
+sesmaria que o suplicante pede para si e 3 filhos, obrigando-se administrá-las no termo 
+da lei e sem prejuízo de terceiro. Bahia, 3 de novembro de 1673 = Rocha = informação 
+do provedor-mor da dita Fazenda Real que é a seguinte: Senhor, o suplicante é lavrador 
+e tem cabedal para se lhe concederem as 3 léguas, que entende o provedor da Fazenda 
+com 1 de largo, mas deve eleger o rumo para onde se houver demarcar, porque sem saber 
+a parte certa e terra que se lhe conceder, e que [espaço em branco] prejuízo de terceiro 
+[espaço em branco] Bahia, 5 de novembro de 1673 [espaço em branco] E a declaração do 
+suplicante [espaço em branco] que é a que se segue [espaço em branco] se rumaráde Leste 
+para [espaço em branco] Provedor-mor, pelo que pede a Vossa Senhoria em nome de Sua 
+Alteza a dita sesmaria, com a dita declaração onde achar a data de [espaço em branco] e 
+seus sobrinhos Vasco Marinho = E receberá mercê. Hei por bem de lhe conceder como 
+presente faço de sesmaria em nome de Sua Alteza ao dito capitão Sebastião Gonçalves 
+Aranha e a seus 3 filhos 3 léguas de terra de comprido e 1 de largo, assim como o pede 
+em nova petição, e confronta em sua declaração como parece o provedor-mor da Fazenda 
+Real, procurador dela, e será obrigado no termo da lei e Regimento, pois nesta 
+
+conformidade lhes concedo, não prejudicando a terceiro nem às terras que se determinou 
+tivessem as povoações, que de novo se fizessem para se darem a seus povoadores com 
+todas suas águas, campos, matos, testadas, logradouros e mais úteis que nelas se acharem, 
+tudo forro, livre e isento de pensão ou tributo algum, salvo dízimo a Deus, que pagará dos 
+frutos que nelas houver, e por elas será obrigado a dar caminhos livres ao Concelho para 
+fontes, pontes e pedreiras, pelo que os devo e mando a todos os ministros de justiça a que 
+o conhecimento deste com direito deva ou possa pertencer, lhe façam dar a posse real, 
+efetiva e atual na forma costumada, debaixo das cláusulas acima referidas das mais da 
+Ordenação, título das sesmarias. Para firmeza do que lhe mandei passar o presente sob 
+meu sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado 
+e nos mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nela se 
+contém, sem dúvida, embargo nem contradição alguma = Antônio Garcia o fez nesta 
+cidade  do Salvador, Bahia de Todos os Santos, aos 9 dias do mês de novembro, ano de 
+1673 = Bernardo Vieira Ravasco o fiz escrever = Afonso Furtado de Castro do Rio de 
+Mendonça = Registrado no primeiro livro dos registros da Secretaria do Estado do Brasil, 
+a que toca a folha 10. Bahia, 9 de novembro de 1673 = Ravasco = Cumpra-se e registre-
+se como Sua Alteza manda. Bahia, 20 de novembro de 1673 = de Ulhoa = Registrou-se 
+em 25 do dito mês e ano.  
+- fim da transcrição - 
+ 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 45 – 46. 
+Numeração original no livro: 42 
+  
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

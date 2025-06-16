@@ -1,0 +1,88 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0279
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0390",
+  "Nome": "Antônio de Abreu Magalhães, Gonçalo Carneiro da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "31-08-1700",
+  "Observações da sesmaria": "Os suplicantes requereram 1 légua e meia  de comprimento e uma légua e meia de largura nas matas de Santo Antão começando das testadas das terras do mestre de campo Antônio Curado Vidal nos campos de Ipojuca com a sua demarcação do outeiro de São João para o leste até sítio chamado do Mourisco do mesmo Antonio Curado Vidal, correndo por fora buscando sempre o nascente ou o seu rumo até dar no rio denominado Anatuba.",
+  "Localidade": "Santo Antão",
+  "Marcos Geográficos": "Campos de Ipojuca, Outeiro de São João, Rio Anatuba",
+  "Confrontantes": "Antônio Curado Vidal",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "\tEsta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador Dom Fernando Martins Mascarenhas de Lencastre determinou o pagamento anual do foro régio no valor de 4 mil réis.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0279"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0279 
+ 
+Carta de concessão de Gonçalo Carneiro da Costa e Antônio de Abreu Magalhães de 
+31/08/1700 
+Sesmaria de 1 légua e meia de terra em quadra, nas matas de Santo Antão para a parte do 
+sul, começando das testadas das terras do mestre de campo Antônio Curado Vidal nos 
+campos de Ipojuca com a sua demarcação do outeiro de São João para o nascente 
+encostando pela cabeceira das terras dos sesmeiros abaixo nomeados, as quais ficam da 
+parte do norte, outra légua e meia até dar no sítio chamado do Mourisco que comprou o 
+mesmo Antônio Curado Vidal, correndo por fora buscando sempre o nascente ou o seu 
+rumo até dar no rio denominado Anatuba, e por ele abaixo de uma e outra parte, concedida 
+em 31 de agosto de 1700 aos capitães Gonçalo Carneiro da Costa e Antônio de Abreu 
+Magalhães, e seus herdeiros, pelo Governador Dom Fernando Muniz Mascarenhas e 
+Alencastro, com foro de 4.000 réis pela légua. 
+No respectivo livro achavam-se as seguintes notas: Com cópia do livro 7 folha 5 de três 
+quartos de légua. Com cópia no livro 7 folha 61 de três quartos de légua. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.pp.113-114. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

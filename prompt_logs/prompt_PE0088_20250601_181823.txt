@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0088
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0146",
+  "Nome": "João Leite Ferreira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "17-12-1755",
+  "Data da concessão": "06-02-1756",
+  "Observações da sesmaria": "O suplicante requereu uma légua de terra no sertão do Pajeú/serra da Borborema, onde situa-se o sítio do Espírito Santo, iniciando no olho d'água do Outi, correndo da serra para o leste, confrontando com o Sítio das Flores da Casa das Torres e seguindo para o norte.",
+  "Localidade": "Sertão do Pajeú, Serra da Borborema, sítio Espírito Santo e das Flores da Casa das Torres.",
+  "Marcos Geográficos": "Sertão do Pajeú e Serra da Borborema.",
+  "Justificativas": "As terras eram devolutas; Era descobridor(a) das terras com risco de vida; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se registrar; Mandou-se requerer confirmação; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, Luiz José Corrêa de Sá, determinou o pagamento do foro de quatro mil réis por ano. O governador, Luiz José Corrêa de Sá, mandou povoar a terra dentro de cinco anos e que se fizesse a confirmação dentro de dois anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0088"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0088
+Carta de doação e sesmaria do capitão João Leite Ferreira - 06/02/1756
+Carta de sesmaria que se deu ao capitão João Leite Ferreira. Me enviou a dizer
+em sua petição, digo Ferreira, no lugar do sertão do Pajeú, sobre a serra da
+Borborema, no sítio do Espírito Santo, de uma légua de terra em quadro.
+Luiz José Correa de Sá, do Conselho de Sua Majestade, governador e capitão general
+de Pernambuco e mais capitanias anexas e etc. — Faço saber aos que esta carta de
+doação e sesmaria virem, que o capitão João Leite Ferreira me enviou a dizer em sua
+petição o seguinte: Ilustríssimo e Excelentíssimo Senhor — Diz o capitão João Leite
+Ferreira, que ele suplicante no sertão de Pajeú ou sobre a serra da Borborema, onde
+está o sítio do Espírito Santo, começando do olho d'água do Outi, correndo o rumo da
+serra para o nascente, que confronta com o Sítio das Flores da Casa do Torres, do
+corrente ramo para a parte do norte, contestando com terras da mesma casa, descobriu
+o suplicante as ditas terras com a despesa de sua fazenda, muitos trabalhos e risco de
+vida, em atenção do que quer a dada sesmaria de uma légua de terra em quadro, entre
+as partes confrontadas, onde o suplicante alega, pelo que pede a Vossa Excelência, lhe
+faça mercê mandar passar data de sesmaria de uma légua de terra em quadro, na
+forma acima declarada, conforme as ordens de Sua Majestade, que Deus guarde — E
+receberá mercê — A qual petição sendo-me apresentada, mandei por despacho de 17
+de dezembro de 1755, informar ao Senado da Câmara do distrito, que satisfizeram na
+forma seguinte: Ilustríssimo e Excelentíssimo Senhor — Sem prejuízo de terceiro,
+parece-nos se deve conceder ao suplicante a data que por sesmaria pede, e com mais
+razão, sendo ele o descobridor das ditas terras, sem embargos, do que sempre Vossa
+Excelência mandará o que for servido e lhe parecer mais justo. Olinda em Câmara de
+3 de janeiro de 1756 — Manoel Pinheiro de Fontoura, escrivão da Câmara a escreveu
+— Caetano Camelo Pessoa — José Inácio Cavalcante Bezerra — João Luiz de Serra
+Cavalcante —. Com cuja informação mandei por despacho de 5 de janeiro de 1756,
+informar o provedor da Fazenda Real, o qual pedindo informação ao escrivão da
+Fazenda Real e o doutor procurador da Coroa, e fizeram na forma seguinte: Senhor
+provedor da Fazenda Real — Ao suplicante se deve dar por sesmaria a légua de terra
+em quadro que pede, no lugar que expressa em sua petição, pagando de foro quatro
+mil réis por ano e dando fiança nesta praça aos pagamentos dos ditos foros que se
+vencerem; Vossa mercê mandará o que for servido. — Recife, 13 de janeiro de 1756
+
+— Bernardo Pereira de Vasconcelos — Senhor provedor da Fazenda Real —. Parece-
+me que se deve dar ao suplicante por sesmaria a légua de terra expressada em sua
+petição, pagando de foro quatro mil réis por ano e dando fiança na forma que aponta o
+escrivão da Fazenda Real em sua resposta, sem embargos, do que Vossa mercê
+determinará com a resposta junta que concede — Recife, 20 de janeiro de 1756 —
+Caetano Ribeiro Soares — Com cuja informação e resposta do provedor da Fazenda,
+satisfez o meu despacho na forma seguinte:— Ilustríssimo e Excelentíssimo Senhor
+— Dando o suplicante fiança ao foro de quatro mil réis por ano da légua de terra que
+pede por sesmaria, me parece se lhe mande dar — Recife, 24 de janeiro de 1756 -
+João do Rego Barros — Com cuja informação mandei por meu despacho —. Passe
+carta de sesmaria — Recife, 3 de fevereiro de 1756 = Estava a rubrica = e em virtude
+do qual se passou a presente por, digo, pela qual - Hei por bem, na forma do capítulo
+15 do Regimento deste Governo, dar ao suplicante em nome de Sua Majestade a légua
+de terra e que a dar de sesmaria, na forma que confronta em sua petição, no sítio e
+lugar que nela diz, com a obrigação, porém, de pagar o foro de quatro mil réis para a
+Fazenda de Sua Majestade, de que será obrigado primeiro que tudo a dar fiança [chão]
+e abonada nesta Provedoria, sem o que não terá efeito esta Pro — digo, carta de
+doação e sesmaria; e satisfeito será obrigado a povoar no tempo de cinco anos, sob
+pena de se dar por devolutas a quem as pedir, cuja légua de terra possuirá ele e seus
+herdeiros, como suas que são e ficam sendo por virtude desta doação, com todas as
+suas pertenças, matas, campos, águas, rios, fontes, testadas e logradouros e mais úteis
+que elas compreenderem, não lhe sucedendo nelas por título algum a religiões, salvo,
+se forem com os mesmos encargos como seculares, e assim mais será obrigado a dar
+caminhos livres ao Conselho para fontes, pontes e pedreiras, e requererá confirmação
+no termo de dois anos a Sua Majestade. —. Pelo que ordeno aos ministros e pessoas a
+que tocar e for requerido, lhe deem posse da dita légua de terra, na forma do estilo de
+que se tomara assento nas costas desta. Em firmeza do que lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se registrará na
+Secretaria deste Governo, Provedoria da Fazenda Real e mais partes a que tocar —
+Dada nesta praça do Recife de Pernambuco, aos 6 dias do mês de fevereiro, do ano do
+Nascimento de Nosso Senhor Jesus Cristo, de 1756 — O secretário Antonio José
+Correa, a fez escrever — Luiz José Correa de Sá.
+- Fim da carta -
+
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954.
+v. 2. p. 98 - 100.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,89 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0252
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0347",
+  "Nome": "Antônio da Rocha Pita, Antônio de Brito do Aragão, Gonçalo Vieira Ravasco Cavalcante de Albuquerque, João da Rocha, Lourenço da Rocha, Lourenço de Brito, Sebastião de Brito de Castro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "22-04-1680",
+  "Observações da sesmaria": "Os suplicantes requereram 20 léguas das terras que haviam sido doadas pelo governador Francisco Barreto e abandonadas por Pedro Marinho Souto Maior, Gaspar de Barros Calheiros e Cristóvão Falcão. A sesmaria tinha por limite as sesmarias dadas ao desembargador Cristóvão de Burgos pelo rio Pajeú acima até a serra do Araripe.",
+  "Localidade": "Rio Pajeú",
+  "Marcos Geográficos": "Rio Pajeú, Serra do Araripe",
+  "Confrontantes": "Cristóvão de Burgos",
+  "Observações da petição": "Os suplicantes não informaram as medidas requeridas, mas apenas o total da área solicitada. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0252"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0252
+Carta de concessão de Antônio da Rocha Pita, Sebastião de Brito de Castro, Antônio de
+Brito do Aragão, Gonçalo Vieira Ravasco Cavalcante de Albuquerque, Lourenço da
+Rocha, João da Rocha e Lourenço de Brito de 22/04/1680
+Sesmaria de 20 léguas de terra e mais as que em continuação foram dadas pelo
+governador Francisco Barreto a Pedro Marinho Souto Maior, a Gaspar de Barros
+Calheiros e a Cristóvão Falcão, que as perderam por não se terem apossado delas e nem
+requerido o seu respectivo registro, começando das cabeceiras da sesmaria do
+desembargador Cristóvão de Burgos, e pelo rio Pajeú acima até a Serra do Araripe,
+concedida em 22 de abril de 1680 a Antônio da Rocha Pita, capitão Sebastião de Brito
+de Castro, Antônio de Brito do Aragão, capitão Gonçalo Vieira Ravasco Cavalcante de
+Albuquerque, capitão Lourenço da Rocha, João da Rocha e Lourenço de Brito e seus
+herdeiros, pelo governador Ayres de Souza de Castro, sem foro ou pensão alguma,
+salvo o dízimo a Deus.
+- Fim da Transcrição -
+Referência:
+Documentação
+Histórica
+Pernambucana:
+sesmarias.
+Recife:
+SECRETARIA
+DE
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 95-96.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

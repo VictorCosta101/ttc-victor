@@ -1,0 +1,175 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0165
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Coelho Botelho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "21-07-1730",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Marcos Geográficos": "Serra da Ibiapaba",
+  "Ribeira": "Riacho Pirangi",
+  "Confrontantes": "[Possão] das Guaribas, barra das Frecheiras",
+  "Justificativas": "Alegou possuir curral; Era descobridor(a) das terras; Tinha gado; Era descobridor(a) das terras com risco de vida; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia haver título das terras e \"porque se não pode conservar sem a tal sesmaria nas ditas terras por serem ao povoado Real\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0165"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0165
+Carta de concessão a Manoel Coelho Botelho - 21/07/1730
+Registro de uma carta de data passada a Manoel Coelho Botelho 
+Alexandre de Sousa Freire etc. Faço saber as que esta minha carta de Data e Sesmaria
+virem que a mim me enviou a dizer por sua petição Manoel Coelho Botelho, morador
+da vila da Parnaíba termo da capitania do Piauí, que ele suplicante tem descoberto um
+sítio de terras de criar gados vacuns e cavalares em parte erma e despovoada a custa de
+sua fazenda no Riacho Pirangi que vem da Serra Ibiapaba, onde tem posto currais e
+gados sem contradição de pessoa alguma porque onde ele suplicante tem posto seus
+currais
+as
+mais
+povoações
+vizinhas
+serão
+10
+léguas,
+em
+distância,
+e quer ele suplicante como descobridor de tal sítio tirar sua sesmaria de 3 léguas de terra
+pegando do possão das Guaribas correndo pelo dito riacho lhe topar com a barra das
+Frecheiras e uma légua de largo de uma e outra parte do mesmo riacho, e porque se não
+pode conservar sem a tal sesmaria nas ditas terras por serem ao povoado Real. Por tanto
+me pedia fosse servido mandar-lhe passar carta de sesmaria das ditas 3 léguas de terra
+conforme
+as
+Ordens
+de
+Sua Majestade e
+receberia mercê.
+E
+atendendo
+eu as
+razões que alegava como também o que respondeu o provedor-mor da Fazenda Real
+a quem se
+deu vista e
+ser em utilidade da mesma Fazenda cultivarem-se as terras
+devolutas
+neste Estado.
+Hei
+por
+bem
+de
+conceder
+ao suplicante em
+nome
+de Sua Majestade, que Deus guarde, 3 léguas de comprido e uma de largo na parte que
+pede com as confrontações nesta declaradas e condições expressadas nas Reais Ordens.
+E com condição de não fazer traspasse por meio algum, em nenhum tempo, a pessoa
+alguma
+sem que primeiro dê parte na
+Casa
+da Fazenda Real
+ao
+provedor-mor
+dela para se me fazer presente se deve ou não consentir no tal traspasse, sob pena de
+ficar a dita carta de data nula para se poder novamente conceder a outrem. E nesta
+forma se lhe passa carta, para que as haja, logre e possua como coisa sua própria e todos
+os
+seus herdeiros, ascendentes e descendentes, sem
+pensão
+nem
+tributo
+algum
+mais que o dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver. A qual concessão
+lhe faço não prejudicando a terceiros, reservando os paus reais que nelas houver
+para embarcações com condição que mandará confirmar esta carta de data dentro de 3
+anos primeiros seguintes por Sua Majestade, que Deus guarde. E cultivará a dita terra
+de maneira que
+dê
+frutos;
+e
+dará caminhos públicos
+e particulares onde
+forem necessários para pontes, fontes, portos e pedreiras; e se demarcará ao tempo da
+posse por rumo de corda e braças craveiras como é estilo e Sua Majestade manda. E
+outrossim, não sucederão nelas religiões por nenhum título e acontecendo possuí-las
+será com o encargo de pagarem delas dízimos a Deus como se fossem possuídas por
+seculares, e faltando a qualquer destas cláusulas e condições se haverão por devolutas e
+se
+darão
+a quem as
+denunciar
+como
+o dito Senhor ordena.
+Pelo que mando
+ao provedor-mor da Fazenda Real e mais ministros e pessoas a quem tocar o deixem ter
+e possuir na forma referida e com as condições declaradas a dita terra ao dito Manoel
+Coelho Botelho para ele e todos os seus herdeiros, ascendentes e descendentes, como
+coisa
+sua
+própria.
+Cumpram
+e
+guardem
+esta
+minha
+carta
+de
+data
+e sesmaria tão inteiramente como nela se contém, a qual lhe mandei passar por mim
+assinada e selada com o sinete de minhas armas, que se registará onde tocar, e se passou
+por duas vias. Dada nesta cidade de São Luís do Maranhão aos 21 do mês de julho do
+ano do nascimento do Nosso Senhor Jesus Cristo de 1730. E eu, Lourenço Pereira de
+Azevedo, secretário comissário, a fiz escrever. //Alexandre de Souza Freire//.
+
+- Fim da Transcrição -
+Referência:
+APEP, Livro 5, Doc. 282. fls. 159v-160.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

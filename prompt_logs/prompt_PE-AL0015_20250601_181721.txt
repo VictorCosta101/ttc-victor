@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0015
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0093",
+  "Nome": "Domingos João de Carvalho, Luís Mendes da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-08-1724",
+  "Observações da sesmaria": "Os suplicantes requereram terras na região do Palmar: Domingos João de Carvalho requereu três léguas de comprimento e três léguas de largura e Luís Mendes da Silva requereu duas léguas de comprimento e duas léguas de largura. As terras requeridas por Domingos João de Carvalho possuíam como limite as terras de Domingos Jorge Velho pelo riacho Tamoatá até o rio Mundaú e as terras do capitão Alexandre Jorge (PE-AL 0010) e ao norte a serra do Caçassê e ao sul as terras do capitão André Furtado (PE-AL 0008) e o rio Paraíba-Mirim. As terras requeridas por Luís Mendes da Silva possuíam por limite as terras do capitão André Furtado pelo rio Paraíba-Mirim até a serra do Cavaleiro.",
+  "Localidade": "Palmar",
+  "Marcos Geográficos": "Serra do Cavaleiro, Rio Paraíba-Mirim, Riacho Tamoatá, Rio Mundaú",
+  "Confrontantes": "André Furtado, Domingos Jorge Velho, Alexandre Jorge",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Serviu a Sua Majestade; Solicitou pagar somente o dízimo; Solicitou isenção de pagamento de foro régio; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "Por o documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão. O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida com a cláusula de a terra não passar para religiosos ou ordens seculares. ",
+  "Observações das exigências": "Por o documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0015"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0015 
+ 
+Carta de doação e sesmaria de Domingos João de Carvalho –  
+ 
+SESMARIA QUE SE PASSOU AO CAPITÃO DOMINGOS JOÃO DE CARVALHO, DE 3 
+LÉGUAS DE TERRA EM QUADRO, E AO ALFERES LUIZ MENDES DA SILVA, DE 
+DUAS LÉGUAS. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc. - Faço saber aos que esta carta de doação de sesmaria 
+virem que Domingos João de Carvalho, capitão de infantaria paga do terço dos Palmares, e Luiz 
+Mendes da Silva, alferes do mesmo terço, me apresentou a petição cujo teor é o seguinte: Diz 
+Domingos João de Carvalho, capitão de infantaria do terço dos Palmares, digo, dos paulistas 
+conquistadores da Campanha dos Palmares, que Sua Majestade, que Deus guarde, foi servido fazer 
+mercê a cada um dos capitães do terço dos paulistas conquistadores da Campanha dos Palmares, de 
+três léguas de terra em quadro das que conquistaram dos negros rebeldes dos Palmares, e ao alferes 
+duas legoas em quadro, livres de foro e pensão alguma mais que o dízimo a Deus, como consta das 
+cópias das ordens reais juntas, começando as datas pelas cabeceiras das datas do mestre de campo 
+Domingos Jorge Velho e a do capitão Domingos João de Carvalho, três léguas de terra em quadro 
+do riacho chamado do Tamoatá, pelo rumo do norte, buscando o rio Mindaú pela testada do capitão 
+Alexandre Jorge, da parte do norte, buscando a serra Caçassê para o sertão da parte do sul, servindo 
+de testada da cabeceira do capitão André Furtado, pelo rio da Paraíba-mirim acima até encher as 
+ditas três léguas de terra em quadro do dito capitão e do dito alferes as duas léguas pelo dito rio 
+Paraíba-mirim acima, tanto de uma banda como de outra, buscando a serra do Cavaleiro até encher 
+as duas datas; portanto pede a Vossa Senhoria seja servido conceder as ditas datas na forma 
+deduzida. E receberá mercê. - O provedor da Fazenda Real informe ouvindo ao doutor procurador 
+da Coroa. Olinda, 18 de agosto de 1724 - Rubrica - Vista ao doutor procurador da Coroa e Fazenda. 
+- Barros – Não tenho dúvida, vistas as cópias juntas. Recife, 20 de agosto de 1724 - "Pereira" – 
+Senhor governador e capitão general. Responde o doutor procurador da Fazenda, a quem Vossa 
+Senhoria me mandou ouvir sobre este requerimento dos suplicantes, que não tem dúvida visto as 
+cópias juntas das ordens, o qual também a mim se não oferece dúvida, fazendo-se a data ou doação 
+das terras pedidas se tantas léguas couberem nas confrontações, nas que se conquistaram dos 
+Palmares e ficaram por conquistar para o sertão, como Sua Majestade, que Deus guarde, foi servido 
+mandar declarar sem que se altere a forma de sua real ordem, com declaração que dos usofrutos das 
+ditas terras se pagará dízimo a ordem de Cristo, sem mais outro foro, e não passarão a religiosos por 
+nenhum título, e quando suceda será com o encargo de pagarem foro como seculares, e assim 
+também não faltarão as cláusulas nestas ordens explicadas, este é o meu parecer. Vossa Senhoria, 
+portanto, mandará o que for servido e mais conveniente ao serviço de Sua Majestade, como 
+
+costuma. Recife, 20 do agosto de 1724 - João do Rego Barros - Passe carta de data de sesmaria na 
+forma da ordem de Sua Majestade, com as declarações e condições que aponta o provedor da 
+Fazenda Real. Olinda, 26 de agosto de 1724 = "Rubrica". E havendo, outrossim, respeito ao que 
+Sua Majestade me concede no capítulo 15 do Regimento deste Governo, hei por bem [...]. 
+- Fim da carta – 
+ 
+Observação: 
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem 
+constar os detalhes do parecer final.  
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 288 - 290. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

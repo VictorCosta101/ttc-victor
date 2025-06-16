@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0147
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0261",
+  "Nome": "Manuel Leite Cavalcante de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-04-1822",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no sertão do Buíque, termo da vila de Cimbres. A sesmaria tinha por limite o riacho dos Cavalos.",
+  "Localidade": "Vila de Cimbres",
+  "Marcos Geográficos": "Riacho dos Cavalos, Sertão do Buíque",
+  "Justificativas": "Não tinha terras; Não tinha terras para a plantação de lavouras; Alegou já cultivar algodão; Pretendia cultivar algodão; ",
+  "Exigências do Deferimento": "Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelos membros da Junta Provisória de Governo da Província de Pernambuco: o presidente Gervásio Pires Ferreira, Bento José da Costa, Joaquim José de Miranda, Antônio José Vitoriano Borges da Fonseca, Manuel Inácio de Carvalho e o secretário Laurentino Antônio Moreira de Carvalho. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0147"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0147
+Carta de doação e sesmaria de Manuel Leite Cavalvante de Albuquerque -
+01/04/1822
+Manuel Leite Cavalcante de Albuquerque com uma légua quadrada no termo de
+Cimbres.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem que Manuel
+Leite Cavalcante de Albuquerque fez ao governador desta província, nosso antecessor, o
+requerimento do teor seguinte. Ilustríssimo e excelentíssimo senhor = Diz Manuel Leite
+Cavalcante de Albuquerque, que ele vive de plantar algodões; e por que não tem terras
+próprias, a maneira de vários, se situou no lugar riacho dos Cavalos, no sertão do
+Buiqui, termo da vila de Cimbres, na nova comarca do Sul; por serem então as terras do
+dito lugar realengas e devolutas, e por que jamais o suplicante alcançou sesmaria
+alguma, e estando situado naquela terra, por isso que na conformidade das Reais Ordens
+requer a Vossa Excelência se digne de conceder-lhe por sesmaria aquele sítio, de que
+está de posse, com preferência a outro qualquer pretendente, que tenha requerido, ou
+pretenda requerer também sesmaria dela, requerer a Vossa Excelência, ela conste de
+uma légua em quadra, principiando a medição das cabeceiras do mesmo riacho dos
+Cavalos para o Oeste, e dele para este, e de Norte para Sul a encher a quadra pelos
+quatro vento principais, que protesta medi-los, e solenizar a mesma sesmaria na forma
+determinada nas ditas Ordens Régias = Pede a Vossa Excelência a mercê de
+conseder-lhe a sesmaria requerida = E receberá mercê = Recife 22 de maio de 1821 =
+ManuelLeite Cavalcante de Albuquerque = o que visto pelo mesmo governador, por
+despacho de 22 do mesmo mandou que requere-se a câmara respectiva para que
+mandasse afixar os editais do estilo, e depois lhe remetesse a certidão passada nos
+mesmos pelo oficial que os afixasse, conforme é direito: e não tendo aparecido nos 30
+dias da lei pessoa alguma prejudicada, como informou a dita câmara em ofício de 8 de
+agosto do dito ano, e consta de certidão dos editais; por despachos de 21, e 22 do
+mesmo mês e anno, mandou responder o doutor procurador da Coroa e Fazenda, e o
+escrivão deputado da junta da mesma Fazenda pública, que tão bem lhe não puseram
+impedimento algum; o sendo nos presente, e examinado por nós, por despacho do 1º de
+abril do presente ano lhe mandamos passar a presente carta. E por título pela faculdade
+que nos é consedida no capitulo 15 do regimento deste governo, havemos por bem
+
+conceder em nome de Sua Magestade constitucional El Rei, o senhor Dom João 6º ao
+dito ManuelLeite Cavalcante de Albuquerque que a referida légua de terra com as
+confrontações expressas em seu requerimento, pagando o foro anual de 4000 réis, em
+observância da Real Ordem de 28 de setembro de 1700, de que deu fiança na junta da
+Fazenda pública a folhas 49 verso do livro 7º delas: a qual sesmaria possuirá e gozará
+ele, suplicante, e seus herdeiros, ascendentes e descendentes, como sua que fica sendo
+de hoje para todo o sempre, não prejudicando a terceiro, com todas as matas, campos,
+rios, águas, testadas, logradouros, e mais úteis, que nela se compreenderem, e não
+passará a religião, ou pessoas eclesiásticas, salva sendo com os mesmos encargos, com
+que as possuem os seculares: e nunca se dividirá em porções, nem se partirá, senão por
+estimação andando encabeçada em uma só pessoa na forma da ordenação do livro 4º
+titulo 96, §23; e assim não passará a herdeiros, ou outra qualquer pessoa, sem
+consentimento da junta da Fazenda pública, para nela se darem novas fianças, e se
+fazerem as devidas escriturações, ficando livres para a serventia dos povos todas as
+estradas, rios, fontes, e pedreiras, e reservadas ao patrimônio público as madeiras de
+construção, pau brasil, e vieiros de quaisquer metais, sendo obrigado a medi-la,
+demarca-la, povoá-la, cultiva-la, e obter a sua confirmação dentro de 3 anos, na forma
+da Real Ordem de 20 de outubro de 1753, e alvará de 25 de janeiro de 1809; e não o
+cumprindo assim, se haverá por devoluta e novamente se concederá a quem a requerer.
+Pelo que, ordenamos aos ministros da fazenda e justiça, e mais pessoas, a quem tocar,
+cumpram, e façam cumprir e guardar esta carta de data de sesmaria, como nela se
+contem, fazendo dar ao suplicante posse real, efectiva, e atual na forma da ordenação,
+título das sesmarias. E firmeza do referido, lhe mandamos passar a presente por nós
+assinada e selada com sinete de armas reais, a qual se registrará na secretaria deste
+governo, na junta da Fazenda pública, na câmara respectiva, e aonde mais tocar. Manuel
+dos Passos Figueroa, oficial maior da secretaria, a fez em o Recife de Pernambuco aos
+20 de abril de 1822. E eu, Laurentino Antonio Moreira de Carvalho, secretario
+subscrevi. Estava o sinete das armas reais = Gervazio Pires Ferreira Presidente = Bento
+José da Costa = Joaquim José de Miranda = Antonio José Victoriano Borges da Fonseca
+= Manuel Ignacio de Carvalho = Laurentino Antonio Moreira de Carvalho – Secretário
+= Carta de data de sesmaria, pela qual Vossas Excelências hão por bem conceder em
+nome de Sua Magestade, El Rei constitucional, o senhor Dom João 6º a Manuel Leite
+Cavalcante de Albuquerque uma légua de terra em quadro no termo de Cimbres, como
+
+nela se declara = Para Vossas Excelências verem = Por despacho do Governo do 1º de
+abril de 1822.
+- Fim da Carta –
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 202-203
+Observação:
+No documento original o nome do suplicante consta como Manoel Leite Cavalcante de
+Albuquerque, o que foi modificado para Manuel Leite Cavalcante.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

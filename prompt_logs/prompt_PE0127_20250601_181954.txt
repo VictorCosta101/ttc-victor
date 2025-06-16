@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0127
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0302",
+  "Nome": "Manuel José dos Santos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura no rio Una, da cachoeira Danta até a cachoeira de Manuel Muniz. A leste confrontava as terras de Francisco da Costa Guimarães e a oeste de José Martins de Morais. ",
+  "Localidade": "Rio Una",
+  "Marcos Geográficos": "Cachoeira Danta, Cachoeira de Manuel Muniz, Rio Una",
+  "Confrontantes": "José Martins de Morais, Francisco da Costa Guimarães",
+  "Justificativas": "Pretendia fazer engenho de açúcar; As terras eram devolutas; Pretendia pagar foro régio; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão. ",
+  "Observações das exigências": "Devido ao documento encontrar-se incompleto, não foi possível averiguar as informações referentes ao despacho e a concessão. ",
+  "referencia": "PE0127"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0128
+Carta de doação e sesmaria de João de Aredes e Vasconcelos - 04/06/1783
+João de Aredes e Vasconcelos, com meia légua de terra no rio Pirapama.
+José César de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão
+general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de
+data de sesmaria virem, que João de Aredes e Vasconcelos que no rio, digo, que João de
+Aredes e Vasconcelos me fez um requerimento do teor e maneira seguinte: = Ilustríssimo e
+Excelentíssimo Senhor = Diz João de Aredes e Vasconcelos que no rio Pirapama, antigamente
+chamado Arassuagipe, na freguesia do termo desta vila do Recife, se acham ainda terras
+devolutas de matos marinhos desaproveitadas e despovoadas, das testadas de Lourenço do
+Vale para cima do rio Pirapama para sul e norte, e quer o suplicante em sesmaria duas léguas
+de terra, uma para a parte do sul com uma légua de fundo e outra légua da parte do norte pelo
+mesmo rio acima com uma légua de fundo, pegando estas das confrontações das testadas do
+dito Lourenço do Vale, mediando o rio entre uma e outro légua, fazendo testadas com todas as
+águas e matas que houverem dentro das mesmas terras, para o que pede a Vossa Excelência
+lhe faça mercê mandar passar carta de data de sesmaria das ditas duas léguas de terra na forma
+pedida, pagando o foro do estilo a Real Fazenda, e por tudo espera receber mercê = e sendo
+por mim visto o seu requerimento, ordenei por despacho meu de 31 de janeiro do corrente ano
+de 1783, aos oficiais da Câmara do respectivo distrito, mandassem fixar editais na respectiva
+freguesia, para se saber ao certo estar ou não devoluta a mesma terra, e haver ou não terceiro
+prejudicado, e constando-me por informação dos ditos oficiais que assim o mandaram
+executar, não houve pessoa alguma que aos ditos editais saísse. Por outro meu despacho da
+data de 15 de maio do dito ano, mandei ouvir o escrivão da Receita e Despesa e assim mais
+responder o doutor procurador da Fazenda e Coroa, por outro de 21 do referido mês e ano, e
+como todos uniformemente me responderam estar nos termos de se dar ao suplicante a terra
+pedida de sesmaria, na forma confrontada em seu requerimento, pagando anualmente o foro
+de seis mil réis por légua, por ser das que estão mais próximas a Marinha, do que devia dar
+fiança na Contadoria da Real Fazenda. Ultimamente mandei por despacho de 30 de maio do
+corrente ano que se passasse sesmaria na forma da resposta do doutor procurador da Fazenda
+e Coroa e escrivão da Receita e Despesa, em cumprimento do qual e pela faculdade que Sua
+Majestade me permite no Capítulo 15 do Regimento deste Governo. Hei por bem dar em
+nome da dita senhora ao referido João de Aredes e Vasconcelos, no rio Piripama, por outro
+
+nome Arassuagipe, meia légua de terra de testadas e uma de fundo da parte do sul do dito rio,
+pegando esta das testadas de Lourenço do Vale para cima, na forma confrontada em seu
+requerimento, pagando o foro anual de três mil réis, a razão de seis mil réis por légua, visto
+ser das mais próximas a Marinha, que determina a Real Ordem de 28 de setembro de 1700, a
+qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, como
+sua que fica sendo de hoje para sempre, com todos os seus pertences, matas, campos, rios,
+águas, testadas, logradouros e mais úteis que ela compreender, não prejudicando a terceiro, e
+não passará a dita a religiões e pessoas eclesiásticas, salvo sendo com os mesmos encargos
+com que as possuem os seculares, sendo obrigado a dar ao Conselho caminhos livres para
+fontes, pontes e pedreiras, e requerer dentro de três anos confirmação, medição e demarcação,
+povoá-la e cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753, e não o
+cumprindo assim se dar por devoluta e novamente ser conferida a quem a requerer, com mais
+a condição de que nunca se dividirá a dita terra se não por estimação, andando encabeçada em
+uma só pessoa, como determina a Ordenação do título 4º título 26§23. Pelo que ordeno aos
+Ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e
+guardar esta carta de data de sesmaria, como nela se contém, fazendo dar ao suplicante posse
+real, efetiva e atual, na forma costumada, debaixo das referidas cláusulas e das mais da
+Ordenação título das sesmarias, visto constar por bilhete que apresentou, achar-se dada a
+fiança do foro anual de três mil réis na Contadoria da Real Fazenda, a folhas 87 do livro 2º
+delas. Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o
+sinete das minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real
+Fazenda = Manoel Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, a fez no
+Recife de Pernambuco, aos 4 dias de junho, ano do nascimento de Nosso Senhor Jesus Cristo
+de 1783 = O secretário do Governo, Manoel de Carvalho Pais de Andrade, a fez escrever =
+José Cesar de Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+289 - 291.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

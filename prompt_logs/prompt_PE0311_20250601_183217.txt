@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0311
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Damião de Lanções de Andrade",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "10-10-1652",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no distrito da Cachoeira, no caminho para Pernambuco, no rio Ipojuca. ",
+  "Localidade": "Rio Ipojuca",
+  "Marcos Geográficos": "Caminho para Pernambuco, Distrito da Cachoeira",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0311"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0311 
+ 
+Treslado da petição, despacho e certidão de sesmaria. 
+ 
+Diz o Reverendo Padre Dom Abade do Mosteiro de São Bento desta cidade, que para 
+bem de sua justiça lhe é necessário o teor do alvará de uma sesmaria que o Conde de 
+Castel melhor João Rodrigues de Vasconcelos deu aos 10 dias do mês de outubro de 
+1652 a Damião de Lanções no distrito da Cachoeira de todas as sobras de terra que se 
+achassem demais de 3 léguas e meia que possuía correndo da estrada de Paranambuco 
+até o rio da Caraoba a qual anda a folhas 8 de uns autos entre partes Damião de 
+Lanções, e Francisco de Barros Lobo, a que estão apensos outros de execução entre 
+partes Antônio de Cerqueira Salomão e Leonardo Pinto e mais herdeiros de João Dias 
+Salomão Contra Gervazio de Andrade Machado e corriam na vila de São Francisco e 
+vieram avocados diante do juiz compromissário o desembargador Tomás Feliciano de 
+Albernás de quem Vossa Mercê é digníssimo substituto em causas do Reverendo 
+suplicante como coronel Pedro Barbosa Leal e sua filha, e se acham os ditos autos e 
+em poder do escrivão Manuel Afonso da Costa que o é das ditas causas portanto pede 
+a Vossa Mercê lhe faça mercê mandar que o dito escrivão lhe passe por certidão pelas 
+vias que lhe forem necessárias o teor da dita escritura de sesmaria em modo que faça 
+fé. E receberâ mercê. Despacho. Passe. Torres Cordeiro. Certidão. Manuel Afonso da 
+Costa tabelião público do judicial e notas nesta cidade do Salvador, Bahia de Todos 
+os Santos e seu termo, no ofício de que é proprietário Antônio Ferreira Lisboa, 
+certifico que em meu poder e cartório estão uns autos cíveis de execução entre partes 
+Antônio Cerqueira Salomão e Leonardo Pinto e os mais herdeiros de João Vaz 
+Salomão, contra Gervazio de Andrade Machado e sua mulher, aliás o coronel Pedro 
+Barbosa Leal, aos quais autos andam apensos outros do libelo cível e apelação entre 
+partes autor Damião de Lanções e Andrade contra Francisco de Barros\ Lobo e sua 
+mulher Dona Ana, nos quais autos, a folhas 8, [?] Maria de que a petição acima faz 
+menção cujo teor dela é o seguinte João Rodrigues de Vasconcelos e Sousa Conde de 
+Castel melhor do concelho de Guerra senhor das vilas de Castel Melhor e Valbelbas, 
+comendador das comendas de Bombal Requião Alvares Tacha Salvaterra de extremo 
+e Santa Maria de Beja, alcaide-mor dos Castelos de Bombal, Salvaterra e Penamacor 
+governador e capitão geral do Estado do Brasil. Faço saber aos que esta carta de 
+sesmaria virem que o capitão Damião de Lanções de Andrade me representou em sua 
+petição como possuía uma sorte de terra de 3 léguas e meia, cita nos distritos da 
+
+Cachoeira, que começava do rio da Pojuca, continuando pela estrada que vai para 
+Pernambuco, a qual houvera por compra do capitão Payo de Araújo de Azevedo, e 
+porque junto o dito corte de terra pela referida estrada até o rio da Caraoba, havia 
+umas sobras de terra que corriam leste a oeste [sic] do dito rio, os quais ocupara 
+sempre o dito Payo de Araújo e seu antecessor Francisco Barbosa de Brito por não 
+terem dono algum nem se haverem dado de sesmaria até o presente mês e dia lhe 
+mandasse dar de sesmaria todas as sobras de terra que se achassem demais das suas 3 
+léguas e meia, correndo da dita estrada de Pernambuco até o rio da Caraoba, leste a 
+oeste, e vista a informação que sobre este particular me fez o provedor senhor da 
+Fazenda Real deste Estado merecimento serviços e cabedal de impetrante e ser 
+conveniência da Fazenda de Sua Majestade e utilidade desta República cultivarem-se 
+as terras devolutas. Hei por bem e lhe faço mercê em nome do dito senhor de lhe 
+conceder, como pela presente faço e dar de sesmaria todas as sobras de terra que se 
+achassem demais das suas 3 léguas, assim e da maneira que [?] confrontam com todas 
+as suas águas, pontes e enseadas, campos, madeiras, testadas e logradouros, a qual lhe 
+dou livre e isenta e desimpedida de foro, tributo ou pensão alguma, salvo dízimo a 
+Deus, que pagará dos frutos e criações que nela houver, e por essa será obrigado a dar 
+caminhos livres ao concelho para fontes, pontes e pedreiras com cláusula de não 
+prejudicar a terceiro. Pelo que mando aos oficiais de justiça a que tocar lhe dêem 
+posse real, efetiva e atual, e aos ministros a que o conhecimento desta com direito 
+pertencer, a cumpram e façam cumprir e guardar tão pontual e inteiramente como nela 
+se contém, sem dúvida, embargo ou contradição alguma, para firmeza do que lhe 
+mandei passar a prezente sob meu sinal e selo de minhas armas, a qual se registrará 
+nos livros a que tocar = Francisco Cardoso a fez nesta cidade do Salvador, Bahia de 
+Todos os Santos, aos 10 dias do mês de outubro, ano de 1652. Bernardo Vieira 
+Ravasco, secretário de Estado e Guerra de Sua Majestade, neste do Brasil, fiz escrever. 
+Conde de Castel Melhor, lugar do selo. Carta de sesmaria das sobras que houver junto 
+a 3 léguas e meia de terra que o capitão Damião de Lansois de Andrade possui na 
+Cachoeira pela estrada que vai para Pernambuco até o rio da Caraoba de que Vossa 
+Excelência lhe fez mercê por devolutas em nome de Sua Majestade pelos respeitos 
+acima declarados para Vossa Excelência ver. Por despacho de Sua Excelência de 3 de 
+de outubro de 1652. Registrada no primeiro livro dos registros a que toca desta 
+Secretaria do Estado do Brasil, a folhas 19 verso. Bahia, 12 de outubro de 1652. 
+Ravasco. E não se contém mais na dita carta de sesmaria que está nos ditos autos a 
+
+que me reporto, em fé de que passei a presente por mim subscrita e assinada na Bahia, 
+primeiro de julho de 1726 anos, e eu, Manuel Afonso da Costa, tabelião que o 
+subscrevi. Manuel  Afonso da Costa. 
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. livro III, p. 118V-119R. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

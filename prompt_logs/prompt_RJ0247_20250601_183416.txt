@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0247
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Nunes de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "27-04-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que junto às suas possessões \"haviam terras de sobejos\".\r\n",
+  "Localidade": "Carincambabá, freguesia de Nossa Senhora do Pilar do Iguaçu, termo da cidade do Rio de Janeiro",
+  "Ribeira": "Rio do Couto",
+  "Confrontantes": "Terras de Diogo da Silva Sardinha, de Bartolomeu de Vasconcelos, dos herdeiros de Manuel Machado Siqueira e de Sebastião Fernandes de Assunção, terras de Sebastião de Morais Silva",
+  "Justificativas": "Não possuía as terras com justo título; Tinha gado; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante também alegou que possuía lavouras nas terras para as quais requeria título.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado \"a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para serventia pública\". Determinou-se ainda que fossem reservados os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0247"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0247
+Carta de Manuel Nunes de Carvalho de 27 de abril 1751
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais.
+Faço saber aos que esta minha carta de sesmarias virem que atendendo a me representar por
+sua petição Manuel Nunes de Carvalho, que na freguesia de Nossa Senhora do Pilar do Iguaçu
+tinha uma porção de terras suas de que estava de posse no lugar chamado Caricambabá e no
+Rio do Couto, junto a elas haviam terras de sobejos que tinha de testada 400 braças de testada
+e de sertão 500 pouco mais ou menos, que partiam por uma ilharga com terras do suplicante e
+pela outra ilharga com terras de quem direito for, de Diogo da Silva Sardinha e Bartolomeu de
+Vasconcelos, pela testada com os sertões das terras dos herdeiros de Manuel Machado
+Siqueira e de Sebastião Fernandes de Assunção e pelas cabeceiras com Sebastião de Morais
+Silva e outros, e esta porção de sobejos pedia por sesmaria porquanto por si e seus
+antecessores estavam de posse delas havia mais de 50 anos com lavouras e gados, me pedia
+lhe mandasse passar por sesmaria as referidas terras na forma do estilo. Sendo visto o seu
+requerimento, em que foi ouvido a Câmara desta capitania, a quem se não ofereceu dúvida,
+nem ao provedor da Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por
+bem dar de sesmaria, em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15
+de junho de 1711, ao dito Manuel Nunes de Carvalho 400 braças de testada e 500 de sertão
+pouco mais ou menos na parte acima declarada, com as confrontações expressadas; sem
+prejuízos de terceiro ou do direito que alguma pessoa tenha a elas; com declaração que as
+cultivará e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o
+fazendo se denegará mais tempo; antes de tomar posse delas as fará medir e demarcar
+judicialmente, sendo para esse efeito notificados as pessoas com quem confrontar; será
+obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e
+descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada
+de uma das margens dele a terra que baste para serventia pública; nesta data não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com encargo de
+pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se
+poderá dar a quem o denunciar; como também sendo o dito Senhor servido mandar fundar no
+distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum ou pensão para o
+sesmeiro; não compreenderá nesta data vieiros ou minas de qualquer gênero de metal que nela
+se descobrir, reservando também os paus reais; e faltando a qualquer das ditas cláusulas, por
+
+serem conforme as ordens de Sua Majestade e as que dispõem a Lei Floral das Sesmarias,
+ficará privado desta. Pelo que mando ao ministro ou oficial de justiça a que o conhecimento
+desta pertencer, dê posse a dito Manuel Nunes de Carvalho das referidas terras na forma
+acima declarada. E por firmeza de tudo lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas que se cumprirá como nela se contém e se registrará
+nesta Secretaria do governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião
+do Rio de Janeiro, João de Souza Melo a fez aos 27 de abril de 1751. O secretário do governo,
+Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Manuel Nunes de Carvalho 400 braças de terras de testada com 500 pouco mais ou menos de
+sertão na parte chamada Carincambaba e Rio do Couto, termo desta cidade, na forma que nela
+se declara.
+Para Vossa Excelência ver.
+Registrada no Livro 11 que serve de registro de provisões do governo à folha 111. Rio, 28 de
+abril de 1751. //Antônio da Rocha Machado//
+Registrada à folha 178 do Livro de Sesmarias deste Senado. Rio, em 17 de maio de 1751.
+//Francisco de Almeida Jordão//
+Registre-se nos Livros da Fazenda Real. Rio, 18 de maio de 1751. //Melo//
+Registrada à folha 57 do Livro 39 que serve de registro nesta Provedoria. Rio, 21 de maio de
+1751. //Luiz Melo de Faria//
+-Fim da Transcrição-
+Observações:
+Nome original do sesmeiro: Manoel Nunes de Carvalho.
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Nunes de Carvalho 400 braças de terras de testada, com 500 de sertão no logar de
+Carincambaba, termo da cidade do Rio de Janeiro, e com as confrontações expressas na
+mesma carta. Rio, 27 de abril de 1751.
+Referência:
+AHU_ACL_CU_017-01, Cx. 65, D. 15292
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

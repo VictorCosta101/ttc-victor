@@ -1,0 +1,225 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0061
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0112",
+  "Nome": "João Rodrigues Pinto, Luís da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da petição": "18-12-1728",
+  "Data da concessão": "18-12-1728",
+  "Observações da sesmaria": "Os suplicantes requereram a confirmação dos terrenos que já ocupavam na construção de casas. Luís da Cunha havia solicitado a confirmação de 9 braças de comprimento e 14 braças de largura e João Rodrigues Pinto de 6 braças de comprimento e 14 braças de largura. As casas localizavam-se próximo a ponte da Boa Vista e a fortaleza de São Tiago das Cinco Pontas. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Ponte da Boa Vista, Fortaleza de São Tiago das Cinco Pontas",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O governador solicitou o parecer do tenente-general de artilharia, João de Macedo Corte Real, e do sargento-mor dos engenheiros, Diogo da Silveira Veloso, para averiguar se a construção de casas na área requerida prejudicava a fortaleza de São Tiago das Cinco Pontas.",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão  determinou que os suplicantes pagassem  o foro régio no valor de 50 réis por braça concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0061"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0061 
+ 
+Carta de doação e sesmaria de João Rodrigues Pinto - 18/12/1728 
+ 
+JOÃO RODRIGUES PINTO, 60 PALMOS DE TERRA NA RUA DE NOSSA SENHORA DO 
+TERÇO, NA BANDA DE SANTO ANTÔNIO DO RECIFE, COM O FORO DE 50 RÉIS 
+POR PALMO. 
+ 
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de Sua 
+Majestade, que Deus guarde, governador e capitão general de Pernambuco e mais capitanias anexas 
+e etc. - Faço saber aos que esta carta de doação e sesmaria virem, que a mim se apresentou a petição 
+do teor seguinte: - Senhor general - Diz o capitão Luiz da Cunha e o alferes João Rodrigues Pinto, 
+que eles suplicantes com [...] e cordeação do sargento-mor em engenheiro, estão fazendo umas 
+casas no terreno de Nossa Senhora do Terço, para a parte da Boavista, e como de presente foram 
+notificados da parte do tenente general para continuarem a dita obra sem despacho de Vossa 
+Excelência, e porque a dita obra não prejudica em coisa alguma a nenhum edifício real, porque 
+adiante se acham vinte e tantas moradas de casas e ficam as dos suplicantes muito arredadas da 
+cordeação da fortaleza de Sua Majestade, que Deus guarde, e quando em algum tempo seja 
+necessária defesa, concordam os suplicantes que lhas lancem abaixo, sem por isso quererem coisa 
+alguma, e sendo necessário, assinarão termo pedindo-me que atendendo aos gastos que os 
+suplicantes haviam feito e não prejudicar a dita obra em coisa alguma a dita fortaleza, mandava que 
+os suplicantes pudessem fazer as suas casas térreas na forma da sua licença do Senado, em a qual 
+mandei por meu despacho de 5 de maio de 1728 – que informasse o tenente-general de artilharia, 
+declarando os palmos que distão as casas que os suplicantes intentam fazer, da Fortaleza das Cinco 
+Pontas, e se eram os que bastavam para não servirem de padrastro a dita Fortaleza, não costante as 
+casas que medião de permeio, porque não sendo justo havê-las se demolirão, e que a mesma 
+informação fizesse o sargento-mor engenheiro, os quais me responderam que acharam 594 palmos 
+de distância entre o parapeito da estrada encuberta da Fortaleza das Cinco Pontas, as casas dos 
+suplicantes que excede muito as distâncias que os autores da fortificação assinam em semelhantes 
+casos, que assinam para a parte do povoado 330 ou 396 palmos, e assim não servirão de 
+impedimento as ditas casas a [detença] da fortaleza, e que eram de parecer que se não fizessem 
+outras casas em menos distâncias de 300 palmos da dita fortaleza e que fossem térreas – Recife, 21 
+de junho de 1728. – João de Macedo Corte Real – Diogo da Silveira Veloso. E mandando eu ao 
+Senado da Câmara desta praça, me dissessem a razão que havia para as casas da contenda não 
+pagarem foro e o mesmo Senado, sendo fundadas em praia coberta d'água, logradouro público, 
+reservado nas datas de sesmarias por despacho de . . . de julho de 1728; ao que respondeu o dito 
+Senado que os oficiaes da Câmara antecedente que concederam licença aos suplicantes para 
+edificarem na praia coberta d'água, que não deviam ter notícia da qualidade do lugar, e por isso 
+
+concederam licença sem os suplicantes aforarem os ditos chãos com o mesmo Senado, e que parecia 
+justo, conforme a lei, que os suplicantes se aforassem com este Senado, como eu advertira e que 
+assim me requererão, e que sem os suplicantes mostrarem aforamento, se não permitissem que eles 
+edificassem. – Recife, em Câmara de 17 de julho de 1728 -- Baltazar Gonçalves Ramos – João da 
+Costa Monteiro – José Rodrigues de Carvalho; e sendo-me apresentada esta resposta com uma 
+réplica dos suplicantes, em que me expuserão que eles haviam aforado os ditos chãos ao procurador 
+de um herdeiro do morgado, com licença do Senado, que ofereceram, e que no tal sítio haviam mais 
+moradores que aforaram aos mesmos chãos alagados e da mesma qualidade, que a poder de muito 
+entulho correram com a água e edificaram as suas casas que estão logrando, e que não se continha 
+somente nos suplicantes que não tenham dúvida de pagar foro a quem tocasse, porém, não em duas 
+partes pedindo-me que visto não haver falta da sua parte e documentos juntos, que queriam acabar a 
+sua obra ficando em depósito, em mão de quem eu ordenasse o sobredito foro para pagarem, 
+livrando-os da primeira obrigação, e que o Senado se opusesse ao esbulho para eles lhe aforarem; e 
+a vista de tudo, mandei que informasse o doutor provedor da Coroa; e que, digo, o doutor 
+procurador da Coroa, e que me apontasse o meio de que podia mandar usar na forma de direito, 
+visto o descuido dos oficiais da Câmara; por despacho de 17 e 19 de julho de 1728, ao que 
+respondeu que o requerimento dos suplicantes lhe parecia justo em tudo, porque não deviam ser 
+constrangidos duas vezes por uma mesma coisa, e que por informação que tomara, achara que o 
+lugar em que faziam as casas foi onde o rio entrava e cobria a maré, fazendo entulho a sua custa e 
+trabalho, e como realengo, podia eu fazer data de sesmaria como em outras partes semelhantes se 
+havia feito ao capitão Manoel Aranha e ao capitão José de Souza Cousseiro, que constariam do 
+Livro de Registro da Secretaria com a condição que pagariam o foro a Sua Majestade, regulando 
+pelas referidas datas sem prejuízo de terceiro, que entendendo, [...] poderia tratar dele 
+judicialmente, e que sempre eu devia mandar o que me parecesse mais conveniente.  Recife, 22 de 
+julho de 1728 – Antônio Rodrigues Pereira. E com as cópias das sesmarias que, digo, de que se faz 
+menção, passadas pelo governador e capitão-general que foi meu antecessor, Dom Manoel Rolim de 
+Moura, a do capitão Manoel Aranha, de 22 palmos de terra de fundo e 50 de frente, com obrigação 
+de pagar de foro de cada braça a razão de seis mil réis por légua, feita em 27 de maio de  1724, com 
+o parecer do provedor e procurador da Fazenda e Coroa, e ao capitão José de Souza Cousseiro de 70 
+palmos de terra, pagando de foro por cada braça ou palmo a razão de quatro mil réis por légoa, feita 
+em 18 de março de 1728, mandei que informasse o provedor  da Fazenda Real, por despacho de 23 
+de julho de 1728, a qual me respondeu que pela informação do tenente-general de artilharia e 
+sargento-mor em engenheiros, se mostrara que as casas dos suplicantes não prejudicavam a 
+Fortaleza das Cinco Pontas, e que visto como os suplicantes sem vexame se expunhão, a que sendo 
+necessário demolirem-se em algum tempo para defesa da praça, se lhe não oferecia dúvida, sem que 
+
+a Fazenda Real fique em nada obrigada, para o que assinarão termo, porém, que enquanto a data 
+desta terra se conformaria com o que havia informado o doutor procurador da Coroa, em que esta 
+seja de sesmaria para ser realenga e entulhada a custa dos suplicantes, onde não podia ter o 
+possuidor de outra terra com que confrontava nenhum domínio, e me requereu que de todo o 
+realengo de que se intentassem apossar os possuidores das terras com as quais confronta o rio ou 
+maré, se lhe suspendesse a posse e domínio e se tomem para a Fazenda Real, pois se entulham a 
+custa do povo com o risco da rua e barreira das casas de todos os moradores que o mandam aqui 
+lançar, e não é de bem que sem despesa se queiram outras pessoas utilizar com o título de realengo 
+e que foramento devia ser pelo preço geral, a tanto por palmo na razão dos que aforam as terras para 
+nelas se fazerem casas e não para se cultivarem, que é o que se trata no assento que se fez em Junta, 
+a qual eu servido podia emendar nas duas sesmarias que se apontavam, o que se não devia 
+estranhar, porque assim como os particulares achando-se prejudicados buscam seu melhoramento, o 
+mesmo se devia praticar com a Fazenda Real, sem que eu permitisse que o Senado da Câmara se 
+apossasse, assim como o tem feito do realengo entulhado onde fez o Forte – Antônio Pereira de 
+Matos; tendo a Fazenda Real o incomodo de reedificar o muro que guarda as casas e o dito Senado 
+cobra os foros que em parte se podiam aplicar para aquela despesa, e que mandasse eu o que me 
+parecesse mais conveniente ao serviço de Sua Majestade. – Recife, 23 de julho de 1728 - João do 
+Rego Barros - E mandando eu ao doutor ouvidor geral que informasse com seu parecer, por 
+despacho de 23 de julho de 1728, me respondeu que as tais casas se começaram a edificar nas que 
+sempre serviu de luxo as marés que a poucos meses passavam por ela, e com a indústria, trabalho e 
+entulho dos edificantes, se aterraram de sorte que poderão fazer as suas casas, e nesta forma, era 
+sem dúvida não pertencer esta arca a Câmara desta Vila, nem a outro terceiro; mas sim, no estado 
+presente fazer eu da dita arca data de sesmaria e dá-la aos mesmos possuídores; porque a dúvida 
+alegada de que tinham só aforado ao procurador do Morgado, me não podia privar do direito que 
+tenho de Sua Majestade para fazer sesmarias, e que essa contenda deviam as partes averiguar entre 
+si, assistindo-lhe o doutor procurador da Coroa, e que sempre eu devia fazer o que me parece mais 
+justo. – Recife, 24 de julho de 1728 = Manoel do Monte Fogaça; E logo mandei ao sargento-mor 
+em engenheiro, que me disse a terra e chãos das casas que se intentão fazer, assim de frente como 
+de fundo, por despacho de 4 de setembro de 1728, o qual me respondeu que fazendo a medição nas 
+referidas casas, achara que as do capitão Luiz da Cunha tinham de frente 93 palmos e de fundo 144, 
+e que o tal fundo se lhe não devia permitir maior, porque ficaria prejudicando a rua que já tem 
+princípio por detrás das ditas casas. – Recife, 7 de setembro de 1728 - Diogo da Silveira Veloso; e 
+logo os suplicantes me expuseram por réplica sua, que pela resposta junta do sargento-mor em 
+engenheiros, devia terem as casas do capitão Luiz da Cunha, 93 palmos de fronteira e de fundo 144, 
+e as do alferes João Rodrigues Pinto, 60 palmos de frente e os ditos 144 de fundo, e que quando eles 
+
+fizeram a considerável despesa no aterro e fundação das ditas casas dentro da maré, foi para lhe 
+darem todo o fundo de baixa-mar e oito anos em matos, e que ainda assim se achavam muito 
+prejudicados pelo grande trabalho que tiveram pedindo-me lhe fizesse mercê dar de sesmarias, com 
+todo o fundo de baixa-mar, na forma das duas alegadas e como informa o doutor ouvidor geral e 
+procurador da Coroa, e que ficassem desapossados os chamados senhores das terras. E receberá 
+mercê. A vista do que mandei ao tenente-general de artilharia e sargento-mor em engenheiros, 
+declarassem o que lhes parecesse deviam pagar os suplicantes de foro por palmo, não se lhes 
+permitindo mais fundo que o que consta da sua informação, e que o erro que havia dos dois 
+exemplos de que se querem valer, há de ser emendado como me requereu o provedor da Fazenda, 
+por despacho de 7 de setembro de 1728, e responderam que lhe parecia preço razoável a 60 reis por 
+palmo, respeitando o lugar, e que os 83 palmos importavam 4:980 e os 60 palmos 3:600, e que 
+devia cada um de per si fazer obrigação a parte do foro que lhe tocasse. Recife, 10 de setembro de 
+1728 - João de Macedo Corte Real - Diogo da Silveira Veloso, e sendo assim tudo visto por mim e 
+examinado, proferi o meu último despacho na forma seguinte: Passe carta de sesmaria a cada um 
+dos suplicantes, com obrigação de pagarem de foro a Sua Majestade a 50 réis por palmo do 
+comprimento e fundo da praia que ocupam, para nesta forma poderem continuar com a obra das 
+casas que tem principiado, não servindo de embaraço o aforamento que dizem terem feito ao 
+morgado, porque a praia que ocupam coberta d'água como esta é do direito real, contra o qual não 
+pode haver posse e menos prevalecer o descuido dos ministros de Sua Majestade em consentirem 
+alguns destes aforamentos, pela qual razão tenho mandado notificar ao procurador do morgado para 
+não entender com os suplicantes, nem fazer mais aforamento até Sua Majestade não determinar o 
+contrário, a quem dou conta tresladando-se nas ditas terras, digo, datas os despachos necessários 
+para clareza futura, fazendo o provedor da Fazenda carregarem receita por lembrança ao almoxarife 
+os ditos foros, que começaram a correr do 1.° de janeiro que há de vir de 1729 em diante. Recife, 23 
+de novembro de 1728. - Em observância do dito despacho e pela faculdade que Sua Majestade me 
+concede no capítulo 15 do Regimento deste Governo - Hei por bem de dar de sesmaria ao alferes 
+João Rodrigues Pinto, 60 palmos de terra de frente e 144 de fundo, no mesmo lugar e paragem que 
+confronta em sua petição, a qual terra logrará ele e seus herdeiros, com todas suas pertenças e 
+logradouros, com obrigação de pagar o referido foro de 50 réis por palmo cada um ano e de não 
+passarem a religiões por nenhum título, e sucedendo passar será com o mesmo encargo. Pelo que 
+ordeno ao provedor da Fazenda Real, faça carregar em receita por lembrança ao almoxarife os ditos 
+foros, que começarão a correr em 1.° de janeiro próximo, de 1729 em diante, tudo na forma acima 
+referida e apontada; e aos ministros da Fazenda e Justiça a que tocar, lhe façam dar a posse real, 
+efetiva e atual, na forma costumada, de que se fará assento em as costas desta, que por firmeza de 
+tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual 
+
+se registrará nos livros da Secretaria deste Governo e vedoria geral, sendo que não terá efeito 
+algum, e nos mais a que tocar. - Dada nesta Praça do Recife de Pernambuco, em os 18 dias do mês 
+de dezembro, Bento Soares Pereira a fez, ano de 1728. – O secretario José Duarte Cardoso a fez 
+escrever - Duarte Sodré Pereira Tibão.  
+Ao senhor capitão Luiz da Cunha, com sesmaria do mesmo nome, teor acima de 83 palmos de terra, 
+com o mesmo foro e no mesmo lugar, em dia e era acima. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 329 - 336. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

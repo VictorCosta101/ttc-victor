@@ -1,0 +1,81 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0234
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0307",
+  "Nome": "Manuel Francisco das Neves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "22-12-1784",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na barra do riacho do Gregório, pelo rio Amaragi ao norte até o rio Sirinháem, ao sul.",
+  "Localidade": "Riacho do Gregório",
+  "Marcos Geográficos": "Riacho do Gregório, Riacho Amaragi e Rio Sirinháem",
+  "Exigências do Deferimento": "Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Esta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0234"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0234
+Carta de concessão de Manuel Francisco das Neves de 22/12/1784
+Sesmaria de uma légua de terra em quadra, na freguesia de Sirinhaém, na barra do
+riacho do Gregório, que faz barra no rio Amaragi; digo, Aramaragi, correndo para o
+norte, digo, correndo para o sul até o rio Sirinhaém, concedida em 22 de dezembro de
+1784 a Manoel Francisco das Neves, que dissera haver comprado a referida terra a dona
+Thereza de Albuquerque, viúva de José Ferreira do Prado, pelo capitão-general José
+César de Menezes, com o foro anual de 6 mil réis a légua, visto ser uma das que estão
+mais próximas a Marinha, como determina a Real Ordem; a qual possuirá e gozará ela e
+seus herdeiros ascendentes e descendentes, sem poder passar a religiões e pessoas
+eclesiásticas por título algum, salvo com os mesmos encargos, e nem dividir-se ou
+partir-se, se não por estimação, como dispõe a citada ordenação. c/c no livro 7º a folha
+137.
+- Fim da Transcrição -
+Referência:
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE
+EDUCACAO E CULTURA BIBLIOTECA PÚBLICA, 1959. v. 4. p. 79-80.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

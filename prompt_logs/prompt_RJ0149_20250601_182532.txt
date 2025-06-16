@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0149
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio José Alves de Santana, Domingos José Alves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "13-03-1779",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de confirmação. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras às margens do rio Carapitanga",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Ribeira": "Carapitanga",
+  "Confrontantes": "Terras do capitão Tomás Rodrigues Pereira",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Pretendia lavrar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se dar posse efetiva; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes pretendiam obter título da terra.",
+  "Observações do deferimento e da concessão": "Na carta de confirmação, não foi possível inferir a forma de deferimento da concessão. Além disso, o oficial José Pereira Leão assina o documento no impedimento do Secretário de Estado, por este encontrar-se em situação de enfermidade.",
+  "Observações das exigências": "Foi determinado também aos suplicantes que \"não o fazendo se denegará mais tempo e antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para este efeito, notificadas as pessoas com quem confrontar e será obrigado a conservar os Tapinhaém e Parabum [sic] que se incluírem nesta data deixando de os cortar para outro algum uso que não seja o da construção das naus da mesma senhoria e a cuidar na plantação destas árvores naqueles lugares em que já as houveram ou forem mais próprias para a produção das mesmas, como também a fazer os caminhos da sua testada com pontes e estivas onde necessário for e descobrindo-se nelas rio caudaloso, que necessite barca para se atravessar, ficará reservada de uma margem dele meia légua de terras em quadra para comodidade pública\". Além disso, igualmente exigiu-se dos mesmos que \"não compreenderá nesta data vieiras ou minas de qualquer gênero de metal que nelas se descobrir, reservando também os paus Reais\".",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0149"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0149
+Carta de Confirmação de Sesmaria de Domingos José Alves e Seu filho Antônio José
+Dom João Alteza, faço saber aos que esta minha carta de confirmação de sesmaria virem que
+por parte de, Domingos José Alves e seu filho Antônio José Alves de Santana, me foi
+apresentada a outra mandada passar pelo Conde de Resende Vice-Rei e Capitão General de
+Mar e Terra do Estado do Brasil do teor seguinte. Dom José de Castro Conde de Resende do
+conselho de sua Majestade, Marechal de Campo dos seus Exército, Vice-Rei e Capitão
+General de Mar e Terra
+do Estado do Brasil etc. Faço saber aos que esta minha carta de
+sesmaria virem que, atendendo a representar-me Domingos José Alves, e seu filho Antônio
+José Alves de Santana, moradores na freguezia de Nossa Senhora da Conceição de Campo
+Alegre do termo desta cidade, que eles se achavam em lavouras de fazer mantimentos nas
+duas margens do rio chamado Carapitanga em terras que compraram a Francisco Antônio de
+Macedo, e porque estavam de posse delas sem título primordial de sesmaria, motivo porque
+os suplicantes me requeriram lhe desse a mesma terra por sesmaria em nome de sua
+Majestade, meia légua na testada com o rumo de leste de terra, e uma légua de sertão ao rumo
+do Norte ficando esta sobre o mesmo Rio com um quarto de légua ao sul do referido rio e os
+três quartos para o sertão visto estarem cultivando as mesmas terras há mais de três anos
+confrontando as terras do capitão Tomás Rodrigues Pereira, e pelos outros lados com quem
+direito for por serem terras em matos maninhos e desaproveitados e os suplicantes precisarão
+para as suas lavouras, e sustentação das suas famílias sendo visto seu requerimento e a
+informação que deu a Câmara desta cidade, a qual não tendo dúvida nem o desembargador
+que serve de chanceler, a convir o Desembargador Provedor da Real Coroa que se concedesse
+aos suplicados meia légua de terra em quadra no sítio em que pediram. Hei por bem dar de
+sesmaria, em nome de Sua Majestade, em virtude da ordem da mesma Senhora de 15 de
+junho de 1711 aos ditos, Domingos José Alves e seu filho Antônio José Alves de Santana,
+meia légua de terra em quadra na parte acima declarada com as confrontações expressadas
+sem prejuízo de terceiro, ou do direito que alguma pessoa tenha a elas com declaração que as
+cultivará, e mandará confirmar esta minha carta por sua Majestade dentro de dois anos, e não
+o fazendo se denegará mais tempo e antes de tomar posse delas as fará medir e demarcar
+judicialmente, sendo para este efeito, notificadas as pessoas com quem confrontar e será
+obrigado a conservar os Tapinhaém e Parabum [sic] que se incluírem nesta data deixando de
+os cortar para outro algum uso que não seja o da construção das naus da mesma senhoria e a
+cuidar na plantação destas árvores naqueles lugares em que já as houveram ou forem mais
+próprias para a produção das mesmas, como também a fazer os caminhos da sua testada com
+
+pontes e estivas onde necessário for e descobrindo-se nelas rio caudaloso, que necessite barca
+para se atravessar, ficará reservada de uma margem dele meia légua de terras em quadra para
+comodidade pública. Nas ditas terras não poderá suceder em tempo algum pessoa eclesiástica
+ou religiões e sucedendo será com encargo de pagar dízimos e outro qualquer que Sua
+Majestade lhe impuser de novo, e não os fazendo se poderá dar a quem os denunciar. Como
+também sendo, o mesmo Senhor servido, mandar fundar no distrito delas alguma vila o
+poderá fazer ficando então livre e sem encargo algum ou punição para o sesmeiro. Não
+compreenderá nesta data vieiras ou minas de qualquer gênero de metal que nelas se descobrir,
+reservando também os paus Reais e faltando a qualquer das ditas serventias conforme as
+ordens de Sua Majestade ou as que dispõem a lei e foral das sesmarias, ficará privado desta.
+Pelo que mando os ministros ou oficial de justiça a quem a conhecimento desta pertencer dê
+posse ao dito Domingos José Alves e seu filho Antônio José Alves de Santana das referidas
+terras na forma acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim
+assinada e selada com o sinete de minha armas que se cumprirá como nela contém registrada
+nesta secretaria do Estado e nas partes a que tocar, se passou por duas vias. Dada na cidade de
+São Sebastião do Rio de Janeiro, Marechal José de Azevedo, oficial da secretaria fez aos 13
+de março de 1779, José Pereira Leão oficial major da secretaria no impedimento de moléstia
+do Secretário do Estado, Conde de Rezende Pedindo ao dito Domingos José Alves e seu filho
+Antônio José Alves de Santana que porquanto o sobredito Vice-Rei Capitão General do Mar e
+Terra do Estado do Brasil lhe dera em meu real nome, meia légua de terra em quadra no sítio
+mencionado na dita carta fosse servido mandar passar outra da confirmação dela. E tendo
+visto seu requerimento e o que sobre ela responderam os procuradores régios de Minha
+Fazenda e Coroa. Hei por bem fazer lhe mercê de confirmar como por esta confirmo a dita
+meia légua de terra em quadra na paragem sobredita com as confrontações referidas que em
+meu real nome cedeu o Conde de Rezende, Vice-Rei e Capitão General de Mar e Terra do
+Estado do Brasil. Na forma da carta nesta em carta, com todas as cláusulas e condições na
+mesma expressadas, e com as mais que dispõem a lei. Pelo que mando ao meu Vice-Rei e
+Capitão General de Mar e Terras de Estado do Brasil ao Provedor da Fazenda Real dela e os
+mais ministros e pessoas a que tocar cumprão e guardem esta minha carta de confirmação de
+sesmaria e a façam cumprir e guardar inteiramente como nela se contém sem dúvida alguma.
+Pagou de novos direitos 800 réis que se encarregaram o Tesoureiro delas a folha 28 do livro
+vigésimo de sua Receita, e se registrou o conhecimento em forma no livro 63 do Registro
+Geral [palavra não identificada]. Dada na cidade de Lisboa aos 20 de novembro de 1800. O
+Príncipe Barão de Mossâmedes, Dom João Pedro Delamare, o Coronel Francisco da Silva,
+
+Conde Real a fez escrever. José Antônio Gaspar a fez [palavra não identificada] do conselho
+ultramarino de 10 de novembro de 1800.
+-
+Fim da transcrição -
+Observações do documento: Algumas partes bem apagadas.
+Alterações ortográficas: meya/meia, leogoa/légua, debolutas/devolutas, clauzulas/cláusulas.
+Referência:http://resgate.bn.br/docreader/DocReader.aspx?bib=CODICES&Pesq=cod.%201
+65&pagfis=60417 fl, 232-233.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

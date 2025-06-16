@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0103
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Diogo Paes Cabral",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "24-04-1679",
+  "Observações da sesmaria": "A sesmaria era um conjunto de pequenas ilhas e possuía no total 50 braças de largura e 600 de comprimento, localizada no rio Itapicuru.",
+  "Localidade": "Rio Itapicuru",
+  "Marcos Geográficos": "Rio Itapicuru",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Freitas",
+  "referencia": "BA0103"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um Alvará de doação de sesmaria de 6 ilhas, tendo 50 braças de largo e 600 
+de comprido, que estão no rio de Itapicuru das Barrocas, concedidas a Diogo Paes Cabral.  
+ 
+Roque da Costa Barreto do Conselho de Sua Alteza etc. Faço saber aos que este Alvará 
+de doação e sesmaria virem, que havendo respeito ao que por parte de Diogo Paes Cabral, 
+morador e casado no Itapicuru há mais de 50 anos, que ele tem suas criações de gado 
+vacum, cavalar e outras, e não tem terra alguma, e tem servido a Sua Alteza nas guerras 
+deste Estado muitos anos, sem lhe darem nada até o presente, e porque no rio do dito 
+Itapicuru há algumas ilhas das Barrocas para cima, até a Barra das Pecoaras, as que se 
+acharem nelas cercadas de água estiverem devoluto; as quais poderão ter pouco mais ou 
+menos 100 braças cada uma, e haverá 5 ou 6, pouco mais ou menos, que fazem 500 braças, 
+ou 600 em todas de comprido, e 50 de largo. Portanto, pede a Vossa Senhoria lhe faça 
+mercê dar-lhe de sesmaria as ditas ilhas na forma do estilo. E receberá mercê. E visto a 
+resposta do procurador da Fazenda Real, que é a seguinte: Não se me oferece dúvida a se 
+conceder de sesmaria ao suplicante as 6 ilhas de que faz menção, tendo a largura de 50 
+braças e comprimento de 600, com as cláusulas costumadas, dízimos à Ordem de Cristo, 
+sem prejuízo de terceiro, que povoasse em tempo; povoação no termo da lei; demarcação 
+a tempo da posse; citados os éreos. Além destas, se devem por nas sesmarias outras que 
+até agora não expressara por cuidar, iam em todas por estilo, por as ter visto em algumas 
+que lei; e vem a ser que darão ao comum toda a estrada que for necessária para 
+comunicação de uns povos com outros, e ainda aos particulares darão caminho para 
+fontes, pontes, pastos e pedreiras que nas ditas sesmarias houver, por onde menos lhe 
+prejudicar. Bahia, 18 de abril de 1679 = Freitas = E a informação do provedor-mor da 
+Fazenda, que é também a que se segue: Senhor, parece-me que não encontra o Regimento 
+fazer Vossa Senhoria mercê ao suplicante destas ilhas, segundo a medida, que diz tem 
+com as condições do mesmo Regimento, que se costumam expressar nas cartas delas. 
+Vossa Senhoria mandará o que for servido. Bahia, 21 de abril de 1679 = Antônio Lopes 
+de Ulhôa = Hei por bem de dar ao suplicante de sesmaria em nome de Sua Alteza / como 
+pelo presente faço / as 6 ilhas de que faz menção, sendo a largura de 50 braças e 
+comprimento de 600, assim e da maneira que pede e confronta em sua petição, e parece 
+aos dois ministros, não prejudicando a terceiro, com todas suas águas, campos, matos, 
+testadas, logradouros e mais úteis que nelas se acharem; tudo forro, livre e isento de 
+
+pensão ou tributo algum, salvo dízimo a Ordem de Cristo, que pagará dos frutos que nelas 
+houver / e por elas será obrigado a dar caminhos livres ao Conselho para fontes, pontes e 
+pedreiras, e com as mais cláusulas do Regimento e Ordenação do livro 4º, título das 
+Sesmarias. Pelo que ordeno a todos os ministros de justiça, a quem conhecimento deste 
+com direito deva ou possa pertencer, lhe façam dar a posse real, efetiva e atual na forma 
+de estilo. Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de minhas 
+armas, a qual se registrará nos livros da Secretaria do Estado e nos mais a que tocar, e se 
+guardará e cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, 
+embargo nem contradição alguma = Antônio Garcia o fez nesta cidade do Salvador, Bahia 
+de Todos os Santos, em 24 dias do mês de abril, ano de 1679. Bernardo Vieira Ravasco 
+o fez escrever = Roque da Costa Barreto = Selo = Registrado no livro 2º dos registros da 
+Secretaria do Estado do Brasil, a que toca a folha 64. Bahia, 24 de abril de 1679. Ravasco 
+= Despacho do provedor-mor registrou nos livros da Fazenda a que toca. Bahia, 29 de 
+abril de 1679. Antônio Lopes a registrou em 29 do dito mês e ano acima = João Dias da 
+Costa.  
+Registro 
+-fim da transcrição- 
+Referência:  
+ 
+AN, Códice 427, fls. 154v – 155v.  
+Numeração original no livro: 117 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

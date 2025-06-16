@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0079
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0116",
+  "Nome": "Brás Soares dos Passos, Cristóvão Falcão, Diogo de Melo de Mendonça, Igreja de Nossa Senhora dos Prazeres de Guararapes, Manuel da Silveira (PE 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-08-1660",
+  "Observações da sesmaria": "Os suplicantes requereram vinte léguas de comprimento no rio São Francisco, entre o rio Panema o rio Fragoipe e Tibiri e estendia-se das taperas que foram dos indios Gairupeba, Garapeto, correndo pelo rio Fragoiba, limitando-se com as terras de Belchior Alvares, Belchior de Farias e Simão Ferreira até o rio Tibiri.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio Tibiri, Rio Panema, Frio Fragoipe",
+  "Confrontantes": "Simão Ferrera, Belchior de Frias, Belchior Álvares",
+  "Observações da petição": "Os suplicantes não informaram as medidas requeridas, mas somente a área total da sesmaria pretendida.",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0079"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0053 
+ 
+Carta de concessão de Brás Soares dos Passos, Cristóvão Falcão, Diogo de Melo de 
+Mendonça, Manuel da Silveira e da Igreja de Nossa Senhora dos Prazeres de Guararapes 
+de 19/08/1660 
+Registo de uma provisão de sesmaria e datas de terras que se deram no rio de São 
+Francisco ao padre frei Manuel da Silveira em seu nome e como procurador de Nossa 
+Senhora dos Prazeres situada nos Guararapes e Diogo de Melo de Mendonça e Cristóvão 
+Falcão e Brás Soares de Passos.  
+ 
+Francisco Barreto do Conselho de Guerra de Sua Majestade governador e capitão-general 
+do Estado do Brasil etc. Faço saber aos que esta carta de doação e sesmaria virem que o 
+padre frei Manoel da Silveira Diogo de Melo de Mendonça Cristóvão Falcão, e o capitão 
+Brás Soares de Passos me enviaram a representar a petição cujo teor é o seguinte. O padre 
+frei Manoel da Silveira em seu nome e como procurador de Nossa Senhora dos Prazeres 
+situada nos Gararapes Diogo de Melo de Mendonça Cristóvão Facão e o capitão Brás 
+Soares dos Passos que entre o rio Panema e o Fragoipa e o Tibiri que todos, vão dar ao 
+rio de São Francisco da parte do norte e há terras devolutas para pastos de gados com 
+matos e águas que estão por aproveitar e até agora não foram dadas de sesmaria e porque 
+os suplicantes as podem povoar, e aproveitar com seus gados e criações e lavouras em 
+utilidade comum, e dos dízimos das rendas reais. Pede a Vossa senhoria lhes dê toda a 
+terra com águas rios, e matos que se achar começando das Taperas que eram aldeias do 
+gentio chamado Gayrupeba e Garapeto que estão junto á nascença do rio Fragoipa 
+correndo as ditas Taperas (que ficam servindo de peão) dez léguas pelo rio Fragoipa 
+abaixo até as cabeceiras das datas de Belchior de Faria, Simão Ferreira e Belchior Alvares 
+e das mesmas Taperas dez léguas para cima, e das ditas taperas toda a terra que corre té 
+o Rio Tibiri de sorte que fique em quadra toda a terra que corre digo em quadra a data 
+para todos os Suplicantes tanto a como a outros, e não havendo entre os ditos Rio toda a 
+terra para se fazer quadra, ou esteja dada ou parte dela que se encham nas cabeceiras das 
+datas vizinhas, ou donde acharem terra para se poderem acomodar e encher. E recebera 
+mercê. E vistta a informação do provedor-mor da Fazenda Real deste Estado cujo teor é 
+o seguinte. Senhor quatro pessoas que contém esta petição são beneméritos e poderosos 
+a povoação de mais terras nos distritos do rio de São Francisco do que nesta petição 
+pedem, e é serviço de Sua Majestade que este rio seja povoado e cultivado: este é meu 
+parecer vossa senhoria o disporá como costuma ao Serviço de Sua Majestade 15 de agosto 
+de 1660. Lourenço de Brito Corrêa. E outrossim constar do cabedal dos impetrantes. Hei 
+por bem e lhe faço mercê em nome de Sua Majestade de dar de sesmaria (como pela 
+presente faço) que pedem assim e da maneira que em sua petição com todas as suas águas, 
+campos, matas, pastos (há dez linhas ilegíveis por ter a tinta destruído o papel do 
+manuscrito).  Para firmeza do que lhe mandei passar a presente sob meu sinal e selo de 
+minhas armas a qual se registrará tão pontual e inteiramente como nela se contém sem 
+dúvida embargo nem com contradição alguma Bento Pereira de Andrade a fez nesta 
+cidade do Salvador Bahia de todos os Santos em os 19 dias do mês de agosto, ano 1660 
+Bernardo Vieira Ravasco o fiz escrever. Francisco Barreto. Registrada no primeiro Livro 
+dos Registos a que toca Bahia digo a que toca desta Secretaria do Estado do Brasil a folhas 
+sessenta e três verso Bahia e agosto 16 de 1660. Ravasco. Fica Registada nos Livros que 
+serve das Sesmarias e datas a folhas trinta e três Bahia 13 de dezembro de 1660. Brito. 
+Registou-se em 15 do dito mês, e ano. Gonçalo Pinto de Freitas. 
+
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Coleção Documentos Históricos Biblioteca Nacional do Rio de Janeiro, v. 20, pp. 276-
+278. 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

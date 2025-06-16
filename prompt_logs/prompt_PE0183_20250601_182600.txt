@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0183
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 197",
+  "Nome": "Faustino Pereira de Figueiredo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-09-1800",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no sertão do termo da vila de Cimbres, no lugar chamado Brejo do Prioré. A sesmaria tinha por limites ao norte com o Puyu e com a fazenda Poço do Boi de Antônio de Resende de Melo, a oeste com as terras  do coronel Roque Carvalho Brandão e ao sul com a fazenda Prioré de Anastácio Pereira.",
+  "Localidade": "Vila de Cimbres",
+  "Marcos Geográficos": "Brejo do Prioré",
+  "Confrontantes": "Antônio de Resende de Melo; Roque Carvalho Brandão, Anastácio Pereira",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os  governadores interinos determinaram o pagamento anual do foro régio no valor de 2 mil réis. Os  governadores interinos também determinaram a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0183"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0183 
+Carta de doação e sesmaria de Faustino Pereira de Figueiredo – 25/09/1800 
+ 
+Faustino Pereira de Figueiredo com carta de data de sesmaria de meia légua de terra em 
+quadra no Brejo do Priore, termo da Vila Cimbres. 
+Os Governadores Interinos da Capitania Geral de Pernambuco etc. Fazemos saber aos que esta 
+carta de sesmaria virem, que Faustino Pereira de Figueiredo fez ao nosso antecessor um 
+requerimento do teor e maneira seguinte: = Ilustríssimo e Excelentíssimo Senhor = Diz Faustino 
+Pereira de Figueiredo, morador no termo da Vila de Cimbres, Ribeira do Mozotó, que neste sertão 
+há um lugar chamado Brejo do Prioré, que confina pelo norte com a situação denominada Puyu, e 
+pelo poente com a fazenda chamada Cancalacão do Coronel Roque Carvalho Brandão, pelo sul 
+com a fazenda Prioré de Anastácio Pereira e pelo norte com a fazenda Poço do Boi de Antônio de 
+Rezende de Melo; a qual lugar, Brejo Prioré na distância de 2 léguas pouco mais ou menos, se acha 
+devoluto e sem outro dono conhecido que não seja o Real Patrimônio, e porque o suplicante o quer 
+cultivar com gados e situar uma fazenda, suplica a Vossa Excelência que lhe dê de sesmaria uma 
+légua em quadra no dito lugar, a qual légua principiará a medir-se da extrema de Cancalacó e se 
+continuará para o nascente até se completar e findar com toda a sua quadra de terra, pagando o 
+suplicante o foro competente e passando-se-lhe carta de sesmaria na forma do costume = Pede a 
+Vossa Excelência seja servido de me deferir como requer, mandando primeiro proceder as 
+diligências costumadas = E receberá mercê = E sendo visto o seu requerimento pelo nosso 
+antecessor, ordenou aos oficiais da Câmara da Vila de Cimbres mandassem fixar editais no 
+respectivo distrito por tempo de trinta dias, para se saber ao certo estar ou não devoluta a mesma 
+terra e haver ou não terceiro prejudicado; e constando por informação dos ditos oficiais que assim 
+o mandarão executar, não haver pessoa alguma que aos ditos editais saísse; por outro despacho de 
+21 de abril de 1796, mandou ouvir o escrivão da Receita e Despesa da Real Fazenda, e assim mais 
+responder o doutor procurador da mesma Fazenda e Coroa, por outro de 27 do dito mês e ano; e 
+como todos uniformemente responderam estar nos termos de se dar ao suplicante a terra pedida de 
+sesmaria, na forma confrontada em seu requerimento, pagando o foro anual a 4 mil réis por légua, 
+por estarem na distância de mais de 30 léguas da Marinha, do que devia dar fiança na Contadoria 
+da Real Fazenda; ultimamente mandou por despacho de 2 de maio do referido ano, que se passasse 
+sesmaria de meia légua em quadra, na forma da resposta do doutor procurador da Coroa e escrivão 
+da Receita e Despesa, em cumprimento do qual e pela faculdade que Sua Alteza Real permite no 
+Capítulo 15 do Regimento deste Governo. Houvemos por bem dar em nome do dito senhor ao 
+referido Faustino Pereira de Figueiredo meia légua de terra em terra em quadra no Brejo Prioré, a 
+
+que principiará a medir-se da extrema da Cancalacão e se continuará para o nascente até se 
+completar na forma confrontada em seu requerimento, pagando o foro anual de 2 mil réis pela 
+referida meia légua, visto estar na distância de mais de 30 léguas da Marinha, que determina a Real 
+Ordem de 28 de setembro de 1700; a qual terra possuirá e gozará ele suplicante e seus herdeiros 
+ascendentes e descendentes, como sua que fica sendo de hoje para todo sempre, com todas as suas 
+pertenças, matos, campos, rios, águas, testadas, logradouros e mais úteis que ela compreender, não 
+prejudicando a terceiro; e não passará a dita terra a religiões, a pessoas eclesiásticas, salvo sendo 
+com os mesmos encargos com que as possuem os seculares, sendo obrigado a dar ao Conselho 
+caminhos livres para fontes, pontes, pedreiras, e requerer dentro de três anos confirmação, medição, 
+demarcação, povoá-la e cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753; e 
+não o cumprindo assim, se dar por devoluta e novamente ser conferida a quem a requerer; com 
+mais a condição que a dita terra nunca se dividirá em porções, nem repartirá senão por estimação, 
+andando encabeçada em uma só pessoa, na forma da Ordenação Livro 4º título 96. § 23; sendo 
+obrigada a pessoa que suceder na dita terra por morte ou outro qualquer título do possuidor, a vir 
+apresentar-se na Junta da Real Fazenda desta capitania, para se fazerem os devidos assentos, 
+debaixo da pena de que não executando assim, doará a dita terra devoluta para se conferir a quem 
+a requerer. Pelo que ordenamos aos ministros da Fazenda e Justiça e mais pessoas a quem tocar, 
+cumpram e façam cumprir e guardar esta carta de data de sesmaria como nela se contém, fazendo 
+dar ao suplicante posse real, efetiva e atual, na forma costumada, debaixo das cláusulas referidas e 
+das mais da Ordenação Título das Sesmarias, visto constar por bilhete que apresentou achar-se dada 
+a fiança ao foro anual de 2 mil réis pela referida meia légua na Contadoria da Real Fazenda, a folha 
+129 verso do livro 5º delas. Em firmeza que lhe mandamos passar a presente por nós assinada e 
+selada com o selo das Armas Reais, que se resgistrará na Secretaria do Governo e Contadoria da 
+Real Fazenda. José Fernandes Quintela, oficial maior de Secretaria do Governo, a fez em o Recife 
+de Pernambuco, aos 25 de setembro. Ano do Nascimento de Nosso Senhor Jesus Cristo de 1800. 
+Manoel da Cunha de Azevedo Coutinho Souza Chichorro, secretario deste Governo, a fez escrever 
+= Dom José, Bispo de Pernambuco = Pedro Sheveri = José Joaquim Nabuco de Araújo. 
+- Fim da carta - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 61-62. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

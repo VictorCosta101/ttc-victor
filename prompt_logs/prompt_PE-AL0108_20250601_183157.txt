@@ -1,0 +1,171 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0108
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro de São Bento de Olinda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "26-08-1674",
+  "Observações da sesmaria": "Os suplicantes requereram duas léguas de comprimento e duas léguas de largura no rio Guaitá e no lugar denominado Pau de Arara, na fronteira das terras de Manuel Nunes Nogueira na fronteira do Aratangi",
+  "Localidade": "Rio Guaitá",
+  "Marcos Geográficos": "Aratangi",
+  "Confrontantes": "Manuel Nunes Nogueira",
+  "Exigências do Deferimento": "Assinada e selada com o selo do conselho; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0108"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0108 
+ 
+Doação que fez o governador Dom Pedro de Almeida a este mosteiro de umas sobras de terra 
+no Pau da Arara e rio Guaytá, cabeceiras da nossa terra do Guaytá. 
+ 
+Dom Pedro de Almeida, governador da capitania de Pernambuco e das mais anexas, por Sua 
+Alteza, que Deus Guarde, etc. Faço saber aos que este alvará de doação de sesmaria virem, que 
+havendo respeito ao que me enviaram representar pela petição atrás escrita, o padre presidente 
+frei Francisco da Conceição e mais religiosos do patriarca São Bento do mosteiro da vila de 
+Olinda, dizendo-me que eles possuem 2 sortes de terra, uma no lugar chamado Pau da Arara, 
+que compraram a uma viúva por nome Ana Freire, e outra no rio chamado Guaytá, que 
+obtiveram por via de compra a Francisco Falcão, herdeiro de um Pedro Barroso, pedindo-me 
+por devoluto as sobras que houver nestas duas sortes de terra, em caso que as haja por evitarem 
+o grande dano e prejuízo que pode haver, de se meter outra pessoa entre elas, e assim mais me 
+pediram as que se achassem nas cabeceiras das mesmas terras do Guaytá, confrontando com 
+um Manuel Nunes Nogueira, no ribeiro chamado Aratangi, até o seu nascimento, de uma e 
+outra parte do dito ribeiro, por não estarem dadas a pessoa alguma, e por me constar do que 
+alegam, vendo outrossim a informação do provedor da Fazenda Real, com o parecer do 
+procurador da Coroa, que não põem dúvida concederem-se as ditas sobras de terra, e 
+conformando tudo com o que Sua Alteza, que Deus Guarde, nesta matéria me encomenda pelo 
+capítulo 15 do Regimento deste governo, hei por bem, e lhe faço mercê dar em nome do dito 
+senhor, como em virtude da presente dou de sesmaria todas as sobras que se acharem de terras 
+nas sortes das que possuem, no lugar chamado Pau de Arara e no rio Guaytá, como também 
+nas cabeceiras de sua data do Guaytá, confrontadas co Manuel Nunes Nogueira, no ribeiro 
+chamado Arantagi, até seu nascimento, assim e da maneira que a pedem, e confronta com a 
+dita petição, para sempre as lograr a sua religião, não prejudicando a terceiro, com todas as 
+suas águas, campos, matas, testadas, logradouros e mais úteis que nela se acharem, tudo forro, 
+livre e isento de tributo, foro ou pensão alguma, salvo dízimo a Deus, e serão obrigados a dar 
+pelas ditas terras caminhos livres ao Concelho, para pontes, fontes e pedreiras, pelo que ordeno 
+a todos os ministros da Fazenda e Justiça desta capitania, ou aos que o conhecimento desta 
+carta pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada, debaixo das 
+cláusulas referidas, e das mais da Ordenação, título das sesmarias, e para firmeza de tudo, lhe 
+mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual se 
+registrará nos livros a que tocar. Dada neste Recife de Pernambuco, aos 26 dias do mês de 
+
+agosto. Antônio Pereira a fez, ano de 1674, Manuel Pimenta Cardoso a fiz escrever. “Dom 
+Pedro de Almeida”, “Lugar do sinete”. Carta de sesmaria de que Vossa Senhoria faz mercê dar 
+em nome de Sua Alteza, que Deus Guarde, aos religiosos do patriarca São Bento do convento 
+da vila de Olinda, todas as sobras de terra que se acharem entre as sortes de terra que possuem, 
+uma no lugar chamado Pau de Arara, e outra no rio chamado Guaytá, e outrossim todas as 
+terras que se acharem nas cabeceiras da mesma data do Guaytá, confrontadas com Manuel 
+Nunes Nogueira, do ribeiro chamado Aratangi, até seu nascimento, de uma e outra parte do 
+dito rio, estando devolutas e não prejudicando a terceiro, debaixo das cláusulas da Ordenação, 
+para Vossa Senhoria ver. Registrada no 4º Livro dos Registros da Secretaria deste Governo de 
+Pernambuco a folhas 314 verso. Recife, 30 de agosto de 1674. Manuel Pimenta Cordate. 
+Registre-se aonde pertencer. Recife, primeiro de setembro de 1674. Barbosa. Registrada no 6º 
+Livro dos Registros a folhas 139. Recife, primeiro de setembro de 1674. Soares. Ato de posse. 
+Saibam quantos este público instrumento de ato de posse virem, que sendo no ano do 
+nascimento de Nosso Senhor, Jesus Cristo, de 1675 anos, no ribeiro da Cueira, junto ao limite 
+chamado Pau de Arara, da freguesia de São Lourenço, termo desta vila de Olinda, capitania de 
+Pernambuco, onde eu, tabelião, adiante nomeado fui, e sendo aí, perante mim apareceu o muito 
+Reverendo padre pregador frei Francisco Batista, religioso da Ordem do patriarca São Bento, 
+e presidente do mosteiro de Nossa Senhora do Monte, e por ele me foi dito que Sua Alteza, que 
+Deus Guarde, fizera mercê a sua religião das sobras das terras que se achassem entre as duas 
+sortes, que foram uma de Ana Freire, e outra de Francisco Falcão, herdeiro que foi de Pedro 
+Barroso, as quais hoje possuía a dita religião por título de compra, que delas fizera aos 
+sobreditos, e que uma estava sita no dito Pau de Arara, e outra no rio Guaytá, e das sobras que 
+entre elas havia, lhe fizera o dito senhor mercê, como se via da Provisão que me apresentava, 
+passada em nome de Dom Pedro de Almeida, governador desta capitania, conformando-se com 
+o capítulo 15 do seu Regimento, procedendo primeiro a informação do provedor da Fazenda 
+Real e procurador da Coroa, porque as ditas sobras estavam naquele sítio e ribeiro Tapeeirica, 
+para uma e outra banda, caso que as houvesse, e outrossim lhe fizeram mercê das terras que se 
+achassem do nascimento do ribeiro Arantangi até entestar com Manuel Nunes Nogueira, de 
+uma e outra banda, entestando nas cabeceiras do rio Guaytá. Pelo que me requeria como 
+procurador que era da dita religião, pela procuração que apresentava, que na forma do despacho 
+do ouvidor geral e doutor Lino Camelo, lhe desse a dita posse, e logo no dito sítio, com suas 
+mãos, cortou ramos de árvores, e plantou outras de novo, andou por toda a dita terra e seus 
+limites, pondo cruzes e divisas, de que a dita religião usa em suas fazendas, e mandando 
+trabalhar seus escravos, e daí fomos ao ribeiro Aratangi, ao sítio em que mora Gonçalo Dias, 
+
+até o nascimento do dito ribeiro, e por ele abaixo de uma e outra banda, até entestar com o dito 
+Manuel Nunes Nogueira, nas cabeceiras do Guaytá, e por todas estas terras, cortando árvores 
+e pondo outras de novo, arvorando cruzes e fazendo outras em paus, dizendo por todas elas que 
+como procurador de sua religião, pela mercê que Sua Alteza lhe fizera, tomava posse das ditas 
+sobras e terras de Aratangi, na forma sobredita, se havia quem lhe pusesse dúvida, e repetindo 
+muitas vezes sem haver quem pusesse embargos, eu, tabelião, lhe dei a dita posse real, atual, 
+cível e natural, e o houve por empossado e incorporado tanto quanto de direito posso por razão 
+do meu ofício, de que fiz este ato de posse, que assinei em público e raso com o dito padre, a 
+que juntei a provisão, despacho e procuração, sendo a tudo presentes por testemunhas, que 
+todas assinaram: Francisco de Sousa Alvim, Manuel Carneiro, Antônio Correia de Brito, 
+Gonçalo Flores, Pedro Afonso, Cosme Fernandes, Bartolomeu Ferreira de Azevedo e eu, 
+Manuel da Costa Gayo, tabelião, o escrevi. Sinal público. Em testemunho de verdade. Manuel 
+da Costa Gayo. Manuel Carneiro. Gonçalo Flores. Francisco de Sousa Alvim. Pedro Afonso. 
+Bartolomeu Ferreira de Azevedo. Antônio Correia de Brito. Cosme Fernandes. Frei Francisco 
+Batista, presidente de São Bento do Monte. E não se continha mais na dita carta de sesmaria e 
+ato de posse, que eu, Diogo Cardoso, tabelião público desta cidade de Olinda e seu termo, 
+capitania de Pernambuco, por Sua Majestade, que Deus Guarde, aqui fiz trasladar bem e 
+fielmente dos próprios que me foram apresentados pelo padre procurador frei Jerônimo de São 
+Ivo, a quem os tornei a entregar, e de como os recebeu assinou aqui, está na verdade, sem coisa 
+que dúvida faça, subscrevi e assinei de meus sinais rasos costumados, nesta cidade de Olinda, 
+aos 23 dias de agosto de 1702 anos. Em fé de verdade. Diogo Cardoso. Concertado por mim, 
+escrivão, Diogo Cardoso, recebi o próprio frei Jerônimo de São Ivo. Não se continha mais no 
+dito documento que eu, Felipe Nery Correia, tabelião do público judicial e notas da cidade de 
+Olinda, vila do Recife e seus termos, capitania de Pernambuco, por Sua Majestade fidelíssima, 
+que Deus Guarde, etc. Fiz trasladar do próprio com o qual, e com o oficial abaixo assinado, 
+este conferi e concertei. Vai sem coisa que dúvida faça ao próprio me reporte, que tornei a 
+entregar a quem aqui assinou, subscrevi e assinei em público e raso de meus sinais seguintes, 
+aos 4 de janeiro de 1757 anos, ao primeiro dia do mês de [...] 
+ 
+Concertado por mim, tabelião                      
+Felipe Nery Correia 
+Em fé de verdade 
+Felipe Nery Correia 
+- 
+Fim da Transcrição - 
+
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 214v-216. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

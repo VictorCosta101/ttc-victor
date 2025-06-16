@@ -1,0 +1,156 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0078
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0134",
+  "Nome": "João Martins",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "30-01-1749",
+  "Data da concessão": "19-04-1749",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e duas léguas de largura no sertão do rio São Francisco. A terra localizava-se rio acima até a mata do Brejo e tinha por confrontações a fazenda Itaconhomin e o rio Angicuol.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Brejo, Rio Angicuol",
+  "Confrontantes": "Fazenda Itaconhomin",
+  "Justificativas": "Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; As terras eram habitadas pelo gentio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara de Olinda.",
+  "Observações das exigências": "O governador Dom Marcos de Noronha determinou que o suplicante povoasse a terra no tempo de 5 anos. O governador Dom Marcos de Noronha determinou que o suplicante requeresse a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco do Rego Barros",
+  "referencia": "PE0078"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0078
+Carta de doação e sesmaria de João Muniz - 19/04/1749
+Carta de sesmaria que se deu a João Muniz de um sítio de terras no rio de São
+Francisco pelo Rio Grande acima.
+Dom Marcos de Noronha, do Conselho do Sua Majestade, governador e capitão general
+de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação e
+sesmaria virem, que João Muniz me fez a petição seguinte — Ilustríssimo e
+Excelentíssimo Senhor — Diz João Muniz, morador nos sertões do Rio de São
+Francisco, que pelo Rio Grande acima, em distância de cinquenta léguas nas cabeceiras
+do Rio do Angicuol, se acha um sítio de terras devolutas e desaproveitadas, e por ser
+terras de gentios bárbaros e com muitas impossibilidades e riscos para se povoar, o qual
+parte com a Fazenda do Itaconhomin e com a povoação do Brejo do Embaribe, em que
+se mete uma mata virgem no meio, fazendo pião pelo Brejo abaixo e correndo pelo
+riacho acima uma légua de cada banda, que ao todo fazem quatro léguas, o qual sítio
+quer o suplicante por sesmaria para criar os seus gados, povoar e cultivar na forma das
+ordens de Sua Majestade, portanto — Pede a Vossa Excelência seja servido mandar
+passar carta de doação e sesmaria do dito sítio de terras, no lugar e parte confrontada,
+com todas as suas pertenças, vertentes, fontes e logradouros; e receberá mercê -
+Despacho - Informe o provedor da Fazenda Real -. Recife, 30 de janeiro de 1749 —
+Rubrica — Despacho do provedor — Informe o escrivão da Fazenda e com o que disser
+responda o doutor procurador da mesma — Recife, 8 de fevereiro de 1749 — Barros —
+Informação — Senhor provedor da Fazenda Real — Informo a Vossa Mercê, com a
+cópia da ordem de 21 março 1744, na qual dispõe Sua Majestade como se devem dar
+terras de sesmarias e segundo o assento se tomou nesta Provedoria em virtude de outra
+ordem do dito senhor, devem pagar o foro de 4$000 por légua cada ano, sendo terras do
+sertão e das mais chegadas as marinhas, a dar mais de seis mil réis e também deve dar
+fiança o sesmeiro abonada nesta Praça, para segurança dos ditos foros, e registrar a sua
+carta de sesmaria nesta dita Provedoria, por do contrário pode haver prejuízo na
+Fazenda do dito Senhor. — Recife, 9 de fevereiro de 1749 — José Ferreira da Silva —
+Resposta — Senhor provedor da Fazenda Real, não se me oferece dúvida ao
+requerimento do suplicante, deferindo-lhe o Ilustríssimo e Excelentíssimo Senhor
+General, dando o suplicante fiança e pagando o foro que tem determinado Sua
+
+Majestade, tudo na forma das suas reais ordens; Vossa mercê mandará o que for de
+justiça — Recife, 9 de fevereiro de 1749 — Caetano da Silva Pereira — Informação do
+provedor — Ilustríssimo e Excelentíssimo Senhor — Uma das cláusulas com que Sua
+Majestade ultimamente, pela sua real ordem de 21 de março de 1744, ordena se
+concedam as sesmarias e que sejam ouvidas as Câmaras dos sítios a que pertencem as
+ditas terras, e para execução desta ordem deve o suplicante declarar o lugar das terras
+que pretende e o distrito a que Vila toca, para que Vossa Excelência seja servido mandar
+ouvir a Câmara, se as terras que o suplicante expressa estão nos caminhos das minas ou
+a margem de rios caudalosos que necessitem de barca para se atravessar, para que assim
+se possa vir em conhecimento da quantidade de terra que se há de conceder, na
+conformidade da dita ordem e com as mais cláusulas que aponta o escrivão da Fazenda
+em sua informação. Vossa Excelência mandará o que for servido — Recife, 10 de
+fevereiro de 1749 — João do Rego Barros — Despacho — Satisfaça ao que aponta o
+provedor da Fazenda - Recife, 12 de fevereiro de 1749 - Rubrica - Declaração =
+Ilustríssimo e Excelentíssimo Senhor — A terra que de sesmaria o suplicante pretende é
+da jurisdição da cidade de Olinda, da administração da comunidade da povoação da
+barra do Rio Grande do Sul e ficam as ditas terras nas cabeceiras do Brejo, para cima da
+Fazenda dos Capins dos Veados, do rio ao entrar das minas cinco léguas partindo ao
+norte com a fazenda Itaconhomim, e da parte do sul pelo lado do Rio, e do nascente
+com a fazenda do Embarahy, e da parte do poente são matos com muita largura, e não
+pretende nem compreende nesta data o suplicante coisa que dúvida faça contra a ordem
+de Sua Majestade; pede a Vossa Excelência lhe faça mercê mandar passar dita sesmaria;
+e receberá mercê — Despacho — Responda a Câmara de Olinda. Recife, 28 de
+fevereiro de 1749 - Rubrica - Ilustríssimo e Excelentíssimo Senhor — O que podemos
+responder a Vossa Excelência sobre o referido, é que nos falta o verdadeiro
+conhecimento do lugar, por causa da grande distância; Vossa Excelência mandará o que
+for servido — Olinda em Câmara, 12 de março de l749 — Antônio Borges Uchôa —
+Bento Barbosa Cordeiro — Antônio de Almeida Azevedo — Manoel Bezerra Monteiro
+— Despacho — Torne a informar o provedor da Fazenda - Recife, 14 de maio de 1749 -
+Rubrica — Informação — Ilustríssimo e Excelentíssimo Senhor — Como a terra de que
+se trata fica em tal larga distância desta praça, como seja a do Rio de São Francisco do
+Sul, e consta haverem várias devolutas e seja útil para a Fazenda Real, povoarem-se o
+que redunda continuarem-se fazendas de gados em maior extensão de moradores, é
+justo que se dê a sesmaria ao suplicante, pagando o foro cada ano conforme as ordens
+
+de Sua Majestade. Vossa Excelência, porém, mandará o que for servido. Recife, 17 de
+abril de 1749 — Francisco do Rego Barros — E nada mais continha o dito requerimento,
+que sendo-me apresentado ultimamente, lhe mandei passar carta de sesmaria como
+parece ao provedor no mesmo dia, mês e ano de sua resposta, em cujo cumprimento na
+forma do Capítulo 15 do Regimento deste Governo: hei por bem dar de sesmaria ao
+suplicante em nome de Sua Majestade, o sítio de terras contidas em sua petição, no
+lugar e partes confrontadas, com obrigação de pagar o foro que aponta o provedor, a
+qual povoará no prazo de cinco anos com pena de se darem por devolutas, e as possuirá
+ele e seus herdeiros com todas as suas pertenças — matas, águas, fontes, campos,
+testadas, logradouros e mais úteis que nelas se acharem, não sucedendo a elas religiões,
+salvo pagando foro e mais encargos, e assim mesmo será obrigado a dar caminhos livres
+ao Conselho para fontes, pontes e pedreiras e a requerer confirmação no termo de dois
+anos por Sua Majestade, pelo que ordeno aos ministros e pessoas a que tocar, lhe façam
+dar posse na forma do estilo, em firmeza do que lhe mandei passar a presente por mim
+assinada e selada com o sinete de minhas armas, que se registrará na Secretaria deste
+Governo e Provedoria Geral. Manoel Coelho de Souza a fez no Recife de Pernambuco,
+a 19 de abril de 1749 — Dom Marcos de Noronha — .
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 60 - 63.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

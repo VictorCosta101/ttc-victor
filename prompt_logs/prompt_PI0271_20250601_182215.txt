@@ -1,0 +1,155 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0271
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Nunes da Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "05-08-1741",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"ele possuía uma fazenda de gado vacum e cavalar, no sítio chamado o Rodeadouro do Curralinho\".\r\n",
+  "Localidade": "Fazenda O Rodeadouro do Curralinho",
+  "Ribeira": "Tabuleiro",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia obter o título através de carta e data de sesmaria.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0271"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0271
+Carta de concessão a Manuel Nunes da Fonseca - 05/08/1741
+Registro de uma carta de data e sesmaria de 3 léguas de terra de comprido e uma
+de largura no sítio chamado o Rodeadouro do Curralinho a Manuel Nunes da
+Fonseca.
+João de Abreu Castelo Branco. Faço saber aos que esta minha carta de data e sesmaria
+virem, que
+Manuel
+Nunes
+da
+Fonseca,
+morador
+na
+capitania
+do
+Piauí,
+me
+representou que ele possuía uma fazenda de gado vacum e cavalar, no sítio chamado o
+Rodeadouro do Curralinho, até a ribeira do Tabuleiro. E porque da dita fazenda não
+tinha título de propriedade, me pedia que fosse servido conceder-lhe no sítio dela em
+nome de Sua Majestade 3 léguas de terra de comprimento e uma de largura, fazendo
+pião
+aonde
+se
+acha
+a
+casa
+e
+currais,
+correndo
+o comprimento e
+largura para a parte que melhor
+lhe
+convir.
+Ao que atendendo
+e
+a
+resposta
+do provedor-mor da Fazenda Real e ser em utilidade da mesma Fazenda o cultivarem-se
+as terras neste Estado. Hei por bem conceder-lhe, em nome de Sua Majestade, por data e
+sesmaria 3 léguas de terra de comprimento e uma de largura no sítio acima referido e
+confrontado com as condições expressadas nas Reais Ordens. E com a de não fazer
+traspasse por meio algum, em nenhum tempo, a pessoa alguma, religião ou
+comunidade sem primeiro dar parte na Casa da Fazenda ao provedor-mor dela, para me
+fazer presente e ver se se deve ou não consentir no tal traspasse, sob pena de ficar nula
+esta data, e se poder conceder novamente a outrem. E nessa forma se lhe passa
+carta para que o dito Manuel Nunes da Fonseca haja, logre e possua as ditas terras como
+coisa sua própria e todos os seus herdeiros, ascendentes e descendentes, sem pensão
+nem tributo algum mais que o Dízimo a Deus, Nosso Senhor, dos frutos que nela houver
+e lavrar a qual concessão lhe faço, não prejudicando, a terceiro nem a Sua Majestade se
+no dito sítio quiser mandar fundar alguma vila reservando os paus Reais que nelas
+houver para embarcações
+com
+declaração
+que
+mandará
+confirmar
+esta
+carta
+por Sua Majestade dentro dos 3 anos primeiros seguintes. E dará caminhos públicos e
+particulares aonde forem necessários para pontes, fontes, portos e pedreiras; e se
+demarcará ao tempo da posse por rumo de corda e braças craveiras, como é estilo e Sua
+Majestade manda. E outrossim, não sucederão religiões, nem pessoas eclesiásticas por
+nenhum título que seja; e acontecendo possuí-las, será com o encargo de pagar delas
+Dízimo a Deus, como se fossem possuídas por seculares. E faltando a qualquer destas
+cláusulas se haverão as ditas terras por devolutas e se darão a quem as denunciar como
+o dito Senhor ordena.
+Pelo que mando
+ao
+provedor-mor
+da Fazenda Real,
+mais
+ministros e pessoas a que tocar que na forma referida e com as condições expressadas,
+deixem ter e possuir as ditas terras ao dito Manuel Nunes da Fonseca, para ele e todos
+os seus herdeiros ascendentes e descendentes. Cumpram e guardem esta minha carta de
+data tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada, com o sinete de minhas armas, que se registrará aonde tocar, e passou por duas
+vias.
+Dada
+na cidade de São Luís
+do Maranhão aos
+5
+de
+agosto,
+ano
+do nascimento do Nosso Senhor Jesus Cristo de 1741. E eu, José Gonçalves da Fonseca,
+secretário do Estado, a fiz escrever. //João de Abreu Castelo Branco//.
+- Fim da Transcrição -
+Referências:
+APEP, Livro 10, doc. 124, fls. 94 – 94v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

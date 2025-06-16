@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0285
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel da Silva Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "08-06-1663",
+  "Observações da sesmaria": "O suplicante requereu terras localizadas na praia da Vila de Olinda, dos limites da guarita de João de Albuquerque para a parte do norte, até entestar com Manuel da Rocha Vilaça, defronte da porta da Igreja de Nossa Senhora do Carmo. ",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Igreja de Nossa Senhora do Carmo",
+  "Confrontantes": "Manuel da Rocha Vilaça",
+  "Observações da petição": "O suplicante não informou as medidas de largura e comprimento da sesmaria requerida. ",
+  "Justificativas": "Alegou possuir redes de pesca; Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Mandou-se dar posse atual; Mandou-se dar posse corporal; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Simão Alves de La Penha",
+  "referencia": "PE0285"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0285 
+ 
+Carta de concessão de Manuel da Silva Pinto de 08/06/1663 
+ 
+Francisco de Brito Freire do Conselho de Sua Majestade, comendador da Vila de Midões 
+e governador das capitanias de Pernambuco etc. Faço saber aos que esta carta de doação 
+e sesmaria virem, que Manuel da Silva Pinto me representou a petição, cujo teor é o 
+seguinte: Manuel da Silva Pinto, morador na Vila de Olinda, que a ele lhe foi dado pela 
+Câmara da dita Vila um pedaço de praia que corre da guarita de João de Albuquerque 
+para a parte do norte, até entestar com Manuel da Rocha Vilaça, defronte da porta da 
+Igreja de Nossa Senhora do Carmo, para na dita praia fazer uma pescaria, e assim mais 
+lhe deram uma faixa de terra que corre no mesmo rumo e comprimento da dita praia, das 
+trincheiras para dentro e confrontada pela parte da Vila, com as demarcações dos 
+religiosos de São Bento e do Carmo; em a qual pescaria e terra havia feito ele, suplicante, 
+muitas benfeitorias de oito anos a esta parte, que tantos há que está na posse delas. E por 
+quanto em o ano de 1655 foi Sua Majestade servido ordenar se agregassem a sua Real 
+Coroa estas capitanias, transmutando-as em patrimônio seu, a qual ordem fez dar a 
+execução o mestre de campo, general Francisco Barreto, pelo ouvidor e auditor geral Luís 
+Marques Romano, que com efeito tomou posse delas como procurador da Coroa; 
+portanto, lhe é necessário a ele suplicante, para conservação de sua posse pacífica, que a 
+data da dita terra, praia e pescaria seja de Sua Majestade, como legítimo senhor, ou de 
+vossa senhoria, como sesmeiro seu e governador nestas capitanias, visto estar ele 
+suplicante na posse da dita praia, pescaria e terra, há tantos anos em a qual vive e tem 
+feito as benfeitorias acima referidas, com dispêndio considerável, por serem de sua 
+natureza umas areias salgadas, agrestes e infrutíferas, que com trabalho incomportável as 
+tem reduzido a cultura. E em consideração de que as terras desaproveitadas não são de 
+utilidade alguma ao príncipe ou a república, e entende ele suplicante haver feito serviço 
+a Sua Majestade em as ocupar e cultivar pela parte que toca ao rendimento dos dízimos e 
+aumento da Vila, sem outros serviços que ele, suplicante, tem feito ao dito senhor, assim 
+nas guerras antigas, como também nas próximas, passadas do levantamento contra os 
+holandeses, como parece dos seus papéis que apresenta, e vossa senhoria pode mandar 
+examinar, sendo servido, e os mais serviços que adiante pode fazer: pelo que “Pede a 
+Vossa Senhoria, que havendo respeito ao que alega e para mais corroborar seu direito, lhe 
+faça mercê em nome de Sua Majestade, como sesmeiro seu e governador destas 
+
+capitanias, conceder-lhe de sesmaria a dita terra e praia, assim e da maneira que em sua 
+petição se declara, desde a [guarita] de João de Albuquerque para a parte do norte, até 
+entestar com a demarcação de Manuel da Rocha Vilaça, tanto pela praia das trincheiras 
+para fora, como pela parte de dentro das trincheiras, e dali correndo pela parte da Vila até 
+o caminho de carro que vai para a mesma Vila, e correndo ao longo do dito caminho até 
+entestar com as demarcações e as casas que foram de Paulo Coelho, Lucas de Abreu e 
+Francisco Rodrigues Tavares, de fronte da Igreja do Carmo e dali cortando para a parte 
+do sul, confrontando com as demarcações dos ditos religiosos do Carmo, sempre ao longo 
+da estrada até o caminho que vai para a fundição e do dito caminho correndo o rumo 
+sudoeste, e confrontando com as demarcações dos padres de São Bento até entestar com 
+o rio que vem do Varadouro, e correndo pelo dito rio abaixo até finalmente serrar com a 
+dita guarita, reservando sempre as estradas públicas, e que  sendo-lhe necessário para 
+melhor comodo e uso da dita terra mudar em alguma parte algum caminho, o possa fazer 
+sem contradição alguma, porém, com tal condição que não será em dano ou prejuízo do 
+povo, mas antes fiquem os passageiros melhorados. E receberá mercê.” E vista a 
+informação do provedor da Fazenda Real desta capitania, cujo teor é o seguinte: “Não se 
+me oferece dúvida a sesmaria que o suplicante pede com as cláusulas ordinárias do 
+prejuízo de terceiro. Vossa Senhoria mandará o que for mais serviço de Sua Majestade. 
+Recife, 8 de junho de 1663 anos. “De La Penha.” E outrossim, consta-me o que alega o 
+impetrante, hei por bem e lhe faço mercê em nome de Sua Majestade dar de sesmaria, 
+como pela presente dou ao dito Manuel da Silva Pinto a terra, praia e pescaria, e tudo o 
+mais que pede, assim e da maneira que confronta em sua petição, não prejudicando as 
+datas mais antigas, com todas as suas águas, campos, matos, testadas, logradouros e mais 
+úteis que nela se acharem, tudo forro, livre e isento de foro, pensão ou tributo algum, 
+salvo dízimo a Deus, que pagará dos frutos que nela houver, e será obrigado a dar 
+caminhos livres por elas ao Conselho para fontes, pontes e pedreiras. Pelo que ordeno a 
+todas as justiças e ministros a que o conhecimento desta com direito deva e haja de 
+pertencer, lhe façam dar a posse real, efetiva e atual, na forma costumada, debaixo da 
+cláusula acima referida e as mais da Ordenação Título de Sesmaria. Para firmeza de que 
+lhe mandei passar esta carta de doação e sesmaria, debaixo do meu sinal e selo, a qual se 
+registrará nos livros a que tocar. Dada neste Recife de Pernambuco, em os 8 dias do mês 
+de junho. Francisco Dias da Silva a fez, ano do nascimento de Nosso Senhor Jesus Cristo, 
+de 1663. Manuel Gonçalves Correa a fez escrever. Francisco de Brito Freire. Carta de 
+doação e sesmaria, porque Vossa Senhoria, em nome de Sua Majestade, faz mercê dar a 
+
+Manuel da Silva Pinto as terras, praia e pescaria que pede em sua petição, assim e da 
+maneira que nela confronta pelos respeitos acima declarados”. Para Vossa Senhoria ver. 
+“Estava o selo”. Registre-se. De La Penha. Registrada no primeiro livro dos registros da 
+Secretaria deste Governo de Pernambuco, a que toca as folhas 166. Correa. Fica registrada 
+a carta de sesmaria atrás escrita, a folha 131 do livro quarto dos registros da Fazenda 
+d’ElRei, Nosso Senhor, desta capitania de Pernambuco. Recife, 8 de junho de 1663. 
+Francisco Mesquita. 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 32 - 34. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

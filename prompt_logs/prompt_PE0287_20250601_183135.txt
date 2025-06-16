@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0287
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel da Silva Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "02-03-1665",
+  "Data da concessão": "09-03-1665",
+  "Observações da sesmaria": "O suplicante requereu terras localizadas na praia da Vila de Olinda, dos limites da guarita de João de Albuquerque para a parte do norte, até entestar com Manuel da Rocha Vilaça, defronte da porta da Igreja de Nossa Senhora do Carmo.",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Igreja de Nossa Senhora do Carmo",
+  "Confrontantes": "João de Albuquerque, Manuel da Rocha Vilaça",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante requereu a confirmação da sesmaria que já oucupava e possuía. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0287"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0287 
+ 
+Carta de concessão de Manuel da Silva Pinto de 09/03/1665 
+ 
+Petição “Senhor. Diz Manuel da Silva Pinto que o governador destas capitanias, Francisco 
+de Brito Freire, em nome de Sua Majestade, lhe fez mercê de uma data de terra e praia, 
+em que vive junto a guarita que chamam de João de Albuquerque, a qual data está 
+registrada no livro quarto dos registros da Fazenda Real, a folha 131, e no livro primeiro 
+dos registros da Secretaria deste Governo, a folha 166, e é conforme o traslado autêntico 
+que oferece. E por quanto ele, suplicante, está de posse da dita praia e terra que parece do 
+ato junto, e para mais firmeza de seu direito, lhe é necessário confirmação desta data: 
+Pede a Vossa Senhoria lhe faça mercê~e mandar passar carta de confirmação da dita data 
+e posse, assim e da maneira que nela se contém. E receberá mercê. Despacho. Passe-se-
+lhe carta como pede. Olinda, 2 de março de 1665. Mendonça. 
+Carta de confirmação. Jerônimo de Mendonça Furtado, do Conselho de Sua Majestade, 
+governador das capitanias de Pernambuco e das mais anexas etc. Faço saber ao que esta 
+carta de confirmação de data de sesmaria virem, que Manuel da Silva Pinto me 
+representou a petição acima escrita, como o governador desta capitania, Francisco de 
+Brito Freire, em nome de Sua Majestade, lhe fizera mercê de uma data de terra e praia em 
+que atualmente vive junto a guarita que chamam de João de Albuquerque, da qual estava 
+de posse pedindo-me que para firmeza de seu direito lhe mandasse passar carta de 
+confirmação da dita data e posse, assim e da maneira que nele se contém. O que visto 
+constar do referido e haver Sua Majestade concedido faculdade para dar em seu nome de 
+sesmaria as terras que achassem devolutas: Hei por bem de confirmar e ratificar, como 
+em virtude da presente confirmo e ratifico a dita data de sesmaria de terra, praia e pescaria, 
+e tudo o mais que consta do alvará passado por meu antecessor, para que segundo a posse 
+em que está, a logre, goze e possua com todas suas águas, campos, matos, testadas, 
+logradouros e mais úteis que nele se acharem, tudo forro, livre e isento de foro, pensão 
+ou tributo algum, salvo dízimo a Deus, que pagará dos frutos que ali fizer e será obrigado 
+a dar caminhos livres por elas ao Conselho para fontes, pontes e pedreiras. Pelo que 
+ordeno a todos os ministros de Justiça e Fazenda, e em particular aos que o conhecimento 
+desta com direito deva e haja de pertencer, lhe façam dar seu devido cumprimento e 
+conservar ao dito Manuel da Silva Pinto na posse real e efetiva, em que atualmente está, 
+que para firmeza de tudo lhe mandei passar a presente sob meu sinal e selo de minhas 
+
+armas, a qual se registrará nos livros a que tocar. O alferes Francisco Dias da Silva a fez 
+nesta vila de Olinda, capitania de Pernambuco, aos 9 dias do mês de março do ano de 
+1665. Manuel Gonçalves Correa a fez escrever. Jerônimo de Mendonça Furtado. Estava 
+o selo. Carta de confirmação de data de sesmaria, que Vossa Senhoria foi servido mandar 
+passar a Manuel da Silva Pinto da terra, praia e pescaria que Francisco de Brito Freire, 
+governador passado, lhe havia dado em nome de Sua Majestade, na forma e pelos mais 
+respeitos acima declarados. Para Vossa Senhoria ver. Registrada no segundo livro dos 
+registros da Secretaria deste Governo de Pernambuco, a que toca à folha 92. Olinda, 9 de 
+março de 1665. Correa. - Não se continha mais em dito documento que eu, Filipe Nery 
+Correa, tabelião do público judicial e notas da cidade de Olinda, vila do Recife e seus 
+termos, capitania de Pernambuco, por Sua Majestade, que Deus guarde, etc., fiz trasladar 
+bem e fielmente e vai sem coisa que duvida faça, com o qual e com o oficial abaixo 
+assinado, conferi e consertei. Ao próprio me reporto que tornou a entregar ao 
+reverendíssimo padre, pregador geral do convento de São Bento da cidade de Olinda, que 
+aqui assinou. Escrevi e assinei em público e razo de meus sinais seguintes. Aos 3 dias do 
+mês de janeiro de 1766 anos. 
+Ordenado por mim, tabelião. Em fé de verdade. 
+Felipe Nery Correa 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 38 - 39v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

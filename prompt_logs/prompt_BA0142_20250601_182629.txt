@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0142
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Luís de Brito de Almeida",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "23-01-1573",
+  "Observações da sesmaria": "A sesmaria possuía 12 léguas totais, sem serem especificadas as medidas de comprimento e largura e estava localizada seguindo o rio Jaguaripe até encontrar com o rio Peruaçu, fazendo fronteira com as terras de Dom Alvaro da Costa (BA0129) e com as terras de João de Brito de Almeida. ",
+  "Localidade": "Proximidades do rio Jaguaripe com o rio Peruaçu.",
+  "Marcos Geográficos": "Rio Jaguaripe; rio Peruaçu.",
+  "Confrontantes": "Dom Alvaro da Costa; João de Brito de Almeida.",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0142"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro da carta de sesmaria de 12 léguas de terra de Luís de Brito governador que foi destas 
+partes. 
+ 
+Saibam quantos este instrumento de carta de sesmaria virem que no ano do nascimento de nosso 
+Senhor Jesus Cristo de 1577 anos nos 4 dias do mês de abril na povoação de pereira na vila 
+velha nas pousadas do senhor Luís de Brito de Almeida, do conselho de El-Rei, Nosso Senhor, 
+capitão da cidade do Salvador e governador do Estado do Brasil etc. Estando ele aí por ele foi 
+dado a mim, escrivão, uma carta e provisão de El-Rei, Nosso Senhor, por que lhe fazia mercê 
+de umas 12 léguas de terra nestas partes a qual provisão e doação o traslado dela é o seguinte: 
+Dom Sebastião, por graça de Deus Rei de Portugal e dos Algarves daquém, e dalém mar em 
+África senhor da Guiné  e da conquista, navegação e comércio da Etiópia, Arábia, Pérsia e da 
+Índia. Faço saber aos que esta minha carta virem que havendo respeito aos serviços que me tem 
+feito Luiz de Brito de Almeida, do meu conselho e aos que espero que me faça nas partes do 
+Brasil, onde ora o envio por governador delas e por folha fazer como de feito faço por esta 
+presente carta mercê e doação de 12 léguas de terra nas ditas partes do Brasil ao longo da costa 
+dela onde as ele Luís de Brito nomear e declarar que as quer assim e da maneira que as tem os 
+capitães das capitanias das ditas partes, e isto não sendo terras, que tenha feito mercê a outra 
+alguma pessoa a qual mercê lhe faço deste dia para todo sempre para ele e seus filhos, herdeiros 
+e sucessores. Notifico assim ao provedor-mor de minha Fazenda das partes do Brasil e lhe 
+mando que na parte e lograr de onde o dito Luiz de Brito declarar que quer as ditas 12 léguas 
+de terra ao longo da costa lhe dê a posse delas e lhes deixe ter e aproveitar, lograr, possuir e 
+haver frutos, rendas e rendimentos delas a ele, seus filhos, herdeiros e sucessores da qual posse 
+fará auto assinado por ele em que declarará a parte onde o dito Luís de Brito quer as ditas 12 
+léguas de terra com todas as confrontações no livro dos registros em que se as semelhantes 
+cartas costuma registrar para a todo tempo se saber como lhe tenho feito mercê; e por firmeza 
+de tudo lhe mandei dar esta minha carta por mim assinada e selada com meu selo pendente. 
+Dada nesta cidade de Évora aos 23 dias do mês de janeiro // Simão Pinheiro // a fez, ano de 
+nascimento de nosso Senhor Jesus Cristo de 1573 anos e eu // Gabriel de Moura // a fiz escrever: 
+e o dito Luís de Brito será obrigado a aproveitar as ditas terras no tempo e pela maneira que o 
+são as outras pessoas a que se dão terras nas ditas partes; e não o fazendo assim esta mercê não 
+haverá efeito // El-Rei // Dom Martinho //. Carta por que Vossa Alteza há por bem fazer mercê 
+e doação a Luís de Brito de Almeida de Vosso Conselho que Vossa Alteza manda, digo, envia 
+por governador as partes do Brasil de 12 léguas de terra nas ditas partes ao longo da costa onda 
+as ele nomear e declarar que as quer, assim e da maneira que as tem os capitães da capitanias 
+das ditas partes, e isto não sendo terras de que Vossa Alteza tenha feito mercê a outra alguma 
+pessoa a qual mercê lhe fez para ele, seus filhos e sucessores e isto havendo respeito a seus 
+serviços e aos que Vossa Alteza espera que fará nas ditas partes do Brasil // Dom Martinho 
+Pereira //. Fica assentado, pagou 200 Reis // Gabriel de Moura // Registrado na chancelaria // 
+Pedro de Oliveira // a folhas 1689. Pagou 3260 reis e aos oficiais 2310 reis // Pedro Fernandes 
+// Simão Gonçalves Preto //. E logo pelo dito senhor governador Luís de Brito de Almeida foi 
+dito a mim, escrivão, que conforme e por virtude da provisão e doação de Sua Alteza acima e 
+atrás escrita ele tomava as ditas 12 léguas de terra de que nela lhe fazia mercê nas cabeceiras 
+de Dom Álvaro da Costa, digo, Álvaro as suas 12 léguas de terra que tem do mar para o sertão 
+e o cabo delas tomava por marco o rio de Jaguaripe e assim irá correndo pelas cabeceiras do 
+dito Dom Álvaro até o rio de Peruaçu; e do Rio de Peruaçu correrá para cima da terra que tem 
+dada a João de Brito de Almeida, seu filho, até o rio de Sergipe onde ele acabar e se até a dita 
+
+terra não houver as ditas 12 léguas irá correndo pelo mesmo rumo para o norte até se encher 
+das ditas 12 léguas e para o sertão irá correndo a dita dada de 12 léguas até se acabar a dita dada 
+conforme da dita provisão e doação de El-Rei, nosso Senhor, que eu, escrivão, trasladei aqui de 
+verbo ad verbum o que aprecia ser subscrita por Gabriel de Moura, escrivão da Fazenda de Sua 
+Alteza, segundo o seu sinal parecia nos 23 dias do mês de janeiro de 1573 anos e passada pela 
+chancelaria por virtude de qual o dito senhor governador tomou as ditas 12 léguas de terra na 
+dita parte conforme a dita doação com as ribeiras e águas que nelas houver e pelas 
+confrontações, rumos acima declarados e Sua Alteza irá conceder conforme a sua doação. 
+ 
+ 
+Referências: 
+DHBN, Vol. 14. Pg. 450 - 453 
+Numeração original no livro: 11 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

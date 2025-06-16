@@ -1,0 +1,83 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0026
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Sesmeiro não identificado 1",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Observações da sesmaria": "Devido a ausência de folhas no documento, não foi possível observar o nome original do sesmeiro, nem a data de concessão. ",
+  "Observações da petição": "O documento está incompleto. \r\n",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento está incompleto. ",
+  "Observações das exigências": "O documento está incompleto. ",
+  "referencia": "RJ0026"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0026 
+ 
+Carta de concessão de sesmaria de [sesmeiro não identificado] de [não identificado] 
+ 
+ 
+Final de carta de sesmaria.  
+marias e tabelião das notas por El Rei nosso Senhor em esta sua cidade de São Sebastião, e seus 
+termos que este instrumento de carta de sesmaria escrevi, e tomei nos meus livros das notas e 
+tombo das cartas das sesmarias, desta dita cidade, que em meu poder ficam, onde o dito 
+instrumento fica assinado pelo dito Senhor capitão e governador com a entrelinha que diz “o 
+mesmo que não faça dúvida” //Salvador Correia de Sá// 
+ 
+ 
+-fim da transcrição-  
+ 
+Observações do documento:  
+Devido a ausência de folhas no documento, não foi possível observar o nome original do 
+sesmeiro, nem a data de concessão.  
+  
+Referências:   
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. p. 115.  
+Original do livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79) 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

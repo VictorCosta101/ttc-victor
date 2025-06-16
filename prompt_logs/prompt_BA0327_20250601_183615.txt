@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0327
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Andrade",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "20-02-1699",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma légua de largura e estava localizada no rio Jaguari, onde chamavam de rio Caravelas, fazendo fronteira com as terras de Sebastião Álvares de Carvalho. Essa sesmaria foi originalmente retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, no entanto, posteriormente, foi encontrada a versão completa dela no códice 427 do Arquivo Nacional e os seus dados foram complementados.",
+  "Localidade": "Rio Jaguari ou rio Caravelas",
+  "Marcos Geográficos": "Rio Jaguari ou rio Caravelas",
+  "Confrontantes": "Sebastião Álvares de Carvalho",
+  "Justificativas": "As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Deve-se reservar madeira para construção de embarcações; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que as terras estavam desaproveitadas por falta de moradores. Alegou que pretendia produzir farinha.\r\n",
+  "Observações do deferimento e da concessão": "O procurador da Coroa e Fazenda foi de parecer favorável, alegando que as terras estavam incultas e que seria proveitoso para a Coroa que alguém as cultivassem. O provedor da Fazenda Real também foi de parecer favorável, concordando com o parecer do procurador, adicionando algumas exigências que serão colocadas no devido campo de registro. A solicitação da sesmaria foi feita por dois sesmeiros diferentes, no entanto, o governador decidiu conceder a sesmaria de forma separada, criando o registro de uma sesmaria diferente para cada sesmeiro.\r\n",
+  "Observações das exigências": "Determinou-se que o suplicante não poderia alhear-se das terras antes de as ter aproveitado. \r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "Nome do provedor": "Francisco Lamberto",
+  "referencia": "BA0327"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA 0327 
+Carta de Concessão a Antônio de Andrade de 20/02/1699 
+Dom João de Lencastre, do Conselho de Sua Majestade, que Deus guarde. Faço saber aos 
+que este alvará de doação e sesmaria virem que Antônio Marinho Bacelar e Antônio de 
+Andrade me enviaram a apresentar a petição, cujo teor é o seguinte: senhor, dizem 
+Antônio Marinho Bacelar e Antônio de Andrade, moradores na terra nova que eles, 
+suplicantes, têm notícia que pelo rio do Jaguari acima, de onde chamam o das Caravelas, 
+estão muitas terras desaproveitadas, falta de moradores que as cultivem, e porque eles, 
+suplicantes, as querem passar para as ditas terras com os seus escravos para plantarem 
+farinha e mais sustentos necessários a respeito das formas que há. Portanto pedem Vossa 
+Senhoria faça mercê conceder a cada um deles 1 légua de terra de largura com 3 para o 
+sertão no dito rio do Jaguari, que começam a correr no fim da data de Sebastião Álvares 
+de Carvalho, ou em outra devoluta, sem prejuízo de terceiro. E receberá mercê. E visto o 
+parecer do doutor procurador da Coroa e Fazenda Real, que é a seguinte: creio seja 
+conveniente darem as terras que estão incultas para que as cultivem pela utilidade que 
+virá a resultar a Fazenda Real, no direito que se há de pagar e na abundância dos frutos 
+para sustento do povo, tenho já dito por muitas vezes, porém deve ter de sorte que não 
+prejudique a terceiro, o que no caso que dentro no termo da lei e não povoarem se puder 
+dar a quem as aproveite, como ter lugar alegação alguma que possa fazer por abrigar 
+demandas sobre terra que lhe não compete por tributo algum, mais que por uma data 
+grosseira. Bahia 13 de fevereiro de 1699. Ravasco. E a informação do provedor-mor da 
+Fazenda Real do mesmo Estado, que é a que se segue: conformo-me com o que parecer 
+ao doutor procurador da Fazenda Real sob cláusulas da lei e demais com as condições de 
+não poderem os suplicantes cortar madeiras algumas que forem de serviço para a fábrica 
+das naus que Vossa Majestade, que Deus o guarde, foi servido mandar estabelecer neste 
+Estado porque este prejuízo é sem comparação de maior consequência do que toda a 
+utilidade que os suplicantes pedem dar ao dízimo dos frutos que plantarem e criações que 
+tiverem, sob pena de perderem as datas com todas as benfeitorias que tiverem e as mais 
+que merecerem, e se deve conceder a cada um por carta particular a que pedem, para 
+assim se cultivarem as ditas que em semelhantes sociedades se tem experimentado. Vossa 
+Senhoria mandará o que mais convier. Bahia, 18 de fevereiro de 1699. Francisco 
+Lamberto. Hei por bem conceder e dar em nome de Sua Majestade, que Deus guarde, ao 
+dito Antônio de Andrade, para ele e seus descendentes 1 légua de terra de largura e três 
+de comprimento na parte em que as pede e confronta em sua petição neste inserta, que 
+começará a correr de onde acabar a de Antônio Marinho Bacelas, não prejudicando a 
+terceiro, com as cláusulas que o provedor-mor da Fazenda Real aponta na sua informação, 
+a qual terra se aproveitará dentro do termo da lei, e as não poderá alhear nem passará a 
+outro algum domínio sem as ter aproveitado, com condição de se darem logo neste caso 
+a outra pessoa, nem o poderá fazer sem expressa ordem de Sua Majestade e com as mais 
+cláusulas contidas na Ordenação do Reino, título de sesmarias e forma do capítulo 26 do 
+regimento novo deste Governo-Geral, as quais terras terá e possuirá com todas as suas 
+águas, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e 
+isento de pensão, salvo o dízimo à Ordem de Cristo, que pagará pelos frutos que delas 
+houver, e por elas serão obrigados a dar caminhos públicos e particulares para fontes, 
+pontes, portos e pedreiras, com declaração que se havendo nas ditas terras alguma aldeia 
+de índios, não fique o dito Antônio de Andrade senhor dela e nem das terras que ocuparem 
+os índios na forma das novas ordens de Sua Majestade. Pelo que ordeno a todos os 
+ministros e oficiais de justiça a que o conhecimento deva ou possa pertencer, lhe façam 
+
+dar e deem posse real, efetiva e atual,  demarcando-se no tempo dela, citados os heréus, 
+que enviarão certidão à Casa dos Contos, de onde se registrará. Para a firmeza do que lhe 
+mandei lavrar a presente sob o sinal e selo de minhas armas, o qual se registrará nos livros 
+da Secretaria do Estado e nas mais a que tocar da Fazenda Real dele e nos do escrivão de 
+sesmarias, se guardará e cumprirá tão pontual e inteiramente como nele se contém, sem 
+dúvida, embargo nem contradição alguma. Dada nesta cidade de Salvador, Bahia de 
+Todos os Santos, aos 20 dias do mês de fevereiro, ano de 1699. Antônio Lopes Savedra 
+a fiz. Gonçalo Ravasco Cavalcante e Albuquerque a fiz escrever. Dom  João de Lencastre. 
+Selo. Alvará de doação e sesmaria pelo qual serviu de Vossa Senhoria Ilustríssima 
+conceder e dar em nome de Sua Majestade, que Deus o guarde, a Antônio de Andrade, 
+para ele e seus descendentes légua de terra de largura e três de comprimento pelo rio do 
+Jaguari que começará de onde acabar a data de Antônio Marinho Bacelar, ou em outra 
+qualquer parte como confronta em sua petição neste inserta, e não prejudicando a terceiro 
+e com as cláusulas que o provedor-mor da Fazenda aponta na sua informação, nem às 
+aldeias e terras dos índios que nelas se acharem nas condições apontadas, e se demarcar 
+e confirmar esta por Sua Majestade, dentro de um ano pelos respeitos acima declarados. 
+Para Vossa Ilustríssima ver. Registrado no livro 5° dos registros da Secretaria do Estado 
+do Brasil, que tocava a folha 126. Bahia, 23 de fevereiro de 1699. Ravasco. Registre-se. 
+Bahia, 27 de fevereiro de 1699. Lamberto. o registrado no dia 28, mês e era. 
+- Fim de Transcrição- 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Antonio Marinho 
+Bacelas” e “Antonio de Andrade”. 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 2, fls. 124v – 125v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

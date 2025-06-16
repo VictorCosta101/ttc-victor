@@ -1,0 +1,139 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0303
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Diogo Vaz",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "09-09-1593",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura nas terras doadas a João Batista (PE 302), no rio Capibaribe, nos limites do Maciape. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Maciape ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter comprado as terras de João Batista e por estarem devolutas o suplicante as requereu para si. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0303"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0303 
+ 
+ 
+Reformação da doação da terra de João Batista feita a Diogo Vaz e data de uns 
+pedaços de terra mais. 
+ 
+Dom Filipe de Moura, capitão e governador, locotenente nesta capitania de 
+Pernambuco da Nova Lusitânia, nesta vila de Olinda, nas partes do Brasil, pelo muito 
+ilutre senhor Jorge de Albuquerque Coelho, capitão e governador desta dita capitania 
+e governança por ElRei, Nosso Senhor etc. Faço saber a quantos esta minha carta de 
+reformação de tempo de uma légua de terra for mostrada e o conhecimento dela com 
+direito pertencer, como a mim me enviou a petição por escrito Diogo Vaz, morador 
+nesta capitania, da qual o traslado dela é o seguinte: Diz Diogo Vaz que João Batista, 
+que Deus haja, houvera nos limites de Maciape, ao longo do rio de Capibaribe, uma 
+légua de terra em quadra que lhe fora dada de sesmaria, para nela  fazer engenho, e 
+por lhe sobrevir a morte e a terra estar de guerra, o não poderá fazer, e depois ele, 
+suplicante, a houve por título de compra e arrematação a dita terra, e dela houvera 
+posse e a povoará e plantará por espaço de tempo, e assim mais outras dádivas que 
+tem, que ele houvera por bons e justos títulos, e porque ele ora queria tornar a povoar 
+as ditas terras e fazer o engenho conforme a obrigação da dada, e que entre as terras  
+que foram de Gonçalo Mendes Leitão e esta data de légua de terra há alguns pedaços 
+de terra que lhe servem para o dito engenho, os quais nunca foram dados e que se o 
+foram, estavam devolutos, sem nenhuma pessoa os aproveitar, nem povoar, me pedia 
+lhe faça merc~ede lhe reformar a dita data de légua de terra, para que lhe corra o 
+tempo da fatura desta reformação e carta em diante, e lhe fizesse mercê de lhe dar os 
+ditos pedaços de terra que se acharem entre as terras que foram de Gonçalo Mendes 
+Leitão, que Deus haja, e esta légua de terra por devolutas com declaração que se 
+demarquem com o rumo das terras do dito Gonçalo Mendes, e sobre elas e que daí se 
+comece uma légua de terra, digo, se comece sua légua de terra e que sobre ela lhe 
+demarquem as mais  dádivas imediatamente, em maneira que fiquem juntas em um 
+rumo e com declaração que se demarque, sem embargo de qualquer dádiva que seja, 
+que lhe não prejudique a sua, pois é de engenho que é obrigado a fazer, de que há de 
+pagar foro, que é em prol das rendas do senhor governador e dos melhores foros que 
+tem, no que receberiam mercê. O que visto por mim, pus na dita petição por meu 
+despacho. Passem carta de reformação ao suplicante, como pede, visto o que alega e 
+
+assim dos pedaços  de terra que pede por devolutas, havendo-os entre pedaços de terra, 
+que pede por devolutos, havendo-os entre a sua data e a que foi de Gonçalo Mendes 
+Leitão, que  Deus haja, onde lhe começaram a demarcar as terras que tem por seus 
+títulos  e não lhes prejudicaram outras dadas que não forem de engenho e lhe correrá o 
+tempo da Ordenação da data desta em diante, dentro do qual cumprirá com a 
+obrigação de povoar e fazer o dito engenho em Olinda, hoje, 9 de setembro de 1593 
+anos. Dom Filipe de Moura. Pela qual hei por bem de dar e confirmar o dito tempo 
+nesta carta contéudo ao dito Diogo Vás e a sua mulher, para que conforme a ela 
+aproveitem e façam o dito engenho na dita terra, no tempo que nesta carta de 
+reformação se contém, e assim lhes hei por dados os pedaços de terra nela conteúdos, 
+assim como nela se contém, para ele, sua mulher, filhos, netos, herdeiros ascendentes 
+e descendentes, e para todas as pessoas que após eles vierem e deles a houverem, para 
+que deles e neles façam o que lhes bem vier, como de coisa sua própria, que já é deste 
+dia para todo o sempre, forros, livres e isentos, sem foro, nem tributo algum, somente 
+dízimo a Deus, do que nos ditos pedaços de terra plantar, digo, lavrar e houver, e 
+porque assim me aprouve lhe mandei passar a presente dada nesta vila de Olinda, sob 
+meu sinal e selos das armas do senhor governador, que ante mim serve aos 5 dias do 
+mês de outubro, Gabriel Damil, escrivão das datas e sesmarias, águas e demarcações 
+de toda esta capitania pelo senhor governador dela, a fez no ano de 1593 anos. Pagou 
+desta e notas nada. Dom Filipe de Moura. Ao selo de réis. João Figueiredo. O qual 
+tralado eu, vicente Gomes da Veiga, cavaleiro fidalgo da Casa de ElRei, Nosso 
+Senhor, e tabelião do público judicial e notas nesta vila de Olinda, capitania de 
+Pernambuco, por Duarte de Albuquerque Coelho, capitão e governador dela por Sua 
+Majestade etc., consertei, subscrevi e assinei aos 30 dias do mês de agosto de 1728 
+anos. Vicente Gomes da Veiga. Consertado por mim, tabelião, Vicente Gomes da 
+Veiga. Não se continha mais em dito documento, que eu, Filipe Nery Correa, tabelião 
+do público judicial e notas da cidade de Olinda, vila do Recife e seus termos, 
+capitania de Pernambuco, por Sua Majestade Fidelíssima, que Deus guarde etc. - Fiz 
+trasladar do próprio, com o qual e com o oficial abaixo assinado, este conferi e 
+consertei, vai sem coisa que dúvida faça, ao próprio me reporto que tornei a entregar a 
+quem aqui  assinou, subscrevi e assinei em público e razão de meus sinais seguintes, 
+aos 4 dias do mês de janeiro de 1766 anos. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 177-179. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

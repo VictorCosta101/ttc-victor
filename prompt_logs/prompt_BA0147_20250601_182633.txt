@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0147
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pedro Velho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "16-10-1635",
+  "Observações da sesmaria": "A sesmaria possuía meia légua no total, não sendo especificadas as medidas de comprimento e largura e estava localizada ao longo do rio Peruaçu. ",
+  "Localidade": "Rio Peruaçu",
+  "Marcos Geográficos": "Rio Peruaçu",
+  "Observações da petição": "A sesmaria foi comprada a Fernão Ribeiro de Sousa como procurador de Dom Duarte da Costa, pois acreditava-se que a terra fazia parte das terras possuídas por este último. No entanto, as terras estavam fora da demarcação das terras de Dom Duarte da Costa, por isso a sesmaria poderia ser anulada. O suplicante solicitou que isso não acontecesse. ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou ter comprado as terras.",
+  "Observações das exigências": "Determinou-se não vender as terras.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0147"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Outra sesmaria do Arcediago Pedro de Moura 
+Saibam quantos este instrumento de data e carta de sesmaria virem que no ano do nascimento 
+de Nosso Senhor Jesus Cristo de 1635 anos aos 16 dias do mês de outubro nesta cidade do 
+Salvador, e pousadas de mim, tabelião e escrivão das sesmarias apareceu presente o reverendo 
+Padre Pedro Velho, Arcediago da Sé desta cidade e por ele me foi dito e requerido lançasse 
+neste meu Livro de Sesmarias uma que lhe estava dada por Diogo Luís de Oliveira, governador 
+e capitão geral em virtude de uma petição que por escrito lhe fez do qual o traslado é o seguinte: 
+o Arcediago Pedro Velho que seu irmão, o padre Filipe da Costa, que Deus tem, comprou a 
+Fernão Ribeiro de Sousa uma sorte de terra ao longo do rio de Peruaçu com meia légua de terra 
+para o sertão depois ele, suplicante, comprou em pregão a mesma terra: e porque a dita terra foi 
+dada de sesmaria ao dito Fernão Ribeiro por um procurador de Dom Duarte da Costa ou de seu 
+irmão Dom Gonçalo da Costa o qual procurador não podia dar a dita terra de sesmaria por ficar 
+fora e distante da capitania do dito Dom Duarte da Costa, e assim foi nula a dita sesmaria que 
+se concedeu ao dito Fernão Ribeiro. Pede a Vossa Senhoria que para se escusarem dúvidas e 
+contendas que podem suceder em algum tempo sobre a dita terra, pede que lhe faça mercê 
+conceder de sesmaria no melhor modo que pode ser a mesma terra em nome de Sua Majestade. 
+E receberá mercê. Na qual petição pôs o dito governador o despacho seguinte: passe carta de 
+sesmaria da terra que o suplicante refere na forma que pede atento o tempo que há que possui 
+e tem povoado. Bahia, 15 de outubro de 1635 anos. O qual despacho está assinado por rubrica 
+do sinal que costuma fazer em semelhantes despachos o sito governador geral: depois que 
+trasladei aqui o capitulo do regimento de El Rei, Nosso Senhor, que estiverem dentro no termo 
+e limite da dita cidade que são 6 léguas para cada parte que não forem dadas a pessoas que as 
+aproveitem e estiverem vagas e devolutas por qualquer via ou modo, que seja podereis dar de 
+sesmaria a pessoas que as aproveitem e vol-as pedirem as quais terras assim dareis livremente 
+sem outro algum foro ou tributo, apenas o dízimo a Ordem de Nosso Senhor Jesus Cristo com 
+as obrigações e condições do foral dado as ditas terras e de minha ordenação, título das 
+sesmarias com condição que tal pessoa ou pessoas residam na povoação da Bahia ou das terras 
+que assim lhe forem dadas ao menos 3 anos e dentro no dito tempo as não possam vender nem 
+alhear, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua 
+possibilidade virdes ou vos parecer que pode aproveitar, e se algumas pessoas a que foram dado 
+terras no dito termo se tiverem perdidas por as não aproveitarem, e vol-as tornarem a pedir vos 
+lhas dareis de novo para aproveitarem com as condições deste capítulo, o qual se trasladará nas 
+cartas das sesmarias com as quais obrigações e condições se concedeu o dito governador, o 
+capitão geral de sesmaria ao suplicante Padre Pedro Velho as terras contidas em seu despacho 
+pelas confrontações dele e da petição aqui trasladada para ele, seus herdeiros, ascendentes e 
+descendentes para todo o sempre com todas as suas entradas, saídas, logradouros, matos, pastos, 
+águas e o mais pertencente as ditas terras para que todo logre e gozem mansa e pacificamente 
+sem prejuízo de terceiro como coisa sua, que já fica sendo por bem deste título pelo qual manda 
+que ele haja posse real, cível e natural contanto que dará por elas caminhos livres para pontes, 
+fontes necessárias ao conselho e fará de maneira que dentro de 3 anos tinha feito proveito nas 
+ditas terras e que o dito governador geral lhes as deu forras e livres sem foro nem tributo algum 
+mais que somente o dízimo a Deus do que nelas colher e desfrutar, e fará registrar esta sesmaria 
+dentro de um ano nos livros da Fazenda de Sua Majestade na forma costumada e para que tudo 
+conste mandou o governador geral fazer esta carta de sesmaria em que assinou da qual mandou 
+dar traslados e copias necessárias para seus títulos e eu, João Borges de Escovar, tabelião 
+público do judicial e notas, escrivão das sesmarias nesta capitania o escrevi . O qual traslado de 
+carta de sesmaria eu, sobredito escrivão, fiz trasladar do livro delas onde a tomei, concernei, 
+
+subscrevi e assinei de meu público sinal, sinete. O qual traslado de sesmaria eu, Pedro de Moura, 
+aqui registrei do próprio a que me reporto que tornei a parte. Bahia, 21 de dezembro de 1635 // 
+Pedro de Moura //. 
+ 
+ 
+Referências: 
+DHBN, vol. 16, Pg. 303 - 306 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

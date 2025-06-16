@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0011
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0019",
+  "Nome": "Damásio Gomes, Eugênio de Esquebel e Chaves, Henrique de Monroe, Jerônimo de Cardenas, João Arias, João da Silva, Manuel de Azambuja, Manuel Lebrian, Paula de Esquebel e Chaves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "11-06-1695",
+  "Data da concessão": "29-08-1695",
+  "Observações da sesmaria": "Os suplicantes requereram a sesmaria no sertão do rio São Francisco, desde os confins do Canindé, nas fronteiras das terras de Domingos Afonso Sertão e Leonor Pereira, da viúva do coronel Francisco Dias Ávila, até os confins da Aldeia Fria, nas terras dos Alongas e Aldeias Ingá, Corera, Eruca, Brigua, Igauli, Acharoy, Cabo de Acharoyo, Paubulu, Locotroleza, Irigua, Lagoas. A leste dos rios Caruburú ate as cabeceiras do Canindé até a serra e rio Faqueja e a oeste das cabeceiras do Canindé até o rio da Prata.",
+  "Localidade": "Rio de São Francisco",
+  "Marcos Geográficos": "Canindé, Aldeia Fria, rio Caruburú, serra Faqueja.",
+  "Confrontantes": "Terras de Domingo Afonso Sertão e Leonor Pereira.",
+  "Observações da petição": "Os suplicantes não especificaram a quantidade de terras requeridas.",
+  "Justificativas": "Era descobridor(a) das terras com sua fazenda; Tinha escravos; Tinha gado; Pretendia domesticar os índios; Solicitou as terras para si e seus herdeiros; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 9,
+  "Observações das Justificativas": "Os suplicantes alegaram que queriam as terras para abrir caminho para o Maranhão e Grão-Pará.",
+  "Observações do deferimento e da concessão": "Os suplicantes não haviam especificado a quantidade de léguas de terras no requerimento, mas o procurador da Coroa Antônio Rodrigues Pereira recomendou a concessão de 32 léguas de comprimento e 32 léguas de largura, de acordo com as Ordenações Filipinas, Livro 4°, título 43.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0011"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0011
+Carta de doação e sesmaria de dom Manoel Lebrian e outros – 29/08/1695
+CARTA DE SESMARIA DE DOM MANOEL LEBRIAN E OUTROS
+Caetano de Melo de Castro, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. Faço saber ao que esta carta de doação e sesmaria
+virem que dom Manoel Lebrian me representou a petição cujo teor é o seguinte e etc. “Senhor
+governador e capitão” Dizem dom Manoel Lebrian, Henrique de Monroy, habitador em o rio de São
+Francisco, o capitão Manoel de Zambuja, habitador nos campos do Curado, freguesia de Santo
+Antônio, Jerônimo de Cardenas, morador na freguesia de Santo Amaro, dona Paula de Esquebel e
+Chaves e dom Eugenio de Esquebel e Chaves, residentes e moradores nos Campos da Cachoeira,
+extramuros da cidade da Bahia, João da Silva, eu capitão Damásio Gomes (espaço em branco
+original) e João Arias, morador em Embassaí extramuros da Bahia, que eles suplicantes tem seus
+gados e tem descoberto terras devolutas nesta capitania com muito dispêndio de suas fazendas e
+risco de suas pessoas, escravos para o cômodo deles, por não ter terras para os acomodar, as quais
+são em os sertão do rio de São Francisco desde os confins de Canindé, cabeceiras do capitão
+Domingos Afonso e de Leonor Pereira do Coronel, digo, viúva do coronel Francisco Dias Ávila,
+fazendo ponto em ditos confins da Aldeia Fria em que se contém terras dos Alongas e as Aldeias
+Ingá, Corera, Eruca, Brigua, Igauli, Acharoy, Cabo de Acharoyo, Paubulu, Locotroleza, Irigua,
+Lagoas, com as mais que ocupam os rios Caruburú, Cucuca e para o oriente fazendo fronte nas
+mesmas cabeceiras do Canindé até a massa da serra Faqueja, passando o rio que toma o nome da
+serra em que se incluem a Aldeia Beodo, com todas as Aldeias de que é cabeça a Aldeia Trinta
+Dedos e os Galegos com as vertentes do Riovirente que rega os campos gerais dita ao pé da serra
+chamada Cianos, que vai buscando o sul e da banda do poente fazendo ponto nas mesmas
+cabeceiras do Canindé até o rio da Prata e suas vertentes que regam ao pé da serra chamada
+Alminarasux em que incluem as Aldeias cuja cabeça é Olinare e os campos gerais até a cordilheira,
+e como as ditas terras estão devolutas e desaproveitadas por nunca serem dadas, nem descobertas,
+estão neste distrito e pertence a datas de sesmarias a Vossa Senhoria, para que pedem a Vossa
+Senhoria lhes queira fazer mercê de conceder-lhes as ditas terras confrontadas de sesmaria para os
+suplicantes e seus descendentes criarem seus gados e reduzir os índios e abrir caminho para o
+Maranhão e Grão-Pará e outras partes, em que se fará serviço a Deus e a Sua Majestade; e sendo
+que em algum tempo fossem dadas, as pedem por devolutas e desaproveitadas; e receberá mercê.
+“Informe o provedor da Fazenda Real, ouvido o procurador da Coroa” Olinda, 11 de julho de 1695.
+“Barros”. Não tenho dúvida a que se concedam aos suplicantes em uma das partes que se
+confrontam em sua petição, trinta e duas léguas de terras ordinárias e contínuas por sesmaria, sendo
+a data feita na forma da Ordenação Livro 4.º título 43. Goiana, 19 de julho de 1695. “Pereira”.
+
+Senhor, com a resposta do procurador da Coroa informo a Vossa Senhoria para mandar o que for
+servido. Recife, 26 de julho de 1695. “João do Rego Barros”. E havendo, outrossim, respeito ao que
+Sua Majestade, que Deus guarde, me encomenda no capítulo 15 do regimento deste Governo: hei
+por bem de lhe fazer mercê dar aos suplicantes acima nomeados, como pela presente dou, de
+sesmaria as ditas terras que pedem nos mesmos lugares, partes, testadas que confrontam na sua
+petição, trinta e duas léguas de terras assim e da maneira a que parece ao provedor e procurador da
+Fazenda Real, que povoarão com as ditas criações no termo de cinco anos, aliás se darão por
+devolutas pelo que consta estarem despovoadas, as quais terras possuirão e gozarão os ditos
+suplicantes, eles e seus herdeiros, achando-se devolutas e não prejudicando a terceiro, com todas as
+suas águas, campos, matas, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre
+e isento de tributo, foro ou pensão alguma salvo o dízimo a Deus, e só serão obrigados a dar pelas
+ditas terras caminhos livres ao Conselho para fontes, pontes ou pedreiras: pelo que ordeno a todos
+os ministros da Fazenda e Justiça destas capitanias ou aos que o conhecimento desta carta pertencer,
+lhe façam a dar posse real, efetiva e atual na forma costumada e debaixo das cláusulas referidas e
+das mais da ordenação título das sesmarias; para a firmeza de tudo lhe mandei passar a presente por
+mim assinada e selada com o sinete das minha armas, a qual se registrará nos livros da Secretaria
+destas capitanias e nos da Fazenda Real a que tocar. Dada nesta cidade de Olinda, em os 29 do mês
+de agosto, Litardo Ribeiro Moncez a fez, ano de 1695. O secretario Antônio Barboza de Lima a fez
+escrever “Caetano de Mello de Castro”.
+- Fim da carta -
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 46 - 48.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

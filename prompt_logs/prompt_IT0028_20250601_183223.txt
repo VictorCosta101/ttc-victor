@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0028
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Boaventura Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "17-06-1577",
+  "Observações da sesmaria": "O suplicante requereu 5000 braças de comprimento e 2500 braças de largura no Capibaribe-mirim, ribeira de Goiana, capitania de Itamaracá.",
+  "Localidade": "Capibaribe-mirim",
+  "Justificativas": "Participou das guerras contra o gentio; Participou das guerras de conquista; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que havia recebido uma terra a pedido do seu pai, Diogo Dias, mas que havia perdido a posse da terra, bem como os familiares e seu patrimônio, por causa do Massacre de Tracunhaém, orquestrado pelos Potiguares e franceses. Sem dinheiro e com o tempo fora do prazo, requereu novamente a concessão das terras para levantar engenho.",
+  "Observações das exigências": "O capitão locotenente de Itamaracá, Lopo Delgado, determinou que o suplicante deveria pagar 3% do valor da produção de açúcar dos engenhos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0028"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0028 
+ 
+Lopo Delgado, capitão e alcaide-mor nesta vila de Nossa Senhora da Conceição, ilha e 
+capitania de Itamaracá, partes do Brasil, pela senhora dona Jerônima de Albuquerque e Sousa, 
+capitoa e governadora dela por ElRei, Nosso Senhor, que Deus guarde etc. Faço saber a quantos 
+esta minha carta virem e dela o conhecimento com direito pertencer, que a mim me enviou a 
+dizer por sua petição Boaventura Dias, filho de Diogo Dias, que vindo o doutor Antunes com 
+alçada, dera e confirmara ao dito seu pai na vargem do norte do Capibaribe mirim, 5000 braças 
+de terras com alagoas e ribeiras de Goiana, nomeadamente para nela fazer os engenhos que 
+pudesse, conforme dois por cento dos açúcares para o capitão e senhores; e para a qual terra o 
+dito seu pai se passara da capitania de Pernambuco, onde morava com mais de 600 pessoas da 
+terra, machos e fêmeas, pondo por obra a fazer o dito engenho, plantando canaviais e tirando 
+levadas e as madeiras necessárias, despendendo e gastando sua fazenda em fazer fortalezas em 
+defesa da capitania contra o gentio Pitaguar, de quem era fronteiro, sustentando gente, pagando-
+lhe soldo e gastando muito em artilharia, pólvora e munições necessárias contra o dito gentio, 
+e estando assim viera sobre ele muitas vezes o gentio Pitaguar, e sempre nos dois conflitos 
+sustentará à sua custa de todo o necessário a gente que o ia socorrer, até que por fim se juntara 
+o gentio do mar e da terra com ajuda dos franceses, e o vieram cometer e mataram a ele, dito 
+seu pai, e a um irmão seu, duas filhas e um filho, cunhados e um genro, três netos e outros 
+muitos homens brancos, mamelucos e muita cópia de escravatura, levando-lhe sua fazenda, 
+matando-lhe cavalos e éguas, e somente ele escapara vivo e um seu irmão menor por nome 
+Pedro, que estava no Reino de Portugal, entre os quais a justiça fizera partilhas; e pelo muito 
+perigo e aperto em que a terra estava, somente se lhe dera posse de 1250 braças da dita terra, 
+para acabar o engenho que o dito seu pai tinha principiado, encabeçando nele com o mesmo 
+foro que a carta em nome de ElRei tinha limitado naquela terra, e depois se fora meter nela, 
+ratificando as ditas fortalezas para acabar o dito engenho, do qual por se não atrever só a sofrer 
+o ímpeto do gentio, dera a metade a Miguel de Barros, morador na capitania  de Pernambuco, 
+para lho vir ajudar a fazer, como viera, e estando ambos na defensão da terra, fabricando dito 
+engenho com muitas despesas e empenhos, pelos grandes gastos que faziam de contínua guerra 
+que tinham com o gentio, sós, sem outra ajuda e nem favor e socorro de pessoa alguma, viera 
+sobre eles tanto ímpeto de gentios, que depois de os ter recolhidos e metidos em uma fortaleza 
+de taipa de picum, por conselho e ardil dos franceses que consigo traziam, lhe puseram fogo 
+aonde queimaram o dito Miguel de Barros, com suas irmãs e mulher, sobrinhas e sobrinhos 
+que com eles estavam, matando muitos cavalos e éguas, e muitos homens brancos, e levando-
+lhes suas fazendas e vendo-se ele, dito Ventura Dias, empenhado e endividado, pobre e 
+desbaratado, forçado na necessidade e apartado das pessoas a quem devia, lhes fora necessário 
+vender a metade das ditas terras em que entrava o sítio aonde o dito engenho estava, 
+principiando a um Francisco Mendes, vizinho, morador na vila de Olinda, e pedindo-me 
+outorga da dita venda para obrigação do foro, segundo o direito, lhe não quisera dar, dizendo 
+ter perdido as ditas datas, segundo a ordenação pela companhia que fizera com Miguel de 
+Barros de meio engenho, por cuja causa se não efetuara a venda, porque eles estavam 
+empenhados e disparatados e não tinham com que pagar as dívidas que fizeram na defensão 
+das ditas terras, pedem com o que respeitando as ditas coisas, necessidades e despesas que 
+tinham feitas em metade das ditas terras, por serem suas e as ter povoadas e cultivadas em 
+
+parte, lhe conceda licença a podê-las vender a quem bem lhe pagar ou lhe desse a reformação 
+de novo, qual melhor lhe estiver, dando-lhe a sua metade de 2500 braças de testada e 5000 de 
+comprido, na parte aonde o dito engenho estava, principiando com levadas para regadas, no 
+que em tudo lhes fazia mercê, segundo que tudo isto e mais cumpridamente na dita petição era 
+conteúdo, e se continha ser como apresentada e vista por mim, pus por meu despacho, havendo 
+respeito a tudo nesta petição contida, e ter disso informação. Eu, em nome da senhora dona 
+Jerônima de Albuquerque, que hei por bem de dar ao suplicante Ventura Dias, filho de Diogo 
+Dias, que faleceu na defensão das terras contidas na petição, as quais terras que seu pai tinha 
+na várzea do norte de Capibaribe mirim, medindo-se pelo rio, assim e da maneira que estão 
+demarcadas, as que são de uma; e outra metade se fará da mesma maneira que por direito for a 
+renda de Sua Alteza e proveito da senhora; e na metade que ora lhe dou, se meterá a água e 
+ribeira de Goiana e sítio do engenho, que está principiado por Miguel de Barros e o suplicante, 
+e podendo-se com a dita água e ribeira fazer outro engenho; na outra metade que ficas não 
+poderá estorvar, com tanto se não desfaça um por outro, e pagará a dita água e ribeira a dita 
+senhora e a seus herdeiros a três por cento, posto que na carta de seu pai diga a dois por cento, 
+e lhes dou de novo as mais águas que na dita sua sorte houver, e será obrigado a aforá-las tanto 
+que achar, que são para moenda de engenhos. Declaro que três por cento se entenderá de 100 
+arrobas 3, e povoará logo, e havendo-se de vender, como diz em sua petição, as não poderá 
+vender sem primeiro de celebrada a venda, certo fazer as obrigações que é obrigado, e as 
+venderá a pessoa que as possa aproveitar, de que a senhora será satisfeita em seu nome; 
+porquanto, não dei já outorga na venda que tinha feito, por ter na capitania de Pernambuco um 
+engenho e outro começado, e a sua posse não ser tal que pudesse povoar as ditas terras, dando-
+lhe outorga ficava sendo notório dano a capitania e serviço de Sua Alteza, e de sua fazenda, e 
+perda da senhora dona Jerônima de Albuquerque e Sousa. Hoje, 17 de março de 1577 anos. O 
+escrivão lhe passe carta em forma. Lopo Delgado. 
+- Fim da Transcrição - 
+ Referência: Revista do Instituto Histórico de Goiana, 1871, p. 36-39. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

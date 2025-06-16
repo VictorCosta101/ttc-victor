@@ -1,0 +1,110 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0055
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0103",
+  "Nome": "Jacinto Barbosa de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "10-03-1727",
+  "Data da concessão": "13-03-1727",
+  "Observações da sesmaria": "O suplicante requereu 3 léguas de comprimento e 1 légua de largura no riacho dos Tapuias da Roça, descendo o poço do Jatobá, com seus logradouros do Poço Verde e Tabuleiros das Cacimbas, confrontando pelo leste as terras do coronel Garcia de Ávila.",
+  "Localidade": "Riacho dos Tapuias da Roça, poço do Jatobá, Poço Verde e Tabuleiros das Cacimbas.",
+  "Marcos Geográficos": "Riacho dos Tapuias da Roça, poço do Jatobá, Poço Verde e Tabuleiros das Cacimbas.",
+  "Confrontantes": "Coronel Garcia de Ávila.",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Alegou que não prejudicaria a terceiros; Era descobridor(a) das terras; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Mandou-se pagar o dízimo; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter descoberto as terras e ocupá-las há 5 anos.",
+  "Observações do deferimento e da concessão": "A carta de sesmaria não consta as informações referentes ao parecer final da sesmaria, conforme a Documentação Histórica Pernambucana I.",
+  "Observações das exigências": "A carta de sesmaria não consta as informações referentes ao parecer final da sesmaria, conforme a Documentação Histórica Pernambucana I. Determinou-se que se pagasse 4 mil réis de foro por cada légua.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0055"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0055
+Carta de doação e sesmaria do padre licenciado Jacinto Barbosa de Souza - [29/03/1727]
+AO REVERENDÍSSIMO PADRE LICENCIADO JACINTO BARBOSA DE SOUZA, TRÊS
+LÉGUAS DE TERRA NOS CONFINS DA FREGUESIA DE NOSSA SENHORA DA
+CONCEIÇÃO DAS RODELAS.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. – Faço saber aos que esta carta de doação de sesmaria
+virem, que a mim se apresentou a petição cujo teor é o seguinte: Diz o licenciado Jacinto Barbosa
+de Souza, sacerdote do hábito de São Pedro, morador na freguesia de Nossa Senhora da Conceição
+das Rodelas, que ele suplicante tem povoado um sítio de terras de três léguas de comprido e uma de
+largo, que descobriu nos limites da dita freguesia, em o riacho chamado dos Tapuyas da Roça, do
+poço do Jatobá para baixo, com seus logradouros do Poço Verde e Tabuleiros das Cacimbas, a qual
+parte pelo lado do nascente com terras do coronel Garcia de Avila e das mais partes com terras
+baldias e incultas; e haverá cinco anos que as tem povoado com seus gados, sem prejuízo de terceiro:
+Portanto, pede a Vossa Senhoria lhe faça mercê dar em nome de Sua Majestade de sesmarias ditas
+terras, em observância de suas reais ordens, sujeitando-se o suplicante como leal vassalo a todas as
+condições nelas mencionadas. E receberá mercê. = Informe o provedor da Fazenda Real, ouvindo o
+doutor procurador dela - Recife, 10 de março de 1727 - "Rubrica" - Haja vista ao doutor procurador
+da Coroa e Fazenda. Recife, 10 de março de 1727 - "Barros" = Não tenho dúvida, sendo a data na
+forma da Ordenação Livro 4.° título 43, e pagando o foro na forma que se assentou em Junta. Recife,
+12 de março de 1727. = "Pereira" =. Senhor governador e capitão general, pela resposta do doutor
+procurador da Coroa e Fazenda, a quem Vossa Senhoria mandou ouvir, não tenho dúvida como dela
+se mostra, sendo a data na forma da Ordenação Livro 4.° título 43, e pagando o foro na forma que
+se assentou em Junta, ao que me conformo com declaração que das ditas terras se pagará de seus
+frutos dízimo a ordem de Cristo, e não passarão a religiões por nenhum título, e quando suceda será
+com este mesmo encargo, e será o dito foro de 4$ mil réis por légua, e quando sejam as ditas terras
+convenientes para o real serviço será nenhuma esta doação; Vossa Senhoia mandará o que lhe
+parecer mais conveniente. - Recife, 13 de março de 1725 = João do Rego Barros = O que visto e
+atendendo eu a faculdade que Sua Majestade me concede no Capítulo 15 do Regimento deste
+Governo e mais ordens expedidas sobre este particular – Hei p.r bem . . .
+Vide Original fl. 95 v.
+- Fim da carta -
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a
+Em 29 de
+março de 1727.
+Pereira.
+
+carta.
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 311 - 312.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

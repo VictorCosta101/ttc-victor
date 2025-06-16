@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0038
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos Antunes de Sisnero",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "09-12-1673",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas quadradas, sem especificar quantas léguas possuía de largura e comprimento, e estava localizada nas paragens do Paraguaçu, próximo a aldeia que foi dos tupis.",
+  "Localidade": "Paragens do Paraguaçu",
+  "Observações da petição": "Os suplicantes solicitaram três léguas em quadra, sendo uma légua e meia de comprimento e uma e meia de largura para cada um.",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; Serviu a Sua Majestade; Pretendia usufruir dos campos, matas, águas e tudo o que mais existir; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegaram que já tinham feito outro pedido de sesmarias, mas descobriram que as terras solicitadas já estavam dadas. ",
+  "Observações do deferimento e da concessão": "O procurador da Coroa e o provedor da Fazenda afirmaram que deveriam ser concedidas duas léguas em quadra para os suplicantes. O governador-geral decidiu conceder duas léguas quadradas, sem especificar o tamanho da largura e do comprimento, apenas a um dos suplicantes, Domingos Antunes de Sisnero.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0038"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de sesmaria de 2 léguas de terra de medida ordinária concedida ao 
+sargento Domingos Antunes de Sisnero. 
+Afonso Furtado de Castro de Rio e Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que o sargento Domingos Antunes de Sisnero e Antônio Lobo me enviaram a 
+representar por sua petição cujo o teor é o seguinte: senhor, o sargento Domingos Antunes de 
+Sisnero e Antônio Lobo, soldados da conquista e assistentes nesta praça, que eles vieram de 
+São Paulo para a conquista, assistiram nessas entradas que se fez o gentio com toda a satisfação 
+e porque eles, suplicantes, fizeram outra petição a vossa senhoria para uma sesmaria, acharam 
+que pediram estava dado, pelo que pedem a vossa senhoria lhes faça mercê de lhes dar em nome 
+de sua Alteza de sesmaria 3 léguas de terra, légua e meia de comprimento a cada um e outro 
+tanto de largura na aldeia que foi dos Topins (Tupis) na paragem que chamam Caaguaçú 
+[paraguaçú], ficando a dita aldeia aonde esteve o dito arraial situado servindo de pião na dita 
+aldeia, e dela para o nascente se inteirará um deles suplicantes, outro para o poente com todos 
+os campos que na dita terra se achar com suas entradas, saídas, serventias, logradouros e mais 
+úteis que nelas se achar. E receberá mercê. Revisto a resposta do procurador da Fazenda Real 
+que é o que se segue. Bem se podem conceder 2 léguas de sesmaria aos suplicantes na forma 
+que pedem sendo moradores nesta praça para os povoarem e cultivarem no termo da lei sem 
+prejuízo de terceiro e sendo lhe já concedido outra sesmaria se lhe mandou dar esta. Bahia, 1 
+de dezembro de 1673 // Rocha // E informação do provedor-mor da Fazenda Real que é o 
+seguinte: senhor, na forma que diz o procurador da Fazenda, se pode fazer aos suplicantes. 
+Vossa senhoria mandará o que for servido. Bahia, 5 de dezembro de 1673 // Antônio Lopes de 
+Ulhôa // Hei por bem de conceder e dar, como pelo presente faço de sesmaria em nome de sua 
+Alteza, ao dito Domingos Antunes de Sisnero, 2 léguas de terra da medida ordinária no lugar 
+que pede: da banda do nascente, ficando a aldeia dos Topins [tupis] servindo de pião, não 
+prejudicando a terceiro nem as terras que se determinou [que] tivessem as povoações que de 
+novo se fizessem para se darem a seus povoadores. E será obrigado a povoá-las no termo da lei 
+e regimento, pois nessa conformidade lhe as concedo com todas as suas águas, matos, campos, 
+testadas, logradouros e tudo de mais útil que nelas se acharem, tudo foro livre e isento de pensão 
+ou tributo algum salvo o dízimo a Deus que pagará dos frutos que nelas houver, e por elas será 
+obrigado a dar caminhos livres ao conselho para pontes, fontes e pedreiras. Pelo que ordeno e 
+mando todos os ministros e justiças a que o conhecimento deste com direito deva ou possa 
+pertencer, lhe façam dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas 
+acima referidas e as mais da ordenação e título de sesmaria. Para firmeza do que lhe mandei 
+passar a presente sob meu sinal e selo de minhas armas o qual se registrará nos livros da 
+secretaria do estado e nos mais o que tocar, se guardará e cumprirá tão pontual e inteiramente 
+como nele se contém sem dúvida, embargo ou contradição alguma // Antônio Garcia // o fez 
+nesta cidade do salvador, Bahia de todos os santos aos 9 dias do mês de dezembro, ano de 1673 
+// Bernardo Vieira Ravasco // a fiz escrever // Afonso Furtado de Castro o Rio de Mendonça. 
+Registrado no segundo livro dos registros da secretaria do estado do Brasil a que toca as folhas 
+8. Bahia, 9 de dezembro de 1673 // Ravasco // Cumpra-se e registre-se como sua Alteza manda. 
+Bahia, 12 de dezembro de 1673 // de Ulhôa // Registrou-se no dito dia, mês e ano e se entregou 
+ao suplicante. // Miguel Pinto de Freitas //. 
+ 
+- Fim da Transcrição - 
+ 
+
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Domingos Antunes de 
+Sisnero” e “Antônio Lobo”. 
+ 
+Referências: 
+AN, Códice, fls. 61 – 62. 
+Numeração original no livro: 56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

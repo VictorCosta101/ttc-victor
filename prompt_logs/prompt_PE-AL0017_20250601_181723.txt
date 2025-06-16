@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0017
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0095",
+  "Nome": "Antônio Vieira do Prado, Duarte Ramos Furtado, Francisco Vieira (PE 1), José da Cunha (PE 1), Simão Vieira Lindo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "06-09-1724",
+  "Data da concessão": "17-09-1724",
+  "Observações da sesmaria": "Os suplicantes requereram terras na região dos Palmares: Simão Vieira Lindo requereu duas léguas de comprimento e duas léguas de largura das fronteiras das terras Antônio Vieira Rodrigues (PE-AL 0006) pelo rio Parangaba; Antônio Vieira do Prado requereu duas léguas de comprimento e duas léguas de largura do rio Calugi até o rio Mundaú; Francisco Vieira requereu uma légua de comprimento e uma légua de largura das fronteiras das terras Antônio Vieira Rodrigues (PE-AL 0006) para o rio Parangaba até o rio Sabauma; José da Cunha requereu duas léguas de comprimento e duas léguas de largura do rio Calogi pelo rio Mundaú; e Duarte Ramos Furtado requereu uma légua de comprimento e uma légua de largura pelo rio Calogi até o rio Mundaú.",
+  "Localidade": "Palmar",
+  "Marcos Geográficos": "Rio Mundaú, Rio Calogi, Rio Parangaba, Rio Sabauma",
+  "Confrontantes": "Antônio Vieira Rodrigues",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Pretendia criar gado; Solicitou pagar somente o dízimo; Solicitou isenção de pagamento de foro régio; Solicitou isenção de pagamento de pensão; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que as sesmarias fossem concedida com as condições do pagamento do dízimo à Ordem de Cristo, de que as terras não fossem possuídas ou passassem a religiosos e ordens religiosas e que seguisse as normas das Ordenações Filipinas, Livro 4, Título 43.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0017"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0017 
+ 
+Carta de doação e sesmaria de Simão Vieira Lindo – 14/09/1724 
+ 
+CARTA DE DOAÇÃO DE SESMARIA, QUE SE PASSOU AO AJUDANTE SIMÃO VIEIRA 
+LINDO, E AOS TREZ ALFERES NELLA NOMEADOS, DE DUAS LEGOAS DK TERRAS 
+NOS PALMARES A CADA UM. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc. - Faço saber aos que esta carta de doação de sesmaria 
+virem que se me representou a petição cujo teor é o seguinte: - Dizem Simão Vieira Lindo, Antonio 
+Vieira do Prado, Francisco Vieira, José da Cunha e Duarte Ramos Furtado, que eles suplicantes 
+vieram da cidade de São Paulo, deixando sua pátria para a conquista dos negros rebeldes da 
+Campanha dos Palmares do terço, de que é mestre de campo Domingos Jorge Velho, e querem tirar 
+as suas datas de terra e sesmarias nas mesmas terras conquistadas dos Palmares, que Sua Majestade 
+foi servido fazer-lhes mercê mandar dar por sesmarias duas léguas de terra em quadro ao alferes e 
+uma légua em quadro aos sargentos, sem foro, nem pensão, mais que o dízimo a Deus, como consta 
+das ordens reais juntas, começando a data de Simão Vieira Lindo, como alferes que foi na conquista 
+das ditas terras, duas léguas em quadro pelas cabeceiras das datas do capitão do mesmo terço, 
+Antônio Vieira Rodrigues, pelo rio do Parangaba acima de uma e outra parte, mais conveniente de 
+as situar com currais de gado de pasto, por estar devoluta para o sertão, e na mesma forma o dito 
+Antônio Vieira do Prado, como alferes, duas léguas em quadro da barra do rio Calugi pelo rio 
+Mandaú abaixo, fazendo o quadro pelo rio Galugi acima, e na mesma forma, Francisco Vieira, 
+como sargento, uma légua em quadro pela testada do dito capitão Antonio Vieira, da barra do 
+Paranoaba para baixo, buscando o salgado e rio Sabauma, na parte que for conveniente de situar, e 
+na mesma forma ao alferes José da Cunha, duas léguas de terra em quadro na barra do rio Galogi 
+para cima pelo rio Mundaú, para o sertão servindo de divisa o mesmo rio Galogi com a dita data do 
+alferes Antônio Vieira, que pega a data do alferes José da Cunha nas cabeceiras, e na mesma forma 
+uma legoa em quadro ao sargento Duarte Ramos Furtado, nas cabeceiras da dita data do alferes José 
+da Cunha, para o sertão pelo rio Mundaú acima e o rio Galogi; portanto, pedem a Vossa Excelência 
+lhes faça mercê conceder e dar as ditas datas em nome de Sua Majestade, que Deus guarde, na 
+forma deduzida em sua petição. E receberá mercê. - Despacho - Inforna o provedor da Fazenda 
+Real, ouvindo ao procurador da Coroa - Olinda, 6 de setembro de 1724 = Rubrica - Haja vista ao 
+doutor procurador da Coroa – "Barros". Tem lugar, a vista das cópias juntas, o requerimento dos 
+suplicantes nas partes que confrontam em sua petição, nem deixando terra em meio -. Recife, 10 de 
+setembro de 1724 - "Pereira". Responde o doutor procurador da Coroa, a quem Vossa Senhoria 
+mandou ouvir, que tem lugar o requerimento dos suplicantes, a vista das cópias juntas, nas partes 
+que confrontam em sua petição, nem deixando terra em meio, com o que me conformo, com 
+
+declaração de cada um dos suplicantes há de ser feita, se tanta terra couber nas confrontações 
+declaradas, nas que se conquistaram dos Palmares e ficarem por conquistar, como Sua Majestade, 
+que Deus guarde, manda; sem se alterar a forma de suas reais ordens e sem ficar terra em meio nos 
+lugares pedidos, como aponta o doutor procurador da Coroa, pelo prejuízo que daí pode resultar aos 
+mais pretendentes, ficando obrigado cada um dos suplicantes a pagar o dízimo a ordem de Cristo, 
+sem mais outro foro nem pensão, e não passará a dita terra a religiões por nenhum título, e quando 
+sucedam será com o mesmo encargo. É este o meu parecer, Vossa Senhoria mandará o que for mais 
+conveniente ao serviço de Sua Majestade, como costuma. Recife, 11 de setembro de 1724 "João do 
+Rego Barros". E atendendo eu a todo referido e as ordens repetidas do dito senhor, e em virtude da 
+faculdade que me concede no capítulo 15 do Regimento deste Governo. Hei por bem de fazer mercê 
+e dar de sesmaria duas léguas de terras em quadro ao ajudante Simão Vieira Lindo, como alferes 
+que foi na conquista dos Palmares e Antônio Vieira do Prado, também como alferes, outras duas 
+léguas de terra em quadro, ao alferes José da Cunha e ao sargento Duarte Ramos Furtado uma légua 
+de terra em quadro, todas segundo uns aos outros, sem ficarem nenhuma devoluta em meios das 
+conquistadas e por conquistar dos Palmares, nos mesmos sítios e lugares confrontados em sua 
+petição, na mesma forma que parece ao provedor e procurador da Fazenda, cuja doação das ditas 
+terras lhes faço em nome de Sua Majestade, sem foro nem pensão alguma mais que de pagar cada 
+um o dízimo a ordem de Cristo, os quais lograrão elas e seus herdeiros, sem dependência alguma, 
+nem passarão a religiosos; e darão por elas estradas livres, caminhos, fontes, pedreiras, pontes e 
+rios; Pelo que ordeno a todos os ministros da fazenda desta jurisdição a quem o conhecimento desta 
+carta pertencer, lhes façam dar a posse real, efetiva e atual, com todos os seus pertences, 
+logradouros e mais úteis que nelas se acharem os sobreditos doados, cabendo a eles datas de terras 
+assim confrontadas nas conquistadas e por conquistar devolutas dos Palmares; que por firmeza de 
+tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual 
+se registrará nos livros da Secretaria deste Governo e nos do foral real a que tocar. Dada nesta 
+cidade de Olinda, em os 14 de setembro – Bento Soares Pereira a fez – ano de 1724 - O secretario 
+Manoel da Silva Rosa a fez escrever. = Dom Manoel Rolim de Moura =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 292 - 295. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

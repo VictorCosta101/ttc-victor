@@ -1,0 +1,77 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0446
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Inácio Teixeira Rangel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "18-04-1731",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e meia légua de largura e estava localizada no rio Jiquiriçá, fazendo fronteira com as terras de Manuel Gonçalves da Cruz e com as de Antônio de Aguiar Barriga(BA0440), próxima ao rio do rio Catomam. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Localidade": "Rio Jiquiricá",
+  "Marcos Geográficos": "Rio Jiquiriçá; rio Catomam.",
+  "Confrontantes": "Manuel Gonçalves da Cruz; Antônio de Aguiar Barriga",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1731, acredita-se que foi o vice-rei, Vasco Fernandes César de Meneses, que concedeu a sesmaria.\r\n",
+  "Observações das exigências": "Não exceder as três léguas; As do Foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "referencia": "BA0446"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Sargento Inácio Teixeira Rangel. – Alvará de 18 de Abril de 1731. – Meia légua de terra 
+de largo e 3 léguas de comprido. – No rio Jiquiriçá, lado do Norte, meia légua de largo, 
+que parte pelo Leste, caminho de Norte a Sul, com terras de Manuel Gonçalves da Cruz, 
+e correndo pelo rio a cima, caminho de Leste a Oeste, finda na boca do rio Catomam, e 
+terras de Antônio de Aguiar Barriga, não excedendo o comprimento a 3 léguas, com todas 
+as águas, campos, pastos e mais logradouros úteis; salvo prejuízo de terceiro. – 
+Condições: As do Floral e mais outras e etc. 
+ 
+Referência: Código 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 
+159. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

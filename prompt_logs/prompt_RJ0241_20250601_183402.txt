@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0241
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Domingos de Brito, Francisco de Oliveira Pais, Manuel Pereira de Pinho, Sebastião Dias da Silva e Caldas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-11-1723",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobras de terras devolutas entre os rios Guapiaçu e Macacu",
+  "Marcos Geográficos": "Riacho do Rabelo",
+  "Ribeira": "Guapiaçu, Macacu",
+  "Confrontantes": "Terras dos religiosos carmelitas, fundo das terras pertencentes à viúva de José de Barcelos e seus herdeiros, fundo das terras dos moradores de Macacu e de Guapiaçu, testada do engenho que parte com Bento Pereira Borges",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0241"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0241
+Carta de concessão de Francisco de Oliveira Pais, Manoel Pereira de Pinho, Domingos de
+Brito Sá e Sebastião Dias da Silva e Caldas de 9 de novembro de 1723
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representarem-me por
+petição Francisco de Oliveira Pais, Manoel Pereira de Pinho, Domingos de Brito Sá e
+Sebastião Dias da Silva e Caldas, moradores na vila de Santo Antônio, que eles tem notícia
+que entre os moradores do Rio de Guapiaçu e os moradores do Rio de Macacu há uns sobejos
+de terras que estão por devolutas, cujas as braças não se sabe quais começam e onde chegam;
+e acabam os religiosos de Nossa Senhora do Carmo com 1 légua de sertão na data onde tem
+seu engenho de fazer açúcar e faz no dito sertão para o Riacho do Rabelo; da parte do Rio de
+Macacu começa onde acaba o sertão das terras que foram de José de Barcelos e hoje possui
+sua mulher e herdeiros, e fazem também o sertão para o mesmo riacho do Rabelo. Os quais
+sobejos assim confrontados e fazendo testada onde acabam os sertões das terras dos ditos
+religiosos e mais moradores do Guapiaçu, que tem suas datas e sertões para onde acabam e
+chegam os sertões das terras dos moradores do dito Rio de Macacu, começando do princípio
+da data dos religiosos que está o engenho que parte com Bento Pereira Borges e do princípio
+da data que foi do dito José de Barcelos que parte com quem direito for ou no sertão das terras
+com quem melhor conferir, atravessam as terras dos ditos religiosos onde está o engenho indo
+testada e sertão buscando a serra por um lado até topar com ela inabitável. Pedindo-me lhes
+fizesse mercê dar por sesmaria os ditos sobejos assim confrontados na parte declarada para os
+povoarem e cultivarem, por se acharem com bastantes escravos para o fazerem, de que se
+segue aumento aos dízimos reais. Dando-se vista de seu requerimento ao provedor da Fazenda
+Real e ao procurador da Coroa, não se lhes ofereceu dúvida. Hei por bem fazer mercê, em
+nome de Sua Majestade, que Deus guarde, de dar por sesmaria aos ditos Francisco de Oliveira
+Pais, Manoel Pereira de Pinho, Domingos de Brito Sá e Sebastião Dias da Silva e Caldas, os
+ditos sobejos de terras, não excedendo cada um 1 légua em quadra, na forma das ordens do
+mesmo Senhor. Sem prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas,
+com declaração também que as cultivarão e mandarão confirmar esta minha carta por Sua
+Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo.
+
+Pelo que mando ao ministro ou oficial de justiça a que o conhecimento desta pertencer, dê
+posse dos ditos sobejos de terras aos ditos Francisco de Oliveira Pais, Manoel Pereira de
+Pinho, Domingos de Brito Sá e Sebastião Dias da Silva e Caldas, como na forma acima
+declarada e confrontada. Por firmeza de tudo lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se cumprirá como nela se contém e se registrará nos
+livros da Secretaria de governo e nas mais partes a que tocar. Dada nesta cidade de São
+Sebastião do Rio de Janeiro aos 29 do mês de novembro de 1723. João Paes de Paredes a fez.
+//O secretário, José Ferreira da Fonte, a fez escrever//
+//Aires de Saldanha de Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a Francisco de Oliveira Pais, Manoel
+Pereira de Pinho, Domingos de Brito Sá e Sebastião Dias da Silva e Caldas, de lhes dar por
+sesmaria, em nome de Sua Majestade que Deus guarde, (ilegível) sobejos de terras na forma
+acima declarada e confrontadas.
+Para Vossa Senhoria ver.
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Francisco de Oliveira Paes e outros umas terras, com as confrontações na mesma carta
+indicadas. Rio de Janeiro, 9 de novembro de 1723.
+“Francisco de Oliveira Paes” foi atualizado para “Francisco de Oliveira Pais;
+“Domingos de Brito de Saá” foi atualizada para “Domingos de Brito Sá”.
+Referência:
+AHU_ACL_CU_017-01,Cx. 22, D. 4895.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

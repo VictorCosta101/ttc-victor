@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0107
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pedro Barroso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-08-1623",
+  "Observações da sesmaria": "O sesmeiro requereu 3000 braças de comprimento e 3000 braças de largura no rio Guaitá. ",
+  "Localidade": "Rio Guaitá",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0107"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE-AL 0107 
+ 
+Data de Mathias de Albuquerque a Pero Barroso de três mil braças de terra no Guaytá. 
+ 
+Petição. Diz Pero Barroso que ele é morador da ribeira do tio Guaytâ, limite desta capitania, 
+onde reside há mais de três anos, povoando com muito trabalho e perda de sua fazenda, por ser 
+no lugar e paragem muito combatida, e infestada de negros de mato levantados e porque as 
+ditas terras estão devolutas, desaproveitadas em matos maninhos, e ele suplicante não tem delas 
+título [até] o presente, senão de povoador. Pede a vossa senhoria lhe faça mercê dar na dita 
+ribeira do Guaytá, nos limites, onde ele suplicante mora, três mil braças de terra em quadra de 
+sesmaria; ou devoluta e no melhor modo que em direito haja lugar, no que receberá mercê. 
+Despacho. Passe carta de data de três mil braças de terra em quadra ao duplicante no lugar, e 
+parte que confronta, não prejudicando a terceiro, de sesmaria, ou devoluta, Olinda, aos 15 de 
+agosto de 1623. Mathias de Albuquerque. Sesmaria. Mathias de Albuquerque, capitão mor e 
+governador desta capitania de Pernambuco por El Rei nosso senhor em ausência do proprietário 
+o senhor Duarte de Albuquerque, meu irmão etc. Faço saber aos que esta minha carta foi 
+mostrada e o conhecimento dela com direito pertencer que Pero Barroso me fez a petição atras 
+escrita, a qual vista, e o que nela alega, e por desejar de lhe fazer mercê hei por bem lhe dar ao 
+dito Pero Barroso em nome do senhor Duarte de Albuquerque cujos poderes tenho, 3000 mil 
+braças de terra em quadra na ribeira do rio Guaytá, limites onde ele suplicante vive, de 
+sesmaria, ou devoluta como em sua petição pede onde não for dada, nem prejudicar a terceiro, 
+as quais três mil braças de terra em quadra dou, e concedo ao dito Pero Barroso com todas as 
+águas, pastos, e madeiras que nela houver e as possuirá ele e seus herdeiros, e descendentes de 
+hoje para sempre, sem dúvida, nem contradição de pessoa alguma, e da posse se fará termo nas 
+costas desta minha carta, que se registrará nos livros das datas, e sesmarias desta capitania, e 
+se cumprirá sem dúvida, nem embargos algum, como nela se contém. Dada em Olinda sob meu 
+sinal, e sinete de minhas armas. Perto Teixeira Franco a fez em 15 de agosto, ano do nascimento 
+de nosso Senhor Jesus Cristo de 1623. E as entrelinha diz ou devoluta. Mathias de Albuquerque. 
+Lugar do Selo. Carta de data de três mil braças de terra em quadra a Pero Barroso, em nome 
+do senhor Duarte de Albuquerque, no lugar que nela se confronta. Cumpra-se, registre-se. 
+Gregório da Silva de Almeida. Fica registrada no livro das datas número 20, as folhas 118 por 
+mim Brás Vicente escrivão delas a 29 de agosto de 1623. Brás Vicente 
+Ato de posse. Saibam quantos este instrumento de posse virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1623 anos, aos 04 dias do mês de novembro do dito ano no tio 
+Guaytá, termo da vila de Olinda, nas pousadas em que mora Pero Barroso, estando ele ali 
+presente, por ele foi apresentada a mim tabelião a carta de sesmaria atrás, e me requereu que… 
+de ele estar de posse, e ter povoado as terras… e tem casas de telha, e outras de palha… roças… 
+e pacovãs, abacaxis, e árvores de espinhos, e… seis anos que a possuía e hora para que a dita 
+posse ficasse mais firme, e valiosa, me requeria na forma da dita carta lhe desse, a qual vista 
+por mim, e lida presentes testemunhas ao diante nomeadas, eu escrivão lhe dei a data posse 
+real, atual, cível, e corporal, todo pacificamente sem contradição de pessoa alguma, passeando 
+pelas casas deste modo, tomando telhas, fechando, e [desfeixando] as portas e andando pela 
+dita fazenda tomando ramos, e terra e fazendo todas as mais solenidades requisitadas, e 
+necessárias a dita posse, que desta maneira lhe dei, e houve por dada, e nela o deixei investido, 
+
+ 
+e incorporado, e de tudo fiz este instrumento que ele assinou com as testemunhas presentes. 
+Diogo Martins Couto, e João Jorge, e o reverendo padre frei Anselmo da ordem de São Bento, 
+que aqui com ele assinaram, o qual instrumento de posse eu Domingos de Alvarenga tabelião 
+público, e judicial na dita vila de Olinda capitania de Pernambuco por Duarte de Albuquerque 
+Coelho governador e capitão mor em ela por sua Majestade, fiz e assinei para certeza de tudo 
+do meu público sinal que tal é. Estava o sinal público. Frei Anselmo da Trindade. Pero Barroso. 
+João Jorge. Diogo Martins Couto. E não continha mais a dita carta de data, e ato de posse dela, 
+que eu Diogo Rodrigues Pereira, tabelião público do judicial, e notas desta cidade de Olinda e 
+seu termo, capitania de Pernambuco por sua Alteza, que Deus guarde, fiz trasladar dos próprios 
+originais, que me foram apresentados por parte do reverendo padre frei António Osório, 
+presidente do convento de São Bento desta cidade e tornaram a ficar no dito convento, dos 
+quais originais este traslado lancei aqui, em que assinei, nesta dita cidade de Olinda e concertei 
+comigo aos 04 dias do mês de julho de 1682 anos. Diogo Rodrigues Pereira. Consertado 
+comigo Tabelião. Diogo Rodrigues Pereira. - Não se continha mais em dito documento que eu 
+Filipe Nery Correa tabelião do público judicial e notas da cidade de Olinda, vila do Recife, 
+capitania de Pernambuco e seus termos para sua Majestade fidelíssima. Deus guarde, etc. Fiz 
+trasladar do próprio com o qual e com o oficial abaixo assinado este conferi e consertei vai sem 
+coisa que dúvida faça ao próprio me reporto, que tornei a entregar a quem aqui assinou, 
+subscrevi e assinei em público e razão de meus sinais seguintes aos 04 dias do mês de janeiro 
+de 1766 anos. 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 211. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

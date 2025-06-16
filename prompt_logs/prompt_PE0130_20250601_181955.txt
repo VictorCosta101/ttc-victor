@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0130
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0174",
+  "Nome": "Antônio Martins dos Santos ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "20-10-1783",
+  "Data da concessão": "20-10-1783",
+  "Observações da sesmaria": "O sesmeiro recebeu uma concessão de terras no rio Pirapama, antigamente chamado Arassuagipe, freguesia do Cabo, termo da Vila do Recife, de duas léguas. A terra começou na testada de Lourenço do Vale, correndo pelo rio acima de Pirapama, meia légua para o norte e meia légua para o sul, com uma légua de comprimento continuando pelo mesmo rio acima.",
+  "Localidade": "Rio Piripama, freguesia do Cabo, Vila do Recife.",
+  "Marcos Geográficos": "Rio Piripama, freguesia do Cabo, Vila do Recife.",
+  "Confrontantes": "Lourenço do Vale",
+  "Justificativas": "Pretendia cultivar; Pretendia lavrar; As terras eram devolutas; Pretendia fazer engenho; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou a Carta Régia de 28/09/1700; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, José Cesar de Meneses, determinou o pagamento do foro de três mil réis ao ano. O governador, José Cesar de Meneses, também recomendou que se fizesse a confirmação da sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0130"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0130 
+Carta de doação e sesmaria de Antonio Martins dos Santos - 20/10/1783 
+Antonio Martins dos Santos com meia légua de testadas e uma de fundo no rio 
+Pirapama ou Arassuagipe. 
+José César de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão 
+general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de 
+data de sesmaria virem que Antonio Martins dos Santos me fez um requerimento do teor e 
+maneira seguinte: = Ilustríssimo e Excelentíssimo Senhor = Diz Antonio Martins dos Santos, 
+morador nesta praça, que pelo rio acima do Piripama, antigamente chamado Arassuagipe, 
+freguesia do Cabo, termo desta Vila do Recife, se acham devolutas várias terras que ficaram 
+de outras sesmarias, algumas concedidas por Vossa Excelência, e porque o suplicante quer as 
+cultivar e rotear uma légua das ditas terras, principiando da testada de Lourenço do Vale pelo 
+rio acima de Piripama, meia para o norte e meia para o sul e uma de comprido pelo dito rio 
+acima, para nelas edificar engenho e lavrá-las a seu arbítrio - Pede a Vossa Excelência se 
+digne mandar proceder as diligências do estilo e conceder por sesmaria ao suplicante a dita 
+légua em quadra com todos os seus pertences = E receberá mercê - e sendo por mim visto o 
+seu requerimento, ordenei por despacho meu de 3 de junho do corrente ano de 1783 aos 
+oficiais da Câmara do respectivo distrito, mandassem fixar editais na respectiva freguesia para 
+se saber ao certo estar ou não devoluta a mesma terra e haver ou não terceiro prejudicado, e 
+constando-me por informação dos ditos oficiais que assim o mandaram executar, não haver 
+pessoa alguma que aos ditos editais saísse. Por outro meu despacho da data de 25 de setembro 
+do referido ano mandei ouvir o escrivão da Receita e Despesa e assim mais responder o 
+doutor procurador da Fazenda e Coroa e como todos uniformemente me responderam estar 
+nos termos de se dar ao suplicante a terra pedida por sobras, caso as haja, pagando anualmente 
+o foro de seis mil réis por légua, por ser das que estão mais próximas a Marinha, do que devia 
+dar fiança na Contadoria da Real Fazenda. Ultimamente mandei por despacho de 16 de 
+outubro do sobredito ano que se passasse sesmaria na forma da resposta do escrivão da 
+Receita e Despesa e doutor procurador da Fazenda e Coroa, que declarou dever-se conceder 
+ao suplicante a terra que houver devoluta, principiando esta de onde acabarem as terras que se 
+concederam por sesmaria a João de Aredes, Pedro José de Lacerda, em cumprimento do qual 
+e pela faculdade que Sua Majestade me permite no Capítulo 15 do Regimento deste Governo. 
+Hei por bem dar em nome da dita senhora ao referido Antonio Martins dos Santos de sesmaria 
+
+no rio Pirapama ou Arassuagipe, da parte do norte do mesmo rio meia légua de terra de 
+testada e uma légua de fundo por sobras (caso as haja), principiando estas onde acabam as 
+terras que por sesmaria se concederam a João de Aredes e Pedro José de Lacerda, pagando o 
+foro anual de seis mil réis por légua, visto ser das mais próximas a Marinha, que determina a 
+Real Ordem de 28 de setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus 
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para sempre com 
+todos os seus pertences, matas, campos, rios, águas, testadas, logradouros e mais úteis que ela 
+compreender, não prejudicando a terceiro, e não passará a dita a religiões e pessoas 
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, sendo 
+obrigado a dar ao Conselho caminhos livres para fontes, pontes e pedreiras, e requerer dentro 
+de três anos confirmação, medição e demarcação, povoá-la e cultivá-la na conformidade da 
+Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim se dar por devoluta e 
+novamente ser conferida a quem a requerer, com mais a condição de que nunca se dividirá a 
+dita terra se não por estimação, andando encabeçada em uma só pessoa, como determina a 
+Ordenação do título 4º título 26§23. Pelo que ordeno aos ministros da Fazenda e Justiça e 
+mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria 
+como nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na forma 
+costumada, debaixo das referidas cláusulas e das mais da Ordenação título das sesmarias, 
+visto constar por bilhete que apresentou achar-se dada a fiança do foro anual de três mil réis 
+na Contadoria da Real Fazenda a folha 96 do livro delas. Em firmeza do que lhe mandei 
+passar a presente por mim assinada e selada com o sinete das minhas armas, que se registrará 
+na Secretaria deste Governo e Contadoria da Real Fazenda = Manoel Barbosa da Silva 
+Garcia, oficial maior da Secretaria do Governo, a fez no Recife de Pernambuco, aos 20 dias 
+do mês de outubro, ano do Nascimento de Nosso Senhor Jesus Cristo de 1783 = O secretário 
+do Governo, Manoel de Carvalho Pais de Andrade a fez escrever = José Cesar de Menezes. 
+- Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p. 
+294 - 296. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

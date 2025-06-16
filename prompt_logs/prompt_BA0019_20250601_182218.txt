@@ -1,0 +1,134 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0019
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel Gonçalves de Freitas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "02-11-1673",
+  "Observações da sesmaria": "A sesmaria possuía cinco légua em quadra e estava localizada ao longo do rio Paraguaçu, em lugar chamado de Curralinho.",
+  "Localidade": "Curralinho",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Observações da petição": "O sesmeiro solicitou três porções de terra, sendo duas léguas em quadra em um local chamado de Curralinho, mais duas léguas em quadra em um local chamado Jenipapo e sete léguas em quadra na Pedra Redonda.",
+  "Justificativas": "Era descobridor(a) das terras com sua fazenda; Pretendia cultivar; Tinha escravos; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ter feito três entradas ao sertão da capitania nos conflitos contra os indígenas e assim descobriu as terras que solicitava.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que o suplicante não teria condições de povoar e aproveitar no termo da lei toda a extensão da terra solicitada, por isso indicou que deveria ser concedido apenas cinco léguas em quadra no total. O provedor e o governador-geral concordaram com a indicação feita pelo procurador. ",
+  "Observações das exigências": "O governador-geral determinou que a terra não poderia ser separada.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0019"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de um alvará de sesmaria de 5 léguas de terra da medida ordinária concedida 
+ao sargento-mor Manuel Gonçalves de Freitas. 
+Afonso Furtado de Castro e Rio de Mendonça. Faço saber que este alvará de sesmaria 
+virem que o sargento-mor Manuel Gonçalves de Freitas me enviou a representar por sua 
+petição cujo o teor é o seguinte: senhor, diz o sargento-mor  Manoel Gonçalves de 
+Freitas que ele veio de São Paulo para a conquista do sertão sendo capitão de 30 homens 
+que a sua custa fez, e nas primeiras entradas da conquista foi exercendo e ocupando o 
+mesmo posto de capitão, e sendo vossa senhoria presente aos serviços que fez a sua 
+alteza foi servido e acrescentado no posto de sargento-mor da conquista com o dito posto 
+fez a terceira entrada abrindo entocas com grande valor e muito serviço de sua alteza, 
+como se vê das certidões juntas que de tudo ou ferido o fizera, e porque entre as terras 
+que se conquistaram, que o gentio senhoreava, são 2 léguas em quadra da paragem de 
+onde se chamam Jenipapo, correndo pelo caminho direto para o sertão e, assim, mais 2 
+léguas em quadra de onde chamam curralinho, e a pedra redonda 7 léguas, uma ficando 
+da pedra redonda em meio correndo para paraguassu. Pede [que] a vossa senhoria lhe 
+faça mercê dar de sesmaria as ditas 11 léguas de terra confrontadas pela forma referida, 
+em satisfação de seus serviços, para o suplicante o sitio e cultivar por si, seus escravos 
+e gente. E receberá mercê. E visto a resposta do procurador da Fazenda Real que é o que 
+se segue. O suplicante pede 4 léguas de sesmaria de terra em quadra, cada 2 em sua parte 
+e frente que multiplicadas vem a ser 8, e na pedra redonda 7 e meia. Todas são 15 e meia 
+que não poderá povoar e aproveitar no termo da lei, e as maiores sesmarias que se 
+confirmaram foram somente de 5 léguas, que parece é o que se pode conceder ao 
+suplicante na forma do regimento e sem prejuízo a terceiro e da nova povoação que se 
+manda fazer. Bahia, 3 de outubro de 1673 // Rocha // E informação do provedor-mor da 
+Fazenda Real que é o seguinte: senhor, sou do mesmo parecer que o procurador da coroa 
+e Fazenda [que] se pode conceder estas 5 léguas aos suplicante com as condições de 
+foral e regimento de sua Alteza sem prejuízo de terceiro. Vossa senhoria mandará o que 
+for servido. Bahia, 16 de outubro de 1673 // Antônio Lopes de Ulhôa // Hei por bem lhe 
+conceder, como pelo presente faço, de sesmaria em nome de sua Alteza as 5 léguas de 
+terra que parece ao provedor-mor da Fazenda Real e provedor dela da medida ordinária, 
+mas no lugar que chamam curralinho na forma que em sua petição me pediu [o] 
+impetrante se vê fisicamente e não saltadas, não prejudicando a terceiro nem as terras 
+que se determinou [que] tivesse as povoações que de novo se fizessem para se darem a 
+seus povoadores, pois nesta conformidade a concedo. Será obrigado a povoá-las no 
+termo da lei e regimento com todas as suas águas, matas, testadas, logradouros e mais 
+úteis que nelas se acharem, tudo foro livre e isento de pensão ao tributo a alguém, salvo 
+o dízimo a Deus que pagará dos frutos que delas houver. E por elas será obrigado a dar 
+caminhos livre para pontes, fonte e pedreiras pelo que ordeno e mando a todos os 
+ministros e justiças a que o conhecimento deste com direito deva ou possa pertencer lhes 
+façam dar posse real, efetiva e atual na forma costumada e debaixo das cláusulas acima 
+referidas e as mais da ordenação e título de sesmaria para firmeza do que lhe mandei 
+passar a presente sob meu sinal e selo de minhas armas, o que se registrará nos livros da 
+secretaria do estado e nos mais a que tocar, se [assegurar] e cumprirá tão pontual e 
+inteiramente como nele se contém sem dúvida, embargo ou contradição alguma // 
+Antônio Garcia // a fez nesta cidade do Salvador, Bahia de todos os santos aos 2 dias do 
+mês de novembro de 1674 // Bernardo Vieira Ravasco // a fiz escrever // Afonso Furtado 
+de Castro do Rio de Mendonça // Registrado no primeiro livro dos registros da secretaria 
+
+do estado no Brasil a que toca as folhas 175. Bahia, 2 de novembro de 1673 // Ravasco 
+// Cumpra-se e registre como sua alteza manda. Bahia, 8 de novembro de 1673 // de 
+Ulhôa // Registrou-se no mesmo dia e se entregou ao suplicante // Miguel Pinto de 
+Freitas // 
+ 
+- Fim de Transcrição – 
+ 
+ Observações: 
+- No documento original, o nome do sesmeiro é registrado como: “Manoel Gonçalves 
+de Freitas “. 
+ 
+Referências: 
+            AN, Códice, fls. 36 – 37v. 
+            Numeração original no livro: 39 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

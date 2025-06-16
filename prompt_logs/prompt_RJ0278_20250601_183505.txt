@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0278
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Joaquim Ferreira Varela",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "27-10-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na Serra do Mar",
+  "Marcos Geográficos": "Serra do Mar",
+  "Confrontantes": "Terras de Inácio Dias Velho",
+  "Justificativas": "As terras eram devolutas; Tinha escravos; Tinha cabedal; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante igualmente alegou que a sesmaria deveria lhe ser concedida \"pela utilidade referida comum dos que frequentassem o dito caminho\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado \"a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservado de uma das margens dele a terra que baste para a serventia pública\". Determinou-se também que reservasse os paus reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0278"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0278
+Carta de concessão de Joaquim Ferreira Varela de 27 de outubro de 1751
+Matias Coelho de Souza, coronel de infantaria de um dos regimentos da praça do Rio de
+Janeiro, cujo cargo está o governo dela e suas capitanias.
+Nesta faço saber aos que esta minha carta de sesmarias virem que atendendo a me representar
+por sua petição Joaquim Ferreira Varela, morador nesta cidade, que ele tinha escravos e
+posses para se situar em quaisquer terras que houvessem baldias e para delas pagar dízimos a
+Sua Majestade. E porque nos desvios que se faziam na Serra do Mar se achavam terras
+devolutas que se deviam dar de sesmaria pela utilidade referida comum dos que
+frequentassem o dito caminho, me pedia que fosse servido conceder-lhe meia légua de testada
+por sesmaria no dito caminho com outra meia de fundo para cada parte dela, principiando a
+sua confrontação onde acabava a de Ignacio Dias Velho. Sendo visto o seu requerimento e o
+que sobre ele informou a Câmara desta capitania, a quem senão ofereceu dúvida, nem ao
+provedor da Fazenda Real e provedor da Coroa dela, a quem se deu vista. Hei por bem dar de
+sesmaria, em nome de Sua Majestade e em virtude da ordem do dito Senhor de 15 de junho de
+1711, ao dito Joaquim Ferreira Varela meia légua de terras de testada no dito caminho com
+outra meia de fundo para cada parte dele, com as confrontações acima exprressadas, sem
+prejuízo de terceiro ou do direito que alguma pessoa tenha a elas, com declaração que as
+cultivará e mandará confirmar esta carta por Sua Majestade dentro de 2 anos, e não o fazendo
+se lhe denegará mais tempo, e antes de tomar posse delas as fará medir e demarcar
+judicialmente, sendo para este efeito notificadas as pessoas com quem confrontar, e será
+obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e
+descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservado
+de uma das margens dele a terra que baste para a serventia pública, e nesta data não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com encargo de
+pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se
+poderá dar a quem a denúnciar, como também sendo o dito Senhor servido mandar fundar no
+distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum ou pensão para o
+sesmeiro, e não compreenderá esta data vieiras ou minas de qualquer gênero de metal que
+nela se descobrir, reservando também os paus Reais, e faltando a qualquer das ditas clauzulas,
+por serem conforme a ordens de Sua Majestade e as que dispoem a Lei e Foral das Sesmaria,
+ficará privado desta. Pelo que mando ao ministro ou oficial de justiça, a qual o conhecimento
+desta pertencer, dê posse ao dito Joaquim Ferreira Varela das referidas terras na forma acima
+declarada. E por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com
+
+o signete de minhas armas, que se cumprirá como nela se contém e se registrará nesta
+secretaria de Governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João de Souza Melo a fez a 27 de outubro de 1751. //O secretário do governo,
+Antônio da Rocha Machado, a fez escrever// //Matias Coelho de Souza//
+Carta porque a Vossa Senhoria faz mercê de dar de sesmaria, em nome de Sua Majestade, a
+Joaquim Ferreira Varela meia légua de terras de testada com meia de fundo para cada parte
+dele na forma nesta declarada. Para Vossa Senhoria ver.
+Registrada no Livro 8° das Provisões do Governo a folha 31. Rio, a 27 de outubro de 1751.
+//Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observação do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Joaquim Ferreira Varella meia legua de terras de testada, com meia de fundo no Caminho da
+Serra do Mar. Rio de Janeiro, 27 de outubro de 1751.
+Esta Carta de Concessão está disponível no AHU anexada à Petição n° 17790 e a Portaria n°
+17792. Também encontramos a Carta de Confirmação desta Carta de Concessão na seguinte
+referência: AHU_ACL_CU_017-01,Cx.72, D. 16639, pág. 3 e 4; e na Plataforma SILB
+disponível com o código RJ 0190.
+Referência:
+AHU_ACL_CU_017-01,Cx.77, D. 17791.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,161 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0531
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Álvares da Torre ",
+  "Solicitaram repartição da terra em mesma medida": "Não",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-03-1699",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma légua de largura e estava localizada entre os rios Mucuri e Jenipapo, ao sul do rio das Caravelas, na jurisdição de Porto Seguro, fazendo fronteira com as terras de Manuel Lopes Pinheiro, em direção ao sertão.",
+  "Localidade": "Entre os rios Mucuri e Jenipapo, ao sul do rio das Caravelas",
+  "Marcos Geográficos": "Rio Mucuri; rio Jenipapo; rio das Caravelas",
+  "Confrontantes": "Manuel Lopes Pinheiro",
+  "Justificativas": "Alegou possuir engenhos; Alegou que já ocupava a terra requerida; Pretendia aumentar a cidade; Pretendia cultivar; Pretendia plantar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que pretendia colocar suas criações na sesmaria.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa e Fazenda foi de parecer favorável. O provedor da Fazenda Real também foi de parecer favorável, no entanto fez uma reflexão sobre a proibição de que madeiras que eram usadas para a construção de naus, fossem utilizadas pelos suplicante e o quanto isso era danoso para a Coroa. ",
+  "Observações das exigências": "Determinou-se que não poderia alhear a terra antes de a ter aproveitado e com autorização régia; citou o capítulo 26 do regimento do Governo-Geral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Ramineri",
+  "referencia": "BA0531"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 0531 
+Carta de concessão a João Álvares da Torre de 05/03/1699 
+Dom João de Lencastre, do Conselho de Sua Majestade, que Deus guarde. Faço saber aos 
+que este alvará de doação e sesmaria virem que tendo respeito aos que João Álvares da 
+Torre que enviou a representar em sua petição, cujo teor é o seguinte: senhor, diz João 
+Álvares da Torre, morador nesta cidade da Bahia, que a sua notícia chegou haver entre 
+rios Mucuri e o Jenipapo, que ficam ao sul das Caravelas, termo e jurisdição da capitania 
+de Porto Seguro, quantidade de terra devoluta, e porque o suplicante a quer aproveitar, 
+cultivando nelas sua lavoura e criações, de que se receberão aumento as rendas de Sua 
+Majestade. Pede a Vossa Senhoria lhe faça mercê conceder em nome, digo, em seu Real 
+nome, entre os rios Mucuri e Peruípe, com a légua de terra de largura que principiará de 
+onde acaba a data de Manuel Lopes Pinheiro, e três de comprimento para o sertão, com 
+todas as cláusulas e condições costumadas. E receberá mercê. E o parecer do doutor 
+procurador da Fazenda  Real a que se deu vista, o qual é o que se segue: como seja em 
+estilidade da Fazenda Real cultivar as terras respeito dos dízimos e também em estilidade 
+dos mantimentos, respeito dos víveres que se terão dos frutos, não se me oferece dúvida 
+lhe faça mercê que pede, com as condições de que dentro do termo da lei aproveite a terra 
+e a cultive, aliás, fique logo devoluta para se poder dar a quem a puder, e que não seja 
+prejuízo de terceiro, e não possa vender sem primeiro a cultivar e aproveitar, nem as possa 
+também trespassar. Bahia, 15 de setembro de 1698. Ramineri. E a informação do 
+provedor-mor da mesma Fazenda Real deste Estado, que é a que continua: Senhor, 
+conformo-me com o parecer do doutor procurador da Fazenda Real, mas parece-me 
+inescusável a circunstância de outra condição que é a de não se permitir ao suplicante que 
+possa cortar madeiras alguma das que tiverem serventia para a fábrica das naus que Sua 
+Majestade, que Deus guarde, foi servido mandar estabelecer neste Estado, porque é maior 
+dano de faltarem estas quando são necessárias, por se destruírem a ferro e fogo e ficarem 
+as terras queimadas, incapazes de produzirem outras, como a experiência mostra de que 
+toda a estilidade que dos dízimos dos frutos pode resultar a Fazenda Real em que o 
+suplicante todas os que pedem terras de sesmaria findam estes requerimentos. Depois, é 
+que muitos as pedem somente para cortarem e venderem a madeira e esta é cultura de que 
+tratam contra e intenção da lei, sem terem o trabalho e obrigação de as plantarem, como 
+em toda a curipa se faz e em Portugal só para o serviço Real, sendo as terras de domínios 
+particulares de tempo imemoriável, e nesta e mais capitanias do Brasil, sem mais custo 
+nem despesa que a de uma semelhante data defendam o corte e condições das madeiras 
+do serviço de Sua Majestade, do bem comum, levando tacitamente esta obrigação da lei 
+do reino, como pretendo de serem suas as terras e as madeiras como tenho experimentado 
+nas que foram necessárias para a fábrica das naus que na ribeira desta cidade mandou Sua 
+Majestade fabricarem para seu serviço e defesa das frotas, fazendo com isto irreparável 
+dano ao mesmo serviço na mora que por esta como tem a fábrica das ditas mãos e nos 
+longos a que se vão assim buscar por terra as de perto quem as defenda como por estarem 
+devolutas, não separando em venderem as que há, com mais com modo a pensar 
+particulares nem em as correrem aos portos a menor custo. E com muito boa vontade 
+como a todos manifesto pelo que se não devem dar as terras ou se deve guardar esta 
+condição sob mais pena que a se as perderem e tudo nelas tiverem de benfeitorias, porque 
+o contrário parece ser do serviço de Sua Majestade e contra o bem comum a despesa das 
+ditas fábricas a dependência, em voltando a outras partes e ficar antes no Brasil o cabedal 
+que neste se depende com as nações da Europa, onde estão se devem mandar fabricar as 
+fragatas para as armadas, navegação da Índia e comboios das frotas onde os mercadores 
+deste Estado arriscam os frutos de que trabalham todo o ano ou quem passe para este 
+
+efeito as compras. Vossa Senhoria mandará o que mais convier. Bahia, 22 de setembro 
+de 1698. Francisco Lamberto. Hei por bem conceder e dar em nome de Sua Majestade, 
+que Deus guarde, ao dito João Álvares da Torre, para ele e seus descendentes 1 légua de 
+terra de largura e três de comprimento as terras que pedem e confrontam em sua petição 
+neste inserta, começando a demarcar-se de onde acabar a data de Manuel Pinheiro, não 
+prejudicando a terceiro, e com as cláusulas que aponta o provedor-mor da Fazenda Real 
+deste Estado na sua informação a qual terra, se aproveitará dentro do termo da lei, e as 
+não poderá alhear nem passará a outro algum domínio sem as ter aproveitado, com 
+condição de se darem logo neste caso a outra pessoa, nem o poderá fazer sem expressa 
+ordem de Sua Majestade e com as mais cláusulas contidas na Ordenação do Reino, título 
+de sesmarias e forma do capítulo 26 do regimento novo deste Governo-Geral, as quais 
+terras terá e possuirá com todas as suas águas, matas, testadas, logradouros e mais úteis 
+que nelas se acharem, tudo foro livre e isento de pensão, salvo o dízimo à Ordem de 
+Cristo, que pagará pelos frutos que delas houver, e por elas serão obrigados a dar 
+caminhos públicos e particulares para fontes, pontes, portos e pedreiras, com declaração 
+que se havendo nas ditas terras alguma aldeia de índios, não fique o dito João Álvares da 
+Torre senhor dela e nem das terras que ocuparem os índios na forma das novas ordens de 
+Sua Majestade. Pelo que ordeno a todos os ministros e oficiais de justiça a que o 
+conhecimento deva ou possa pertencer, lhe façam dar e deem posse real, efetiva e atual, 
+demarcando-se no tempo dela, citados os heréus, que enviarão certidão à Casa dos 
+Contos, de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o 
+sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria do Estado, e nas 
+mais a que tocar da Fazenda Real dele e nos do escrivão de sesmarias, se guardará e 
+cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, embargo nem 
+contradição alguma. Luís da Costa Sepúlveda a fiz nesta cidade de Salvador, Bahia de 
+Todos os Santos, aos 5 dias do mês de março, ano de 1699. Gonçalo Ravasco Cavalcante 
+e Albuquerque a fiz escrever. Dom  João de Lencastre. Selo. Alvará de doação e sesmaria 
+pelo qual serviu de Vossa Senhoria Ilustríssima conceder e dar em nome de Sua 
+Majestade, que Deus o guarde, João Álvares da Torre, para ele e seus descendentes 1 
+légua de terra de largura e três de comprimento na parte que a pede e confronta em sua 
+petição neste inserta, começará de onde acabar a data de Manuel Lopes Pinheiro, não 
+prejudicando a terceiro e com as cláusulas que o provedor-mor da Fazenda aponta na sua 
+informação, nem às aldeias e terras dos índios que nelas se acharem nas condições 
+apontadas, e se demarcar e confirmar esta por Sua Majestade dentro de um ano, pelos 
+respeitos acima declarados. Para Vossa Ilustríssima ver. Registrado no livro 5° dos 
+registros da Secretaria do Estado do Brasil, que tocava a folha 130. Bahia, 21 de março 
+de 1699. Lamberto. Registrado em 24 do dito mês e ano. 
+- Fim de Transcrição- 
+Observações: 
+- O nome do suplicante no documento original conta como: “João Álvares da Torre”. 
+Referências: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 2, fls. 130v – 132v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

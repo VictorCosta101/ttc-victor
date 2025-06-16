@@ -1,0 +1,155 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0128
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Martim Fernandes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "15-11-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"Gonçalo de Aguiar lhe deu na fralda de Outeiro de Gore-Sinonga, duas léguas de terra na redondeza dele em quatro meias ao pé do dito Outeiro para seu patrimônio a cujo título se ordenou,  porque ora algumas pessoas querem dar à carta de sesmaria que o senhor seu pai, em tempo de seu governo, mandou passar ao dito Gonçalo de Aguiar, diferentes sentidos\".",
+  "Localidade": "Outeiro de Gericinó",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Confrontantes": "Engenho de Manoel Gomes e Diogo de Montarroios e Diarroios",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também o suplicante que recebeu a terra como doação de Gonçalo de Aguiar (Belchior, 1999, p. 50).",
+  "Observações das exigências": "Determinou-se ainda ao suplicante que \"haja a posse e senhorio das ditas terras, para sempre\", assim como ordenou-se que \"rompa e aproveite e frutifique as ditas terras da dada desta em três anos primeiros seguintes, outrossim, fará de maneira que dentro de quatro meses, tenha feito nas ditas terras algum proveito, e plantado alguns mantimentos, cumpridos os ditos três anos que as tenha aproveitadas como dito é, porque não assim fazendo ele assim passado os ditos três anos, se dará as ditas terras que aproveitada não tiverem de sesmaria a quem a vós pedir para aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver, sobretudo, pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e serventias ordenadas e necessárias para o Conselho, para fontes, pontes, vieiras e pedreiras que necessárias forem, as quais terras pela sobredita maneira lhe deu assim forra e isenta, sem foro nem tributo, somente de tudo que lhe nosso Senhor der nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme o dito Regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0128"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0128
+Carta de pedido de concessão de sesmaria de Martim Fernandes de 15 de novembro de 1603
+Forra
+Saibam quantos este instrumento de carta de sesmaria virem, que no ano do nascimento do
+nosso senhor Jesus Cristo de 1603, aos 15 dias do mês de novembro do dito ano, às 8 horas do
+dia, nessa cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de minha
+escrivão adiante nomeado, apareceu Lázaro Fernandes, morador nesta dita cidade, e me
+apresentou uma petição feita em nome do Reverendo Padre Vigário Martins Fernandes, com
+despacho nela do Senhor Martim de Sá, Capitão e Governador desta dita cidade capitania
+governança, decidido Rio de Janeiro, da qual petição o despacho dela e o translado é o
+seguinte: Martins Fernandes, Vigário da Sé Igreja Matriz dessa cidade de São Sebastião do
+Rio de Janeiro, que Gonçalo de Aguiar lhe deu na fralda de Outeiro de Gore-Sinonga, duas
+léguas de terra na redondeza dele em quatro meias ao pé do dito Outeiro para seu patrimônio a
+cujo título se ordenou, porque ora algumas pessoas querem dar à carta de sesmaria que o
+senhor seu pai, em tempo de seu governo, mandou passar ao dito Gonçalo de Aguiar,
+diferentes sentidos, tendo ele dito Vigário, por autoridade de Justiça, tomado posse das ditas
+Duas Léguas de terra, fazendo nelas benfeitorias, pede a vossa senhoria, que me confirme o
+dito Dote patrimônio, dando-lhe as ditas Duas Léguas de terra assim como dito Gonçalo
+Aguiar aí se tem dado, e se necessário confirmando as e dando as de novo por digo pelas não
+cultivar nem beneficiar até hoje pessoa alguma, que as tivesse pedido, começando a medir da
+outra banda da água do Engenho de Manoel Gomes e Diogo de Montarroios, e Diarroio, com
+as águas que nas ditas terras se acharem. E receber à mercê. Despacho do senhor capitão e
+Governador. Do Reverendo Padre Vigário as terras que pede com suas águas assim pela posse
+que tem tomado delas como pôr não delas cultivar até hoje pessoa alguma, e serem perdidas
+conforme ao foral, de que se passar a carta, hoje 13 de novembro de 1603. Martim de Sá. E
+tudo visto pelo dia do senhor capitão e Governador A petição do dia do Reverendo Padre
+Vigário Martins Martim Fernandes, e o que ele pedia visto ser justo e havendo respeito ao
+proveito que se pode seguir acerca da República, e aos serviços de Deus e deu Rei nosso
+Senhor e por a terra se povoar deu ao dito senhor Reverendo Padre Vigário a dita terra e o
+Gauss, Digo, águas conforme ao dito seu Despacho e pelas razões em sua petição declaradas
+para aproveitar e fazer suas ditas terras, sua fazenda e benfeitorias, Como diz, não sendo já
+dadas a outra pessoa ou pessoas primeiro, as quais terras e Águas diz que estão no dito lugar e
+que tem a dita medida em que partem as ditas confrontações como na sua petição diz, E
+abraça porque se medirem as ditas terras será braça caveira, convém a saber: duas varas de
+medir por uma como no reino se costuma de medir, o que tudo lhe deu e concedeu pela
+maneira adiante declarada, segundo forma do Regimento del-rei, nosso senhor, de que o
+traslado é o seguinte: as terras que estiverem dentro do termo limites da Dita cidade de São
+Sebastião, que são seis Léguas para cada parte que não forem dadas as pessoas que as
+aproveitem ou, posto que o fossem, se pôr as pessoas a quem se deram não as aproveitarem o
+tempo que são obrigadas de, por esta via ou por outra estiverem vagas as Poderei dar de
+sesmaria quem a voz pedir interesse lembrança que não desde a cada pessoa mas terra que
+aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar.
+As quais terras assim as dareis livremente sem outro algum foro, somente o dízimo a Ordem
+do Mestrado do nosso senhor Jesus Cristo, com as condições e obrigações do foral dado as
+ditas terras de minha Ordenação do Livro 4º, título das sesmarias, com a condição que a tal
+
+pessoa ou pessoas que residam na povoação da dita capitania ou das terras que lhe assim
+foram dadas ao menos três anos, que dentro do dito tempo as não possam vender, nem enlear,
+e se algumas pessoas a que forem dadas terras no termo da dita cidade e as tiverem perdidas
+porque não as aproveitaram, e a vós tornarem a pedir, vós as podereis de novo dar com as
+condições e obrigações contidas neste capítulo, o qual se transladara nas cartas, porque as
+assim derdes e isto se entenderá não sendo a dita as terras dadas a outras pessoas. Com as
+quais condições, obrigações e declarações lhe assim deu o dito senhor capitão e governador a
+dita terra ao dito reverendo padre vigário Martim Fernandes as ditas terras e aguas para sua
+guarda e segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e
+senhorio das ditas terras, para sempre, para ele e todos os seus herdeiros, sucessores,
+ascendentes e descendentes que após dele vierem, com a tal condição e entendimento que ele
+rompa e aproveite e frutifique as ditas terras da dada desta em três anos primeiros seguintes,
+outrossim, fará de maneira que dentro de quatro meses, tenha feito nas ditas terras algum
+proveito, e plantado alguns mantimentos, cumpridos os ditos três anos que as tenha
+aproveitadas como dito é, porque não assim fazendo ele assim passado os ditos três anos, se
+dará as ditas terras que aproveitada não tiverem de sesmaria a quem a vós pedir para
+aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver, sobretudo,
+pagará r$ 1000 para as obras do Conselho e dará pela dita terra, caminhos e serventias
+ordenados e necessárias para o Conselho, para fontes, pontes, vieiras e pedreiras que
+necessárias forem, as quais terras pela sobredita maneira lhe deu assim forra e isenta, sem foro
+nem tributo, somente de tudo que lhe nosso Senhor der nela de suas novidades, lavouras e
+criações, pagará os dízimos a Deus conforme o dito Regimento, o que tudo manda que se
+cumpra e guarde sem dúvida nem embargo algum, que lhe a ele seja posto e que esta carta
+seja registrada dentro de um ano nos livros da Fazenda Real, como o dito senhor em seu
+Regimento manda, sobre as penas nele contidas declaradas, E por que o sobredito Reverendo
+Padre Vigário Martim Fernandes, tudo prometeu de ter manter e cumprir, pela dita maneira
+ele mandou passar esta carta de sesmaria e por verdade eu Pero da Costa, escrivão das
+sesmarias e Tabelião das notas por el-rei, nosso senhor, nesta cidade de São Sebastião, em seis
+termos, 500 instrumento de cartas de sesmaria escrevi tomei nos meus livros, de notas e
+tombo das cartas de sesmarias dessa dita cidade onde o dito instrumento fica assinado pelo
+dito senhor capitão e Governador. PS1 com a letra de Martim de Sá: não se entenderá esta
+dada no que tem Manoel Gomes conforme é situado seu engenho. //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria das terras do reverendo padre vigário Martim Fernandes
+que estão em Jorissinom.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+180-183; Documento Original : Fl.77v.
+Original no livro
+
+Arquivo: DHBN_VOL.CXI.Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

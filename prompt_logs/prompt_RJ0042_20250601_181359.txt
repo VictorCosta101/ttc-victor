@@ -1,0 +1,156 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0042
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Aldeia de São Lourenço",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "19-03-1579",
+  "Data da concessão": "19-03-1579",
+  "Observações da sesmaria": "Título original: Carta de sesmaria dos índios que vierem da serra e de Vasco Fernandes Maia e Fernão de Álveres e Antônio Selema e de outros índios da Aldeia de São Lourenço.\r\nA palavra “Macucu” foi alterada para “Macuco”.\r\n",
+  "Marcos Geográficos": "Serra dos Órgãos",
+  "Ribeira": "Rio Macuco",
+  "Confrontantes": "Duarte de Sá; Colégio da Companhia. ",
+  "Observações da petição": "Aparecem na petição Antônio de Lousada, procurador que diz ser dos índios gentio deste dito Rio e morador nesta dita cidade, Salvador Correia de Sá, capitão e governador desta dita cidade e capitania deste dito Rio de Janeiro, os moradores da cidade Vasco Fernandes, Antônio Selema,  Antônio de França, Fernão de Alvares e os índios principais da Aldeia de São Lourenço deste Rio de Janeiro.",
+  "Justificativas": "Não tinha terras; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0042"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0042
+Carta de concessão de sesmaria da terra dos índios, Vasco Fernandes Maia, Fernão de Álvares
+e Antônio Selema e dos índios da Aldeia de São Lourenço de 19 de março de 1579
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1579 anos em os 19 dias do mês de março da dita era em esta
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, em as pousadas de mim
+publico te, digo, de mim escrivão adiante nomeado, apareceu Antônio de Lousada, procurador
+que diz ser dos índios gentio deste dito Rio e morador nesta dita cidade, e me apresentou uma
+petição feita em nome de uns certos índios cristãos desta terra, da qual petição, digo, em a
+qual petição vinha um despacho em ela do senhor Salvador Correia de Sá, capitão e
+governador desta dita cidade e capitania deste dito Rio de Janeiro, por El Rei nosso Senhor e
+da qual petição e despacho dela o traslado é o seguinte. Senhor governador, dizem Vasco
+Fernandes, Antônio Selema, Salvador Correia, Antônio de França, Fernão de Alvares e os
+índios principais da Aldeia de São Lourenço deste Rio de Janeiro, que eles tem mandado da
+serra a fazer descer seus parentes para povoarem neste Rio, para que sendo muitos possam
+ajudar fazerem-se cristãos e viverem na lei de Deus, que vindo muita gente, como esperam
+que virá, não é possível estarem todos na aldeia que agora está situada de frente desta cidade,
+porque são já muitos nela e as terras poucas para esta aldeia quanto mais para os que
+descerem, e assim ficam perecendo por não terem em que roçar por ser já tudo dado aos
+brancos, pelo que pedem eles todos, digo, ditos a Vossa Senhoria lhes conceda para os índios
+todos que descerem de outras partes, descerem quatro léguas de terra na banda além do Rio
+Macuco, que começa da onde se acabar a dada de Duarte de Sá, correrão ao longo da terra que
+naquela parte tem o Colégio da Companhia, até encherem as ditas quatro léguas, e para o
+sertão até o pé da Serra dos Órgãos, digo, dos Órgãos e receberão mercê. Despacho do Senhor
+capitão e governador. Dou aos suplicantes a terra que pedem em sua petição assim e da
+maneira que nela se contém e passem-lhes sua carta. Hoje, 9 de julho de 1578. Salvador
+Correia de Sá. E tudo visto pelo dito Senhor capitão e governador a petição dos ditos
+suplicantes, Vasco Fernandes, Antônio Selema, Salvador Correia, Antônio de França, Fernão
+de Alvares e todos os mais já ditos e declarados o que lhe eles pediam, visto ser justo e
+havendo respeito ao proveito que se pode seguir acerca da República, ao serviço de Deus, do
+Rei nosso Senhor, por a terra se povoar, o bem e proveito que esta terra terá com haver muitos
+índios nela de paz cristãos para defesa e ajuda que farão, lhes deu a terra que pediam em sua
+
+petição e conforme ao seu despacho, porquanto, estava vaga, devoluta e em matos maninhos,
+para a aproveitarem e fazerem suas roças de mantimentos para se sustentarem nelas como
+dizem, não sendo já dadas a outras pessoas 1°, as quais terras estão no dito lugar e partem
+pelas ditas confrontações como em sua petição diz, e a braça, porque se medirem as ditas
+terras, será braça craveira scilicet a saber 2 varas de medir por uma, como no Reino se
+costuma de medir, o que tudo lhes deu e concedeu na maneira adiante declarada segundo
+forma do regimento do governador, que foi nesta cidade Antônio Salema, de que o traslado é
+o seguinte. § As terras que estiverem dentro do termo e limites da dita cidade de São
+Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem
+ou, posto que o fossem, se por as pessoas a que se deram as não aproveitarem no tempo que
+eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar de
+sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela
+que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais
+terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado
+de nosso Senhor Jesus Cristo, com as condições e obrigações do foral dado às ditas terras e de
+minha ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas
+residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos três
+anos, e que dentro no dito tempo as não possam vender, nem enlear, e se algumas pessoas a
+quem forem dadas terras no termo da dita cidade as tiverem perdidas por as não aproveitarem,
+e vá tornarem a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas
+neste capítulo, o qual se trasladará nas cartas porque as assim derdes, e isto se entenderá não
+sendo as ditas terras dadas a outras pessoas com as quais condições, obrigações e declarações,
+lhes assim deu o dito Senhor capitão e governador as ditas terras aos ditos suplicantes já ditos
+pela dita maneira, para sua guarda e segurança lhes mandou ser feita esta carta, pelo qual
+manda que eles hajam a posse e senhorio delas para sempre, para eles e seus herdeiros e
+sucessores ascendentes e descendentes que após deles vierem com tal condição e
+entendimento, que eles rompam e aproveitem as ditas terras e as frutifiquem da data desta em
+três anos primeiros seguintes e, outrossim, farão de maneira que dentro em quatro meses
+tenham feito nelas algum proveito plantado alguns mantimentos, e cumpridos os ditos três
+anos que as tenham aproveitadas como dito é, porque não o fazendo eles assim, passados os
+ditos três anos, se darão as ditas terras que aproveitadas não tiverem de sesmaria a quem nas
+pedir, e lhes serão deixado alguns logradouros do que aproveitado não tiverem e, sobretudo,
+pagarão mil réis para as obras do Concelho, e darão pelas ditas terras caminhos e serventias
+ordenadas e necessárias para o Concelho, para fontes, pontes, viveiros e pereiras que
+
+necessários forem as quais terras, lhe assim deu e concedeu em nome do Rei nosso Senhor
+forras e isentas, sem foro, nem tributo, somente de todo o que lhe nosso Senhor der nelas de
+suas novidades, lavouras e criações, pagarão os dízimos a Deus conforme ao dito regimento, o
+que tudo manda que se cumpra e guarde sem dúvida, nem embargo algum, que a ele seja
+posto e que esta carta seja registrada dentro em 1 ano nos livros da Fazenda Real, como o dito
+Senhor em seu regimento manda sob as penas nele contidas e declaradas e porque os
+sobreditos índios já ditos suplicantes tudo prometeram de ter, manter e cumprir, pela dita
+maneira lhes mandou passar esta carta de sesmaria e por verdade eu, Pero da Costa, escrivão
+das sesmarias e tabelião das notas por El Rei nosso Senhor em esta cidade de São Sebastião, e
+seus termos que este instrumento de carta de sesmaria escrevi e tomei nh, digo, nos meus
+livros das notas e tombo das cartas das sesmarias desta dita cidade que em meu poder ficam
+onde o dito instrumento fica assinado por o dito Senhor capitão e governador //Salvador
+Correia de Sá //
+-fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria dos índios que vierem da serra e de Vasco Fernandes Maia e
+Fernão de Álveres e Antônio Selema e de outros índios da Aldeia de São Lourenço.
+A palavra “Macucu” foi alterada para “Macuco”.
+Referências:
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro:
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p. 172-175.
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79)
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

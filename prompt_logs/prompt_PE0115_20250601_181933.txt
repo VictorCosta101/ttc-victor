@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0115
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0172",
+  "Nome": "Manuel Bezerra da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "21-11-1780",
+  "Data da concessão": "18-06-1781",
+  "Observações da sesmaria": "O suplicante requereu meia légua de terra, situada na Alagoa do Danta, termo da Vila do Iguarassu, entre a sua propriedade que o suplicante possui no distrito e a propriedade da viúva do defunto Jerônimo Lopes",
+  "Localidade": "Alagoa do Danta e Vila do Iguarassu.",
+  "Marcos Geográficos": "Alagoa do Danta e Vila do Iguarassu.",
+  "Confrontantes": "Viúva do defunto Jerônimo Lopes",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": " O governador, José Cesar de Menezes, determinou o pagamento do foro anual de três mil réis. O governador, José Cesar de Menezes, mandou requerer confirmação dentro de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0115"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0115 
+Carta de doação e sesmaria de Manoel Bezerra da Cunha – 18/06/1781 
+ 
+Manoel Bezerra da Cunha com meia légua de terra no [sítio] chamado Alagoa do 
+Danta. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e 
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. — Faço saber aos 
+que esta carta de data de sesmaria virem, que por parte de Manoel Bezerra da Cunha me 
+foi feito um requerimento do teor e maneira seguinte: — Ilustríssimo e Excelentíssimo 
+Senhor = Diz Manoel Bezerra da Cunha, morador na Alagoa Danta, termo da Vila do 
+lguarassú, que entre a propriedade do suplicante situada na mesma Alagoa Danta e da 
+viúva que ficou do defunto Jeronimo Lopes, se acham umas terras de sobras sem conhecer 
+senhorio ou quem as domine, cujas sobras estão públicas e entestão com terras do 
+suplicante e da dita viúva, as quais terras as quer o suplicante tirar por data de sesmaria, 
+pagando o suplicante o competente foro, para o que requer a Vossa Excelência se sirva 
+mandar proceder a informação da Câmara respectiva com a devida clareza, e a vista dela 
+mandará passar a carta de sesmaria e data na forma do estilo. Pede a Vossa Excelência se 
+sirva mandar proceder a informação, e a vista dela passar a carta requerida = E receberá 
+mercê = E sendo por mim visto o seu requerimento, ordenei por despacho meu de 21 de 
+novembro de 1780, aos oficiais da Câmara do respectivo distrito mandassem fixar editais 
+na respectiva freguesia, para saber ao certo estar ou não devoluta a referida terra e haver 
+ou não terceiro prejudicado; e constando-me por informação dos ditos oficiais que assim 
+o mandaram executar, não haver pessoa alguma que aos ditos editais saísse. Por outro 
+meu despacho de data de 7 de junho do presente ano, mandei ouvir ao escrivão da Receita 
+e Despesa, e assim mais responder o doutor procurador da Fazenda e Coroa. — Por outro 
+de 9 do mesmo mês, e como todos uniformemente me responderam estar nos termos de 
+se dar ao suplicante por sesmaria a terra pedida e confrontada em seu requerimento, 
+pagando anualmente o foro de três meses, digo, o foro de três mil réis a razão de seis mil 
+réis por légua, por ser das que estão mais próximas a Marinha, do que devia dar fiança na 
+Contadoria da Real Fazenda. Ultimamente, mandei por meu despacho de 12 de junho do 
+corrente ano que se passasse sesmaria na forma da resposta do doutor procurador da 
+Fazenda e Coroa e escrivão da Receita e Despesa; em cumprimento do qual e pela 
+faculdade que Sua Majestade me permite no Capítulo 15 do Regimento deste Governo. 
+
+Hei por bem dar em nome da dita senhora ao dito Manoel Bezerra da Cunha de sesmaria 
+no lugar onde chamam Alagoa Danta, de sesmaria meia légua de terra entre a propriedade 
+que o suplicante possui no dito distrito e da de Jeronimo Lopes, já defunto, na forma 
+confrontada em seu requerimento, pagando o foro anual de três mil réis, visto ser das que 
+estão mais próximas a Marinha, que determina a Real Ordem de 28 de setembro de 1700, 
+a qual terra possuirá e gozará ele suplicante e seus herdeiros ascendentes e descendentes, 
+como sua que fica sendo de hoje para todo o sempre, com todos os seus pertences, matas, 
+campos, rios, águas, testadas, logradouros e mais úteis que ela compreender, não 
+prejudicando a terceiro, e não passará a mesma a religiões e pessoas eclesiásticas, salvo 
+sendo com os mesmos encargos com que as possuem os seculares, sendo obrigado a dar 
+ao Conselho caminhos livres para fontes, pontes e pedreiras, e requerer dentro de três 
+anos confirmação, medição e demarcação, povoá-la na conformidade da Ordem Régia de 
+20 de outubro de 1753, e não o cumprindo assim se dar por devoluta e novamente ser 
+conferida a quem a requerer: pelo que ordeno aos ministros da Fazenda e Justiça e mais 
+pessoas a quem tocar, cumpram e façam cumprir e guardar esta carta de data de sesmaria, 
+como nela se contém, fazendo dar ao suplicante posse real e atual, na forma costumada, 
+debaixo das cláusulas referidas e das mais da Ordenação título das sesmarias, visto 
+constar por bilhete que apresentou, achar-se dada a fiança do foro anual de três mil réis 
+na Contadoria da Real Fazenda a 137 verso do livro delas; em firmeza do que lhe mandei 
+passar a presente por mim assinada e selada com o sinete das minhas armas, que se 
+registrará na Secretaria deste Governo e Contadoria da Real Fazenda — Manoel Barbosa 
+da Silva Garcia, oficial maior da Secretaria do Governo, a fez no Recife de Pernambuco, 
+aos 18 dias do mês de junho de 1781 = O secretário do Governo, Manoel de Carvalho 
+Paes de Andrade, a fez escrever = José Cesar de Menezes. 
+- Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 
+2. p. 257 - 259. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

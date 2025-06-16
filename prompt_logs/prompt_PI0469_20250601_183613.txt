@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0469
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Carvalho da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "17-08-1748",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. O suplicante ainda alegou que \"havia mandado arrematar na vila da Mocha a fazenda de São João\".",
+  "Localidade": "Fazenda São João",
+  "Marcos Geográficos": "Baixa do Jenipapeiro, Baixa Fresca, boca da mata, Tabuleiro do Buriti das Perguntas",
+  "Ribeira": "Parnaíba",
+  "Confrontantes": "Caminho que vai para a casa do coronel Miguel Carvalho de Aguiar; estrada que vai para a casa de Manuel Antunes de Fonseca",
+  "Justificativas": "Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que, apesar de ter mandado arrematar a fazenda, dela não se havia encontrado o título, alegando pretender possuí-lo para \"segurança de sua conservação\". Além de a mesma ter se perdido, não foi confirmada.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades. Não foi possível identificar o escrivão responsável pela redação do documento.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que \"havendo nas terras aqui concedidas rio navegável que necessite de canoa para se atravessar ficará reservada meia légua de terra de uma das margens para o uso público\". Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria; dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0469"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0469
+Carta de concessão a Manuel Carvalho da Cunha - 17/08/1748
+Registro de uma carta de data concedida a Manuel Carvalho da Cunha
+Francisco Pedro de Mendonça Gurjão, governador. Faço saber, aos que esta minha carta
+de data e sesmaria virem que Manuel Carvalho da Cunha me representou que ele havia
+mandado arrematar na vila da Mocha a fazenda de São João, como constava da
+arrematação junta. E porque se não achou título de propriedade da terra, em que a dita
+fazenda se acha situada, para segurança de sua conservação, mandara impetrar carta de
+data, a qual sendo-lhe concedida em virtude dela fora já demarcada, e como a dita carta
+de data se achava desencaminhada distante, que não chegou a confirmar-se para Sua
+Majestade, e por esta razão lhe era necessária nova data de 3 léguas de terra de
+comprido e uma de largo, principiando na baixa do Jenipapeiro, que se acha entre a
+parte do caminho que vai para a casa do coronel Miguel de Carvalho Aguiar e o
+caminho que é a estrada pela que vai para a casa de Manuel Antunes de Fonseca, e faz
+extremas com o dito coronel Miguel Carvalho aonde se chama a ponta do Tabuleiro do
+Buriti das Perguntas e [tem uma] baixa fresca buscando a boca da mata que é caminho
+que vai para a Parnaíba com a declaração de que faltando-lhe terra no comprimento se
+[ilegível] esta [ilegível] na largura, ao que atendendo, e a resposta que deu a Câmara
+que se lhe não [deixou] dúvida, como também a informação do Provedor-mor da
+Fazenda Real e [ser] em utilidade da mesma Fazenda, o cultivarem-se as terras neste
+Estado. Hei por bem conceder-lhe novamente, em nome de Sua Majestade, 3 léguas de
+terra de comprido e uma de largo no sítio acima referido, com as declarações
+mencionadas. E com a de não fazer transpasso por meio algum, em nenhum tempo, a
+pessoa alguma, religião ou comunidade, sem primeiro dar parte na Casa da Fazenda ao
+provedor-mor dela para se me fazer presente e ver, se se deve ou não consentir no tal
+trespasse, sob pena de ficar nula esta data e se poder conceder novamente a outrem. E
+nesta forma se lhe passa sua carta para que o dito Manuel Carvalho da Cunha haja, logre
+e possua as ditas terras, como coisa sua própria para ele e seus herdeiros, ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor,
+dos frutos que nelas houver e lavrar. A qual concessão lhe faço não prejudicando a
+terceiro nem a Sua Majestade, se na dita paragem ou sítio quiser mandar fundar alguma
+vila, reservando os paus reais que nelas houverem para embarcações, com declaração
+que mandará confirmar esta data por Sua Majestade dentro dos 3 anos primeiros
+seguintes. E cultivará as ditas terras de modo deem frutos, e dará caminhos públicos e
+particulares aonde forem necessários para pontes, fontes, portos e pedreiras, e se
+demarcará ao tempo da posse por rumo de cordas e braças craveiras, como é estilo e Sua
+Majestade manda. E havendo nas terras aqui concedidas rio navegável que necessite de
+canoa para se atravessar ficará reservada meia légua de terra de uma das margens para o
+uso público. E outrossim, não poderão se suceder nelas religiões nem outras pessoas
+eclesiásticas por nenhum título que seja, e acontecendo de possuí-las será com o
+encargo de pagarem delas dízimos, como se fossem possuídas por seculares. E faltando
+a qualquer dessas cláusulas se haverão as ditas terras por devolutas e se darão a quem as
+denunciar, como o dito Senhor ordena. Pelo que mando ao provedor-mor da Fazenda
+Real, mais ministros e pessoas a que tocar, que na forma referida, deixem ter e possuir
+as ditas terras ao dito Manuel Carvalho da Cunha como coisa sua própria para ele e
+todos os seus herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha
+carta de data tão inteiramente como nela se contém, a qual lhe mandei passar por mim
+
+assinada e selada com o sinete de minhas armas, que se registrará aonde passar e se
+passou por duas vias. Dada na cidade de São Luís do Maranhão, aos 17 de agosto, ano
+do nascimento de Nosso Senhor Jesus Cristo de 1748.
+- Fim da Transcrição -
+Referência:
+APEP, Livro 14, doc. 47, fls. 31 – 32.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

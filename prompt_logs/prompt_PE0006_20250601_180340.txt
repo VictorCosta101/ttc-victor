@@ -1,0 +1,94 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0006
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0011",
+  "Nome": "Bento Gonçalves Vieira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Observações da sesmaria": "O documento encontra-se em estado ilegível e por isso não foi possível transcrever o despacho e o deferimento do requerimento. A sesmaria requerida encontrava-se no Ararobá, entre o rio Ipojuca, ao norte, e o rio Capibaribe. ",
+  "Localidade": "Ararobá, rio Ipojuca, rio Capibaribe",
+  "Marcos Geográficos": "Ararobá, rio Ipojuca, rio Capibaribe",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era descobridor(a) das terras; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O documento encontra-se em estado ilegível e por isso não foi possível transcrever o despacho e o deferimento do requerimento. ",
+  "Observações das exigências": "O documento encontra-se em estado ilegível e por isso não foi possível transcrever o despacho e o deferimento do requerimento. ",
+  "referencia": "PE0006"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0006 
+Carta de doação e sesmaria do capitão Bento Gonçalves Vieira 
+ 
+CARTA DE DOAÇÃO E SESMARIA DE TRÊS LÉGUAS DE TERRA NO SERTÃO DO 
+ARAROBÁ, QUE SE DERAM AO CAPITÃO BENTO GONÇALVES VIEIRA 
+ 
+Dom Antônio Félix Machado da Silva Castro, do Conselho de Sua Majestade, marquês de Monte-
+bello, senhor e donatário do Conselho de terras de Entre-homem e Cavado, senhor das casas Castro 
+Vasconcelos e Barroso e dos solares delas, alcaide-mor de Mourão, comendador e alcaide-mor das 
+comendas e Vilas do Casal e sexto da Ordem de São Bento de Aviz, governador da capitania de 
+Pernambuco e das mais anexas e etc. Faço saber aos que esta carta de doação e sesmaria virem que 
+a mim se me representou a petição cujo teor é o seguinte: “Senhor. Diz o capitão Bento Gonçalves 
+Vieira que tendo descoberto umas terras por detrás do Ararobá, entre os rios de Ipojuca da parte do 
+norte e rio Capibaribe, que estão devolutas sem serem até o presente povoadas e tem por nomes 
+[duas linhas e meia pontilhadas]. 
+O mais que se continha no registro desta carta de sesmaria não pôde ser copiado por estar o papel 
+completamente dilacerado, do que para constar faço esta declaração. 
+ 
+Antônio Leite de Pinho 
+Não se copia uma carta de sesmaria passada a João Alves Vieira, por estar a folha em que foi 
+registrada, completamente dilacerada. E para que assim conste, faço esta declaração. 
+ 
+Antônio Leite de Pinho 
+Pela mesma razão deixou de ser copiada uma carta de sesmaria que estava registrada em 
+seguimento da de João Alves Vieira e ambas (segue-se uma palavra ilegível). 
+ 
+Antônio Leite de Pinho 
+ 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 27 - 28. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

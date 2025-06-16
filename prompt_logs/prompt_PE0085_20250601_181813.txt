@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0085
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0142",
+  "Nome": "João da Costa de Andrade",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "28-01-1754",
+  "Data da concessão": "23-11-1754",
+  "Observações da sesmaria": "O suplicante requereu 20 braças de comprimento na vila do Recife, na rua de Nossa Senhora do Terço, em direção ao Campo dos Afogados, na fronteira das casas de Bento Gomes de Oliveira (PE 0076) até o mangue do rio Capibaribe.",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Campo dos Afogados, Rua de Nossa Senhora do Terço, rio Capibaribe",
+  "Confrontantes": "Bento Gomes de Oliveira",
+  "Observações da petição": "O suplicante não especificou a largura das terras requeridas. ",
+  "Justificativas": "Pretendia fazer casa; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Luís José Correia de Sá determinou o pagamento anual do foro régio no valor de 10.000 réis.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João Rodrigues Colaço",
+  "referencia": "PE0085"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0085
+Carta de doação de sesmaria do capitão João da Costa de Andrade – 23/01/1754
+Sesmaria que se passou ao capitão João da Costa de Andrade de 210 palmos de
+terra.
+Luiz José Corrêa de Sá — e etc. — Faço saber aos que esta carta de doação e sesmaria
+virem, que o capitão João da Costa de Andrade me enviou a dizer em sua petição por
+escrito, que para melhor [...] pretendia fazer umas moradas de casas, e como na rua que
+ia de Nossa Senhora do Terço para a parte da estrada do Afogados, pegando das terras
+já aforadas de Bento Gomes, estão ainda para a dita parte 200 palmos, pouco mais ou
+menos, com o fundo até a maré vazia do rio que ia para Capibaribe, que irão endireitar
+com outras que lhe ficam de frente, queria o suplicante que eu lhe fizesse mercê mandar
+passar carta de sesmaria, para ficar pagando o foro costumado a Real Fazenda, portanto
+me pedia na conclusão que fosse servido mandar passar carta de sesmaria na forma do
+estilo praticado; e receberá mercê. A qual petição sendo-me apresentada, nela me deu
+por despacho de 28 de janeiro deste ano, informar a Câmara do distrito, o que fez na
+forma seguinte —: Ilustríssimo e Excelentíssimo Senhor. — O requerimento do
+suplicante nos parece justo, não havendo prejuízo de terceiro e nem deste Senado a
+respeito do requerimento que tem feito a Sua Majestade, e espera da sua real grandeza
+lhe conceda as terras devolutas, que se hajam de dar por devolutas de sesmaria para
+patrimônio deste Senado, e também, nos pareça justo e conveniente que fiquem 20
+palmos da terra que o suplicante requer devoluta, para servidão pública e comum dos
+povos e moradores circunvizinhos do dito lugar, os quais 20 palmos para a dita servidão
+devem ficar mediando entre a última casa de Bento Gomes e a que houver de se seguir e
+edificar; e é o que nos parece, a vista do que mandará Vossa Excelência o que for
+servido com a retíssima justiça que costuma —. Recife em Câmara, 12 de janeiro de
+1754 — E eu, José de Araújo Viana, escrivão da Câmara, o escrevi — Braz Ferreira
+Maciel — Manoel de Almeida Ferreira — Braz da Costa Preto — Com a qual
+informação, por despacho de 14 do dito mês — mandei informar o doutor provedor da
+Fazenda Real, o qual ouvindo o escrivão dela e mandando responder o doutor
+procurador da mesma, disseram o seguinte — Senhor doutor provedor da Fazenda Real
+— Não se oferecendo dúvida ao doutor procurador da Coroa e Fazenda, parece justo
+que se mande passar carta de sesmaria ao suplicante com o foro de 50 réis o palmo dos
+que se lhe conceder, como é estilo ou mandará o que for servido — Recife, 15 de
+
+janeiro de 1754 — Bernardo Pereira de Vasconcelos — Fiat justiça, na forma que
+aponta o escrivão da Fazenda e com as suas declarações e da que declara o Senado na
+sua resposta —. Oliveira — Com cujas respostas o doutor provedor informou o seguinte
+—: Ilustríssimo e Excelentíssimo Senhor — Na forma da resposta do escrivão da
+Fazenda, se deve mandar medir o chão que o suplicante pretende pelo capitão
+engenheiro Antonio José de Lemos, para constar os palmos que são, e feita esta
+diligência passe-se carta de sesmaria na forma da mesma informação, a vista do que
+Vossa Excelência mandará o que for servido. — Recife, 16 de janeiro de 1744 — João
+Rodrigues Colaço — Sendo-me apresentada a dita informação, mandei ultimamente por
+despacho de 16 de janeiro deste presente ano de 1744, que o capitão engenheiro
+Antonio José de Lemos fizesse a medição na forma que aponta o doutor provedor da
+Fazenda e satisfeito se lhe passe carta de sesmaria, em cujo cumprimento o capitão
+engenheiro fez a medição e respondeu o seguinte: Ilustríssimo e Excelentíssimo Senhor
+— Dos chãos já aforados de Bento Gomes para diante até endireitar com as casas que
+ficam há ainda 230 palmos de terreno devolutos, dos quais tirando 20 palmos para o
+beco facão, digo, ficam 210 palmos dos quais se pode passar carta de sesmaria —
+Vossa Excelência mandará o que for servido — Recife, 17 de janeiro de 1754 —
+Antonio José de Lemos —. Satisfeito assim ao que mandei, logo se passou a presente,
+pela qual em virtude da faculdade que Sua Majestade me concede no capítulo 15 do
+regimento deste Governo — Hei por bem dar ao suplicante de sesmaria em nome do
+dito Senhor, os 210 palmos que se acham devolutos, na parte e lugar que declara a sua
+petição, na forma que aponta e nela confronta, e com o fundo nela requerida, pagando o
+foro de 50 reis por palmo, e não passarão a religiões salvo for com os mesmos encargos
+que os tem os seculares, cuja porção de terra lograrão e preciarão ele e seus herdeiros
+ascendentes e descendentes, como sua que fica sendo de hoje para todo o sempre, não
+prejudicando a terceiro, e ao almoxarife da Fazenda Real tomará a razão desta data,
+para bem da arrecadação dos foros —: Pelo que ordeno aos ministros e pessoas a que
+tocar, cumpram e façam cumprir esta doação e sesmaria como nela se contém, e façam
+dar posse ao suplicante na forma do estilo, de que se tomará assento nas costas desta,
+que por firmeza lhe mandei passar por mim assinada e selada com o sinete de minhas
+armas, que se registrará, nos livros deste Governo, Provedoria Geral e onde mais tocar
+— . Dada na praça do Recife de Pernambuco, a 23 de janeiro — Manoel Coelho de
+Souza a fez — no ano do Nascimento de Nosso Senhor Jesus Cristo de 1754. Felipe
+Nery Correia, oficial maior da Secretaria, a fez escrever — Luiz José Corrêa de Sá —.
+
+- Fim da Carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 86 - 88.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,144 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0150
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0061",
+  "Nome": "Antônio Joaquim do Carmo Nunes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-11-1822",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila de Sirinháem. A terra localizava-se no lugar chamado Jurassal, próximo ao rio Una, e tinha por limite as terras de José Alexandre de Souza ao norte e ao sul com as terras de João Francisco Bastos. ",
+  "Localidade": "Vila de Sirinháem",
+  "Marcos Geográficos": "Rio Una, Jurassal",
+  "Confrontantes": "João Francisco Bastos; Alexandre de Souza",
+  "Justificativas": "Pretendia aumentar as rendas reais; Não tinha terras; Tinha escravos; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelos membros da Junta Provisória de Governo da Província de Pernambuco: o presidente Afonso de Albuquerque\r\nMaranhão, Francisco de Paula Gomes dos Santos, Manoel Ignacio Bezerra de Mello e o secretário José Mariano de Albuquerque Cavalcante.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de seis mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0150"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0150
+Carta de doação e sesmaria concedida a Antonio Joaquim do Carmo Nunes -
+03/10/1822
+Antonio Joaquim do Carmo Nunes com uma légua de terra por sesmaria no lugar
+do Jussaral.
+Nós, o presidente e membros da junta provisória do governo da província de
+Pernambuco fazemos saber aos que esta carta de data de sesmaria virem, que Antonio
+Joaquim do Carmo Nunes dirigiu ao capitão general, que foi desta província, Caetano
+Pinto de Miranda Montenegro o requerimento do teor seguinte = Ilustríssimo e
+excelentíssimo senhor = Diz Antonio Joaquim do Carmo Nunes, morador nesta praça de
+Pernambuco, que deseja empregar os seus escravos na agricultura, e como não tem
+terras suas próprias, e há no termo da vila de Serinhaem uma grande porção de terreno
+pertencente ao patrimônio régio, que ainda se acha devoluta, requer a Vossa Excelência,
+que por equidade lhe conceda uma légua de terras no lugar Jussaral, que fica a beira do
+rio Unna, principiando da testada das terras de José Alexandre de Souza pelo dito rio
+abaixo, ate preencher a légua de frente da parte do Sul do mesmo rio contestando ao
+Norte com o sobredito rio Unna, e ao Sul com terras de João Francisco Bastos; portanto
+= pede a Vossa Excelência seja servido defirir ao suplicante, como requer = E receberá
+mercê = O que sendo visto pelo referido capitão general, por despacho de 6 de fevereiro
+de 1817, mandou informar ao doutor desembargador juiz conservador das matas, o qual
+tendo declarado em sua informação não haver naquela lugar madeiras de construção,
+nem pau brasil, que impedio de a data, ou concessão da sesmaria, foi tudo apresentado
+ao ex-capitão general Luís do Rego Barreto, que a câmara respectiva mandasse afixar
+editais por tempo de 30 dias para se saber se havia terceiros perjudicados, e informasse
+com a certidão do oficial, que os houvesse afixado; o que assim se cumpriu, informando
+a referida câmara não ter aparecido alguém, que se opusesse; em consequência do que,
+mandou por despachos de 10, e 20 de setembro do mesmo ano informar o doutor
+procurador da coroa e fazenda, ao escrivão deputado da junta da Fazenda pública, e não
+lhe pondo aquele algum embaraço, este notou que os ereos nomeados no requerimento,
+ambos pertenciam ao termo de Garanhuns, e não ao de Serinhaem, duvidando se o
+terreno pedido pertenceria a um, ou a outro termo, em razão da diferença do foro anual,
+que havia de pagar, o qual sendo no termo de Garanhuns era de 4 mil reis, e sendo no de
+Serinhaem de 6 mil reis, o que o suplicante destruiu, apresentando documentos, dos
+
+quais consta, que não obstante serem aqueles ereos no território de Garanhuns, o terreno
+pedido pelo suplicante pertencia ao de Serinhaem, em virtude do que, por despacho de
+29 de favereiro de 1820 mandou novamente informar o referido escrivão deputado, que
+nenhum embaraço lhe pôs; o que sendo tudo por nós visto, e examinado, mandamos por
+despacho de 3 de outubro do corrente ano, que se lhe passasse a presente carta. E
+portanto, pela faculdade, que nos é concedida no capítulo 15 do regimento deste
+governo. Havemos por bem dar em nome de sua Alteza Real o príncipe regente
+constitucional e perpétuo protetor do Brasil ao dito Antonio Joaquim do Carmo Nunes a
+referida légua de terra na forma dita, pagando o foro anual de 6 mil réis em observância
+da Real Ordem de 28 de setembro de 1700, de que deu fiança na contadoria da junta da
+fazenda pública a folhas 61 verso do livro sétimo delas. A qual sesmaria possuirá, e
+gozará ele, suplicante, e seus herdeiros ascendentes e descendentes, como sua, que fica
+sendo de hoje para todo o sempre com todas as matas, campos, rios, águas, testadas,
+logradouros, e mais úteis, que nelas se compreenderem, não prejudicando a terceiro; e
+não passará a religiões, e pessoas eclesiásticas, salvo sendo com os mesmos encargos,
+com que as possuem os seculares; e nunca se dividirá em porções, nem se partirá senão
+por estimação, andando encabeçada em uma só pessoa na forma da ordenação do livro
+quarto, título 96, parágrafo 23, e assim não passará a herdeiros, ou quaisquer outras
+pessoas, sem consentimento da junta da Fazenda pública, para nela se darem novas
+fianças, e se fazerem as devidas escriturações; ficando livres para a serventia dos povos
+todas as estradas, rios, fontes, e pedreiras, e reservadas ao patrimônio público as
+madeiras de construção, pau brasil, e vieiros de quaisquer metais, e será obrigado a
+requerer dentro de 3 anos confirmação, medição, e demarcação, a povoa-la, e cultiva-la
+na forma da Ordem Régia de 20 de outubro de 1753, e alvará de 25 de janeiro de 1809;
+e não o cumprindo assim, se haverão por devolutas, e novamente se conferirão, a quem
+as requerer. Pelo que ordenamos aos ministros da fazenda, e justiça, e mais pessoas, a
+quem tocar. Cumpram e façam cumprir, e guardar esta carta de data de sesmaria, como
+nela se contém fazendo dar ao suplicante posse real, efectiva e atual, na forma da
+ordenação titulo das sesmarias. Em firmeza do referido lhe mandamos passar a presente,
+sendo por nós assinada, e selada com o sinete de armas reais, a qual se registrará na
+secretaria deste governo, na junta da Fazenda publica, e aonde mais tocar. Manoel dos
+Passos e figueiroa, oficial maior da secretaria a fez em o Recife de Pernambuco aos 4 de
+novembro de 1822 = E eu José Mariano de Albuquerque Cavalcante, secretario, a fez
+escrever = presidente Afonso de Albuquerque Maranhão = Francisco de Paula Gomes
+
+dos Santos = Manoel Ignacio Bezerra de Mello = José Mariano de Albuquerque
+Cavalcante = Carta de data de sesmaria pela qual Vossas Excelências hão por bem
+conceder a Antonio Joaquim do Carmo Nunes de sua Alteza Real o príncipe regente
+constitucional e perpétuo do Brasil uma légua de terra no lugar do Jussaral ao rio Unna,
+termo de Serinhaem, como nela se declara = Para Vossas Excelências verem = por
+despacho do governo de 3 de outubro de 1822.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 209-211.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

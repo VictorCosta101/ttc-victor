@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0027
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Boaventura Dias, Catarina Dias, Maria Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "01-01-1570",
+  "Observações da sesmaria": "Os suplicantes requereram 500 braças de terra de comprimento e de largura no Capibaribe-mirim, na fronteira das terra de João Dourado. ",
+  "Localidade": "Capibaribe-mirim",
+  "Confrontantes": "João Dourado",
+  "Observações da petição": "Apesar da sesmaria ter sido concedida aos suplicantes, o responsável pelo requerimento da petição foi Diogo Dias, pai dos suplicantes.",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de tributo; Determinou-se pagar pensão por engenho, caso este seja levantado; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das exigências": "O capitão locotenente de Itamaracá, João Gonçalves, determinou que caso os suplicantes levantassem engenho de açúcar deveriam pagar o valor de 2% de todo o açúcar produzido. O capitão locotenente de Itamaracá, João Gonçalves, determinou o pagamento da pensão no valor de 2% da terra.  ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0027"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0027 
+ 
+Data que Diogo Dias pediu no Capibaribe mirim, nas ilhargas da data de João 
+Dourado. 
+ 
+João Gonçalves, capitão nesta ilha de Itamarcá, pela senhora dona Jerônima de 
+Albuquerque e Souza. Faço saber aos que esta minha carta de data de umas terras 
+virem e o conhecimento dele com direito pertencer, como a mim me enviou a dizer 
+Diogo Dias, de Capibaribe, por sua petição que ele tem três filhos e os mais que 
+Nosso Senhor lhe der; e porque era morador nesta capitania, quer que os ditos  seus 
+filhos façam fazenda nela, para o que pede alguma terra; um deles se chama 
+Boaventura Dias, outra Maria Dias, outra Catarina Dias, e não tem terras em que 
+façam  fazenda, como diz, e me pedia que lhe doasse 5000 braças em quadro nas 
+ilhargas da de João Dourado, que tem em Capibaribe mirim, onde ele suplicante achar 
+melhor, para ele e seus filhos; e achando-a ser devoluta, que ninguém se aproveite 
+dela, e a tal terra lhe será dada de sesmaria; porque tudo será proveito de ElRei Nosso 
+Senhor, e a bem da senhora dona Jerônima, dona da terra e nobreza dela; e sendo caso 
+que hajam águas na dita terra para engenho ou engenhos, pagarão os sobreditos seus 
+filhos, fazendo engenho de pensão a senhora da terra, a razão de dois por cento de 
+todo o açúcar em pó que se fizer no engenho ou engenhos de água, a qual terra e data 
+que pedem será demarcada de norte ao sul, de leste a oeste; e farão a dita medição da 
+dita data, onde lhe melhor estiver, correndo por qualquer rumo que lhe bem parecer, 
+que fique a dita data em quadra, e poderão acrescentar e tirar da largura e pô-lo em 
+comprimento, e tirar do cumprimento e pô-lo na largura, ou como melhor vier aos 
+suplicantes; e sendo-me apresentada dita petição  e visto nela seu justo pedir, lhe pus 
+meu despacho, que visto as possibilidades dos suplicantes e seu pai ter posses para 
+lhes ajudar, a tudo o que em sua petição dizem; hei por bem de lhe dar as ditas 5000 
+braças de terra em quadro, no lugar que pedem ou onde lhe melhor parecer aos 
+suplicantes, correndo pelos mesmos rumos a dita data de norte a sul e de leste a oeste, 
+até se prefazerem as ditas 5000 braças de terra em quadra, e tirarão da medição, ao 
+tempo que  se demarcarem, o que quiserem de largura e porem em comprimento e do 
+comprimento em largura, como mais lhe aparecer; e havendo água e querendo fazer 
+engenho ou engenhos de água, o farão, pagando de pensão a senhora da terra de foro a 
+dois por cento, a qual terra lhe dou de sesmaria, estando devoluta ou de qualquer sorte 
+que seja, e sendo caso que no tal lugar não possa haver a dita data por alguma via, a 
+
+poderão os suplicantes tomar aonde quer que acharem, não tendo data até a fatura 
+desta, a qual data lhe dou com todas as madeiras, lenhas e águas a dita data 
+pertencentes, pelo qual hei por bem  e me apraz em nome da dita senhora, e pelos 
+poderes que para isso tenho de dar e doar aos ditos Boaventura Dias, Maria Dias e 
+Catarina Dias, filhos do suplicante Diogo Dias, as 5000 braças de terra em quadra, no 
+lugar conteudo em sua petição, pela maneira de meu despacho, atrás declarado, a qual 
+data lhe dou com todas as suas entradas, saídas, usos e logradouros, para eles 
+sobreditos e para sua mulher e filhos, herdeiros ascendentes e descendentes: forra, 
+livre e isenta, sem em algum tempo pagarem outro foro, nem tributo, se não o que 
+atrás é conhecido, convém a saber a dita senhora da terra, a razão de dois por cento; e 
+dos frutos que houverem, pagarão o dízimo a Deus, e assim, eles como as pessoas que 
+deles houverem a tal data; a qual terra e data será medida e demarcada, e dela metidos 
+de posse real e atual, deste dias para sempre, e dela poderão fazer de coisa sua própria, 
+que é; e para certeza dela, lhe mandei passar a presente minha carta e sesmariaa, por 
+mim assinada e selada com o selo das armas da dita senhora que ante mim serve, hoje, 
+o primeiro dia do mês de janeiro. Baltazar Gil da Cunha, escrivão das datas, a fiz. Ano 
+do nascimento de Nosso Senhor Jesus Cristo, de 1570 anos. João Gonçalves. A qual 
+carta de terras, eu, Baltazar Gil, escrivão  aqui, a registrei do próprio original que 
+assinado vinha pelo dito capitão e selado do selo que ante ele serve, em aos 20 dias do 
+mês de maio, ano de 1570. Baltazar Gil. O qual traslado de carta eu, Francisco 
+Alvares, escrivão da Fazenda de Sua Majestade, nesta capitania de Itamaracá, mandei 
+trasladar do livro de registro, e como o senhor procurador comigo abaixo assinado, 
+em os 7 dias do mês de agosto de 97 anos. Francisco Alvares. Consertado comigo, 
+Francisco Alvares, e comigo procurador. 
+- Fim da Transcrição - 
+ 
+Referência: Revista do Instituto Histórico de Goiana, 1871, p. 34-36. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

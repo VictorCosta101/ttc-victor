@@ -1,0 +1,81 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0177
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Bernardo Vieira Ravasco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-06-1655",
+  "Observações da sesmaria": "A sesmaria possuía 10 léguas totais, sem serem especificadas as medidas do comprimento e da largura e estava localizada na Serra da Jacobina, indo em direção ao rio São Francisco, fazendo fronteira com as terras doadas à Francisco de Figueiredo. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Localidade": "Serra da Jacobina",
+  "Marcos Geográficos": "Serra da Jacobina, Rio São Francisco.",
+  "Confrontantes": "Francisco de Figueiredo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1655, acredita-se que foi o governador-geral, Jerônimo de Ataíde, que concedeu a sesmaria.\r\n",
+  "Observações das exigências": "As exigências foram estabelecidas de acordo com as que eram exigidas pelo Foral.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0177"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Bernardo Vieira Ravasco – Carta de 7 de Junho de 1655. – 10 léguas de terra – de 
+onde acaba a dada de Luís de Figueiredo, na largura dela para o Norte, encostadas á 
+Serra da Jacobina pela parte de Oeste, as quais se contaram de onde acaba a mesma 
+data de Luís de Figueiredo que começa de onde o Padre Antônio Pereira se introduziu 
+sem legado do Governo, e caso não sejam capazes de cultura as 10 léguas 
+confrontadas, serão tomadas em qualquer parte da Serra e Campos, que junto a essas 
+se acharem pela parte de Oeste, correndo sempre encostado a Serra para a parte do 
+Rio de São Francisco, em a que além das 10 léguas pedidas houver até o Rio de São 
+Francisco pela parte de Oeste e a mesma Serra da Jacobina, que se achar desde as 
+primeiras Aldeias do gentio, vizinhas a mesma Serra até o Rio de Francisco, com 
+todas as águas, campos, etc. –Condições: As do Foral. 
+ 
+Referência: Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, 
+p. 13 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

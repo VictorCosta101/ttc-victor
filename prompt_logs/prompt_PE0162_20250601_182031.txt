@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0162
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0064",
+  "Nome": "Félix Correa de Queirós, Inácio Correa de Queirós",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-10-1823",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no distrito da vila do Limoeiro. A sesmaria requerida tinha por limites a oeste o tanque do Marcelino, ao norte com a Paraíba e ao sul o rio Capibaribe.",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe, Tanque do Marcelino, Paraíba",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Francisco Pais Barreto, Francisco de Paula Cavalcante de Albuquerque e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provisória de governo da província de Pernambuco determinou o pagamento anual do foro régio no valor de 6 mil réis. A junta provisória também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0162"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0162
+Carta de doação e sesmaria de Felix Correia de Gueiros e Inácio Correia de
+Gueiros - 12/05/1823
+Felix Correia de Gueiros e Inácio Correia de Gueiros, uma légua de terra em
+quadro no termo da vila do Limoeiro.
+Nós, o presidente e membros da Junta Provisória do governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que Felix
+Correia de Gueiros e Inácio Correa dirigiram ao ex-capitão general desta província, Luís
+do Rego Barreto, o requerimento do teor seguinte = Ilustríssimo e excelentíssimo senhor
+= Diz Felix Correia de Gueiros e Inácio Correia de Gueiros, que eles são moradores no
+termo da Vila Real de São João e são criadores de gados vacum e cavalar, e precisam
+para esse mesmo tráfego de tirarem por sesmaria uma légua de terra nos fins do distrito
+da vila do Limoeiro, as quais se acham devolutas e pega de um tanque chamado do
+Marcelino para o poente, e do norte vão atestar com as datas ou termo da Paraíba, e para
+o sul com os providos pelo rio Capibaribe, de sorte fica esta légua em quadra pedida
+pelos suplicantes nesta capitania. E por isso requerem a Vossa Excelência para que
+mande que a Câmara respectiva da vila do Limoeiro mande fixar os editais na forma do
+costume, para depois informar a Vossa Excelência da pretensão do suplicante, [se ache]
+ou não verdadeira = Pedem a Vossa Excelência seja servido mandar na forma que
+parecer, e receberá mercê = Sobre o qual deu o dito ex-capitão general o seu primeiro
+despacho em 28 de agosto de 1820, na forma que se segue = Declarem por termo de
+juramento que não possuem em parte alguma outra sesmaria ou terra, e possuindo-a
+provem com documentos que tem cumprido as condições com que foi concedidas, ao
+qual despacho deram os suplicantes cumprimento apresentando termo judicial, em que
+jurarão não o possuíres, e logo lhes deferiu em data de 6 de novembro do mesmo ano,
+determinando a Câmara respectiva que mandasse afixar editais na forma da Lei por 30
+dias e lhe informasse se havia terceiro prejudicado; Ao que a mesma câmara satisfez em
+ofício de 21 de janeiro de 1821, acompanhado de certidões dos editais, afirmando não
+ter neste tempo comparecido terceiro prejudicado, então por despacho de 17 do mesmo
+mês e ano, mandou ouvir o procurador da Coroa e Fazenda que nenhum embaraço lhe
+pôs, em consequência do que lhes deu em 16 de fevereiro do mesmo ano o despacho do
+teor seguinte = Depois de selados os documentos, o doutor desembargador ouvidor da
+respectiva comarca mande proceder a medição na forma da lei = o qual como ouvidor
+
+mandou cumprir pelos juízes territoriais ou das sesmarias, dando-lhe sentença do
+processo as partes para requererem sua carta; e demorando-se o cumprimento, os
+suplicantes nos dirigiram os papéis com o requerimento do teor seguinte = Ilustríssimos
+e excelentíssimos senhores = Dizem Felix Correia de Gueiros e Inácio Correia de
+Gueiros, que requerendo elas sesmaria de uma légua de terra no termo da vila do
+Limoeiro, depois de praticadas as diligências legais, foi resolvido pelo governador que
+então era desta província que se procedesse a medição na forma da lei, como se vê pelo
+despacho
+ultimamente
+proferido
+no
+requerimento
+junto.
+Semelhante
+despacho
+incontestavelmente é arbitrário, portanto não há lei que mande que se faça a medição
+das terras pedidas por sesmaria antes de se passarem as cartas das mesmas sesmarias,
+pelas quais se devem regular as demarcações; e era preciso não ter sido ou não se
+entender o §1º do alvará de 25 de janeiro de 1809, para que naquele tempo se adotem
+nesta província essa maneira nova de se fazerem demarcações, muito particularmente já
+reprovada por Sua Majestade ilustre em provisão de 20 de maio do ano próximo
+passado de 1822. Portanto, como não se apresentasse impedimento à [pertencimento]
+dos suplicantes, imploram a estes a Vossas Excelências se dignem mandar que prestada
+a fiança ao foro correspondente a referida légua de terras, se lhes passe a carta de
+sesmaria. Pedem a Vossas Excelências sejam servidos lhe deferir = E receberá mercê =
+o que sendo por nós visto e examinado os papéis referidos, parecendo-nos tudo
+conforme mandamos novamente ouvir o desembargador procurador da Coroa e o
+escrivão deputado da junta da Fazenda Pública por despachos de 19 de abril e 7 de maio
+do corrente ano, e não resultando das suas informações algum impedimento, mandamos
+por despacho de 12 do mesmo mês que se lhe passasse a presente carta. E portanto, pela
+faculdade que nos é concedida no capítulo 15 do regimento deste Governo e mais
+Ordens Régias a este fim dirigidos. Havemos por bem conceder em nome de Sua
+Majestade, imperador constitucional e defensor perpétuo do império do Brasil, a Felix
+Correa de Gueiros e Inácio Correa de Gueiros, a sobredita légua de terra com as
+confrontações declaradas no primitivo requerimento, pagando o foro anual de 6 mil réis
+na conformidade da Real Ordem de 28 de setembro de 1700, de que deu fiança na
+contadoria da junta da Fazenda Pública a folha 80º do livro 7º delas. A qual sesmaria
+possuirão e gozarão eles suplicantes e seus herdeiros ascendentes e descendentes, como
+sua que fica sendo de hoje para todo o sempre, com todas as matas, campos, rios, águas,
+testadas, logradouros e mais úteis que nela se compreenderem, não prejudicando a
+terceiro. E não passará a religiões e pessoas eclesiásticas, salvo sendo com os mesmos
+
+encargos com que as possuem os seculares, e nunca se dividirá em porções, nem se
+partirá, senão por estimação, andando encabeçada em uma só pessoa na forma da
+ordenação livro 4º título 96 e 23, sem consentimento da Junta da Fazenda Pública para
+nela se darem novas fianças e se fazerem as devidas escriturações, ficando livres para a
+serventia dos povos todas as estradas, rios, fontes e pedreiras, e reservadas ao
+patrimônio público as madeiras de construção, pau brasil e viveiros de quaisquer metais;
+e serão obrigados a requerer dentro de 3 anos confirmação, a medir e demarcar, em cujo
+ato poderão preencher-se para o lado ou lados em que houverem terras devolutas, caso
+encontrem obstáculo dos éreos confinantes na medição quadrada, a povoá-la e cultivá-la
+na forma da Ordem Régia de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e
+não o cumprindo assim se haverá por devoluta e novamente se concederá a quem
+requerer. Pelo que ordenamos aos ministros da Fazenda e da Justiça e mais pessoas a
+quem tocar. Cumpram e façam cumprir esta carta de data de sesmaria, como nela se
+contém, fazendo dar aos referidos posse real, efetiva e atual, na forma da ordenação
+título das sesmarias. Em firmeza do referido lhe mandamos passar a presente por
+assinada e selada com o sinete das armas imperiais, a qual se registrará na secretaria
+deste Governo, na da junta da Fazenda Pública e aonde mais tocar. Manoel Paulo
+Guintela, segundo oficial da secretaria, a fez em o Recife de Pernambuco, aos 3 dias do
+mês de outubro de 1823, segundo da independência e império do Brasil. E eu, Manoel
+dos Passos e Figueiroa, oficial maior de secretaria, na falta do secretário, a fiz escrever
+= Francisco Paes Barreto pro presidente = Francisco de Paula Cavalcante de
+Albuquerque = Manoel Ignácio Bezerra de Melo = Estava o sinete das armas do império
+= Carta de data de sesmaria, pela qual Vossas Excelências hão por bem conceder em
+nome de Sua Majestade ilustre constitucional uma légua de terra em quadro no termo da
+vila do Limoeiro a Felix Correia de Gueiros e Inácio Correa de Gueiros, como nela se
+declara = Para Vossas Excelências verem = Por despacho do Governo de 12 de maio de
+1823.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls.231-233.
+Observação:
+
+No documento o nome dos suplicantes consta como Felis Correa de Gueiros e Ignacio
+Correa de Gueiros, o que foi modificado para Felix Correia de Gueiros e Inácio Correia
+de Gueiros, seguindo o padrão proposto para a plataforma SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

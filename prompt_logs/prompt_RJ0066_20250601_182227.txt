@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0066
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Faustino Eóbano, Miguel Gonçalves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "27-05-1594",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Praia de Nossa Senhora",
+  "Confrontantes": "Frente das casas de Fernão Baldes, travessa que vai entre João do Basto e Aires Fernandes",
+  "Justificativas": "Não tinha terras; Pretendia fazer casa; As terras eram devolutas; Participou das guerras de conquista; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Ambos os suplicantes também alegaram que: \"nasceram e se criaram nas mores afrontas e trabalharam\".",
+  "Observações das exigências": "Exigiu-se também que vivessem e residissem \"nesta dita cidade ou em seu termo ao menos os ditos 3 anos, no dito regimento declarado, dentro do qual tempo eles não poderão vender, nem por nenhuma via traspassar o dito chão a pessoa alguma sem licença do dito Senhor capitão e governador\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0066"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0066 
+ 
+Carta de concessão de sesmaria de Faustino Eóbano e de Miguel Gonçalves de 27 de maio de 
+1594  
+ 
+Forro 
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1594 aos 27 dias do mês de maio do dito ano nesta cidade de São 
+Sebastião do Rio de Janeiro do Brasil, nas casas de morada de mim escrivão adiante nomeado, 
+apareceu Faustino Eóbano, morador nesta dita cidade, e me apresentou uma petição com um 
+despacho em ela do Senhor Salvador Correia de Sá, capitão e governador desta dita cidade e 
+capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor. E da qual petição e 
+despacho dela o traslado é o seguinte. Dizem Miguel Gonçalves e Faustino Eóbano, moradores 
+nesta cidade, que eles nasceram e se criaram nas mores afrontas e trabalharam, que nela com 
+os inimigos sucederam e sempre foram dos primeiros que com Vossa Senhoria se acharam nos 
+tempos convenientes, são homens honrados com suas mulheres, filhos e filhas, e não tem casas 
+onde morar nem chãos para as fazer, o que tudo é notório, pedem a Vossa Senhoria que, 
+havendo respeito a tão justas causas, faça mercê de dar-lhes os chãos que estão na Praia de 
+nossa Senhora de frente das casas de Fernão Baldes, partindo de frente de uma travessa até a 
+travessa que vai entre João do Basto e Aires Fernandes, tudo até o mar ficando a rua necessária 
+1°, e fazendo Vossa Senhoria assim, receberão esmola e mercê. Despacho do Senhor capitão e 
+governador: dou aos suplicantes os chãos que pedem não sendo dados. Salvador Correia de Sá. 
+E tudo visto por o dito Senhor capitão e governador a petição dos ditos suplicantes Miguel 
+Gonçalves e Faustino Eóbano e o que eles pediam, visto ser justo e havendo respeito ao proveito 
+que se pode seguir acerca da República, ao serviço de Deus, de El Rei nosso Senhor e por a 
+terra se povoar, deu aos sobreditos Miguel Gonçalves e Faustino Eóbano os chãos que pediam 
+e onde os pedem, porquanto diziam que estavam devolutos, e por aproveitar para os 
+aproveitarem e fazerem casas como dizem neles, não sendo já dados a outras pessoas 1°, 
+conforme o dito seu despacho, os quais chãos dizem que estão no dito lugar e que partem pelas 
+ditas confrontações, como na sua petição diz. O que tudo lhes deu e concedeu na maneira 
+adiante declarada segundo forma do regimento do governador geral, que foi nesta dita cidade 
+Antônio Salema, de que o traslado é o seguinte: e as terras que estiverem dentro do termo e 
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas 
+a pessoas que as aproveitem, ou posto que o fossem, se pelas pessoas a que se deram as não 
+aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, 
+
+as podereis dar de sesmaria a quem vá pedir, e que segundo sua possibilidade virdes ou vos 
+parecer que podem granjear e aproveitar. As quais terras assim dareis livremente, sem outro 
+algum foro, somente o dízimo à Ordem do Mestrado de Nosso Senhor Jesus Cristo, e com as 
+condições e obrigações do foral dado às ditas terras e de minha ordenação do Livro 4°, título 
+das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da dita capitania 
+ou das terras que lhes assim forem dadas ao menos os 3 anos, e que dentro no dito tempo as não 
+possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita 
+cidade, as tiverem perdidas por as não aproveitarem, e vá tornarem a pedir, vós lhes podereis 
+de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas 
+cartas porque as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras 
+pessoas com as quais condições, obrigações e declarações, lhe assim deu o dito Senhor capitão 
+e governador os ditos chãos aos dito Miguel Gonçalves e Faustino Eóbano, pela dita maneira, 
+para sua guarda e segurança lhes mandou ser feita esta carta, pela qual manda que eles e todos 
+seus herdeiros e sucessores ascendentes e descendentes que após deles vierem com tal condição 
+e entendimento, que eles vivam e residam nesta dita cidade ou em seu termo ao menos os ditos 
+3 anos, no dito regimento declarado, dentro do qual tempo eles não poderão vender, nem por 
+nenhuma via traspassar o dito chão a pessoa alguma sem licença do dito Senhor capitão e 
+governador ou de quem adiante tiver poder para lhes dar e, da dita maneira, lhes dava os ditos 
+chãos e, acabados os ditos 3 anos, tendo eles feito nos ditos chãos casas e benfeitorias, eles o 
+poderão vender, trocar, descambar, dar e doar os dito chaos, e fazer deles, cada um do seu todo, 
+o que lhes bem vier e aprouver, como cousa sua própria que é, o que tudo manda que se cumpra 
+e guarde, sem dúvida, nem embargo algum, que a ele seja posto e que esta carta seja registrada 
+dentro em um ano nos livros da Fazenda Real, como o dito Senhor em seu regimento manda 
+sob as penas em ele contidas e declaradas, e porque os sobreditos suplicantes Miguel Gonçalves 
+e Faustino Eóbano tudo prometeram de ter, manter e cumprir, pela dita maneira e por verdade 
+eu, Pero da Costa, tabelião, digo, escrivão das sesmarias e tabelião das notas por El Rei nosso 
+Senhor em esta cidade de São Sebastião e seus termos, que este instrumento de carta de sesmaria 
+escrevi e tomei nos meus livros das notas e tombo das cartas das sesmarias desta dita cidade, 
+que em meu poder ficam onde o dito instrumento fica assinado por o dito Senhor capitão e 
+governador //Salvador Correia de Sá// 
+ 
+ 
+-Fim da Transcrição- 
+Observações do documento: 
+
+O nome do sesmeiro “Miguel Gonçalves" foi alterado para “Miguel Gonsalvez”. 
+A palavra “Jhu Xpo” foi alterada para “Jesus Cristo” e "estante" para "instante". 
+Título original: Carta de sesmaria de chão e praia de Faustino Eóbano e de Miguel Gonsalvez 
+(Glz) que está defronte das casas que foram de Aires Fernandes que hora são dos padres da 
+Companhia de Jesus. 
+Referências:  
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas 
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.15-18. 
+ 
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.15-18. Códice 
+778-1 (1594-1595). 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

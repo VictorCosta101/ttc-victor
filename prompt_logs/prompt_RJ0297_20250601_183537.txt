@@ -1,0 +1,91 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0297
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Rodrigues Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "30-06-1731",
+  "Observações da sesmaria": "A carta de concessão encontra-se em estado de completa ilegibilidade, o que impossibilita a identificação do histórico da terra.",
+  "Localidade": "Terras em Campos dos Goitacazes, capitania da Paraíba do Sul",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta encontra-se em estado de completa ilegibilidade, o que impossibilitou a identificação das justificativas.",
+  "Observações do deferimento e da concessão": "A carta apresenta um estado de completa ilegibilidade, o que impossibilitou a identificação das instâncias por que passou. O governador, em questão, refere-se à capitania da Paraíba do Sul, e não propriamente do Rio de Janeiro.",
+  "Observações das exigências": "A carta encontra-se completamente ilegível, o que impossibilitou a identificação de dados referentes às exigências para a concessão da sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0297"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0297
+Carta de concessão de Manuel Rodrigues Pinto de 30 de junho de 1731
+(Ilegível)
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o governador e lugar tenente da capitania da Paraíba do Sul,
+Martim Corrêa de Sá e Benavides, concedeu e deu de sesmaria a Manuel Rodrigues Pinto
+uma légua de terra em quadra com as confrontações indicadas na mesma carta. S. Salvador,
+30 de junho de 1731.
+O documento encontra-se ilegível em sua totalidade. Encontramos também a petição de
+confirmação de Manuel Rodrigues Pinto código 9.668. A fim de fornecer mais informações
+da sesmaria e do sesmeiro, fornecemos abaixo a transcrição da petição de confirmação:
+“Haja vista o Procurador da Fazenda. Lisboa Real, 12 de outubro de 1737.
+Senhor.
+Diz Manuel Rodrigues Pinto, morador no distrito da vila de São Salvador dos Campos dos
+Goytacazes, capitania do Rio de Janeiro, que ele alcançou a sesmaria inclusa do capitão,
+governador e lugar tenente da capitania da Paraíba do Sul, Martim Correia de Sá e Benevides,
+cuja manda confirmar-lhe, não sem tido o seu poder a carta de confirmação, e porque tem
+cultivado com grande trabalho e fazendo uma grande utilidade ao dízimo pertencente a Vossa
+Majestade. Da mesma está de posse e para seu justo título se lhe faz preciso sua carta de
+confirmação na forma do estilo.
+Haja visto o Procurador da Coroa. Lisboa, 19 de outubro de 1737.
+Para Vossa Majestade lhe faça mercê mandar se lhe passar sua carta de confirmação na forma
+costumada. Visto o que alega.
+Juntem-se os papeis do requerimento do suplicante. Lisboa, 29 de outubro de 1737.”
+Referência:
+AHU_ACL_CU_017-1, Cx. 41\Doc. 9.669
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

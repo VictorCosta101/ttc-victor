@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0070
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Alves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "28-08-1798",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Sobre o histórico da terra, apenas informa que o pleiteante \"havia descoberto um sítio de terras devolutas, a qual não ainda tinha denominação alguma\". \r\n",
+  "Localidade": "\"na Ribeira do Piauí do termo desta cidade\"",
+  "Ribeira": "\"Ribeira do Piauí\"",
+  "Confrontantes": "\"para o poente com a fazenda da Cachoeira da Real [?]\"; \"para o norte com a Fazenda do Mucambo\". ",
+  "Justificativas": "Era descobridor(a) das terras; Pretendia criar gado; Pretendia cultivar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Na carta de concessão consta que o pleiteante \"havia descoberto um sítio de terras devolutas\" e \"porque as queria cultivar e criar gados me requereu lhe concedesse em nome de Sua Majestade\". ",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Na carta de concessão também consta que \"havendo nas mesmas terras estrada pública que atravesse rio caudaloso que necessite de barca para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para o uso público, mas sim também de uma delas meia légua de terra em quadra para a comodidade pública e de quem arrendar a dita paragem\" e que \"faltando a qualquer destas cláusulas, se haverão as ditas terras por devolutas e se darão a quem as denunciar”. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0070"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0070
+Carta de concessão de Francisco Alves - 28/08/1798
+Registro da carta de data e sesmaria passada a Francisco Alves
+Dom João de Amorim Pereira, cavaleiro da Ordem de Cristo, sargento-mor da infantaria,
+fidalgo da Casa Real e governador da capitania do São José do Piauí, etc. Faço saber aos que
+esta minha carta de data e sesmaria virem, que Francisco Alves me representou que na
+Ribeira do Piauí do termo desta cidade havia descoberto um sítio de terras devolutas, a qual
+não ainda tinha denominação alguma, cujo sítio confrontava para a nascente com caatingas
+gerais, para o poente com a fazenda da Cachoeira da Real [?], para o norte com a Fazenda do
+Mucambo e para o sul com caatingas, e porque as queria cultivar e criar gados me requereu
+lhe concedesse em nome de Sua Majestade 3 léguas de terra de comprido e uma de largo no
+dito sítio, ao que atendendo a também informação da Câmara e provedor da Fazenda Real
+que foi ouvido e se lhe não ofereceu dúvida alguma, e ser em utilidade da mesma Real
+Fazenda cultivarem as terras neste Estado; hei por bem conceder-lhe em nome de Sua
+Majestade por data e sesmaria as ditas 3 léguas de terra de comprido e uma de largo na forma
+e parte que pede, com as confrontações que declara e com as condições expressadas nas reais
+ordens, e com a de não fazer trespasse por meio algum em nenhum tempo ou pessoa alguma,
+religião ou comunidade sem que primeiro dê parte na Casa da Fazenda ao provedor dela para
+se me fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de ficar nula
+esta data, e se puder novamente conceder a outro. E nesta forma, se lhe passa carta para que o
+dito Francisco Alves haja, logre e possua as sobreditas terras como coisa sua própria para si e
+seus herdeiros, ascendentes e descendentes, sem pensão nem tributo algum mais que o dízimo
+a Deus, nosso senhor, dos frutos que nela tiver ou lavrar, a qual conceção lhe faço não
+prejudicando a terceiros nem a Sua Majestade; se no dito sítio quiser fundar alguma vila,
+reservando os paus reais que nelas houver para embarcações, com declaração que mandará
+confirmar esta data por Sua Majestade dentro de 3 anos primeiros seguintes; e cultivará as
+ditas terras de maneira que dará frutos; e dará caminhos públicos e particulares aonde forem
+necessários para pontes, fontes, portos e pedreiras; e havendo nas mesmas terras estradas
+públicas que atravesse rio caudaloso que necessite de barca para atravessar, não só ficará de
+ambas as bandas do tal rio a terra que baste para o uso público, mas sim, também, de uma
+delas meia légua de terra em quadra para a comodidade pública e de quem arrendar a dita
+passagem; e se demarcará ao tempo da posse por rumo de corda e braças craveiras, como é
+estilo e Sua Majestade manda; e outrossim, não poderão suceder nelas religiões nem outras
+pessoas eclesiásticas, por nenhum título que seja, e acontecendo possuí-las, será com o
+encargo de pagarem delas dízimos a Deus como se fossem possuídas por seculares, e faltando
+a quaisquer destas cláusulas se haverão as ditas terras por devolutas e se darão a quem as
+denunciar, como o mesmo senhor ordena. Pelo que mando ao provedor da Fazenda Real,
+mais ministros e pessoas a que tocar que na forma referida e com as condições expressadas,
+deixem ter e possuir as sobreditas terras ao dito Francisco Alves, como coisa sua própria para
+si e seus herdeiros, ascendentes e descendentes, e que assim, também, cumpram e guardem
+esta minha carta de data e sesmaria tão inteiramente como nela se contém; e se registrará nas
+partes aonde tocar, a qual lhe mandei passar e vai assinada por mim e selada com o selo de
+minhas armas; e se e se passou por duas vias, dada e passada nesta cidade de Oeiras do Piauí,
+aos 28 de agosto, ano do nascimento de nosso Senhor Jesus Cristo 1798. E eu, Thomas de
+Aquino Ozorio, secretário do ilustríssimo governador desta capitania a fiz escrever // Dom
+João de Amorim Pereira // Estava o selo. Carta de data e sesmaria, porque Vossa Senhoria há
+por bem conceder em nome de Sua Majestade a Francisco Alves 3 léguas de terra de
+comprido e uma de largo na forma e parte que pede com as confrontações que declara. Para
+Vossa Senhoria ver.
+
+– Fim da Transcrição –
+Observações do documento:
+Referência:
+APEPI, Livro 1, fls. 147 - 148
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0121
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Álvares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-07-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. ",
+  "Localidade": "Nas cabeceiras de Nuno Vaz Pinto",
+  "Marcos Geográficos": "Várzea de Nossa Senhora",
+  "Confrontantes": "Rua de Baltazar Coutinho, lugar do pé de outeiro de Santo Antônio",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Os suplicantes alegaram que pretendiam \"ordenar de ordens de missa, que para esse efeito lhes é necessário patrimônio, porquanto, seu pai não tem tanto quanto é necessário por ter muitos filhos\".",
+  "Observações do deferimento e da concessão": "Apesar de não dar maiores especificações acerca das medidas da gleba, a carta informa que a sesmaria foi concedida.",
+  "Observações das exigências": "Determinou-se aos irmãos que \"hajam a posse e senhorio do chão para sempre\", assim como exigiu-se dos suplicantes que \"vivam e residam nesta dita cidade ou em seu termo ao menos três anos, no dito Regimento declarados, dentro do qual tempo eles não poderão vender, nem enlear o dito chão por nenhuma via que seja, a pessoa alguma sem licença do dito senhor, capitão e governador, ou de quem adiante tiver poder para dar e da dita maneira lhe dava o dito chão, e acabados os ditos três anos, tendo eles ditos suplicantes, feito nos ditos chãos casas e benfeitorias, eles poderão vender, trocar, descambar, dar, doar e fazer deles tudo o que lhes bem vier, como as coisas suas próprias isentas que são, os quais chãos lhes deu e concedeu em nome de El Rei Nosso Senhor, forros e isentos sem foro, nem tributo, somente o dízimo a Deus\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0121"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0121
+Carta de pedido de concessão de sesmaria de Francisco Alvares e Manuel da Nóbrega de 15
+de julho de 1603
+Forro
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento do
+nosso senhor Jesus Cristo de 1603, aos 15 dias do mês de julho do dito ano, nesta cidade de
+São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim escrivão adiante nomeado,
+apareceu Francisco Álvares da Fonseca, escrivão da Ouvidoria e morador nesta dita cidade, e
+me apresentou uma petição feita em nome de seus filhos Manuel da Nóbrega e Francisco
+Alvares, o moço, com despacho nela do Senhor Martins de Sá, Capitão e Governador desta
+dita cidade, capitania e governança deste dito Rio de Janeiro por El Rei nosso senhor. Da qual
+petição o despacho dela o traslado de tudo de verbo a verbo é o seguinte: dizem Francisco
+Alvares, o moço, e seu irmão Manuel da Nóbrega que eles com o favor de nosso Senhor se
+querem ordenar de ordens de missa, que para esse efeito lhes é necessário patrimônio,
+porquanto, seu pai não tem tanto quanto é necessário por ter muitos filhos, pedem a Vossa
+Senhoria que havendo respeito ao acima dito e com efeito para que lhes faça mercê de lhes
+dar de sesmaria um pedaço de chão que está na várzea de Nossa Senhora, nas cabeceiras de
+Nuno Vaz Pinto, indo pela mesma rua adiante da banda da mão direita, parte com a dita rua
+que vai de Baltasar Coutinho por diante, até entestar com o lugar que está no pé do outeiro de
+Santo Antônio. E de tudo receberam mercê. Despacho do senhor capitão e governador. Dou
+aos suplicantes os chãos que pedem e conforme a sua petição dizem. Rio de Janeiro, 14 de
+julho de 1603. Martim de Sá. E tudo visto pelo dito senhor, capitão e governador, a petição do
+dos ditos suplicantes Francisco Alvares, o moço e Manuel da Nóbrega e o que eles lhe
+pediram, visto ser justo e havendo respeito ao que na sua petição dizem e ao serviço de Deus e
+Del Rei, Nosso Senhor, para a terra se povoar, lhes deu o dito chão que pediam e conforme o
+dito seu despacho, porquanto diziam que estava vago e devoluto, por aproveitar e sem
+nenhuma benfeitoria para aproveitarem e fazerem suas casas, para que viverem nelas como
+dizem, não sendo já dado a outra pessoa ou pessoas primeiro, o qual chão dizem que está no
+dito lugar, que parte pelas ditas confrontações como em sua petição dizem, (o qual chão
+dizem que está no dito lugar e que parte pelas dicas confrontações como na sua petição
+dizem), o qual chão lhes deu e concedeu pela maneira adiante declarada, segundo a forma do
+Regimento de El Rei nosso Senhor de que o translado é o seguinte: as terras que estiverem
+dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte
+que não forem dadas as pessoas que as aproveitem ou, posto que o fossem, se as pessoas a
+quem se deram as não aproveitarem no tempo que eram obrigadas, por esta via ou por
+qualquer outra estiverem vagas, as poderei dar de sesmaria a quem a vós pedir, e tereis
+lembrança que não derdes a cada pessoa mais terra que aquela que segundo sua possibilidade
+virdes, ou vos parecer que podem granjear e aproveitar. As quais terras assim dareis
+livremente sem outro algum foro, somente o dízimo a Ordem do Mestrado de Nosso Senhor
+Jesus Cristo, com as condições e obrigações do foral dado às ditas terras de minha Ordenação
+do livro 4º, título das
+sesmarias, com a condição que a tal pessoa ou pessoas residam na
+povoação da dita capitania ou das terras que lhe assim forem dadas ao menos três anos, o que
+dentro do tempo as não possam vender, nem enlear, e se algumas pessoas que foram dadas
+terras no termo da dita cidade e as tiverem perdidas por não as aproveitarem, e a vós tornarem
+a pedir, vós as podereis de novo dar com as condições e obrigações contidas neste capítulo, o
+qual se trasladará nas cartas porque as assim derdes e isso se entenderá não sendo as ditas
+terras dadas a outras pessoas. Com as condições, obrigações e declarações lhes assim deu o
+dito senhor, capitão e governador, o dito chão, aos ditos suplicantes Francisco Alvares, o
+
+moço, e seu irmão Manuel da Nóbrega, para sua guarda e segurança, lhes mandou ser feita
+esta carta pela qual manda que eles hajam a posse e senhorio do chão para sempre, para eles e
+todos os seus herdeiros, sucessores, ascendentes e descendentes que após deles vierem, com a
+tal condição e entendimento que eles vivam e residam nesta dita cidade ou em seu termo ao
+menos três anos, no dito Regimento declarados, dentro do qual tempo eles não poderão
+vender, nem enlear o dito chão por nenhuma via que seja, a pessoa alguma sem licença do
+dito senhor, capitão e governador, ou de quem adiante tiver poder para dar e da dita maneira
+lhe dava o dito chão, e acabados os ditos três anos, tendo eles ditos suplicantes, feito nos ditos
+chãos casas e benfeitorias, eles poderão vender, trocar, descambar, dar, doar e fazer deles tudo
+o que lhes bem vier, como as coisas suas próprias isentas que são, os quais chãos lhes deu e
+concedeu em nome de El Rei Nosso Senhor, forros e isentos sem foro, nem tributo, somente o
+dízimo a Deus. O que tudo manda que se cumpra e guarde, sem dúvida nem embargo algum
+que lhes a ele seja posto e que esta carta seja registrada dentro de um ano nos livros da
+Fazenda Real, como dito senhor em seu Regimento manda, sobre as penas nele contidas e
+declaradas, e porque os sobreditos suplicantes Francisco Alvares, o moço, e Manuel da
+Nóbrega, tudo prometeram de ter, manter e cumprir pela dita maneira lhe mandou passar esta
+carta de sesmaria, e por verdade, eu Pero da Costa, escrivão das sesmarias e tabelião das notas
+por El Rei nosso senhor, nesta cidade de São Sebastião e em seus termos, que este
+instrumento de carta de sesmaria escrevi e tomei nos meus livros de nota e tombo das cartas
+de sesmarias dessa dita cidade que em meu poder ficam, onde o dito instrumento fica assinado
+pelo dito senhor capitão e governador. //Martim de Sá//
+- Fim da Transcrição -
+Observações do documento:
+Título original: Carta de sesmaria do chão para casas de Francisco Alvares, o moço, e de seu
+irmão Manuel da Nobrega, filhos de Francisco Alvares da Fonseca, que parte com Nuno Vaz
+Pinto.
+Referências:
+AN- Seção de documentos históricos Cod. 779-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.  Página
+159-152; Documento Original : Fl.53.
+Original no livro
+Arquivo: DHBN_VOL.CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca
+Nacional, dep. Nacional do livro, 1967; Códice 779-1.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

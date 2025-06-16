@@ -1,0 +1,168 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0022
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Bastião Gonçalves",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "11-01-1574",
+  "Data da concessão": "11-01-1574",
+  "Observações da sesmaria": "Título original: Carta de sesmaria do chão para casas de Bastião Gonçalves, vaqueiro.\r\n",
+  "Localidade": "Liripe",
+  "Ribeira": "Lagoa Grande",
+  "Confrontantes": "Baltazar Lourenço",
+  "Justificativas": "Alegou não ter casa própria; Não tinha terras; ",
+  "Exigências do Deferimento": "Mandou-se levantar casa; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0022"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0022 
+Carta de concessão de sesmaria de Bastião Gonçalves de 11 de janeiro de 1574 
+Forra                                                                                                                      Saibam, quantos 
+este instrumento de carta de sesmaria virem que no ano do nascimento de nosso Senhor, Jesus 
+Cristo de 1574 anos, aos 11 dias do mês de janeiro, do dito ano, nesta cidade de São Sebastião 
+do Rio de Janeiro, terra desta costa do Brasil, nas pousadas de mim escrivão abaixo nomeado, 
+apareceu Crispim da Cunha, ora instante nesta dita cidade, e me apresentou uma petição feita 
+em nome de Bastião Gonçalves, vaqueiro, morador nesta dita cidade que vinha com um 
+despacho nela, do Senhor Cristóvão de Barros, capitão e governador desta dita cidade, capitania 
+e governança deste dito Rio de Janeiro, por El Rei nosso Senhor, da qual [f.44,95] petição o 
+traslado dela é o seguinte. Senhor, capitão e governador. Diz Bastião Gonçalves, morador nesta 
+cidade que há quatro anos que ele suplicante está nesta cidade, e não tem chão para fazer casas, 
+para caso de sua mulher embora vier, porque está esperando por ela cada dia e não tem onde 
+agasalhar, pede ele suplicante a Vossa Mercê, que lhe dê de sesmaria um chão que está na 
+cabeceira da lagoa, quando vão para Liripe, da banda debaixo do caminho até entestar com a 
+cabeceira do chão de Baltazar Lourenço, o qual chão irá correndo da borda da Lagoa Grande, 
+que está da banda da praia, irá correndo ao longo do mato virgem, indo para as olarias até 
+entestar com dito Baltazar Lourenço, e dali irá correndo ao longo da dada do dito Baltazar 
+Lourenço, para a banda de cima do outeiro, até entestar com o caminho que vai sair a dita praia, 
+virá correndo ao longo do dito caminho para a banda desta cidade até tornar a  entestar com a 
+dita lagoa, tudo aquilo que se achar que não é alagadiço ao longo do dito mato virgem, no que 
+receberá mercê. E tudo visto pelo dito Senhor, capitão e governador a petição do dito suplicante 
+Bastião Gonçalves, e o que ele pedia visto ser justo, e havendo respeito ao proveito que se pode 
+seguir acerca da República e ao serviço de Deus e Del Rei, nosso Senhor, por a terra se povoar, 
+deu ao dito suplicante Bastião Gonçalves, 25 braças de terra, para casas e quintal na parte que 
+pede, porquanto, o dito chão estava vago e devoluto e por aproveitar, sem nenhuma benfeitoria 
+para o dito suplicante Bastião Gonçalves, aproveitar e fazer casas e benfeitorias como nele não 
+sendo já dado outra pessoa primeiro, o qual chão está no dito lugar, e tem a dita medida, parte 
+pelas ditas confrontações, como em sua petição diz, e a braça será braça craveira, convém a 
+saber   2 varas de medir por 1, como no Reino se costuma de medir, que tudo lhe deu e concedeu 
+na maneira abaixo declaradas, segundo forma de sua provisão e do regimento do governador-
+geral Mem de Sá, de que o traslado de tudo de verbo a verbo é o seguinte.  Despacho do Senhor, 
+capitão e governador. Dou ao suplicante 25 braças de terras, para casas e quintal na parte que 
+pede. A 6 de outubro de 1573. Cristóvão de Barros. Eu El Rei, faço saber aos que este alvará 
+virem, que pela confiança que tenho em Cristóvão de Barros, que nas coisas de que o encarregar 
+me servirá e fará com o recado e felicidade que o meu serviço cumpre, hei por bem e me apraz 
+de lhe fazer mercê de capitão e governador da capitania e cidade de São Sebastião do Rio de 
+Janeiro, nas partes do Brasil, por tempo de quatro anos, que servirá com os poderes e alçada 
+que teve e de que usou Salvador Correia de Sá, sobrinho de Mem de Sá do meu Conselho, que 
+
+ora está por o meu governador nas ditas partes, o tempo que a serviu por dela prover o dito 
+Mem de Sá, seu tio, e conforme o regimento que lhe para isso foi dado, e portanto, notifico 
+assim ao dito Mem de Sá, e mando-lhe que meta ao dito Cristóvão de Barros em posse da dita 
+capitania e governança, para a servir pelos ditos quatro anos, como dito é em riscado: quatro 
+anos como dito é e em  minha chancelaria lhe será dado juramento, que bem e verdadeiramente 
+sirva guardando em tudo meu serviço e o direito as partes, e antes que o dito Cristóvão de Barros 
+parta deste Reino, me dará menagem pela fortaleza da dita capitania, segundo ordenança, e de 
+como a deu apresentará certidão nas custas deste de Duarte Dias, fidalgo de minha casa e meu 
+secretário, o qual hei por bem que valha, tenha força e vigor como se fosse carta feita em meu 
+nome, e selada do meu selo pendente sem embargo da ordenação do Livro 2º, título 20, que diz 
+que as coisas que cujo efeito houver  de durar mais de um ano, passem por cartas, e que se 
+passando por alvarás não valham. André Vidal fez em Lisboa a 31 de outubro de 1571. Sebastião 
+da Costa o fez escrever. E sendo caso Cristóvão de Barros, vá de rota abatida daqui tomar a dita 
+cidade de São Sebastião, e por esta causa lhe não poder dar a posse Mem de Sá como acima  é 
+declarado, mando aos juízes e vereadores da dita cidade, que lhe deem a dita posse e cumpram 
+este alvará como se nele contém. Rei . O qual alvará estava assinado e tinha todas as verbas 
+inscrições, registros e certidão que a dita provisão requer, por virtude do qual eu escrivão dou 
+fé. Mem de Sá, governador-geral nos poderes que concedeu a Salvador Correia de Sá, de que 
+usou nesta capitania lhe deu poder para dar de sesmaria terras e chãos conforme o regimento e 
+capítulo Del Rei nosso Senhor, por onde as dele dava na Baía de Todos os Santos, o qual 
+capítulo é o seguinte. § As terras e águas dos ribeiros que estiverem dentro do termo e limite da 
+dita cidade, que são 6 léguas para cada parte que não forem já dadas às pessoas que as 
+aproveitarem e estiverem vagas e devolutas para mim, e por qualquer via ou modo que seja 
+podereis dar de sesmaria as pessoas que vo-las pedirem, as quais terras assim dareis livremente 
+sem outro algum foro nem tributo, somente o dízimo a Ordem de nosso Senhor Jesus Cristo, 
+com as condições e obrigações do foral dado as ditas terras de minha ordenação do Livro  4º 
+título das sesmarias, com tal condição que a tal pessoa ou pessoas que residam na povoação da 
+dita Baía ou das terras que lhe assim forem dadas ao menos três anos, e que dentro do dito 
+tempo as não possam vender, nem enlear e nem tereis lembrança que não deis a cada pessoa 
+mais terra que aquela que virdes, ou vós parecer que segundo sua possibilidade pode aproveitar 
+e se algumas pessoas a que forem dadas terras no dito termo e as tiverem perdidas, por as não 
+aproveitarem e se tornarem a pedir vós as dareis de novo para aproveitarem com as condições 
+e obrigações contidas neste capítulo, o qual se trasladará nas cartas das ditas sesmarias. Com as 
+quais condições, obrigações e declarações lhe assim deu o dito Senhor, capitão e governador as 
+ditas terras ao dito Bastião Gonçalves, suplicante pela sobredita maneira e para sua guarda ele 
+mandou ser feita esta carta pela qual manda que ele haja a posse senhorio do dito chão para 
+sempre, para ele, seus herdeiros e sucessores, ascendentes e descendentes que após dele vierem 
+com tal condição e entendimento, que ele viva nesta cidade ou em seu termo os ditos três anos, 
+em o dito regimento declarados, dentro do qual tempo ele não poderá vender, nem enlear o dito 
+chão por nenhuma via que seja sem licença do dito Senhor, capitão e governador, ou de quem 
+
+ao diante tiver poder para a dar a dita maneira lhe dava o dito chão e acabados os ditos três 
+anos, tendo ele feito no dito chão casas  e benfeitorias, ele poderá vender, trocar, descambar ou 
+fazer de tudo o que lhe bem vier, como de coisa sua própria isenta que é, e porque o sobredito 
+Bastião Gonçalves tudo prometeu de ter, manter e cumprir pela dita maneira, lhe mandou passar 
+esta  carta de sesmaria a qual será registrada dentro de um ano nos livros da Fazenda Real, como 
+o dito Senhor em seu regimento manda, só as penas nele contidas e declaradas, por verdade eu 
+Pero da Costa, escrivão das sesmarias e tabelião das notas por El Rei nosso Senhor. nesta sua 
+cidade de São Sebastião, seus termos que este instrumento de carta de sesmaria, escrevi nos 
+livros das notas e tombo das cartas de sesmaria desta dita cidade que em poder ficam, onde o 
+dito instrumento fica assinado pelo dito Senhor, capitão e governador e não faça dúvida no 
+riscado onde diz "quatro anos e minha, digo, como quatro anos dito é e em" porque se fez por 
+fazer verdade e eu sobredito que eu escrevi. //Cristóvão de Barros//  
+- 
+Fim da Transcrição - 
+ 
+Observações: 
+Título original: Carta de sesmaria do chão para casas de Bastião Gonçalves, vaqueiro. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristóvão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página  98; 
+Documento original: f.44.,95.  
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.98. Códice 50.5.3A(1573-4). 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

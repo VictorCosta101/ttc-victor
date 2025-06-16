@@ -1,0 +1,210 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0093
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0150",
+  "Nome": "José Gomes Lima Monte Raso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "03-11-1760",
+  "Data da concessão": "20-12-1760",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma de largura, no Riacho da Onça, principiando nos extremos dos sítios Jacaré e Santa Maria, passando por um lugar chamado Caldeirões, por ter água para a criação de gado, do rio Capibaribe.",
+  "Localidade": "Sítios Jacaré e Santa Maria, Caldeirões e rio Capibaribe.",
+  "Marcos Geográficos": "Sítios Jacaré e Santa Maria, Caldeirões e rio Capibaribe.",
+  "Justificativas": "Alegou que já pagava o dízimo havia um tempo; As terras eram devolutas; Tinha gado; Tinha gado vacum; Tinha gado cavalar; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se passar a carta de sesmaria na forma costumada; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador, Luís Diogo Lobo da Silva, determinou o pagamento do foro de quatro mil réis por cada légua ao ano.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0093"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0093
+Carta de doação de sesmaria do padre José Gomes Lima Monte Raso - 20/12/1760
+Carta de doação de Sesmaria ao padre José Gomes Lima Monte Raso.
+Luiz Diogo Lobo da Silva, do Conselho de Sua Majestade fidelíssima, comendador da
+comenda de Santa Maria de Moncorvo da ordem de Cristo, governador e capitão general de
+Pernambuco, Paraíba e mais capitanias anexas e etc. — Faço saber aos que esta carta de
+doação e sesmaria virem, que o padre José Gomes Lima Monte Raso me enviou a dizer em
+sua petição por escrito, o seguinte: - Diz o padre José Gomes Lima Monte Raso, morador
+em Tracunhaém, que ele, suplicante, tem uma fazenda de gados vacum e cavalar, situada na
+Ribeira do rio Capibaribe, da qual paga dízimos a Sua Majestade, e porque as terras em que
+tem o gado são arrendadas e se lhe estão findando os anos do seu arrendamento, e se acham
+umas terras devolutas e desaproveitadas na mesma ribeira pelo riacho chamado Onça, que
+divide o sítio de Santa Maria e Jacaré, da parte do sul, o qual riacho deságua no rio
+Capibaribe, distante desta praça 40 léguas, com pouca diferença, e quer o suplicante havê-
+las, pedindo a Sua Majestade por data na forma seguinte; — principiando das extremas do
+fundo dos sítios Jacaré e Santa Maria, duas léguas pelo riacho acima, buscando as suas
+nascenças ou cabeceiras, entrando nesta distância um lugar chamado Caldeirões, de onde se
+acham águas empoçadas e olhos d'água para sustentação do gado, com meia légua por cada
+banda do riacho, apanhando qualquer quantidade de terras que houver de criar ou de plantar,
+fazendo de largura comprimento ou de comprimento e largura para melhor convier, não
+prejudicando a terceiro; e o dito riacho chamado Onça nasce da parte do sul, e como o
+reverendo suplicante carece de terras para criar os seus gados e se acham aquelas devolutas,
+portanto, pede a Vossa Excelência que atendendo a carência do suplicante lhe mande passar
+em nome de Sua Majestade sua carta de data de sesmaria na forma do estilo; e receberá
+mercê. Na qual petição sendo-me apresentada, mandei por despacho de 3 de novembro de
+1760, declarando o distrito da capitania a que pertencem as terras de que trata, lhe deferiria
+estando em termos praticar-se as diligências do estilo e jurando o suplicante não possuir
+sesmaria alguma, ao que satisfez com a declaração o termo de juramento seguinte: -
+Declara o reverendo suplicante que as terras que pretende se lhe concedam de sesmaria,
+pertencem ao distrito da Câmara da cidade de Olinda; E outrossim, jura em verbo o
+
+sacerdote não possuir sesmaria alguma, e também declara que as léguas que pretende são 3
+de comprido e uma de largo, na forma das novas ordens de Sua Majestade, que Deus
+guarde - Recife, 4 de novembro de 1760 — José Gomes Lima Monte Raso - Com a qual
+declaração e termo do juramento, mandei por despacho de 4 de novembro de 1760 do dito
+ano, informassem os oficiais do distrito a que pertencem as terras que o suplicante pretende,
+procedendo-se a editais de 30 dias, na forma das ordens, examinando se as mesmas se
+acham-se incultas e se há terceiro prejudicado em se darem ao suplicante, como também se
+entre elas e as sesmarias imediatas a área competente a ficar légua de logradouro, que Sua
+Majestade fidelíssima determina, em observância do dito despacho, informou o seguinte:
+Ilustríssimo e excelentíssimo senhor — Em observância do despacho de Vossa Excelência,
+lavrado na petição junta do suplicante, o padre José Gomes Lima Monte Raso, mandamos
+fixar editais na matriz de Nossa Senhora da Luz, e nos consta por certidão de Manoel da
+Silva Pereira, oficial de justiça, que os ditos editais estiveram fixados mais de 30 dias, que
+neles não saíra pessoa alguma com dúvida, embargo ou contradição, pelo que nos parece se
+faz digno o real suplicante da sesmaria que pretende, sendo Vossa Excelência assim servido,
+de que mandamos passar a presente por nós assinada. Olinda em Câmara, 6 de dezembro de
+1760 — Francisco Xavier Louzado, escrivão da Câmara, o escrevi — Pedro Velho Barreto
+— João Luiz da Serra Cavalcante — Félix de Paiva Barreto —. E com a dita informação,
+mandei por despacho de 11 de dezembro de 1760, que informasse o provedor da Fazenda
+Real, ouvindo o escrivão e o procurador da mesma, ao que satisfez o dito provedor
+mandando informar o dito escrivão e responder o mesmo escrivão, digo, procurador e o
+primeiro o fez na forma seguinte — Senhor provedor da Fazenda Real. Da informação
+junta do Senado da Câmara da cidade de Olinda, consta não haver oposição de terceiro
+prejudicado ao requerimento do suplicante, digo, o suplicante se lhe deve conceder por
+sesmaria 3 léguas de comprido e uma de largo, sendo contínuas o ordinárias, e medeando
+uma légua para logradouro entre esta sesmaria e as imediatas, como determinam as ordens
+de Sua Majestade, impondo-se-lhe de foro 4$000 por légua em cada ano e dando fiador
+idôneo nesta praça para a satisfação dos ditos foros, na forma que se pratica. Vossa mercê
+mandará o que for servido. Recife, aos 12 de dezembro de 1760 - Bernardo Pereira de
+Vasconcelos - o procurador respondeu pela maneira seguinte: Senhor provedor da Fazenda
+Real; como pela informação do Senado da Câmara não se acha inteiramente satisfeito o
+
+despacho de Sua Excelência, a respeito de haver área competente para a requerida sesmaria,
+parece-me que deve o real suplicante mostrar que as ditas terras inclusas devolutas tem a
+extensão de 3 léguas de comprido e uma de largo, que pretende, e que entre estas e as das
+sesmarias imediatas media uma légua para logradouro na forma das ordens de Sua
+Majestade, e que satisfazendo ao referido e dando fiança aos foros na forma que aponta o
+escrivão da Fazenda, se lhe pode conceder a sesmaria que pretende; Vossa Mercê mandará
+o que for servido — Recife, 12 de dezembro de 1760 — José Teodoro de Lemos Duarte —
+e com a dita informação e resposta, informou o provedor da Fazenda o seguinte -
+Ilustríssimo e excelentíssimo senhor — Respondo com as informações do escrivão da
+Fazenda e do doutor procurador da mesma. Vossa Excelência mandará o que for servido —
+João do Rego Barros - Sobre o que fez o real suplicante a réplica seguinte:- Ilustríssimo e
+excelentíssimo senhor - Diz o real suplicante José Gomes Lima Monte Raso, que
+informando o procurador da Real Fazenda, por despacho de vilimíssima que deve o
+reverendo suplicante, mostrar se as terras que pede tem as 3 léguas pedidas e a légua do
+largo de logradouro, entre a sesmaria que pretende e a sesmaria imediata, e como se faz
+dificultoso ao suplicante cumprir o que requer o procurador da Real Fazenda, declara o
+suplicante que a sesmaria que pretende e a sesmaria imediata principiando da extrema da
+légua do logradouro, entre esta e aquela imediata sesmaria, e dado caso que não acho as 3
+léguas pedidas de fundo e uma de largura, se acomoda com aquelas que achar, por mais
+diminutas que sejam, e por evitar maior detrimento pelo longe do lugar o ter corrido o mais
+termos que vilimíssima doutamente tem mandado — Pede a Vossa Ilustríssima, atendendo
+a súplica do real suplicante, seja servido mandar passar sua carta de sesmaria na forma do
+estilo desta capitania, com a cláusula que declara, e sendo-me apresentada as informações,
+resposta e réplica do real suplicante, determinei por despacho do 13 de novembro, digo de
+13 de dezembro de 1760 — que satisfazendo o suplicante as circunstâncias que aponta o
+provedor da Fazenda, lhe deferirei, sem o que não tem lugar o seu requerimento ainda a
+respeito da menor porção de terra com que se contenta, por não haver certeza da quantidade
+que há devoluta a que tenham jus os éreos imediatos, a fim de evitar pleitos, podendo-se
+conseguir com a certidão dos referidos a declaração destes, em que lhe não prejudica —
+Recife, 13 de dezembro de 1760, digo em que lhe não prejudica, em observância do meu
+despacho, apresentou o referido suplicante um dos abaixo assinados de João Carneiro da
+
+Silva, o padre João Barbosa da Silva e José Barbosa da Silva, os quais sinais venham
+reconhecidos pelo escrivão Francisco Correa Lima e este pelo tabelião Vicente Gorjão, os
+quais declaram que entre as suas fazendas e as terras que o reverendo padre suplicante
+requer, se mete a légua de logradouro de que neste requerimento se faz menção, sobre o que
+por meu despacho de 16 de dezembro de 1760 mandei novamente informar o provedor
+escrivão e procurador da Fazenda Real, os quais em observância do meu despacho mandou
+o provedor da Fazenda que informasse o escrivão da mesma, ao que deu o primeiro a
+seguinte resposta - Senhor provedor da Fazenda Real, parece que com o documento junto
+está satisfeita a dúvida para se poder deferir ao referido suplicante, e no mais, reporto-me a
+minha primeira informação — Recife, 16 de dezembro de 1760 — Bernardo Pereira de
+Vasconcelos; e o segundo respondeu o seguinte: Senhor provedor da Fazenda Real, como
+do documento junto se mostra que na sesmaria imediata há a légua de logradouro, o que nas
+terras devolutas há areia competente, parece-me que se pode conceder ao Real suplicante a
+sesmaria dada a fiança idônea, como se pratica sem detrimento o que for servido - Recife,
+16 de dezembro de 1760 - José Teodoro de Lemos Duarte; com cujas respostas informou o
+dito provedor da Fazenda, que se conformava com as respostas do escrivão e procurador da
+mesma; e sendo-me apresentada a dita informação, ultimamente mandei por despacho de
+17 do corregedor, como se lhe passasse carta de sesmaria na forma do estilo, salvando todo
+o direito de terceiro e não se entregando a parte, sem constar ter dado fiança idônea a
+satisfação das pensões que se forem vencendo e de haver-se rejeitado na Provedoria, em
+virtude do qual e do capítulo 15.° do regimento deste Governo — Hei por bem dar de
+sesmaria ao referido suplicante, em nome de Sua Majestade, as 3 léguas de terra de
+comprido e uma de largo, na forma que diz o escrivão da Fazenda, nos lugares pedidos e
+confrontados em sua petição, deixando a légua de permeio para logradouro na forma das
+ordens de Sua Majestade, pagando o foro de 4000 réis por cada légua, em cada ano, da
+maneira que diz o escrivão e procurador da Fazenda, ao qual deu fiança na Provedoria desta
+praça no Livro 4 delas, a folha 43V. E não passará a religiões, salvo for com o mesmo
+encargo com que as possuem o seculares, cuja terra possuirão e gozarão ele e seus herdeiros,
+ascendentes e descendentes, como sua que fica sendo de hoje para todo sempre, com todas
+as suas pertenças, matos, campos, águas, rios, fontes, pontes, testadas, logradouros e mais
+úteis que nelas compreenderem, não prejudicando a terceiro. E
+será obrigado a dar
+
+caminhos livres ao Conselho para fontes, pontes e pedreiras, e a requerer confirmação real
+dentro de 3 anos, e a medir, demarcar, povoar e cultivar na forma que determina as leis do
+Reino, e não fazendo se darão por devolutas e se poderem dar de sesmaria a quem mais
+pedir. Pelo que ordeno aos ministros da Fazenda e Justiça e pessoas a quem tocar, cumpram
+e façam cumprir e guardar esta carta de doação e sesmaria como nela se contém, fazendo
+dar ao suplicante a posse real, efetiva e atual, na forma costumada, debaixo das cláusulas
+referidas e das mais da Ordenação titulada de sesmarias — Em firmeza do que lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará nos livros da Secretaria deste Governo, Provedoria da Fazenda Real e mais partes
+a que tocar — Dada nesta Praça do Recife de Pernambuco, aos 20 dias do mês de dezembro
+— Felipe Nery Correa, oficial maior da secretaria, a fez — Ano do nascimento de Nosso
+Senhor Jesus Cristo de 1760 — O secretário Antônio José Correa a fez escrever — Luiz
+Diogo Lobo da Silva -
+- Fim da Carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+137 - 143.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

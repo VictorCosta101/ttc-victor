@@ -1,0 +1,105 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0154
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Brito Correa, Antônio Guedes de Brito",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-10-1652",
+  "Observações da sesmaria": "A sesmaria possuía oito léguas de comprimento e sua largura era a distância entre as serras de Tayaihu e Caguaohe, não sendo possível, portanto, determinar sua área total.",
+  "Localidade": "Entre as serras de Tayaihu e Caguaohe",
+  "Marcos Geográficos": "Serras de Tayaihu e Caguaohe",
+  "Justificativas": "Pretendia aumentar as rendas reais; Tinha cabedal; Tinha gado; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Alegaram terem feito as pazes com os indígenas da região",
+  "Observações do deferimento e da concessão": "O provedor afirmou que a sesmaria deveria ser concedida aos suplicantes devido ao merecimento e ao cabedal que eles possuíam.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0154"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma carta de sesmaria de Antônio de Brito Correa e seu filho Antônio Guedes das 
+terras que há entre as serras de Tayaihu e Caguaohe, e as mesmas serras com 8 légua de 
+cumprido. 
+João Rodrigues de Vasconcelos e Sousa, conde de castelo melhor etc. Faço saber aos que esta 
+carta de sesmaria que Antônio de Brito Correa e o capitão Antônio Guedes de Brito, seu filho, 
+me representaram por sua petição como haviam feito pazes com o gentio, digo, com a maior 
+parte do gentio bravo do sertão cujas nações eram evices, cariacãs e que no dito sertão entre as 
+suas serras que chamam de Tayaihu e Caguaohe estavam algumas terras de pastos para gado e 
+que nunca chegaram portugueses as quais queriam aproveitar e povoar porque não tinham 
+pastos em que poder trazer seus gados, e possuíam cabedal bastante para povoarem aquelas 
+terras de que resultaria grande serviço a Sua Majestade, me pedia lhes desse de sesmaria por 
+devoluta toda a terra que se achasse entre as ditas duas serras de Tayaihu e Caguaohe e as 
+mesmas serras com 8 léguas de comprimento entre elas por qualquer rumo que corressem tanto 
+para um como para outro e vista a informação que sobre este particular me fez o provedor-mor 
+da Fazenda Real deste Estado e merecimento e cabedal dos impetrantes e benefício que resulta 
+a esta república e ao serviço de Sua Majestade. Hei por bem e lhe faço mercê em seu Real nome 
+dar de sesmarias por devoluta em forma que a pedem e confrontam toda sua terra que se achar 
+entre as referidas 2 serras e as mesmas serras com 8 léguas de cumprimento entre elas por 
+qualquer rumo que correm para dividirem ambas, igualmente entre sí com todas as suas águas, 
+campos, madeiras, testadas e logradouros, tudo livre e isento de foro, tributo ou pensão alguma, 
+salvo o dízimo a Deus que pagarão dos frutos e criações que nelas houverem e cláusulas de não 
+prejudicarem a terceiro e por elas serão obrigados a dar caminhos livres ao conselho para 
+pontes, fontes e pedreiras. Pelo que ordeno aos oficiais de justição a que tocar, lhes deem a 
+posse real, efetiva e atual e aos ministros a que o conhecimento desta com direito possa 
+pertencer e cumpram e façam cumprir e guardar, tão pontual e inteiramente como nela se 
+contém, sem dúvida, embargo e nem contradição alguma. Para firmeza do que lhe mandei 
+passar a presente sob meu sinal e selo de minhas armas a qual se registrará  nos livros a que 
+tocar // Francisco Cardoso // a fez nesta cidade do Salvador, Bahia de Todos os Santos em os 
+26 dias do mês de outubro, ano de 1652 // Bernardo Vieira Ravasco // secretário de Estado e 
+guerra de Sua Majestade, neste do Brasil, o fiz escrever. O conde de castelo mellhor. Por 
+despacho de Sua Excelência de 17 de outubro de 1652. Registre-se nos livros da Fazenda. 
+Bahia, último de março de 1655 // Ferreira // no mesmo dia se registrei. // Gonçalo Pinto de 
+Freitas //.  
+ 
+ 
+Referências: 
+DHBN, vol. 18, Pg. 346 - 348 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,136 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0097
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Araújo Barbosa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "17-07-1688",
+  "Observações da sesmaria": "A sesmaria ficava localizada no antigo engenho que foi de Gomes de Aragão, mas não consta as medidas dela.",
+  "Localidade": "Porto Seguro",
+  "Observações da petição": "Ao solicitar as terras o suplicante não especificou nenhuma medida, nem os demais agentes régios.",
+  "Justificativas": "Era morador(a) da Capitania; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que a câmara de Porto Seguro ofereceu um engenho abandonado; Alegou que já estava fazendo melhorias naquele engenho há 10 anos.",
+  "Observações das exigências": "Determinou-se mandar certidão de como as tem povoado; determinou-se não vender sem autorização régia",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita",
+  "referencia": "BA0097"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria de João de Araújo Barbosa 
+Matias da Cunha do Conselho de Sua Majestade. Faço saber aos que este alvará de doação de 
+sesmaria virem que, havendo respeito ao que por parte de João de Araujo Barbosa, morador da 
+capitania de Porto Seguro, se me enviou a representar por sua petição cujo teor é o seguinte: 
+senhor, diz JoãoAraujo Barbosa, morador na capitania de Porto Seguro, que ele alega que os 
+oficiais da câmara daquela vila, e mais moradores, largou no termo desta cidade, um engenho 
+que possuía, como outras fazendas, e se foi com sua mulher e 5 filhos para a dita capitania. 
+Estando lá, até ofereceu à câmara e mais povo, quisesse edificar um engenho – alego que foi de 
+Gomes de Aragão, e estava destruído há mais de 70 anos sem ter mais que os signos das ruinas 
+e as fazendas anexas ao dito engenho em campinas pelo inimigo bárbaro. Olhar aqueles campos 
+todos as horas, entrando assim o suplicante naquela vila, a câmara e o povo lhe darão aquele 
+engenho, as terras nele anexas para o levantar e pôr campos de fazer açúcar, com consta da 
+certificação junta dos oficiais da câmara daquela vila, tratando o suplicante de edificar o 
+engenho de qualidade, que é por muito incoerente, em cuja a despesa gastou toda sua fazenda, 
+e lhe fez calhas e levadas, e o fez de água esta o suplicante assim nesta posse por permissão do 
+povo. Porém, quer o suplicante que Vossa Senhoria lhe faça graça e mercê dar de sesmaria este 
+mesmo engenho e terras de que o suplicante está de posse a mais de 10 anos, para com visto se 
+aplique o suplicante fazer uma fazenda, para uma daquelas vilas, passo da Fazenda Real e 
+conveniência do suplicante, visto que do primeiro possuidor não haver herdeiro e há mais de 
+70 anos estão despovoadas. Pede a Vossa Senhoria que lhe faça graça e mercê dar este engenho 
+de sesmaria com todas aquelas terras que possuiu gomes de Araujo, pertencentes ao dito 
+engenho para o suplicante e seus herdeiros com todas aquelas cláusulas necessárias para sua 
+convenção. E receberá mercê.  E visto os documentos que apresentou o parecer do procurador 
+da Fazenda Real que é o seguinte: suposto que pela nossa ordem livre, quarto título 43 parágrafo 
+primeiro, se mande que as terras desaproveitadas se não possam dar sem serem citados os 
+primeiros senhores e seus herdeiros, havendo respeito ao que alega o suplicante sobre não haver 
+herdeiros do primeiro possuidor e que se confirma com estarem as terras devolutas há anos sem 
+haver quem faça caso delas. Não tenho dúvidas a que se passe a carta de sesmaria ao suplicante 
+com a cláusula ordinária de não prejudicar a terceiro // Pita // e a informação do provedor da 
+Fazenda Real, visto o documento que o suplicante pronto o fizera, Vossa Senhoria mandará o 
+que for servido. Bahia, 3 de julho de 1688 // Francisco Lamberto // Hei por bem de conceder 
+de sesmaria ao suplicante, como pela presente faço em nome de Sua Majestade, para ele e seus 
+herdeiros, o dito engenho e todas as terras pertencentes nele que possuiu Gomes Aragão, assim 
+da maneira que a pede e confronta em sua petição, como parece aos ministros da Fazenda, não 
+prejudicando a terceiro, com todas as suas águas, matas, testadas, logradouros e mais úteis que 
+nelas se achar com foro livre e isento de pensão salvo o dizimo a ordem de Cristo que pagarão 
+pelos frutos que delas houver, e por elas serão obrigados a dar caminhos públicos e particulares 
+para fontes, pontes, portos e pedreiras e de as cultivar no tempo da lei e regimento. Pois nesta 
+conformidade lhe as concedo, mandando certidão de como as tem povoado dentro no dito 
+termo, para se registrar nos livros da Fazenda Real, demarcando-se no tempo de posse, citados 
+os éreos, e se não poderá vender nem alhear sem ordem expressa de Sua Majestade. Pelo o que 
+ordeno a todos os ministros de justiça, a que o conhecimento deva ou possa pertencer [que] lhe 
+façam dar posse real, efetiva e atual na forma costumada debaixo das cláusulas acima referidas 
+e as mais da ordenação título de sesmarias para a firmeza do que lhe mandei passar a presente 
+sob o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, e nas 
+mais a que tocar da Fazenda Real dele e escrivão de sesmarias, se guardará e cumprirá tão 
+pontual e inteiramente com nele se contém sem dúvida, embargo nem contradição alguma. // 
+Manuel Rogueiro  // o fez nesta cidade do Salvador, Bahia de todos os santos aos 17 dias do 
+
+mês de julho, ano de 1688 // Bernardo Vieira Ravasco // a fiz escrever // Mathias da Cunha // 
+selo // Alvará de doação de sesmaria que Vossa Senhoria teve por bem de conceder e dar em 
+nome de Sua Majestade a João de Araújo Barbosa, de um engenho e todas as terras pertencentes 
+nele que possuiu Gomes de Aragão, ditas na capitania de Porto Seguro para ele e seus herdeiros 
+na parte em que pede e confronta em sua petição como parece aos ministros da Fazenda, não 
+prejudicando a terceiro na forma e com respeitos assinas a declaração para Vossa Senhoria ver. 
+Registrado no livro segundo dos registros da secretaria do Estado do Brasil, que tocava as folhas 
+154. Bahia, 19 de julho de 1688 // Lamberto // Registrou-se no dito dia // Francisco Dias Amaral 
+//. 
+ 
+- Fim da Transcrição - 
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “João de Araujo Barbosa” 
+ 
+Referências 
+AN, Códice, fls. 300 – 301v. 
+Numeração original no livro: 302 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

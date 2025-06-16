@@ -1,0 +1,77 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0181
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Gomes Leitão, Francisco Rebelo de Morais",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "24-01-1660",
+  "Observações da sesmaria": "A sesmaria possuía 10 léguas de comprimento e seis de largura e estava localizada no rio São Francisco, da parte da Bahia. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio São Francisco",
+  "Exigências do Deferimento": "Determinou-se não prejudicar léguas dos índios da aldeia",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1660, acredita-se que foi o governador-geral, Francisco Barreto, que concedeu a sesmaria.",
+  "Observações das exigências": "As exigências foram estabelecidas de acordo com as que eram exigidas pelo Foral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0181"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Maria Fernandes, viúva de Domingos Fernandes de Matos e seu filho, Manoel da Costa. 
+– Carta de 21 de abril de 1651. – 600 braças de terra de largo, ao longo do mar do Norte 
+a Sul, com 2000 braças para o sertão de Norte a Oeste. – Começando aonde acaba a dada 
+de Simão Fernandes Carpinteiro, e da outra, correndo para o Norte até a tapera onde 
+morou Iria Alves para diante onde morou Jerônimo Dias, Oleiro, de onde acaba a dos 
+herdeiros de Francisco Mendes de Freitas. – Condições: As do Foral e de beneficiá-las 
+em 3 anos. 
+ 
+Referência: Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, p. 
+15 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

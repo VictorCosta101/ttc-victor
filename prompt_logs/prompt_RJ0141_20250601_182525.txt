@@ -1,0 +1,106 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0141
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Álvares da Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "31-08-1604",
+  "Observações da sesmaria": "O documento refere-se a anulação de concessão de sesmaria, pois, segundo o escrivão de sesmarias Pero da Costa, \"confirmaram uma dada de terra no rio de Inhumirim por me dizer que estava devoluta e porque depois me constou judicialmente por papéis autênticos que a dita terra era dada a  João Botelho e dela está judicialmente demarcado e atualmente empossado\".",
+  "Localidade": "Sobejos de terra no rio Nhumirim",
+  "Ribeira": "Rio Nhumirim",
+  "Confrontantes": "Terras de João Botelho, de Domingos Fernandes e de Tomé Rodrigues",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta, na verdade, trata-se de anulação da concessão.",
+  "Observações do deferimento e da concessão": "Apesar de a carta encontrar-se incompleta, pelas poucas informações extraídas, depreende-se claramente que se trata de um indeferimento referente a concessão anterior feita ao suplicante, no caso, datada de 15 de julho de 1603 (RJ 0122).",
+  "Observações das exigências": "A carta encontra-se incompleta, mas ainda assim, percebe-se que consiste em um documento de anulação de concessão.",
+  "Despacho favorável": "Não",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0141"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0141
+Carta de concessão de sesmaria de Francisco Alvares da Fonseca de 1604
+Martim de Sá, capitão e governador por sua Magestade desta cidade de São Sebastião
+do Rio de Janeiro&. Aos que este mandado virem, faço saber que[...] dei a Francisco
+Alvares da Fonseca [...] confirmaram uma dada de terra no rio de Inhumirim por me
+dizer que estava devoluta e porque depois me constou judicialmente por papéis
+autênticos que a dita terra era dada a João Botelho e dela esta judicialmente demarcado
+e atualmente empossado e não foi então, nem hoje é minha intenção dar ao dito
+Francisco Alvares o que já de outro por escusar demandas e desavenças hei por bem e
+mando que a Carta do dito Francisco Alvares da Fonseca não tenha efeito nem vigor.
+Em tempo algum. E para que assim seja, mando a Pero da Costa, escrivão das sesmarias
+, que no livro em que a tenha escrita e deitado traslade e registre este meu mandado
+todo, de verbo a verbo, e dele faça nota e declaração na margem da dita anulada carta
+dizendo quantas folhas no dito livro vai, para que em caso do dito Francisco Alvares o
+traslado da dita Carta lhe peça não o declare nela. Este meu mandado em incorporar
+para que conste como eu houver por derrogada e anulada. Cumpram-no assim todas as
+justiças de tal notação. Dado nesta cidade sob meu sinal somente, aos 31 dias de agosto
+[...] de Barros, escrivão diante de mim o fez, por meu mandado no ano do nascimento
+de Nosso Senhor Jesus Cristo de mil [(sic)faltam no original a folha 177, frente e verso
+até as atuais 113v.]
+[Final da carta de Afonso Gonçalves da qual não existe início]
+- Fim da transcrição-
+Observações do documento:
+A presente carta não possui nem início nem fim. Os dados aparecem de formas
+diferentes. E a ortografia está muito difícil uma que algumas palavras aparecem
+digitadas de forma errada.
+Francisco Alvares da Fonseca aparece também como Francisco Alvares d’Afonseca e
+Francisco Alves (Alles)
+Sabe-se que a carta data de 1604 pela ordem da mesma no livro transcrito.
+Referências:
+AN-
+Seção
+de
+documentos
+históricos
+Cod.
+778-I
+ARQUIVO
+NACIONAL. Tombo das Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 -
+1605. Rio de Janeiro, 1967. pg. 218-219. Livro Original 113v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

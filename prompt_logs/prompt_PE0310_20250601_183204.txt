@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0310
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "André de Albuquerque ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "01-06-1600",
+  "Observações da sesmaria": "O suplicante requereu as sobras da várzea do Capibaribe até o Cabo de Santo Agostinho fazendo confrontação com os herdeiros de Jerônimo de Albuquerque, João Paz, os herdeiros de João Vaz do Bom Jesus, Estevão Alvo, os herdeiros de João Gomes, Cristóvão Lins e Pedro Fonseca.  ",
+  "Localidade": "Capibaribe",
+  "Marcos Geográficos": "Várzea do Capibaribe",
+  "Confrontantes": "Os herdeiros de Jerônimo de Albuquerque, João Paz, os herdeiros de João Vaz do Bom Jesus, Estevão Alvo, os herdeiros de João Gomes, Cristóvão Lins e Pedro Fonseca.  ",
+  "Observações da petição": "O suplicante não informou a quantidade de léguas requeridas.",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário da capitania de Pernambuco, Jorge de Albuquerque, determinou que caso a sesmaria recaísse em terras realenguas do Cabo de Santo Agostinho, o suplicante deveria pagar o foro anual de 10 tostões por braça quadrada.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0310"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0310 
+ 
+Sesmaria de uma légua de terra que nos vendeu André de Albuquerque em Tapacurá. 
+ 
+O Padre Dom Abade e mais religiosos de São Bento, que eles compraram (fl. 245 v.), uma 
+légua de terra a André de Albuquerque, capitão-mor da Paraíba, na mata do Brasil, e por quanto 
+lhe é necessário, para bem de sua justiça, o traslado dos títulos e doações, por onde o dito André 
+de Albuquerque possui as ditas terras. Pedem a Vossa Mercê lhes mande trasladar em pública 
+forma, de modo que façam fé no que receberam justiça. Despacho. Dêem-se-lhes os traslados 
+como pedem. Moura. Jorge de Albuquerque Coelho, capitão e governador da capitania de 
+Pernambuco da Nova Lusitânia, no Estado do Brasil, por El-Rei, Nosso Senhor, etc. Faço saber 
+a todos os que esta minha carta de doação virem, e o conhecimento dela com direito pertencer, 
+que André de Albuquerque me fez uma petição, pedindo-me nela lhe fizesse mercê de lhe dar 
+todas as sobras que há na Várzea de Capibaribe, demarcando todos os héreos que tiverem 
+doações e datas na dita várzea, correndo-se da demarcação dos herdeiros que ficaram de meu 
+tio Jerônimo de Albuquerque, que Santa Glória haja, e assim mais as sobras no cabo de Santo 
+Agostinho, entre as fazendas de João Paz e os herdeiros de João Vaz do Bom Jesus, e Estevão 
+Alvo, e os herdeiros de João Gomes e de Cristóvão Lins, e Pedro D [...] Fonseca, e havendo eu 
+respeito ao dito André de Albuquerque ser morador na minha vila de Olinda, e aos serviços 
+que nela tem feito a Deus e a El-Rei, Nosso Senhor, e a mim na defesa da dita vila, e [...] hei 
+por bem e me praz, conformando-me com as doações que tenho [...] minha capitania de 
+Pernambuco, dar-lhe as ditas sobras, assim umas como outras de sesmaria das ditas terras acima 
+declaradas, não se achando que por mim já fossem dadas a outrem, a qual data e doação lhe 
+dou deste dia para todo sempre para ele, sua mulher e filhos que dele descenderem, e ele 
+suplicante será obrigado a cumprir com as obrigações com que se costumam dar de sesmaria 
+semelhantes terras, e caindo estas ditas sobras de terra em alguma parte do reguengo, que tenho 
+no Cabo de Santo Agostinho, me pagará em cada um ano de foro por cada 10 braças em quadra, 
+um tostão pelo que mando a [Pª] que por mim vá servir de capitão na dita capitania e aos juízes 
+e vereadores da Câmara da minha vila o metam de posse da dita capitania e justiça dela, e 
+vendo esta minha doação metam de posse ao dito André de Albuquerque das ditas terras e 
+sobras como é, sem dúvida nem embargo algum, que a ele seja posto, e outrossim hei por bem 
+e me praz confirmar-lhe, como confirmo, deste dia para todo sempre as datas de terra de 
+sesmaria, que lhe deu por sua carta Dom Filipe de Moura e Pedro Homem de Castro, meus 
+locotenentes, que ao tal tempo serviram, o que tudo é uma data. Dada nesta cidade de Lisboa, 
+
+sob meu sinal e selo de minhas armas. Sebastião da Rocha a fez por meu mandado (fl. 246) ao 
+primeiro de junho de 1600 anos. Fica registrada no Livro dos Registros e lembranças, a folhas 
+19. Jorge de Albuquerque Coelho. Certifico eu, Domingos de Castro, tabelião público de notas 
+por El-Rei, Nosso Senhor, nesta cidade de Lisboa, que a letra e sinal do sinal acima é de Jorge 
+de Albuquerque Coelho, como ele se nomeia, hoje, 9 de junho de 1600. Pagou 14 réis. Cumpra-
+se e registre-se em Câmara de Olinda, 19 de agosto de 1602. Leonardo de Barros o escrevi. 
+Baltazar Leitão. Duarte de Sá. Domingos de Castro. Fica registrada no Livro dos Registros da 
+Câmara por mim, Leonardo de Barros, escrivão dela, a folhas 72, em Olinda, a 3 de setembro 
+de 1602. Leonardo de Barros. Registre-se Vieira. Fica registrada esta carta de sesmaria, a folhas 
+8 na volta até folha 10 na volta, por mim, Antônio Vaz, escrivão das execuções da Fazenda de 
+Sua Majestade, o guarda dos livros de sua Alfândega, Olinda, aos 25 dias do mês de fevereiro 
+de 1605 anos. Está no livro novo dos registros de bocaxim vermelho. Antônio Vaz. Foi 
+trasladado do próprio, que tornei a frei Pedro dos Santos, procurador do mosteiro de São Bento 
+desta vila de Olinda, que assinou de como o recebeu, bem e fielmente, e por verdade o concertei 
+com o tabelião adiante assinado, subscrevi e assinei de meus sinais costumados seguintes. 
+Marcos de Mesquita de Oliveira. Concertado por mim, tabelião, Marcos de Mesquita de 
+Oliveira. E comigo, tabelião, Paulo de Sousa. Frei Pedro dos Santos. Não se continha mais no 
+dito documento que eu, Felipe Nery Correia, tabelião do público, judicial e notas da cidade de 
+Olinda, vila do Recife e seus termos, capitania de Pernambuco, para Sua Majestade 
+Fidelíssima, que Deus guarde. etc. Fiz trasladar do próprio com o qual é com o oficial abaixo 
+assinado este conferi e concertei. Vai sem coisa que dúvida faça ao próprio que me reporto, 
+que tornei a entregar a quem aqui assinou. Subscrevi em público e raso de meus sinais 
+seguintes, aos 4 dias do mês de janeiro de 1766 anos.  
+Concertado por mim, tabelião 
+Felipe Nery Correia 
+Em fé de verdade 
+Felipe Nery Correia 
+ 
+- 
+Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 245-246. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

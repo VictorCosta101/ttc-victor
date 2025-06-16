@@ -1,0 +1,97 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0005
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco Duarte de Bittencourt",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "01-01-1573",
+  "Data da concessão": "01-01-1573",
+  "Observações da sesmaria": "Título original: Carta de sesmaria das terras de Francisco Duarte de Betancor.",
+  "Localidade": "Rio de Janeiro",
+  "Observações da petição": "O documento está incompleto. \r\nSabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original.\r\n",
+  "Exigências do Deferimento": "Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento está incompleto. ",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0005"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0005 
+ 
+Carta de concessão de sesmaria de Francisco Duarte de Bittencourt de 1573 
+ 
+[faltam as folhas iniciais da carta folha.]  
+[f.VIII][...] necessários para o Conselho e para fontes, pontes, vieiros, pedras, caminhos e 
+serventias que necessários forem a qual terra pela dita maneira lhe deu e a dar podia forra isentas 
+sem foro nem tributo, somente de tudo o que lhe nosso Senhor der nelas de suas novidades, 
+lavouras e criações pagará os dízimos a Deus conforme ao dito regimento o que tudo manda 
+que se cumpra e guarde sem dúvida nem embargo que lhe a elo seja posto e que esta carta seja 
+registrada dentro de um ano nos livros da Fazenda Real como o dito Senhor em seu regimento 
+manda só as penas nele contidas e declarados e porque o sobredito Francisco Duarte de 
+Bittencourt, suplicante, tudo prometeu de ter, manter e cumprir pela dita maneira lhe mandou 
+passar esta carta de sesmaria e por verdade eu //Pero da Costa// escrivão das sesmarias por El 
+Rei nosso Senhor nesta cidade de São Sebastião em seus termos que este instrumento de carta 
+de sesmaria escrevi e notei nos meus livros das notas e tombos das cartas das sesmarias, que 
+em meu poder ficam onde o dito instrumento fica assinado pelo dito Senhor capitão e 
+governador com a entrelinha que diz “de que usou nesta capitania” e com o borrado que diz 
+“mos”. //Cristóvão de bairros// 
+ 
+- 
+Fim da Transcrição - 
+ 
+Observações: 
+Sabe-se que a carta é do ano de 1573 pela ordem dos registros no códice original. 
+Título original: Carta de sesmaria das terras de Francisco Duarte de Betancor. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 40;  
+Documento Original : f.VIII. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação 
+Biblioteca Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.40. Códice 50.5.3A(1573-4), 
+Documento Origina: f.VIII. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

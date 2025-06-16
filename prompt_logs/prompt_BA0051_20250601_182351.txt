@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0051
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Oliveira Vasconcelos, João Nunes de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-05-1676",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas quadradas ao longo do rio Jaguaripe até o rio das Pedras, fazendo fronteira com as terras de Antão Álvares Barreto e Manuel Luiz de Évora",
+  "Localidade": "Rio Jaguaripe",
+  "Marcos Geográficos": "Rio Jaguaripe; rio das Pedras",
+  "Confrontantes": "Antão Álvares Barreto; Manuel Luiz de Évora",
+  "Justificativas": "Alegou ter combatido os índios durante o povoamento; Alegou serem as terras devolutas nunca doadas anteriormente; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Alegaram que as terras seriam para pescar; Alegaram terem perdido fazenda e vidas de familiares durante as lutas contra os índios.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0051"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um alvará de sesmaria de 2 léguas de terra concedida a Antônio Oliveira 
+Vasconcelos e seu irmão João Nunes de Oliveira. 
+O governo do estado do Brasil, substituto do governador e capitão geral de mar e terra deles. 
+Fazemos saber aos que este alvará de doação e sesmaria virem que havendo respeito ao que por 
+parte do Antônio de Oliveira Vasconcelos e seu irmão, João Nunes de Oliveira, nos enciaram a 
+representar por sua petição cujo teor é o seguinte: senhor, diz Antônio de Oliveira Vasconcelos 
+e seu irmão João Nunes de Oliveira que eles tem fazendas, em Jaguaripe, de madeiras e lenhas 
+e porque os suplicantes tem muita fábrica, e com elas faz suas ordenações  e pescarias de 
+chareos [xaréus], e porque nas cabeceiras do alferes Antão Álvares Barreto e Manuel Luiz de 
+Évora há praias de pescaria do príncipe nosso senhor, e estas não foram nunca dadas de sesmaria 
+a pessoa alguma e se querem valer os suplicantes para a fábrica das ditas pescarias por lhe 
+fizerem muito necessárias, começarão da ponta da barra do Jaguaribe com 2 léguas e pouco, 
+mais ou menos, correndo para a costa até o rio das pedras e porque os suplicantes tem feito 
+serviço a sua Alteza nas terras que ocupam que foram povoadas do gentio bravo que a poucos 
+anos desciam abaixo e lhes mataram seus parentes, escravos, gados e muito mais gente, estragos 
+e roubos e os suplicantes  lhes resistiam com suas famílias defendendo-as sem nunca 
+despovoarem como fizeram muitos, que a beira possuíam fazendas e as despovoarão. Pede a 
+vossa senhoria que lhe faça mercê dar de sesmaria para a praia que começa do pontal da barra 
+de jaguaripe das terras de Antônio Álvares Barreto até o rio das pedras, 2 léguas e pouco, mais 
+ou menos, por costa para suas pescarias e para as mais que se possa aproveitar. E receberá 
+mercê. E visto o parecer do procurador da Fazenda Real deste Estado que também é a seguinte. 
+Bem se podem conceder aos suplicantes as duas léguas que pedem de sesmarias sem prejuízo 
+a terceiro na forma do regimento e lei do reino com suas obrigações nelas declaradas. Bahia, 5 
+de maio de 1676 // Rocha // E informação do procurador-mor da Fazenda Real do mesmo estado 
+que também é o que se assegura na forma que parece ao procurador da Fazenda, sou de parecer 
+que se concederam as 2 léguas que pedem os suplicantes de sesmarias. Vossa senhoria mandará 
+o que for servido. Bahia, 5 de maio de 1676 // Antônio Lopes de Ulhôa // Havemos por bem de 
+lhe conceder de sesmaria, como pelo presente fazemos em nome de sua Alteza aos ditos 
+Antônio Oliveira Vasconcelos e seu irmão João Nunes de Oliveira, as 2 léguas de terra como 
+pedem e confrontam em sua petição, como parece ao procurador-mor da Fazenda, sem prejuízo 
+de terceiros na forma do regimento e lei do reino e obrigações do regimento com todas as suas 
+águas, matas, testadas, logradouros e mais úteis que nelas se achar com foro livre e isento de 
+pensão salvo o dízimo a Deus que pagará pelos frutos que delas houver e será obrigado a dar 
+caminhos livres ao conselho para pontes, fontes e pedreiras e será obrigado a povoá-las nos 
+termos da lei e regimento, aliás, ficarão devolutas para quem as pedir. Pelo o que ordenamos e 
+mandamos a todos os ministros de justiça, a que o conhecimento deva ou possa pertencer [que] 
+lhe façam dar posse real, efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas e as mais da ordenação título de sesmarias para a firmeza do que lhe mandamos passar 
+a presente sob o sinal e selo de minhas armas do qual se registrar nos livros da secretaria do 
+estado e da Fazenda Real dele, alfandega desta cidade e nos do escrivão das sesmaria aos que 
+tocar, se assegurará e cumprirá tão pontual e inteiramente com nele se contém sem dúvida, 
+embargo nem contradição alguma // Manuel Ferreira das Neves // o fez nesta cidade do 
+Salvador, Bahia de todos os santos nos 6 dias do mês de maio, ano de 1676 // Bernardo Vieira 
+Ravasco // a fiz escrever // Agostinho de Azevedo Monteiro // Álvaro de Azevedo // Antônio 
+Guedes de Brito // Registrada no 4° livro de registro da secretaria do Estado do Brasil a que 
+toca as folhas 38. Bahia, maio de 1676 // Ravasco // Despacho do provedor da Fazenda Real 
+cumpra-se e registre-se como sua Alteza manda. Bahia, 9 de maio de 1676 // Antônio Lopes de 
+
+Ulhôa // Registrou-se no 2° dia, mês e ano e se entregou ao suplicante Antônio de Oliveira 
+Vasconcelos. 
+- Fim da Transcrição – 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Antônio de Oliveira 
+Vasconcelos” e “João Nunes de Oliveira”. 
+ 
+Referências 
+AN, Códice 427 vol. 1, fls. 104v – 106. 
+Numeração original no livro: 87. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

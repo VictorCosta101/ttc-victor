@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0284
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Jacinto Vieira Gomes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-06-1742",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Riacho Mimoso",
+  "Marcos Geográficos": "Sertão do Parnaguá",
+  "Confrontantes": "Testadas do sargento-mor João Gonçalves dos Santos, barra dos Anbus e Saco da Alagoa Feia",
+  "Justificativas": "As terras eram devolutas; Tinha gado; Pretendia apascentar gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia obter o título por meio de concessão da sesmaria.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0284"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0284
+Carta de concessão a Jacinto Vieira Gomes - 23/06/1742
+Registro de uma carta de data de 3 léguas de comprido e uma de largo, concedida
+à Jacinto Vieira Gomes, no Riacho Mimoso.
+João de Abreu de Castelo Branco, do concelho de Sua Majestade, governador e
+capitão-general do estado do Maranhão. Faço saber aos que esta minha Carta de data e
+sesmaria virem, que Jacinto Vieira Gomes me representou que ele possuía alguns gados
+no Riacho Mimoso, que faz barra na alagoa do Parnaguá, sem que para continuar na
+criação dos ditos gados tivesse terras próprias para os apascentar, e porque no dito sítio
+se achavam devolutas. Me pedia fosse servido conceder-lhe, por data e sesmaria, em
+nome de Sua Majestade, 3 léguas de terra de comprido e uma de largo, principiando das
+testadas do sargento-mor João Gonçalves dos Santos para baixo, buscando a barra dos
+Anbus e Saco da Alagoa Feia, com pontas e abras, reservando terras inúteis. Ao que
+atendendo, e a informação do provedor-mor da Fazenda Real, e ser em utilidade da
+mesma Fazenda o cultivarem-se as terras neste Estado. Hei por bem conceder-lhe, em
+nome de Sua Majestade, 3 léguas de terra de comprido e uma de largo, no sítio e
+confrontações acima declaradas, incluindo-se na demarcação as terras inúteis, e pontas e
+abras que pede, cuja concessão lhe faço com as condições expressadas nas Reais
+Ordens. E com a de não fazer trespasse por meio algum, em tempo algum, a pessoa
+alguma, religião ou comunidade, sem primeiro dar parte na Casa da Fazenda ao
+provedor-mor dela, para se me fazer presente e ver se se deve ou não consentir no tal
+trespasse, sob pena de ficar nula esta data e se poder conceder novamente a outrem. E
+nesta forma, se passa carta para que o dito Jacinto Vieira Gomes haja, logre e possua as
+ditas terras como coisa sua própria, e todos os seus herdeiros, ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor,
+dos frutos que nelas houver e lavrar. A qual concessão lhe faço não prejudicando a
+terceiro nem a Sua Majestade, se no dito sitio quiser mandar fundar alguma vila,
+reservando os paus Reais que nelas houver para embarcações. E se demarcará, ao tempo
+da posse, por rumo de cordas e braças craveiras, como é estilo e Sua Majestade manda;
+e dará caminhos públicos e particulares aonde forem necessários para pontes, fontes,
+portos e pedreiras; e mandará confirmar, por Sua Majestade, dentro dos 3 anos
+primeiros seguintes. E outrossim, não poderão suceder nas ditas terras religiões nem
+pessoas eclesiásticas por nenhum titulo que seja, e acontecendo, possuí-las será com o
+encargo de pagar delas dízimos a Deus, como se fossem possuídas por seculares. E
+faltando a qualquer destas cláusulas, se haverão as ditas terras por devolutas, e se darão
+a quem as denunciar, como o dito Senhor ordena. Pelo que mando ao provedor-mor da
+Fazenda Real, mais ministros e pessoas a que tocar, que, na forma referida, deixem ter e
+possuir as ditas terras ao dito Jacinto Vieira Gomes, para ele e todos os seus herdeiros,
+ascendentes e descendentes. Cumpram e guardem esta minha carta de data e sesmaria
+tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada como o sinete de minhas armas, que se registrará aonde tocar, e se passou por
+duas vias. Dada na cidade de São Luís do Maranhão, aos 23 de junho, ano
+do nascimento de Nosso Senhor Jesus Cristo de 1742. //João de Abreu de Castelo
+Branco//.
+- Fim da Transcrição -
+
+Observação:
+O nome original do sesmeiro, como consta no documento, é Jacinto Vieyra Gomes, e
+seguindo a padronização proposta foi atualizado para Jacinto Vieira Gomes.
+Referência:
+APEP, Livro 10, doc. 199, fls. 138 - 138v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

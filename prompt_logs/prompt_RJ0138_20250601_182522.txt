@@ -1,0 +1,153 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0138
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "12-12-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Caminho do carro que foi de umas mulheres Cristina d' Oliveira e Maria Álvares",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Confrontantes": "Detrás do quintal de Gaspar Vaz e do chão que foi de Antônio Sampaio",
+  "Justificativas": "Era morador(a) da Capitania; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou o eclesiástico também que \"nunca lhe foi dado chão para poder fazer casas\".",
+  "Observações das exigências": "Determinou-se também ao suplicante que \"haja posse e senhorio do dito chão, para sempre\", assim como também exigiu-se que \"viva e resida nesta cidade ou em seu termo ao menos os ditos 3 anos e dentro do qual tempo não poderá vender nem enlear, nem por outra via traspassar  o dito chão a pessoa alguma sem licença do dito senhor capitão e Governador ou de quem adiante tiver o poder para a dar. E da dita maneira lhe deu o dito chão e acabados os ditos 3 anos tendo ele o dito padre feito no dito chão casas e benfeitorias, ele o poderá vender, trocar, escambar, dar, doar e fazer de todo o que lhe bem vier e aprouver como coisa sua própria isenta que é\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0138"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0138
+Carta de concessão de sesmaria do Reverendo Padre Antônio Pinto de 12 dezembro de
+1603
+Forra
+Saibam quantos este instrumento de cartas sesmaria virem, que não ano do nascimento
+de nosso Senhor Jesus Cristo de 1603 anos, aos 12 dias do mês de dezembro do dito
+ano, nesta cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de mim
+escrivão adiante nomeado, apareceu o Reverendo Padre Antônio Pinto, coadjutor da Sé
+e Igreja Matriz desta dita cidade e morador nela e me apresentou uma petição com
+despacho nela do senhor Martim de Sá, capitão e governador desta dita cidade, capitania
+e governança deste dito Rio de Janeiro por El-Rei nosso Senhor. Da qual a petição o
+despacho dela o traslado é o seguinte: o Padre Antônio Pinto, morador nesta cidade, que
+há muitos anos que habita aqui e nunca lhe foi dado chão para poder fazer casas e que
+hora é informado que detrás do quintal de Gaspar Vaz e do chão que foi de Antônio
+Sampaio, está um pedaço de chão que corre ao longo do caminho do carro que foi de
+umas mulheres Cristina d’Oliveira e de Maria Álvares, como ele está devoluta e por
+aproveitar e as suplicantes há muitos anos que são idas para o Reino sem se saber delas,
+o qual chão começa de medir onde acaba o de Gaspar Vaz ao longo do caminho que vai
+para o mar, pede a Vossa Senhoria que havendo a tudo respeito lhe faça mercê de lhe dar
+de Sesmaria o dito chão assim e da maneira que foi dado às suplicantes com toda a
+largura e comprimento que tiver e com todas as confrontações que elas pediram. E
+receberá mercê. Despacho do senhor capitão e governador: Dou ao suplicante o chão
+que pede e sendo assim como em sua petição diz. Rio de Janeiro, 11 de dezembro de
+1603 //Martim de Sá//. E tudo visto pelo dito senhor capitão e governador a petição do
+dito Reverendo Padre Antônio Pinto, suplicante, e o que ele pedia, visto ser justo e
+havendo respeito ao proveito que se pode seguir acerca da República e ao serviço de
+Deus e Del-Rei nosso Senhor, e para terra se povoar, deu ao dito Padre Antônio Pinto o
+chão para as casas que pedia contendo em sua petição e conforme o dito seu despacho,
+porquanto, dizia que estava devoluto e por aproveitar e fazer suas benfeitorias como
+diz nele, não sendo já dado a pessoa ou pessoas primeiro, a qual chão diz que está no
+dito lugar e que tem a dita medida e que partem pelas ditas confrontações, como em sua
+petição diz, o qual chão que dito é lhe deu e concedeu em nome Del-Rei, Nosso Senhor
+e pela maneira adiante declarada, segundo forma de seu Regimento Del-Rei Nosso
+Senhor, de que o traslado é o seguinte: as terras que estiverem dentro do termo e limite
+da cidade São Sebastião que são 6 léguas para cada parte que não forem dadas as
+pessoas que lhes aproveitarem ou, posto que o fossem, e pelas pessoas a que se deram
+as não aproveitarem no tempo em que eram obrigadas por esta via ou por outra qualquer
+estiverem vagas, as poderei dar de sesmaria aquém a vós pedir e tereis lembrança que
+não dei a cada pessoa mais terra do que aquela que segundo sua possibilidade virdes e
+vos parecer que podem granjear e aproveitar. as quais terras assim dareis livremente sem
+outro algum foro, somente o dízimo a Ordem do Mestrado de nosso Senhor Jesus Cristo
+e com as condições e obrigações do Foral dado as ditas terras da minha Ordenação do
+Livro 4º, título das sesmarias com a condição que a pessoa ou pessoas residam na
+povoação dessa dita capitania ou das terras que lhes assim forem dadas ao menos 3 anos
+
+e que dentro do dito tempo não possam vender nem enlear, e se algumas pessoas a que
+forem dadas no termo da dita cidade e estiverem perdida por não aproveitarem e a vós
+tornarem a pedir, as poderei de novo dar, com as condições e obrigações contidas neste
+capítulo, o qual se transladará nas cartas, porque as assim derdes, e isto se entenderá não
+sendo as ditas terras dadas a outras pessoas. Com as quais condições, obrigações e
+declarações lhes assim deu o dito senhor, capitão e governador. O dito chão ao dito
+Reverendo Padre Antônio Pinto, suplicante pela sobredita maneira e para sua guarda e
+segurança lhe mandou ser feita esta carta de pela qual manda que ele haja posse e
+senhorio do dito
+chão, para sempre, para ele e todos os seus herdeiros, sucessores
+ascendentes e descendentes que após dele vier com a tal condição e entendimento que
+ele viva e resida nesta cidade ou em seu termo ao menos os ditos 3 anos e dentro do
+qual tempo não poderá vender nem enlear, nem por outra via traspassar o dito chão a
+pessoa alguma sem licença do dito senhor capitão e Governador ou de quem adiante
+tiver o poder para a dar. E da dita maneira lhe deu o dito chão e acabados os ditos 3 anos
+tendo ele o dito padre feito no dito chão casas e benfeitorias, ele o poderá vender, trocar,
+escambar, dar, doar e fazer de todo o que lhe bem vier e aprouver como coisa sua
+própria isenta que é. O que tudo manda que se cumpra e guarde sem dúvida nem
+embargo algum que lhe seja posto, e que esta carta seja registrada dentro de 1 ano nos
+livros da Fazenda Real como dito senhor em seu regimento manda sob as penas nela
+contidas e declaradas, e porque o sobredito Padre Antônio Pinto tudo prometeu de ter,
+manter e cumprir pela dita maneira lhe mandou o dito senhor, capitão e governador
+passar esta carta de sesmaria, e por verdade eu Pero da Costa, escrivão das sesmarias e
+tabelião das notas por El-Rei nosso Senhor, nesta cidade de São Sebastião e em seus
+termos, que este instrumento de carta de sesmaria escrevi e tomei nos livros de Notas e
+tombo das cartas de sesmaria nesta dita cidade que em meu poder estão, onde o dito
+instrumento fica assinado pelo dito senhor capitão e governador.  //Martim de Sá//
+- Fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria do chão para casas do Reverendo Padre Antônio Pinto
+que foi de Maria Álvares e Cristina d’Oliveira que está detrás de Santo Antônio
+A palavra “carro” aparece no livro transcrito.
+Referências:
+AN-
+Seção
+de
+documentos
+históricos
+Cod.
+778-I
+ARQUIVO
+NACIONAL. Tombo das Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 -
+1605. Rio de Janeiro, 1967. pg. 210-212. Livro Original 104-107.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

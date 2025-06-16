@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0015
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Luís de Sousa Marques",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "22-09-1673",
+  "Observações da sesmaria": "A sesmaria possuía três léguas em quadra e estava localizada na beira do rio Paraguaçu, fazendo fronteira ao norte com as terras do capitão Manoel de Hinojoza.",
+  "Localidade": "Beira do rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Confrontantes": "Manoel de Hinojoza",
+  "Observações da petição": "O suplicante solicitou cinco léguas em quadra, no entanto, o procurador da Coroa afirmou que deveria ser concedido ao suplicante apenas duas léguas em quadra. O governador decidiu conceder três léguas em quadra.",
+  "Justificativas": "Não tinha terras; Tinha cabedal; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que o seu pai serviu à Coroa em Pernambuco e na Bahia com muita despesa de sua fazenda e não recebeu prêmio algum por isso, dessa forma, solicitava receber as terras pelos serviços de seu pai.",
+  "Observações do deferimento e da concessão": "O suplicante solicitou cinco léguas em quadra para si, no entanto, o procurador da Coroa indicou que deveriam ser dadas duas léguas em quadra. O governador-geral determinou que fossem concedidas três léguas em quadra.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0015"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria de 3 léguas de terra de medida ordinária, concedida ao licenciado 
+Luiz de Sousa Marques. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça. Faço saber aos que este alvará de doação e 
+sesmaria virem que, o licenciado Luiz de Sousa Marques me enviou a representar por sua 
+petição, cujo teor é o seguinte: senhor, o licenciado Luiz de Sousa Marques, que seu pai tem 
+servido a Sua Alteza, assim nas guerras de Pernambuco como nesta praça, sem nunca ter prêmio 
+algum antes, gastou sua fazenda na retirada que fez com toda a sua casa para esta cidade, e de 
+presente tem algum gado em currais alheios, e não tem terras de sesmaria em que os acomode, 
+e tem posses para poder povoar as que lhe concederem. Pelo que pede a Vossa senhoria, lhe 
+conceda em nome de Sua Alteza, 5 léguas de terra em quadra, que começará onde acaba a 
+sesmaria do capitão Manuel de Hinojoza para cima, à beira do rio de Paraguaçu da banda do 
+Sul para logo povoar. E receberá mercê. E visto a informação do procurador da Coroa e Fazenda 
+Real, que é o seguinte: já apontei que as léguas em quadra multiplicavam muitas por [?] razão 
+parece que, somente duas léguas sem ser em quadra se devem conceder aos suplicantes com 
+limitação de largura, sem prejuízo de terceiro. Bahia, 16 de setembro de 1673. Rocha// 
+Informação do provedor-mor da Fazenda Real que é aqui se segue: senhor, na informação que 
+parece ao procurador da Fazenda, entendo se deve deferir aos suplicantes com as cláusulas e 
+condições do regimento e ordens de Sua Alteza, sem prejuízo de terceiro. Vossa senhoria 
+mandará o que for servido. Bahia, 28 de setembro de 1673. Antônio Lopes de Ulhoa// Hei por 
+bem e lhe faço mercê em nome de Sua Alteza dar ao dito licenciado, Luiz de Sousa Marques, 
+3 léguas de terra da medida ordinária, assim como a pede e confronta em sua petição, com 
+declaração que será obrigado a povoa-la no termo da lei, pois nesta conformidade lhes concedo, 
+não prejudicando a terceiro, nem as terras que se determinou tivessem as povoações que de 
+novo se fizessem para se darem os seus povoadores, com todas suas águas, campos, matos, 
+testadas e logradouros, e mais úteis que nelas se acharem, todo foro livre e isento de pensão ou 
+tributo algum, salvo o dizimo a Deus, que pagará dos frutos a que nelas houver, e por elas será 
+obrigado a dar caminhos livres ao conselho para fontes, pontes e pedreiras. Pelo que ordeno e 
+mando a todos os ministros de justiça, a que o conhecimento deste com direito deva, ou possa 
+pertencer, lhe façam dar a posse real efetiva e atual, debaixo das cláusulas acima referidas, e as 
+mais da ordenação e titulo das sesmarias para firmeza do que lhe mandei passar a presente, sob 
+meu sinal e selo de minhas armas, a qual se registrará nos livros da secretaria do Estado e nos 
+mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente como nela se contém, sem 
+dúvida embargo, nem contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, 
+Bahia de Todos os Santos, em 22 dias do mês de setembro, ano de 1673. Bernardo Vieira 
+Ravasco o fez escrever. Afonso Furtado de Castro do Rio de Mendonça // Alvará de doação e 
+sesmaria de 3 léguas de terra, da medida ordinária que Vossa senhoria por bem concedeu ao 
+licenciado Luiz de Sousa Marques, assim como a pode e confronta em sua petição, não 
+prejudicando a terceiro e as mais das cláusulas acima referidas, para Vossa senhoria ver. 
+Registrado no livro primeiro do registro da secretaria do Estado do Brasil, a que toca a folhas 
+161, verso. Bahia, 22 de setembro de 1673. Ravasco // Cumpra-se e registre-se como Sua Alteza 
+manda nos livros desta provedoria-mor. Bahia, 12 de outubro de 1673. De Ulhoa // Registra-se 
+em 13 do dito mês e ano, e entrega-se ao suplicante Miguel Pinto de Freitas. 
+ 
+-Fim da transcrição-  
+ 
+ 
+ 
+
+Observações do documento:  
+ 
+O nome do sesmeiro no documento original é: Luiz de Sousa de Marques. 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 31v – 32v. 
+Numeração original no livro: 28  
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

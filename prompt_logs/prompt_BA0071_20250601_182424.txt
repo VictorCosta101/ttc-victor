@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0071
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": " Maria Pereira (BA1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "11-12-1681",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento. Estava localizada em Cachoeira, na Bahia e fazia fronteira com as terras do Condes de Linhares e de Afonso Rodrigues Adorno.",
+  "Localidade": "Cachoeira",
+  "Confrontantes": "Condes de Linhares; Afonso Rodrigues Adorno",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia cultivar; Pretendia lavrar; Tinha gado vacum; Tinha gado cavalar; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que já possuía um pedaço de terra, mas ele era insuficiente para produção que pretendia, por isso pedia mais terras; alegou que seu marido morreu lutando contra os índios.",
+  "Observações das exigências": "Determinou-se que mandasse certidão de como tem povoado.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa ",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0071"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um alvará de doação e sesmaria de uma légua de terra de largura com 3 de 
+comprimento que o mestre de campo general Roque da Costa Barreto, a cujo o cargo está o 
+governo de sua Alteza a Maria Pereira Viúva que foi do capitão Agostinho Pereira Bacelar. 
+ 
+Roque da Costa Barreto, do conselho de sua Alteza. Faço saber aos que este alvará de doação 
+e sesmaria virem que Maria Pereira Viúva, que ficou, digo, viúva do capitão Agostinho Pereira 
+Bacelar, me enviou a representar por sua petição cujo teor é o seguinte: senhor, [diz] Maria 
+Pereira, viúva do capitão Agostinho Pereira Bacelar que ela está de posse, por si e pelo dito seu 
+marido, de uma sorte de terra na margem da cachoeira em que tem suas fazendas, lavouras e 
+currais de gado vacum e cavalar, e os tabuleiros; e porque não tem título de mais terra que de 
+meia légua em quadra, e tem necessidade de mais terra para cultivar debaixo do título, não 
+obstante o estar de posse debaixo de boa-fé, e hora lhe veio a notícia que entre a data dos Condes 
+de Linhares e Afonso Rodrigues Adorno há terras de sobejo cobertas de matos que ainda se não 
+tem dado, nem se tem averiguado ao certo a quantidade que é; sabem que por arbítrio de 
+algumas pessoas se avir quão houverem os ditos sobejos, e pelos muitos serviços que o dito 
+Agostinho Pereira, marido da suplicante, tem feiro a sua Alteza, expondo muitas vezes sua vida 
+na conquista do gentio bárbaro, em cujas mãos morreu violentamente. Pede a vossa Alteza que, 
+atendendo ao referido, lhe faça mercê dar de sesmaria em nome de sua Alteza na terra do 
+sobejos que se acharem entre a data do conde de Linhares e de Afonso Rodrigues Adorno, 
+medindo-se uma légua de largura com de 3 de comprimento para o sertão, visto ter o suplicante 
+[?] grandes lavouras e criações de gado para novas povoações de gado, currais, de que se 
+resultará em grande utilidade aos dízimos de sua Alteza. E receberá mercê.  E vista a resposta 
+do procurador da Fazenda Real que é o seguinte: não se me oferece dúvida de que se dê ao 
+suplicante a légua de largura e 3 de comprimento para o sertão. Bahia, 9 de dezembro de 1681 
+// Andrada // E a informação do provedor-mor da dita Real Fazenda que também é o que se 
+segue: senhor, a suplicante foi mulher do capitão Agostinho Pereira Bacelar que serviu a sua 
+Alteza com muita satisfação e o mataram os índios em serviço do mesmo. Senhor, tem cabedal 
+de gado e escravos com que [se] pode povoar as terras que pede, e assim me parece [que] se lhe 
+pode, conceder, visto não ter dúvida o procurador da Fazenda, e que seja com as condições do 
+regimento sem prejuízo de terceiro e as mais vossa senhoria mandará o que for servido. Bahia, 
+10 de dezembro de 1681 // Antônio Lopes de Ulhôa // Hei por bem de conceder e dar de 
+sesmaria a suplicante, uma légua de terra de largura com 3 e comprimento para o sertão na parte 
+que a pedem em sai petição como parece aos ministros da Fazenda, a qual terra lhe concedo em 
+nome de sua Alteza, não prejudicando a terceiro com todas as suas águas, matas, testadas, 
+logradouros e mais úteis que nelas se achar com foro livre e isento de pensão salvo o dizimo a 
+ordem de Cristo que pagarão pelos frutos que delas houver, e por elas serão obrigados a dar 
+estradas públicas e particulares para pontes, fontes, portos e pedreiras povoando-as no termo da 
+lei e demarcando-as no termo da posse, citados os éreos e sendo obrigados a mandar certidão 
+de como tem povoado dentro do dito termo para se registrar nos livros da Fazenda Real pelo o 
+que ordeno a todos os ministros de justiça, a que o conhecimento deva ou possa pertencer [que] 
+lhe façam dar posse real, efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas e as mais da ordenação título de sesmarias para a firmeza do que lhe mandamos passar 
+a presente sob o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do 
+Estado e nas mais a que tocar, se assegurará e cumprirá tão pontual e inteiramente com nele se 
+contem sem dúvida, embargo nem contradição alguma // Antônio Garcia  // o fez nesta cidade 
+do Salvador, Bahia de todos os santos aos 11 dias do mês de dezembro, ano de 1681 // Bernardo 
+Vieira Ravasco // a fiz escrever // Roque da Costa Barreto // Registrada no livro 2° dos registros 
+da secretaria do Estado do Brasil a que toca as folhas 100. Bahia, 10 de outubro de 1681 // 
+
+Ravasco // Despacho do provedor-mor. Registre-se nos livros da Fazenda a que toca. Bahia, 14 
+de dezembro de 1681 // de Ulhôa // Antônio Lopes a registrou em 15 do dito mês de dezembro. 
+ 
+- Fim de Transcrição - 
+ 
+Observações: 
+- O nome da suplicante no documento original consta como: “Maria Pereira”. 
+ 
+Referências: 
+AN, Códice 427 vol. 1, fls. 203 – 204. 
+Numeração original no livro: 149. 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,110 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0223
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Julião Rangel de Sousa Coutinho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-06-1723",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em São Lourenço, distrito de Icaraí",
+  "Confrontantes": "Fazendas do capitão Constantino Machado de Sampaio, do capitão José Barreto de Faria, do capitão Antônio Rebelo Pereira, de Antônio da Costa Silva, de Domingos Paes Piritininga e dos herdeiros de Antônio Pinto.",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; Alegou possuir muitos familiares; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0223"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0223
+Carta de concessão de Julião Rangel de Sousa Coutinho de 5 de junho de 1723
+Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São Martinho
+de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da dita vila, gentil
+homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus guarde, governador
+e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que que havendo respeito a
+representar-me por sua petição Julião Rangel de Sousa, que ele tem certa e constante notícia que
+em São Lourenço, distrito de São João de Caraí, da banda de além entre as fazendas do capitão
+Constantino Machado de Sampaio, o capitão José Barreto de Faria, o capitão Antônio Rebelo
+Pereira, Antônio da Costa Silva, Domingos Paes Piritininga, e a dos herdeiros do defunto Antônio
+Pinto, há bastante sertão que nunca foi cultivado, e ele se acha com bastante família e escravos
+para poder cultivar em utilidade dos dízimos reais e bem comum, pedindo-me lhe fizesse mercê
+dar de sesmaria uma légua em quadra de terra no sertão que se acha entre as sobreditas fazendas,
+começando na terra que for mais lavradia nas cabeceiras do capitão Constantino Machado
+correndo a dita légua por toda a terra que se achar devoluta sem lavouras, marcos ou medições,
+dando-se vista deste requerimento ao provedor da Fazenda Real e procurador da Coroa, nem se
+oferecendo dúvidas. Hei por bem fazer mercê ao dito Julião Rangel de Sousa de lhe dar de
+sesmaria em nome de Sua Majestade, que Deus guarde, as referidas terras, não excedendo porém
+uma légua em quadra na forma das ordens do mesmo Senhor, sem prejuízo de terceiro ou do
+direito que algumas pessoas possam ter a elas, com declaração que cultivará e mandará confirmar
+esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o fazendo se lhe
+denegará mais tempo, pelo que mando ao ministro ou oficial de justiça a quem o conhecimento
+deste pertencer, dê posse ao dito Julião Rangel de Sousa das referidas terras na forma acima
+declarada. E por firmeza de tudo mandei passar a presente por mim assinada e selada com o
+sinete de minhas armas que se cumprirá inteiramente como nela se contém e se registrará nos
+Livros da Secretaria deste governo e onde mais tocar. Se passou por duas vias. Dada nesta cidade
+de São Sebastião do Rio de Janeiro, 5 dias do mês de junho de 172[3]. (Ilegível) Paes de Paredes
+a fez. O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha de Albuquerque Coutinho Matos e Noronha//
+
+Carta porque Vossa Senhoria há por bem fazer mercê a Julião Rangel de Sousa de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, as referidas terras na forma e maneira
+acima declara. Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha 145.
+Rio, 5 de junho de 1723. //José Ferreira da Fonte//
+-Fim da Transcrição-
+Observações:
+Título original do sesmeiro: Julião Rangel de Souza Coutinho.
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a Julião
+Rangel de Sousa Coutinho, uma légua de terra em quadra, com as confrontações descritas na
+mesma carta. Rio de Janeiro, 5 de junho de 1723.
+Esta carta de concessão está disponível no AHU anexada à petição n° 8074 e ao auto de posse.
+Caraí pode também ser Icaraí.
+Referência
+AHU_ACL_CU_017-1, Cx. 34\Doc. 8075
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

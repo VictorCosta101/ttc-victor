@@ -1,0 +1,111 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0296
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Nuno Pinheiro Cortez",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "26-07-1742",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Fazenda dos Macacões",
+  "Ribeira": "Parnaíba, Riachão e riacho dos Poços",
+  "Confrontantes": "Caatingas",
+  "Justificativas": "Era descobridor(a) das terras; Pretendia criar gado; Pretendia apascentar gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que pretendia obter o título para possuir a terra sem controvérsia.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0296"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0296
+Carta de concessão a Nuno Pinheiro Cortez - 26/07/1742
+Registro de uma carta de data e sesmaria concedida a Nuno Pinheiro Cortez de 3 léguas
+de terra de comprido, uma de largo na fazenda dos Macacões.
+João de Abreu de Castelo Branco, do concelho de Sua Majestade. Faço saber aos que esta
+minha carta de data e sesmaria virem que Nuno Pinheiro Cortez, morador na ribeira de
+Parnaíba, me representou que ele descobriu um sítio no distrito da dita ribeira, chamada o
+Sítio dos Macacões, e vertentes ao riachão o que faz pião nos riacho dos poços, correndo o
+seu comprimento da Nascente para o Poente pelo mesmo riacho, e a largura do Norte ao Sul,
+entestando com as caatingas e porque o suplicante, se achando com a possibilidade para o
+povoar com gados vacum e cavalares. Me pedia fosse servido conceder-lhe, em nome de Sua
+Majestade, por data e sesmaria 3 léguas de terra de comprido, uma de largo no dito chamado,
+digo, sítio acima referido, confrontado. Ao que atendendo e à informação do provedor-mor da
+Fazenda Real e ser em utilidade da mesma Fazenda o cultivarem-se as terras neste estado.
+Hei por bem conceder-lhe, em nome de Sua Majestade, por data e sesmaria 3 léguas de terra
+de comprido, e uma de largo, no sítio chamado dos Macacões com as confrontações acima
+referidas, condições expressadas nas Reais Ordens. E com a de não fazer trespasse por meio
+algum em nenhum tempo a pessoa alguma, ou comunidade sem primeiro dar parte na casa da
+Fazenda Real ao provedor-mor dela, para me fazer presente para ver se deve ou não consentir
+no trespasse, sob a pena de ficar nula esta data e se pode conceder novamente a outrem. E
+nesta forma se lhe passa carta para que o dito Nuno Pinheiro Cortez haja, logre e possua as
+ditas terras como coisa sua, a todos os seus herdeiros, ascendentes e descendentes sem
+pensão, nem tributo algum mas que o dízimo a Deus, Nosso Senhor, dos frutos que nelas
+houver e lavrar. A qual concessão lhe faço não prejudicando a terceiro nem a Sua Majestade
+se no dito sítio quiser mandar fundar alguma vila, reservando os paus reais que nela houver
+para embarcações. com cominação de que mandará confirmar esta data por Sua Majestade,
+dentro dos 3 anos primeiros seguintes. E dará caminhos públicos e particulares onde forem
+necessários para pontes, fontes, portos e pedreiras, e se demarcará ao tempo da posse por
+rumo de corda e braças craveiras, como é estilo e sua Majestade manda. E outrossim, não
+sucederão nelas religiões nem pessoas eclesiásticas por nenhum título que seja, e acontecendo
+possuí-las será com o encargo de pagar delas dízimo a Deus, como se fossem possuídas por
+seculares, e faltando a qualquer destas cláusulas se haverão as ditas terras por devolutas, e se
+darão a quem as denunciar como o dito Senhor ordena. Pelo que mando ao provedor-mor da
+Fazenda Real, mais ministros, e pessoas a que tocar, como forma referida e condições
+expressadas deixem ter e possuir as ditas terras ao dito Nuno Pinheiro Cortez, para que ele e
+todos os seus herdeiros, ascendentes e descendentes como coisa sua própria. Cumpram e
+guardem esta minha data e sesmaria tão inteiramente como nela se contém. A qual lhe
+mandei passar por mim assinada e selada com o sinete de minhas armas, que se registrará
+onde passar e passou por duas vias. Dada na cidade de São Luís do Maranhão aos 26 de
+julho, ano de nascimento de Nosso Senhor Jesus Cristo de 1742. E eu, José Gonçalves da
+Fonseca, secretário do estado a fiz escrever. //João de Abreu de Castelo Branco//.
+-
+Fim da Transcrição -
+Referência:
+APEP, Livro 10, Doc. 218, fls. 152v-153.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

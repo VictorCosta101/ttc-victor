@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0074
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pedro Garcia Pimentel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-01-1683",
+  "Observações da sesmaria": "A sesmaria possuía 30 léguas quadradas e estava localizada no sertão da capitania da Bahia, ao longo do rio Jiquiriça, fazendo fronteira com as terras do capitão Manuel de Hinojosa e ao sul dela ficava o rio de Contas, fazendo fronteira com as terras de Francisco Telles de Menezes.",
+  "Localidade": "Rio Jiquiriça",
+  "Marcos Geográficos": "Rio Jiquiriçá e rio de Contas",
+  "Confrontantes": " Manuel de Hinojosa; Francisco Telles de Menezes",
+  "Observações da petição": "O sesmeiro solicitou 12 léguas de terra, sem especificar as medidas de comprimento e largura. O governador concedeu 5 léguas, mas o suplicante, em réplica solicitou mais léguas.",
+  "Justificativas": "Não tinha terras; As terras eram devolutas; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que não era costume conceder mais do que cinco léguas de sesmarias, mas como as terras eram muito distantes e ficavam vizinhas a grupos de índios, seria proveitoso para coroa que o suplicante a povoasse. De princípio foi concedido apenas cinco léguas ao suplicante, mas em réplica, ele pediu mais cinco léguas, alegando que eram terras perigosas por causa do \"gentio bárbaro\". O governador concedeu mais cinco léguas, totalizando 10 léguas de comprimento e 3 de largura.",
+  "Observações das exigências": "Determinou-se mandar certidão de como tem povoado.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Pita",
+  "referencia": "BA0074"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria de Pedro Garcia Pimentel de 10 léguas de terra no rio Jiquiriça. 
+Antônio de Sousa de Menezes. Faço saber aos que este alvará de doação e sesmaria virem que 
+havendo respeito do que, por parte  de Pedro Garcia Pimentel, se me enviou a representar por 
+sua petição cujo o teor é o seguinte: senhor, diz Pedro Garcia Pimentel que ele, suplicante, tem 
+seus gados vacuns e cavalares, e não tem terras em que os trazer, e porquanto na primeira aldeia 
+do gentio mamado maracás junto a data do capitão Manoel de Hinojosa, no rio jiquiriça, há 
+terras devolutas e desaproveitadas. O suplicante é pessoa de cabedal e as quer povoar a sua 
+custa, que é multiplicidade da Fazenda Real de sua Alteza. Portanto, pede a vossa senhoria 
+[que] lhe faça mercê dar de sesmaria em nome de sua Alteza a terra que há do lado da dita data 
+do capitão Manuel de Hinojosa; para a parte do sul de onde começa, buscando direito o Rio de 
+contas, indo sempre entestando com a dita data, e com a do alcaide-mor Francisco Telles de 
+Menezes e pelo rio das contas acima o comprimento de 12 léguas contando que fique sempre 
+tão largo no principio como no fim da dita data. E receberá mercê. E vista a resposta do 
+procurador da fazenda real, que é a que segue: Pedro Garcia Pimentel tem os requisitos 
+necessários para povoar as terras que pede, só encontra esta sua petição e resolução de sua 
+Alteza que não permite a cada um povoador, mais do que 5 ou 6 léguas, mas como a distancia 
+das terras e despesas [são] consideráveis, que se hão de fazer em as cultivar pela vizinhança do 
+gentio [e] se não podem arriscar, sem maior mercê, que a ordinária me parece [que] se pode 
+dispensar com ele em mais léguas que as 5 // Pita // E a informação do provedor-mor da dita 
+Real Fazenda que também é a seguinte: senhor, com a resposta do procurador da Fazenda, 
+informo a vossa senhoria , em conforme com ela na concessão desta sesmaria com que parece, 
+se devem declarar as léguas de terra, assim no comprimento com em largura, sem prejuízo de 
+terceiro e as mais condições costumadas, vossa senhoria mandará o que for servido. Bahia, 5 
+de novembro do mesmo ano na forma da determinação de sua Alteza. Concedeu as léguas que 
+nela se continha somente para o que se passasse carta na forma e condições costumadas. E vista 
+justamente a replica que o suplicante fez a cerca do que conformou de informação do procurador 
+da Fazenda Real que se conforma com a do provedor-mor, lhe deva conceder no suplicante e, 
+por ser em totalidade grande da Fazenda Real em povoar o suplicante, a custa de sua fazenda, 
+a dita terra em razão de que com se povoar se evita dano que o gentio brabo faz as terras 
+circunvizinhas, e assim atendendo eu a todas estas razões, me pedia lhe de mais algumas léguas 
+das 5 em quadra, reservando matos e caatingas  que naquele sertão não é de utilidade nenhuma, 
+ficando esta terra partindo coma data do alcaide-mor Francisco Telles de Menezes, e tornando 
+vista ao dito Procurador da Fazenda cuja resposta é a seguinte: Parece-me que sem se 
+encontrarem as ordens de sua Alteza, se podem conceder ao suplicante mais léguas de sesmaria 
+que as 5 ou 6 que o dito senhor limita, porque o lugar em que se pede é fronteiriço aos bárbaros 
+que até o presente infestam o recôncavo desta Bahia, e corre muito risco toda a despesa que se 
+fizer para povoar as tais terras, se a qual quer morador se podem dar as ditas 5 ou 6 léguas 
+desimpedidas, e sem risco de perderem a fábrica que meterem para as povoar, não é muito onde 
+houver o tal perigo, se concedam mais léguas, particularmente concedendo no suplicante as 
+razões certo próximas que aponta // Pita // E a informação do provedor-mor da dita Fazenda 
+que também é a seguinte: Senhor, Parece que ao procurador da Fazenda, vossa senhoria 
+mandará o que for servido. Bahia, 12 de janeiro de 1683 // Francisco Lamberto // Por meu 
+segundo despacho de 15 de janeiro do mesmo ano, que visto as informações juntas se passasse 
+carta para outras 5 léguas, outro tanto do que se havia concedido. Hei por bem de conceder e 
+ao suplicante, como pelo presente faço em nome de sua Alteza, as ditas 10 léguas de terra 
+declaradas nos ditos 2 despachos meus acima, incertos a saber 5 léguas pelo primeiro, e outras 
+5 pelo segundo que ao todo fazem as ditas 10 léguas que se começarão na parte onde as pede e 
+confronta  comprimento e 3 de largura ficando o rio jiquiriça no meio do sitio, e lugar em que 
+
+se pedem, não prejudicando a terceiro com todas as suas águas, matas, testadas, logradouros e 
+mais úteis que nelas se achar com foro livre e isento de pensão salvo o dizimo a ordem de Cristo 
+que pagarão pelos frutos que delas houver, e por elas serão obrigados a dar estradas públicas e 
+particulares para pontes, fontes, portos e pedreiras povoando-as no termo da lei e demarcando-
+as no termo da posse, citados os éreos e sendo obrigados a mandar certidão de como tem 
+povoado dentro do dito termo para se registrar nos livros da Fazenda Real pelo o que ordeno a 
+todos os ministros de justiça, a que o conhecimento deva ou possa pertencer [que] lhe façam 
+dar posse real, efetiva e atual na forma costumada debaixo das cláusulas acima referidas e as 
+mais da ordenação título de sesmarias para a firmeza do que lhe mandamos passar a presente 
+sob o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado e nas 
+mais a que tocar, se assegurará e cumprirá tão pontual e inteiramente com nele se contem sem 
+dúvida, embargo nem contradição alguma // Antônio Garcia  // o fez nesta cidade do Salvador, 
+Bahia de todos os santos aos 15 dias do mês de janeiro, ano de 1683 // Bernardo Vieira Ravasco 
+// a fiz escrever // Antônio de Sousa de Menezes // Registrada no livro 2° dos registros da 
+secretaria do Estado do Brasil a que toca as folhas 169. Bahia, 19 de janeiro de 1683 // Ravasco 
+// Nada se pagou neste despacho do provedor-mor. Registre-se. Bahia, 15 de fevereiro de 1683 
+// Lamberto // a registrou-se em dito dia. 
+ 
+- Fim de Transcrição - 
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Pedro Garcia Pimentel”. 
+ 
+Referências 
+AN, Códice, fls 218v - 220. 
+Numeração original no livro: 159 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

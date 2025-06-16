@@ -1,0 +1,141 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0420
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Gomes do Rego Barros",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "14-07-1725",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"\r\n",
+  "Localidade": "Sesmaria no riacho o Pirangi, vertente ao Parnaíba",
+  "Marcos Geográficos": "Serra da Ibiapaba, riacho o Pirangi",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Esperava evitar contendas; Não possuía as terras com justo título; Participou das guerras contra o gentio; As terras eram habitadas pelo gentio; Tinha gado vacum; As terras eram ocupadas por pessoa sem título; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou também que pela razão de não pagar foro ao coronel Pedro Barbosa Leal, o qual aforava sua terra, pretendia \"evitar contendas nos tempos em diante, e porque duvida de o te-lo por onde o dito coronel ou qualquer outrem fosse senhor do dito riacho Pirangi\".",
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0420"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0420
+Carta de Concessão a João Gomes do Rêgo Barros - 14/07/1725
+Agnello Neves do Espírito Santo, chefe do arquivo público do estado, anexo à biblioteca e
+arquivo público do Pará, por nomeação efetiva, etc.
+Certifico de ordem do doutor diretor da Biblioteca e Arquivo Público do Estado do Pará, a
+requerimento verbal do doutor Bernardo Borges Pires Leal, subprocurador geral do Piauí, o
+teor da carta de data e sesmaria concedida a João Gomes do Rêgo Barros a 14 de julho de
+1725, e que se acha registrada às folhas 57 verso, 58, 58 verso, 59 do livro 2 da coleção
+arquivada nesta repartição, a qual é o seguinte:
+Registro de uma carta de sesmaria de João Gomes do Rêgo Barros
+João da Maia da Gama etc. Faço saber aos que esta minha carta de data e sesmaria virem que
+a mim me enviou a dizer por sua petição João Gomes do Rêgo Barros, capitão-mor, que foi na
+Parnaíba que ele, suplicante, tinha povoado uma ilha,a qual estava entre a barra do rio Igaraçú
+e entre a barra chamada vulgarmente barra do Parnaíba, com um curral de 250 bocas, e 60
+[vacas] [rendoso] aos dízimos uma em 5 anos, como constou e a todos os vizinhos, e tinha
+povoado na mesma ilha outro sítio para o coronel Pedro Barbosa Leal, de quem era
+procurador sem mais algum título, que o descobriu, ele suplicante, a dita ilha deserta de
+vassalos de Sua Majestade, e só habitada de tapuias, que ele suplicante conquistara como uma
+notória parte, com armas, na qual conquista sustentara 3 ousadias que lhe fizera o tapuia
+[levantado] comole de campo, Antonio da Cunha Souto Maior, julgando o tapuia armas de
+fogo de dia e de noite, e tendo um número que alcançava com o cerco uma léguas de circuito,
+parte com a amizade como se via ainda hoje. O resto de avarias trazido depois por ele
+suplicante, um a qual conquista achava em sua consciência ter gasto por cima de 5 mil
+cruzados e acima rezava aos santos evangelhos e com se ache com filhas solteiras e um filho
+e sem um palmo de terra em que viva com título seguro, e o coronel Pedro Barbosa Leal tinha
+terras em tanta quantidade que as esta dando e aforando-a quantas lhe parasse ainda tem muita
+por povoar de onde pode retirar as estas que ele lha puseram na dita ilha, onde nem ele, nem o
+suplicante com a dissera tinha título dado por sesmaria. Pedindo-me fosse servido mandar
+passar carta de data da dita ilha a ele, suplicante, primeiro que a nenhum outro, atendendo a
+seus merecimentos, para a possuir em todo comprimento nela se [contiver],com título justo
+conforme as ordens de Sua Majestade [sic], que Deus guarde, e como os filhos fossem tantos
+e a ilha mal sustentaria um lhe [dois] de formas mandasse dar a sesmaria num riacho, a que
+chamam o Pirangi, o qual vertia da serra da Ibiapaba e deságua na Parnaíba, no qual riacho
+tem ele, suplicante, lavrado com duas mil cabeças de gados vacum[vai]por 14 anos, com
+doação feita vocalmente pelo coronel Pedro Barbosa Leal, ao qual nunca pagara foro, mas por
+evitar contendas nos tempos em diante, e porque duvida de o te-lo por onde o dito coronel ou
+qualquer outrem fosse senhor do dito riacho Pirangi lhe mande dar juntamente de sesmaria o
+dito riacho com o comprimento em que até agora o tem possuído. E atendendo às razões que
+alegou, como também ao que respondeu o provedor-mor da Fazenda Real da capitania de São
+Luís do Maranhão, a quem se deu vista. Hei por bem de conceder em nome de Sua Majestade,
+que Deus o guarde,por carta de data e sesmaria ao dito [sic] João Gomes de Rêgo Barros duas
+léguas de terra de comprido e duas de largo, se as houver na dita ilha que pede para que as
+haja, logre e possua como coisa sua própria e todos os seus herdeiros, ascendentes e
+descendentes, sem tributo algum mais que o dízimo a Deus Nosso Senhor dos frutos que nelas
+tiver. A qual concessão lhe faço não prejudicando a terceiro, e reservando os paus reais que
+nelas houver para embarcações, com declaração que mandará confirmar confirmar esta carta
+
+por Sua Majestade dentro de 3 anos primeiros seguintes, e cultivará as ditas terras de maneira
+que deem frutos, e dará caminhos públicos e particulares onde forem necessário para pontes,
+fontes, portos e pedreiras, e se demarcará ao tempo da posse por rumo de cordas e braças
+craveiras, como é estilo e Sua Majestade manda. E outrossim, não poderão nelas suceder
+religião por nenhum título, e acontecendo possuí-las será com encargo de pagarem delas
+dízimos a Deus como se fossem possuídas por seculares. Faltando a qualquer destas cláusulas
+se haverão as ditas terras por devolutas e se darão a quem as denunciar, como o dito senhor
+ordena. Pelo que mando a o provedor da Fazenda Real, ministros e pessoas a que tocar, que na
+forma referida e com as condições declaradas deixem ter e possuir as ditas duas léguas de
+terra de comprido e duas de largo na parte já mencionadas ao dito João Gomes do Rêgo
+Barros para ele e todos os seus herdeiros, ascendentes e descendentes, como coisa sua própria.
+Cumpram e guardem esta carta tão inteiramente como nela se contém, a qual lhe mandei
+passar por mim assinada e selada com o sinete de minhas armas, que se registrará onde tocar e
+se passou por duas vias. Dada nesta cidade de Belém do Pará, aos 14 de julho, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1725. José Duarte Cardoso, secretário do Estado
+a fiz. João da Maia da Gama.
+Era o que se continha no referido registro que para aqui transcrevi bem e fielmente do próprio
+original, a que me reporto. Eu Gualberto Bessa de Oliveira, colaborador da biblioteca e
+Arquivo Público do Pará a escrevi. Em tempo: A palavra grifada com tinta encarnada no
+verso da primeira página, leia-se ter gasto. // G. Bessa de Oliveira // E eu, Agnello Neves do
+Espírito Santo, chefe do Arquivo Público do estado a fiz escrever, certifico e assino. Belém,
+14 de agosto de 1929. Agnello Neves do Espírito Santo. E/E. por mim. 14/08/1929. visto: //
+Martinho Pinto // // A. N. E.Santo //
+- Fim da Transcrição -
+Referência:
+Original: APEP, Livro 2, doc. 69, p. 137v - 139.
+Observação:
+No começo da transcrição do documento original é encontrado um erro, coloca-se o nome do
+governador errado, o que foi corrigido nesta transcrição.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

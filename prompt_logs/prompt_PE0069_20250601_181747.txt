@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0069
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0125",
+  "Nome": "Francisco Rodrigues da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Herdada",
+  "Data da petição": "10-11-1733",
+  "Data da concessão": "10-01-1734",
+  "Observações da sesmaria": "O suplicante requereu três braças de comprimento e nove braças de largura na vila do Recife. As terras requeridas localizavam-se em frente ao muro da Ordem Terceira de São Francisco, em direção a Igreja do Hospital e ao Palácio das Torres.",
+  "Localidade": "Vila do Recife",
+  "Confrontantes": "Ordem Terceira de São Francisco, Igreja do Hospital, Palácio das Torres",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que havia recebido as terras e a casa de herança do seu pai, Francisco Gonçalves da Costa, e que pretendia reerguer as casas e por isso solicitava a concessão da sesmaria. ",
+  "Observações do deferimento e da concessão": "O governador solicitou o parecer do tenente general artilheiro, Diogo da Silveira Veloso, para confirmar se as terras solicitadas prejudicavam a construção de fortificações militares na Praça do Recife. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Ferreira de Castro",
+  "referencia": "PE0069"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0069
+Carta de doação e sesmaria de Francisco Rodrigues da Costa -
+Francisco Rodrigues da Costa, de 30 palmos de terra detrás do muro de São
+Francisco.
+Duarte Sodré Pereira Tibão — senhor e donatário da Vila de Águas Belas, do Conselho
+de Sua Majestade, que Deus guarde, governador e capitão general de Pernambuco e
+mais capitanias anexas e etc. — Faço saber aos que esta carta de doação e sesmaria
+virem, que por parte de Francisco Rodrigues da Costa, se me representou a petição do
+teor seguinte: Excelentíssimo senhor. — Diz Francisco Rodrigues da Costa, escrivão
+atual dos órfãos desta praça, que entre os bens que lhe ficaram de seu defunto pai
+Francisco Gonçalves da Costa, foi uma casa térrea situada no canto de frente do muro
+da Ordem terceira de São Francisco desta Praça, indo da Igreja do Hospital para o
+Palácio das Torres, que de presente se acha arruinada e a quer refazer de novo, para o
+que pede a Vossa Excelência lhe faça mercê mandar dar de sesmaria os chãos da dita
+casa, que poderão ser 30 até 35 palmos de frente, com seu fundo competente, de que
+pagará o foro que se lhe arbitrar. E receberá mercê = Despacho — Informe o tenente-
+general engenheiro — Recife, 10 de novembro de 1733 — Resposta — Excelentíssimo
+Senhor — Como as casas que o suplicante pretende reformar não prejudicam a nova
+fortificação e muito menos a terceiro, me parece justo o seu requerimento, visto se
+obrigar a foro a Fazenda Real, e assim me parece se lhe podem dar 30 palmos de frente
+e 90 de fundo, que é o que entendo bastar para umas casas térreas com seu quintal;
+Vossa Senhoria lhe deferirá como for de justiça = Recife, 12 de novembro de 1733 —
+Diogo da Silveira Veloso — Despacho — Informe o provedor da Coroa e Fazenda —
+Recife, 12 de novembro de 1733 — Resposta — Excelentíssimo senhor — Não se me
+oferece dúvida que ao suplicante se deem os chãos que pede de sesmaria, fazendo
+obrigação nesta provedoria de pagar o foro costumado; Vossa Excelência mandará o
+que for servido e de justiça, como costuma. Recife, 16 de novembro de 1733 — Antônio
+Ferreira Castro — Despacho — Informe o procurador da Fazenda — Recife, 16 de
+novembro de 1733. Resposta — Senhor governador e capitão general, conformo-me
+com a resposta que neste requerimento deu o procurador da Fazenda; Vossa Senhoria
+mandará o que for servido. Recife, 3 de dezembro de 1733 — João do Rego Barros —
+Último despacho — Passe carta de sesmaria na forma do estilo, da maneira que aponta o
+
+tenente-general engenheiro, pagando de foro a três vinténs por palmo, na forma que se
+pratica com os mais, com declaração que o foro principiará a correr do 1.° de janeiro de
+1733 - Recife, 3 de dezembro de 1733 - E em observancia das ordens de Sua Majestade
+e faculdade que me concede no capítulo 15 do Regimento deste Governo — hei por
+bem de lhe dar de sesmaria 30 palmos de terra de frente e 90 de fundo, no lugar
+confrontado acima, de que pagará a três vinténs por palmo a Fazenda Real do 1° de
+janeiro de 1738 em diante, e dará pela dita terra caminhos e estradas livres ao Conselho,
+e sendo necessária para a Fazenda Real e serviço de Sua Majestade, lhe será tirada,
+sendo que por isso lhe fique obrigada a dita Fazenda Real a satisfação alguma e não
+passará a religiões por nenhum título, e passando será com as mesmas obrigações — .
+Pelo que ordeno aos ministros da Justiça ou Fazenda a que tocar, lhe façam dar posse
+real, efetiva e atual, sem prejuízo de terceiro, e se carregará o dito foro em receita por
+lembrança para a sua arrecadação — E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se registrará nos
+livros desta Secretaria deste Governo e nos da Fazenda Real ou almoxarifado. Dada
+nesta praça do Recife de Pernambuco, em os 10 dias do mês de janeiro — Bento Soares
+Pereira a fez - Ano de 1734 – O secretário José Duarte Cardoso a fez escrever — Duarte
+Sodré Pereira.
+Esta sesmaria não teve efeito, porque os terceiros de são Francisco diz lhes tocava estes
+chãos, como mostraram.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 31 - 33.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

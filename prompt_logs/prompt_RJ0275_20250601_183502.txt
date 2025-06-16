@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0275
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Freire Ribeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "08-01-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que o suplicante pretendesse as terras sobejas da demarcação feita por Feliciano Nunes.",
+  "Localidade": "Sobejos de terra no lugar chamado Praia Vermelha, distrito da vila de Parati",
+  "Marcos Geográficos": "Praia Vermelha",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que, da demarcação feita na terra, haveria partes sobejas.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado \"a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se também que fossem reservados os paus reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0275"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0275
+Carta de concessão de Manuel Freire Ribeiro de 8 de janeiro de 1750
+Matias Coelho de Sousa, mestre de campo de infantaria de um dos terços da guarnição desta
+praça do Rio de Janeiro, cujo cargo está o governo dele e suas capitanias, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Manuel Freire Ribeiro, casado, com mulher e filhos na vila de Parati, que a sua
+notícia viera que comprando o capitão Antônio da Silva Fogaça, morador na mesma vila, 300
+braças de terras à Domingos das Neves, [situadas] no lugar chamado a praia Vermelha,
+distrito da dita vila, que confrontavam de uma banda com terras de Santa Luzia e da outra
+com terras de Feliciano Nunes, como declarava a escritura de venda, de cujas 300 braças de
+terras venderá o dito capitão 100 braças à um Manuel Marques dos Santos, que partiriam com
+terras da dita Santa e da outra com as dele vendedor, e as outras 100 braças venderá a André
+de Sousa, ficando-se somente o dito capitão com 100 braças, entestando com as terras do dito
+Feliciano Nunes, e de presente querendo o dito capitão inteirar aqueles compradores as ditas
+200 braças na forma das suas escrituras, repugnara medir-se o dito Manuel Marques dando
+ocasião a moverem pleito naquele juízo, e tudo [a fiz] pela certeza que tinham de que medidos
+e inteirados haveria sobejo tanto ou quanto, e porque da parte da demarcação do dito
+Feliciano Nunes fica sobejo de terras que terá 50 braças em quadra, pouco mais ou menos, e
+com o [travessão] que direita pertencer, me pedia lhe mandasse passar sesmaria na forma do
+estilo. Sendo visto o seu requerimento, em que foi ouvido o Senado da Câmara da vila de
+Parati, a quem se não ofereceu dúvida, nem ao provedor da Fazenda Real e procurador da
+Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria, em nome de Sua Majestade e
+em virtude da ordem do dito Senhor de 15 de julho de 1711 em que me dá faculdade para
+conceder sesmarias ao dito Manuel Freire Ribeiro 50 braças de terras em quadra, pouco mais
+ou menos, por sobejo na parte acima declarada; com as confrontações expressadas; sem
+prejuízo de terceiro ou do direito que alguma pessoa a tenha a elas; com declaração que as
+cultivará e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo; antes de tomar posse delas, as fará medir e demarcar
+judicialmente, sendo para este efeito notificadas as pessoas com quem confrontar; será
+obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e
+descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservada
+de uma das margens dele a terra que baste para a serventia pública; nesta data não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com o encargo de
+pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, não os pagando se
+
+poderá dar a quem as denunciar; como também sendo o dito Senhor servido mandar fundar no
+distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum ou pensão para o
+sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de metal que nela
+se descobrir, reservando também os paus Reais; e faltando a qualquer das ditas cláusulas, por
+serem conforme as ordens de Sua Majestade e as que dispõe a Lei e Foral das Sesmarias,
+ficará privado desta. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento
+desta pertencer, dê posse ao dito Manuel Freire Ribeiro das referidas terras na forma acima
+declarada. Por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com
+sinete de minhas armas, que se cumprirá como nele se contém, se registrará nesta Secretaria
+do governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do Rio de
+Janeiro. João de Sousa e Melo a fez em 8 de janeiro de 1750. O secretário do governo,
+Antônio da Rocha Machado, a fez escrever.
+//Matias Coelho de Sousa//
+[Carta] porque Vossa Senhoria fez mercê conceder por sesmaria, em nome de Sua Majestade,
+a Manuel Freire Ribeiro 50 braças de terras em quadra por sobejos na vila de Parati com as
+confrontações e forma que nesta se declara.
+Para Vossa Senhoria ver.
+Cumpra-se e registre. [Parati, em Câmara] a 15 de fevereiro de 1750.
+//(não identificado)//
+Registrada no Livro 10 das Provisões do governo a folha 96. Rio, a 10 de janeiro de 1750.
+//Antônio da Rocha Machado//
+O doutor José Pinto de Morais Bacelar, do desembargo de Sua Majestade, seu ouvidor geral,
+sindicante do doutor Francisco Antônio Berquó da Silveira Pereira, juiz das justificações
+nesta cidade do Rio de Janeiro, etc. Aos que a presente certidão de justificação virem, faço
+saber em como a mim me constou por fé do escrivão de meu cargo, que esta subscreveu, ser a
+letra da subscrição da sesmaria retro do [secretário] do governo Antônio da Rocha Machado, e
+o sinal posto ao pé do governador do [Rio de Janeiro] e suas capitanias, Matias Coelho de
+Sousa, coronel de um dos regimentos desta praça. O que hei por justificado. Rio, a 28 de maio
+de 1751. E eu, Manuel Freire Ribeiro, escrivão que a sobscrevi.
+//José Pinto de Morais Bacelar//
+-Fim da Transcrição-
+
+Observações:
+Título AHU: CARTA pela qual o governo do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Freire Ribeiro 50 braças em quadra, no sítio da Praia Vermelha. Rio, 8 de Janeiro de
+1750.
+Referência:
+AHU_ACL_CU_017-1, Cx. 68\Doc. 15920
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

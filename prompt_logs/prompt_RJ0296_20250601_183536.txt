@@ -1,0 +1,106 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0296
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Rodrigues Alcântara",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-10-1726",
+  "Observações da sesmaria": "A carta de concessão apresenta um grau de ilegibilidade considerável, o que impossibilitou a identificação de informações referentes ao histórico da terra.",
+  "Localidade": "Terras no rio Iguaçu",
+  "Ribeira": "Tinguá, Iguaçu",
+  "Confrontantes": "Terras de um capitão não identificado",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta apresenta um estado considerável de ilegibilidade, o que dificultou a identificação das justificativas.",
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0296"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0296
+Carta de concessão de Manuel Rodrigues Alcantâra de 1º de outubro de 1726
+Luís Vaía Monteiro, do conselho de Sua Majestade, que Deus guarde, cavaleiro professo na
+Ordem de Cristo, coronel de um regimento de infantaria paga, governador da capitania do Rio
+de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem [que atendendo a representar-me por
+sua petição] Manuel Rodrigues Alcantâra, que no rio do [Iguaçu] se acham (ilegível)
+pedindo-me lhe mandasse dar por sesmaria meia légua de terras (ilegível). Dando-se vista
+deste requerimento ao provedor da Fazenda Real e ao procurador da Coroa, aos quais se não
+ofereceu dúvida. [Hei por bem fazer mercê ao dito Manuel Rodrigues Alcantâra de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, as referidas terras; não excedendo,
+porém, 1 légua em quadra, na forma das Ordens do mesmo Senhor; sem prejuízo de terceiro
+ou do direito que algumas pessoas possam ter a elas; e com declaração que as cultivará e
+mandará confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e
+não o fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a
+que o conhecimento desta pertencer, dê posse ao dito Manuel Rodrigues Alcantâra das
+referidas terras na forma e maneira acima declarada]. Por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com sinete de minhas armas, que se cumprirá inteiramente
+como nela se contém, se registrará nos Livros da Secretaria deste governo e nos mais a que
+tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro. (ilegível) Francisco da Costa a
+fez a 1º de outubro de 1726. O secretário, José Ferreira da Fonte a fez escrever.
+//Luís Vaía Monteiro//
+Carta de sesmaria porque Vossa Senhoria há por bem fazer mercê a Manuel Rodrigues
+Alcantâra de lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, as terras
+acima declaradas.
+Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria de governo a folha
+57. Rio de Janeiro, 1º de outubro de 1726.
+//José Ferreira da Fonte//
+(ilegível)
+-Fim da Transcrição-
+
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Manoel Rodrigues Alcantara, uma légua de terras, em quadra, em uma das margens do rio
+Aguassú com as confrontações indicadas na mesma carta. Rio de Janeiro. 1 de outubro de
+1726. Certidão (Anexa ao n° 5.983)
+Nome original do sesmeiro: Manoel Rodrigues Alcantara.
+Rio Aguassú foi alterado para Iguaçu.
+Referência:
+AHU_ACL_CU_017-1, Cx. 26\Doc. 5.984
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

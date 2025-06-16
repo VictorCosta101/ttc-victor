@@ -1,0 +1,109 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0159
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Felipa Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "07-06-1657",
+  "Observações da sesmaria": "A sesmaria possuía cinco léguas totais, sem especificar as medidas de comprimento e de largura, e estava localizada ao longo do rio Vaza-Barris, fazendo fronteira com as terras de Salvador Dias, Manuel Curvelo e Domingos Fernandes Quaresma.",
+  "Localidade": "Rio Vaza-Barris",
+  "Marcos Geográficos": "Rio Vaza-Barris",
+  "Confrontantes": "Salvador Dias; Manuel Curvelo; Domingos Fernandes Quaresma.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se não prejudicar a terceiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A sesmaria tinha sido concedida ao seu marido e mais dois outros sesmeiros, mas como ele não a tinha  aproveitado como deveria, após o seu falecimento a suplicante pediu novamente a terra.",
+  "Observações das exigências": "Determinou-se que se registrasse a carta somente se a carta que tinha sido dada ao seu marido não tivesse registro.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0159"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro da carta de sesmaria de Felipa Pereira, viúva que ficou de Antônio Camelo, petição e 
+mais despachos. 
+Excelentíssimo Senhor, Felipa Pereira, viúva que ficou do capitão Antônio Camelo Pegas que 
+ao dito seu marido lhe foi concedida a carta de sesmaria que oferece e as mais pessoas nela 
+declaradas nas terras da qual sesmaria não meteu gado por andar continuamente ocupado no 
+serviço de Sua Majestade e lhe ser encarregado muitas diligencias devassas de consideração 
+por respeito das quais não pode fazer ausência desta cidade nem tratar de aproveitar nem povoar 
+a dita sesmaria, falecendo o dito seu marido nas mesmas diligencias e ocupações. E porque ela, 
+suplicante, é pobre e tem muitos filhos portanto pede de sesmaria a Vossa Excelência lhe faça 
+mercê conceder de novo a dita sesmaria na forma em que dantes estava concedida ao dito seu 
+marido. E receberá mercê. Passe com pede. Bahia, 7 de junho de 1657. 
+Provisão  
+Dom Jerônimo de Ataíde, conde de atouguia de conselho de Sua Majestade, senhor das vilas 
+dos vinhaes, monforte, lomba, paço, sarnache e piniche, senhor da fortaleza e presídio dela 
+comendador das comendas de Santa Maria de Oliveira da Ordem de São Bento, Santa Maria de 
+Adaufe e Vila Velha de Rodam da Ordem de Cristo, governador e capitão geral deste Estado 
+do Brasil etc. Faço saber aos que esta carta de doação e sesmaria virem que havendo respeito 
+ao que por parte de Felipa Pereira, viúva que ficou do capitão geral que foi deste Estado, Diogo 
+Luiz de Oliveira por carta de 19 de julho de 1634 na qual se contém também licenciado 
+Jeronimo de Burgos e André Gonçalves Inchado aos quais todos deu de sesmaria 15 léguas de 
+terra, 5 para cada um nas cabeceiras das terras de Salvador Dias, Manuel Curvelo e Domingos 
+Fernandes Quaresma pelo rio de Vaza Barris acima da parte do norte de onde chamam de 
+Jurumoaba como consta da mesma carta que me representou pedindo-me lhe concedesse de 
+novo a dita sesmaria na forma que se havia dado ao dito seu marido; e visto constar de todas as 
+razões que alega para ele as não ter cultivado e haver servido a Sua Majestade com satisfação. 
+Hei por bem e lhe faço mercê em seu real nome confirmar a sobredita carta de sesmaria e dar 
+se necessário é de novo a impetrante a terra nela contida e concedida ao dito seu marido não 
+prejudicando a terceiro assim e da maneira e com as cláusulas que nela se declaram. Pelo que 
+mando que havendo se dado posse ao dito seu marido seja conservada nela e não a tendo se lhe 
+de real efetivada e atual na forma que é estilo e será obrigada a registrar a presente de mais dos 
+livros da secretaria do Estado nos da Fazenda Real e nos mais a que tocar em que estiver lançada 
+a mesma carta de sesmaria acima referida. Para firmeza do que mandei passar a presente sob 
+meu sinal e selo de minhas armas a qual se guardará e cumprirá tão pontual e inteiramente como 
+nela se contém sem dúvida, embargo nem contradição alguma João Ponto Correia a fez nesta 
+cidade do Salvador, Bahia de Todos os Santos em os 7 dias do mês de junho de 1657 // Bernardo 
+Vieira Ravasco // a fiz escrever // O conde de atouguia // registrada no primeiro livre dos 
+registros a que toca desta secretaria do Estado do Brasil a folhas 45. Bahia e julho 8 de 1657 // 
+Ravasco // Registrou-se nos livros da Fazenda. Bahia, 27 de maio de 1658. // Gonçalo Pinto de 
+Freitas // 
+- Fim de Transcrição - 
+Referências: 
+DHBN, vol. 19, Pg. 347 - 349 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

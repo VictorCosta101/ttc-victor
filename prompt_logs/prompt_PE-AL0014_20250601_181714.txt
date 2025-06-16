@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0014
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0087",
+  "Nome": "João de Araújo Delgado ",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "01-12-1723",
+  "Observações da sesmaria": "O sesmeiro requereu duas léguas de comprimento e duas léguas de largura no sertão do Outeiro da Barriga. A sesmaria requerida compreendia a ilha do Tapecurú, uma ilha localizada no rio Paraíba-Grande.",
+  "Localidade": "Outeiro da Barriga",
+  "Marcos Geográficos": "Ilha do Tapecurú, Outeiro da Barriga, rio Paraíba-Grande",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Pretendia criar gado; As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O documento encontra-se incompleto e por isso não foi possível determinar as informações do despacho e do deferimento.",
+  "Observações das exigências": "O documento encontra-se incompleto e por isso não foi possível determinar as informações do despacho e do deferimento.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0014"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0014 
+ 
+Carta de doação e sesmaria de João de Araújo Delgado - 10/12/1723 
+ 
+SESMARIA QUE SE SE PASSOU A JOÃO DE ARAÚJO DELGADO, DE DUAS LÉGUAS 
+DE TERRA EM QUADRO NOS LUGARES CONQUISTADOS DOS PALMARES, EM O 
+SÍTIO CHAMADO RIO PARAÍBA GRANDE POR ELE ACIMA ATÉ ENCHER, 
+PEGANDO NA CABECEIRA DAS TERRAS DO MESTRE DE CAMPO DOMINGOS 
+JORGE VELHO, ENTRANDO NELE UMA LINHA, DIGO, UMA ILHA, SE COUBER NA 
+DITA TERRA CHAMADA TAPUCURÚ E ETC. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general e etc. 
+Faço saber aos que esta carta de doação de sesmaria virem que  me representaram a petição cujo 
+teor é o seguinte: Senhor. Diz João de Araújo Delgado, morador na capitania da Alagoa do Sul, que 
+ele tem servido a Sua Majestade, que Deus guarde, na guerra que se fez aos negros rebeldes dos 
+Palmares, acompanhando ao mestre de campo Domingos Jorge Velho, com o posto de alferes da sua 
+Companhia, em que ele o elegeu e nomeou como consta do documento incluso que o suplicante 
+apresenta a Vossa Senhoria, com os mais papéis de serviços que tem feito a Sua Majestade, e por 
+quanto o dito senhor foi servido mandar por sua real ordem também inclusa, repartir as terras 
+conquistadas pelos oficiais maiores e menores e mais infantaria que se acharam na restauração do 
+Oiteiro do Barriga, sendo o suplicante um dos oficiais que mais se assinalaram no esforço daquela 
+ocasião, se acham devolutas muitas terras das que foram conquistadas e nas quais pretende o 
+suplicante povoar duas léguas em quadro para meter nelas os seus gados vacum e cavalar, em que 
+Sua Majestade poderá ter muitos lucros em seus dízimos reais, pegando estas na cabeceira em que 
+acabam as seis léguas que se deram ao sobredito mestre de campo, correndo pelo rio Paraíba grande 
+acima até se encher as duas légoas de terra em quadro, por uma e outra parte do rio, acrescentando-
+se a esta uma ilha que se acha também devoluta no meio dele, chamada Tapucurú, em razão de ser 
+cercada d'agua por sua natureza, onde há formigas que destruam plantas, livres de foro na forma das 
+ordens de Sua Majestade, em remuneração do bom serviço que tem feito ao dito senhor; portanto, 
+pede a Vossa Senhoria seja servido mandar passar ao suplicante sua carta de sesmaria das ditas duas 
+légoas de terra em quadro, fazendo nela menção da ilha que se acha no sobredito Paraíba-grande, 
+fronteira as ditas terras confrontadas que o suplicante pede. E receberá mercê. = Despacho = 
+Informe o provedor da Fazenda Real, ouvindo ao doutor procurador da Coroa e Fazenda dela. 
+Recife, 1.º de dezembro de 1723 = Rubrica = Haja vista ao doutor procurador da Coroa. Recife, 1.º 
+de dezembro de 1723 = Barros = Não tenho dúvida no que o suplicante pede, ficando a ilha se 
+couber dentro das duas léguas confrontadas. Recife, 4 de dezembro de 1865, digo 1723 – Pereira. 
+Senhor governador e capitão general. Para poder informar a Vossa Senhoria me foi preciso ouvir ao 
+doutor procurador da Coroa e Fazenda Real, o qual responde que se lhe não oferece dúvida no que 
+pede  o suplicante, ficando a dita ilha dentro das duas léguas se couber, e como Sua Majestade, que 
+Em 10 de 
+dezembro de 
+1723 
+
+Deus guarde, ordena que a repartição das terras dos Palmares se estenda se tanto couber no sítio das 
+conquistas, e ficarão por conquistar para o sertão, sem que se possa exceder a forma dela, me parece 
+que a data de sesmaria das duas léguas de terra pedidas pelo suplicante deve ser nesta mesma forma 
+continuada, e se dentro da dita data couber a ilha pedida, que só nesta forma se lhe pode dar, o que 
+tudo será com as condições e declarações que Sua Majestade ordena por suas reais ordens, que se 
+acham na Secretaria deste Governo e a pensão de pagar dízimo sem foro, porque o dito senhor deste 
+manda isentar aos conquistadores ao serviço de Sua Majestade, como costuma. Recife, 4 de 
+dezembro de 1723 = João do Rego Barros. = E havendo, outrossim, respeito ao que Sua Majestade 
+me concede no capítulo 15 do regimento deste Governo, e a tudo mais que o dito senhor determina 
+em suas reais ordens neste particular. Hei por bem fazer-lhe mercê [...]. 
+- Fim da carta - 
+ 
+Observação: 
+A carta encontra-se incompleta no arquivo da Documentação Histórica Pernambucana, Livro I, sem 
+constar os detalhes do parecer final. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 277 - 279. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

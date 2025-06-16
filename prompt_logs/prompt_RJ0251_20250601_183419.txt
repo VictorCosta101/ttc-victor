@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0251
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José Ferreira da Fonte",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "28-08-1734",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Não identificado",
+  "Marcos Geográficos": "Serra dos Órgãos",
+  "Ribeira": "Inhomirim",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia criar gado; Pretendia fazer curral; Pretendia aumentar suas terras; As terras eram devolutas; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fizesse curral de gado em três anos. Determinou-se ainda ao suplicante que \"descobrindo-se nelas rio caudaloso, que necessite de barca para sua navegação, ficará reservada de uma margem dele meia légua ao menos para ficar com público\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0251"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0251
+Carta de concessão de José Ferreira da Fonte de 28 de agosto de 1734
+Gomes Freire de Andrade, do conselho de Sua Majestade, que Deus guarde, governador e
+capitão-geral do Rio de Janeiro e suas capitanias, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição José Ferreira da Fonte, que ele possuía uma fazenda no caminho da Inhomirim
+que [ia] para as minas, cuja testada tem pela maior parte cultivada e também para o fundo e
+sertão, e que necessitava de mais terra para fazer um curral de gado de que segue grande
+utilidade aos dízimos Reais e bem comum, pedindo-me lhe mandasse dar de sesmaria, na
+forma das Ordens de Sua Majestade, 1 légua de terras em quadra no sertão contíguo a meia
+légua que possui da banda do norte e da parte que ela parte para a Serra dos Órgãos correndo
+os mesmos travessões do rumo com que se acha demarcado judicialmente para o ofício do
+dito curral em conformidade da Ordem de 7 de maio de 1703, por ser mato maninho [no]
+sertão que nunca foi cultivado e nem povoado. E dando vista de que requerimento ao
+provedor da Fazenda Real e ao procurador da Coroa, aos quais se não ofereceu dúvida. Hei
+por bem fazer mercê, em nome de Sua Majestade, de dar por sesmaria ao dito José Ferreira da
+Fonte a referida légua de terras em quadra na forma das ordens do mesmo Senhor; sem
+prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas; com declaração que
+as cultivará e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não
+o fazendo se lhe denegará mais tempo; dentro de 3, colocará um curral de gado nelas; antes de
+tomar posse as fará medir e demarcar, sendo para este efeito notificadas as pessoas com quem
+confrontar; descobrindo-se nelas rio caudaloso, que necessite de barca para sua navegação,
+ficará reservada de uma margem dele meia légua ao menos para ficar com público; nas ditas
+terras não poderá suceder em tempo algum pessoa eclesiástica ou religião, mas sucedendo
+será com o encargo de pagar dízimos e outro qualquer que Sua Majestade for servido
+impor-lhe de novo, e não os pagando se poderá dar a quem as denunciar; como também sendo
+o mesmo Senhor servido mandar fundar no distrito delas [vilas, o po]derá fazer ficando as
+terras em que se fundar livres, sem encargo algum ou pensão para o sesmeiro. Pelo que
+mando ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse ao
+dito José Ferreira da Fonte das referidas terras na forma acima declarada. E por firmeza de
+tudo, lhe mandei passar a presente por duas vias por mim assinada e selada com o sinete de
+minhas armas, que se cumprirá inteiramente como nela se contém, se registrará nos Livros da
+Secretaria deste governo e nos mais de que tocar. Dada nesta cidade de São Sebastião do Rio
+de Janeiro. Francisco Xavier da Silva a fez aos 28 do mês de agosto de 1734.
+
+//Gomes Freire de Andrade//
+Carta de sesmaria porque Vossa Senhoria há por bem dar, em nome de Sua Majestade, a José
+Ferreira da Fonte 1 légua de terras em quadra na forma acima declarada.
+Para Vossa Senhoria ver.
+Vista nesta Secretaria do governo, a folha 418. Rio, 28 de agosto de 1734.
+//José Ferreira da Fonte//
+O doutor Agostinho Pacheco Teles, do desembargo de Sua Majestade, que Deus guarde,
+ouvidor geral e corregedor da comarca nesta cidade do Rio de Janeiro e nas mais capitanias de
+sua repartição, e juiz das justificações. Aos que a presente [certidão] de justificação virem,
+faço saber que que a mim me constou por fé do escrivão de meu cargo que esta é a letra de
+forma retra do Gomes Freire de Andrade, governador que foi desta praça, o que hei por
+justificado. Rio de Janeiro, 5 de junho de 1735. Eu, Domingos Rodrigues Tavora, escrivão, fiz
+cumprir.
+//Agostinho Pacheco Teles//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu sesmaria a
+José Ferreira da Fonte uma légua de terra em quadra, no sertão do contígua. Rio de Janeiro 28
+de agosto de 1734.
+Referência:
+AHU_ACL_CU_017-01, Cx. 38, D. 8921
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

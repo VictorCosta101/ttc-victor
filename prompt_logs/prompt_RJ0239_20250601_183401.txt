@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0239
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Simão da Nóbrega",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-07-1721",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobras de terras devolutas no distrito de Iriri",
+  "Confrontantes": "Terras do próprio suplicante e as de que eram do padre Francisco da Costa Moura",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0239"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0239
+Carta de concessão de Simão da Nóbrega de 17 de julho de 1721
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Simão da Nóbrega, morador no distrito de Iriri, termo desta cidade, acharem
+devolutos uns sobejos de terras de 25 até 30 braças entre ele suplicante e outra data que foi do
+padre Francisco da Costa Moura e hoje é de vários hereos, e ele suplicante com escravos para
+as poder cultivar para sustentação da sua família, de que também se segue utilidade aos povos
+e aumento aos Reais dízimos, pedindo-me lhe fizesse mercê dar por sesmaria os ditos sobejos
+de terras. Dando-se vista deste requerimento ao provedor da Fazenda Real e ao procurador da
+Coroa, não se lhes oferecendo duvida. Hei bem por fazer mercê ao dito Simão da Nóbrega de
+lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, os referidos sobejos de
+terras; não excedendo uma légua em quadra, na forma das ordens do mesmo Senhor; sem
+prejuízo de terceiro ou do direito que algumas pessoas possam ter a ela; com declaração que
+as cultivará e mandará confirmar esta minha carta por Sua Majestade, que Deus guarde, e não
+o fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a que
+o conhecimento desta pertencer, dê posse ao dito Simão da Nóbrega dos referidos sobejos de
+terras na forma e maneira acima declarada. E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém, se registrará nos Livros da Secretaria deste governo e nos
+mais a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, aos 17 dias do mês de
+julho de 1721. João Paes de Paredes a fez, o secretário José Ferreira da Fonte a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a Simão da Nóbrega de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, uns sobejos de terras na forma e
+maneira acima declarada.
+Para Vossa Excelência ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+104. Rio, 17 de julho de 1721.
+//José Ferreira da Fonte//
+
+Registre-se nos Livros da Fazenda [Real]. Rio, 24 de julho de 1721.
+//(não identificado)//
+Registrada no Livro 19 que serve de registro desta Provedoria. Rio, a 30 de julho de 1721.
+//Manuel Francisco de Oliveira Leitão//
+Lançada neste Cartório das Sesmarias no Livro da nota que comigo serve, folha 160. Rio, 12
+de setembro de 1721.
+//Manuel de Vasconcelos Velho//
+O doutor Paulo de Torres [Rijo Vieira], cavaleiro professo na Ordem de Cristo do desembargo
+de Sua Magestade, seu ouvidor geral e corregedor da coma[rca] com alçada no cível e crime
+nesta cidade do Rio de Janeiro e mais capitanias anexas, juiz das justificações, etc. Aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que está subscreveu, ser a letra da carta, digo, ser a letra da subscrição da carta
+atrás do secretário deste governo, José Francisco da Fonseca, e [acima] da assinatura dela a de
+Aires de Saldanha e Albuquerque, governador e capitão geral desta praça, nela contido o que
+hei por justificado. (ilegível) de setembro de 1721. E eu, Domingos Rodrigues Tavora,
+escrivão das justificações, a subscrevi.
+//Paulo de Torres [Rijo Vieira]//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Simão da Nóbrega uma porção de terras, situadas entre as que já possuía e as que tinham
+pertencido ao Padre Francisco da Costa Moura. Rio de Janeiro, 17 de julho de 1721.
+No DOCs a palavra hereo aparece como um erro ortográfico, contudo, localizei no Dicionário
+Bluteau o seguinte significado: “HEREO , f.m. na Ord.Manuel L.1 .T.49. § 30. parece
+fignificar o Senhor, ou proprietário, do latim herus. § O que paga ao Emphyteuta os redditos
+da parte do chão, ou campo, que tomou à sua conta para beneficiar.”
+Referência:
+AHU_ACL_CU_017-01, Cx. 20, D. 4403
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

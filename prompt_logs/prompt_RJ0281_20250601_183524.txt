@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0281
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Ventura da Fonseca Leite",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-03-1749",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em lugar não identificado",
+  "Confrontantes": "Terras de Antônio Martins da Silva",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia plantar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se também do suplicante que fosse obrigado a \"os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se que o sesmeiro reservasse os paus reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0281"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0281
+Carta de concessão de Ventura da Fonseca Leite de 10 de março de 1749
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mór de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro, Minas Gerais,
+Goiás, Cuiabá, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Ventura da Fonseca Leite, morador na vila de São Salvador da Paraíba do Sul,
+que ele suplicante pretendia pedir 1 légua de terras em quadra pelo sertão dentro, buscando a
+parte do norte, por se acharem muitas terras devolutas que não foram cultivadas, e como o
+suplicante tinha escravos para plantar nelas, o que resultava utilidade aos Reais dízimos,
+requeria-me lhe concedesse por sesmaria a dita légua, principiando donde acabava a data de
+Antônio Martins da Silva, correndo pelo sertão dentro buscando o norte. Sendo visto o seu
+requerimento, em que foi ouvida a Câmara da dita vila, a quem se não ofereço dúvida, e ao
+provedor da Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por bem dar
+de sesmaria, em nome de Sua Majestade e em virtude da Ordem do dito Senhor de 15 de
+junho de 1711 em que me dá faculdade para poder conceder sesmarias ao dito Ventura da
+Fonseca Leite 1 légua de terras em quadra; com as confrontações acima expressadas; sem
+prejuízo de terceiro ou do direito que alguma pessoa tenha a elas; com declaração que as
+cultivará e mandará confirmar esta minha carta por Sua Majestade dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo; antes de tomar posse delas, as fará medir e demarcar
+judicialmente, sendo para esse efeito notificadas as pessoas com quem confrontar; será
+obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e
+descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada
+de uma das margens dele a terra que baste para a serventia pública; nesta data não poderá
+suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com encargo de
+pagar dízimos e outro qualquer que Sua Majestade lhe impuser de novo, e não os pagando se
+poderá dar a quem o denunciar, como também sendo o dito Senhor servido mandar fundar no
+distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum ou pensão para o
+sesmeiro; não compreenderá esta data vieiros ou minas de qualquer gênero de metal que nele
+se descobrir, reservando também os paus Reais; e faltando a qualquer das ditas cláusulas, por
+serem conforme as ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias,
+ficará privado desta. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento
+desta pertencer, dê posse ao dito Ventura da Fonseca Leite das referidas terras na forma acima
+declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e selada
+
+com o sinete de minhas armas, que se cumprirá como nela se contém, registrando-se nesta
+Secretaria do governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João de Sousa e Melo a fez aos 10 de março de 1749. O secretário do
+governo, Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+ventura da Fonseca Leite, 1 légua de terras em quadra na vila de São Salvador dos Campos,
+com as confrontações acima expressadas e na forma que nesta se declara.
+Para Vossa Excelência ver.
+Registrado no Livro 9º das Provisões do Governo a folha 53. Rio, a 20 de março de 1749.
+//Antônio da Rocha Machado//
+O doutor Francisco Antonio Berquó da Silveira (ilegível), do desembargo de Sua Majestade,
+seu ouvidor geral e corregedor da comarca nesta cidade do Rio de Janeiro com as mais
+capitanias de sua repartição, juiz das justificações, etc. Aos que a presente minha certidão de
+justificação virem, faço saber que a mim me constou por fé do escrivão de meu cargo, que
+esta subscreve, ser a letra da subscrição retro de Antônio da Rocha Machado, secretário do
+governo desta cidade colonial, ao pé dela do excelentíssimo Gomes Freire de Andrade,
+governador e capitão general desta capitania, o que é por justificado. Rio de Janeiro, 22 de
+março de 1749 anos.
+//(ilegível) Manoel Tavora a subscreveu.//
+//Francisco Antônio Berquó da Silveira (ilegível)//
+-Fim da Transcrição-
+Referência:
+AHU_ACL_CU_017-1, Cx. 62\Doc. 14626
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

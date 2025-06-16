@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0150
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Belchior de Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "16-11-1637",
+  "Observações da sesmaria": "A sesmaria possuía 500 braças totais, sem serem especificadas as medidas de comprimento e de largura, e estava localizada entre os rios Real e Itapecuru.",
+  "Localidade": "Entre os rios Real e Itapecuru",
+  "Marcos Geográficos": "Rio Real; rio Itapecuru",
+  "Observações da petição": "O sesmeiro não especificou as medidas do comprimento e da largura.",
+  "Justificativas": "Era morador(a) da Capitania; Serviu a Sua Majestade; Tinha gado; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Determinou-se não vender as terras.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0150"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmaria de Belchior de Fonseca 
+Saibam quantos este público instrumento de carta de sesmaria virem que no ano de nascimento 
+de Nosso Senhor Jesus Cristo de 1637 anos aos 27 dias do mês de janeiro do dito ano nesta 
+cidade do Salvador, Bahia de Todos os Santos nas pousadas de mim, tabelião e escrivão das 
+sesmarias pareceu Belchior de Fonseca, morador na freguesia do Santo Amaro da Pitanga, 
+termo desta cidade e por ele me foi dado uma sua petição por escrito com um despacho nela 
+posto do século Pedro da Silva do conselho de Sua Majestade, governador e capitão geral deste 
+Estado do Brasil na qual e no dito despacho se contem a seguinte: Senhor, diz Belchior de 
+Fonseca que ele tem servido a Sua Majestade muitos anos nesta capitania da Bahia, assim antes 
+que esta cidade se tomasse pelos inimigos Holandeses como depois e nunca Sua Majestade lhe 
+fez mercê nenhuma, e tem muitos filhos e filhas para casar e gastou muito com sua Fazenda no 
+serviço do dito Senhor, e tem umas cabeças de gado sem terá onde as ponha e tem por notícia 
+que nos campos dentre o Itapecurú e o Rio Real, entre duas datas que pediu Belchior Dias 
+Moreira, está uma enseada de terra junto ao Rio Real a qual poderá ter 500 braças, mais ou 
+menos, a estar por dar entre as ditas datas. Pede a Vossa Senhoria que lhe faça mercê, em nome 
+de Sua Majestade, dar-lhe de sesmaria a dita enseada da terra para por um curral de gado com 
+todos os pastos e águas que no dito pedaço de terra houver. E receberá mercê. Assim se continha 
+na dita petição e com seu parecer me torne. Bahia, em 9 de novembro de 1637, o governador 
+de que tornou dar outro despacho na mesma petição que diz o seguinte: Vista a informação do 
+provedor da Fazenda, concedo ao suplicante Belchior de Fonseca a sesmaria que pede, não 
+prejudicando a direito de terceiro de que se lhe passe carta. Bahia, 26 de novembro, digo, 16 de 
+novembro de 1637. O governador com que trasladei o capitulo do regimento de El-Rei, Nosso 
+Senhor que diz o seguinte: as terras e águas das ribeiras que estiverem dentro no termo e limite 
+da dita cidade, que são 6 léguas por cada parte que não forem dadas as pessoas que as 
+aproveitem e estiverem vagas e devolutas para mim por qualquer via ou modo que seja podereis 
+dar de sesmaria às pessoas que as aproveitem e vo-las pedirem as quais terras assim dareis 
+livremente sem outro algum foro, sem tributo, somente o dízimo a Ordem de Nosso Senhor 
+Jesus Cristo com as obrigações e condições do foral dado as ditas terras e da minha ordenação, 
+título das sesmarias com condição que a tal pessoa ou pessoas residam na povoação da Bahia 
+ou das terras que assim lhe forem dadas ao menos 3 anos e dentro no dito tempo as não deis a 
+cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que 
+pode aproveitar, e se algumas pessoas a que foram dado terras no dito termo se tiverem perdidas 
+por as não aproveitarem, e vo-los tornarem a pedir vos lhas dareis de novo para aproveitarem 
+com as condições deste capítulo, o qual se trasladará nas cartas das sesmarias com as quais 
+obrigações e condições deu o dito senhor governador-geral de sesmaria ao Belchior de Fonseca 
+a dita enseada de terra na paragem declarada na dita sua petição para ele, seus herdeiros, 
+ascendentes e descendentes que após ele virem com todas suas entradas, saídas, logradouros, 
+matos, pastos, águas e tudo que a ele pertencer para que todo logre e goze mansa e pacificamente 
+sem prejuízo de terceiro como coisa sua própria, que já fica sendo por bem desta carta de 
+sesmaria que se lhe dá e concede em nome de Sua Majestade, livremente e sem a obrigação de 
+foro nem pensão alguma mais que somente dízimo a Deus do que nela disfrutar e colher com 
+tal condição quer na dita terra tenha o dito Belchior de Fonseca feito benfeitorias  dentro de 3 
+anos primeiros seguintes dando por ela caminhos fundos, digo, fontes necessárias ao conselho  
+e fará registrar esta carta de sesmaria nos livros da Fazenda de Sua Majestade, dentro de um 
+ano primeiro seguinte o qual o dito governador geral mandou lançar neste livro de sesmarias 
+para deles se darem ao dito Belchior da Fonseca os traslados necessários e por eles haver posse 
+real, cível e natural a dita terra, sem prejuízo de terceiro, e assinou aqui e eu, Pasqual Teixeira, 
+escrivão das sesmarias nesta cidade de Salvador, Bahia de Todos os Santos e seu termo fiz 
+
+trasladar de meu livro de sesmaria onde a tomei e fica assinada pelo governador geral deste 
+Estado // Pedro da Silva // e a ele me reporto em todo e por todo concertei, subscrevi, e assinei 
+de meu público sinal seguinte na Bahia hoje, 16 dias do mês de marco de 1637 anos a qual 
+sesmaria eu // Pedro de Moura // aqui registrei do dito traslado que tornei a parte a que me 
+reporto na Bahia em 21 de março de 1637 anos // Pedro de Moura.  
+ 
+- Fim de Transcrição - 
+ 
+Referências: 
+DHBN, vol. 16, Pg. 438 - 442 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,155 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0089
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Amador Brás",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "07-01-1595",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, apenas informa que: \"está de posse dela há muitos anos\".\r\n",
+  "Localidade": "Uma dada de terra em Jaguaral",
+  "Confrontantes": "\"Saindo do porto e indo pelo caminho velho do gentio no 1º jassapé que aí se achar\"",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Era morador(a) da Capitania; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também o suplicante que \" haverá 30 anos pouco mais ou menos, que veio a esta terra a povoar com mulher e filhos\". Também justificou que como não sabia ler nem escrever, a pessoa que redigiu a petição incorreu em um erro de grafia no nome da localidade por não saber a língua de Amador Brás e, por isso, a fim de evitar a perda da sesmaria, pediu uma nova carta para retificar o nome de \"Jaguarussu\" para \"Jaguaral\". O mesmo ainda apresenta que como já tem ocupado a terra com lavouras e tem ajudado no sustento e no ganho com os trabalhos que vinha realizado, acreditava que essa retificação seria uma prevenção para uma possível prescrição da mercê.",
+  "Observações das exigências": "Citou-se o regimento geral do governador Antônio Salema, o qual diz: \"As terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não aproveitarem no tempo que eram obrigados por esta via ou por qual outra, estiverem vagas, as podereis dar de sesmaria a quem vá pedir, tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar. As quais terras assim dareis livremente e sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo e com as condições e obrigações do foral dado às ditas terras da minha Ordenação do Livro 4°, título da sesmarias, com a condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos, e que dentro no tempo, as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade  as tiverem perdidas por as não aproveitarem e vá tornarem a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes e isso se entenderá não sendo as ditas terras dadas a outras pessoas\". Em relação ao próprio suplicante, determinou-se que \"haja a posse e senhorio das ditas terras para sempre\", assim como exigiu-se que \" rompa e aproveite as ditas terras e as frutifique da data desta em 3 anos, se às já não tem aproveitadas primeiros seguintes e, outrossim, fará de maneira que dentro em 4 meses tenha feito nelas algum proveito e plantado alguns mantimentos e, cumpridos os ditos 3 anos que as tenha aproveitado como dito é, porque não o fazendo ele assim, passados os ditos 3 anos que as tenha aproveitadas, digo, porque não fazendo ele assim, passados os ditos 3 anos, se darão as ditas terras que aproveitadas não tiver de sesmaria a quem nas pedir para as aproveitar, e lhe serão deixados alguns logradouros do que aproveitado não tiver\". Igualmente mandou-se dar caminhos necessários a vieiros.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0089"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0089
+Carta de concessão da sesmaria da terra de Amador Brás de 07 de janeiro de 1595
+Forro
+Saibam, quantos este instrumento de carta de dada sesmaria e confirmação virem que no ano
+do nascimento de nosso Senhor Jesus Cristo de 1595 anos, em 07 dias do mês de janeiro do
+dito ano, em esta cidade de São Sebastião do Rio de Janeiro do Brasil, em as casas de morada
+de mim escrivão adiante nomeado, apareceu um moço de Pero de Gomes, morador nesta
+cidade, e me apresentou uma petição com 1 despacho em ela do Senhor Salvador Correia de
+Sá, capitão e governador desta dita cidade e capitania e governança deste dito Rio de Janeiro,
+por El Rei nosso Senhor etc. Da qual petição e despacho dela o traslado é o seguinte: diz
+Amador Brás, morador nesta cidade, que haverá 30 anos pouco mais ou menos, que veio a
+esta terra a povoar com mulher e filhos e pediu a Vossa Senhoria uma dada de terra em
+Jaguaral, saindo do porto e indo pelo caminho velho do gentio no 1° jassapé que ai se achar,
+dai se começará a medir a dita dada de onde ele suplicante tem feito suas lavouras desde então
+até agora, a qual quem lhe fez a petição não sabia a língua, e por dizer Jaguaral lhe pôs
+Jaguarussu, e o dito Amador Brás não sabe ler, nem escrever, para ver o erro do nome, o qual
+erro é por uma letra, pede a Vossa Senhoria lhe mande reformar a sua carta e dar-lhe de novo
+a dita terra declarando o nome de Jaguaral, ainda que a não tem perdida, porquanto está de
+posse dela há muitos anos e só teme que a tenha perdida outrem pelo erro do nome e,
+conforme ao foral, lhe dê e lhe confirme, digo, lhe dê, confirme e tenha tanta força como se
+no princípio dissera Jaguaral, pois nunca se ausentou da terra, sempre a ajudou a ganhar e
+sustentar com muitos trabalhos, como Vossa Senhoria bem sabe. No que receberá mercê,
+mandando-lhe Vossa Senhoria passar sua reformulação. Despacho do Senhor capitão e
+governador. Dou e confirmo ao suplicante a dada que faz menção da terra que lhe dado tenho,
+posto que na confrontação houvesse erro no nome que diz “Jaguarussu” por dizer “Jaguaral” e
+tenha tanta força como se então dissera “Jaguaral”. Salvador Correia de Sá. E tudo visto pelo
+dito Senhor capitão e governador a petição do dito suplicante e o que ele pedia, visto ser justo,
+havendo respeito ao proveito que se pode seguir acerca da República, ao serviço de Deus, de
+El Rei nosso Senhor e por a terra se povoar, deu e confirmou ao dito suplicante Amador Brás
+a terra que em sua petição diz, sem embargo de haver erro no nome e de lhe chamarem
+Jaguarussu e o nome ser Jaguaral, conforme ao dito seu despacho, e pelas razões contidas na
+sua petição, sempre estar na dita terra, cultivar, fazer sua fazenda nela, pagar os dízimos a El
+Rei nosso Senhor e estar de posse dela, como diz. A qual terra diz que está no dito lugar e que
+
+parte pelas ditas confrontações, como na sua petição diz. O que tudo lhe deu e confirmou
+desde o dia que a dita terra foi dada a 1° vez e lhe concedeu pela maneira adiante declarada,
+segundo forma do regimento do governador geral, que foi nesta dita cidade Antônio Salema,
+de que o traslado é o seguinte. As terras que estiverem dentro do termo e limites da dita
+cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que
+as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não aproveitarem
+no tempo que eram obrigados por esta via ou por qual outra, estiverem vagas, as podereis dar
+de sesmaria a quem vá pedir, tereis lembrança que não deis a cada pessoa mais terra que
+aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar.
+As quais terras assim dareis livremente e sem outro algum foro, somente o dízimo à Ordem
+do Mestrado de nosso Senhor Jesus Cristo e com as condições e obrigações do foral dado às
+ditas terras da minha Ordenação do Livro 4°, título da sesmarias, com a condição que a tal
+pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem
+dadas ao menos 3 anos, e que dentro no tempo, as não possam vender, nem enlear, e se
+algumas pessoas a que forem dadas terras no termo da dita cidade as tiverem perdidas por as
+não aproveitarem e vá tornarem a pedir, vós lhes podereis de novo dar com as condições e
+obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes e
+isso se entenderá não sendo as ditas terras dadas a outras pessoas, com as quais condições,
+obrigações e declarações lhe assim deu e confirmou o dito Senhor capitão e governador as
+ditas terras ao dito suplicante Amador Brás, pela sobredita maneira, para sua guarda e
+segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e senhorio das
+ditas terras para sempre, para ele e todos seus herdeiros que após dele vierem, com tal
+condição e entendimento que ele rompa e aproveite as ditas terras e as frutifique da data desta
+em 3 anos, se às já não tem aproveitadas primeiros seguintes e, outrossim, fará de maneira que
+dentro em 4 meses tenha feito nelas algum proveito e plantado alguns mantimentos e,
+cumpridos os ditos 3 anos que as tenha aproveitado como dito é, porque não o fazendo ele
+assim, passados os ditos 3 anos que as tenha aproveitadas, digo, porque não fazendo ele
+assim, passados os ditos 3 anos, se darão as ditas terras que aproveitadas não tiver de sesmaria
+a quem nas pedir para as aproveitar, e lhe serão deixados alguns logradouros do que
+aproveitado não tiver e, sobretudo, pagará 1.000 réis para as obras do Concelho e dará por
+ditas terras caminhos e serventias ordenadas e necessários para o Concelho, para fontes,
+pontes, vieiros e pedreiras que necessários forem. As quais terras lhe assim deu, confirmou e
+concedeu em nome de El Rei nosso Senhor, forras e isentas, sem foro, nem tributo, nem
+pensão, somente de tudo o que lhe nosso Senhor der nelas de suas novidades, lavouras e
+
+criações, pagará os dízimos a Deus conforme ao dito regimento. O que tudo manda que se
+cumpra e guarde, sem dúvida, nem embargo algum, que a ele seja posto e que esta carta seja
+registrada dentro em 1 ano nos livros da Fazenda Real, como o dito Senhor em seu regimento
+manda sob as penas em ele contidas e declaradas, e porque o sobredito Amador Brás tudo
+prometeu de ter, manter e cumprir, pela dita maneira lhe mandou o dito Senhor capitão e
+governador passar esta carta de sesmaria e por verdade eu, Pero da Costa, escrivão das
+sesmarias e tabelião das notas por El Rei nosso Senhor em esta cidade de São Sebastião e seus
+termos, que este instrumento de carta de sesmaria e confirmação fiz, escrevi e tomei nos meus
+livros das notas e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam
+onde o dito instrumento fica assinado por o dito Senhor capitão e governador e não faça
+dúvida no borrado atrás que diz “estar” e na entrelinha que diz “quais” porque se fez por fazer
+verdade e eu sobredito o escrevi //Salvador Correia de Sá//
+-fim da transcrição-
+Observações do documento:
+Título original: Carta de Sesmarias e Confirmação das terras que Amador Brás tem em
+Gaguaral.
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.72-75.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg. 72-75.
+Códice 778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

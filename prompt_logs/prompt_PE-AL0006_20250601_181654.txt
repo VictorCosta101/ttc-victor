@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0006
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0068",
+  "Nome": "Antônio Vieira Rodrigues",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-11-1716",
+  "Observações da sesmaria": "O sesmeiro requereu três léguas de comprimento e três léguas de largura na região do Palmar, entre o rio Pirangaba e a barra do Perangaba. As terras possuíam como limites, além do sítio do suplicante, a barra do Perangaba até as terras de Helena da Cunha, em direção ao norte e oeste, e para o sul o rio Sobaindes. ",
+  "Localidade": "Palmar",
+  "Marcos Geográficos": "Rio Pigangaba, Barra do Perangaba, Rio Sobaindes",
+  "Confrontantes": "Helena da Cunha",
+  "Observações da petição": "Não consta na carta a data da petição. ",
+  "Justificativas": "Alegou possuir curral; Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Pretendia lavrar; Serviu a Sua Majestade; Tinha gado; Tinha poucas terras para acomodar familiares; Pretendia fazer engenho; Solicitou isenção de pagamento de foro régio; Solicitou isenção de pagamento de tributo; Solicitou isenção de pagamento de pensão; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 27/06/1711; Citou a Carta Régia de 28/01/1698; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O sesmeiro alegou ter nascido em São Paulo e ter se deslocado para combater os negros dos Palmares. Como remuneração, ganhou uma terra na região em construiu um sítio de curral de gados e trouxe seus familiares para morar. Agora requeria a isenção do pagamento dos tributos, foros e pensões e a concessão de mais terra, em remuneração do serviço como restaurador dos Palmares, para poder levantar um engenho. ",
+  "Observações do deferimento e da concessão": "Na carta não consta o despacho do procurador da Coroa e do provedor da Fazenda Real. ",
+  "Observações das exigências": "O governador Dom Lourenço de Almeida ordenou que o suplicante povoasse a terra dentro do tempo de 5 anos. O governador Dom Lourenço de Almeida ordenou que o suplicante requeresse a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0006"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0006 
+ 
+Carta de doação e sesmaria de Antônio Vieira Rodrigues - 05/11/1716 
+ 
+SESMARIA QUE SE PASSOU AO CAPITÃO ANTONIO VIEIRA RODRIGUES, 
+PAULISTA DO 3.º DE INFANTARIA PAGA DOS PALMARES. 
+ 
+Dom Lourenço de Almeida, do Conselho de Sua Majestade e etc. etc. Faço saber aos que esta carta 
+de doação de sesmaria virem que a mim se me representou a petição cujo teor é o seguinte: Senhor 
+governador. Diz o capitão Antônio Vieira Rodrigues, Paulista do 3.° de Infantaria, paga dos 
+Palmares, que ele suplicante veio de tão longe, largando a sua pátria São Paulo e fazendas para a 
+conquista dos Palmares, por sua livre vontade, servir a Sua Majestade, que Deus guarde, e depois da 
+restauração da dita campanha e destruição dos negros que a dominavam, fora Sua Majestade 
+servido dar uma embarcação para que todas as pessoas que tivessem as suas famílias [trouxerem] as 
+para as povoar os Palmares; e porque o suplicante foi um deles e está assistindo com toda a sua 
+família no dito Palmar, e tem nele povoado um sítio há dezessete anos fazendo pastos para gados, 
+onde já tem um curral dele com casas de telha e árvores de espinho, cujo sítio tem já um molinote, e 
+o suplicante tem moendas para levantar um engenho e como Sua Majestade, que Deus guarde, 
+manda dar as terras dos Palmares por sesmarias aos restauradores, sem pagar pensão mais que o 
+dízimo a Deus, outrossim, manda dar três léguas em quadro aos capitães, como consta da cópia das 
+ordens de Sua Majestade juntas, e quer o suplicante tirar a sua sesmaria no sítio onde tem o curral 
+de gado, que deixa referido para também formar um engenho, começando a data da barra da 
+Pirangaba pelas cabeceiras das datas de Helena da Cunha, do sertão para a parte do norte, e 
+servindo de rumo o Rio da Parnaíba, reservando voltas; e para a parte do sul buscando o rio de 
+Sobaimdes até chegar a quantidade das três léguas em quadro, ficando o rio do Pirangaba em meio 
+começando a dita data da dita barra da Perangaba, por estar devoluta para o sertão, e porque 
+fazendo o suplicante a Vossa Senhoria esta mesma petição, foi Vossa Senhoria servido mandar ouvir 
+ao provedor da Fazenda Real e ao procurador dela, cujos ministros declararam por seus despachos 
+serem de parecer que o suplicante justificasse primeiro se a quantidade das terras que pede fica 
+dentro do limite das terras conquistadas dos Palmares, ao que Vossa Senhoria se conformou e ele 
+suplicante tem satisfeito, precedendo as diligências e informações necessárias, a bem de se lhe 
+conceder a dita data como consta da sentença de justificação junta, dada pelo mesmo provedor da 
+Fazenda Real em 31 do mês de outubro deste ano. Pede a Vossa Senhoria lhe faça mercê conceder e 
+dar de sesmaria em nome de Sua Majestade, que Deus guarde, três léguas de terra em quadro nos 
+lugares e partes que. confrontam em sua petição, mandando-lhe passar sua carta de data na forma 
+das ordens do dito senhor e dos mais documentos inclusos na dita sentença de justificação que 
+apresenta, ficando-lhe a mesma sentença apensa a sua carta de sesmaria para melhor se dar seus 
+
+títulos. E receberá mercê. E tendo em consideração o que [a] informarão [do] provedor da Fazenda 
+Real e o doutor procurador dela, em que se lhes não ofereceu dúvida debaixo das cláusulas 
+expressas nas ordens e leis de Sua Majestade, que Deus guarde, a que me conformei que tudo vai 
+incluso na sentença de justificação apensa a esta carta de doação; e havendo, outrossim, respeito ao 
+que o dito senhor me concede no capítulo 15 do Regimento deste Governo, e pelas referidas ordens 
+reais de 28 de janeiro e 28 de setembro dos anos de 1698 e 1699, que são as mesmas de que se faz 
+menção na dita sentença e justificação. Hei por bem de fazer-lhe mercê dar ao suplicante acima 
+nomeado como pela presente dou de sesmaria em nome de Sua Majestade, que Deus guarde, nos 
+mesmos lugares, partes, testadas, logradouros e mais úteis que confronta em sua petição três léguas 
+de terra em quadro, dentro das terras conquistadas dos Palmares, como o dito senhor ordena e na 
+mesma forma que parece ao provedor da Fazenda Real e o doutor procurador dela, livres e isentas 
+de pensão do foro de cada légua, exceto o dízimo a Deus e a Ordem de Cristo, segundo as 
+disposições reais: o qual povoará dita terra no tempo de cinco anos, aliás se dará por devoluta e as 
+possuirá e gozará ele e seus herdeiros, não prejudicando a terceiro, com todas as suas matas, águas, 
+campos, testadas, logradouros e mais úteis que nelas se acharem, com a condição que não sucederão 
+nas ditas terras religiões por nenhum título e acontecendo que sucedam e possuindo-as, seja com o 
+encargo de deverem e pagarem delas dízimos como se fossem possuídas por seculares, e faltando-se 
+a isto se darão por devolutas na forma da ordem de Sua Majestade, por carta de 27 de junho do ano 
+de 1711; e serão obrigados a dar pelas ditas terras, caminhos livres ao Conselho para fontes, pontes, 
+e pedreiras, e a requerer a confirmação desta data pelo dito senhor no termo de dois anos. Pelo que 
+ordeno a todos os ministros da Fazenda e Justiça destas capitanias a quem o conhecimento desta 
+carta pertencer, lhe façam dar a posse real, efetiva e atual, na forma costumada e debaixo das 
+cláusulas referidas e da Ordenação título de sesmarias, que por firmeza de tudo lhe mandei passar a 
+presente por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos livros da 
+Secretaria deste Governo, nos da Fazenda e Foral Real a que tocar, e sem esta precisa circunstância 
+não terá vigor, nem validade a presente carta de sesmaria. Dada nesta Vila do Recife, em os 5 de 
+novembro de 1716. = Manoel da Silva Rosa a fez = O secretário, Domingos Lopes Preto, a fez 
+escrever. Dom Lourenço D'Almeida. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 219 - 222. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

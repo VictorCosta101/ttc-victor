@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0068
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0124",
+  "Nome": "Domingos Bezerra Cavalcante",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "30-06-1732",
+  "Data da concessão": "04-07-1732",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e uma légua de largura na freguesia de Santo Amaro, nas fronteiras do engenho das Laranjeiras. A terra possuía por limites ao sul a mata de Santo Antônio e ao norte o engenho Laranjeiras. ",
+  "Localidade": "Freguesia de Santo Amaro",
+  "Marcos Geográficos": "Mata de Santo Antônio",
+  "Confrontantes": "Engenho Laranjeiras",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Pretendia pagar foro régio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa determinou que o suplicante demonstrasse que as terras requeridas eram devolutas, já que haviam sido doadas a terceiros. Após apresentar o auto de desistência de Inácio da Cunha, o procurador da Coroa recomendou a concessão das terras solicitadas com a obrigação do pagamento do foro e do cumprimento das Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0068"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0068
+Carta de doação e sesmaria de Domingos Bezerra Cavalcanti - 04/07/1732
+O capitão-mor Domingos Bezerra Cavalcanti com duas léguas de terra na Mata.
+Duarte Sodré Pereira Tibão, senhor e donatário e etc. — Faço saber aos que esta carta
+de doação e sesmaria virem, que se me representou a petição do teor seguinte:
+Excelentíssimo Senhor — Diz o capitão-mor Domingos Bezerra Cavalcanti, que por se
+acharem devolutas as terras que partem das testadas do Engenho das Laranjeiras e Mata
+de Santo Antônio, as quais terras assim devolutas que se acharem de comprimento e
+largura, as há de mostrar o suplicante para as cultivar e ocupar, e se podem dar de
+sesmaria por não haver quem as ocupasse e cultivasse no termo da lei, e estas começam
+do caminho que vai para a Mata de Santo Antônio, cortando pela parte do sul uma légua
+de largura e 2 de comprido, partindo sempre com terras do Engenho das Laranjeiras
+para a parte do sul e pela do norte partindo com terras que foram de Antônio [...] das
+quais pagará seis mil réis de foro por cada uma légua em cada um ano, depois de
+passados cinco anos; portanto, pede a Vossa Excelência lhe faça mercê conceder as
+ditas acima, digo, as ditas terras assim confrontadas, da sorte que declara por sesmaria,
+na forma do estilo – E receberá mercê. - E vista a petição, mandei que informasse os
+capitães-mores do distrito, declarando se estas terras se acham devolutas e sem cultura,
+por despacho de 30 de junho de 1732 — ao que respondeu o capitão-mor daquele
+distrito, Francisco M. Camelo de Oliveira, que as terras que o suplicante pretende era
+sem dúvida estarem devolutas e não cultivadas, e que mandasse eu o que fosse servido,
+com cuja resposta mandei que informasse o provedor da Fazenda, por despacho do 1.°
+de julho de 1732, o qual para responder mandou ouvir ao procurador da Coroa e
+Fazenda, e este disse que segundo o narrado na petição se mostra que estas terras que o
+suplicante, foram já dadas a outrem que as não cultivou, nem apresentou, digo,
+aproveitou no termo da lei, e sendo assim devia declarar, sabendo a quem foi este a
+quem se deram ou quem sejam seus herdeiros, para com eles fazer o que dispõe a
+Ordenação Livro 4.° título 43 33 1 e 2, de se mandarem citar em suas pessoas para que
+venham alegar as razões que tiverem assim darem de sesmaria as terras pedidas, e não
+se sabendo a quem se deram, nem a quem hoje pertençam, deve preceder citação por
+editais de 30 dias, na forma da mesma lei; para então satisfazer esta resposta, fez o
+
+suplicante petição ao dito provedor da Fazenda, pedindo-lhe mandasse dar o traslado do
+termo de deixação que fez Inácio da Cunha das ditas terras, o qual mandou ao escrivão a
+que tocava desse por certidão o traslado do dito termo, que se ajuntou a dita petição,
+passado e assinado pelo escrivão dos feitos da Fazenda Real, Vicente Ferreira e Matos,
+e com este documento responde o procurador da Coroa ao doutor provedor, que a vista
+da certidão acima se lhe não oferecia dúvida se dessem as terras ao suplicante, que pede
+com o foro costumado e na forma das ordens de Sua Majestade, com o que respondeu o
+provedor da Fazenda Real que também se lhe não oferecia dúvida, pagando de foro a
+6000$ por cada uma légua e com a condição de não serem possuídas por religiões — . O
+que tudo assim visto por mim, mandei por meu último despacho que se passasse
+sesmaria, como aponta o provedor da Fazenda e com as mais cláusulas que havia
+mandado em outras, em execução das ordens de Sua Majestade e leis do Reino, em cuja
+observância — Hei por bem dar de sesmarias ao suplicante duas léguas de terra de
+comprido e uma de largo no mesmo lugar que confronta em sua petição, com todas suas
+pertenças e logradouros, para ele e seus herdeiros, não prejudicando a terceiro, com
+obrigação 6000$ de foro a Fazenda Real cada ano por cada uma légua e dízimo a ordem
+de Cristo; e de não passarem a religiões por nenhum título; e por elas dará estradas
+livres ao Conselho, para pedreiras, fontes e pontes, e sendo necessárias para o serviço de
+Sua Majestade igrejas ou minas de metais, lhes serão tiradas sem remuneração alguma
+— Pelo que ordeno aos ministros da Justiça ou Fazenda a que tocar, lhe façam dar a
+posse real, efetiva e atual, na forma costumada, que por firmeza de tudo lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se
+registrará nos livros da Secretaria deste Governo e Provedoria Geral, onde se fará
+assento do referido foro — Dada nesta praça do Recife de Pernambuco, nos 4 dias do
+mês de julho - Bento Soares Pereira a fez - ano de 1732 = O secretário José Duarte
+Cardoso a fez escrever = Duarte Sodré Pereira Tibão = .
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 28 - 31.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

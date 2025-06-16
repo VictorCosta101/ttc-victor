@@ -1,0 +1,139 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0041
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Mendes da Silva (PI 1), Mathias Félix da Silva",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "10-01-1771",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Quanto ao histórico da terra, o documento informa que a terra foi uma herança dos pais dos sesmeiros, mas não informa os nomes dos ocupantes anteriores.",
+  "Localidade": "Barras",
+  "Marcos Geográficos": "Distrito da Vila de São João do Parnaíba",
+  "Ribeira": "Rio Genipapo, Rio Piracuruca e Lago Su ou Sussuarana",
+  "Confrontantes": "Sítio chamado Tabuleiro [da porca], lugar chamado a [Caichá], Fazenda São João da Alagoa, lugar chamado Riachão, Fazenda do [Bira]",
+  "Justificativas": "Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "E porque não tinham título das ditas terras e a pretendiam haver por carta de data de sesmaria, me pedia lhes mandassem passar.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a qualquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar. E havendo nas mesmas terras estrada pública, que atravesse rio caudaloso que necessite de barco para se atravessar, não só ficará de ambas as bandas do tal rio a terra que baste para uso público, mas sim também uma delas meia légua de terras em quadra para comodidade pública, e de quem arrendar a dita passagem.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0041"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0041
+Registro de uma carta de data e sesmaria passada a Manoel Mendes da Silva -
+10/01/1771
+Registro de uma Carta de data e sesmaria passada a Manoel Mendes da Silva e seu
+irmão Mathias Felix da Silva.
+O doutor Antônio José de Morais Durão, cavalheiro professo na Ordem de Cristo, do
+desembargo da Sua Majestade fidelíssima, que Deus guarde; ouvidor geral João do Rego
+Castelo Branco, tenente coronel do regimento da cavalaria, auxiliar João Ferreira Carvalho,
+vereador mais velho dos governadores interinos desta capitania de São José do Piauí pelo
+dito senhor etc. Fazemos saber, aos que esta nossa carta de data e sesmaria virem, que
+Manoel Mendes da Silva e seu irmão Mathias Felis da Silva, moradores no termo da Vila de
+São João do Parnaíba, Freguesia da Nossa Senhora do Monte do Carmo de Piracuruca, nos
+representou que estavam de posse por si e seus antepassados, por mais de cinquenta anos, de
+um sítio das terras chamadas Barras, no distrito da dita vila, entre os rios Genipapo e
+[Piracuruca], que houveram por herança de seus pais, e porque dele não tinham título, o
+pretendiam haver, na forma das ordens de Sua Majestade, por carta de data e sesmaria; nos
+pedia lhe mandássemos passar de três léguas de terra de comprido e uma de largo, fazendo
+pião no sítio chamado o Tabuleiro [da porca], com légua e meia no dito comprimento para a
+parte do sul até o lugar chamado a [Caichá], onde faz extremas com a fazenda de São João
+da Alagoa, digo, extremas com a fazenda da Piracuruca e [?] légua e meia do sobredito
+comprimento para o norte e lugar chamado [Su] ou Sussuarana onde faz extremas com a
+fazenda de São João da Alagoa; e a légua de largura começando da parte do nascente no lugar
+chamado a lagoa [Sua], onde faz extremas com a fazenda do [Genipapo] e daí [buscando] a
+parte do poente e o lugar chamado Riachão, onde extrema com a fazenda do [Bira?] [tinham]
+povoado as ditas terras com seus gados vacuns e cavalares. Ao que atendendo tão bem a
+informação dos oﬁciais da Câmara, do Doutor Provedor da Fazenda real que foi ouvido e se
+lhe não ofereceu dúvida alguma, e ser em utilidade da mesma Real Fazenda cultivarem-se as
+terras neste Estado. Havemos, por bem, conceder-lhe, em nome de Sua Majestade, por data e
+sesmaria, as ditas três léguas de terra de comprido e uma de largo, na forma e parte que pede,
+com as confrontações que declara e com as condições expressadas nas reais ordens, e com a
+
+de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma, Religião ou
+Comunidade, sem que primeiro dê parte na casa da Fazenda ao Provedor dela, para se nos
+fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de ﬁcar nula esta
+data e se poder novamente conceder a outro; e, nesta forma, se lhe passa a Carta para que os
+ditos Manoel Mendes da Silva e seu irmão Mathias Felix da Silva hajam, logrem e possuam
+as ditas terras como coisas suas próprias, para eles e seus herdeiros, ascendentes e
+descendentes, sem pensão nem tributo algum mais que o Dízimo a Deus, nosso senhor, dos
+frutos que nela tiver ou lavrar, a qual concessão lhe faço não prejudicando a terceiros, nem a
+Sua Majestade se no dito sítio quiser mandar fundar alguma vila, reservando os paus reais
+que nelas houverem para embarcações. Com declaração que mandará conﬁrmar esta data por
+Sua Majestade dentro dos três primeiros anos seguintes, e cultivará as ditas terras de maneira
+que deem frutos, e dará caminhos públicos e particulares onde forem necessários para pontes,
+fontes, portos e pedreiras; e havendo nas mesmas terras estrada pública que atravesse rios
+caudalosos que necessite de barca para se atravessar, não só ﬁcará de ambas as bandas do tal
+rio a terra que baste para o uso público, mas sim também de uma delas meia légua de terras
+em quadra para a comodidade pública, e de quem arrendar a dita passagem, e se demarcará,
+ao tempo da posse, por rumo de cordas e braças craveiras, como é estilo e Sua Majestade
+manda. Outrossim, não poderão suceder nelas religiões nem outra pessoas eclesiásticas por
+nenhum título que seja e, acontecendo, possuí-las será com o encargo de pagarem delas
+dízimo a Deus, como se fossem possuídas por seculares; e faltando a qualquer destas
+cláusulas, se haverão as ditas terras por devolutas, e se darão a quem as denunciar, como o
+mesmo senhor ordena. Pelo que manda mandam ao Provedor da Fazenda Real, mais
+ministros e pessoas a que tocar que, na forma referida, e com as condições expressadas,
+deixem ter e possuir as sobreditas terras aos ditos Manoel Mendes da Silva e seu irmão
+Mathias Félix da Silva, como coisa sua própria, para eles e seus herdeiros, ascendentes e
+descendentes, e que assim tambem cumprão e guardem esta carta de data e sesmaria tão
+inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e selada com o
+sinete das reais armas, que se registrará nas partes onde tocar e se passou por duas vias. Dada
+nesta cidade de Oeiras do Piauí, aos 10 de janeiro do ano de nascimento do Nosso Senhor
+Jesus Cristo de 1771. E eu, Manoel Vicente [ilegível] governo desta capitania, a ﬁz escrever
+[ilegível]; assinada pelo dito coronel adjunto deste [ilegível] aos [ilegível], ausente em
+diligência do real serviço. Carta de data e sesmaria porque Vossas Senhorias hão, por bem,
+
+conceder, em nome de Sua Majestade, a Manoel Mendes da Silva e seu irmão Mathias [Félix]
+da Silva, três léguas de terra de comprido e uma de largo, no dito Sítio chamado Barras, digo,
+[ilegível] da Vila de São João da Parnaíba, com as confrontações que na mesma Carta se
+declara para vossas senhorias verem.
+-
+Fim da Carta  -
+Referência:
+APEPI, Livro 1, fls. 55 - 56v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

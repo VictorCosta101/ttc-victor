@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0001
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0026",
+  "Nome": "Apolinário Fernandes Padilha, Gonçalo de Cerqueira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "12-09-1699",
+  "Data da concessão": "18-09-1699",
+  "Observações da sesmaria": "Os suplicantes requereram para si duas léguas de largura e duas léguas de comprimento ao longo do rio Gitihiba, entre as vilas das Alagoas e Porto Calvo. As terras requeridas possuíam por limites o engenho de Cristóvão Dias até o dito rio Gitihiba, sendo meia légua de largura por cada lado do",
+  "Localidade": "Porto Calvo, Vila das Alagoas",
+  "Marcos Geográficos": "Rio Gitihiba",
+  "Confrontantes": "Engenho de Cristóvão Dias",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Pretendia fazer engenho de açúcar; Pretendia lavrar; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida somente após os suplicantes apresentarem certidão de que eles não possuíam sesmaria anteriormente concedida pelo governo de Pernambuco. O procurador também recomendou que fosse determinada a quantidade de foro a ser pago pelas léguas solicitadas e a aplicação das Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Observações das exigências": "O governador Fernando Martins Mascarenhas de Lencastre determinou o pagamento de 4 mil réis de foro por légua concedida. O governador também ordenou que o requerimento da confirmação fosse realizado dentro do tempo de dois anos. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Inácio de Morais Sarmento",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0001"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0001 
+Carta de doação e sesmaria de Apolinário Fernandes Padilha e outros – 18/09/1698 
+ 
+CARTA DE DOAÇÃO E SESMARIA DE APOLINARIO FERNANDES PADILHA E 
+OUTROS. 
+ 
+Fernando Martins Mascarenhas de Lencastro, do Conselho de Sua Majestade, governador general 
+de Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação e sesmaria 
+virem que a mim se me representou a petição cujo teor é o seguinte: Senhor. Diz Apolinário 
+Fernandes Padilha, morador na capital das Alagoas e ali capitão em uma das companhias de 
+infantaria da ordenança, e o capitão Gonçalo de Serqueira, também morador na dita capitania, que 
+eles a anos estão à custa de suas fazendas, servindo a Sua Majestade, que Deus guarde, na conquista 
+dos negros levantados dos Palmares, ajudando a restaurar as terras ocupadas por eles, estando por 
+esta causa muito desertas e desaproveitadas, assim no termo d'aquela Villa, como na do Porto-
+calvo; achando-se os suplicantes em algumas ocasiões de mais considerações que se empreenderam 
+de uma e outra Villa, e como não tem terras capazes em que possam com suas fabricas e famílias 
+conservarem-se, querem pois para povoarem e lavrar, de sesmaria, e fazerem um engenho de 
+fabricar açúcar e mais fazendas de canas, duas léguas de terra em quadro, uma para cada um, 
+começando onde acabam as terras donde foi antigamente engenho de Cristóvão Dias, chamado 
+Gitihiba, e a largura por uma contrabanda do dito rio, digo, fazendo o comprimento pelo rio acima 
+que ali há do mesmo nome Gitihiba, e a largura para uma e outra banda do dito rio, ficando em 
+meio por pião, cujas terras estão devolutas por se não haverem dado a pessoa alguma pelas referidas 
+causas e ficaram próximas de povoado, e como de se darem para se aproveitar se segue interesse 
+público e os suplicantes aceitam todas as condições com a pensão que lhe for posta na forma das 
+mais que se dão. Pedem a Vossa Senhoria seja servido em consideração do que alegam, dar-lhes de 
+sesmarias as ditas duas léguas de terra em quadro no lugar que declaram, conforme as 
+confrontações que referem. E receberá mercê. “Informe o provedor da Fazenda Real, ouvindo o 
+procurador da Coroa. Recife, 12 de setembro de 1699. “Rubrica”. Haja vista o procurador da Coroa. 
+“Moraes”. Devem os suplicantes apresentar certidão do registro da secretaria, pela qual conste se 
+lhes foi feita alguma data para eu poder responder conforme a última ordem de Sua Majestade, 
+satisfeito direi o que tiver. Recife, 15 de setembro de 1699. “Pereira”. Visto constar por certidão da 
+secretaria não lhe ser feita data alguma, não tenho dúvida a que se conceda aos suplicantes o que 
+pedem, sendo a data na forma da Ordenação Livro 4.º título 43, exato em o foro que pagarão em 
+cada um ano por légua, conforme o assento que se tomou em junta por especial ordem de Sua 
+Majestade, que Deus guarde. Recife, 18 de setembro de 1699. “Pereira”. Conformando-me com a 
+resposta do procurador da Coroa, não acho inconveniente para que na forma dela se passe aos 
+suplicantes a carta de sesmaria que pedem sem embargo de tudo; Vossa Senhoria mandará o que for 
+
+servido. Recife, 18 de setembro de 1699. “Ignacio de Moraes Sarmento, e havendo outrossim, 
+respeito ao que Sua Majestade, que Deus guarde, me encomenda no capítulo 15 do regimento deste 
+Governo. Hei por bem de lhe fazer mercê dar aos suplicantes acima nomeados, como pela presente 
+dou de sesmaria, em nome de Sua Majestade, que Deus guarde, dos mesmos lugares, partes e 
+testadas que confrontam em sua petição duas léguas de terra em quadro na forma da ordem do dito 
+governador, pagando de foro por cada légua quatro mil réis, as quais povoaram por termo de cinco 
+anos, aliás se darão por devolutas e as possuirão e gozarão os ditos suplicantes, eles e seus 
+herdeiros, não prejudicando a terceiro com todas as suas águas, campos, matas, testadas, 
+logradouros e mais uteis que nelas se acharem, e serão obrigados a darem pelas ditas terras 
+caminhos livres ao Conselho para fontes, pontes ou pedreiras e a requerer a confirmação desta data 
+em termo de dois anos, pelo que ordeno aos ministros da Fazenda Real e Justiça destas capitanias a 
+quem o conhecimento desta carta pertencer, lhe fação dar a posse real, efetiva e atual na forma 
+costumada e debaixo das cláusulas referidas e das mais da ordenação título das sesmarias, que para 
+firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas 
+armas, a qual se registrará nos livros da Secretaria deste Governo, nos da Fazenda Real e nos do 
+foral; [?] de que o escrivão, o licenciado Manoel da Cunha, e sem esta precisa circunstancia não 
+terá vigor ou validade alguma a presente carta de Sesmaria. Dada neste Recife de Pernambuco, em 
+os 18 dias do mês de setembro. Lizardo Ribeiro Monção a fez, ano de 1698. O secretario – Antônio 
+Barboza de Lima, a fez escrever. “D. Fernando Martins Mascarenhas de Lencastro. 
+- Fim da carta 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 63 - 65. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

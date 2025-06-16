@@ -1,0 +1,110 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0297
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João de Sabanda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-06-1542",
+  "Observações da sesmaria": "O suplicante requereu um quarto de légua de comprimento e um quarto de légua de largura no vale do Merueira, no termo da vila de Olinda. A terra requerida confrontava-se ao sul com as terras de Batista Afanões e a noroeste com as moitas e árvores de Ubatinga. ",
+  "Localidade": "Vale do Merueira",
+  "Marcos Geográficos": "Vila de Olinda, Ubatinga",
+  "Confrontantes": "Bastista Afanões",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0297"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0297 
+ 
+Concessão de João de Sabanda de 09/06/1542 
+ 
+Sesmaria de João de Sabanda na Merueira 
+ 
+Duarte Garcia, que a ele lhe importa aviventar certos marcos e demarcações que fez a muitos 
+anos em suas terras, situadas em Maciape e na Merueira, distrito desta Vila, e porque as cartas 
+que tem de data muito velhas estão gestadas e as tem nos registros da Alfândega: Pede a vossa 
+mercê lhe mande dar os traslados que lhe forem necessários, em modo que lhe façam fé e 
+receberá mercê. Despacho. Como pede. Siqueira. Traslado das cartas que se pedem - Duarte 
+Coelho, capitão e governador destas terras da Nova Lusitânia etc. Faço saber a quantos esta 
+minha carta de doação virem, que a mim apraz e hei por bem de dar e doar deste dia para todo 
+o sempre a João de Sabanda, morador nesta minha vila de Olinda, a terra que está no vale de 
+Marueira, termo desta vila, a qual se demarca da maneira seguinte: convém a saber, parte da 
+banda do sudeste com terra de Batista [Afanoes] e vai correndo um quarto de légua, pouco mais 
+ou menos, para o noroeste, até uma árvore que se chama Ubatinga, a qual árvore tem duas 
+[moitas] e tem de largura a metade do comprimento, que é a metade do quarto de légua e da 
+banda do nordeste e sudoeste, parte com quem direito deve partir, a qual terra demarcada da 
+maneira que dito é, dou ao dito João de Sabanda, para ele e para sua mulher, filhos, netos, 
+herdeiros, e para todas as pessoas que deles descenderem, deste dia para todo o sempre, com 
+todas as suas entradas e saídas, e serventias que a dita terra pertencerem, a qual terra ele, dito 
+João de Sabanda e sua mulher, filhos e todos que deles descenderem, dela se poderão lograr e 
+aproveitar, e poderão fazer dela o que lhes bem vier, como de coisa sua própria, livre e isenta, 
+a qual terra lhe dou forra, livre e isenta, sem nunca em tempo algum, nem seus herdeiros, nem 
+as pessoas que a houverem dele, pagarem nenhum foro, nem tributo, nem direito algum, 
+somente o dízimo a Deus, a qual terra lhe fica demarcada por Antônio Pacheco e Antônio 
+Leitão, por mandado do senhor governador, e por esta hei [prometido] de posse ao dito João 
+de Sabanda da dita terra, e porque assim me aprouve de dar e doar a sobredita terra ao dito João 
+de Sabanda, da maneira que acima vai declarada; lhe mandei dar esta minha carta de doação, 
+por mim assinada e selada do meu selo, e mando que se registre no Livro do Tombo e que se 
+cumpra e guarde da maneira que nela se contém. Bartolomeu Dias, escrivão das dadas das 
+terras do cabo de Santo Agostinho até Santa Cruz, por o senhor governador a fez aos 9 dias de 
+junho de 1542. E entender-se-á de comprido obra de quarto da légua e de largura a metade do 
+
+ 
+comprimento, que é um oitavo de légua; e serão obrigados a por marcos certos e fixos, a qual 
+carta eu, Afonso Gago, escrivão da Fazenda de ElRei, Nosso Senhor, em esta capitania 
+trasladei, era assinada pelo senhor governador e selada do seu selo de suas armas e trasladei 
+aos 19 dias do mês de junho do ano 1550, e assinei aqui de meu sinal costumado. Afonso Gago. 
+Cedido por mim, tabelião. Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa.  
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 129. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

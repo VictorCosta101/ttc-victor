@@ -1,0 +1,118 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0039
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Estevão Gomes Escobar, Manuel Gomes (BA 1), Roque Gomes Paes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "03-12-1673",
+  "Observações da sesmaria": "A sesmaria possuía quatros léguas em quadra e estava localizada na parte sul do rio Paraguaçu.",
+  "Localidade": "Rio Paraguaçu",
+  "Marcos Geográficos": "Rio Paraguaçu",
+  "Justificativas": "Não tinha terras; Pretendia lavrar; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações das Justificativas": "Alegou que queria aproveitar as terras conquistas dos índios.",
+  "Observações das exigências": "Exigiu que dentro de seis meses os suplicantes levassem as confrontações das terras.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0039"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA, 
+Registro de uma sesmarias de terras concedidas a Estevão Gomes Escobar e as seus 
+dois filho, e são quatro léguas em quadra 
+ 
+Afonso Furtado de Castro do Rio Mendonça, e faço saber aos que este alvará de doação e 
+sesmarias, virem que Estevão Gomes Escobar, me enviou a representar, por sua petição cujo o 
+teor é o seguinte: Senhor [diz] Estevão Gomes de Escobar, natural desta cidade morador nela, 
+que para se fazer a conquista contribuiu em todas as pedidos, e de presente não tem o suplicante 
+terra alguma em que lavre e quer aproveitar algumas das que se conquistaram ao bárbaros 
+gentios. Pede a vossa senhoria, que lhe faça uma mercê dar de sesmaria quatro léguas em 
+quadra de terra pelo rio acima Paraguaçú da parte do sul para seus filhos, Manoel Gomes e 
+Roque Gomes Paes. E visto, a resposta do procurador da Fazenda Real, que é a seguinte: Bem, 
+se pode conceder para os suplicantes e seus dois filhos que nomeia as quatro léguas de terra de 
+sesmarias como pedem,  obrigando-os a povoá-las e cultivá-las no termo da lei e sem prejuízo 
+de terceiro. Bahia, 29 de 1673. \\Rocha\\. E informação do procurador-mor da dita Real 
+fazenda, que é aqui se segue: Senhor, sou de parecer que se defira ao suplicante na forma que 
+parece ao procurador da Fazenda Real a dando-lhe para ele e seus dois filhos, que nomeia as 
+quatro léguas de terra de sesmarias, que pedem com as obrigações do regimento, e foral sem 
+prejuízo de terceiro, e com encargo de que dentro dos seis meses depois de tomar posse trará 
+as confrontações da terra para se declarar no livro dos registos das sesmarias e se evitarem 
+pleitos, vossa senhoria mandará o que for servido. Bahia, 20 de novembro de 1673. \\Antônio 
+Lopes de Ulhôa\\. Hei, por bem conceder e dar como pelo presente faço de sesmarias em nome 
+de sua alteza quatro léguas de terra em quadra, ao dito Estevão Gomes e as seus filhos, 
+comparecer ao procurador-mor da Fazenda Real, e procurador dela na parte que a pede sua 
+petição, e lhe conceder com encargo de que dentro de seis meses depois de tomar a posse trará 
+as confrontações da terra para se declarar no livro dos registros das sesmarias a ser evitarem 
+pleitos, não prejudicando a terceiro nem as terras que de novo se determinou tivessem as 
+povoações que se fizerem para se darem aos seus povoadores, com todas as suas águas, campo, 
+matas e logradouros e mais úteis que nela se acharem tudo forro livre e isento de pensão ou 
+tributo algum, salvo o dízimo a Deus que pagará dos frutos que nela houver, por elas serão 
+obrigados dar caminhos livres ao conselho para fontes, pontes e pedreiras, e a povoá-las no 
+termo da lei e regimento, pois nesta conformidade lhe concedo pelo que ordeno e mando a 
+todos ministros de justiça, o que o conhecimento deste com direito deva ou possa pertencer, 
+lhe faça dar posse real, efetiva e atual na forma costumada e de baixo das cláusulas, acima na 
+referidas e as mais ordenações do título das sesmarias, para a firmeza do que lhe mandei possa 
+o presente sob meu sinal e selo de minhas armas, no qual se registrou nos livros de sesmarias 
+do estado e nos mais a que tocar, se guardará e cumprirá tão pontual e inteiramente como nela 
+se contem, sem duvida embargo nem contradição alguma. Antonio Garcia o fez nessa cidade, 
+Salvador, Bahia de Todos Santos, 3 de dezembro de 1673. Diz dentre linha dois. \\Bernardo 
+Vieira Ravasco de Rio Mendoça\\. Registrado no terceiro livro dos registros da secretaria do 
+estado do Brasil a que toca a folha e seu verso, Bahia 5 de dezembro de 1673. Ravasco, cumpra-
+se e registre-se como sua alteza manda, Bahia 17 de dezembro de 1673. De Ulhoa, registrou 
+em dito dia mesmo ano, e eu João Antunes Moreira, escrivão dos feitos da Fazenda Real, aqui 
+fiz registar na própria carta de sesmarias se enviou ao dito Estevão Gomes Escobar, com o qual 
+este registro concertei e escrevi e assinei por mandado provedor-mor em audiência do escrivão 
+da Fazenda e assinei em dito dia, assina. João Antunes Moreira. 
+Fim da transcrição    
+BA,AN, Códice 427, fl: 62-62v- 63 
+
+ 
+Numeração original no livro: 57 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0054
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Burgos, Antônio Martins Pereira, Calisto Brás de Carvalho, Francisco de Sá de Faria, Jerônimo de Burgos, João Ribeiro de Carvalho, Lourenço de Almeida, Manuel de Sousa Ribeiro",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "05-02-1678",
+  "Observações da sesmaria": "A sesmaria possuía 32 léguas em quadradas e estava localizada no sertão do Rio São Francisco, próximo às terras dos Palmares, fazendo fronteiras com as terras de diversas pessoas: as terras de Nicolau Aranha Pacheco,  Ambrósio Aranha de Faria e Cosme de Brito; as terras do capitão Bernardo Vieira de Melo, Manuel Vieira e Antônio Pinto; e as terras de Custódio de Oliveira Ledo, Antônio de Oliveira Ledo.",
+  "Localidade": "Sertão do rio São Francisco, próximo às terras dos Palmares",
+  "Marcos Geográficos": "Rio São Francisco",
+  "Confrontantes": "Nicolau Aranha Pacheco,  Ambrósio Aranha de Faria e Cosme de Brito; Bernardo Vieira de Melo, Manuel Vieira e Antônio Pinto;  Custódio de Oliveira Ledo e Antônio de Oliveira Ledo.",
+  "Observações da petição": "Os sesmeiros solicitaram 55 léguas em quadra.",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 8,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda afirmou que não deveria conceder as 55 léguas em quadra solicitadas pelos suplicantes, mas sim quatro léguas em quadra para cada um. A junta governativa decidiu por conceder quatro léguas totais a cada um, totalizando uma área de 32 léguas quadradas.",
+  "Observações das exigências": "Determinou-se que cada um tirasse sua prórpia carta de sesmaria.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "José Lopes de Ulhôa",
+  "referencia": "BA0054"
+}
+
+            **Conteúdo Original** (extrato):
+            BA  
+Registro de uma sesmaria concedida ao capitão-mor Dom Lourenço de Almeida, o capitão 
+Antônio de Burgos, João Ribeiro de Carvalho, Lourenço da Silva de Almeida, Lourenço 
+Manuel de Faria de Carvalho, e outros. 
+ 
+Os governadores do Estado do Brasil confirmados por Sua Alteza. Fazemos saber aos que este 
+alvará de doação e sesmaria virem que, o capitão-mor Dom Lourenço de Almeida, o capitão 
+Antônio de Burgos, João Ribeiro de Carvalho, o capitão Antônio Martins Pereira, Jerônimo de 
+Burgos, Francisco de Sá de Faria, Manuel de Sousa Ribeiro, Calisto Brás de Carvalho, nos 
+enviaram a representar por sua petição, cujo teor é o seguinte: senhor, dizem o capitão-mor 
+Dom Lourenço de Almeida, o capitão Antônio de Burgos, João Ribeiro de Carvalho, o capitão 
+Antônio Martins Pereira, Jerônimo de Burgos, Francisco de Sá de Faria, Manuel de Sousa 
+Ribeiro, Calisto Brás de Carvalho, que no sertão do rio de São Francisco para o Norte, há muitas 
+terras que estão devolutas e desaproveitadas nas sobras que possui Belchior Alvares, e nas 
+sobras das datas do mestre de campo, Nicolau Aranha Pacheco, e Ambrósio Aranha de Faria, 
+Cosme de Brito, na sobra da data que foi dada ao capitão Bernardo Vieira de Melo, Manuel 
+Vieira e Antônio Pinto, nas sobras da data que ultimamente foi dada à Custódio de Oliveira 
+Ledo, Antônio de Oliveira Ledo e seus companheiros, e porque as ditas terras estão ocupadas e 
+vizinhos dos negros dos palmares e outras de muitos Tapuias e gentios brabos, e de se povoarem 
+resulta muito proveito a Fazenda Real, e bem comum. Pelo que pedem a Nossa Senhoria, lhes 
+faça mercê dar de sesmaria em nome de Sua Alteza, 55 léguas de terra em quadra nas sobras 
+das sobreditas datas assim nas cabeceiras, como nas ilhargas, e não se achando todas nas partes 
+confrontadas, que as possam tomar nas sobras de outras quaisquer datas ou terras despovoadas 
+nas capitanias de Pernambuco. E receberá mercê. Visto a informação do provedor-mor, que é a 
+seguinte: os suplicantes pedem 55 léguas em quadra, que vem a fazer 275, e como não sei dos 
+cabedais nem quem sejam os suplicantes para se poder povoar esta terra, nem tão pouco estão 
+estas terras dadas a outras pessoas, e me parece que na forma do regimento, os mais que se lhe 
+pode dar a cada um são 3 léguas em quadra, sem prejuízo de terceiro, com as cláusulas 
+estimadas de se povoarem dentro de 3 anos, e pagarem dízimo, e que assim como fazem 
+povoando a cada um, tirando a sua carta de sesmaria da terra que povoar, por não haver depois 
+equivocações, contendas que possam prejudicar a povoação delas. Vossa Senhoria mandará o 
+que for servido. Bahia, 2 de fevereiro de 1678. José Lopes de Ulhoa // Nos consta dos cabedais 
+dos suplicantes para poderem povoar as ditas terras. Havemos por bem de conceder e dar de 
+sesmaria em nome de Sua Alteza, 4 léguas de terras a cada um, na forma que pedem e 
+confrontam em sua petição, não prejudicando a terceiro, com todas suas águas, campos, matos, 
+testadas, logradouros, e mais úteis que nelas se acharem, todo foro livre e isento de pensão ou 
+tributo algum, salvo o dízimo a Deus, que pagarão dos frutos que nelas houver, e por elas serão 
+obrigados a dar caminhos livres ao conselho para fontes, pontes, e pedreiras, e povoarem no 
+termo da lei e regimento, pois nesta conformidade lhes concedemos, cada um tirará sua carta 
+de sesmaria da terra que for povoando ao depois equivocações, e contendas que possam 
+prejudicar a povoação delas, como parece ao provedor-mor da Fazenda Real deste dito Estado. 
+Pelo que ordenamos a todos os ministros de justiça, a que o conhecimento deste com direito 
+deva ou possa pertencer, lhe façam dar a posse real efetiva e atual na forma costumada debaixo 
+das cláusulas acima referidas, e as mais da ordenação, título das sesmarias. Para firmeza do que 
+lhe mandamos passar o presente sob nossos sinais e selo das armas reais que este governo usa, 
+o qual se registrará nos livros da secretaria do Estado, e nos mais a que tocar, e se guardará e 
+cumprirá tão pontual e inteiramente como nele se contém, sem dúvida embargo nem 
+contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, Bahia de Todos os Santos, 
+em 5 dias do mês de fevereiro, ano de 1678. Bernardo Vieira Ravasco o fez escrever. Cristóvão 
+
+de Burgos // Álvaro de Azevedo// Antônio Guedes de Brito// Registrado no livro segundo dos 
+registros da secretaria do Estado do Brasil, a que toca a folha 45. Bahia, 5 de fevereiro de 1678. 
+Ravasco// Despacho do provedor-mor. Cumpra-se e registre-se. Bahia, 7 de fevereiro de 1678. 
+José Lopes de Ulhoa // Registrou-se em 8 do dito mês e ano. Eu, Manuel Ferreira das Neves, o 
+escrevi. João Dias da Costa// Registro.   
+ 
+-Fim da transcrição-  
+ 
+Observações do documento:  
+ 
+Os nomes dos sesmeiros, tal qual constam no documento original, são Dom Lourenço de 
+Almeida, o capitão Antônio de Burgos, João Ribeiro de Carvalho, Lourenço da Silva de 
+Almeida, Lourenço Manoel de Faria de Carvalho. 
+ 
+Referência:  
+ 
+AN, Códice 427, fls. 122v – 123v.  
+Numeração original no livro: 96 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

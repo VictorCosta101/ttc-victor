@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0296
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Bartolomeu Dias",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "04-05-1543",
+  "Observações da sesmaria": "O sesmeiro recebeu a concessão de uma sesmaria, o Outeiro de São Pedro, com as seguintes confrontações: A sudoeste e sul, com as terras de João Brás e Bartolomeu Rodrigues; a norte e noreste com as terras de Jerônimo Albuquerque e Vasco Fernandes; e oeste com Jerônimo de Albuquerque e a ribeira da Merueira. ",
+  "Localidade": "Outeiro de São Pedro",
+  "Ribeira": "Merueira",
+  "Confrontantes": "João Brás, Bartolomeu Rodrigues, Jerônimo Albuquerque, Vasco Fernandes",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0296"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0296 
+ 
+Merueira 
+Doação da terra do outeiro de São Pedro na Merueira a Bartolomeu Dias. 
+ 
+Duarte Coelho capitão, e governador destas terras da nova Luzitânia etc. - Faço saber a quantos 
+esta minha carta de doação virem, que a mim praz, e hei por bem de dar, e doar deste dia para 
+todo o sempre a Bartolomeu Dias, moço da câmara do duque de Bragança, morador nesta 
+minha vila de Olinda, a terra que está do Outeiro de São Pedro para banda do oeste, e sudeste 
+a qual se demarca da maneira seguinte: - Da banda do sudoeste, e sul parte pelo cume do dito 
+outeiro com terra de João Brás, e Bartolomeu Rodrigues, e ficam todas as agoas vertentes para 
+a banda do norte e noroeste parte com terra de Jerônimo Albuquerque, e Vasco Fernandes, e 
+ficam as terras do dito Bartolomeu Dias, e todas as agoas vertentes  para o sul, e sudeste para 
+o [paul] com o dito Bartolomeu Dias, e da banda do oeste parte com o dito Jerônimo de 
+Albuquerque  pela ribeira que se chama a Merueira, e da banda do leste parte com a terra do 
+dito Jerônimo de Albuquerque pelo cume do dito outeiro de São Pedro, e fica o dito Bartolomeu 
+Dias da banda do oeste do dito outeiro de São Pedro, a qual terra demarcada da maneira que 
+acima vai declado dou ao dito Bartolomeu Dias para ele, e para sua mulher, e filhos, e netos, e 
+herdeiros, e para todas as pessoas  que deles descederam deste dia para todo sempre com todas 
+suas entradas, e saídas, e serventias, que a dita terra pertecem, da qual terra ele dito Bartolomeu 
+Dias, e sua mulher, e filhos, e todos os que deles descederem a poderão lograr, e aproveitar, e 
+pdoerão fazer dela o que lhe bem vier como de cois sua própria, livre, e isenta, a qual terra lhe 
+dou livre, e isenta sem nunca em tempo algum ele, nem seus herdeiros, nem as pessoas que a 
+houveram deles, pagarem nenhum foro, nem tributo, nem direito algum, somente dizimo a 
+Deus, e assim o hei por bem, e me praz de dar, e doar ao dito Bartolomeu Dias todas as 
+madeiras, e lenhas, que dentro na dita terra estiverem, forras, livres, e isentas, somente as 
+poderão tirar para minha fortalezas, e igrejas forramente, e por assim me aprove de dar e doar 
+a sobredita terra, e madeiras, e lenhas ao dito Bartolomeu Dias na maneira que acima vai 
+declarado, lhe mandei dar esta minha carta de doação por mim assinada e selada de meu selo, 
+e mando que se registre no Livro de Tombo, e que se cumpra e guarde da maneira que se nela 
+contém, Francisco de Cavo a fez nesta vila de Olinda por meu mandado aos 04 dias do mês de 
+maio de 1543 anos, e ele, e seus vizinhos porão marcos firmes, e fixos, para que depois não 
+andem em demandas e requestas a qual carta eu Afonso Gago escrivão da Fazenda por El Rei 
+nosso Senhor nesta capitania trasladei aqui assinada pelo senhor governador, e selada de seu 
+selo, e a trasladei aos 23 dias do mês de maio do ano de  1543, escrevi aqui de meu sinal 
+costumado. O qual traslado eu Vicente Gomes da Veiga cavaleiro fidalgo da casa do El Rei 
+nosso Senhor, e tabelião do público, judicial, e notas nesta vila de Olinda capitania de 
+Pernambuco por Duarte de Albuquerque Coelho, capitão e governador dela por sua Majestade 
+etc. Fiz trasladar, consertei, subscrevi, e assinei hoje 28 dias do mês de setembro de 1628 anos. 
+Vicente Gomes da Veiga. - não se continha mais em dito documento que eu Filipe Nery Correa 
+tabelião do público judicial e notas da cidade de Olinda, Vila do Recife e seus termos capitania 
+e Pernambuco, para sua Majestade F. Que Deus guarde etc. - Fiz trasladar e depois com o 
+próprio e com o oficial abaixo assinado este conferi e consertei e vai sem coisa que dúvida faça 
+
+ 
+ao próprio me reporto que tornei a entrega a quem assinou, subscrevi e assinei em público e 
+razão de meus sinais seguintes aos 03 dias do mês de janeiro de 1676 anos. 
+ 
+ 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. P. ??? -  246  Fl. 127v-129v 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

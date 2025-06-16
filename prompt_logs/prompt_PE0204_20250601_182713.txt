@@ -1,0 +1,146 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0204
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0225",
+  "Nome": "Antônio José de Siqueira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "31-01-1815",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no Julgado dos Garanhuns, nas fronteiras das terras de Antônio Vaz da Costa pelo riacho Curuzinho até o rio Mundaú. ",
+  "Localidade": "Julgado dos Garanhuns",
+  "Marcos Geográficos": "Riacho Curuzinho, Rio Mundaú",
+  "Confrontantes": "Antônio Vaz da Costa",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Pretendia cultivar algodão; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0204"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0204 
+ 
+Carta de concessão de Antônio José de Siqueira de 31/01/1815 
+ 
+Antônio José de Siqueira com uma légua de terra em quadra no termo da Vila de 
+Garanhuns. 
+ 
+Caetano Pinto de Miranda Montenegro do Conselho do príncipe regente nosso senhor, e 
+do da Fazenda Comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem que Antônio 
+José de Siqueira me fez o requerimento do teor seguinte: Ilustríssimo  e excelentíssimo 
+senhor = Diz Antônio José de Siqueira morador nesta praça e vive de agricultura, que no 
+julgado de Garanhuns se acha uma porção de terras devolutas, e muito longe da marinha 
+e maus caminhos, onde pretende o suplicante  tirar uma légua de terra em quadro por 
+sesmaria para cultivar algodões, principiando das terras de Antônio Vaz da Costa na barra 
+do riacho Caruruzinho, no rio Mundaú por ele abaixo uma légua de comprimento com 
+outra de largura para o norte, servindo o dito riacho, de extrema; O suplicante já obteve 
+despacho de V. Ex.ª em outro semelhante, remetendo por um próprio ao ministro da vila 
+das Alagoas, que estava servindo nos impedimentos do juiz conservador das Reais Matas, 
+para o informar, o não conseguiu por estar em corrupção e mandando segunda vez outro 
+próprio buscar o dito requerimento deu por resposta, o tinha perdido por cujo motivo 
+implora segunda vez a V. Ex.ª se digne mandar passar dita sesmaria na forma requerida. 
+E receberá mercê = E sendo visto o seu requerimento ordenei por despacho de 8 de janeiro 
+de 1811 que informasse o doutor desembargador juiz conservador das matas e rios 
+informando-me este que não haviam nas ditas terras pau-brasil nem madeiras de 
+construção, e das que se mandara, reservar para o Arsenal Real, por despacho de 30 de 
+junho do ano próximo pássaro ordenei a câmara do distrito mandasse afixar os editais do 
+estilo por tempo de trinta dias para se saber se haviam terceiros prejudicados, e 
+informando-me a dita câmara que ninguém se opusera mandei por despacho de 18 de 
+novembro e 16 de dezembro do dito ano próximo passado que enformasse o doutor 
+procurador da Real Fazenda e escrivão deputado da junta da mesma Real Fazenda, e como 
+ambos informaram que se podia dar de sesmaria ao suplicante as terras contempladas em 
+seu requerimento mandei ultimamente por despacho de 22 do referido mês, e ano, que se 
+passasse carta de sesmaria pela faculdade que me é concedida no capítulo 15 do regimento 
+deste Governo, e portanto: Hei por bem dar em nome de Sua Alteza Real o príncipe 
+regente nosso senhor ao dito Antônio José de sequeira uma légua de terra em quadra no 
+lugar pedido e confrontado em seu requerimento pagando o  foro anual de quatro mil réis 
+por légua, em observância da real ordem de 28 de setembro de 1700 de que deu fiança na 
+Contadoria da Junta da Real Fazenda a folha 174 do Livro 6º delas, a qual sesmaria 
+possuirá e gozará ela suplicante e seus herdeiros ascendentes e descendentes como sua 
+que fica sendo de hoje para todo o sempre com todas as matas, campos, rios, água, 
+testadas, logradouros e mais úteis que nela se compreenderem, não prejudicando a  
+terceiro e não passará a dita terra a religião, e pessoas eclesiásticas, salvo sendo com os 
+mesmo encargos com que as possuem os seculares, e nunca se dividirá em porções, nem 
+se partirá senão por estimam andando encabeçada em uma só pessoa na forma da 
+Ordenação do Livro 4º título 96 parágrafo 23, e assim não passará a referida terra a 
+herdeiros, ou qual quer outra pessoa sem consentimento da Junta da Real Fazenda, para 
+nelas se darem novas fianças e se fazerem as dividas escriturações, ficando livres para a 
+
+serventia dos povos todas as estradas, rios, fontes e pedreiras reservadas ao Real 
+Patrimônio as Madeiras de construção, pau-brasil e viveiros de quaisquer metais, e será 
+obrigado a requerer dentro de três anos confirmação, medição e demarcação em 
+conformidade do alvará de 25 de janeiro de 1809, e não o cumprindo assim se haverá por 
+devoluta, e novamente se conferirá a quem a requerer. Pelo que mando aos ministros da 
+Fazenda, e Justiça, e mais pessoas a quem tocar cumpram e façam cumprir, e guardar, 
+esta carta de mata de sesmaria como nela se contem, fazendo dar ao suplicante posse real, 
+efetiva e atual na forma costumada debaixo das cláusulas referidas, e das mais da 
+Ordenação títulos das Sesmarias. Em firmeza o referido lhe mandei passar a presente que 
+sendo por mim assinada e selada com o sinete das minhas armas a qual se registrará na 
+secretaria deste Governo na Junta da Real Fazenda, e onde mais tocar. Manuel Freire 
+Mariz oficial maior da secretaria a fez em o Recife de Pernambuco aos 31 de janeiro de 
+1815/ José Carlos Mairink da Silva Ferrão secretário do Governo a fez escrever = Caetano 
+Pinto de Miranda Montenegro = Carta de data de sesmaria pela qual V. Ex.ª há por bem 
+dar em nome de Sua Alteza Real a Antônio José de Siqueira uma légua de terra em quadra 
+no termo da vila de Garanhuns = Para V. Ex.ª ver = Por despacho do ilustríssimo e 
+excelentíssimo senhor general de 22 de Dezembro de 1814./. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 133-137. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

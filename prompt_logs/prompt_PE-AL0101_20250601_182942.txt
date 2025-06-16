@@ -1,0 +1,71 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0101
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João de Araújo Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "06-02-1706",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura na vila das Alagoas, na fronteira das terras do padre Domingos de Araújo Lima (AL 0074).",
+  "Localidade": "Vila das Alagoas",
+  "Confrontantes": "Domingos de Araújo Lima",
+  "Exigências do Deferimento": "Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "\tO documento é um trecho resumido do Códice 155 do Arquivo Nacional do Rio de Janeiro. O Códice contém as cópias das sesmarias presentes no arquivo da Tesouraria-geral da Provedoria-mor da Bahia. O códice foi publicado nas Publicações do Arquivo Nacional no ano de 1931. Por causa destas circunstâncias, não foi possível identificar detalhes importantes com relação a concessão, despacho e deferimento.",
+  "Observações das exigências": "O suplicante não poderia alhear a terra sem cultivar primeiro.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0101"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0075
+Carta de concessão de João de Araújo Lima de 06/01/1706
+Capitão João de Araújo Lima. – Alvará de 6 de fevereiro de 1606. – 1 légua de largo e
+3 de comprido. – No termo da Vila das Alagoas, as sobras que designa a anterior. –
+Condições: As mesmas da sesmaria anterior.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 155, fl. 274v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

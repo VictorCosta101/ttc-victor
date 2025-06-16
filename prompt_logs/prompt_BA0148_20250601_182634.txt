@@ -1,0 +1,127 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0148
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Mosteiro novo de São Francisco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "NA",
+  "Data da concessão": "31-12-1663",
+  "Observações da sesmaria": "A sesmaria era um conjunto de terras que eram vizinhas ao mosteiro, em Sergipe do Conde, Bahia. Não foram apresentadas as medidas nem o tamanho total da sesmaria.",
+  "Localidade": "Sergipe do Conde",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Exigiu-se que, caso não se aproveitasse toda a sesmaria, o que sobrasse se desse a quem pedisse; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que as terras eram necessárias para o bem e comodidade dos religiosos do mosteiro.",
+  "Observações das exigências": "Determinou-se não vender as terras; determinou-se não impedir caminhos e serventias do povo.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0148"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro do traslado da sesmaria que se deu ao mosteiro novo de São Francisco registrada em 
+31 de dezembro de 1663 anos. 
+Saibam quantos este público instrumento de carta de sesmaria virem que no ano do nascimento 
+de Nosso Senhor Jesus Cristo de 1663 anos aos 31 dias do mês de agosto do dito ano, cidade 
+do Salvador, Bahia de Todos os Santos, nas casas da morada de mim, tabelião e escrivão das 
+sesmarias apareceu presente o reverendo padre Frei João de Assunção, guardião do mosteiro 
+novo do bem-aventurado São Francisco, sítio no limite de Sergipe do Conde, termo desta dita 
+cidade, e por ele me foi dada uma petição por escrito feita em seu nome e dos mais religiosos 
+do dito mosteiro com um despacho nela posto do senhor Diogo Luís de Oliveira, do conselho 
+de guerra de Sua Majestade, governador e capitão geral deste Estado do Brasil na qual petição 
+se continha o seguinte: o reverendo padre frei João de Assunção, guardião do mosteiro de São 
+Francisco sito em Sergipe do Conde em seu nome e dos mais religiosos do dito mosteiro da dita 
+casa que Gaspar dos Reis Pinto por lhe fazer esmola e caridade lhe dera terra em que está 
+edificado e situado o dito mosteiro. E para bem e comodidade dos religiosos dele tem 
+necessidade do Salgado da dita terra ao redor de onde está o dito mosteiro pelo que pedem a 
+Vossa Senhoria lhe faça mercê e esmola conceder-lhe o dito Salgado na forma costumada e 
+mandar-lhe passar carta. E receberão mercê e esmola a qual petição sendo apresentada ao dito 
+senhor governador geral e vista por ele, nela por seu despacho que é o seguinte: passe carta de 
+sesmaria na forma que os suplicantes pedem sem prejuízo de terceiro. Bahia, 31 de agosto de 
+1663. O governador. O qual despacho estava assinado por rubrica do sinal costumado do dito 
+senhor governador geral. Depois do que trasladei aqui o capitulo do regimento de El-Rei, nosso 
+Senhor, cujo o teor é o seguinte: as terras e águas das ribeiras que estiverem dentro do termo e 
+limite da dita cidade que são 6 léguas para cada parte que não forem dadas as pessoas que as 
+aproveitem e estiverem vagas e devolutas para mim por qualquer outra via ou modo que seja, 
+podereis dar de sesmaria as pessoas que as pedirem as quais terras assim dareis livremente sem 
+foro nem tributo algum, somente o dízimo a Ordem de Nosso Senhor Jesus Cristo e com as 
+condições e obrigações do foral dado as ditas terras e de minha ordenação, título das sesmarias 
+com condição que a tal pessoa, ou pessoas, residam na povoação da dita Bahia ou das terras 
+que assim lhe forem dadas ao menos 3 anos e que dentro no dito tempo as não possam vender 
+nem alhear, e tereis lembrança que não deis a cada pessoa mais terras que aquela que segundo 
+sua possibilidade virdes ou vos possa parecer que pode aproveitar ele algumas pessoas e que 
+foram dado terras no dito termo as tiverem perdidas por as não aproveitarem, e as tornearem a 
+pedir vós lhes dareis de novo para as aproveitarem com as condições e obrigações contidas 
+neste capitulo o qual se trasladará nas cartas de sesmarias. E com estas condições e obrigações 
+deu o dito senhor governador geral de sesmaria ao dito mosteiro de São Francisco, o salgado 
+ao redor de onde ele está situado, assim e da maneira que o pedem os suplicantes em sua petição 
+sem prejuízo de terceiro para efeito de o gozarem os religiosos assim presentes como futuros 
+desde este dia para todo sempre como coisa sua que já é por bem deste título, fazendo do dito 
+Salgado o que melhor estiver usando de suas entradas e saídas para comodo e serviço do dito 
+mosteiro, contanto que pelo dito salgado não impedirão caminhos e serventias do povo a ele 
+necessários o qual lhe deu o dito senhor governador geral em nome de Sua Majestade 
+livremente, sem foro nem tributo algum mais que somente o dízimo a Deus daquilo que daí 
+houverem e desfrutarem, e dentro de um ano serão obrigados os ditos suplicantes a registrar 
+esta carta nos livros da Fazenda do dito Senhor pela qual eles haverão a posse real, cível e 
+natural do dito Salgado de que se trata de que tudo se fez aqui esta carta em que assinou o dito 
+senhor governador geral que mandou se passasse dela o traslado ou traslados aos suplicantes 
+em seu título // Pascoal Teixeira // Tabelião e escrivão das sesmarias que o escrevi // Diogo 
+
+Luís de Oliveira etc. O qual traslado de carta de sesmaria eu, Pascoal Teixeira, tabelião público 
+do judicial e notas nesta cidade do Salvador, Bahia de Todos os Santos e seus termos trasladei 
+aqui por minha mão de meu livro de sesmarias a que me reporto de onde tomei, concertei, 
+subscrevi e assinei de meu público sinal seguinte. Pagou nada. O qual traslado de carta de 
+sesmaria eu // Pedro de Moura // Escrivão da Fazenda de Sua Majestade aqui registrei do próprio 
+traslado a que me reporto que tomei aos religiosos de São Francisco e dou fé ter o sinal público 
+do dito tabelião // Pascoal Teixeira // na Bahia, em 31 de agosto de 1663 anos // Pedro de Moura 
+//. 
+ 
+ 
+Referências: 
+DHBN, vol. 16, Pg. 149 - 152 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

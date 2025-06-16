@@ -1,0 +1,124 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0286
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel da Silva Pinto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "04-12-1664",
+  "Observações da sesmaria": "O suplicante requereu terras localizadas na praia da Vila de Olinda, dos limites da guarita de João de Albuquerque para a parte do norte, até entestar com Manuel da Rocha Vilaça, defronte da porta da Igreja de Nossa Senhora do Carmo.",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Igreja de Nossa Senhora do Carmo",
+  "Confrontantes": "João de Albuquerque, Manuel da Rocha Vilaça",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante já havia requerido a sesmaria ao governador de capitania de Pernambuco, Francisco de Brito Freire. Entretanto, o suplicante requereu a confirmação da sesmaria ao senado da câmara de Olinda.",
+  "Observações das exigências": "A câmara de Olinda determinou o pagamento do foro no valor de um tostão por ano. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0286"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0286 
+ 
+Carta de concessão de Manuel da Silva Pinto de 04/12/1664 
+ 
+Os oficiais da Câmara da muito nobre e sempre leal Vila de Olinda e seu termo, capitania 
+de Pernambuco, por Sua Majestade etc. “Fazemos saber aos que esta nossa carta de 
+confirmação virem e o conhecimento dela com direito deva e haja de pertencer, e seu 
+efeito se pedir e requerer, que a nós nos enviou a dizer por sua petição Manuel da Silva 
+Pinto, que pela data que oferecia lhe fizera mercê em nome de Sua Majestade, Deus o 
+guarde, o governador destas capitanias como seu sesmeiro de lhe dar de sesmaria toda a 
+terra e praia conteúdo na carta de data que apresentava, e porque para conservação de seu 
+direito e mais superabundância lhe era necessário confirmação desta Câmara, nos pediam, 
+em fim e conclusão de sua petição, lhe fizéssemos mercê confirmar-lhe a dita data, assim 
+como nela se continha. E receberá mercê. - A qual petição sendo por nós vista e 
+examinada, nela pronunciamos o despacho seguinte: Passe-se carta de sesmaria e 
+confirmação, não prejudicando a terceiro, ficando terra livre para se fazer as mostras dos 
+soldados, pagando um tostão por esta terra em cada um ano de foro, além do foro que é 
+obrigado a pagar da outra data. Dado em mesa, 1 de março de 1664. Em virtude do qual 
+despacho fizera réplica o dito Manuel da Silva Pinto, dizendo nela que não duvidava em 
+deixar de fora a terra conteúdo no no nosso despacho para o exercício dos soldados e suas 
+mostras, e para esse efeito nos pedia fossemos servidos mandar fazer vistoria, para se 
+declarar a forma e paragem determinada na carta de confirmação. E receberá mercê. A 
+qual sendo nos apresentada, lhe assinamos nomeando neste Senado ao vereador, o capitão 
+João Gomes de Melo, com o procurador do Conselho, Luís Marreiros, os quais foram 
+fazer a dita vistoria, de que se fizera termo e assento com o escrivão da Câmara que 
+presente estava, e acordaram que da dita data que vem a ser de toda a terra que corre da 
+guarita de João de Albuquerque para a parte do norte, até entestar com Manuel da Rocha 
+Vilaça, de fronte da porta da Igreja de Nossa Senhora do Carmo, para na dita praia fazer 
+uma pescaria, e assim mais uma faixa de terra que corre no mesmo rumo e cumprimento 
+da dita praia, das trincheiras para dentro, e confronta pela parte desta vila com as 
+demarcações dos religiosos de São Bento e do Carmo, assim e da maneira que na dita 
+data e sesmaria que tem, lhe foi dada reservarem para as ditas mostras gerais toda a terra 
+que corre do canto do muro dos padres de São Bento, junto ao caminho da fundição, 
+correndo para a banda do norte com declaração que reservaram somente esta terra das 
+
+trincheiras para dentro, e que a praia toda de que na carta se faz menção, com toda a mais 
+terra do canto do dito muro até o rio, reservando as serventias públicas haviam por bem 
+se lhe concedesse a dita confirmação em sua data, de que se fez termo que assinaram os 
+ditos vereadores com o dito procurador do Conselho, que sendo nos apresentado em 
+Câmara e por nós visto e examinado, mandamos se lhe passasse sua carta ao suplicante 
+Manuel da Silva Pinto com as condições referidas, em virtude da qual se passou, e 
+mandamos passar a presente, pela qual lhe damos e fazemos mercê da dita data de terras 
+e pescaria, assim e da maneira que na dita data se contém e melhor se puder ser, com 
+todas suas entradas e saídas, logradouros novos e velhos, águas, pastos, pescarias e tudo 
+o mais que na dita carta está confrontado, não prejudicando a terceiro, para que o logre 
+ele e seus ascendentes e descendentes, que após eles vierem, digo, que após ele virem, 
+livre e isento, pagando, pagando somente dízimo a Deus e a esta Câmara um tostão de 
+foro cada ano, e o havemos por empossado na dita terra, que poderá por si e pela posse 
+que já tem tomado, usar da dita terra como sua, que já é, sem dúvida ou embargo que lhe 
+seja posto. E esta se registrará nos livros desta Câmara, a que tocar, para firmeza do que 
+lhe mandamos passar e se passou a presente por nós assinada e selada com o selo que ante 
+nós serve etc. Dado em Câmara nesta vila de Olinda, capitania de Pernambuco, em 4 dias 
+mês de dezembro do ano do nascimento de Nosso Senhor Jesus Cristo, da era de 1664 
+anos; e eu, Manuel Pereira de Azevedo, escrivão da Câmara da vila de Olinda e seu termo, 
+por Sua Majestade, a fiz escrever e subscrevi. João Pessoa Bezerra. Antônio Barreto. Luís 
+Marreiros. João Gomes de Melo. Estava e selo. Selo primeiro de 240 réis.  
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - 
+Recife, 1948. p. 34 - 38. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0093
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio de Lucema",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "28-01-1595",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Nas ilhargas de Gaspar Magalhães",
+  "Marcos Geográficos": "Várzea da Olaria",
+  "Confrontantes": "Entre Diogo Luiz e Sebastião Dias",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era morador(a) da Capitania; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se levantar casa; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que \"não tem chãos onde possa fazer casas\".",
+  "Observações do deferimento e da concessão": "Em relação ao deferimento, considera-se que foi atendido apenas o pedido de sesmaria, embora não forneça dados sobre a medição solicitada pelo suplicante que, por vezes, diferencia-se da extensão concedida.",
+  "Observações das exigências": "Citou-se o Regimento do governador geral Antônio Salema, que diz: \" as terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não aproveitem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo e com as condições e obrigações do foral dado às ditas terras, e de minha Ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos e, que dentro do tipo tempo, as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade as tiverem perdidas por as não aproveitar, vá tornarem pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas\". Determinou-se também ao suplicante que \"haja a posse e senhorio do dito chão para ele\", assim como foi exigido que \"viva e resida nesta dita cidade ou em seu termo ao menos os ditos 3 anos em o dito regimento declarados, dentro do qual tempo ele não poderá vender, nem enlear, nem por outra nenhuma via traspassar o dito chão por nenhuma via que seja sem licença do dito Senhor capitão e governador ou de quem adiante tiver poder para lhe dar\". Também foi determinado que o suplicante, \"acabados os ditos 3 anos, tendo ele feito no dito chão casas e benfeitorias, ele o poderá vender, trocar, descambar dar, doar e fazer dele tudo o que lhe bem vier e aprouver, como cousa sua própria, isenta que é\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0093"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0093
+Carta de concessão de sesmaria da terra de Antônio de Lucema de 28 de janeiro de 1595
+Forro
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1595 anos, em os 28 dias do mês de janeiro do dito ano, em esta
+cidade de São Sebastião do Rio de Janeiro do Brasil, em as pousadas de mim escrivão adiante
+nomeado, apareceu Henrique de Araújo, morador nesta dita cidade, e me apresentou uma
+petição feita em nome de Antônio de Lucema, com um despacho em ela do Senhor Salvador
+Correia de Sá, capitão e governador desta dita cidade e capitania e governança deste dito Rio
+de Janeiro, por El Rei nosso Senhor, etc.. Da qual petição e despacho dela o traslado é o
+seguinte: Senhor, diz Antônio de Lucema, morador nesta cidade, que ele não tem chãos onde
+possa fazer casas. Pede a Vossa Senhoria que lhe dê na várzea desta cidade quando vão para a
+Olaria, nas ilhargas de Gaspar de Magalhães, entre Diogo Luiz e Sebastião Dias, porquanto
+está devoluto e não pedir ninguém para os aproveitar, pede a Vossa Senhoria, havendo
+respeito, lhe de 60 braças de comprido e a largura que tiver entre Diogo Luis e Sebastião Dias.
+No que receberá mercê. Despacho do Senhor capitão e governador: dou ao suplicante 30
+braças onde pede havendo-as. Salvador Correia de Sá. E tudo visto pelo dito Senhor capitão e
+governador a petição do dito suplicante Antônio de Lucena e o que ele pedia, visto ser justo,
+havendo respeito ao proveito que se pode seguir acerca da República, ao serviço de Deus, de
+El Rei nosso Senhor e por a terra se povoar, deu ao dito Antônio de Lucena o dito chão e,
+conforme ao dito seu despacho, porquanto dizia que estava vago, devoluto e por aproveitar
+para o aproveitar e fazer casas como diz nele, não sendo já dado a outra pessoa 1°. O qual
+chão diz que está no dito lugar, tem a dita medida e que parte pelas ditas confrontações, como
+na sua petição diz, e a braça será braça craveira .ss., a saber: duas varas de medir por uma,
+como no Reino se costumar de medir. O qual chão lhe deu e concedeu na maneira adiante
+declarada segundo forma do Regimento do Senhor, digo, do governador geral, que foi nesta
+dita cidade Antônio Salema, de que o traslado é o seguinte: as terras que estiverem dentro do
+termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não
+forem dadas a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se
+deram as não aproveitem no tempo que eram obrigados por esta via ou por qualquer outra,
+estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis
+a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que
+podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro,
+
+somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo e com as condições e
+obrigações do foral dado às ditas terras, e de minha Ordenação do Livro 4°, título das
+sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da dita capitania
+ou das terras que lhe assim forem dadas ao menos 3 anos e, que dentro do tipo tempo, as não
+possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita
+cidade as tiverem perdidas por as não aproveitar, vá tornarem pedir, vós lhes podereis de novo
+dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas
+porque as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas
+com as quais condições, obrigações e declarações, lhe assim deu o dito Senhor capitão e
+governador o dito chão ao dito suplicante Antônio de Lucena, pela dita maneira, para sua
+guarda e segurança lhe mandou ser feita esta carta, pela qual manda que ele haja a posse e
+senhorio do dito chão para ele, todos seus herdeiros e sucessores ascendentes e descendentes
+que após dele vierem com tal condição e entendimento, que ele viva e resida nesta dita cidade
+ou em seu termo ao menos os ditos 3 anos em o dito regimento declarados, dentro do qual
+tempo ele não poderá vender, nem enlear, nem por outra nenhuma via traspassar o dito chão
+por nenhuma via que seja sem licença do dito Senhor capitão e governador ou de quem
+adiante tiver poder para lhe dar e, da dita maneira, lhe dava ou dito chão e, acabados os ditos
+3 anos, tendo ele feito no dito chão casas e benfeitorias, ele o poderá vender, trocar,
+descambar dar, doar e fazer dele tudo o que lhe bem vier e aprouver, como cousa sua própria,
+isenta que é, o que tudo manda que se cumpra e guarde, sem dúvida, nem embargo algum, que
+a ele seja posto e que esta carta seja registrada dentro em 1 ano nos livros da Fazenda Real,
+como o dito Senhor em seu regimento manda sob as penas em ele contidas e declaradas e o
+porque o sobredito Antônio de Lucema tudo prometeu de ter, manter e cumprir, pela dita
+maneira lhe mandou passar esta carta de sesmaria e por verdade eu, Pero da Costa, escrivão
+das sesmarias e tabelião das notas notas por El Rei nosso Senhor em esta cidade de São
+Sebastião e seus termos, que este instrumento de carta de sesmaria escrevi e tomei nos meus
+livros das notas e tombo das cartas das sesmarias desta dita cidade que meu poder ficam onde
+o dito instrumento fica assinado por o dito Senhor capitão e governador. //Salvador Correia de
+Sá//
+-fim da transcrição-
+
+Observações do documento:
+Título original: Carta de sesmaria do chão para casas de Antônio de Lucema que está nas
+ilhargas de Gaspar de Magalhães.
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+Referências:
+AN - Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL. Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg. 83-85.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg. 83-85.
+Códice 778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

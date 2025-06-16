@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0192
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Jacinto Gomes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "28-04-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"no caminho de terra firme que seguia por Santa Cruz por uma picada nova para a cidade de São Paulo tinha fundo seu sítio em que por vezes tinha plantado e desfrutado\".\r\n",
+  "Localidade": "Sítio no caminho de terra firme que seguia por Santa Cruz por uma picada nova para a cidade de São Paulo",
+  "Confrontantes": "Data de terras de João Machado, quadra de Francisco de Alves e data de Manuel da Costa",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se demarcar; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante também alegou que \"até o presente não se tinha dado as ditas terras em que o suplicante estava (ilegível) de sesmaria a pessoa alguma\".",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também ao suplicante a obrigação de \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo se nela há rio caudaloso que necessite de barca para atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0192"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0192
+Carta de concessão de Jacinto Gomes de 28 de abril de 1751
+Gomes Freire de Andrade, do conselho de sua Magestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais.
+Nesta faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar
+por sua petição Jacinto Gomes, que no caminho de terra firme que seguia por Santa Cruz por
+uma picada nova para a cidade de São Paulo tinha fundo seu sítio em que por vezes tinha
+plantado e desfrutado, que corria de onde acabava a data de terras de João Machado a quadra
+de Francisco de Alves e de onde começava a de Manuel da Costa, e como até o presente não
+se tinha dado as ditas terras em que o suplicante estava (ilegível) de sesmaria a pessoa
+alguma, e o suplicante se achava na posse delas havia 3 anos, plantando e desfrutando, e me
+pedia que lhe mandasse dar de sesmaria as ditas terras de sua situação, que seria meia légua
+com pouca diferença, começando de onde se acabava a data de João Machado até onde
+principiava a de Manuel da Costa. E sendo visto o seu requerimento, em que foi ouvida a
+Câmara desta capitania, a quem não se ofereceu dúvida, nem ao provedor da Fazenda Real e
+procurador da Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria, em nome de Sua
+Magestade e em virtude da ordem do dito Senhor de 15 de junho de 1711, ao dito Jacinto
+Gomes meia légua de terras em quadra na parte referida; com as confrontações acima
+expressadas; sem prejuízo de terceiro ou do direito que alguma pessoa tenha a elas; com
+declaração que as cultivará e mandará confirmar esta minha carta por Sua Magestade dentro
+de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar posse delas as fará
+medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas com quem
+confrontar; será obrigado a fazer os caminhos de sua testada com pontes e estivas onde
+necessário for, e descobrindo se nela há rio caudaloso que necessite de barca para atravessar,
+ficará reservada de uma das margens dele a terra que baste para a serventia pública; nesta data
+não poderá suceder em tempo algum pessoa eclesiástica ou religião, e sucedendo será com
+encargo de pagar dízimos e outro qualquer que Sua Magestade lhe impuser de novo, e não o
+pagando se poderá dar a quem denunciar; como também sendo o Senhor servido mandar
+fundar no distrito dela alguma vila o poderá fazer ficando livre, sem encargo algum ou pensão
+para o sesmeiro; não compreenderá esta da vieiros ou minas de qualquer gênero de metal que
+nela se descobrir, reservando igualmente os paus Reais; e faltando qualquer das ditas
+cláusulas, por serem conforme as ordens de Sua Magestade e as que dispõem a Lei e Foral das
+Sesmarias, ficará privado desta. Pelo que mando do ministro oficial de justiça, a que o
+
+conhecimento desta pertencer, dê posse ao dito Jacinto Gomes das referidas terras na forma
+acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se cumprirá como nela se contém e se registrará
+nesta Secretaria de Estado e mais partes a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João de Sousa Melo a fez em 28 de abril de 1751. //O secretário do governo,
+Antônio da Rocha Machado, a fez escrever//
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê de dar de sesmaria, em nome de Sua Magestade, a
+Jacinto Gomes meia légua de terra em quadra no caminho de terra firme pela picada nova que
+segue para a cidade de São Paulo, tudo na forma acima declarada.
+Para Vossa Excelência ver.
+Registrada no Livro 9 das Provisõens do Governo a página 162. Rio, a 28 de abril de 1751.
+//Antônio da Rocha Machado//
+-Fim da transcrição-
+Observação do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Jacinto Gomes meia legua em quadra, com as confrontações descriptas na mesma carta. Rio,
+28 de abril de 1751.
+Esta Carta de Concessão está disponível no AHU anexada à Petição n° 17750.
+Referência:
+AHU_ACL_CU_017-01, Cx.76, D. 17751
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

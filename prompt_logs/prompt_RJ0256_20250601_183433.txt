@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0256
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Alves de Oliveira, Miguel Rodrigues de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "26-11-1750",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"estava de posse de uma sorte de terras que foram dadas por sesmaria a Bartolomeu Antunes Lobo, bisavô dele, pelo governador Salvador Correia de Sá e Benevides\".",
+  "Localidade": "Sorte de terras em Mangaratiba, distrito de Ilha Grande",
+  "Marcos Geográficos": "Serra, O Batatal",
+  "Ribeira": "Itinga, Ingaíba",
+  "Confrontantes": "Terras de Teresa Gaga, terras de Domingos Rodrigues",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Pretendia plantar roças; Pretendia criar gado; Pretendia cultivar; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "O primeiro suplicante ainda alegou que havia se perdido a carta de confirmação de sesmaria dada ao seu bisavô.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se dos suplicantes que fossem obrigados \"a fazerem os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a serventia pública\". Determinou-se a eles ainda que reservassem os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0256"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0256
+Carta de concessão de Miguel Rodrigues de Oliveira e Antônio Alves de Oliveira de 26 de
+novembro de 1750
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representarem por
+sua petição Miguel Rodrigues de Oliveira e Antônio Alves de Oliveira, que o primeiro
+suplicante por si e seus passados estava de posse de uma sorte de terras que foram dadas por
+sesmaria a Bartolomeu Antunes Lobo, bisavô dele, pelo governador Salvador Correia de Sá e
+Benevides, sitas na Mangaratiba, distrito de Ilha Grande, cuja data de terras começava na
+barra do rio Itinga, onde ele se juntava e fazia barra com o rio de Ingaiba, correndo por este
+acima até o pé da serra e suas vertentes que terá de testada meia légua, pouco mais ou menos,
+e por esta parte confrontava com terras de Teresa Gaga, da outra banda começando na dita
+paragem e barra do rio Itinga, correndo por ele acima até o pé da serra e suas vertentes que
+terá 1 légua de sertão, pouco mais ou menos, e por esta banda partia com terras de Domingos
+Rodrigues, servindo o rio Itinga de demarcação, e bem assim outro pedaço de terras sitas na
+dita paragem, que começava nas terras do dito Domingos Rodrigues, fazendo testada pelo rio
+de Itinga acima até as vertentes da serra, fazendo sertão ao sul a que chamavam o Batatal.
+Porque se tinha perdido a sesmaria, porque foram dadas as ditas terras ao bisavô do primeiro
+suplicante e por evitar dúvidas ao futuro, queriam os suplicantes se lhes desse por sesmaria as
+sobreditas terras, visto estarem de posse delas e terem necessidade para suas roças e pastos
+para seus gados, e as queriam povoar e cultivar pois tinham escravos, me pediam lhes
+concedesse a referida sesmaria na forma do estilo. E sendo visto o seu requerimento, em que
+foi ouvida a Câmara da Ilha Grande, a quem se não ofereceu dúvida, nem ao provedor da
+Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por bem dar de sesmaria,
+em nome de Sua Majestade e em virtude da Ordem do dito Senhor de 15 de junho de 1711,
+aos ditos Miguel Rodrigues de Oliveira e Antônio Alves de Oliveira meia légua de terras de
+testada, pouco mais ou menos, com 1 de sertão, pouco mais ou menos, na parte acima referida
+e com as confrontações expressadas; sem prejuízo de terceiro ou do direito que alguma pessoa
+tenha a elas; com declaração que as cultivarão e mandarão confirmar esta minha carta por Sua
+Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar posse
+delas, as farão medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas
+
+com quem confrontarem; serão obrigados a fazerem os caminhos de sua testada com
+pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite de
+barca para se atravessar, ficará reservada de uma das margens dele a terra que baste para a
+serventia pública; nesta data não poderá suceder em tempo algum pessoa eclesiástica ou
+religião, e sucedendo será com o encargo de pagar dízimos e outro qualquer que Sua
+Majestade lhe impuser de novo, e não os pagando se poderá dar a quem a denunciar; como
+também sendo o dito Senhor servido mandar fundar no distrito dela alguma vila o poderá fazer
+ficando livre, sem encargo algum ou pensão para os sesmeiros; não compreenderá esta data
+vieiros ou minas de qualquer gênero de metal que nela se descobrir, reservando também os
+paus Reais; e faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua
+Majestade e as que dispõem a Lei e Foral das Sesmarias, ficarão privados desta. Pelo que
+mando ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse aos
+ditos Miguel Rodrigues de Oliveira e Antônio Alves de Oliveira das referidas terras, na forma
+acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas, que se cumprirá como nela se contém, se registrará nesta
+Secretaria do governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João de Sousa e Melo a fez em os 26 de novembro de 1750. O secretário do
+governo, Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+(ilegível) Porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Miguel Rodrigues de Oliveira e Antônio Alves de Oliveira meia légua de terras de testada,
+pouco mais ou menos, com 1 de sertão, pouco mais ou menos, na Mangaratiba, distrito da Ilha
+Grande, na forma que nesta se declara. Para Vossa Excelência ver.
+Registre-se aos Livros da Fazenda Real. Rio, [7] de dezembro de 1750.
+//Melo//
+Registrada no Livro 34 de registros desta Provedoria, a folha 9. Rio, a 4 de dezembro de 1750.
+//André Francisco Xavier//
+Registrada no Livro 11 que serve de Registro das Provisões do Governo, a folha 47. Rio, 27 de
+novembro de 1750.
+//Antônio da Rocha Machado//
+Registrada no Livro 2º do Tombo das Sesmarias que serve neste Cartório das Sesmarias, a
+folha 32. Rio, 28 de novembro de 1750.
+
+//Francisco Xavier da Silva//
+Registrada no Livro que serve dos Registros deste Senado, folhas 52 a 54. Angra dos Reis, 15
+de janeiro de 1751.
+//Manuel Antônio Freire//
+-Fim da Transcrição
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Miguel Rodrigues de Oliveira e Antônio Alves de Oliveira, meia légua de terra de testada com
+uma de fundo no lugar chamada Mangaratiba.
+Referência:
+AHU_ACL_CU_017-1, Cx. 68\Doc. 15965
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

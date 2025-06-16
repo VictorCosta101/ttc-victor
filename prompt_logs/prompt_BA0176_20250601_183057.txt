@@ -1,0 +1,77 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0176
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Garcia de Ávila (BA 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "23-05-1654",
+  "Observações da sesmaria": "A sesmaria possuía 8 léguas de largura, mas não foram informadas as léguas de comprimento. Ela estava localizada no sertão do Rio Subaúma até o de Inhambupe, na Bahia. Essa sesmaria foi retirada da publicação do códice 155 do Arquivo Nacional, volume XXVII, e nele são apresentados apenas fragmentos das sesmarias, por isso não possui informações completas que normalmente se registram nas cartas de doação de sesmaria.",
+  "Localidade": "Sertão do Rio Subaúma até o de Inhambupe",
+  "Marcos Geográficos": "Rio Subaúma; rio Inhambupe.",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas justificativas.",
+  "Observações do deferimento e da concessão": "No trecho analisado não é informado quem concedeu a sesmaria, mas diante do contexto analisado de uma concessão feita em 1654, acredita-se que foi o governador-geral  João Rodrigues de Sousa que concedeu a sesmaria.\r\n",
+  "Observações das exigências": "As exigências foram estabelecidas de acordo com as que eram exigidas pelo Foral.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0176"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Capitão Garcia D’Ávila - carta de 23 de maio de 1654 - 6 léguas de largo e mais 2 do 
+lado do mar. - Começando da passagem de cima do sertão do Rio Subauma até o de 
+Inhambupé, correndo por ele acima do lado do Sul com 6 léguas de largura até os 
+campos de Pindaguasutuba com mais as duas léguas da banda do mar, com todas as 
+águas para engenhos, campos, linhas, madeiras, testadas e logradouros. –condições: 
+As do Foral. –Observações: As terras entre o sertão do Rio Subauma, com as 6 léguas 
+de largura, foram de Francisco Dias D’Ávila, pai do concessionário e as 2 do lado do 
+mar, foram de novo concedidas.  
+ 
+Referência: Códice 155 das publicações do Arquivo Nacional, Rio de Janeiro, 1931, 
+p. 12 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

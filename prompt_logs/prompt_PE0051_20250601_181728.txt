@@ -1,0 +1,100 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0051
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0101",
+  "Nome": "João Tenório de Molina",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "02-10-1725",
+  "Data da concessão": "19-10-1725",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura em uma povoação próxima ao riacho da Matapiruma, as quais cortam para o sertão.",
+  "Localidade": "Riacho da Matapiruma.",
+  "Marcos Geográficos": "Riacho da Matapiruma.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Solicitou as terras para si e seus herdeiros; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Devido ao documento encontrar-se incompleto, não foi possível averiguar todas as informações referentes ao despacho e a concessão. O procurador da Coroa concedeu 1 légua de terra, conforme pedida pelo sesmeiro.",
+  "Observações das exigências": "O procurador da Coroa, Dom Manoel Rolim de Moura, determinou o pagamento de quatro mil réis de foro por légua, assim como o dízimo a Ordem de Cristo. As demais informações referentes a concessão estão incompletas na Documentação Histórica Pernambucana I.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0051"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0051
+Carta de doação e sesmaria de João Tenório de Molina - 02/10/1725
+CARTA DE DOAÇÃO DE SESMARIA DE UMA LÉGOA DE TERRA EM QUADRO, DADA
+NO SERTÃO DA FREGUESIA DE IPOJUCA, A JOÃO TENÓRIO DE MOLINA.
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e as capitanias anexas e etc. Faço [saber] aos que esta carta de doação de sesmaria
+virem, que por parte de João Tenório de Molina se me fez a petição cujo teor é o seguinte: Diz João
+Tenório de Molina, morador na freguesia de Ipojuca, que pelo rio acima que dá nome aquela
+povoação, junto a um riacho chamado dos naturais [matapiruma], estão umas terras devolutas e
+despovoadas, cortando do mar para o sertão doze léguas e terão de comprimento e largura mais de
+vinte légoas; e porque quer o suplicante tomar nas ditas terras uma légua em quadro de sesmaria,
+fazendo pião na serra que está junto ao dito riacho e dela tomando meia légua para cada parte, para
+dela pagar foro; portanto, pede a Vossa Senhoria lhe faça mercê conceder em nome de Sua
+Majestade, que Deus guarde, pelo poder pelo dito senhor, para isso concedido aos senhores
+governadores destas capitanias uma légua de terra na forma que o suplicante declara de sesmaria
+para si e seus herdeiros ascendentes e descendentes que após o suplicante vierem = E receberá
+mercê. - Informe o provedor da Fazenda Real, ouvindo ao procurador da Coroa - Recife, 18 de
+outubro de 1725. - Rubrica - Haja vista ao doutor procurador da Coroa = "Barros" - não tenho
+dúvida sendo a data na forma da Ordenação Livro 4.° título 43, e pagando o foro conforme o ajuste
+que se fez = Recife, 19 de outubro de 1725. - "Pereira" = Resposta do provedor da Fazenda,
+conformando-se com o parecer do doutor procurador da Coroa, e advertindo que pagará quatro mil
+réis de fôro e dízimo a ordem de Cristo, atendendo eu a todo o referido e pela faculdade que Sua
+Majestade me concede no capítulo 15 do Regimento deste Governo. – Hei por bem fazer-lhe mercê.
+[...]
+- Fim da carta -
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a
+carta, faltando a parte restante correspondente a concessão.
+Referência:
+Documentação Histórica Pernambucana, Livro I, fls. 306 - 307.
+Em 2 de
+outubro de
+1725
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

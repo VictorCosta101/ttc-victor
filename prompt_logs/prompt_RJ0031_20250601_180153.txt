@@ -1,0 +1,149 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0031
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Bastião Fernandes de Leão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-11-1578",
+  "Data da concessão": "18-11-1578",
+  "Observações da sesmaria": "Título original: Carta da terra de Bastião Fernandes de Lião oleiro que estão em Saracuruna que partem com seu genro Antônio de Sousa.",
+  "Ribeira": "Rio Saracuruna",
+  "Confrontantes": "Antônio de Sousa",
+  "Justificativas": "Não tinha terras; ",
+  "Exigências do Deferimento": "Mandou-se cultivar; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0031"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0031 
+ 
+Carta de concessão de sesmaria da terra de Bastião Fernandes de Leão de 18 de novembro de 
+1578 
+ 
+Forra 
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1578 anos em os 18 dias do mês de novembro do dito ano nesta 
+cidade de São Sebastião do Rio de Janeiro, desta costa do Brasil, nas pousadas de mim escrivão 
+adiante nomeado, apareceu um filho de Bastião Fernandes de Leão que por nome não peque, e 
+me apresentou uma petição como digo feita [...] nome do dito seu pai com um despacho em ela 
+do Senhor Salvador Correia de Sá, capitão e governador desta dita cidade e capitania deste dito 
+Rio de Janeiro, por El Rei nosso Senhor e da qual petição e despacho dela o traslado é o 
+seguinte. Diz Bastião Fernandes de Leão, oleiro e morador nesta cidade, que ele veio da 
+capitania de São Vicente a povoar esta terra com sua mulher e filhos sem nunca pedir terra nem 
+cá ter para fazer fazenda, pelo que pede a Vossa Senhoria respeitando ter ele muitos filhos e 
+filhas, lhe faça mercê de légua e meia de terra de sesmaria no cimo do Rio de Saracuruna, onde 
+acabar Antônio de Sousa correndo pelo rumo da agulha e com seus recôncavos, para dentro 
+outro tanto e sendo coisa que ali não haja a terra que pede seja da outra banda do dito rio, 
+partindo com quem partir com o mestre das obras, e sendo dada, corra por diante no que 
+receberá mercê. Despacho do Senhor capitão e governador. Dou ao suplicante onde pede mil 
+braças de largo e mil e quinhentas de comprido e se entenderá da maneira que em sua petição 
+diz. Hoje, 18 de novembro de 1578. Salvador Correia de Sá. E tudo visto pelo dito Senhor 
+capitão e governador a petição do dito suplicante Bastião Fernandes de Leão e o que lhe pede 
+pedia, visto ser justo e havendo respeito ao proveito que se pode seguir acerca da República, ao 
+serviço de Deus, do Rei nosso Senhor e pôr a terra se povoar, deu a terra contida em o seu 
+despacho, portanto, estava devoluto e em matos maninhos, para aproveitar para ao dito 
+suplicante aproveitar e fazer sua fazenda nela, não sendo já dada a outra pessoa 1°, a qual terra 
+está no dito lugar, tem a dita medida e parte pelas ditas confrontações como em sua petição diz, 
+e a braça, porque se medir a dita terra, será braça craveira scilicet a saber 2 varas de medir por 
+uma, como no Reino se costumava medir, o que tudo lhe deu e concedeu na maneira abaixo 
+declarada segundo forma do regimento do governador geral Antônio Selema de que o traslado 
+é o seguinte. § As terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, 
+que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitarem no tempo 
+que eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar de 
+
+sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela 
+que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais 
+terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado 
+de nosso Senhor Jesus Cristo, e com as condições e obrigações do foral dado às ditas terras e 
+minha ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas 
+residam da povoação da dita capitania ou das terras que lhe assim forem dadas ao menos  três 
+anos, e que dentro no dito tempo as não possam vender, nem enlear, e se algumas pessoas a que 
+forem dadas terra no termo da dita cidade e as tiverem perdidas pôr as não aproveitarem, e vá 
+tornarem a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste 
+capítulo, o qual se treladará nas cartas porque as assim derdes, e isto se entenderá não sendo as 
+ditas terras dadas a outras pessoas com as quais condições, obrigações e declarações, lhe assim 
+deu o dito Senhor capitão e governador a dita terra ao dito suplicante Bastião Fernandes, pela 
+dita maneira, para sua guarda e segurança lhe mandou ser feita esta carta, pela qual manda que 
+ele haja a posse e senhorio da dita terra para sempre, para ele e todos seus herdeiros e sucessores 
+ascendentes e descendentes que após dele vieram com tal condição e entendimento, que ele 
+rompa e aproveite a dita terra e a frutifique da data desta em três anos primeiros seguintes e, 
+outrossim, fará de maneira que dentro em quatro meses tenha feito nela algum proveito e 
+plantado alguns mantimentos, e como foram cumpridos os ditos três anos que a tenha 
+aproveitado como dito é, porque não o fazendo ele assim, passados os ditos três anos, se dará a 
+dita terra que aproveitada não tiver de sesmaria a quem a pedir para aproveitar, e lhe será 
+deixado alguns logradouros do que aproveitado não tiver e, sobretudo, pagará mil réis para as 
+obras do Conselho, e dará pôr a dita terra caminhos e serventias ordenados e necessários para 
+o Conselho, para fontes, pontes, viveiros e pedreiras que necessários forem a qual terra, pela 
+dita maneira lhe assim deu forra e isenta, sem foro, nem tributo, nem pensão em nome do Rei 
+nosso Senhor somente de tudo o que lhe nosso Senhor der nela de suas novidades, lavouras e 
+criações pagará os dízimos a Deus conforme ao dito regimento, o que tudo manda que se cumpra 
+e guarde sem dúvida, nem embargo algum, que a ele seja posto e que esta carta seja registrada 
+dentro em 1 ano nos livros da Fazenda Real, como o dito Senhor em seu regimento manda sob 
+as penas em ele contidas e declaradas e porque o sobredito Bastião Fernandes, suplicante, tudo 
+prometeu de ter, manter e cumprir, pela dita maneira lhe mandou passar esta carta de sesmaria, 
+e por verdade eu, Pero da Costa, escrivão das sesmarias e tabelião das notas digo das notas por 
+El Rei nosso Senhor em esta sua cidade de São Sebastião e seus termos, que este instrumento 
+de carta de sesmaria escrevi e tomei em meus livros das notas e tombo das cartas das sesmarias 
+
+desta dita cidade, que em meu poder ficam onde o dito instrumento fica assinado por o dito 
+Senhor capitão e governador //Salvador Correia de Sá// 
+ 
+ 
+- Fim da transcrição- 
+ 
+Observações do documento:  
+Título original: Carta da terra de Bastião Fernandes de Lião oleiro que estão em Saracuruna que 
+partem com seu genro Antônio de Sousa. 
+A palavra “Saracoruma” foi alterada para “Saracuruna”. 
+ 
+Referências : 
+Livro transcrito “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”, p.130-132. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.31. Códice 50.5.4A (1578-79) 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

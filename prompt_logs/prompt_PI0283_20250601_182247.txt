@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0283
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Teresa da Cunha de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "23-06-1742",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "A Fazenda de Cima",
+  "Marcos Geográficos": "Sertão do Parnaguá",
+  "Ribeira": "Riacho da Espingarda",
+  "Confrontantes": "Paragem O Jenipapeiro",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que, sendo herdeira do seu tio, o capitão-mor Baltazar Carvalho da Cunha, a antiga concessão havia se perdido, solicitando uma nova carta.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0283"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0283
+Carta de concessão a Teresa da Cunha de Carvalho - 23/06/1742
+Registo de uma carta de data de 3 léguas de comprido, e duas de largo concedida a
+Teresa da Cunha de Carvalho no sítio chamado a Fazenda de Cima.
+ 
+João de Abreu de Castelo Branco do concelho de Sua Majestade, governador e capitão
+general do estado do Maranhão. Faço saber aos que esta minha carta de data, e sesmaria
+virem que Teresa da Cunha de Carvalho, me representou que ela, como herdeira de seu
+tio, o capitão-mor Bernardo Carvalho da Cunha, primeiro descobridor das terras do
+Parnaguá, era possuidora de uma fazenda a que chamada a fazenda do Meio, digo, a
+Fazenda de Cima no dito Parnaguá, da qual havendo seus antecessores mercê de data,
+esta se perdeu indo a confirmar à corte de Lisboa, razão porque me pedia fosse servido
+conceder-lhe, em nome de Sua Majestade, por nova data e sesmaria 3 léguas de terra de
+comprido, e duas de largo no dito sítio da fazenda de Cima principiando da paragem a
+que chamam o Jenipapeiro, até outra a que chamam o riacho da espingarda, fazendo
+pião na parte em que a dita Fazenda está situada. Ao que atendendo, e a informação do
+provedor-mor da Fazenda Real e ser em utilidade da mesma Fazenda, cultivarem-se as
+terras neste Estado. Hei por bem conceder, em nome de Sua Majestade, 3 léguas de
+comprido e duas de Largo, no Sítio em que está estabelecida a Fazenda de Cima,
+fazendo nela pião, correndo para as partes mencionadas, com as condições expressadas
+nas Reais Ordens. E com a de não fazer trespasse por meio algum em nenhum tempo a
+pessoa alguma, religião, ou comunidade, sem primeiro dar parte na Casa da Fazenda ao
+provedor-mor dela para se me fazer presente, e ver se deve ou não consentir no tal
+trespasse sob pena de ficar nula esta data e se poder conceder novamente a outrem. E
+nesta forma se lhe passa carta para que a dita Teresa da Cunha de Carvalho haja, logre, e
+possua as ditas terras como coisa sua própria, e todos os seus herdeiros ascendentes, e
+de descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso
+Senhor, dos frutos que nelas houver e lavrar. A qual conceção lhe faço não prejudicando
+a terceiro, nem a Sua Majestade se no dito sítio quiser mandar fazer alguma vila,
+reservando os paus reais que nelas houver para embarcações com declaração que
+mandará confirmar esta data por Sua Majestade dentro dos 3 anos primeiros seguintes, e
+dará caminhos públicos e particulares aonde forem necessários para pontes, fontes,
+portos e pedreiras, e se demarcará ao tempo da posse por rumo de corda, e braças
+craveiras como é estilo e Sua Majestade manda. E outrossim não sucederão nelas
+religiões, ou outras pessoas eclesiásticas por nenhum título que seja, e acontecendo
+possuí-las, será com o encargo de pagar delas dízimos a Deus, como se fossem
+possuídas por seculares. E faltando a qualquer destas cláusulas, se haverão as ditas
+terras por devolutas, e se darão a quem as denunciar, como o dito Senhor ordena. Pelo
+que mando ao provedor mor da Fazenda Real, mais, ministros, e pessoas a que tocar,
+que na forma Referida, e condições já expressadas deixem ter, e possuir as ditas terras a
+dita Teresa da Cunha de Carvalho como coisa sua própria, e todos os seus herdeiros
+ascendentes e descendentes. Cumpram e guardem esta minha carta de data e sesmaria,
+tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada, e
+selada com o sinete de minhas armas que se registrará aonde tocar, e se passou por duas
+vias. Dada na cidade de São Luis de Maranhão aos 23 de junho, ano do nascimento de
+Nosso Senhor Jesus Cristo de 1742. E eu, José Gonçalves da Fonseca, secretário do
+Estado, a fiz. //João de Abreu de Castelo Branco//.
+-
+Fim da Transcrição -
+
+Observações:
+O nome da sesmeira, tal como consta no documento, é Tereza da Cunha Cravalha.
+Obedecendo a padronização proposta, seu nome foi atualizado para Teresa da Cunha
+Carvalho.
+O nome de seu tio aparece como Bernardo Cravalho da Cunha, sendo o primeiro
+sobrenome entendido como uma variação para Carvalho, e deste modo foi alterado
+conforme a padronização.
+Referência:
+APEP, Livro 10, doc. 198, fls. 137-138.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

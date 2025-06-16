@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0126
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Gonçalves Figueira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-04-1707",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada entre os rios Verde e Itaquy, nos campos chamados Tubatinga.",
+  "Localidade": "Tubatingas",
+  "Marcos Geográficos": "Rio verde; rio Itaquy.",
+  "Observações da petição": "A petição foi feita por Antônio Gonçalves Figueira  e mais quatro pessoas: o capitão-mor Manuel Afonso de Siqueira, Pedro Nunes de Siqueira, Miguel Gonçalves Figueira, João Gonçalves Figueira. Eles solicitaram 30 léguas em quadra de terra para dividir entre eles.",
+  "Justificativas": "Não tinha terras; Pretendia criar gado; Pretendia instalar fábricas; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador concordou com o pedido dos suplicantes. O provedor afirmou que não deveriam ser concedidas mais do que três léguas de comprimento e uma de largura a cada um. O governador concedeu três léguas de comprimento e uma de largura à Antônio Gonçalves Figueira, não mencionando os demais suplicantes, pois como era frequente, em diversas ocasiões, quando tinha mais de um suplicante, as concessões das sesmarias ocorriam em registros diferentes, dando a cada um uma doação individual.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.\r\n",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Luís da Costa Faria",
+  "Nome do procurador": "Diogo Pacheco Carvalho",
+  "referencia": "BA0126"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro do alvará porque se concedeu e deu de sesmaria a Antônio Gonçalves Figueira uma 
+légua de terra de largura e 3 de comprimento na parte que pede em sua petição 
+Luiz César de Menezes, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que tendo respeito a se me representar petição cujo o 
+teor é o seguinte: Senhor, dizem o capitão-mor Manuel Afonso de Siqueira, e seus irmãos 
+Antônio Gonçalves Figueira, capitão Pedro Nunes de Siqueira, Miguel Gonçalves Figueira, 
+João Gonçalves Figueira que eles hão mister terras para criar gados e para as mais misteres e 
+aumento de suas famílias, e porque os suplicantes descobriram de presente as terras dos campos 
+chamados Tubatingas, vizinhas das vertentes do Rio Verde, Itaquy, da repartição desta 
+capitania, a quais terras estão vagas como terras sem antes nunca povoadas, e os suplicantes 
+tem fazenda fábricas e poder para povoar e defender as ditas terras, e a eles lhes pertence como 
+descobridores delas. Portanto, pedem a Vossa Senhoria que lhes faça mercê conceder de 
+sesmaria os ditos campos Tubatingas 30 léguas em quadra, na forma que melhor os poderem 
+acomodar, sem prejuízo de terceiro. E receberá mercê. E visto o seu requerimento e o que acerca 
+dele respondeu o doutor procurador da Coroa e Fazenda Real, Diogo Pacheco Carvalho a que 
+se deu vista que é o que seguinte: alegam os suplicantes terem devoluto as terras dos campos 
+chamados Tubatinga junto das vertentes do Rio Verde as quais nunca foram povoadas e se 
+acham vagas. Sendo assim, não se me oferece dúvida a que se conceda esta sesmaria aos 
+suplicantes, obrigando-se a povoa-las na forma da ordenação, título das sesmarias, para que 
+com isso se aumentasse os dízimos à Fazenda Real. Bahia, 6 de abril de 1707 // Pacheco // E a 
+informação do provedor-mor da mesma Fazenda que é a seguinte: Senhor, ao procurador da 
+Fazenda Real se não me oferece dúvida. Porém, a quantia das léguas se devem obedecer as 
+ordens de Sua Majestade, que Deus guarde, que é a cada sesmeiro até 3 léguas de comprimento 
+e uma de largura, e a esse respeito a mesma quantidade, e no caso que essas terras tenham éreos 
+confinantes, antes que os suplicantes tomem posse, devem fazer citados para ele, sem o que a 
+não poderão tomar em lhe valerá não constando nas cartas das sesmarias fé das citações antes 
+do auto da posse, que nela se há de escrever, aliás lhe não ficará o alvará repugnante de boa fé; 
+esta é a forma com que neste tempo se consumam passar estas sesmarias. Vossa Senhoria 
+ordenará o que for servido. Bahia, 7 de abril de 1707 // Luís da Costa Faria // Hei por bem de 
+conceder e dar de sesmaria em nome de Sua Majestade, que Deus guarde, a Antônio Gonçalves 
+Figueira, para ele e seus descendentes, uma légua de terra de largura e 3 de comprimento, 
+principiando a demarcação na parte que pede e confronta em sua petição, não prejudicando a 
+terceiro e na mesma forma que apontam os ministros da Fazenda Real e nas informações acima 
+escritas e com todas as mais cláusulas contidas na ordenação do Reino na ordenação de título 
+de sesmarias, as quais terras aproveitará no termo da lei, e as não poderá alhear nem passar a 
+outro algum domínio sem as ter aproveitado com condição de se darem logo neste caso a quem 
+a outra pessoa, nem o poderá fazer sem expressa ordem de Sua Majestade e com as mais 
+cláusulas contidas na ordenação do Reino, título de sesmarias e forma do capítulo 26 do 
+regimento novo deste governo geral, as quais terras terá e possuirá com todas as suas águas, 
+campos, matos, testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento 
+de foro, tributo ou pensão alguma, salvo dízimo à ordem de Cristo que pagará dos frutos que 
+nelas houver, e por esta será obrigado a dar caminhos particulares para fontes, pontes e 
+pedreiras, com especial declaração que que havendo nas ditas terras alguma aldeia de índios 
+não ficará o dito Antônio Gonçalves Figueira  senhor dela e nem das terras que ocuparem os 
+tais índios como apontam os ministros da Fazenda Real, na forma das novas ordens de Sua 
+Majestade. Pelo o que mando aos ministros e oficiais de justiça, a que o conhecimento 
+pertencer, que tendo precedido diligências apontadas pelo provedor-mor da Fazenda Real ao 
+seu parecer, deem e lhe façam dar ao dito Antônio Gonçalves Figueira de Siqueira a posse real, 
+
+efetiva e atual demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa da 
+Fazenda Real de onde se registrará. Para a firmeza do que lhe mandei passar a presente sob o 
+sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, Fazenda 
+Real dele e nos do escrivão de sesmarias desta cidade e mais a que tocar, se guardará e cumprirá, 
+tão pontual e inteiramente como nele se contém, sem dúvida nem contradição alguma. // Luís 
+da Costa Sepúlveda // o fez nesta cidade do Salvador, Bahia de Todos os Santos aos 12 dias do 
+mês de abril, ano de 1707 // Gonçalo Ravasco Cavalcante de Albuquerque // a fiz escrever // 
+Luís Gerardo de Menezes // Selo // Alvará porque Vossa Senhoria teve por bem conceder e dar 
+de sesmaria em nome de Sua Majestade, que Deus guarde, Antônio Gonçalves Figueira  , para 
+ele e seus descendentes uma légua de terra de largura e 3 de comprimento, principiando a 
+demarcação, principiando onde acaba a data do capitão-mor Manoel Afonso de Siqueira na 
+parte que pede e confronta em sua petição não prejudicando a terceiro e na mesma forma que 
+aponta o provedor-mor da Fazenda Real em sua informação e as cláusulas que é de estilo pelas 
+respostas acima declaradas. Para Vossa Senhoria ver. Registrado no livro 5° dos registros da 
+secretaria do Estado do Brasil, a que toca as folhas 191v. Bahia, 27 de abril de 1707 // Faria // 
+Mathias Miranda de Oliveira // a registrou em no dito mês e ano.  
+ 
+- Fim da Transcrição – 
+ 
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “Capitão-mor Manoel 
+Afonso de Siqueira”; “Antonio Gonçalves Figueira”; “Capitão Pedro Nunes de Siqueira”; 
+“Miguel Gonçalves Figueira”; “João Gonçalves Figueira”. 
+ 
+Referências: 
+AN, Códice, fls. 203v – 205. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

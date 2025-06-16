@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0023
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0045",
+  "Nome": "Antônio Pereira de Veras, João Pereira de Veras",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "05-08-1707",
+  "Data da concessão": "08-08-1707",
+  "Observações da sesmaria": "Os suplicantes requereram três léguas de comprimento e uma légua de largura para cada um. As primeiras três léguas localizavam-se ao longo do rio Ubatuba e as outras três léguas ao redor das bases do morro Arapuá-Assú.",
+  "Localidade": "Rio Ubatuba, Morro Arapuá-Assú",
+  "Marcos Geográficos": "Rio Ubatuba, Morro Arapuá-Assú",
+  "Justificativas": "As terras eram devolutas; Serviu a Sua Majestade; Tinha gado; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Observações das exigências": "O governador Sebastião de Castro Caldas ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Sebastião de Castro Caldas ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Sebastião de Castro Caldas ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0023"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0023 
+ 
+Carta de doação e sesmaria de João Pereira de Veras e Antônio Pereira de Veras – 08/08/1707 
+ 
+SESMARIA QUE SE PASSOU AO CORONEL JOÃO PEREIRA DE VERAS E ANTÔNIO 
+PEREIRA DE VERAS =. 
+ 
+Sebastião de Castro Caldas, do Conselho de Sua Majestade, comendador da comenda de Santa 
+Maria de Cavilham da Ordem de Cristo, governador de Pernambuco e mais capitanias anexas e etc. 
+Faço saber aos que esta carta de doação de sesmaria virem que o coronel João Pereira de Veras e 
+Antônio Pereira de Veras me representaram a petição cujo teor é o seguinte: Senhor. Dizem o 
+coronel João Pereira de Veras e Antônio Pereira de Veras, moradores na ribeira Crujaú, distrito 
+destas capitanias de Pernambuco e nele servindo a Sua Majestade, que Deus guarde, que eles 
+suplicantes descobriram umas terras capazes de criar gados, e porque não tem terras próprias e 
+estarem as ditas devolutas com prejuízo da Fazenda Real e terem os suplicantes bastantes gados 
+para povoarem; portanto, pedem a Vossa Senhoria lhes faça mercê em nome de Sua Majestade dar 
+por data e sesmaria a cada um dos suplicantes três léguas de terra de comprido e uma de largo, 
+principiando as primeiras três léguas na primeira água doce dos salgados pelo rio Ubatuba acima e 
+outras três principiando ao pé do morro Arapuá-assú, nome do gentio da terra, e havendo nas ditas 
+paragens sobras, também as pedem com todos os seus logradouros que se acharem para eles e seus 
+herdeiros. E receberá mercê. = Informe o provedor da Fazenda, ouvindo o procurador da Coroa. 
+Recife, 5 de agosto de 1707. = Rubrica = Haja vista ao doutor procurador da Coroa. Recife, 5 de 
+agosto de 1707. = Barros. = Não tenho dúvida a que se deem aos suplicantes a sesmaria três léguas 
+de terra para cada um, tão somente nas partes que confrontam, sendo a data feita na forma da 
+Ordenação Livro 4.° título 43 = pagando o foro na forma das ordens de Sua Majestade e assento da 
+junta. Recife, 5 de agosto de 1707. = Pereira - Senhor. Com a resposta e parecer do doutor 
+procurador da Coroa, informo a Vossa Senhoria para mandar o que for servido. Recife, 7 de agosto 
+de 1707. João do Rego Barros. = Na forma da informação do procurador da Fazenda, se lhe passe 
+carta como é estilo. Recife, 8 de agosto de 1707. = Rubrica = E havendo, outrossim, respeito ao que 
+Sua Majestade me concede no capítulo 15 do regimento deste Governo. Hei por bem fazer mercê 
+dar aos suplicantes acima nomeados, como pela presente dou de sesmaria em nome de Sua 
+Majestade, que Deus guarde, nos mesmos lugares confrontados em sua petição seis léguas de terra, 
+três por cada um, contínuas e ordinárias na forma que declara o doutor procurador da Coroa e 
+Fazenda, os quais começarão a medir ditas terras da primeira água doce dos salgados pelo rio 
+Ubatuba acima, pagando por cada uma légua quatro mil reis, os quais povoarão ditas terras no 
+tempo de cinco anos, aliás se darão por devolutas e as possuirão e gozarão os ditos suplicantes e 
+seus herdeiros, não prejudicando a terceiro com todas as suas matas, campos testadas, logradouros e 
+
+mais úteis que nelas se acharem, não prejudicando a terceiro com todas as suas, digo, e serão 
+obrigados a dar pelas ditas terras caminhos livres ao Conselho para fontes, pontes ou pedreiras, e a 
+requerer a confirmação desta data por Sua Majestade, que Deus guarde, no tempo de dois anos. Pelo 
+que ordeno a todos os ministros da Fazenda e Justiça destas capitanias a que o conhecimento desta 
+carta pertencer, lhe façam dar a posse real, efetiva e atual, na forma costumada e debaixo das 
+cláusulas referidas e das mais da Ordenação Livro 4.° título 43. Dada neste Recife de Pernambuco, 
+aos 8 dias do mês de agosto = José de Brito Menezes a fez = ano de 1707. O secretário, Antônio 
+Barbosa de Lima, a fez escrever = Sebastião de Castro Caldas. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 153 - 154. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

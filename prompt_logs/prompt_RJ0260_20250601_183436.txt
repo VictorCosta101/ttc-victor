@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0260
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Leonardo da Silva Cardoso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "18-10-1737",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na capitania de Campos dos Goitacazes",
+  "Ribeira": "Paraíba, Ororaí",
+  "Confrontantes": "Terras de Domingos Álvares Peçanha e de Salvador Pereira de Carvalho",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se do suplicante ainda que seria \"obrigado a fazer os caminhos de sua testada, fazendo-lhe pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso que necessite de barca para se atravessar, ficará reservada de uma margem dele meia légua ao menos para ficar em público\". Determinou-se ainda que reservasse em sua data os paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0260"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0260
+Carta de concessão de Leonardo Cardoso da Silva de 18 de outubro de 1737
+Gomes Freire de Andrade, do conselho de Sua Majestade, governador e capitão-general das
+capitanias do Rio de Janeiro e São Paulo, com o governo das Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+petição Leonardo da Silva Cardoso, que na capitania do Campos dos Goytacazes pelo rio da
+Paraíba acima, no sertão do mesmo, da parte sul, entre os fundos de onde findam as datas de
+Domingos Alvares Peçanha, Salvador Pereira de Carvalho e o rio Ororaí, se acham muitas
+terras devolutas, sem terem senhorio e nem estarem cultivadas, pedindo-me lhe mandasse dar
+de sesmaria 1 légua de terras em quadra, principiando de onde findarem as datas dos
+sobreditos Domingos Alvares Peçanha e Salvador Pereira de Carvalho, começando dos
+fundos das mesmas, correndo o rumo para o rio Ororaí para a parte do sul até onde findar a
+dita légua, para cuja cultura se acha com bastantes escravos e no que se segue utilidade aos
+dízimos Reais; dando vista deste requerimento ao provedor da Fazenda Real e procurador da
+Coroa, aos quais se não ofereceu dúvida. Hei por bem fazer mercê, em nome de Sua
+Majestade, de dar por sesmaria ao dito Leonardo da Silva Cardoso 1 légua em quadra das
+ditas terras, na forma das ordens do mesmo Senhor e com as confrontações no seu
+requerimento acima expressadas; sem prejuízo de terceiro ou do direito que algumas pessoas
+possam ter a elas; com declaração que as cultivará e mandará confirmar esta minha carta por
+Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo; antes de tomar
+posse delas, as fará medir e demarcar judicialmente, sendo para este efeito notificadas as
+pessoas com quem confrontar; será obrigado a fazer os caminhos de sua testada, fazendo-lhe
+pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso que necessite de
+barca para se atravessar, ficará reservada de uma margem dele meia légua ao menos para ficar
+em público; nas ditas terras não poderá suceder em tempo algum pessoa eclesiástica ou
+religião, e sucedendo será com o encargo de pagar dízimos e outro qualquer que Sua
+Majestade for servido impor-lhe de novo, não os pagando se poderá dar a quem as denunciar;
+como também sendo o mesmo Senhor servido mandar fundar no distrito destas terras alguma
+vila o poderá fazer ficando estas livres, sem encargo algum ou pensão para o sesmeiro; não
+compreenderá esta data vieiros ou minas de qualquer gênero de metal que nas ditas terras se
+descobrir, reservando também os paus Reais; e faltando a qualquer das ditas cláusulas, por
+serem conforme as ordens de Sua Majestade ou as que dispõem a Lei e Foral das Sesmarias,
+ficará privado delas. Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento
+desta pertencer, dê posse ao dito Leonardo da Silva Cardoso das referidas terras na forma
+
+acima declarada. E por firmeza de tudo, lhe mandei passar a presente por mim assinada e
+selada com o sinete de minhas armas, que se cumprirá inteiramente como nela se contém, se
+registrará nos livros da Secretaria deste governo e nos da Fazenda Real dentro do tempo
+declarado no regimento de baixo da pena nele cuminada, e nos mais a que tocar. Dada nesta
+cidade de São Sebastião do Rio de Janeiro. Pedro Fagundes Varela, oficial da Secretaria, a fez
+aos 18 dias do mês de outubro de 1737. O secretário, José Ferreira da Fonte, a fez escrever.
+//Gomes Freire de Andrade//
+[Carta porque Vossa Excelência] há por bem dar de sesmaria a Leonardo da Silva Cardoso 1
+légua de terras em quadra na capitania dos Campos dos Goytacazes, na forma que acima se
+declarada.
+Para Vossa Excelência ver.
+Registre-se nos Livros da Fazenda Real. Rio, 24 de outubro de 1737.
+//Melo//
+Registrada em um Livro que serve nesta Secretaria do governo de registro das patentes,
+provedores e sesmarias a folha 226. Rio, 19 de outubro de 1737.
+//José Ferreira da Fonte//
+Registrada no Livro 10° do Tombo das Sesmarias que serve neste Cartório a folha [32]. Rio
+de Janeiro, [20] de [outubro] de 1737.
+//Francisco Xavier da Silva//
+Registrada no livro 26 de registros desta Provedoria a folha 229. Rio, 25 de outubro de 1737.
+//(ilegível)//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Leonardo da Silva Cardoso uma légua de terras, em quadra, na capitania da Paraíba do Sul,
+com as confrontações nela descritas. Rio de Janeiro, 18 de outubro de 1737.
+Referência:
+AHU_ACL_CU_017-1, Cx. 59\Doc. 13704
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

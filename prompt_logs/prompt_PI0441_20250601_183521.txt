@@ -1,0 +1,115 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0441
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Paulo Afonso",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "12-05-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"tem povoado com gado vacum e cavalar o sítio donde chamam a vila da Parnaíba\".\r\n",
+  "Localidade": "Sítio Vila de Parnaíba",
+  "Ribeira": "Igaraçu, Parnaíba",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Pretendia aumentar a cidade e a povoação; Não possuía as terras com justo título; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor-mor e pelo provedor da Fazenda Real, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0441"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0441
+Carta de Concessão a Paulo Afonso - 12/05/1728
+Agnelo Neves do Espírito Santo, chefe do Arquivo Público anexo à Biblioteca e Arquivo
+Público do Pará por nomeação efetiva, etc.
+Certifico de ordem do senhor doutor diretor da biblioteca e arquivo público do Pará, a
+requerimento verbal do senhor doutor Bernardo Borges Pires Leal, subprocurador geral do
+estado do Piauí, que revendo o livro número 4 de registro de cartas de datas de sesmarias,
+arquivado nesta repartição encontrei a folhas 68 o registro de carta concedida ao senhor Paulo
+Afonso aos 12 dias do mês de maio, do ano de 1728, o qual é do teor seguinte:
+Registro de uma carta de data de sesmaria a Paulo Afonso no sítio chamado vila do
+Parnaíba de 3 léguas de terra
+João da Maia da Gama, etc. Faço saber aos que esta minha carta de data e sesmaria virem que
+a mim me enviou a dizer por sua petição Paulo Afonso, que ele tem povoado com gado
+vacum e cavalar o sítio donde chamam a vila da Parnaíba, correndo pelo rio Igaraçú acima e
+abaixo, que será 3 léguas [sic] de terra de comprido e uma de largo, reservando terras inúteis.
+Portanto, me pedia fosse servido conceder-lhe as ditas terras por data de sesmaria, e
+atendendo eu as razões que alegava, como também ao que respondeu o provedor mor da
+Fazenda Real, a quem se deu vista, e ser em utilidade da Real Fazenda o cultivarem-se as
+terras neste estado. Hei por bem de conceder ao suplicante, em nome de Sua Majestade, que
+Deus guarde, 3 léguas de terra de comprido e uma de largo no sítio e lugar que pede, vistas as
+informações do dito provedor mor e escrivão da Fazenda Real e provedor dela. A qual
+concessão lhe faço sem prejuízo de terceiro e com as mais declarações expressadas nas Reais
+Ordens para que as haja, logre e possua como coisa sua própria e todos os seus herdeiros,
+ascendentes e descendentes, sem pensão nem tributo algum mais que o dízimo a Deus Nosso
+Senhor dos frutos que nelas tiver. A qual concessão lhe faço não prejudicando a terceiro e
+reservando os paus reais que nelas houver para embarcações com declaração que mandará
+confirmar esta carta por Sua Majestade dentro de 3 anos primeiros seguintes, e cultivará as
+ditas terras de maneira que deem frutos e dará caminhos públicos e particulares aonde forem
+necessários para [sic] pontes, fontes, portos e pedreiros, e se demarcará ao tempo da posse por
+rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E outrossim, não
+poderão nelas suceder religiões por nenhum título, e acontecendo possuí-las será com o
+encargo de pagarem dízimos a Deus como se fossem possuídas por seculares, e faltando a
+qualquer dessas cláusulas se haverão por devolutas e se darão a quem as denunciar, como o
+dito senhor ordena. Pelo que mando ao provedor-mor da Fazenda Real, mais ministros e
+pessoas a que pertencer, que na forma referida e com as condições expressadas deixem ter e
+possuir a dita terra ao dito Paulo Afonso para ele e todos os seus herdeiros, ascendentes e
+descendentes, como coisa própria. Cumpram e guardem esta carta tão inteiramente como nela
+se contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas armas,
+que se registrará onde tocar e se passou por duas vias. Dada nesta cidade de São Luís do
+Maranhão aos 12 dias do mês de maio, ano do nascimento de Nosso Senhor Jesus Cristo de
+1728. Eu, Manuel Rodrigues Tavares, secretário do Estado a fiz. João da Maia da Gama.
+E eu, Agnello Neves do Espírito Santo, chefe do Arquivo Público do estado a fiz escrever e
+assino. Belém, 16 de agosto de 1929 // Agnelo Neves do Espírito Santo // E/E por mim.
+16/08/1929 // A. N. E. Santo // visto. // Martinho Pinto //
+
+- Fim da Transcrição –
+Referência:
+APEP, Livro 4, doc. 90, fls. 68 – 68v.
+Observação:
+No documento original o nome do suplicante consta como Paullo Affonso, o que foi
+modificado para Paulo Afonso, seguindo a padronização proposta para a plataforma SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0110
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gervásio de Andrade Machado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-09-1698",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e três de comprimento e estava localizada entre os rios Jaguari e das Caravelas, Porto Seguro, fazendo fronteira com as terras de Manuel Gomes de Abreu (BA0109).",
+  "Localidade": "Porto Seguro",
+  "Marcos Geográficos": "Rio Jaguari; rio das Caravelas",
+  "Confrontantes": "Manuel Gomes de Abreu ",
+  "Justificativas": "As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda foi favorável ao pedido dos suplicantes, mas afirmou que era para o governador conceder as sesmarias de forma separada, como era costume, por isso nessa sesmaria apenas Gervásio de Andrade Machado recebeu a carta, o seu filho recebeu a sesmaria em outro registro (BA0111) O governador-geral concordou com o parecer do provedor.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Ramires ",
+  "referencia": "BA0110"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de um alvará de doação e sesmaria pelo qual se concedeu a Manuel Gomes de Abreu, 
+para ele e seus descendentes uma léguas de terra de largura no rio Jaguari do das caravelas, 
+correndo para o norte e 3 de comprimento para o sertão, começando de onde acaba a data de 
+Francisco Gonçalves das Chagas. 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que Manuel Gomes de Abreu me enviou a apresentar a 
+petição cujo teor é o seguinte: Senhor, diz Manuel Gomes de Abreu que o capitão-mor da 
+capitania de Porto Seguro lhe concedeu a carta de sesmaria junta, e por ele é necessário 
+confirma-la por este governo geral. Pede a Vossa Senhoria [que] lhe faça mercê confirmar e 
+dar, se necessário, em nome de Sua Majestade, que Deus guarde, a légua de largura no rio 
+Jaguari correndo para o norte e 3 de comprimento para o sertão, começando de onde acaba a 
+data de Francisco das Chagas, digo, Gonçalves das Chagas, como se contém na sesmaria junta. 
+E receberá mercê. E vista a informação do procurador da Coroa que se deu vista cujo o teor é o 
+seguinte: é conveniente a cultivarem a terra que pede, e com as condições da lei, não sendo em 
+prejuízo de terceiro. Bahia, 13 de setembro de 1695 // Rameras // e o parecer do provedor-mor 
+da Fazenda Real que também é o que se segue: Senhor, conformo-me com o que pareceu o 
+doutor procurador da Fazenda Real, mas não no número das léguas, visto que pela última ordem 
+de Sua Majestade, que Deus guarde, a sugerem se pode dar de sesmarias mais que 3 léguas de 
+terra, pelo que me parece [que] se deva mandar emendar a data inteira, do que na légua que 
+excede a dita ordem e sob as cláusulas e condições da lei, e o de perder o suplicante as 
+benfeitorias que houver feito se constar que cortou madeiras das que a lei do Reino defende, 
+para o serviço de Vossa Majestade, com o nome de paus Reais. Vossa Senhoria mandará o que 
+mais convém. Bahia, 17 de setembro de 1698 // Francisco Lamberto // Hei por bem de conceder 
+e dar em nome de Sua Majestade, que Deus guarde, ao dito Manuel Gomes de Abreu, para ele 
+e seus descendentes a dita légua de largura e 3 de comprimento no dito rio Jaguari, na forma 
+que confrontada em sua petição, não prejudicando a terceiro, como parece aos ministros da 
+Fazenda Real, e as aproveitará dentro do termo da lei, e as não poderá alhear nem passará a 
+outro algum domínio sem as ter aproveitado com condição de se darem logo neste caso a outra 
+pessoa, nem o poderá fazer sem expressa ordem de Sua Majestade e com as mais cláusulas 
+contidas na ordenação do Reino, título de sesmarias e forma do capítulo 26 do regimento novo 
+deste governo geral as quais terras terá e possuirá com todas as suas águas, campos, matas, 
+testadas, logradouros e mais úteis que nelas se acharem com foro livre e isento de tributo ou 
+pensão alguma, salvo o dizimo a ordem de Cristo que pagará pelos frutos que delas houver, e 
+por elas serão obrigados a dar caminhos públicos e particulares para fontes, pontes, portos e 
+pedreiras com declaração que se havendo nas ditas terras alguma aldeia de índios, não fique o 
+dito Gaspar da Costa senhor dela e nem das terras que ocuparem os índios na forma das novas 
+ordens de Sua Majestade. Pelo o que ordeno a todos os ministros e oficiais de justiça, a que o 
+conhecimento deva ou possa pertencer, [que] lhe façam dar e deem posse real, efetiva e atual 
+demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa dos contos de onde 
+se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o sinal e selo de minhas 
+armas do qual se registrará nos livros da secretaria do Estado, e nas mais a que tocar da Fazenda 
+Real dele e nos do escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente 
+como nele se contém sem dúvida, embargo nem contradição alguma. // Antônio Lopes // a fez 
+nesta cidade do Salvador, Bahia de todos os santos aos 17 dias do mês de setembro, ano de 
+1698 // Gonçalo Ravasco Cavalcante e Albuquerque // a fiz escrever // Dom João de Lencastro 
+// selo // Alvará de doação e sesmaria pelo qual foi Vossa Senhoria Ilustríssima servido conceder 
+em nome de Sua Majestade, que Deus o guarde, Manuel Gomes de Abreu, para ele e seus 
+descendentes uma léguas de terra de largura no rio Jaguari do das caravelas, correndo para o 
+
+norte e 3 de comprimento para o sertão começando de onde acaba a data de Francisco Gonçalves 
+das Chagas como confirma em sua petição na parte que pede e confronta em sua petição nesta 
+inscrita e não prejudicando a terceiro como aponta o provedor-mor da Fazenda Real, nem as 
+aldeias e terras dos índios que nelas se acharem com as cláusulas e respeitos acima declarados. 
+Para Vossa Ilustríssima ver. Registrado no livro 5° dos registros da secretaria do Estado do 
+Brasil, que tocava as folhas 112. Bahia, 17 de setembro de 1698 // Lamberto // Registre-se. 
+Bahia, 22 de maio de 1698 // Lamberto // Leonardo Lopes de Carvalho // o registrou-se no dito 
+dia, mês e era. 
+ 
+- Fim de Transcrição- 
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Manoel Gomes de Abreu”. 
+ 
+Referências 
+AN, Códice 427 vol. 2, fls. 106 – 107. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

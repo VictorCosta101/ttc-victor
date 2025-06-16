@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0418
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Fernandes Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "27-04-1724",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \" povoara 4 léguas abaixo onde o rio Itaueira fazia barra e desaguava no rio Parnaíba\".\r\n",
+  "Localidade": "Sítio não identificado no rio Parnaíba",
+  "Marcos Geográficos": "Riachão de São Marcos",
+  "Ribeira": "Rio chamado [Marcelo]",
+  "Confrontantes": "Vitória",
+  "Justificativas": "Alegou que já pagava o dízimo havia um tempo; Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia instalar fábricas; As terras eram habitadas pelo gentio; Tinha gado vacum; Tinha gado cavalar; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; Solicitou isenção de pagamento de pensão; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0418"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0418
+Carta de Concessão a João Fernandes Lima - 27/04/1724
+Agnelo Neves do Espírito Santo, chefe do Arquivo Público do Estado, anexo á Biblioteca e
+Arquivo Público do Pará, por nomeação efetiva etc.
+Certifico, de ordem do doutor diretor da Biblioteca e Arquivo Público do Pará, a requerimento
+verbal do doutor Bernardo Borges Pires Leal, subprocurador-geral do Estado do Piauí, o teor
+da carta de data e sesmaria concedida a Gabriel, digo, João Fernandes Lima do Piauí, a 27 de
+abril de 1724 e que se acha registrado ás folhas 141 a 142 verso do livro 1 da coleção
+arquivada nesta repartição, o qual é o seguinte:
+Registro de uma data de João Fernandes Lima do Piauí.
+João da Maia da Gama etc. Faço saber, aos que esta minha carta de data e sesmaria virem, que
+assim me enviou a dizer, por sua petição, João Fernandes Lima, que ele havia 25 anos era
+morador na capitania do Piauí, sertão da Parnaíba, da parte do Maranhão, em terras que se
+habitaram gentios de várias nações bárbaras; e ele, suplicante, povoara 4 léguas abaixo onde o
+rio Itaueira fazia barra e desaguava no rio Parnaíba, povoara da outra parte do Norte rio
+abaixo, até onde chamavam a Vitória cortando rumo e vertentes de Itapecurú, terras que ainda
+hoje estão assolando os gentios de Mandu Ladino, onde o suplicante tinha recolhido
+considerável perda; e onde, já no ano de 714, perdera a vida o capitão Francisco Ferreira
+Colaço, tio do suplicante, em defesa das mesmas terras e 5 homens brancos, fâmulos de sua
+casa, 5 escravos do gentio de Guiné e até o presente tinha recebido de diminuição 18.000
+cabeças de gado e 72 cavalgadeiras, muitos anos de fogo e ferramentas; e como o suplicante
+faria frente ao bárbaro gentio, fronteira com poder de armas escravos e sua pessoa própria,
+escapando muitas vezes com alguns homens e escravos, cortando e rompendo sertões brabos,
+livrando-se das mãos do gentio; o que além de ser cousa notória, o justificaria se necessário
+fosse e como o suplicante se achara com bastantes gados vacuns e cavalares e mais fábricas
+para as criar e ser conveniente aos dízimos reais. Me pedia fosse servido conceder-lhe um
+sítio com as larguras convenientes para os gados que possuía, fazendo pião onde desaguava o
+rio chamado de [Marcelo], no rio Parnaíba, ficando rio abaixo para a parte do Norte, dentro da
+data á Victoria e no riachão de São Marcos com todas as suas vertentes, por serem terras que
+estavam cultivando com gado do suplicante; e queria lhas concede-se, em nome de Sua
+Majestade, que Deus guarde, na forma referida em remuneração do sobredito. E atendendo as
+razões que alegou, como também ao que respondeu o doutor provedor-mor da Fazenda Real,
+a quem mandei informar. Hei por bem, de conceder, em nome de Sua Majestade, que Deus
+guarde, por carta de data e sesmaria, ao dito João Fernandes Lima, 3 léguas de comprido e
+uma de largo na paragem acima declarada para que haja, logre e possua como cousa própria e
+todos seus herdeiros, ascendentes e descendentes, sem pensão, nem tributo algum, mais que o
+dízimo a Deus, Nosso Senhor, dos frutos que nelas tiver; a qual concessão lhe faço, não
+prejudicando a terceiro e reservando os paus reais que nelas tiver para embarcações; com
+declaração que mandará confirmar esta carta, por Sua Majestade, dentro de 3 anos primeiros
+seguintes e cultivará as ditas terras de maneira que dêem frutos; e dará caminhos públicos e
+particulares, aonde forem necessários, para pontes, fontes, portos e pedreiras; e se demarcará
+ao tempo da posse por rumo de corda e braças craveiras, como é estilo e Sua Majestade
+manda. E outrossim, não poderão nelas suceder religiões por nenhum título, e acontecendo
+possuí-las, será com o encargo de pagarem delas dízimos a Deus, como se fossem possuídas
+por seculares; e faltando a qualquer dessas cláusulas, se haverão por devolutas e se darão a
+quem as denunciar, como o dito Senhor ordena. Pelo que mando ao doutor provedor-mor da
+
+Fazenda Real, mais ministros e pessoas a que tocar, que na forma referida e com as condições
+declaradas, deixem ter e possuir as ditas 3 léguas de terra de comprido e uma légua de largo,
+nas partes já mencionadas, ao dito João Fernandes de Lima, para ele e todos seus herdeiros,
+ascendentes e descendentes, como cousa própria. Cumpram e guardem esta carta carta tão
+inteiramente como nela se contém, a qual lhe mandei passar, por mim assinada e selada com o
+sinete de minhas armas, que se registrará aonde tocar e se passou por duas vias. Dada na
+cidade de São Luís do Maranhão, 27 de abril, ano do nascimento de Nosso Senhor Jesus
+Cristo de 1724. José Duarte Cardoso, secretário do Estado, a fez. João da Maia da Gama.
+Era o que se continha no referido registro, que para aqui transcrevi bem e fielmente do próprio
+original, a que me reporto. Eu, Gualento Bessa de Oliveira, colaborador da Biblioteca e
+Arquivo Público do Pará, a escrevi. E eu, Agnelo Neves do Espírito Santo, chefe do Arquivo
+Público do Estado, a fiz escrever, certificar e assino. Belém, 19 de setembro de 1929 // Agnelo
+Neves do Espírito Santo // E/E por mim. 19/09/1929. visto: // Martinho Pinto //
+- fim da transcrição -
+Referência:
+Original: APEP, Livro 1, doc. 34, fls. 141 - 142v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

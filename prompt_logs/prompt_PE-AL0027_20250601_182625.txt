@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0027
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0291",
+  "Nome": "Baltazar Ferraz Castelo Branco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-09-1781",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de terra no riacho Saquita até o lugar chamado o Bosque, entre os engenhos Mangiruba, Cachoeira e Marreca.",
+  "Localidade": "Bosque",
+  "Marcos Geográficos": "Riacho Saquita, Bosque",
+  "Confrontantes": "Engenho Mangiruba, Engenho Cachoeira, Engenho Marreca",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia fazer engenho de açúcar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/01/1699; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0027"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0001 
+Carta de doação e sesmaria de Baltazar Ferraz Castelo Branco – 03/09/1781 
+ 
+Baltazar Ferraz Castelo Branco com uma légua de terra no lugar chamado Saquita até o 
+Bosque, digo, até o lugar do Bosque entre o engenho Mangiriba etc. 
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e capitão 
+general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos que esta carta de 
+data de sesmaria virem, que Baltazar Ferraz Castelo Branco me enviou um requerimento do 
+teor e forma seguinte — Ilustríssimo e Excelentíssimo Senhor = Diz Baltazar Ferraz Castelo 
+Branco, morador na jurisdição do Porto Calvo, que pelo riacho Saquita, assim denominado, 
+acima e para baixo até o lugar chamado o Bosque, entre os engenhos Mangiruba, Cachoeira e 
+Marreca, há umas sobras de terras, que compreenderam de longitude uma légua de terra com 
+pouca diferença, as quais estão devolutas, pois até o presente nenhuma pessoa as ocupa por 
+título jurídico, que não há, e como o suplicante pretende erigir nelas um engenho de fazer 
+açúcar, o que resulta em utilidade pública e aumento da Real Fazenda, as quer o suplicante 
+por sesmaria na conformidade das Ordens de Sua Majestade Fidelíssima. Pede a Vossa 
+Excelência seja servido mandar lhe passar sesmaria das sobreditas sobras feitas as diligências 
+necessárias - E receberá mercê = E sendo por mim visto o seu requerimento, ordenei por 
+despacho meu de 8 de junho do presente ano aos oficiais da Câmara do respectivo distrito, 
+mandassem fixar editais na respectiva freguesia, para se saber ao certo estar ou nao devoluta a 
+mesma terra, e haver ou não terceiro prejudicado, e constando-me por informação dos ditos 
+oficiais, que assim o mandaram executar, não haver pessoa alguma que aos ditos editais 
+saísse. Por outro meu despacho da data de 27 de agosto do mesmo, mandei ouvir o escrivão 
+da Receita e Despesa, e assim mais responder o doutor procurador da Fazenda por outro de 30 
+de agosto do referido ano, e como todos uniformemente me responderam estar nos termos de 
+se dar ao suplicante a terra pedida de sesmaria, na forma confrontada em seu requerimento, 
+pagando anualmente o foro de seis mil réis por légua, por ser das que estão mais próximas a 
+Marinha, do que devia dar fiança na Contadoria da Real Fazenda. Ultimamente mandei por 
+despacho do 1 de setembro do mesmo, que se passasse sesmaria na forma da resposta do 
+doutor procurador da Fazenda Real e Coroa e escrivão da Receita e Despesa. Em cum-
+primento do qual e pela faculdade que Sua Majestade me permite no Capítulo 15 do 
+Regimento deste Governo. Hei por bem dar em nome da dita senhora ao dito Baltazar Ferraz 
+Castelo Branco, de sesmaria no lugar onde chamam o riacho Saquita, por ele acima e para 
+
+baixo até o lugar chamado Bosque, entre os engenhos Mangiruba, Cachoeira e Marreca, uma 
+légua de terra de longitude, na forma confrontada em seu requerimento, pagando o foro anual 
+de seis mil réis, por ser das que estão mais próximas a Marinha, na forma que determina a 
+Real Ordem de 28 de setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus 
+herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para sempre, com 
+todos os seus pertences, matas, campos, águas, rios, testadas, logradouros e mais úteis que ela 
+compreender, não prejudicando a terceiro. E não passará a dita a religiões e pessoas 
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, sendo 
+obrigado a dar ao Conselho caminhos livres para fontes, pontes e pedreiras, e requerer dentro 
+de três anos medição confirmação e demarcação, povoá-la e cultivá-la na conformidade da 
+Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim se dar por devoluta e 
+novamente ser conferida a quem a requerer, e com as mais obrigações de que nunca se 
+dividirá, nem partirá a referida terra, se não por estimação, andando sempre encabeçada em 
+uma só pessoa, como determina a ordem livro 4º título 97, § 23. Pelo que ordeno aos 
+ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e 
+guardar esta carta de data de sesmaria, como nela se contém, fazendo dar ao suplicante posse 
+real, efetiva e atual, na forma costumada, debaixo das referidas cláusulas e das mais da 
+Ordenação título das sesmarias, visto constar por bilhete que apresentou haver dado a fiança 
+do foro anual de seis mil réis na Contadoria da Real Fazenda, a folha 42 do livro 2º delas. Em 
+firmeza do que lhe mandei passar a presente por mim assinada e selada com o sinete das 
+minhas armas, que se registrará na Secretaria deste Governo e Contadoria da Real Fazenda = 
+Manoel Barbosa da Silva Garcia, oficial maior da Secretaria do Governo, a fez no Recife de 
+Pernambuco, aos 3 dias do mês de setembro, Ano do Nascimento de Nosso Senhor Jesus 
+Cristo de 1781 = O secretário do Governo, Paes de Andrade, a fez escrever = José Cezar de 
+Menezes. 
+- Fim da carta - 
+ 
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p. 
+261 - 264. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

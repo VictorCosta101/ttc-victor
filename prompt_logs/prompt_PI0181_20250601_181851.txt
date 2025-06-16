@@ -1,0 +1,113 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0181
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antonio da Silva Moura",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "10-10-1735",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Fazenda São José",
+  "Ribeira": "Parnaíba, riacho Itaquera",
+  "Confrontantes": "Morro do Bom Jardim, Retiro da mesma fazenda",
+  "Justificativas": "Tinha gado vacum; Tinha gado cavalar; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Pretendia apascentar gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia obter o título das terras.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Deve possuir como coisa sua própria e faltando a quaisquer cláusulas se haverá as ditas terras por devolutas e se darão a quem as denunciar.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0181"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0181
+Carta de concessão a Antonio da Silva Moura - 10/10/1735
+Registro de uma carta de data passada a Antonio da Silva Moura, morador na capitania
+do Piauí.
+Jose da Serra, etc. Faço saber, aos que esta minha carta de data e sesmaria virem, que a mim
+me enviou a dizer, por sua petição, Antonio da Silva Moura, sargento-mor e morador na
+capitania do Piauí, a beira do rio Parnaíba, que haviam 11 anos comprara o gado vacum e
+cavalar que se achava situado na fazenda a que chamam São José, a beira do mesmo rio da
+Parnaíba, fronteiro ao riacho da Itaquera, da parte direita rio acima, cuja fazenda estava
+[parada] havia mais de 40 anos. E porque esta se achava quase como devoluta, por não ter
+carta de data e sesmaria ou confirmação de Sua Majestade, queria naquele mesmo lugar, visto
+ter nelas situado os gados comprados, 3 léguas de terra de comprido e uma de largo, fazendo
+pião no morro do Bom Jardim e Retiro da mesma fazenda. Me pedia lhe concedesse, em
+nome de Sua Majestade, as ditas 3 léguas de terra de comprido e uma de largo, para nelas
+poder apascentar os ditos gados, e receberia mercê. E atendendo eu as suas razões, e ao que
+respondeu o provedor da Fazenda Real de São Luís, a que se deu vista, e ser em utilidade da
+mesma Fazenda cultivarem-se as terras neste Estado. Hei, por bem, de conceder ao dito
+Antonio da Silva Moura, em nome de Sua Majestade, as ditas terras na paragem que pede,
+com as confrontações que declara e condições expressadas nas Reais Ordens. E com a
+condição de não fazer trespasse por meio algum, em nenhum tempo, a pessoa alguma,
+comunidade ou religião, sem que primeiro dê parte na casa da Fazenda ao provedor dela, para
+se me fazer presente e ver se se deve ou não consentir no tal trespasse, sob pena de se
+conceder novamente a outrem. E nesta forma, se lhe passa sua carta para que as haja, logre e
+possua como coisa sua própria para ele e seus herdeiros, ascendentes e descendentes, sem
+pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos frutos que nela
+estiver, a qual concessão lhe faço não prejudicando a terceiros nem a Sua Majestade, se na tal
+paragem quiser mandar fundar alguma Vila, reservando os paus Reais que nelas houver para
+embarcações com declaração que mandará confirmar esta carta por Sua Majestade dentro de 3
+anos primeiros seguintes E cultivará as ditas terras de maneira que dê frutos e dará caminhos
+públicos e particulares aonde forem necessárias para pontes, fontes, portos e pedreiras, e se
+demarcará, ao tempo da posse, por rumo de corda e braças craveiras, como é estilo e Sua
+Majestade manda. E outrossim, não poderão nelas suceder religiões por nenhum título. E
+acontecendo, possuí-las será com o encargo de pagar dízimos a Deus como se fossem
+possuídas por pessoas seculares. E faltando a qualquer cláusula destas, se haverão por
+devolutas e se darão a quem as denunciar como dito Senhor ordena. Pelo que mando ao
+provedor-mor da Fazenda Real. Pelo que mando ao provedor, mais ministros e pessoas a que
+tocar que na forma referida deixem ter e possuir as ditas terras ao dito Antonio da Silva
+Moura para ele e seus herdeiros, ascendentes e descendentes. Cumpram e guardem esta minha
+carta tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas, que se registrará onde tocar, e se passou por duas vias.
+Dada nesta cidade de Belém do Pará, aos 10 dias de outubro do ano do nascimento de Nosso
+Senhor Jesus Cristo de 1735. Antonio da Rocha Machado, secretário do Estado, a fez
+escrever. //José da Serra//.
+
+- Fim da Transcrição -
+Referência:
+APEP, Livro 7, doc. 256, fls. 181v-183.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

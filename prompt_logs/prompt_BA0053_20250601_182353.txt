@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0053
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel da Silva de Agrela",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-05-1677",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas de comprimento e uma de largura, localizada em Jacuruna, no limite do rio Mocaraina, fazendo fronteira com as terras de Duarte Hosquer.",
+  "Localidade": "Jacuruna",
+  "Marcos Geográficos": "Rio Mocaraina",
+  "Confrontantes": "Duarte Hosquer",
+  "Observações da petição": "O sesmeiro pediu meia légua de largura e três de comprimento.",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Solicitou as terras para si e seus herdeiros; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda afirmou que deveriam ser concedidas duas léguas de comprimento e meia légua de largura e que não era necessário medir as terras solicitadas nem verificar os vizinhos, pois o solicitante ainda não tinha a terra e caso ele descobrisse que as terras já estavam em posse de outra pessoa, esta o embargará e pedirá medição. A junta governativa interina concordou com o provedor e concedeu as medidas indicadas.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "José Lopes de Ulhôa ",
+  "referencia": "BA0053"
+}
+
+            **Conteúdo Original** (extrato):
+            Registro de um Alvará de sesmaria de meia légua de terra de largura e duas de comprimento 
+que se concedeu ao alferes Manuel da Silva de Agrela no limite do rio de Mocaraina 
+ 
+Governo do Estado do Brasil. Fazemos saber aos que este Alvará de doação e sesmaria virem 
+que o alferes Manoel da Silva de Agrela nos enviou a representar por sua petição, cujo teor é o 
+seguinte. Senhor. Diz o alferes Manuel da Silva de Agrela, casado e morador na praia desta 
+cidade, que em Jacoruna, no limite do rio de Mocaraina, vendeu Diniz Gonçalves a Duarte 
+Hosquer, o velho, meia légua de terra em quadra que houve por carta de sesmaria no ano de 
+1609, e porquanto, nas cabeceiras onde acaba a quadra da dita meia légua de terra, há terra 
+devoluta para o sertão que ele, suplicante, quer cultivar, dando-se-lhe de sesmaria os sobejos 
+que é meia légua de largura com o comprimento para o sertão, que será duas léguas ou 3, pouco 
+mais ou menos, até partir com as outras datas que se tem dado com todas as suas entradas e 
+saídas, possessões e logradouros para ele e seus herdeiros e sucessores. Pede a Vossa Senhoria 
+seja servido, em nome de Sua Alteza, de lhe dar de sesmaria os ditos sobejos de terra, não 
+prejudicando a terceiro. E receberá mercê. E visto a informação do provedor-mor da Fazenda 
+Real que é a que se segue. Senhor. Parece-me que se deve deferir ao suplicante, concedendo-
+lhe nos sobejos da terra que aponta a meia légua de largura e duas de comprimento, e ainda que 
+o procurador da Fazenda diz em sua resposta, que se meçam os sobejos primeiro citados, os 
+hereus com quem confrontam, entendo que não é necessário porque a medição se não poderá 
+fazer por não ter título o suplicante para requerer antes de ser dono da terra, e assim bastará que 
+se lhe conceda esta meia légua de largura e duas de comprimento, na forma do regimento e 
+ordens de Sua Alteza, sem prejuízo de terceiro, porque havendo alguém que possua ao tempo 
+da posse esse a embargará, e requerirá a medição. Vossa Senhoria mandará o que for servido. 
+Bahia, 10 de maio de  1677 // José Lopes de Ulhoa // Havemos por bem de conceder e dar de 
+sesmaria, como pelo presente fazemos, em nome de Sua Alteza, ao alferes Manoel da Silva de 
+Agrela, meia légua de terra de largura e duas de comprimento, na forma que parece ao provedor-
+mor da Fazenda Real, e na parte que a pede e confronta em sua petição, não prejudicando a 
+terceiro, obrigando-se a povoá-las no termo da lei e regimento, pois nesta conformidade lhe as 
+concedemos com todas suas águas, campos, matos, testadas, logradouros e mais úteis que nelas 
+se acharem, tudo forro, livre e isento de pensão ou tributo algum, salvo dízimo a Deus que 
+pagará dos frutos que nelas houver, e por elas será obrigado a dar caminhos livres ao conselho 
+para fontes, pontes e pedreiras, e ao tempo da posse se medirá, dividirá e confrontará, citados 
+os vizinhos para se evitarem os grandes pleitos que se experimentam. Pelo que ordenamos a 
+todos os ministros de justiça a que o conhecimento deste com direito deva ou possa pertencer, 
+lhe façam dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas acima 
+referidas, e as mais da Ordenação, título Das Sesmarias. Para firmeza do que lhe mandamos o 
+presente, sob nosso sinal e selo das armas reais de que este governo uso, o qual se registrará nos 
+Livros da Secretaria do Estado e nos mais a que tocar, e se guardará e cumprirá tão pontual e 
+inteiramente como nele se contém, sem dúvida, embargo nem contradição alguma. Antônio 
+Garcia o fez nesta Cidade do Salvador, Bahia de Todos os Santos, aos 12 dias do mês de maio, 
+ano de 1677 // Bernardo Vieira Ravasco o fiz escrever // Agostinho de Azevedo Monteiro // 
+Álvaro de Azevedo // Antonio Guedes de Brito // Registrado no segundo Livro dos Registros 
+da Secretaria do Estado do Brasil, a que toca à folhas 41 verso. Bahia, 12 de maio de 1677 // 
+Ravasco // Registre-se nos livros a que tocar. Bahia, 18 de maio de 1677 // de Ulhoa // Registrou-
+se em 25 do dito mês e ano, e a entreguei ao suplicante. Eu, José Cardoso Pereira, oficial maior 
+do escrivão da Fazenda Real deste estado o escrevi // João Dias da Costa. 
+- Fim da transcrição - 
+ 
+Observações do documento: 
+ 
+
+- O nome original do sesmeiro no documento é Manoel da Silva de Aggrella; 
+- A carta não está contida na SILB; 
+ 
+Referências: 
+ 
+AN, Códice 427, fls. 118 – 119. 
+Numeração original no livro: 92 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

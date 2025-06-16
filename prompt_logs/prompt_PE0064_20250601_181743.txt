@@ -1,0 +1,137 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0064
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0119",
+  "Nome": "Luís Ferreira da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "19-02-1729",
+  "Data da concessão": "25-05-1730",
+  "Observações da sesmaria": "O sesmeiro requereu 33 braças de comprimento e 7 braças de largura na vila do Recife, na rua da Fortaleza de São Tiago das Cinco Pontas, na fronteira das casas de Luciano Gonçalves e da capela de Nossa Senhora do Terço.",
+  "Localidade": "Vila do Recife",
+  "Confrontantes": "Luís Gonçalves, Fortaleza de São Tiago das Cinco Pontas, Capela de Nossa Senhora do Terço",
+  "Justificativas": "Pretendia aumentar a cidade e a povoação; Pretendia fazer casa; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse direito aos sucessores; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador solicitou o parecer do tenente-general de artilharia, João de Macedo Corte Real, para averiguar se a construção de casas na área requerida prejudicava a fortaleza de São Tiago das Cinco Pontas.",
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento do foro no valor de 16.500 réis anuais. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE0064"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0064 
+Carta de doação e sesmaria de Luiz Ferreira da Cunha - 25/05/1730 
+SESMARIA AO AJUDANTE LUIZ FERREIRA DA CUNHA DE 330 PALMOS 
+DE TERRA DA BANDA DE ANTÔNIO DESTA PRAÇA DO RECIFE. 
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de 
+Sua Majestade, que Deus guarde, governador e capitão general de Pernambuco e mais 
+capitanias anexas e etc. Faço saber aos que esta carta de doação e sesmaria virem, que 
+por parte do ajudante Luiz Ferreira da Cunha, que me representou a petição do teor 
+seguinte: Diz Luiz Ferreira da Cunha, ajudante de número do terço de Infantaria pago 
+da guarnição desta Vila, que no terreno de Nossa Senhora do Terço da banda de Santo 
+Antônio, desta Praça do Recife, se acha um pedaço de terra do alagado onde finda a rua 
+das Cinco-Portas, digo, Pontas, até entestar com casas de Luciano Gonçalves, a qual 
+terra quer ele povoar fazendo nela casas térreas, fazendo-lhe Vossa Excelência mercê 
+dá-las de sesmarias com obrigação de foro novamente determinado para a Fazenda de 
+Sua Majestade, por as ditas terras serem realengas; portanto, pede a Vossa Excelência 
+lhe faça mercê,  atendendo ao em que tem servido a Sua Majestade a trinta e quatro anos 
+na mesma infantaria desta praça, dar-lhe os ditos chãos de sesmarias com referido foro, 
+e receberá mercê. — A qual petição mandei que informassem os engenheiros por 
+despacho de 19  de fevereiro de 1729, ao que responderam que os chãos que o 
+suplicante pede são alagados da maré cheia, e portanto, realengos, que tem de comprido 
+330 palmos, tirado um beco de 20 palmos  de largo que fica entre eles para a serventia 
+do povo, e tem de fundo da parte que olha para a Fortaleza das Cinco Pontas [...] 
+palmos, e da parte da Capela de Nossa Senhora do Terço 74 palmos somente em razão 
+da rua que fica por essa parte de 40 palmos de largo, e que nesta conferir lhes parecia se 
+deviam aforar ao suplicante, e que era o que podiam informar e que eu lhe diferisse com 
+a retidão e acerto que costumava em 22 de fevereiro de 1729 — João de Macedo Corte 
+Real - Diogo da Silveira Veloso — Com cuja resposta mandei que informasse o 
+procurador da Fazenda, por despacho de 4 de março de 1729: o qual disse que faria a 
+bem da Fazenda de Sua Majestade o que o suplicante pedisse, e assim que não duvidava 
+o seu requerimento em 8 de agosto de 1729 — Antônio Rodrigueis Pereira — Com o 
+que respondeu também o provedor da Fazenda Real, que a vista da informação do 
+
+tenente-general de artilharia e do sargento-mor em engenheiro, da qual se não aparta o 
+doutor provedor da Fazenda Real, me parece se faz atendível o requerimento do 
+suplicante, e que eu, com a atenção ao aumento da Real Fazenda de Sua Majestade, lhe 
+dê de sesmaria [...] palmos de terra com o foro que está arbitrado, e que eu mandasse o 
+que me parecesse justo em 22 de agosto de 1729 = João do Rego Barros — Com cujas 
+respostas mandei ao tenente-general de engenheiro, me declarasse o foro que deve pagar 
+o suplicante pelos palmos e qual  era sua importância, por despacho de 5 de setembro de 
+1729. E respondeu que lhe parecia que o suplicante devia pagar de foro pelos chãos que 
+pede a 50 réis por palmo da sua fronteira em cumprimento, e que nesta forma 
+importavam em 16$500 os 330 palmos que há nos ditos chãos e o suplicante pede, e que 
+eu lhe deferisse com a retidão e justiça que costumo, em 5 de setembro de 1729 — João 
+de Macedo Corte Real — E a vista de tudo, mandei por meu último despacho que se 
+passasse carta de sesmaria com a condição do suplicante pagar a 50 réis por palmo de 
+foro, que importam em 16$500 por ano a Fazenda Real os 330 palmos, que tem 
+princípio o seu pagamento do 1º de janeiro que vem a um ano, em 5 de setembro de 
+1729 = O que tudo visto e em virtude da faculdade que Sua Majestade me concede no 
+capítulo 15 do Regimento deste Governo; Hei por bem de dar de sesmaria ao suplicante 
+os 330 palmos de terra no mesmo lugar que confronta em sua petição, com todas suas 
+pertenças, logradouros e mais úteis que nelas houver, se tantos se acharem devolutos e 
+não prejudicando a terceiro, com a obrigação de pagar a 50 réis por palmo de foro a 
+Fazenda Real, que importam cada um ano em 16$500, que se começarão a vencer do 1º 
+de janeiro de 1731, para o que ordeno ao provedor da Fazenda Real lhe faça fazer 
+assento e carga por lembrança do referido foro que há de pagar a Fazenda Real, e ele ou 
+os ministros da Justiça a que tocar, lhe façam dar a posse real, efetiva e atual, na forma 
+do estilo, a qual terra logrará e seus sucessores sem dúvida alguma, com as referidas 
+cláusulas e de não passarem a religiosos por nenhum título, e que em algum tempo 
+suceda passarem será sempre com o mesmo foro, como se forem possuídas por 
+seculares na forma das ordens de Sua Majestade, perante quem recorrerá para a sua real 
+confirmação, que por firmeza de tudo lhe mandei passar a presente por  mim assinada e 
+selada com o sinete de minhas armas, que se registrará nos livros da Secretaria deste 
+Governo e nos da Fazenda Real = Dada nesta praça do Recife de Pernambuco, nos 25 
+dias do mês de maio — Bento Soares Pereira a fez — no ano de 1730 — O secretário 
+José Duarte Cardoso a fez escrever — Duarte Sodré Pereira Tibão — . 
+
+- Fim da carta - 
+Referência: 
+Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. V. 2. p. 03 - 
+05. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0439
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Mariana de Castelo Branco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "11-05-1728",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"tem povoado o sítio da lagoa Grande\".\r\n",
+  "Localidade": "Sítio da Lagoa Grande",
+  "Ribeira": "Parnaíba",
+  "Confrontantes": "Curralinho",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0439"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0439
+Carta de Concessão a Mariana de Castelo Branco - 11/05/1728
+Agnello Neves do Espírito Santo, chefe do arquivo anexo à Biblioteca e Arquivo Público do
+Pará, por nomeação efetiva, etc.
+Certifico de ordem do senhor doutor diretor da biblioteca e arquivo público do Pará, e a
+requerimento verbal do senhor doutor Bernardo Borges Pires Leal, subprocurador geral do
+estado do Piauí, que revendo o livro número 4 de registro de cartas de datas de sesmaria,
+arquivado nesta repartição, encontre as folhas 64 o registro de carta concedida a Dona
+Mariana de Castelo Branco, em 11 de maio de 1728, e o qual é do teor seguinte:
+Registro de outra carta de sesmaria a Dona Mariana de Castelo Branco de 3 léguas de
+terras na lagoa Grande
+João da Maia da Gama, etc. Faço saber aos que esta minha carta de data de sesmaria virem
+que a mim me enviou a dizer por sua petição Dona Mariana de Castelo Branco, que ela tem
+povoado o sítio da lagoa Grande, fazendo pião no Curralinho correndo a Parnaíba abaixo e
+acima, que terá de comprimento 3 léguas e uma de largo. Pedindo-me fosse servido
+conceder-lhe as ditas 3 léguas por data de sesmaria e que receberia mercê, e atendendo eu as
+razões que me representou e ao que respondeu o provedor-mor da Fazenda Real, a quem deu
+vista, em ser utilidade da Real Fazenda o cultivarem-se as terras neste estado. Hei por bem de
+lhe conceder em nome de Sua Majestade, que Deus guarde, 3 léguas de terra de comprido,
+uma de largo no sítio e lugar que pede, sem prejuízo de terceiro e com as mais condições
+expressadas nas Reais Ordens. E nesta forma se lhe passe sua carta para que a suplicante a
+haja, logre e possua [sic] como coisa sua própria e todos os seus herdeiros, ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus Nosso Senhor dos
+frutos que nelas tiver, a qual concessão lhe faço não prejudicando a terceiro e reservando os
+paus reais que nelas houver para embarcações, com declaração que mandará confirmar esta
+carta por Sua Majestade dentro dos 3 anos primeiros seguintes e a cultivará onde forem
+necessários para fontes, pontes, portos e pedreiras, e se demarcará ao tempo da posse por
+rumo de corda e braças craveiras, como é estilo e Sua Majestade manda. E outrossim, não
+poderão nelas suceder religiões por nenhum título e acontecendo possuí-las será com a
+obrigação de pagarem delas dízimos e ficarão sujeitos a todos os mais encargos que por Sua
+Majestade, que Deus guarde, lhe for mandado impor de novo, como sendo possuídas por
+seculares, e faltando a qualquer dessas cláusulas se haverão por devolutas e se darão a quem
+as denunciar como o dito senhor ordena. Pelo que mando ao provedor-mor da Fazenda Real,
+mais ministros e pessoas a quem pertencer, que na forma referida e com as condições
+declaradas deixem tere e possuir a dita Dona Mariana de Castelo Branco as ditas terras como
+coisa sua própria e todos os seus herdeiros, quaisquer que eles forem. Cumpram e guardem
+esta carta tão inteiramente como nela se contém, a qual lhe mandei passar por mim assinada e
+selada com o sinete de minhas armas, que se registrará onde tocar e se passou por duas vias.
+Dada nesta cidade de São Luís do Maranhão, aos 11 dias do mês de maio, ano do nascimento
+de Nosso Senhor Jesus Cristo de 1728. Manuel Roiz Tavares, secretário do estado a sub
+escreveu. João da Maia da Gama.
+
+Era o que se continha no referido registro de cartas de datas de sesmarias que para aqui
+transcrevi bem e fielmente do próprio original, a que me reporto. Eu, Raimundo de Oliveira
+Machado, secretário-tesoureiro do Instituto Lauro Sodré, servindo em comissão na Biblioteca
+e Arquivo Público do Pará, a escrevi. E Agnello Neves do Espírito Santo, chefe do arquivo
+público do estado a fiz escrever, certifico e assino.
+Belém, 17 de agosto de 1929
+//Agnello Neves do Espírito Santo//
+Visto: //Martinho Pinto//
+- Fim da Transcrição –
+Referência:
+APEP, Livro 4, doc. 83, fls. 64 – 65.
+Observação:
+No documento original o nome da suplicante consta como Marianna de Castel Branco, o que
+foi modificado para Mariana de Castelo Branco, seguindo a padronização proposta para a
+plataforma SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

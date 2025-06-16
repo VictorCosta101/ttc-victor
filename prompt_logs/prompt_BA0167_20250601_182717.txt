@@ -1,0 +1,111 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0167
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pedro João da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "20-06-1664",
+  "Observações da sesmaria": "Não foram informadas as medidas da sesmaria, apenas foi afirmado que era um pedaço de terra que ficava entre as terras que o suplicante já possuía e o rio Joanes, na Bahia, próximo ao rio Jacuípe. \r\n",
+  "Localidade": "Terra Nova",
+  "Marcos Geográficos": "Rio Joanes; rio Jacuípe",
+  "Justificativas": "Era morador(a) da Capitania; Necessitava de madeira e lenha; Tinha escravos; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou possuir 10 filhos.",
+  "Observações do deferimento e da concessão": "O provedor afirmo que o suplicante era um homem de bem e que vivia há muito tempo naquelas terras, por isso poderia receber a sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "referencia": "BA0167"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma carta de sesmaria de Pedro João da Costa de uma légua de terra em quadra na 
+Terra Nova. 
+Dom Vasco Mascarenhas etc. Faço saber aos que esta carta de doação e sesmaria virem que 
+Pedro João da Costa, morador da freguesia de Nossa Senhora do Monte, recôncavo desta cidade 
+que ele, suplicante é morador nele há 46 anos em todo dito tampo tem servido a Sua Majestade 
+em as guerras ao Flamengo deu, achando-se sempre em todas as ocasiões fazendo tudo o que 
+seus capitães lhe ordenavam com suas pessoas e escravos e tem pago muitas fintas para ajuda 
+e sustento deste presídio e em todo dito tempo se lhe deram nunca terras em que poder lavrar 
+tendo 10 filhos e filhas e as lavouras que faz é em terra arrendada e há poucos anos que ele, 
+suplicante, comprou uma légua de terra em quadra em matos maninhos sita na Terra Nova que 
+foi dada de sesmaria a um Antônio Carvalho, confrontando com o Rio de Jacuípe e pela quadra 
+de testada do mar tem um Rio que se chama Carasuípe e Rio de Joane e por alguns vizinhos 
+dele, suplicante, para no rio e se lhe metem a cortar suas madeiras com presunção de o rio ir em 
+voltas, e haver mais alguma terra entre a data dele, suplicante, e o dito. Pelo que pede a Vossa 
+Excelência havendo respeito ao que acima alega lhe faça mercê de lhe dar de sesmaria toda a 
+terra que houver entre a terra dele, suplicante, e do dito rio para que lhe fique o dito Rio em 
+confrontação no que receberá mercê. E vista a informação que tomei o suplicante tem comprado 
+légua de terra que diz a qual tem um Rio no meio e de uma parte do mar pode haver mais terra 
+que a que lhe pertence se lhe metem as ditas pessoas a cortar: pretende que todas estas sobras 
+se lhe deem de sesmaria por escusar contidas: é homem de bem e de muitos anos desta terra, 
+carregados de obrigações de filhos: parece-me justamente se lhe pode conceder o que pede na 
+forma que é de estilo, não prejudicando a terceiro. Vossa Excelência, mandarão que for servido. 
+Bahia, 12 de junho de 1664 // Antônio Lopes de Ulhôa // Tendo consideração a tudo hei por 
+bem e lhe faço mercê em nome de Sua Majestade dar de sesmaria as léguas de terra que pedem 
+assim da maneira que confrontam em sua petição com todas as suas águas, campos, matos, 
+testadas, logradouros e mais úteis que nelas se acharem não prejudicando a terceiro tudo forro, 
+livre e isento de foro ou pensão ou tributo algum salvo dízimo a Deus que pagarão dos frutos 
+que nelas houverem e por elas serão obrigados a dar caminhos livres ao conselho para fontes, 
+pontes e pedreiras. E porque convém conservar os índios livres em suas aldeias hei por bem de 
+reservar nesta data uma légua de terra em quadra a cada aldeia que compreenderem nela para 
+suas lavouras e sustento pelo que ordeno todas as justiças e ministros a quem o conhecimento 
+deva ou possa pertencer lhe mandem dar pose real, efetiva e atual na forma costumada debaixo 
+das cláusulas acima referidas e as mais da ordenação, título das sesmarias e para firmeza do que 
+mandei passar sob meu sinal e selo de minhas armas a qual se registrará nos livros da secretaria 
+e Fazenda Real deste Estado a qual se guardará e cumprirá tão pontual e inteiramente como 
+nela se contém sem dúvida, embargo nem contradição alguma // Bento Pereira de Andrade  // a 
+fez nesta cidade do Salvador, Bahia de Todos os Santos em os 20 do mês de junho, ano de 1664 
+// Bernardo Vieira Ravasco  // o fiz escrever // O conde de Óbidos // Por despacho de Sua 
+Excelência de 19 de junho de 1664. Registrada no 1° livro de registo da secretaria do Estado do 
+Brasil a folhas 77. Bahia, 7 de junho de 1665 // De Ulhôa // Registrou-se em 10 do dito mês e 
+ano // Gonçalo Pinto de Freitas //. 
+- Fim de Transcrição - 
+Referências: 
+DHBN, vol. 22, Pg. 112 - 114 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

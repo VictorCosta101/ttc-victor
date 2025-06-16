@@ -1,0 +1,139 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0078
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Manuel da Mota",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "11-05-1683",
+  "Observações da sesmaria": "A sesmaria era um pesqueiro localizada na barra do rio Jiquiriçá, próximo às fronteiras da donataria de Ilheos.",
+  "Localidade": "Barra do rio Jiquiriçá",
+  "Marcos Geográficos": "Rio Jiquiriçá",
+  "Observações da petição": "O sesmeiro não informou nenhuma medida para esse pedaço de terra, assim como também as autoridades pelas quais esse processo passou.",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou ser genro de Francisco Leandro, que lutou contra os holandeses; alegou que pretendia pescar; alegou que era pobre e tinha filhos",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que a terra solicitada ficava no mar e por isso não poderia ser concedida como sesmaria, mas sim por doação. O provedor e o governador-geral concordaram com o procurador. Nenhuma medida de área, largura ou comprimento foi informada.",
+  "Observações das exigências": "Determinou-se que não poderia vender, pois era uma regalia da Coroa.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0078"
+}
+
+            **Conteúdo Original** (extrato):
+             BA 
+ 
+ 
+Registro de um alvará de doação de um pesqueiro no pontal da Barra do Jiquiriçá, que 
+se concedeu a Manuel da Mota. 
+ 
+ 
+Antônio de Sousa de Menezes, governador e capitão-mor do Estado do Brasil, etc. Faço 
+saber aos que este alvará de doação virem, que Manuel da Mota, me representou por sua petição 
+cujo teor é o seguinte. Senhor, Manuel da Mota, morador na Barra do Jiquiriçá da parte do 
+norte, e genro de Francisco Leandro, primeiro povoador que foi deste rio, resistindo do gentio 
+bárbaro, e no tempo do Senhor governador Diogo Luiz de Oliveira, em muitas ocasiões 
+impedindo do Holandês que nesta costa andava, que não deitou gente em terra, matando muitas 
+vezes alguns deles, em cuja vivenda está ele suplicante, fazendo muito serviço a Sua Alteza, 
+com canoa, e negros passar os correos, e soldados, e a todo este povo que vão para as capitanias, 
+e vilas de baixo, e força do morro, agasalhando muitas pessoas como seu limitador poder, e 
+nesta barra a vista de sua casa com braças desta, pouco mais, ou menos está um pesqueiro no 
+pontal da dita barra,, que de baixa-mar fica seco, sendo o rio d’água doce, e de maré cheia é 
+salgada onde se arpoam peixer de cima de um girão, em o qual nadou pescar seu sogro, a quem 
+ele suplicante sucedeu na mesma parte, como senhor da dita terra, e testada, sendo ali morador 
+a mais de 26 anos desta parte, sem contradição, nem impedimento de pessoa alguma, e a dita 
+vivenda está no domicilio da Capitania dos Ilheos, que pertence ao Senhor Conde de Castro e 
+Castanheira, de que Vossa Senhoria dizem ser donatário, e procurador e ele suplicante é homem 
+pobre, e tem filhos, e quer escusar dúvidas com algumas pessoas, que talvez o quererão 
+desapossar, por mais poderosas, e como temente as justiças de Sua Alteza, as não quer ter com 
+ninguém, pelo que pede a Vossa Senhoria lhe faça mercê dar de sesmaria dito pontal, ou 
+pesqueiro em nome de Sua Alteza, ou de quem tocar para se confirmar na posse, que sempre 
+dele teve, e seu sogro, e sogra Madalena do Ó, depois da morte de seu marido, para si, e seus 
+descendentes, que atrás ele vierem para escusar dúvidas, e discenções com as pessoas que se 
+quiserem por a desapossa-lo. E receberá mercê. E vista a resposta do procurador da Fazenda 
+Real, que é a que se segue. O pesqueiro é no mar, que se não dá de sesmaria, nem em razão de 
+ficar fronteiro as terras que tem senhorios, o que se pode conceder é o mesmo pesqueiro, não 
+por sesmaria mas por doação, e visto o que o suplicante alega, e quase posse que nele tem a 
+querido jure natural não se me oferece dúvida, que se lhe conceda, sem prejuízo de terceiro, e 
+com as condições costumadas em semelhantes. Bahia, 12 de abril de 1683 // Andrada // E a 
+informação do provedor-mor da dita Real Fazenda, que também é a seguinte. Senhor, nem 
+oferece dúvida, visto a resposta do procurador da fazenda. Vossa Senhoria mandará o que for 
+servido. Bahia, 17 de abril de 1683 // Francisco Lamberto // Hei por bem e faço mercê em nome 
+de Sua Alteza, como pelo presente faço, dar ao dito Manuel da Mota, o dito pesqueiro, não por 
+sesmaria, mas por doação na forma que declara o procurador da fazenda, e da maneira que o 
+confronta em sua petição, para ele e seus descendentes, do qual não poderá ser perturbado, nem 
+desapossado por outra alguma pessoa, não prejudicando a terceiro, e pagará o dízimo a deus 
+digo, a Ordem de Cristo de todo o peixe que no dito pesqueiro tomar, e gozará e possuirá ele e 
+seus herdeiros ascendentes, e descendentes, e o não poderá vender, sem licença do Príncipe 
+Nosso. Senhor por ser regalia da Coroa, e o gozará debaixo da mesma posse que tem por si, e 
+seus antecessores, e com as condições costumadas em semelhantes doações. Pelo que ordeno a 
+todos os ministros de justiça a que o conhecimento deste com direito deva, ou possa pertencer 
+o cumpra, e façam cumprir, e guardar tão pontual, e inteiramente, como nele se contém, sem 
+dúvida, embargo nem contradição alguma, debaixo das cláusulas acima referidas, e as mais da 
+ordenação título das sesmarias. Para firmeza do que lhe mandei passar o presente sob meu sinal, 
+e selo de minhas armas, o qual se registrará nos livros da secretaria deste Estado, e nos mais a 
+que tocar, Antônio Garcia o fez nesta cidade do Salvador, Bahia de Todos os Santos em os 11 
+
+dias do mês de maio, ano de 1683. Bernardo Vieira Ravasco o fiz escrever // Antonio de Sousa 
+// Selo // Alvará de doação, que Vossa Senhoria fez mercê de conceder a Manuel da Mota, de 
+um pesqueiro na parte que a pede, e confronta em sua petição, como parece ao procurador da 
+Fazenda Real, sem prejuízo de terceiro, para ele e seus descendentes, e ascendentes e o não 
+poderá vender, sem licença do Príncipe Nosso. Senhor, por ser regalia da Coroa, e com as mais 
+condições neste incertas pelos respeitos acima declarados. Para Vossa Senhoria ver. Registrado 
+no livro segundo da secretaria do Estado do Brasil a que toca a folhas 112. Bahia, 17 de maio 
+de 1683 // Ravasco // Registre-se onde toca. Bahia, 21 de maio de 1683. Lamberto. E se 
+registrou em 24 do dito mês de maio. 
+ 
+ 
+Fim da transcrição. 
+ 
+Observações do documento: O pedido é de uma doação de sesmaria, mas a doação feita é 
+apenas do pesqueiro, que não pode ser vendido sem uma licença do Príncipe. 
+ 
+Referências: 
+BA - AN, Códice 427, fls 227 - 228v. 
+Numeração original no livro: 164 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

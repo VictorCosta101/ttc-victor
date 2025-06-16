@@ -1,0 +1,152 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0207
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0229",
+  "Nome": "João Paes Cabral",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "25-07-1815",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no lugar denominado Olho D'água do Moreira, na freguesia de São José dos Bezerros, na região do novo patrimônio da vila de Santo Antão. ",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Vila de Santo Antão",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante havia adquirido a terra Olho D'água do Moreira de João Lucas de Andrade por meio de compra e por isso desejava requerer as terras como sesmarias. ",
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0207"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0207 
+ 
+Carta de concessão de João Pais Cabral de 25/07/1815 
+ 
+João Pais Cabral com a data de sesmaria do terreno que se achar dentro das confrontações 
+abaixo declaradas na freguesia de São José do Bezerros termo da vila de Santo Antão. 
+ 
+Caetano Pinto de Miranda Montenegro, do Conselho do príncipe regente nosso senhor, e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem, que João 
+Pais Cabral me fez o requerimento do teor seguinte: Ilustríssimo e excelentíssimo senhor 
+= Diz João Pais Cabral, que ele comprara a João Lucas de Andrade as posses que tinha o 
+sítio Lucas, Olho d’Água do Moreira, e que sucessivamente requeria da mesma sesmaria, 
+continuando sempre a trabalhar nas terras da posse, hora porem se acham inteiramente 
+perdidos os seus trabalhos, e ele desarranjado, e sem ter onde empregou os braços dos 
+escravos que possui, por ter sido compreendida a terra, em que trabalha no novo 
+patrimônio da vila de Santo Antão, e por que no fim do quarto de légua dada para 
+logradouro dos habitantes da vila há terras desaproveitadas, requer o suplicantes a vossa 
+excelência se digne dar-lhe de sesmaria meia légua quadrada pegando do fim do dito 
+quarto pela estrada acima que vai para Inhuma, e Pau d’Arco até completar a meia légua 
+servindo de divisa a mesma estrada com os fundos para as partes do sul sem outra pensão 
+mais que o dízimo a Deus. Pede a vossa excelência seja servido conceder ao supliciante 
+a dita terra de sesmaria. E receberá mercê  - E sendo visto seu requerimento ordenei por 
+despacho de 12 de setembro de 1814 a câmara respectiva, que mandasse afixar os editais 
+do estilo, e informando-me a dita câmara, que ninguém se opusera, mandei por despachos 
+do primeiro de dezembro do referido ano e 11 de Julho do corrente que informassem o 
+doutor procurador da Real Fazenda e escrivão deputado da Junta da mesma Real Fazenda, 
+cujas informações sendo, que se podia dar ao Suplicante aterra pedida, e confrontada com 
+seu requerimento, a qual por averiguações ulteriores a que mandei proceder  é a mesma, 
+que me requereu Antônio José de Figueiredo, e de que lhe mandei passar Carta de 
+Sesmaria, e constando-me que ao norte do logradouro da povoação haviam terra 
+devolutas, e não para oeste como o suplicante pedia, mandei por despacho de 13 deste 
+mesmo mês, e ano que se passou carta de sesmaria do terreno que precisamente se achar 
+entre o logradouro da povoação do Bonito, e as terras de Manuel Gomes Cabral, 
+confinando pelo norte com este, pelo oeste com Antônio José de Figueiredo, pelo sul com 
+o dito logradouro da Povoação, e pelo leste com o patrimônio da câmara da vila de Santo 
+Antão. E por tanto pela faculdade que me é concedida pelo capítulo 15 do regimento deste 
+Governo. Hei por bem dar em nome de Sua Alteza Real o príncipe regente nosso senhor 
+ao dito João Pais Cabral a referida terra, pagando o foro anual de mil réis,  em observância 
+da real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria da Junta da 
+Real Fazenda a folhas 180 do Livro 6º delas, a qual sesmaria possuirá e gozará ele 
+suplicante e seus herdeiros ascendentes e descendentes como sua que fica sendo de hoje 
+para todo sempre, com todas as matas, campos, rios, águas, testadas, logradouros e mais 
+úteis que nele se compreenderem, não prejudicando a terceiro e não passará a religião e 
+pessoas eclesiásticas, salvo sendo com os mesmo encargos com que as possuem os 
+seculares, e nunca se dividirá em porções, nem se partirá senão por estimação, andando 
+em cabeçada em uma só pessoa, na forma da Ordenação livro 4º, título 96, parágrafo 23, 
+e assim não passará a herdeiros, ou qualquer outra pessoa sem consentimento da Junta da 
+
+Real Fazenda, para nela se darem novas fianças, e se fazer as devidas escriturações, 
+ficando livres para a serventia dos povos todas as estradas, rios, fontes e pedreiras e 
+reservadas ao Real Patrimônio as madeiras de construção, pau-brasil e viveiros, de 
+quaisquer metais, e será obrigado a requerer dentro de três anos confirmação, medição e 
+demarcação, povoá-la e cultivá-la na forma da ordem régia de 20 de outubro de 1753 e 
+alvará de 25 de janeiro de 1809 e não o cumprindo assim se haverá por devoluto, e 
+novamente se conferirá a quem a requerer. Pelo que ordeno aos ministros da Fazenda, e 
+Justiça, e mais pessoas a quem tocar cumpram, e façam cumprir e guardar esta carta de 
+data de sesmaria como nela se contem, fazendo dar aos suplicantes posse real, efetiva e 
+atual na forma costumada, debaixo das cláusulas referidas, e das mais da Ordenação título 
+das sesmarias. Em firmeza do referido lhe mandei passar a presente, que sendo por mim 
+assinada e selada com o sinete das minhas armas se registará na secretaria deste Governo, 
+na da Junta da Real Fazenda, e aonde mais tocas. Felipe Esteves Alves a fez em o Recife 
+de Pernambuco aos 25 de julho de 1815/ José Carlos Mairink da Silva Ferrão, secretário 
+do Governo a fez escrever = Caetano Pinto de Miranda Montenegro = Carta de data de 
+sesmaria pela qual V. Ex.ª há por bem dar em nome de Sua Alteza Real o príncipe regente 
+nosso senhor a João Pais Cabral, o terreno nela declarado na freguesia de São José dos 
+Bezerros termo da vila de Santo Antão. Para V. Ex.ª ver = Por despacho do ilustríssimo 
+e excelentíssimo senhor general de 18 de Julho de 1815./ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 140-141. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

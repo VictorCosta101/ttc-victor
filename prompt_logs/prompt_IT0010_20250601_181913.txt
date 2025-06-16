@@ -1,0 +1,211 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0010
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0285",
+  "Nome": "Pedro de Almeida Azevedo Coutinho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "27-08-1764",
+  "Data da concessão": "07-03-1765",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura na barra do rio Curuangi, no riacho chamado Água Azul junto a cachoeira do Avencal com uma légua para o leste e duas para o oste, quinhentas braças para o sul pela parte da serra da caveira e mais braças da légua para a parte do Capibaribe de Goiana da parte do norte. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Rio Capibaribe, Cachoeira do Avencal, Riacho Água Azul, Rio Curuangi",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se demarcar; Mandou-se medir; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Antônio de Sousa Manuel e Meneses, conde de Vila Flor, determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "José Teodoro de Lemos Duarte",
+  "referencia": "IT0010"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0010
+Carta de doação e sesmaria do padre Pedro de Almeida Coutinho - 07/03/1765
+O reverendo padre Pedro de Almeida Coutinho deferido com a doação de sesmaria
+de três léguas de terra de comprido e uma de largo continuadas como abaixo se
+declara.
+Antônio de Souza Manoel e Menezes, conde de Vila Flor etc. = Faço saber aos que esta
+carta de sesmaria virem, que o padre Pedro de Almeida Coutinho me fez o requerimento
+cujo o teor é da maneira seguinte = Ilustríssimo e Excelentíssimo Senhor conde copeiro-
+mor e governador = Diz o padre Pedro de Almeida Azevedo Coutinho, morador no
+Engenho Canavieira da Freguesia de Goiana, capitania de Itamaracá, de que era
+donatário o Excelentíssimo Senhor Marquês de Louriçal, que junto a terra chamada
+caseira, corre pela parte do norte um riacho chamado Cruangi, o qual faz barra um
+regato chamado Água Azul, pouco acima de uma cachoeira do dito Curuangi, junto a
+alagoa de Avençal e deste riacho Curuangi para a parte do sul, entre ele e o rio Serigi
+para a do norte, entre ele e o rio Capibaribe de Goiana e para o nascente e o poente pela
+dita serra e Curuangi, abaixo e acima da fonte de onde emana, se acham terras incultas e
+desaproveitadas, ficando a dita serra com seus olivos que ocorrem para Serigy, que lhe
+fica para o norte sem alguma cultura, tendo para o norte sem alguma cultura, tendo para
+isso comodidade de vertentes que correm para um e outro rio, e porque Sua Majestade
+Fidelíssima nas suas ordens determina que havendo terras devolutas e desaproveitadas
+se deem por sesmaria a quem as pedir para que se cultivem totum, e o suplicante pode
+fazer destas que nomeia, dando lhas Vossa Excelência e doando-as em nome de Sua
+Majestade Fidelíssima ou de quem pertencer, quer o suplicante que Vossa Excelência
+em nome do dito senhor lhe dê e doe por sesmaria nove mil braças de terra de longitude
+com três mil de latitude, principiando na barra do dito regato ao poente em rumo direito
+e o que se achar inculto, digo, do dito regato Água Azul com quatro mil braças para o
+nascente e cinco mil para o poente em rumo direito e o que se achar inculto em lhe
+entestar com sesmaria que estiverem atualmente processadas na forma das reais ordens,
+por qualquer das quatro testadas livres, serras isentas de pensão mas que a do dízimo
+real e foro do donatário, contadas as águas vertentes e lagos, pastos, matas, logradouros
+entre as ditas terras pertencentes para si e a quem direito houver de suceder, para nelas
+fazer engenho de açúcar, plantar, criar gado e usar em tudo que bem lhe estiver,
+podendo completar nas partes onde achar devolutas as braças que não achar em alguma
+
+das confrontações por impedimento de sesmaria mais antiga em forma. Pede Vossa
+Excelência, seja servido dar ao suplicante em nome de Sua Majestade Fidelíssima ou de
+quem pertencer, a dita terra que nomeia por carta de sesmaria na forma do estilo. E
+receberá mercê = o que sendo por mim visto o dito requerimento, nele proferi o
+despacho seguinte = Assinando o reverendo suplicante esta petição e reconhecendo o
+seu sinal, jure se tem ou não outra carta de sesmaria respectiva a Fazenda Real = Recife,
+27 de agosto de 1764; ao qual satisfez o reverendo suplicante assinando a dita petição,
+jurando não possuir nem se lhe haver dado sesmaria alguma e reconhecendo o seu sinal
+pelo tabelião Antônio de Barros Branco, sobre o qual em 11 de setembro do dito ano dei
+este despacho = Informem os oficiais da Câmara do distrito, declarando se as terras que
+o suplicante pretende de sesmaria se acham devolutas, mandando fixar editais no
+mesmo respectivo distrito para se ver no conhecimento se há terceiro prejudicado e se
+entre as mesmas media a légua de permeio para logradouro dos éreos confinantes, na
+forma das ordens de Sua Majestade Fidelíssima, afim de evitar pleitos judiciais e os
+ditos informaram da maneira seguinte = Ilustríssimo e Excelentíssimo Senhor = Em
+observância ao despacho de Vossa Excelência, mandamos proceder a editais que
+estiveram fixos nos lugares públicos acostumados desta vila e seu termo e no território
+mais vizinho, as terras que pretende o reverendo suplicante por sesmaria mais de trinta
+dias, e entre o presente ninguém pôs impedimento a presente pretensão nem disse que
+ditas terras eram suas, consta-nos que estão devolutas sem cultura alguma e que a
+situação mais vizinha dista do lugar onde pretende o reverendo suplicante, principia a
+data mais de três léguas, é o que podemos informar a Vossa Excelência que mandará o
+que for servido – Goiana em Câmara, de 18 de janeiro de 1765 = Lourenço Camelo
+Torres, escrivão proprietário da câmara o escrevi = Felipe Bezerra Monte Negro =
+Francisco Xavier Correia = Manoel Eloy de Barros Coelho = José da Rocha e
+Vasconcellos = Julio Cesar Paz, e sobre a qual por mim mandei por despacho de 8 de
+fevereiro deste ano de 65, informar o procurador e escrivão da mesma, e o dito
+procurador mandou informar o dito escrivão e responder o procurador, estes o fizeram
+desta sorte = Senhor procurador da Fazenda Real = Como da informação junta e
+assinada da Câmara da Vila de Goiana consta estarem devolutas as terras que o
+reverendo suplicante pede por sesmaria e que a situação mais vizinha dista mais de três
+léguas deste lugar, e o mesmo reverendo suplicante jura não possuir outra sesmaria
+alguma, por isso que a quantidade de terra que pede, se lhe deve conceder só três léguas
+de terra de comprido e uma de largo, sendo contínuas e ordinárias com o foro anual de
+
+seis mil réis por légua, estando perto da marinha e se estiver em maior distância nesta
+Provedoria do dito foro, como se pratica = Recife, aos 9 de fevereiro de 1765 =
+Bernardo Pereira de Vasconcelos = Senhor provedor da Fazenda Real = Respondo o
+mesmo que informa o escrivão da Fazenda, com cuja informação em tudo me conformo
+– Recife, 13 de fevereiro de 1765 – José Teodoro de Lemos Duarte = Com dita
+informação em tudo me conformo – Recife, 13 de fevereiro de 1765 - José Teodoro de
+Lemos Duarte = com dita informação e resposta informou o provedor da Fazenda assim
+= Ilustríssimo e Excelentíssimo Senhor = informo com a informação do escrivão da
+Fazenda. Vossa Excelência mandará o que for servido – João do Rego Barros, e por
+meu despacho de 14 do dito mês de fevereiro, mandei que assinando o termo da fiança
+do estilo e declarando a distância em que fala o escrivão da Fazenda Real ter nesse para
+lhe deferir e mostrando parte do mesmo escrivão ter dado a fiança apontada aos foros de
+três léguas de terra de comprido e uma de largo, a qual assinou o fiado e fiador João da
+Silva da Cruz a folhas 128 do livro 14 delas, que serve na Provedoria desta capitania e
+declarando que dista a terra pedida mais de dez léguas da marinha, mandei por despacho
+de 21 do mesmo mês de fevereiro declarar também o reverendo suplicante de onde
+começava a sesmaria que pretendia e as confrontações que tinham as três léguas de
+norte a sul e leste ao oeste, o que satisfez desta sorte = declara o suplicante que a
+sesmaria há de principiar na barra que faz o Curuangi, o regato chamado Água Azul,
+junto a cachoeira do Avencal com uma légua para o leste e duas para oeste, quinhentas
+braças para o sul pela parte da serra da caveira e mais braças da légua para a parte do
+Capibaribe de Goiana da parte do norte, ficando assim ditas três léguas de comprido e
+uma de largo em rumos direitos, sobre a qual declaração mandei mais por despacho de
+22 do referido mês, respondesse ultimamente o provedor da Fazenda Real, este mandou
+tornar a informar o escrivão e responder o procurador da mesma, o primeiro informou o
+seguinte = Senhor provedor da Fazenda Real = Parece estar em termos de se deferir a
+este requerimento, concedendo-se ao reverendo suplicante três léguas de terra de
+comprido e uma de largo, continuadas dentro do limite da confrontação que expressa na
+sua última declaração, com o foro anual de 4$000 réis por légua, visto declarar estarem
+distantes da marinha mais de dez léguas e de cujo foro tem dado fiança nesta Provedoria
+= Recife, aos 28 de fevereiro de 1765 – Bernardo Pereira de Vasconcelos = E o segundo
+respondeu desta maneira = Senhor provedor da Fazenda Real = Como se acham feitas
+as diligências do estilo e estão satisfeitas as dúvidas objetadas nas primeiras respostas,
+parece que se pode dar de sesmaria ao suplicante as três léguas de terra de comprido e
+
+uma de largo contínuas e ordinárias, com foro de 4$000 réis por légua com cominação
+de que não sendo povoadas dentro em cinco anos pagar a pena da lei, e se haverem as
+ditas terras por devolutas e poderem novamente serem dadas e com declaração que
+enquanto se não derem a outrem será sempre dadas, digo, será sempre obrigado a pagar
+o foro = Recife, 26 de fevereiro de 1765 – José Teodoro de Lemos Duarte – Com esta
+informação, a resposta diz o provedor = Ilustríssimo e Excelentíssimo Senhor =
+Acomodo-me ao que informa o escrivão da Fazenda. Vossa Excelência mandará o que
+for servido – João do Rego Barros = E sendo-me apresentada a dita informação dei
+ultimamente o despacho seguinte = Passe carta de sesmaria com as declarações
+apontadas pelo procurador da Fazenda Real, declarando-se as confrontações das três
+léguas e o fiador ao foro = Recife, 5 de março de 1765 = Em cumprimento do qual se
+passou a presente carta de doação de sesmaria, pela qual hei por bem na conformidade
+do capítulo 15 do regimento deste Governo, dar ao reverendo suplicante em nome de
+Sua Majestade Fidelíssima as três léguas de terra de comprido e uma de largo que pede,
+continuadas dentro no limite das confrontações que expressa na sua última declaração,
+na forma de ordens do dito senhor, deixando a légua de permeio para logradouro,
+pagando o foro de 4$000 réis por cada légua em cada um ano na forma declarada, do
+qual se deu fiança na Provedoria desta capitania, como nesta se declara, e não passará a
+religiões, salvo for com o mesmo encargo com que as possuem os seculares, cuja terra
+possuirá e gozará ele e seus herdeiros ascendentes e descendentes, como sua que fica
+sendo de hoje para todo sempre e com todos os pertences, matas, campos, águas, rios,
+fontes, pontes, testadas, logradouros e mais úteis que elas compreenderem, não
+prejudicando a terceiro, e será obrigado a dar caminho livre ao Conselho para fontes,
+pontes e pedreiras, a requerer dentro em três anos confirmação real e a medir, demarcar
+terras e cultivar na forma que determina a lei do Reino, e não o fazendo se darem as
+ditas terras por devolutas e se poderem dar novamente de sesmaria a quem as pedir –
+Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a quem tocar,
+cumpram e façam cumprir e guardar esta carta de doação de sesmaria como nela se
+contém, fazendo dar ao reverendo suplicante posse real, efetiva e atual, na forma
+costumada do estilo das cláusulas referidas e das mais da Ordenação título de sesmarias.
+Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o sinete
+das minhas armas, que se registrará na secretaria deste Governo e Provedoria da
+Fazenda Real = Dada no Recife de Pernambuco, aos 7 dias do mês de março –
+Francisco Gonçalves Reis Lisboa, oficial da Secretaria a fez, ano do nascimento de
+
+Nosso Senhor Jesus Cristo de 1765 – O secretário do governo, José Gonçalves da
+Fonseca, a fez escrever = Conde copeiro-mor.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 176 - 182.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

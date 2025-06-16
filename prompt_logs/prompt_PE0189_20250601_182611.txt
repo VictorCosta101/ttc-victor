@@ -1,0 +1,130 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0189
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0203",
+  "Nome": "Francisco de Sales Peixoto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-03-1803",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura na freguesia de São José dos Bezerros, termo da cidade de Olinda, entre a Barra dos Tanques e a Barra das Piabas, confrontando ao norte as terras do capitão Manuel Ferreira da Costa e João Fernandes Gonçalves e ao sul com o rio Sirinháem e com as terras de Francisco Casado Lima.",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Rio Sirinháem, Barra dos Tanques, Barra dos Piabas",
+  "Confrontantes": "Manuel Ferreira da Costa, João Fernandes Gonçalves, Francisco Casado Lima",
+  "Justificativas": "Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Os governadores interinos determinaram o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. Os governadores interinos também determinaram a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0189"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0189 
+Carta de doação e sesmaria de Francisco de Sales Peixoto – 04/03/1803 
+ 
+Francisco de Sales Peixoto, alferes com uma légua de terra por sesmaria na freguesia de São 
+José dos Bezerros. 
+Dom Jorge Eugenio de Locio e Seilbas, brigadeiro graduado, chefe do regimento de artilharia 
+desta capitania de Pernambuco etc. Fazemos saber aos que esta carta de data de sesmaria virem, 
+que o alferes Francisco de Sales Peixoto nos fez um requerimento do teor e maneira seguinte = 
+Ilustríssimos Senhores, que na mesma se acham devolutas certa porção de terras desde a barra 
+dos Tanques das Piabas, até a Barra da Capivara, pelas testadas da parte do norte que são do 
+capitão Manoel Ferreira da Costa e João Freire Gonçalves, pelo sul com todas as águas 
+pertencentes a Serinhaem, onde divide com terras do Gado Brabo e pelo nascente findam com o 
+mesmo rio Serinhaem, cujas terras servem para cultivar lavoura, das quais produz rendimento aos 
+direitos de Sua Alteza Real, o que agora nada dá por estarem incultas; requer o suplicante 
+costume nesta capitania, portanto = Pede a Vossas Senhorias sejam servidos deferir ao suplicante 
+na forma que requer = E receberá mercê. E sendo por nós visto seu requerimento, mandamos por 
+informação da dita Câmara que assim o mandou executar, não haver pessoa alguma que aos ditos 
+editais saísse; por outro de 7 de janeiro do corrente ano, mandamos ouvir o doutor procurador da 
+Coroa e Fazenda, e assim mais responder o escrivão deputado; uniformemente, responderam estar 
+nos termos de se dar ao suplicante a terra pedida de sesmaria na forma confrontada em seu 
+requerimento, pagando o foro anual de 6 mil réis por légua, de que devia dar fiança na Contadoria 
+da Real Fazenda. Ultimamente, mandamos por despacho de 28 do sobredito mês de janeiro que 
+se passasse carta de data de sesmaria de uma légua de terra na conformidade das reais ordens e 
+resposta do doutor procurador da Coroa e escrivão deputado da Junta da Real Fazenda; em 
+cumprimento do qual e pela faculdade que que Sua Alteza Real permite no Capítulo 15 do 
+Regimento deste Governo. Havemos por bem dar em nome do dito senhor ao referido alferes 
+Francisco de Sales Peixoto uma légua de terra na freguesia de São José dos Bezerros, termo da 
+cidade de Olinda, principiando desde a Barra dos Tanques das Piabas até a Barra da Capivara, 
+pelas testadas da parte do norte; que são do capitão Manoel Ferreira da Costa e João Freire 
+Gonçalves, e pelo sul com todas as águas pertencentes a Serinhaem, onde divide com a sesmaria 
+do coronel Francisco Casado Lima, pelo poente divide em terras do Gado Brabo e pela nascente 
+findam com o mesmo rio Serinhaem, tudo na forma confrontada em seu requerimento, pagando o 
+foro anual de 6 mil réis pela referida légua de terra, visto ser das que estão mais próximas a 
+Marinha, que determina a Real Ordem de 28 de setembro de 1700; a qual terra possuirá e gozará 
+
+ele suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje para 
+todo o sempre, com  todas as suas pertenças, matas, campos, rios, águas, testadas, logradouros e 
+mais úteis que ela compreender, não prejudicando a terceiro, e não passará a dita a religiões e 
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, 
+sendo obrigado a dar ao Conselho caminhos livres para fontes, pontes, pedreiras e requerer dentro 
+de três anos confirmação, medição, povoá-la e cultivá-la na conformidade da Ordem Régia de 20 
+de outubro de 1753, e não o cumprindo assim se dar por devoluta e novamente ser conferida a 
+quem a requerer; com mais a condição que a dita terra nunca se dividirá em porções, nem 
+repartirá, senão por estimação, andando encabeçada em uma só pessoa, na forma da Ordenação 
+Livro 4º título 96 § 32; sendo obrigado o suplicante e seus herdeiros ou pessoa a que passar esta 
+sesmaria, a conservar nas ditas terras árvores de amarelo e sucupira e mais madeiras de 
+construção próprias para naus e fragatas de Sua Alteza Real, caso que nela as haja, e assim mais 
+não passará a sobredita terra a herdeiros ou outra qualquer pessoa sem concessão da Junta da Real 
+Fazenda, para se darem novas fiança e se fazerem as devidas escriturações. Pelo que ordenamos 
+aos ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e guardem esta carta de 
+data de sesmaria como nela se contém, fazendo dar ao suplicante posse real, efetiva e atual, na 
+forma costumada, debaixo das cláusulas referidas e das mais da Ordenação Título das Sesmarias, 
+visto constar por bilhete que apresentou achar-se dada a fiança ao foro anual de 6 mil réis pela 
+referida légua de terra na Contadoria da Real Fazenda a folha 165 do Livro 5º delas. Em firmeza 
+do que lhe mandamos passar a presente por nós assinada e selada com o selo das armas reais, que 
+se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. José Fernandes Quintela, 
+oficial maior da Secretaria do Governo, a fez em o Recife de Pernambuco, aos 4 de março. Ano 
+do Nascimento de Nosso Senhor Jesus Cristo de 1803. Destes dezoito mil réis = Manoel da 
+Cunha de Azevedo Coutinho Souza Chichorro, secretário do Governo, a fez escrever = Dom 
+Jorge Eugenio de Locio e Seilbas = Manoel Xavier Carneiro da Cunha = José Joaquim Nabuco 
+de Araújo. 
+- Fim da carta - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 79-80. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

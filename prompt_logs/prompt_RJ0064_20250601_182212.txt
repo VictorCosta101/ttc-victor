@@ -1,0 +1,101 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0064
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Antônio Bogado",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "27-04-1594",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por meio da carta de concessão, não foi possível inferir o histórico da terra, pela razão de que o documento encontra-se incompleto.",
+  "Localidade": "Cabeceiras de chão de Aleixo Manuel e de Domingos Machado",
+  "Justificativas": "Era morador(a) da Capitania; Participou das guerras de conquista; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também que \"veio morar nesta terra com mulher e filhos, há 20 anos\", assim como \"não tinha chão para fazer casa\".",
+  "Observações do deferimento e da concessão": "As informações referentes ao despacho e a forma do deferimento também não foram identificadas por razões que o documento encontra-se incompleto.",
+  "Observações das exigências": "Em razão de a carta encontrar-se incompleta, não foi possível identificar as condições determinadas para a concessão.",
+  "referencia": "RJ0064"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0064 
+ 
+Carta de concessão de sesmaria de Antônio Bogado de 27 de abril de 1594 
+ 
+Forro  
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1594 anos aos 27 dias do mês de abril do dito ano nesta cidade de 
+São Sebastião do Rio de Janeiro do Brasil, nas casas de morada de mim escrivão adiante 
+nomeado, apareceu uma [...] Antônio Bogado, morador nesta dita cidade, me apresentou uma 
+petição com um despacho nela do Senhor Salvador Correia de Sá, capitão e governador desta 
+dita cidade e capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor. E da 
+qual petição e despacho dela o traslado é o seguinte: diz Antônio Bogado, que ele veio morar 
+nesta terra com mulher e filhos, há 20 anos que está nestas partes do Brasil onde sempre serviu 
+a Sua Magestade em todas as guerras que se ofereceram em seu tempo e, porque ele suplicante 
+não tem chão para fazer casa, pede a Vossa Senhoria lhe faça mercê de lhe dar de sesmaria 50 
+braças de terra de comprido e 30 de largo nesta vila para casas, na cabeceira de Aleixo Manuel 
+e de Domingos Machado, de uma dádiva que tem na cabeceira de um chão que possui Pero 
+Luiz, pelo que receberá mercê. [...] (Aqui termina, no códice, esta carta de sesmaria. Segue- se 
+na nova numeração das folhas o final de outra carta). (Fl. 15) [...] tabelião das notas por El Rei 
+nosso Senhor nesta cidade de São Sebastião e seus termos, que este instrumento de carta de 
+sesmaria escrevi e tomei nos meus livros das notas e tombo das cartas das sesmarias desta dita 
+cidade, que em meu poder ficam onde o dito instrumento fica assinado por o dito Senhor capitão 
+e governador //Salvador Correia de Sá// 
+ 
+-Fim da Transcrição- 
+ 
+Observações do documento: 
+A palavra “Jhu Xpo” foi alterada para “Jesus Cristo”. 
+Título original: Carta de sesmaria de chão para casas de Antônio Bogado que está na cabeceira 
+dos chãos de Aleixo Manuel e Domingos Machado  
+Referências:  
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas 
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.12-13. 
+ 
+
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.12-13. Códice 
+778-1 (1594-1595). 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

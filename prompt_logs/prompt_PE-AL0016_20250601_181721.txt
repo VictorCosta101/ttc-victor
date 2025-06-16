@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0016
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0094",
+  "Nome": "Agostinho Moreira Gutierrez",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "25-08-1724",
+  "Data da concessão": "07-09-1724",
+  "Observações da sesmaria": "O sesmeiro requereu três léguas de comprimento e três léguas de largura na região do Palmar, tendo por limite as terras do capitão Alexandre Jorge da Cruz (PE-AL 0010) pelo rio Mundaú até o rio Canhoto.",
+  "Localidade": "Palmar",
+  "Marcos Geográficos": "Rio Mundaú, Rio Canhoto",
+  "Confrontantes": "Alexandre Jorge da Cruz",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Solicitou pagar somente o dízimo; Solicitou isenção de pagamento de foro régio; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que a sesmaria fosse concedida com as condições do pagamento do dízimo a Ordem de Cristo, a proibição de trespassar a terra a religiosos ou ordens seculares e o cumprimento das Ordenações Filipinas, Livro 4º, Título 43. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-AL0016"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0016 
+ 
+Carta de doação e sesmaria de Agostinho Moreira Gutierres –  
+ 
+CARTA DE SESMARIA QUE SE PASSOU AO SARGENTO-MOR AGOSTINHO 
+MOREIRA GUTIERRES, NOS PALMARES = . 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas e etc = Faço saber aos que esta carta de doação de sesmaria 
+virem que Agostinho Moreira Gutierres me representou a petição cujo teor é o seguinte: Senhor = 
+Diz Agostinho Moreira Gutierres, sargento-mor do terço da Campanha dos Palmares, como capitão 
+que foi na restauração da dita campanha, que ele suplicante quer tirar por sesmaria três léguas de 
+terra em quadro nas terras conquistadas dos Palmares, das que Sua Majestade, que Deus guarde, 
+mandar dar ao dito terço como consta das ordens reais juntas, sem foro nem pensão alguma mais 
+que o dízimo a Deus, começando das testadas do capitão Alexandre Jorge da Cruz pelo rio mandaú 
+acima, com três léguas de comprido e três de largo, buscando o riacho chamado Canhoto, servindo 
+de pião o mesmo rio do Mandaú, enchendo-se de uma e outra parte para as ilhargas e para cima até 
+onde chegarem as três léguas. Pede a Vossa Senhoria lhe faça mercê conceder e dar as ditas três 
+léguas de terra em nome de Sua Majestade, conforme suas reais ordens que apresenta e mais 
+documentos. E receberá mercê. = Informe o provedor da Fazenda Real, ouvindo ao procurador da 
+Coroa e Fazenda - Rubrica = Vista ao doutor procurador da Coroa = Barros = Vistas as certidões, 
+deve ser deferido o suplicante como Sua Majestade, que Deus guarde, manda. Recife, 25 de agosto 
+de 1724 = Pereira = Sobre este requerimento do suplicante, me mandou Vossa Senhoria ouvir ao 
+doutor procurador da Coroa, o qual respondeu que a vista das certidões juntas devia ser deferido, 
+como Sua Majestade, o suplicante, digo, como Sua Majestade, que Deus guarde, manda, ao que me 
+conformo com declaração que a doação das três léguas de terras pedidas será se tanto couber no 
+lugar confrontado, nas que se conquistaram dos Palmares e ficaram por conquistar para o sertão, 
+como Sua Majestade foi servido mandar sem alterar a forma de sua real ordem, pagando delas 
+dízimo a ordem de Cristo, sem outro nenhum foro nem pensão alguma; e não passarão a religiosos 
+por título nenhum, e quando suceda será com este mesmo encargo; é o meu parecer. Vossa Senhoria 
+mandará o que for mais conveniente ao serviço de Sua Majestade, como costuma. Recife, 30 de 
+agosto de 1724 = João do Rego Barros = E havendo eu respeito a faculdade que Sua Majestade me 
+concede no capítulo 15 do Regimento deste Governo e a todo mais conteúdo em sua real ordem 
+neste particular; hei por bem fazer mercê dar ao sobredito sargento-mor Agostinho Moreira 
+Gutierres, como pela presente dou de sesmaria em nome do dito senhor três légoas de terras em 
+quadro na mesma parte e testada que confronta em sua petição, na mesma forma que parece ao 
+doutor procurador e provedor da Fazenda Real, sem pensão nem foro algum mais que pagar o 
+
+dízimo a ordem de Cristo, as quais logrará ele e seus herdeiros, sem dependência alguma, e não 
+passarão a religiões por nenhum título, e quando passarem será com os mesmos encargos, como se 
+fossem possuídas por seculares. Pelo que ordeno a todos os ministros da Justiça e Fazenda desta 
+capitania a quem o conhecimento desta carta pertencer, lhe façam dar a posse atual, efetiva e 
+pessoal das ditas três léguas de terras das conquistadas e por conquistar dos Palmares, na forma 
+acima dita, com todos os seus logradouros e mais úteis que lhe pertencerem e o suplicante nela 
+achar, deixando sempre estradas livres, pedreiras, fontes e rios, que por firmeza de tudo lhe mandei 
+passar a presente por mim assinada e selada com o sinete de minhas armas, a qual se registrará nos 
+livros da Secretaria deste Governo e onde mais tocar, digo, nos livros da Secretaria deste Governo e 
+nos da Vedoria e Foral Real - Dada nesta cidade de Olinda, em os 7 dias do mês de setembro de 
+1724 =. O Secretario Manoel da Silva Rosa a fez escrever = Dom Manoel Rolim de Moura. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 288 - 290. 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

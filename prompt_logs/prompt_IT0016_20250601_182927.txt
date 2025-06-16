@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0016
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0421",
+  "Nome": "Antônio Carvalho, Maria Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Comprada",
+  "Data da concessão": "10-12-1674",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua e meia de comprimento e uma légua e meia de largura em Itamaracá. ",
+  "Localidade": "Itamaracá",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das Justificativas": "Os suplicantes alegaram que são herdeiros de uma terra comprada a Manuel Nunes e que foi doada em 1614 pelo capitão-mor de Itamaracá. Por estas razões, requerem a concessão da sesmaria.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "referencia": "IT0016"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0016 
+ 
+Carta de concessão Antônio Carvalho e Maria Carvalho de 10/12/1674 
+Registo de um alvará de doação e sesmaria e de confirmação de cinco mil braças de terra 
+em quadra na serra da Capoeira na testada de Tomé de Gouveia e Cosme Fernandes que 
+vossa senhoria teve por bem conceder ao alferes Antônio Carvalho e sua irmã Maria 
+Carvalho moradores na capitania de Itamaracá 
+ 
+Afonso Furtado de Castro do Rio de Mendonça etc. Faço saber aos que este alvará de 
+confirmação virem que o alferes Antônio Carvalho e sua irmã viúva Maria Carvalho 
+moradores na capitania de Itamaracá me enviarão a representar a petição cujo teor é os 
+seguinte Senhor Diz o alferes Antônio Carvalho e sua irmã viúva Maria Carvalho 
+moradores na capitania de Itamaracá representam a vossa senhoria que a eles lhes 
+pertencem por herança em parte e por compras feitas a Manoel Nunes a terra conteúda na 
+carta de sesmaria que oferecem de capitão-mor da dita capitania Pedro Coelho de 
+Carvalho de cinco mil braças de terra em quadra concedida em vinte e quatro de dezembro 
+do ano de 1614; e porque para a todo tempo terem as ditas terras seguras pedem a vossa 
+senhoria lhes faça mercê mandar passar carta de confirmação da dita sesmaria. E receberá 
+mercê. E visto a informação do provedor-mor da Fazenda Real que é a seguinte Senhor 
+os suplicantes pedem confirmação de sesmaria que apresentam, que se lhe deve passar 
+por mandado de vossa senhoria sem prejuízo de terceiro, e sem embargo que vem 
+confirmada pelo governador da capitania de Pernambuco não parece que lhe tocar a 
+confirmação conforme o capítulo 15 do regimento do Governador daquela capitania e 
+muito menos sendo esta terra dada pelo capitão-mor da capitania de Itamaracá que não é 
+subordinada a aquele governo senão no militar, nem as confrontações, e datas das terras 
+que pertencem a regalia do Príncipe se podem dar ou confirmar se não pelo governador, 
+e capitão-general do Estado isto é o que me parece vossa senhoria mandará o que for 
+servido Bahia e dezembro 10 de 1664. Antônio Lopes de Ulhôa. E pertencerem a este 
+Governo os alvarás de doações de terra que são da Coroa como se declara no ultimo 
+capítulo do Regimento em que Sua Alteza dispõem que só nessa forma sejam dadas, e 
+não dá outra e hoje estar a dita capitania de Itamaracá incorporada na Coroa. Hei por bem 
+e confirmar e conceder se necessário for [ilegível] o alferes Antônio Carvalho e sua irmã 
+viúva Maria Carvalho as cinco mil braças de terra em quadra que possuem por heranças 
+e títulos de compra conteúdas, e confrontadas na dita carta que Pedro Coelho de Carvalho, 
+sendo capitão-mor da capitania de Itamaracá passou em 24 de dezembro de 1664 
+Francisco Carneiro João Carvalho, Salvador Carneiro Tavares, Fernando Brum e Antônio 
+[ilegível] Diogo Carneiro e de Francisca [ilegível] sua mulher [1 linha ilegível] afirmo e 
+hei [ilegível] [ilegível] [ilegível] da maneira que foi concedida na serra da Capoeira e na 
+posse das cinco mil braças de terra em quadra serão conservadores os impetrantes não 
+prejudicando a terceiro, sem contradição alguma pelo que ordeno a todas as justiças a que 
+o conhecimento deste com direito deva, ou possa pertencer o cumpram e fação cumprir e 
+guardar tão pontual e inteiramente como nele se contem sem dúvida, embargo nem 
+contradição alguma para firmeza do que lhe mandei passar o presente sub meu sinal e 
+selo de minhas armas a qual se registrará nos livros da secretaria do Estado e as mais a 
+que tocar. Antônio Garcia o fez nesta cidade de Salvador Bahia de Todos os Santos 10 
+dias do mês de dezembro de 1674. Bernardo Vieira Ravasco a fez escrever. Afonso 
+Furtado de Castro do Rio de Mendonça. Registrada no segundo livro dos Registos da 
+Secretaria do Estado do Brasil a que toca a folhas vinte e sete verso Bahia e dezembro 10 
+
+de 1674. Ravasco. Despacho do Provedor mor da Fazenda Real registe-se nos Livros da 
+Fazenda como Sua Alteza manda Bahia e dezembro 16 de mil 1674. De Ulhôa. Registrou-
+se em 18 do dito mês e ano e se entregou a um religioso do Carmo, que a deu a registar. 
+Miguel Ponto de Freitas.  
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 19v-20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

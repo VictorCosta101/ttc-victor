@@ -1,0 +1,90 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0059
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Gomes (RJ 1)",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "15-01-1594",
+  "Observações da sesmaria": "A carta encontra-se incompleta e, por este motivo, não é possível depreender informações relativas ao histórico da terra, bem como aos dados mais específicos da sesmaria requerida, como a localidade, os marcos geográficos, os rios, os confrontantes e as medidas de largura e comprimento.",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Mandou-se pagar o dízimo; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A carta encontra-se incompleta e, por esta razão, não foi possível depreender as justificativas relativas à concessão da sesmaria. ",
+  "Observações do deferimento e da concessão": "Por razões de padronização, foi preciso a elaboração de uma data aleatória, de modo a não impedir a inserção da sesmaria na Plataforma SILB. Como a carta encontra-se incompleta, a data real da concessão não foi identificada, mas ela informa que foi suplicada no ano de 1594.",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0059"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0059 
+Carta de concessão de sesmaria de Manoel Gomes de [não identificado] 
+(Fl.1) as do Conselho a qual água que dito é lhe deu e concedeu em nome de El Rei nosso 
+Senhor, forra e isenta, sem foro, nem tributo, nem pensão alguma, somente de tudo o que nosso 
+Senhor der nela de suas novidades, lavouras e criações, pagará os dízimos a Deus conforme o 
+dito regimento, o que tudo manda que se cumpra e guarde sem dúvida nem embargo algum, 
+que a ele seja posto e que esta carta seja registrada dentro em 1 ano nos livros da Fazenda Real, 
+como o dito Senhor em regimento manda sob as penas em ele contidas e declaradas, e porque 
+o sobredito Manuel Gomes, suplicante, tudo prometeu de ter, manter e cumprir, pela dita 
+maneira lhe mandou passar esta carta de sesmaria e por verdade eu, Pero da Costa, escrivão das 
+sesmarias e tabelião das notas por El Rei nosso Senhor em esta cidade de São Sebastião e seus 
+termos, que este instrumento de carta de sesmaria escrevi e tomei nos meus livros de notas e 
+tombo das cartas das sesmarias desta dita cidade que em meu poder ficam onde o dito 
+instrumento fica assinado pelo dito senhor capitão e governador com a entrelinha atrás que diz 
+“nem pensão alguma"; o borrado grande acima que está em cima da onde diz “respeito” e diz 
+“quadra”; no borrado que diz: “das”;  no borrado onde diz:”que se”; no outro borrado onde diz: 
+“que se” e no riscado que diz: “do mês”, porque tudo se fez por fazer verdade e eu sobredito o 
+escrevi //Salvador Correia de Sá//  
+ 
+ 
+-Fim da Transcrição- 
+ 
+Observações do documento: 
+Referências: 
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas 
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.01. 
+ 
+Original no livro:  
+Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: p.01. Códice 778-1 (1594-1595)  
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

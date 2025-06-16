@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0116
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Vieira Ribeiro, João Francisco Ribeiro, José Ribeiro, Manuel Nunes da Costa, Manuel Nunes de Azevedo, Miguel Sá Leitão",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-10-1701",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e duas de comprimento e estava localizada ao longo do rio Peruíbe e próximo ao rio das Caravelas, na Bahia, fazendo fronteira com as terras de Manuel Francisco.",
+  "Localidade": "Rio Peruíbe",
+  "Marcos Geográficos": "Rio Peruíbe; rio das Caravelas",
+  "Confrontantes": "Manuel Francisco",
+  "Observações da petição": "O suplicante solicitou a terra juntamente com mais outros cinco sesmeiros, foram eles: José Ribeiro, Antônio Vieira Ribeiro, Miguel Sá Leitão, Manuel Nunes de Azevedo e o alferes Manuel Nunes da Costa; pedindo três léguas de comprimento e uma de largura para cada um.",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha cabedal; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 6,
+  "Observações das Justificativas": "Pretendia morar nas terras.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que deveriam ser concedidas aos supliciantes uma légua em quadra a cada um. O provedor da fazenda afirmou que concordava com o tamanho das terras sugeridas pelo procurador, mas adicionou que era preciso conceder as sesmarias de forma separada, dando a cada um título separado, pois a experiência mostrou que era muito prejudicial em uma única carta conceder a sesmaria para várias pessoas. O governador concordou e concedeu essa sesmaria apenas à João Francisco Ribeiro, mas foram duas léguas de comprimento e uma de largura.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.\r\n",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Faria",
+  "referencia": "BA0116"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de alvará de sesmaria que, em nome de Sua Majestade, se concedeu a João Francisco 
+Ribeiro para ele e seus descendentes de terra contida nele 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que João Francisco Ribeiro, José Ribeiro, Antônio 
+Vieira Ribeiro, Miguel Sá Leitão, Manuel Nunes de Azevedo e o alferes Manuel Nunes da 
+Costa se me enviou a representar a petição do teor seguinte: Senhor, dizem João Francisco 
+Ribeiro, José Ribeiro, Antônio Vieira Ribeiro, Miguel Sá Leitão, Manuel Nunes de Azevedo e 
+o alferes Manuel Nunes da Costa que lhes veio a notícia que no rio das Caravelas, no rio 
+Peruíbe, que corre da norte a sul, para a parte do oeste estão muitas terras devolutas e 
+despovoadas por falta de moradores que as cultivem por estarem para o sertão a dentro e os 
+suplicantes se acham capazes e com ânimo e cabedal para as cultivarem e morar nelas, o que 
+não podem fazer sem a Real licença da Majestade. Portanto, pede a Vossa Senhoria [que] lhe 
+faça mercê conceder em nome de sua Real Majestade, que Deus o guarde, uma légua de terra 
+de sesmaria a cada um dos sobreditos de largura pelo dito rio Peruíbe acima da parte do oeste 
+com 3 léguas de comprimento para o sertão em cada uma das ditas léguas dos pedidores as 
+quais marcações principiarão de onde acabar a sesmaria de Manuel Francisco, entrará João 
+Francisco Ribeiro e os demais se vão inteirando conforme se seguem acima, não prejudicando 
+a terceiro e, sendo o caso que esteja dada a dita terra onde os suplicantes pedem, poderão lavrar 
+posse em todo o caso pelo dito rio Peruíbe, acima para a parte do oeste, onde acharem terra 
+devolutas sem data de Sua Majestade a cada um dos suplicantes e uma légua de largura com 3 
+de comprimento para o sertão com terra, matos, águas, campos, campinas, logradouros e 
+serventia que lhe pertencerá. E receberá mercê. E visto o parecer do doutor procurador da 
+Fazenda Real deste Estado e a informação do provedor-mor dela que são as seguintes: o rio das 
+Caravelas necessita de povoação e parece justo [que] se dê a cada um dos suplicantes uma légua 
+de terras de largura e uma de comprimento no sítio que declaram onde não esteja dada de 
+sesmaria a outrem sem prejuízo de terceiros e com as mais cláusulas da lei, levando também no 
+alvará a cláusula de que não valerá em que para a posse façam citar os éreos confiantes para 
+alegarem no decerto quando o tenha. Bahia, 20 de setembro de 1701 // Faria // Senhor, ainda 
+que na quantidade de léguas de terra que cada um dos suplicantes pede de sesmaria, não excede 
+a última ordem de Sua Majestade, parece que nas 2 léguas, em que convém a doutor procurador 
+da Fazenda Real, ficarão bastantemente acomodados. Porém, dimensionado convém que a data 
+seja na sociedade que pretendem mas a cada um de posse estritamente, porquanto tem mostrado 
+todas as experiencias que um se fica com o domínio das terras dadas nesta forma a muitos, 
+contra a intenção da lei e bem dos mais vassalos de Sua Majestade como é notório o manifesto 
+feito pelas suas queixas de lhe ser necessário comprarem ou arrendarem sítios para as suas 
+criações e culturas  as quem as possui sem a compra nem mais trabalho que o de pedir as terras 
+para si e em nome de todos que quis nomear para lhe suceder, mas até pelos tributos que me 
+lhes parece, mais acomodam o que parece [que] se deve obrar, fazendo assim concessão e sob 
+todas as cláusulas da lei das sesmarias e a de não poderem cortar madeiras que possam ter 
+serventia para a fábrica das naus que Vossa Majestade que de novo, foi servido mandar 
+estabelecer neste Estado e isto é o que me parece , Vossa Senhoria mandará o que mais convier. 
+Bahia, 26 de setembro de 1701 // Francisco Lamberto //  Hei por bem conceder e dar de sesmaria  
+em nome de Sua Majestade, que Deus guarde, ao dito João Francisco Ribeiro, para ele e seus 
+descendentes uma légua de terra de largura e 2 de comprimento na parte que as  pede, como 
+confronta em sua petição neste inserta, não prejudicando a terceiro, com as cláusulas que o 
+provedor-mor da Fazenda Real aponta na sua informação a qual terra  se aproveitará dentro do 
+termo da lei, e as não poderá alhear nem passará a outro algum domínio sem as ter aproveitado 
+com condição de se darem logo neste caso a quem a outra pessoa, nem o poderá fazer sem 
+
+expressa ordem de Sua Majestade e com as mais cláusulas contidas na ordenação do Reino, 
+título de sesmarias e forma do capítulo 26 do regimento novo deste governo geral as quais terras 
+terá e possuirá com todas as suas águas, matas, testadas, logradouros e mais úteis que nelas se 
+acharem com foro livre e isento de pensão salvo o dízimo a ordem de Cristo que pagará pelos 
+frutos que delas houver, e por elas serão obrigados a dar caminhos públicos e particulares para 
+fontes, pontes, portos e pedreiras com declaração que se havendo nas ditas terras alguma aldeia 
+de índios, não fique o dito João Francisco Ribeiro senhor dela e nem das terras que ocuparem 
+os índios na forma das novas ordens de Sua Majestade. Pelo o que ordeno a todos os ministros 
+e oficiais de justiça, a que o conhecimento deva ou possa pertencer, [que] lhe façam dar e deem 
+posse real, efetiva e atual demarcando-se no tempo dela citados os éreos, que enviarão certidão 
+a casa dos contos de onde se registrará. Para a firmeza do que lhe mandei lavrar a presente sob 
+o sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, Fazenda 
+Real dele e nos do escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente 
+com nele se contém sem dúvida, embargo nem contradição alguma // Luiz da Costa Sepúlveda 
+// a fez nesta cidade do Salvador, Bahia de todos os santos aos 10 dias do mês de outubro, ano 
+de 1701 // Gonçalo Ravasco Cavalcante e Albuquerque // a fiz escrever // Selo // Dom  João de 
+Lencastro // Alvará porque Vossa Senhoria Ilustríssima houve por bem de conceder e dar em 
+nome de Sua Majestade, que Deus o guarde, a João Francisco Ribeiro, para ele e seus 
+descendentes légua de terra de largura e 2 de comprimento na parte que as pede e confronta em 
+sua petição nesta inserta, principiando a demarcação de onde acabar a data de Manuel 
+Francisco, não prejudicando a terceiro e com as cláusulas que apontam os ministros da Fazenda 
+e com seus pareceres nele declarados e com as mais confirmadas na forma costumada pelos 
+respeitos acima declarados. Para Vossa Ilustríssima ver. Registrado no livro 5° dos registros da 
+secretaria do Estado do Brasil, que tocava as folhas 173. Bahia, 18 de outubro de 1701 // 
+Ravasco // Registrou-se. Bahia, 17 de outubro de 1701 // Lamberto // ano de nascimento de 
+nosso Senhor Jesus Cristo de 1702 anos aos 23 dias do mês de fevereiro do 2° ano nesta vila do 
+Santo Antônio do rio das Caravelas de Sua Majestade, que Deus guarde. Fui eu, escrivão, a 
+requerimento de André de Sousa Nunes no rio Peruíbe, e sendo lá logo pelo dito André de 
+Sousa me foi requerido e apontado esta carta de sesmaria em umas procurações bastante de 
+João Francisco Ribeiro no qual o fazia seu procurador, dizendo-me que aquelas são as terras 
+contidas nas sobredita data a que lhe deve passar delas, o que tudo visto e examinado por mim, 
+logo, apregoei enalta e inelegível nas que dava posse daquelas terras ao sobejos de João 
+Francisco Ribeiro por seu procurador, e se ouvirem alguma pessoa que tiverem que descer a 
+ela, viesse com seu embargo e por não haver saber aos impedimentos, logo peguei pela mão ao 
+dito procurador com ele pela dita terra absolutamente e lhe meti ramos verdes e terra nas mãos, 
+e houve por invertido e empossado na dirá data de terra a qual confronta nestas mesmas 
+confrontações da dita sesmaria na parte de onde as pedem e lhe são concedidas, sendo a tudo 
+presente por testemunha o capitão João Pereira do Lago e o tabelião Manuel Neto Cruz, que 
+todos assinaram a o escrivão deu fé bem conhecer as ditas pessoas pelas mesmas a que 
+assinadas, e eu, Antônio de Carvalho Vilela o escrevi // João Pereira do Lago // Manoel Neto 
+Cruz // João Correia Seixas // assinou em 9 de setembro do dito ano de 1702 
+ 
+ 
+ 
+- Fim de Transcrição- 
+ 
+ 
+
+Observações: 
+- Os nomes dos suplicantes no documento original constam como: “João Francisco Ribeiro”, 
+“Joseph Ribeiro”, “Antonio Vieira Ribeiro”, “Miguel [Sá] Leitão”, “Manoel Nunes de 
+Azevedo” e “Manoel Nunes da Costa” 
+ 
+Referências: 
+AN, Códice 427 vol. 2, fls. 167v – 169v. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

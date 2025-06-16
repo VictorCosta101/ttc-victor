@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0034
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0062",
+  "Nome": "Antônio Alves Pereira, Antônio Pereira, Francisco Alves Pereira, Gonçalo Martins Pereira, Lourenço de Almeida, Mateus Pereira de Almeida, Tomás Pereira de Noronha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "17-12-1715",
+  "Data da concessão": "24-12-1715",
+  "Observações da sesmaria": "Os suplicantes requereram três léguas de comprimento e uma légua de largura para cada um na serra dos Garanhuns, entre o rio Cururuipe e a serra do Priacá. ",
+  "Localidade": "Serra dos Garanhuns",
+  "Marcos Geográficos": "Serra dos Garanhuns, Rio Cururuipe e serra do Priacá",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 7,
+  "Observações do deferimento e da concessão": "O procurador da Coroa, Antônio Rodrigues Pereira, recomendou que os suplicantes pagassem o foro régio e seguissem as Ordenações Filipinas, Livro 4º, Título 43.",
+  "Observações das exigências": "O governador Dom Lourenço de Almeida ordenou que os suplicantes pagassem o foro de 4 mil réis por légua requerida. O governadorDom Lourenço de Almeida  ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Lourenço de Almeida  ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0034"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0034 
+ 
+Carta de doação e sesmaria de Lourenço de Almeida e Matheus Pereira de Almeida - 
+24/12/1715 
+ 
+SESMARIA QUE SE PASSOU AO CAPITÃO LOURENÇO DE ALMEIDA E A MATHEUS 
+PEREIRA DE ALMEIDA E A OUTROS MAIS, DE UMAS TERRAS PARA A PARTE DO 
+RIO DE SÃO FRANCISCO. 
+ 
+Dom Lourenço de Almeida, do Conselho de Sua Majestade, governador de Pernambuco e mais 
+capitanias anexas e etc. Faço saber  aos que esta carta de doação de sesmaria virem que o capitão-
+mor Lourenço de Almeida, Matheus Pereira de Almeida, o capitão Antônio Alves Pereira, o capitão 
+Gonçalo Martins Pereira, Francisco Alves Pereira, Antônio Pereira e Thomaz Pereira de Noronha, 
+me fizeram a petição cujo teor é o seguinte: Senhor governador. Dizem o capitão-maior dom 
+Lourenço de Almeida, o capitão Antônio Alves Pereira, Gonçalo Martins Pereira, Matheus Pereira 
+de Almeida, Francisco Alves Pereira, Antônio Pereira e Thomaz Pereira de Noronha, moradores no 
+rio de São Francisco, que eles suplicantes tem seus gados para poderem povoar terras novas que 
+nunca foram habitadas nem tiveram donos, como é entre o rio Cururuipe e Traipu e Porconicho da 
+serra dos Garanhuns e por detrás da serra [das Mãos] e Priáca, e junto a serra negra nos campos a 
+que chamam alegres, e por debaixo deles umas léguas que tudo está devoluto e desaproveitado, e 
+sendo povoadas aquelas terras que forem capazes de se povoarem, havendo águas, será de muita 
+utilidade e aumento a Fazenda Real em seus dízimos e mais direitos em cujos termos; pede os 
+suplicantes a Vossa Senhora seja servido conceder-lhes por títulos de sesmarias todas as terras que 
+nestes meios se acharem devolutas, capazes de se poderem aproveitar conforme a sua confrontação 
+na forma que pedem, pela falta de águas, senão poderem povoar todas, sendo isto em utilidade e 
+aumento da Fazenda Real e dos moradores, visto estar aquele sertão devoluto mandando-lhe passar 
+provisão na forma do estilo. – E receberá mercê. Despacho. Informe o provedor da Fazenda Real, 
+ouvindo o procurador da Coroa e Fazenda Real. Olinda, 17 de dezembro de 1715. "Rubrica". Haja 
+vista o doutor procurador da Coroa, em virtude do despacho do senhor governador. Recife, 18 de 
+dezembro de 1715. "Barros". Não se me oferece dúvida em que se deem três léguas de terra a cada 
+um dos suplicantes nas partes que confrontam, com a obrigação do foro e no mais conforme a 
+Ordenação Livro 4.° título 43. Recife, 18 de dezembro de 1715. "Pereira". Senhor governador. Em 
+observância do despacho de Vossa Senhoria ouvi ao doutor procurador da Coroa e Fazenda, e com o 
+que diz em sua resposta me conformo a vista de que as terras que pedem os suplicantes não foram 
+habitadas nunca e podem servir de aumento a Fazenda de Sua Majestade, que Deus guarde, com a 
+multiplicação dos dízimos que nelas acrescerem; assim me parece que Vossa Senhoria, sendo 
+servido lhe mande passar a sua carta de sesmaria, com as cláusulas contidas nas ordens do dito 
+senhor, que se acham registradas na Secretaria deste Governo de 20 de janeiro de 1699 e 17 de 
+
+junho de 1711. Vossa Senhoria mandará o que for servido, com a inteireza que costuma. Recife, 19 
+de dezembro de 1715 = João do Rego Barros. E havendo, outrossim, respeito ao que Sua Majestade 
+me concede no capítulo 15 do regimento deste Governo: Hei por bem de lhe fazer mercê aos 
+suplicantes acima nomeados como pela presente dou de sesmaria em nome de Sua Majestade, que 
+Deus guarde, nos mesmos lugares, partes e testadas que confrontam em sua petição três léguas de 
+terra de comprido e uma de largo para cada um deles dentro das mencionadas em sua petição, na 
+mesma forma que parece ao provedor da Fazenda Real e ao doutor procurador da Coroa, pagando 
+de foro por cada légua quatro mil reis e o dízimo a ordem de Cristo, segundo as disposições reais, 
+os quais povoarão a dita no tempo de cinco anos, aliás se darão por devoluta e as possuirão e 
+gozarão os suplicantes, eles e seus herdeiros, não prejudicando a terceiro com todas as suas matas, 
+águas, campos, testadas, logradouros e mais úteis que nelas se acharem, não prejudicando a terceiro; 
+com condição que não sucederão nelas religiões por nenhum título e seja com o encargo de 
+possuindo-as, sejam como devedores e pagarem dízimos como se fossem possuídas por seculares, e 
+faltando-se a isso se haverão por devolutas na forma da ordem de Sua Majestade por carta de 17 de 
+junho do ano de 1711; e serão obrigados a dar pela dita terra caminhos livres ao Conselho para 
+fontes, pontes e pedreiras, e a requerer a confirmação desta data por Sua Majestade no termo de 
+dois anos. Pelo que ordeno a todos os ministros da Fazenda e Justiça destas capitanias a que o 
+conhecimento desta carta pertencer, lhe façam dar a posse real, efetiva e atual, na forma costumada 
+e debaixo das cláusulas referidas e da Ordenação Título de sesmarias, que por firmeza de tudo lhe 
+mandei passar a presente por mim assinada e selada com o sinete de minhas armas, a qual se 
+registrará nos livros da Secretaria deste Governo, nos da Fazenda e Foral Real a que tocar, e sem 
+esta precisa circunstância não terá vigor nem validade a presente carta de sesmaria. Dada nesta 
+cidade de Olinda, 24 de dezembro. Manoel da Silva Rosa a fez. - ano de 1715. O secretario doutor 
+Lopes Preto - a fez escrever = Lourenço de Almeida. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 206 - 209. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

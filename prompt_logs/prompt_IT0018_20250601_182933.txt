@@ -1,0 +1,187 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0018
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0426",
+  "Nome": "Miguel Rodrigues de Sepúlveda",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "11-04-1690",
+  "Observações da sesmaria": "O suplicante requereu meia légua de comprimento e meia légua de largura próximo a aldeia de Morembica, entre o rio Capibaribe e a capitania de Itamaracá. ",
+  "Localidade": "Rio Capibaribe",
+  "Marcos Geográficos": "Aldeia de Morembica",
+  "Justificativas": "Participou da guerra contra os holandeses; As terras eram devolutas; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0018"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0018
+Carta de concessão de Miguel Rodrigues Sepulveda de 11/04/1690
+Registo do alvará de doação e sesmaria de 2000 braças de terra em quadra e
+concedida a Miguel Rodrigues Sepulveda.
+Dom Frei Manuel da Resurreição, do Conselho de ElRei, meu senhor, arcebispo da
+Bahia e governador do Brasil. Faço saber aos que este alvará de doação e confirmação
+de sesmaria virem, que havendo respeito ao que por parte do capitão Miguel
+Rodrigues Sepulveda, capitania de Pernambuco, se me representou a carta de
+sesmaria que o capitão-mor da capitania de Itamaracá, Antônio Botelho da Silva, lhes
+concedeu, cujo teor é o seguinte: = Antônio Botelho da Silva, capitão-mor da
+capitania de Itamaracá, da vila de Nossa Senhora da Conceição e seu termo, capitania
+de Pernambuco, por Sua Alteza, que Deus guarde. Faço saber aos que esta minha
+carta de sesmaria e doação virem, e dela o conhecimento com direito de pertencer, em
+como me enviou a dizer em sua petição por escrito o capitão Miguel Rodrigues
+Sepulveda, assistente com sua companhia no presídio desta praça e cavaleiro professo
+na Ordem de Nosso Senhor Jesus Cristo, dizendo nela que ele tinha servido a Sua
+Alteza nas guerras contra o inimigo holandês, passante de 45 anos, sendo nelas
+soldado pago, alferes, ajudante e de presente capitão em todas as ocasiões de maior
+importância, como constava que me apresentou e que tinha as obrigações de filhos a
+que dar; que nunca fosse premiado com datas de terra para nelas trazer suas lavouras e
+tirar madeira, assim para de seu engenho de açúcar para o sustento de sua pessoa,
+filhas e escravos, e por a notícia vindo que junto a aldeia de Morembica, entre a de
+[Capibaribe] e Itamaracá, estava uma sorte de terras de 2000 braças, de pouco mais ou
+menos, devolutas e desaproveitadas, sem que pessoa [...] de quarenta anos nelas
+moram, as quais intestão com terras [...] Antônio Cavalcante de Albuquerque e com
+os herdeiros de Pedo [...], que de presente lhas comprou o capitão Manuel de [...], os
+mais éreos com quem direitamente [...] confrontar. Pelo que me pedia em fim e
+conclusão da dita sua petição, lhe fizesse mercê dar de sesmaria por devolutas e
+desaproveitadas, em nome de Sua Alteza, que Deus guarde, as ditas 2000 braças de
+terra em quadra, se as houvesse, e que não as havendo as pudesse tomar no
+cumprimento e na largura para onde as houver e melhor lhe acomodar, seguindo os
+rumos da agulha demarcar, não prejudicando a terceiro, que de bom título as tenha em
+
+parte ou em [...] para poder possuir as que não estiverem dadas se não tivessem donos,
+pedindo-as assim em remuneração de seus serviços, e receberiam por mercê; a qual
+petição sendo-me apresentada e vista por mim, nela pus o meu primeiro despacho do
+teor seguinte: que o provedor da Fazenda Real me informase a povoação de
+Capibaribe de Goiana, 29 de janeiro de 1683 anos. Botelho. E sendo a dita petição e
+meu despacho levado ao provedor da Fazenda Real, proprietário o capitão Sebastião
+Lopes Grandio, e sendo por ele [...], nelas pôs o seu despacho do teor seguinte: que o
+escrivão da Fazenda Real informasse se constava dos livros dos registros das datas [...]
+dadas as terras conteudas na petição acima, para satisfazer ao despacho do senhor
+capitão-mor da Vila da Conceição, 4 de fevereiro de 1683 anos. Grandio. E sendo
+outrossim, a dita petição e desapachos levada ao escrivão proprietário da Fazenda
+Real, o alferes Antônio Vaz, cujo teor é o seguinte: Senhor provedor. Constava do
+livro dadas e que por ser assim. [...] de Sua Alteza em seus [...] cultivem e apresentem
+[...] melhor lhe parecer por bem [...] 4 de fevereiro de [1683] e [...], a qual petição
+despacho informação [...] da Real Fazenda e vista por ele [...] Senhor capitão-mor,
+vista a informação de que as terras de que se trata na petição estão devolutas e
+desaproveitadas, vosmice [...] tem utilidade da fazenda de Sua Majestade [...] dízimos
+reais. Vila da Conceição, [?] de fevereiro de 1683 anos. Sebastião Lopes [...] a
+informação nela incertos [...] pus e pronunciei em meu último despacho [...]
+informação do provedor-mor da Fazenda Real [...] e carata de sesmarias ao suplicante
+[...] a terceiro povoação de Capibaribe [...] 1683 anos. Botelho [...] se passou a
+presente carta de sesmaria e doação [...] bem e me apraz de dar e doar em nome [...]
+para todo sempre ao dito suplicate [...] a dita terra conteuda em sua petição [...] assim
+em quadra as ditas 2000 braças de cumprimento, fazendo do comprimento largura e
+da largura comprimento das ditas 2000 braças em quadra [...] no cumprimento, com
+todos os juízes [...] o mais nelas pertencentes aos seus campos [...] para ele as lograr e
+possuir, e lograr seus filhos ascendentes descendentes e sucessores, que após eles
+vierem [...] em nome de Sua Alteza, livres, isentos de pensão ou tributo algum, salvo
+dízimo a Deus do que nela se desfrutar [...] por si ou por seu procurador real atual,
+sem dúvida, embargo, nem contradição alguma, porque havendo [...] mostrando seus
+títulos perante mim ou de qualquer julgando [...], para se julgar a justiça que cada [...]
+disso e poderá fazer [...] tudo o que lhe pas [...] a terra como de coisa sua própria [...]
+é o [...] sendo de hoje para todo sempre; e ordeno a todos os julgados que mande aos
+oficiais de Justiça desta dita vila e capitão, façam [...] em [...] de posse da dita [...] ao
+
+dito capitão Miguel Rodrigues Sepulveda, na sobredita forma, esta se registará nos
+livros dos registros da Fazenda Real desta capitania e ao [...] mais tocar, para se saber
+como tinha feito [...] mercê a doação da sobredita terra ao suplicante, em certeza do
+que lhe mando passar a presente carta de sesmaria por mim assinada selada com o
+sinal de minhas armas, aos 2 dias do mês de março, ano do Nascimento de Nosso
+Senhor Jesus Cristo, da era de 1683 [...] Segue-se de feitio desta 1$280 réis e de
+assinar [...] Tabalião do público judicial e notas nesta vila de Nossa Senhora da
+Conceição, capitania de Itamaracá, por Sua Alteza, que Deus guarde [...] Proprietário
+do dito ofício o fez escrever e subscrever [...] Pedindo-me lhes fizesse mercê em
+nome de ElRei, meu senhor, confirmar a dita sesmaria na forma costumada. E
+receberá mercê. E vista a resposta do procurador da Fazenda Real deste Estado, que é
+aumento, não duvido se deem ao suplicane as terras que pede, nem prejudicando a
+terceiro, visto não excederem na quantia ao que sua [...] em suas provisões. Bahia, 22
+de março de 1690. Pita. E a informação do provedor-mor da dita [Fazenda] Real, que
+também é a que se segue: senhor, o suplicante tomou posse de 2000 de terra em
+quadra, que lhe foram dadas de sesmaria pelo capitão-mor de Itamaracá, Antônio
+Botelho da Silva, em nome.......e são passados quase sete anos, não sendo o termo da
+Lei mais que [...] para se povoarem ou apresentarem as terras que se dão de sesmaria
+[...] se [...] a dar a quem as pedir por devolutas, porém como [...] não consta se estão
+ou não estão apresentadas as braças....se lhe deram-me conforme com o parecer do
+procurador da Fazenda Real e confirmação que pede. Vossa Senhoria Ilustríssimo
+mandará o que for servido. Bahia, 1º de abril de 1690. Francisco Lamberto. Hei por
+bem de lhe confirmar e dar de novo ([...] servido for, como pela presente faço) em
+nome de ElRei, meu senhor, a dita sesmaria que o capitão-mor da capitania de
+Itamaracá, Antônio Bulhões da Silva, concedeu ao suplicante de 2000 braças se [...]
+assim e da maneira que nela sucedem, como parece aos ministros da Fazenda, não
+prejudicando a terceiro, com todas suas águas, campos, matas, testadas, logradouros e
+mais úteis que nelas e acharem, tudo foro livre, isento de pensão ou tributo algum,
+salvo dízimos a Ordem de Cristo (que pagarão dos frutos que nelas houver) e por ela
+será obrigado a dar caminhos públicos a todos e particulares para fontes, pontes,
+portos, pedreiras e de as cultivar no termo da Lei e Regimento, pois nesta
+conformidade lhas concedo e se demarcará ao tempo da posse, citados os éreos de que
+enviará certidão para se registrar nos livros da Fazenda Real, e as aproveitará sua [...]
+não as podendo vender nem alhear sem ordem expressa de ElRei, meu senhor, aliás,
+
+ficarão devolutas para quem de novo as pedir, pelo que mando a todos os ministros de
+Justiça, a que o conhecimento deste com direito deve ou possa pertencer, lhe faça dar
+a posse real, efetiva e atual, na forma costumada, debaixo das cláusulas assim
+referidas e as mais da Ordenação Título das Sesmarias. Para firmeza do que mandei
+passar a presente sob meu sinal e selo de minhas armas, o qual se registrará nos livros
+da Secretiara do Estado e Fazenda Real dele e nos do escrivão das sesmarias, e se
+guardará e cumprirá tão pontal e inteiramente, como nela se contém, sem dúvida,
+embargo, nem contradição alguma. Manuel [Rodrigues] a fez nesta cidade de
+Salvador, Bahia de Todos os Santos, em 11 dias do mês de abril do ano de 1690.
+Bernardo Vieira Ravasco, a fiz escrever. Frei Manoel, arcebispo governador = Selo =
+Alvará de doação e confirmação de sesmaria que Vossa Senhoria Illustríssima foi
+servido confirmar e dar de novo, se necessário fosse, em nome de Sua Majestade a
+sesmaria que o capitão-mor da capitania de Itamaracá, Antônio Botelho da Silva,
+concedeu ao capitão Miguel Rodrigues se [...] de 2000 braças de terra, assim e da
+maneira que nele se contém e me parece aos ministros da Fazenda, não prejudicando a
+terceiro, [...] cláusulas acima referidas. Para Vossa Senhoria ver. Registrado no livro
+2º dos Registros da Secretaria do Estado do Brasil, a que toca as folhas [?]. Bahia, [...]
+de 1690. Ravasco. Registrou-se. Bahia, [...] de 1690. Lamberto.
+- Fim da Transcrição -
+Referência:
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 315-317v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,132 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0267
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Antunes Suzano",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-10-1722",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas em lugar não identificado",
+  "Marcos Geográficos": "Serra de Marapicu, morro de Gericinó",
+  "Confrontantes": "Terras dos religiosos carmelitas, terras chamadas Capoeiras, anteriormente pertencente ao falecido Martinho Álvares",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Sesmeiro anterior falecera sem deixar herdeiros ou procurador; Tinha escravos; Alegou possuir muitos familiares; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0267"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0267
+Carta de concessão de Manuel Antunes Suzano de 8 de outubro de 1722
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manuel Antunes Suzano, que entre a Serra de Maripicu, da data de terras dos
+religiosos de Nossa Senhora de Monte do Carmo e as datas chamadas das Capoeiras estão
+terras devolutas, que podem ter pouco mais [ou menos] meia légua de largura, com o mais
+sertão caminhando para Morro do Gericinó, as quais foram já dadas a Martinho Álvares
+haverá mais de 30 anos, e teve nelas sítio, [e há de haver] os sobreditos que é falecido e sem
+herdeiros, e de então a esta parte está as ditas terras devolutas, e porque ele suplicante tem
+filhos e escravos bastantes para poder cultivar, para sustentação da sua família e de que
+também se segue utilidade aos povos e aumentos aos Reais dízimos, me pedia lhe fizesse
+mercê mandar dar por sesmaria a dita terra devoluta, que fica entre as outras acima
+declaradas, e dando-se vista deste requerimento ao provedor da Fazenda Real e ao procurador
+da Coroa, não se lhes oferecendo dúvida. Hei por bem fazer mercê ao dito Manuel Antunes
+Suzano de lhe dar por sesmaria, em nome de Sua Majestade, que Deus guarde, a referida
+terra; não excedendo, porém, uma légua em quadra na forma das ordens do mesmo Senhor;
+sem prejuízo de terceiro ou do direito que algumas pessoas possam ter a elas; com declaração
+que mandará cultivar e também confirmar esta minha carta por Sua Majestade, que Deus
+guarde, dentro de 2 anos, e não o fazendo se lhe denegará mais tempo. Pelo que mando ao
+ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito Manuel
+Antunes Suzano na forma e maneira acima declarada. E por firmeza de tudo, lhe mandei
+passar a presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém e se registrará nos Livros da Secretaria deste governo e nos
+mais o que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, aos 8 dias do mês de
+outubro de 1722. João Paes de Paredes a fez. O secretário, José [Ferreira da Fonte], a fez
+escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+
+Carta porque Vossa Senhoria há por bem fazer mercê a Manuel Antunes Suzano de lhe dar
+por sesmaria, em nome de Sua Majestade, que Deus guarde, a referida terra na forma acima
+declarada.
+Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+131. Rio, 8 de outubro de 1722.
+//José Ferreira da Fonte//
+Cumpra-se e registre-se nos [Livros da] Fazenda Real. Rio, 14 de outubro de 1722.
+//Cordovil//
+Lançada neste Cartório das Sesmarias no Livro da nota atual a folha 122. Rio, 19 de outubro
+de 1722.
+//Manuel de Vasconcelos Velho//
+Registrada no Livro 21 dos registros desta Provedoria a folha 72. Rio de Janeiro, 14 de
+outubro de 1722.
+//Francisco de Oliveira Leitão//
+O doutor Antônio de Sousa de Abreu Grade, do dezembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral, corregedor da comarca com alçada no civel e crime nesta cidade do
+Rio de Janeiro e nas mais capitanias de sua repartição, e juiz das justificações, etc. Aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que esta fez, ser a letra da firma posta no fim da certidão, digo, posta no fim da
+carta de sesmaria [atrás] do governador e capitão general desta praça, Aires de Saldanha e
+Albuquerque Coutinho Matos e Noronha, o que hei por justificado e verdadeiro. Como
+também atrás há a firma dos registros acima. Rio de Janeiro, 25 de novembro de 1722 anos.
+Eu, Domingos Rodrigues Tavora, escrivão das justificações, a fiz e escrevi.
+//Antônio de Sousa de Abreu Grade//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro concedeu e deu de Sesmaria a
+Manoel Antunes Suzano umas terras com as confrontações descritas na mesma carta. Rio de
+Janeiro. 8 de outubro de 1722.
+Manoel Antunes Suzano foi atulizado para Manuel Antunes Suzano.
+Serra de Jerecinó foi alterado para Morro do Gericinó.
+
+Referência:
+AHU_ACL_CU_017-1, Cx. 22\Doc. 5068
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

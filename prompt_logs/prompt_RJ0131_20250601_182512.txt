@@ -1,0 +1,168 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0131
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Lázaro Fernandes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "17-11-1603",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Pede-se a petição para a mesma localidade que Manuel de Abreu solicitou, na mesma data, porém ao final da carta, de próprio punho, o governador Martim de Sá adverte que, em relação a sesmaria concedida, não se deve entrar \"pela dada que foi Antônio a Anes, Sacura, por ser dada a morador da terra\", no caso para as posses de Abreu.",
+  "Localidade": "Campo Grande",
+  "Marcos Geográficos": "São Sebastião do Rio de Janeiro",
+  "Confrontantes": "Terras de Pedro da Costa",
+  "Justificativas": "Era morador(a) da Capitania; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Não tinha terras para a plantação de lavouras; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Os suplicantes também alegaram que possuíam mulher e filhos.",
+  "Observações do deferimento e da concessão": "Em relação ao deferimento da concessão, também recomendou-se: \"e sendo dadas corram por adiante enchendo uma légua e meia com suas águas e passe sua carta\".",
+  "Observações das exigências": "Determinou-se aos suplicantes que \"hajam a posse o senhorio das ditas terras e águas para sempre\", além de exigir-se que \"rompam e aproveitem as ditas terras e as águas e as frutifiquem da data desta em 3 anos primeiro seguintes, e outrossim, farão de maneira que dentro de 4 meses tenha feito nelas algum proveito e plantado alguns mantimentos, cumpridos dos 3 anos que as tem aproveitadas como dito é, porque não fazendo eles assim, passados os ditos 3 anos se darão as ditas terras e águas que aproveitado não tiverem de sesmarias aquém as pedir para aproveitar, lhe será deixado alguns logradouros do que aproveitado não tiverem e sobretudo pagará 1000 réis para as obras do Conselho e darão pelas ditas terras, caminhos e serventias que ordenados e necessários para o Conselho e para fontes, pontes, vieiras e pedreiras que necessário forem, as quais terras e águas pela sobredita maneira lhes assim deu forras e  isentas sem foro nem tributo, nem pensão, somente de tudo que Nosso Senhor lhes der nela de suas novidades e lavouras e criações, pagarão os dízimos a Deus conforme o dito Regimento\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0131"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0131
+Carta de concessão de sesmaria de Lázaro Fernandes e Pedro da Silva de 17 de
+novembro de 1603
+Forra
+(FL 82v) Saibam quantos este instrumento de cartas de sesmarias virem, que no ano do
+nascimento do nosso senhor Jesus Cristo de 1603 anos, aos 17 dias do mês de novembro
+do dito ano, nessa cidade de São Sebastião do Rio de Janeiro do Brasil, nas pousadas de
+mim escrivão adiante nomeado, apareceu Lazaro Fernandes, morador nesta cidade, e me
+apresentou uma petição com um despacho nela do senhor Martim de Sá, capitão e
+governador desta dita cidade, capitania e governança deste dito Rio de Janeiro por
+El-Rei nosso Senhor. Da qual petição do despacho dela o traslado é o seguinte: Pedro da
+Silva e Lázaro Fernandes, moradores nesta cidade do Rio de Janeiro, e suas mulheres e
+filhos que lhes é necessário terras para suas lavouras e para fazerem eles e seus filhos
+fazenda e não tem nenhumas no Campo Grande, pedem a vossa senhoria que lhes faça
+mercê de lhes dar de sesmaria no Campo Grande toda terra que se acha entre Pero da
+Costa devoluta, a qual se entenderá indo da cidade a mão esquerda, começando onde
+acabar a carta de Pero da Costa que primeiro foi dada a Gonçalo Gil, a qual Pero da
+Costa pediu por perdida, correndo até outra dada que tem o dito Pero da Costa, além de
+Piracoara, a qual foi dada primeiro a Antônio Anes, Sacura a qual o dito Pero da Costa
+pediu por perdida, e se entenderá fazer-lhes vossa senhoria mercê de toda a que se achar
+entre uma dada e outra, correndo ao longo do Campo Grande indo da cidade a mão
+esquerda e que até hoje não seja dada Pero da Costa, com comprimento que tiver para
+diante a largura para dentro fazendo do Campo Grande o marco e começar a medir da
+borda do caminho para dentro fazendo da Costa Brava sertão em sendo e sendo caso
+que seja dada a outra pessoa que não seja Pero da Costa e faça-lhes vossa senhoria
+mercê que a dar tudo por perdida, visto não haver benfeitorias feitas nelas nem nunca se
+aproveitarem com todas as águas que nas ditas terras se acharem. E receberá mercê.
+Despacho do senhor capitão e governador: dou aos suplicantes as terras que pedem
+como em sua petição tratam, não sendo dadas a morador desta cidade. Rio de Janeiro, a
+16 de novembro de 1603 e sendo dadas corram por adiante enchendo uma légua e meia
+com suas águas e passe sua carta. //Martim de Sá//. E tudo visto pelo dito senhor capitão
+governador a petição dos ditos suplicantes Lázaro Fernandes e Pero da Silva e o que
+eles pediam visto ser justo e havendo respeito ao aproveito que se pode seguir acerca da
+
+república e aos serviços de Deus e Del-Rei nosso Senhor e por a terra se povoar, deu ao
+dito suplicante Lázaro Fernandes e Pero da Silva e pelo da Silva a terra e águas contidas
+no dito seu despacho e conforme a ele onde o pediram, porquanto diziam que estavam
+devolutas e por aproveitar, para aproveitarem e fazerem suas roças e benfeitorias nelas
+como diziam não sendo já dadas a outra pessoa ou pessoas primeiro, as quais terras e
+águas dizem que estão no dito lugar e que tem dita medida e que parte pelas ditas
+confrontações como na sua petição diz, e a braça pela qual se mede a terra será a braça
+craveira, convém a saber, 2 varas de medir por 1, como no Reino se costuma de medir, o
+que tudo lhes deu e concedeu em nome Del-Rei nosso Senhor e pela maneira adiante
+declarada segundo forma de seu regimento Del-Rei nosso Senhor, que diz que o traslado
+é o seguinte: as terras que estiverem 6 léguas para cada parte que não foram dadas as
+pessoas que as aproveitarem ou, posto que eu fossem, se as pessoas a que se deram as
+não aproveitar e no tempo que eram obrigados por esta via ou por outra qualquer
+estiverem vagas as poderei dar de sesmaria aquém a voz pedir e três lembrança que não
+desatada pessoa mais terra do que aquela que segundo sua possibilidade virdes ou vos
+parecer que podem granjear, aproveitar, e as quais terras assim e livremente sem outro
+algum foro, somente o dízimo a Ordem do mestrado do nosso Senhor Jesus Cristo e
+com as condições, obrigações do foral dado as ditas terras e de minha Ordenação do
+Livro 4º, Título das sesmarias, com uma condição que a tal pessoa ou pessoas residam
+na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos,
+e que dentro do dito tempo não possa vender nem enlear, e se algumas pessoas a que
+assim forem dadas terras no termo da dita cidade e estiveram perdidas por não as
+aproveitarem e a vos tornarem a pedir, vós as poderei dar de novo com as condições e
+obrigações contidas nesse capítulo ao qual se transladará nas cartas, e porque as assim
+derdes e isto se entenderá não sendo as ditas terras dadas a outras pessoas. Com as quais
+condições e obrigações declarações lhes assim deu o dito senhor, capitão e governador
+as ditas terras e águas aos sobreditos suplicantes Lázaro Fernandes e Pero da Silva pela
+sobredita maneira e para suas guardas e seguranças lhe mandou ser feita esta carta pela
+qual manda que hajam a posse o senhorio das ditas terras e águas para sempre para eles
+e todos os seus herdeiros e sucessores ascendentes e descendentes que após deles
+vierem, com a tal condição e entendimento que eles rompam e aproveitem as ditas terras
+e as águas e as frutifiquem da data desta em 3 anos primeiro seguintes, e outrossim,
+farão de maneira que dentro de 4 meses tenha feito nelas algum proveito e plantado
+alguns mantimentos, cumpridos dos 3 anos que as tem aproveitadas como dito é, porque
+
+não fazendo eles assim, passados os ditos 3 anos se darão as ditas terras e águas que
+aproveitado não tiverem de sesmarias aquém as pedir para aproveitar, lhe será deixado
+alguns logradouros do que aproveitado não tiverem e sobretudo pagará 1000 réis para as
+obras do Conselho e darão pelas ditas terras, caminhos e serventias que ordenados e
+necessários para o Conselho e para fontes, pontes, vieiras e pedreiras que necessário
+forem, as quais terras e águas pela sobredita maneira lhes assim deu forras e isentas
+sem foro nem tributo, nem pensão, somente de tudo que Nosso Senhor lhes der nela de
+suas novidades e lavouras e criações, pagarão os dízimos a Deus conforme o dito
+regimento o que tudo manda que se cumpra e guarde sem dúvida nem embargo algum
+que lhes a eles seja posto e que esta carta seja registrada dentro de 1 ano nos Livros da
+Fazenda, como dito senhor em seu regimento manda sob as penas nele contidos e
+declaradas, e porque os sobreditos Lázaro Fernandes e Pero da Silva, suplicantes tudo
+prometeram de ter, manter e cumprir pela dita maneira lhe mandou passar esta carta de
+sesmaria, e por verdade, eu Pero da Costa, escrivão das sesmarias e tabelião das notas
+por El-Rei nosso Senhor, nesta cidade de São Sebastião e em seus termos, que esse
+instrumento de carta de sesmaria escrevi e tomei, digo, desta dita cidade que em meu
+poder estão onde o dito instrumento fica assinado pelo dito senhor capitão e governador
+com entrelinha que diz “para sempre”. (P. S. Do próprio punho de //Martim de Sá//”):
+contanto que não se entre pela dada que foi Antônio a Anes, Sacura, por ser dada a
+morador da terra. “Martins de Sá”
+Martim de Sá
+- Fim da transcrição-
+Observações do documento:
+Título original: Carta de sesmaria das terras que pediram Lázaro Fernandes e Pedro da
+Silva, no Campo Grande.
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL. Tombo das
+Cartas das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967.
+pg. 186-189. Livro Original  82v-85v.
+
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg.
+186-189. Códice 778-1 (1594-1595). FL: 82v-85-v.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,174 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0534
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Gaspar Pereira Ferraz ",
+  "Solicitaram repartição da terra em mesma medida": "Não",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "28-07-1699",
+  "Observações da sesmaria": "A sesmaria possuía uma légua de largura e uma légua de comprimento e estava localizada na região da Cachoeira. A sesmaria era ocupada por Francisco Bastos Leal, pai e sogro dos suplicantes, que tinha recebido essas terras que antes eram de coronel Pedro Camilo Pereira de Aragão, Francisco Barbosa Leal – o velho e Alexandre da Costa. Com a morte de Francisco Bastos Leal, que ainda não tinha o título da sesmaria, ela ficou devoluta, por isso os suplicantes solicitavam mais uma vez.\r\n",
+  "Localidade": "Cachoeira",
+  "Observações da petição": "A solicitação da sesmaria foi feita por dois sesmeiros, João Barbosa Leal e Gaspar Pereira Ferraz, no entanto, a concessão foi feita separadamente para cada um deles.\r\n",
+  "Justificativas": "Pretendia plantar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Deve-se reservar madeira para construção de embarcações; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou que ele era sucessor do antigo ocupante da terra, por isso, pedia que recebesse o seu título. O suplicante alegou que pretendia plantar em um período e região que estava em falta de mantimentos.\r\n",
+  "Observações do deferimento e da concessão": "O procurador da Coroa foi de parecer favorável à doação. O provedor da Fazenda Real afirmou que essa terra tinha sido doada há 26 anos para o pai e sogro dos suplicantes pelo procurador do donatário de Paraguaçu e Jaguaribe, e durante esse tempo a terra ficou desaproveitada e que aparentemente ela tinha sido concedida para outra pessoa, por isso era necessário verificar essa situação antes de conceder a sesmaria. Além disso, afirmou que necessário proibir a extração da madeira para a construção de naus. O governador afirmou que as sesmarias seriam concedidas separadamente para os suplicantes.\r\n",
+  "Observações das exigências": "Determinou-se que as terras não deveria ser alheadas antes de serem aproveitadas e sem a expressa ordem Real; Citou o capítulo 26 do regimento do Governo-Geral.\r\n",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Alvará",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Luís da Costa e Faria",
+  "referencia": "BA0534"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 0534 
+Carta de concessão a Gaspar Pereira Ferraz de 28/07/1699  
+Dom João de Lencastre, do Conselho de Sua Majestade, que Deus o guarde. Faço saber 
+aos que este alvará de doação e sesmaria virem que Gaspar Pereira Ferraz e João Barbosa 
+Leal me representaram em sua petição, cujo teor é o seguinte: senhor, dizem Gaspar 
+Pereira Ferraz e João Barbosa Leal, moradores na Cachoeira, que o sargento-mor 
+Francisco Barbosa Leal, já defunto, sogro e pai dos suplicantes, pelos serviços que havia 
+feito à Sua Majestade, que Deus o guarde, na conquista destas terras, se lhe concedeu pela 
+sesmaria inclusa meia légua de terra de largura e duas de comprimento sobre as cabeceiras 
+da parte do oeste das dadas que foram do coronel Pedro Camilo Pereira de Aragão, 
+Francisco Barbosa Leal – o velho, Alexandre da Costa e porquanto o dito sargento-mor, 
+sogro e pai dos suplicantes, não possuíra a dita sesmaria em sua vida, e no termo da lei, 
+por cuja causa está devoluta, para Vossa Senhoria a poder dar em nome de Sua Majestade 
+a eles, suplicantes, como sucessores do dito sargento-mor, devem nesta data preferir a 
+qualquer outras pessoas que a possam pedir, e desde logo querem eles, suplicantes, povoar 
+e plantar de mantimentos por ser proveito comum e geral de todos haver nas terras a 
+bastança de mantimentos, principalmente no tempo de hoje que há falta deles. E a terra 
+de que se faz menção consta de matos em partes capazes de se plantar madeiras, suposto 
+que em outras partes sejam caatingas que a não poderão. Portanto, pedem a Vossa 
+Senhoria, em consideração da referida, lhes faça mercê em nome de Sua Majestade de lhe 
+ratificar e conceder de novo a mesma terra com as mesmas confrontações e declarações 
+apontadas e toda mais que devoluta que se achar naquela parte, não prejudicando as 
+sesmarias já antes dadas para que eles, suplicantes, a povoem e aproveitem na forma 
+acima referida. E receberão mercê. E visto o parecer do doutor procurador da Coroa e 
+Fazenda Real, a que se deu vista, o qual é o seguinte: senhor, estando esta sesmaria 
+devoluta à Sua Majestade, que Deus o guarde, na forma da Ordenação e provisão que 
+para suas datas há, neste Estado, se me não oferece dúvida a concessão que pedem os 
+suplicantes por ser utilidade pública que se cultivem as terras para a abundância dos 
+mantimentos, com a condição legal que em 5 anos se povoem, aliás, fique devoluta para 
+Vossa Senhoria a prover a quem for servido, isto sem prejuízo de terceiro; é o que me 
+parece. Vossa Senhoria fará o que for servido. Bahia, 24 de julho de 1699. Luís da Costa 
+e Faria. E a informação do provedor-mor da Fazenda Real deste Estado que é a que se 
+segue: senhor, ainda que com a informação do procurador-mor da Fazenda Real, me 
+poderá parecer menos necessária a minha. Devo, contudo, representar a Vossa Senhoria 
+também em cumprimento do seu despacho, que por haver perto de 26 anos que se fez a 
+doação em inclusa ao pai e sogro dos suplicantes sem cultivarem a terra nem passando o 
+termo da lei, a tornaram a perder, e por lhe ser feita por Sebastião Rodrigues Pimenta, 
+como procurador do donatário de Paraguaçu e Jaguaribe, Dom Pedro da Costa, no ano 
+1674 como consta da carta de sesmaria junta, para lhe pagar foro de um ou dois por cento, 
+como se vendo tratado de sua procuração e que também o governador e capitão-geral que 
+foi deste Estado, o senhor Afonso Furtado de Castro do Rio de Mendonça, lhe passou 
+alvará dela no mesmo ano, parece que há notória complicação nesta data e que poderá ser 
+que os herdeiros do dito donatário se hão dado a outrem a mesma terra por devoluta e que 
+seja esta a causa de se lembrarem agora os suplicantes de a pediram a Vossa Senhoria e 
+dar com visto a ocasião de contidas os pleitos nomeados pelo que não será conveniente 
+deferir-lhes Vossa Senhoria enquanto não constar o necessário para se evitarem. E quando 
+se lhes der a terra que pedem, deve ser com expressa cláusula a condição de não se cortar 
+madeiras algumas das que possam ser serventia das naus de Sua Majestade, além das da 
+lei, porque mais importa o prejuízo do estrago que nelas fazem do que a utilidade do 
+
+pouco dízimo que resulta da sua cultura, e se é para as cortarem e venderem não é esta 
+intenção da lei, mas fazendo vindouro o que será inútil a custa das pessoas a quem se dão 
+as terras, e não desaproveitadas das madeiras que Deus nelas assim e decida as sem 
+utilidade nem rendimento algum do que se faz nesta capitania. Vossa Senhoria mandará 
+o que mais convier. Bahia, 27 de julho de 1699. Francisco Lamberto. A ser conivente ao 
+serviço de Sua Majestade, que cada um dos suplicantes se passe seu alvará particular, hei 
+por bem conceder e dar de novo em nome de Sua Majestade, que Deus guarde, ao mesmo 
+João Barbosa Leal, para ele e seus descendentes as terras que pedem e confrontam em sua 
+petição nesta inserta para se repartirem entre si igualmente e todas mais que se achar 
+devoluta, não excedendo o número de uma légua de largura e uma de comprimento, para 
+cada um deles quando haja terra bastante para isso, povoando-se sempre unidas 
+começando a demarcar-se o dito João Barbosa leal de onde acabar a data do mesmo 
+Gaspar Pereira Ferraz, com condição de não se cortar madeira alguma das que possam 
+ser de serventia e préstimo a fábrica das naus de Vossa Majestade como aponta o 
+provedor-mor da Fazenda na sua confirmação não prejudicando a terceiro a qual terra  se 
+aproveitará dentro do termo da lei, e as não poderá alhear nem passará a outro algum 
+domínio sem as ter aproveitado, com condição de se darem logo neste caso a outra pessoa, 
+nem o poderá fazer sem expressa ordem de Sua Majestade e com as mais cláusulas 
+contidas na Ordenação do Reino, título de sesmarias e forma do capítulo 26 do regimento 
+novo deste Governo-Geral, as quais terras terá e possuirá com todas as suas águas, matas, 
+testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de pensão, 
+salvo o dízimo à Ordem de Cristo, que pagará pelos frutos que delas houver, e por elas 
+serão obrigados a dar caminhos públicos e particulares para fontes, pontes, portos e 
+pedreiras, com declaração que se havendo nas ditas terras alguma aldeia de índios, não 
+fique o dito Gaspar Pereira Ferraz senhor dela e nem das terras que ocuparem os índios 
+na forma das novas ordens de Sua Majestade. Pelo que ordeno a todos os ministros e 
+oficiais de justiça a que o conhecimento deva ou possa pertencer, lhe façam dar e deem 
+posse real, efetiva e atual, demarcando-se no tempo dela, citados os heréus, que enviarão 
+certidão à Casa dos Contos, de onde se registrará. Para a firmeza do que lhe mandei lavrar 
+a presente sob o sinal e selo de minhas armas, o qual se registrará nos livros da Secretaria 
+do Estado, e nas mais a que tocar da Fazenda Real dele e nos do escrivão de sesmarias, 
+se guardará e cumprirá tão pontual e inteiramente como nele se contém, sem dúvida, 
+embargo nem contradição alguma. Manuel Rogério o fez nesta cidade de Salvador, Bahia 
+de Todos os Santos, aos 28 dias do mês de julho, ano de 1699. Gonçalo Ravasco 
+Cavalcante e Albuquerque a fiz escrever. Dom João de Lencastre. Selo. Alvará de doação 
+e sesmaria pelo qual serviu de Vossa Senhoria Ilustríssima conceder e dar em nome de 
+Sua Majestade, que Deus o guarde, Gaspar Pereira Ferraz, para ele e seus descendentes 1 
+légua de terra de largura, digo, meia légua de terra de largura e duas de comprimento, que 
+junto com João Barbosa Leal as pedem e confrontam em sua petição neste inserta para se 
+repartirem entre ambos igualmente em cada uma das partes que declaram na dita petição, 
+não excedendo o número de 1 légua de largura e três de comprimento para cada um 
+quando haja terra para isso, começando o dito Luís da Costa a demarcar com cada uma 
+das partes, de onde acabar a data do dito Gaspar Pereira Ferraz, com condição de não 
+cortar madeiras que são de serventia para a fábrica das naus de Sua Majestade como 
+aponta o provedor-mor da Fazenda as cláusulas que aponta o provedor-mor, não 
+prejudicando a terceiro nem às aldeias e terras dos índios que nelas se acharem nas 
+condições apontadas e se demarcar e confirmar esta por Sua Majestade, dentro de um ano 
+pelos respeitos acima declarados. Para Vossa Ilustríssima ver. Registrado no livro 5° dos 
+registros da Secretaria do Estado do Brasil, que tocava a folha 137. Bahia, 29 de julho de 
+
+1699. Ravasco. Registre-se. Bahia, 30 de julho de 1699. Lamberto. Registrado no dia 31 
+do dito mês e ano. 
+- Fim de Transcrição- 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, vol. 2, fls. 142 – 144. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

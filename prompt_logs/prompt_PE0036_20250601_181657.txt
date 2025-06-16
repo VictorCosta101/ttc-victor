@@ -1,0 +1,135 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0036
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0074",
+  "Nome": "Convento de Nossa Senhora do Carmo do Recife",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "25-08-1717",
+  "Data da concessão": "09-12-1717",
+  "Observações da sesmaria": "O suplicante requereu 50 braças de terra na praia de Francisco Gomes entre as terras de João da Fonseca Rego, Baltazar da Costa e Lourenço de Oliveira. ",
+  "Localidade": "Praia de Francisco Gomes",
+  "Marcos Geográficos": "Praia de Francisco Gomes",
+  "Confrontantes": "João da Fonseca Rego, Baltazar da Costa e Lourenço de Oliveira. ",
+  "Observações da petição": "O suplicante solicitou 50 braças de terra, sem especificar a quantidade de comprimento ou de largura. ",
+  "Justificativas": "Pretendia fazer curral para peixe; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou a Carta Régia de 27/06/1711; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor da Fazenda Real, João do Rego Barros, citou a ordem régia de 17 de junho de 1711 em que declara que as ordens religiosas devem pagar o foro e o dízimo das terras que possuírem. ",
+  "Observações das exigências": "O governador Dom Lourenço de Almeida ordenou que os suplicantes pagassem o foro de 6 mil réis por légua requerida. O governador Dom Lourenço de Almeida ordenou que os suplicantes povoassem a terra dentro do tempo de 5 anos. O governador Dom Lourenço de Almeida ordenou que os suplicantes requeressem a confirmação régia no tempo de 2 anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0036"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0036 
+ 
+Carta de doação e sesmaria do reverendo padre prior frei João da Purificação do Convento de 
+Nossa Senhora do Carmo da reforma do Recife. -  
+ 
+SESMARIA QUE SE PASSOU AO REVERENDO PADRE PRIOR FREI JOÃO DA 
+PURIFICAÇÃO DO CONVENTO DE NOSSA SEHORA DO CARMO DA REFORMA DO 
+RECIFE. 
+ 
+Dom Lourenço de Almeida, do Conselho de Sua Majestade, governador e etc. etc. Faço saber aos 
+que esta carta de doação de sesmaria virem, que o padre prior frei João da Purificação, do Convento 
+de Nossa Senhora do Carmo da Reforma do Recife, me representou a petição cujo teor é o seguinte: 
+= Senhor. Diz o padre prior frei João da Purificação, do Convento de Nossa Senhora do Carmo, da 
+reforma do Recife, por si e em nome dos mais religiosos do dito convento, que eles possuem uma 
+pesqueira e sítio de terras na praia de Francisco Gomes, ao qual fica contíguo uma sobra delas, que 
+há entre as do tenente João da Fonceca Rego, Baltazar da Costa e Lourenço de Oliveira, que em 
+partes tem cinquenta braças e em outras menos, e na forma que se acha devoluta, sem a ninguém 
+pertencer, e por que lhes é necessária a dita terra para cultivarem e ser útil para as mesmas do dito 
+sítio, e ter alguma madeira para estacadas e cercas do mesmo sítio. Pede a Vossa Senhoria lhes faça 
+mercê conceder de sesmaria a dita terra por ser em utilidade da propriedade que tem. E receberá 
+mercê. = Informe o provedor da Fazenda Real, ouvindo o doutor procurador da Coroa e Fazenda. 
+Recife, 25 de agosto de 1711. "Rubrica". Haja vista ao doutor procurador da Coroa e Fazenda Real. 
+Recife, 26 de agosto de 1711. "Barros". Não tenho dúvida no que pedem os reverendos suplicantes, 
+não prejudicando a terceiro e sendo na forma que se assentou na junta, por assim o mandar Sua 
+Majestade. Recife, 26 de agosto de 1717. "Pereira" Senhor governador. Dispõe Sua Majestade, que 
+Deus guarde, por sua real ordem de 20 de janeiro de 1699, que as pessoas a quem se derem 
+sesmarias de futuro, se ponha nelas mais a obrigação de pagar dízimo a ordem de Cristo, e a de um 
+foro, segundo a grandeza da terra, além das obrigações costumadas, com declaração que sendo as 
+terras convenientes para seu real serviço, se não deem e fiquem para a Fazenda Real; e por outra 
+ordem de 17 de junho de 1711, dispõe que não sucedam nas ditas terras religiões por nenhum título, 
+e acontecendo que sucedam e possuindo-as, seja com o encargo de pagar delas dízimo como se 
+fossem possuídas por seculares, e falando-se a isto, se haverem por devolutas e se darem a quem as 
+denunciar. A este requerimento dos reverendos suplicantes, responde o doutor procurador da Coroa, 
+a quem mandou Vossa Senhoria ouvir, que não tem dúvida no que pedem, não prejudicando a 
+terceiro, sendo na forma que se assentou em junta, ao que me conformo sendo debaixo das cláusulas 
+e condições acima declaradas, atendendo a que para o real serviço, não são de utilidade as terras do 
+dito sobejo e o foro que se assentou em junta, se paguem todas as terras, todas que se derem trinta 
+léguas da marinha é de seis mil reis por legôa, e a esse respeito devem pagar os reverendos 
+
+suplicantes o foro das braças que se acharem no sobejo das terras que pedem; é o que posso 
+informar a Vossa Senhoria, que mandará o que for conveniente ao serviço de Sua Majestade, como 
+costuma. Recife, 27 de agosto de 1717. "João do Rego Barros". E havendo, outrossim, respeito ao 
+que Sua Majestade me concede no capítulo 15 do regimento deste Governo. Hei por bem fazer-lhe 
+mercê dar ao reverendo suplicante acima nomeado, como pela presente dou de sesmaria em nome 
+de Sua Majestade, que Deus guarde, nos mesmos lugares, partes e testadas que confrontam em sua 
+petição as sobreditas sobras de terra de que faz menção, na mesma forma que parece ao provedor da 
+Fazenda Real e ao doutor procurador da Coroa e Fazenda, pagando de foro por cada légoa seis mil 
+réis e o dízimo a ordem de Cristo, segundo as disposições reais, o qual povoará dita terra no tempo 
+de cinco anos, aliás se darão por devolutas e as possuirá e gozará ele e seus herdeiros, não 
+prejudicando a terceiro, com todas as suas matas, águas, campos, testadas, logradouros e mais úteis 
+que nelas se acharem, observando-se a condição da ordem de Sua Majestade de 17 de junho do ano 
+de 1711, e faltando-se a esta se haverão por devolutas na forma da mesma ordem e será obrigado a 
+dar pela dita terra caminhos livres ao Conselho para fontes, pontes e pedreiras e a requerer a 
+confirmação desta data por Sua Majestade. Pelo que ordeno a todos os ministros da Justiça e 
+Fazenda destas capitanias a quem o conhecimento desta carta pertencer, lhe façam dar a posse real, 
+efetiva e atual, na forma costumada e debaixo das cláusulas referidas e da ordenação título de 
+sesmarias, que por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o 
+sinete de minhas, a qual se registrará nos livros da Secretaria deste Governo, nos da Fazenda e Foral 
+Real a que tocar, e sem esta precisa circunstância não terá vigor nem validade a presente carta de 
+sesmaria. Dada nesta Vila do Recife, aos 9 de dezembro = Manoel da Silva Rosa a fez = ano de 
+1717. O secretario, Thomé de Matos Girão, a fez escrever = Dom Lourenço de Almeida =. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 238 - 240. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

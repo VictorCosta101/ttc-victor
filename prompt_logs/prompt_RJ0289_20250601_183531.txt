@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0289
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "José de Sousa Barreto",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "18-03-1752",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, devido ao grau considerável de ilegibilidade, não foi possível identificá-lo.",
+  "Localidade": "Lugar não identificado no caminho de Cabo Frio",
+  "Marcos Geográficos": "Serra",
+  "Justificativas": "Era descobridor(a) das terras com risco de vida por causa dos índios; Não tinha terras; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. Foi concedida sob Carta Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a fazer \"os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margem dele para (ilegível) que baste para serventia pública\". Determinou-se que fossem reservados os Paus Reais na terra a ser concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0289"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0289
+Carta de concessão de padre José de Souza Barreto de 18 de março de 1752
+Matias Coelho de Sousa, coronel de infantaria de um dos regimentos desta praça [do Rio de
+Janeiro], com o governo dela e suas capitanias, etc.
+Faço saber aos que a presente minha carta de sesmaria virem que atendendo a me representar
+por sua petição o padre José de Sousa Barreto (ilegível) a caminho de Cabo Frio, que ele não
+tinha terras que pede (ilegível) fazendo quadra para a parte da serra de (ilegível), pedindo-me
+lhe mandasse passar sesmaria das referidas terras na forma do estilo. Sendo visto o seu
+requerimento, em que foi ouvida a Câmara de Cabo Frio, a quem não se ofereceu duvida,
+nem ao provedor da Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por
+bem dar de sesmaria, em nome de Sua Majestade e em virtude da Ordem do dito Senhor de
+15 de junho de 1711, ao dito padre José de Sousa Barreto 1 légua de terras em quadra na
+parte acima declarada e com as confirmações expressadas; sem prejuízo de terceiros [ou do
+direito que alguma pessoa possa ter a elas]; com declaração que as cultivará e mandará
+confirmar esta minha carta por Sua Magestade dentro de 2 anos, e não o fazendo se lhe
+denegará mais tempo; antes de tomar posse delas, as fará medir e demarcar judicialmente,
+sendo para este efeito notificadas as pessoas com quem confrontar; será obrigado a fazer os
+caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio
+caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margem
+dele para (ilegível) que baste para serventia pública; nesta data não poderá suceder em tempo
+algum pessoa eclesiástica ou religião, e sucedendo será com o encargo de pagar dízimos e
+outro qualquer que Sua Majestade lhe impuser de novo, e não o fazendo se poderá dar a quem
+se denunciar; como também sendo o dito Senhor servido [mandar fundar] no distrito dela
+alguma vila o poderá fazer ficando livre, [sem encargo] algum ou penção para o sesmeiro;
+não compreenderá esta data vieiros ou minas de qualquer gênero de metal que nela se
+descobrir, reservando também os paus Reais; e faltando a qualquer das ditas clausulas, por
+serem conforme as Ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias,
+ficará privado desta. Pelo mando ao ministro ou oficial de justiça, a que o conhecimento desta
+pertencer, dê posse ao dito padre José de Sousa Barreto das referidas terras na forma acima
+declarada. E para firmeza de tudo, lhe mandei passar o presente por mim assinada e selada
+com o sinete de minhas armas, que se cumprirá como nela se contém, se registrará nesta
+Secretaria do governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do
+Rio de Janeiro. João de Sousa e Melo a fez em os 19 de março de 1752. O secretário do
+governo, Antônio da Rocha Machado, a fez escrever.
+
+//Matias Coelho de Sousa//
+Carta porque Vossa Senhoria faz mercê dar de sesmaria, em nome de Sua Majestade, ao padre
+José de Sousa Barreto 1 légua de terras em quadra no distrito de Cabo Frio na forma que nela
+se declara.
+Para Vossa Senhoria Ver
+Registrada no Livro de 11 das Provisões do governo a folha 228. Rio, a 18 de março de 1752
+//Antônio da Rocha Machado//
+Registrada no Livro 2 do Tombo das Sesmarias que serve neste Cartório das mesmas a folha
+41. Rio, 24 de Março de 1752.
+//Luis da Silva Ramos//
+Cumpra-se. Cabo Frio, 14 de abril de 1752.
+//Costa//
+O doutor Ignácio da Cunha de Toar, cavaleiro professo na Ordem de São Bento de Avis, do
+desembargo de Sua Majestade, seu desembargador da Relação desta cidade de São Sebastião
+do Rio de Janeiro e nela ouvidor geral e corregedor, juiz da [subscrição] da Índia e Mina, etc.
+Faço saber aos que esta presente certidão (não identificado) virem, que a mim me constou por
+fé do escrivão de meu cargo, que esta subscreveu, ser a letra da subscrição da carta de
+sesmaria retro do secretário, Antônio da Rocha Machado, e o sinal da assinatura do
+brigadeiro Matias Coelho de Sousa, cujo cargo esta o governo desta cidade. E mais assinados
+(não identificado) de pois o que hei por justificado. Rio de Janeiro, 26 de (não identificado)
+de 1752 anos. E eu, Antônio Machado, escrivão, a subscrevi.
+//Ignácio da Cunha de Toar//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro houve por bem conceder e
+dar de sesmaria ao padre José de Souza Barreto uma légua de terras em quadra, no distrito do
+Cabo Frio. Rio. 18 de março de 1752.
+Referência:
+AHU_ACL_CU_017-01, Cx. 77, D. 17847
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

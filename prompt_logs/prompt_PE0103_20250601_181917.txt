@@ -1,0 +1,154 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0103
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0160",
+  "Nome": "Francisco Antônio de Almeida",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "23-01-1772",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de comprimento e uma légua de largura na freguesia dos Garanhuns, no termo da vila de Cimbres. A terra requerida localizava-se no sítio Puyú, seguindo o Brejo até o termo da vila de Cimbres.",
+  "Localidade": "Freguesia dos Garanhuns",
+  "Marcos Geográficos": "Vila de Cimbres, Sítio Puyú, Brejo",
+  "Justificativas": "Tinha gado; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se povoar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara de Cimbres. Os oficiais camarários informaram que a terra requerida havia sido doada a Gregório de Souza, mas que este não havia povoado, cultivado e pago o foro da terra. No mesmo momento, Manuel Dias da Silva se opôs a concessão da sesmaria, alegando ser o dono da terra. No entanto, este não apresentou documento que comprovasse o título da terra dentro de seis meses. Assim, os camarários foram favoráveis a concessão da terra. ",
+  "Observações das exigências": "O governador Manuel da Cunha Meneses determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Manuel da Cunha Meneses determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0103"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0103
+Carta de doação e sesmaria do tenente-coronel Francisco Antônio de Almeida -
+23/01/1772
+O tenente-coronel Francisco Antônio de Almeida com duas léguas de terra de
+comprido e uma de largo no termo da Vila de Cimbres, freguesia de Garanhuns.
+Manoel da Cunha Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e
+capitão-general de Pernambuco, Paraíba e mais capitanias anexas etc. = Faço saber aos que
+esta carta de doação de sesmaria virem, que o tenente-coronel Francisco Antonio de
+Almeida me fez um requerimento do teor e maneira seguinte — Ilustríssimo e
+Excelentíssimo Senhor = Diz o tenente-coronel Francisco Antonio de Almeida, morador
+nesta Vila, que ele pretende por sesmaria duas léguas de terra de comprido e uma de largo,
+pegando do sítio chamado o Puyú, em que assistiu ou morou o capitão Gabriel da Fonseca,
+já defunto, sem título algum, fazendo pião no dito sítio Puyú légua e meia pelo Brejo
+acima, com todas as suas vertentes e logradouros e vertentes do Queridalho, até onde
+chegar dita légua e meia, com meia légua do dito sítio para baixo, confrontando do sul para
+o norte e na largura do poente ao nascente, para no dito sítio chamado o Puyú, na forma
+acima declarada criar gado vacum e cavalar, cujas terras são hoje do Termo da Vila de
+Cimbres e Freguesia de Garanhuns, pertencentes ao Patrimônio Real, e ainda que no dito
+lugar esteja um Cosme Correia despoticamente sem título algum com umas diminutas
+cabeças de gado, esse não tem posse para aumentar fazenda que possa fazer conveniência
+aos dízimos reais e nem a faz ao foro pertencente a Real Fazenda, termos em que quer o
+suplicante que Vossa Excelência seja servido mandar se lhe dê as ditas duas léguas de
+comprido e uma de largo nas ditas terras, como fica expressado com o foro costumado de
+quatro mil réis por légua, que importa todo o foro em oito mil réis anualmente, e jura o
+suplicante aos Santos Evangelhos não possuir sesmaria alguma. Pede a Vossa Excelência
+lhe faça mercê conceder-lhe as ditas duas léguas de terra de comprido e uma de largo na
+forma requerida, mandando-lhe passar sesmaria dela segundo o estilo; e receberá mercê.
+Visto por mim o dito requerimento, mandei por despacho de 5 de setembro de 1770 que os
+oficiais da Câmara do respectivo distrito mandasse afixar editais nos mencionados lugares,
+
+que estariam o prazo de trinta dias para ver se havia ou não terceiros prejudicados, e que
+com certidão do oficial que assim o executasse, me informassem para deferir em termos.
+Satisfizeram os ditos com a informação seguinte — Ilustríssimo e Excelentíssimo Senhor
+— Em observância do despacho de Vossa Excelência, mandamos afixar editais no
+Pelourinho desta Vila, Manoel Dias da Silva, dizendo que lhe pertencia o sítio por uma
+sinistra escritura que lhe passou João da Fonseca, cujo se chamava a posse por uma
+simples sesmaria tirada por Gabriel de Souza, a qual não foi registrada nem lançada no
+foral real, o que melhor constará dos livros dessa Secretaria, e por nos parecer pertencer os
+ditos sítios ao Patrimônio Real, e o que em virtude, digo, em verdade podemos informar a
+Vossa Excelência que deferirá ao suplicante com justiça, como for servido. Vila de
+Cimbres em Câmara, 5 de dezembro de 1770 = Antônio de Louro Sardinha - Francisco
+Alves de Mendonça = Estava uma cruz, sinal de Raphael de Araujo, índio == O procurador
+Coelho Ferreira = Escrivão de leito = Antônio Pereira do Nascimento = Sendo-me presente
+dita informação, mandei por despacho de 5 de janeiro de 1771, remeter o tal requerimento
+a Junta da Real Fazenda: e esta por despacho de 27 de junho do mesmo ano, determinou
+que na Contadoria se examinasse se havia registrado alguma carta de sesmaria concedida a
+Gregorio de Souza, declarando a quantidade de terra e o foro que se deve, fazendo-se as
+diligências necessárias na dita, não constou dos livros de registros dela, como declarou o
+competente escrivão em resposta do primeiro de julho do referido ano, haver-se registrado
+carta alguma de sesmaria de terra que se deve a Gregorio de Souza, que era o título
+primeiro que se fundava o impedimento com que se opôs Manoel Dias da Silva, declarado
+na informação da Câmara da Vila de Cimbres, e porque o dito opositor (diz o mesmo
+escrivão) não apresentou no termo de seis meses a tal carta de sesmaria, parecia estar sem
+vigor o dito impedimento e nos termos de se conceder a sesmaria pedida - Assim
+assentando-se em dita Junta da Fazenda, determinou esta ao suplicante por despacho do
+primeiro de agosto do ano acima referido, que estava nos termos de requerer a sesmaria
+que pretendia, e representando-me o dito suplicante todo o referido, mandei ultimamente
+por despacho de 22 do corrente mês de janeiro, se lhe passasse a presente carta de doação
+de sesmaria, pagando o competente foro, em virtude do qual e da faculdade que Sua
+Majestade Fidelíssima me faculta no Capítulo 15 do Regimento deste Governo. Hei por
+bem dar em nome do dito senhor ao mesmo tenente-coronel Francisco Antonio de Almeida
+
+de sesmaria, no termo da Vila de Cimbres e Freguesia de Garanhuns, as duas léguas de
+terra de comprido e uma de largo no referido lugar, pedido e confrontado no seu
+requerimento, ficando a légua de permeio para logradouro dos éreos confinantes, como
+determina a Real Ordem de 20 de outubro de 1753, pagando o foro de quatro mil reis por
+légua em cada um ano, como também manda a Real Ordem de 28 de setembro de 1700,
+visto ser em distância de mais de trinta léguas desta Praça, cuja terra possuirá e posará ele
+suplicante e seus herdeiros ascendentes e descendentes, como sua que fica sendo de hoje
+para todo o sempre, com todas as suas matas, campos, águas, rios, fontes, pontes, testadas,
+logradouros e mais úteis que ela compreender, não prejudicando a terceiro, e não passará á
+religiões e pessoas eclesiásticas, salvo for com os mesmos encargos com que as possuem
+os seculares, sendo obrigado a dar caminho livre para fontes, pontes e pedreiras, e a
+requerer dentro de três anos confirmação real, doação e demarcação, povoá-la e cultivá-la
+tudo na forma da dita Ordem Régia de 20 de outubro de 1753, e não o cumprindo assim se
+dará por devoluta e novamente será conferida a quem a requerer - Pelo que ordeno aos
+ministros da Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e
+guardar esta carta de doação de sesmaria como nela se contém, fazendo dar ao suplicante a
+posse real, efetiva e atual, na forma costumada, debaixo das cláusulas referidas e das mais
+da Ordenação título de sesmarias. Em firmeza do que lhe mandei passar a presente por
+mim assinada e selada com o sinete das minhas armas, que se registrará na Secretaria deste
+Governo, Contadoria da Real Fazenda e mais partes a que tocar. Dada no Recife de
+Pernambuco, aos 23 dias do mês de janeiro – Francisco Gonçalves Reis Lisboa, oficial
+maior da Secretaria do Governo, a fez. Ano do Nascimento de Nosso Senhor Jesus Cristo,
+de 1772 — O secretário do Governo, José Gonçalves da Fonseca, a fez escrever —
+Manoel da Cunha Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+219 - 222.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

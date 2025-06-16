@@ -1,0 +1,143 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0205
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0226",
+  "Nome": "Francisco Prudente de Nazianzeno, Manuel de Luna Freire",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-04-1815",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura na freguesia de São José dos Bezerros, termo da vila de Santo Antão. A sesmaria tinha por limite ao norte as terras de Antônio Pires Ferreira (PE 0199) e o rio Sirinháem, ao sul. ",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Rio Sirinháem",
+  "Confrontantes": "Antônio Pires Ferreira",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0205"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0205 
+ 
+Carta de concessão de Francisco Prudente de Nazianzeno e Manuel de Luna Freire de 
+12/04/1815 
+ 
+Francisco Prudente de Nazianzeno e Manuel de Luna Freire com uma légua de terra em 
+quadra no rio Sirinhaém, freguesia de São José dos Bezerros, do termo da vila de Santo 
+Antão. 
+ 
+Caetano Pinto de Miranda Montenegro, do Conselho do príncipe regente nosso senhor e 
+do da Fazenda, comendador da Ordem de Cristo, governador e capitão-general da 
+capitania de Pernambuco. Faço saber aos que esta carta de sesmaria virem, que Francisco 
+Prudente Nazienzeno, e Manuel de Luna Freire me fizeram o requerimento do teor 
+seguinte: Ilustríssimo e excelentíssimo senhor = Diz o capitão Francisco Prudente de 
+Nazianzeno e Manuel de Luna Freire e Manoel de Luna Freire, que tendo eles 
+possibilidades para cultivar uma sesmaria, e havendo no rio Sirinhaém freguesia de São 
+José dos Bezerros termo da vila de Santo Antão muitas terras realengas devolutas, 
+pretendem e pedem os suplicantes que V. Ex.ª em nome de Sua Alteza Real haja de 
+conceder-lhes uma légua em quadra, demarcando-se da maneira seguinte; principiando 
+das testadas da sesmaria de uma légua de terra, que obteve o padre Antônio Pires Ferreira 
+na margem meridional do dito rio Sirinhaém, e correndo por este abaixo pelo mesmo lado 
+até inteirar uma légua, com outra de fundo para o sul que vem a ser a dita quadrada de 
+sorte que devida a pretendida sesmaria pelo Puente com o dito padre Antônio Pires 
+Ferreira, pelo norte com o rio Sirinhaém, e pelo nascente, e sul com terra realengas, e 
+pontos que preencherem a légua pedida; e sucedendo que por algum dos lados indicados 
+se ofereça duvida de heréu legitimo possuidor, nesse caso  perfazer-se acerca requerida 
+para onde nenhum prejuízo faça = portanto = Pedem a V. Ex.ª que mandando proceder as 
+diligências do estilo haja de deferir-lhe como requerer pagando a pensão do estilo a Real 
+Fazenda. E receberá mercê = E sendo visto seu requerimento, ordenei por despacho de 
+15 de fevereiro do corrente ano a câmara respectiva, que mandara afixar os editais do 
+estilo, e informando-me a dita câmara que ninguém se opusera, mandei por despacho de 
+5 e 7 de Abril deste ano, que informassem o doutor procurador da Real Fazenda, escrivão 
+deputado da junta da mesma Real Fazenda e como abas informaram, que se podia dar de 
+sesmaria ao suplicante as terras contempladas em seu requerimento, mandei ultimamente 
+por despacho de 12 do referido mês e ano, que se passasse carta de sesmaria pela 
+faculdade que me é concedida no capítulo 15 do regimento deste governo, e portanto: Hei 
+por bem dar em nome de Sua Alteza Real o príncipe regente nosso senhor, aos ditos 
+Francisco Prudente de Nazianzeno, e Manuel de Luna Freire, uma légua de terra em 
+quadra, no lugar pedido, e confrontando em seu requerimento, pagando o foro anual de 
+quatro mil réis, em observância da real ordem de 28 de setembro de 1700, de que deu 
+fiança na Contadoria da Junta da Real Fazenda a f 164 do livro 6º delas; a qual sesmaria 
+possuíram e gozaram eles suplicantes e seus herdeiros ascendentes e descendentes como 
+sua que fica sendo de hoje para todo sempre, com todas as matas, campos, rios, águas, 
+testadas, logradouros, e mais úteis que nelas se compreenderem não prejudicando a 
+terceiro e não passará a dita terra a religião, e pessoas eclesiásticas, salvo sendo com os 
+mesmos encargos com que as possuem os seculares, e nunca se dividirá em porções, nem 
+partirá senão por estimação andando encabeçada em uma só pessoa na forma da 
+Ordenação do livro 4.º título 96 parágrafo 23; e assim não passará a referida terra a 
+
+herdeiros, ou qualquer outra pessoa sem consentimento da Junta da Real Fazenda para 
+nela se darem novas fianças, e se fazerem as devidas escriturações, ficando livres para a 
+serventia dos povos todas as estradas, rios, fontes, e pedreiras, e reservadas ao Real 
+Patrimônio as madeiras da construção pau-brasil e viveiros de quaisquer metais, e serão 
+obrigados a requerer dentro de três anos confirmação, medição e demarcação, povoá-la e 
+cultivá-la na conformidade da ordem régia de 20 de outubro de 1753 e o alvará de 25 de 
+janeiro de 1809 e não o cumprindo assim se haverá por devolutas, e novamente se 
+conferirá a quem a requerer. Pelo que Ordeno aos ministros da Fazenda, e Justiça. e mais 
+pessoas a quem tocar cumpram, e façam cumprir, e guardar esta carta de data de sesmaria 
+pela qual V. Ex.ª há por bem dar em nome de Sua Alteza Real, a Francisco Prudente de 
+Nazianzeno, e Manuel de Luna Freire uma légua de terra em quadra, no rio Sirinhaém, 
+freguesia de São José dos Bezerros, do termo da vila de Santo Antão = Para V.Ex.ª ver = 
+Por despacho do ilustríssimo e excelentíssimo senhor general de 12 de abril de 1815./. 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+ 
+BPPE, Sesmarias de Pernambuco 1821, fls. 135-136. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

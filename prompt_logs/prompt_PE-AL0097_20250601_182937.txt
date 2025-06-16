@@ -1,0 +1,91 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0097
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisca de Sande, Francisco Correa de Sande, Francisco de Abreu de Araújo, Pedro Fernandes Aranha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "28-01-1673",
+  "Observações da sesmaria": "Os suplicantes requereram 8 léguas de comprimento e 8 léguas de largura sendo duas léguas para cada um dos suplicantes no rio Panema, em direção ao norte, aos campos de Maracajós e das aldeias de Jacuruí e Bocaradas. A sesmaria tinha por fronteira as terras do mestre de campo Nicolau Aranha Pacheco (AL 0069). ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Rio Panema, Campos de Maracajós, Aldeia de Jacuruí e Aldeia de Bocaradas",
+  "Exigências do Deferimento": "Exigiu-se que, caso não fossem as terras povoadas, se dessem a quem pedisse; Mandou-se pagar o dízimo; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 4,
+  "Observações do deferimento e da concessão": "O documento é um trecho resumido do Códice 155 do Arquivo Nacional do Rio de Janeiro. O Códice contém as cópias das sesmarias presentes no arquivo da Tesouraria-geral da Provedoria-mor da Bahia. O códice foi publicado nas Publicações do Arquivo Nacional no ano de 1931. Por causa destas circunstâncias, não foi possível identificar detalhes importantes com relação a concessão, despacho e deferimento.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0097"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0071 
+ 
+Carta de concessão de Francisca de Sande, Francisco Correa de Sande, Francisco de 
+Abreu de Araújo, Pedro Fernandes Aranha de 28/01/1673 
+Folha 13. Dona Francisca de Sande, Pedro Fernandes Aranha, Francisco Correia de Sande 
+e o capitão Francisco de Abreu de Araújo. Carta de 28 de janeiro de 1673. 8 léguas em 
+quadro, com todas as águas, matas, etc, sendo 2 léguas que para cada um, que serão 
+demarcadas logo para evitar dúvidas. No Panema acima para o norte, e Campos 
+Maracajós, aldeias de Jacuruy, Bocaradas, e Ongis (Pernambuco) principam das 
+cabeceiras das terras, que se deram ao mestre de campo, Nicolau Aranha, pelo Panema 
+acima para o Norte. Condições: Pagar dízimo e povoar no tempo da lei e regimento, aliás 
+ficarão devolutas, para se dar a quem de novo as pedir. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 155, fl. 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

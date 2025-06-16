@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0237
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Almeida Cruz",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "24-05-1752",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"se achava uma ponta de terras chamada de [Caioíba] que saia ao mar\".\r\n",
+  "Localidade": "Ponta de terras na paragem chamada [Caioíba], distrito de Parati",
+  "Justificativas": "Não tinha terras; Pretendia plantar; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Pretendia sustentar sua família a partir da plantação de mantimentos.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. A sesmaria foi concedida sob Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse \"obrigado a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para atravessar, ficará reservado de uma das margens dele a terra que baste para a serventia pública\". Determinou-se também que fossem reservados os Paus reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0237"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0237
+Carta de concessão de Manuel de Almeida Cruz de 24 de maio de 1752
+Matias Coelho de Sousa, coronel de infantaria de um dos regimentos da praça do Rio de
+Janeiro, cujo cargo está o governo dele e suas capitanias, etc.
+Faço saber aos que esta minha carta virem que atendendo a representar por sua petição
+Manuel de Almeida Cruz, morador na vila de Parati, nela casado com mulher e filhos,
+bastante escravos, e não tinha terras em que pudesse plantar mantimentos para [sustento] de
+sua família, e tinha notícia [que] se achava uma ponta de terras chamada de (não identificada)
+que saia ao mar a qual partia por uma parte com (não identificada) e pela outra com as terras
+da dita paragem chamada [Caioíba], sendo que teria a dita ponta que o suplicante pede meia
+légua em quadra a parte mais ou menos. E sendo vista o seu requerimento, em que foi ouvida
+a Câmara da dita vila, a quem se não ofereceu dúvida, nem ao provedor da Fazenda Real e
+procurador da Coroa e Fazenda Real, a quem se deu vista. Hei por bem dar de sesmaria, em
+nome de Sua Majestade, que Deus guarde, e em virtude da ordem do dito Senhor de 15 de
+junho de 1711, ao dito Manuel de Almeida Cruz, meia légua de terras em quadra na parte
+acima declarada; com as confrontações expressadas; sem prejuízo de terceiro ou do direito
+que alguma pessoa tenha a eles; com declaração que as cultivará e mandará confirmar esta
+minha carta por Sua Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo;
+antes de tomar posse delas as fará medir e demarcar judicialmente, sendo para este efeito
+notificadas as pessoas com quem confrontar; será obrigado a fazer os caminhos de sua testada
+com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de
+barca para atravessar, ficará reservado de uma das margens dele a terra que baste para a
+serventia pública; nesta data não poderá suceder em tempo algum pessoa eclesiástica ou
+religião, e sucedendo será com o encargo de pagar dízimos e outro qualquer que Sua
+Majestade lhe impuser de novo, e não fazendo se poderá dar a quem a denunciar; como
+também sendo o dito Senhor servido mandar fundar no distrito dela alguma vila o poderá
+fazer ficando livre, sem encargo algum ou pensão para o sesmeiro; não compreenderá esta
+data vieiros ou minas de qualquer gênero de metal que nela se descobrir, reservando também
+os paus Reais; e faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua
+Majestade e as que dispõem a Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando
+ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito
+Manuel de Almeida Cruz das referidas terras na forma acima declarada. E por firmeza de
+tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de minhas armas,
+que se cumprirá como nela se contém, se registrará nesta Secretaria do governo e nas mais
+
+partes a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro. João de Sousa e
+Melo a fez em 24 de maio de 1752. O secretário do governo, Antônio da Rocha Machado, a
+fez escrever.
+//Matias Coelho de Sousa//
+Carta porque Vossa Senhoria faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Manuel de Almeida Cruz meia légua de terras em quadra no termo da vila de Parati, como
+nesta se declara.
+Para Vossa Senhoria ver.
+Registrada no Livro 11 das Provisões do governo a f. 233. Rio, 24 de maio de 1752.
+//Antônio da Rocha Machado//
+Registrada no Livro 14 de nota à folha 528 e folha 60. Vila de Parati, 3 de julho de 1752.
+//João de Sousa Maciel//
+Registre-se nos Livros da Fazenda Real. Rio, 25 de agosto de 1752.
+//Melo//
+Registrada no Livro 34 de registro desta Procuradoria a folha 135. Rio, a 28 de agosto de
+1752.
+//Luís Melo de Faria//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o governador do Rio de Janeiro, concedeu e deu de Sesmaria
+a Manoel de Almeida Cruz meia légua de terras em quadra no termo da vila de Parati, Rio, 24
+de maio de 1752.
+Referência:
+AHU_ACL_CU_017-1, Cx. 72\Doc. 16692.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

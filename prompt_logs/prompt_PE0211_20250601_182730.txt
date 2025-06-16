@@ -1,0 +1,158 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0211
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0233",
+  "Nome": "Águida Maria dos Santos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "09-08-1815",
+  "Observações da sesmaria": "A sesmeira requereu meia légua de comprimento e meia légua de largura no distrito do Bonito, freguesia de São José dos Bezerros, termo da vila de Santo Antão. A sesmaria requerida tinha por limites a povoação do Bonito, a leste, e as terras de José Pereira Guimarães e José Vitoriano de Vasconcelos (PE 0201), ao norte. ",
+  "Localidade": "Freguesia de São José dos Bezerros",
+  "Marcos Geográficos": "Povoação do Bonito",
+  "Confrontantes": "José Pereira Guimarães, José Vitoriano de Vasconcelos",
+  "Justificativas": "Tinha escravos; Alegou já cultivar algodão; Alegou já cultivar cana; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou ser viúva de Bento Fernandes Pinheiro e ser dona do sítio Bananeiras, que herdou de seu falecido marido. Entretanto, com medo de contendas e da possibilidade de perder a posse da terra, a suplicante requereu a concessão de sesmaria. ",
+  "Observações das exigências": "O governador Caetano Pinto de Miranda Montenegro determinou o pagamento anual do foro régio no valor de mil réis por légua concedida. O governador Caetano Pinto de Miranda Montenegro também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0211"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0211 
+ 
+Carta de concessão de Águida Maria dos Santos de 09/08/1815 
+ 
+Águida Maria dos Santos, com data de sesmaria do terreno nela declarado, na freguesia 
+de São José de Bezerros, termo da vila de Santo Antão. 
+ 
+Caetano Pinto de Miranda Montenegro, do conselho do príncipe regente nosso senhor, e 
+do da Fazenda, comendador da Ordem de Cristo, governador, e capitão-general da 
+capitania de Pernambuco etc. Faço saber aos que esta carta de sesmaria virem que Águida 
+Maria dos Santos me fez o requerimento do teor seguinte: Ilustríssimo e excelentíssimo 
+Senhor – Diz Águida Maria dos Santos, viúva que ficou por falecimento de Bento 
+Fernandes Pinheiro, moradora no sítio Bananeiras, no lugar Bonito, freguesia de São José 
+dos Bezerros, termo da vila de Santo Antão, de cujo sítio o dito seu marido comprou as 
+benfeitorias por quatrocentos mil réis a José Vitoriano de Vasconcelos em razão de serem 
+as terras realengas e ali tem a suplicante vivido desde então com a sua família, que consta 
+de quatro filhos e doze escravos, ocupados na agricultura de canas e algodões e legumes, 
+Agora porem que lhe chega a notícia que V. Ex.ª está dando as ditas terras de sesmaria, e 
+que outras pessoas sem algum direito querem desarranjar a suplicante viúva, notoriamente 
+honrada e exemplar da dita sua família, e que na sua vizinhança não assiste outro morador 
+que mais possua, e talvez nem tanto, o que tudo sendo V. Ex.ª servido aprovará com as 
+pessoas fidedignas e condecoradas da freguesia pelo que se faz atendível da benignidade, 
+e retidão de V. Ex.ª, para lhe conceder de sesmaria o dito sítio com as seguintes 
+confrontações: principiando da testada da terra que se deu ao logradouro da povoação do 
+dito Bonito com meia légua de fundo do nascente ao poente, ou menos se antes de 
+completar a dita meia légua encontrar sesmeiro legal, e mais antigo, e para os lados 
+pegando das extremas do sesmeiro José Vitoriano e seu sócio José Pereira Guimarães, 
+com outra meia légua, ou menos para o norte, uma vez que encontre antes de a completar 
+outro sesmeiro, com os quais a suplicante não quer duvidas, contentando-me em tal caso 
+com as sobras, senão chegar a quantidade pedida, e o mesmo muito principalmente 
+protesta a respeito das terras do Patrimônio do senado da câmara da Villa de Santo Antão, 
+pois a suplicante só aspira o seu arranjamento com paz e sossego: por tanto = Pede a V. 
+Ex.ª seja servido mandar afixar editais na forma do estilo, e afinal conceder-lhe a sesmaria 
+que suplica. E receberá mercê = E sendo visto seu requerimento ordenei por despacho de 
+20 de janeiro do corrente a câmara respectiva que manda-se afixar os editais do estilo, 
+informando-me a dita câmara que ninguém se opusera, mandei por despachos de 11, e 19 
+de julho do corrente que informassem, o doutor procurador da Real Fazenda, e escrivão 
+deputado da Junta da mesma Real Fazenda, informando-me ambos que se lhes não 
+oferecia duvida alguma mandei por despacho do primeiro deste mesmo mês, e ano que se 
+passasse carta de sesmaria do terreno que se achar entre o logradouro da Povoação do 
+Bonito, e a sesmaria de José Pereira Guimarães, e José Victorino de Vasconcelos, de sorte 
+que pelo norte confins com o logradouro da povoação, pelo leste com o patrimônio da 
+câmara de Santo Antão, pelo sul com a sesmaria dos ditos Guimarães, e Vasconcellos, e 
+pelo oeste com a linha continuada de norte, a sul do ângulo do sobredito logradouro: E 
+portanto pela faculdade que me é concedida pelo capitulo 15 do Regimento deste 
+Governo. Hei por bem dar em nome de Sua Alteza Real o príncipe regente nosso senhor 
+a dita Águida Maria dos Santos a referida terra, pagando o foro anual de mil réis em 
+observância da real ordem de 28 de setembro de 1700, de que deu fiança na Contadoria 
+
+da Junta da Real Fazenda a folhas 182 do Livro 6º delas, a qual sesmaria possuirá, e 
+gozará ela suplicante, e seus herdeiros ascendentes, e descendentes como sua que fica 
+sendo de hoje para todo sempre, com todas as matas, campos, rios, águas, testadas, 
+logradouros, e mais úteis que nela se compreenderem, não prejudicando a terceiro, e não 
+passará a religião, e pessoas eclesiásticas, salvo sendo com os mesmo encargos com que 
+as possuem os seculares, e nunca se dividirá em porções, nem se partirá por intimação, 
+andando encabeçada, em uma só pessoa, na forma da Ordenação do Livro 4º título 96, 
+parágrafo 23, e assim não passará a herdeiros, ou qualquer outra pessoa, sem 
+consentimento da Junta da Real Fazenda para nela se darem fianças, e se fazer as devidas 
+escriturações, ficando livres para a serventia dos povos as estradas, rios, fontes, e 
+pedreiras, e reservadas ao Real Patrimônio as madeiras de construção, pau-brasil  e 
+viveiros de quaisquer metais, e será obrigada a requerer dentro de três anos confirmação, 
+medição, e demarcação, povoa-la, e cultiva-la na forma da Ordem Regia de 20 de Outubro 
+de 1753, e Alvará de 25 de Janeiro de 1809, e não o cumprindo assim se haverá por 
+devoluta, e novamente se conferirá a quem a requerer. Pelo que ordeno aos ministros da 
+Fazenda, e Justiça, e mais pessoas a quem tocar cumpram e façam cumprir, e guardar esta 
+carta de data de sesmaria como nela se contem, fazendo dar a suplicante posse real, 
+efetiva, e atual na forma costumada, debaixo das cláusulas referidas, e das mais da 
+Ordenação título das sesmarias. Em firmeza do referido lhe mandei passar a presente que 
+sendo por mim assinada e selada com o sinete de minhas armas se registará na secretaria 
+deste governo, na Junta da Real Fazenda, e aonde mais tocar. Felipe Esteves Alves, a fez 
+em o Recife de Pernambuco aos 9 dias do mês de agosto 1815/. José Carlos Mairink da 
+Silva Ferrão secretário do Governo a fez escrever = Caetano Pinto de Miranda 
+Montenegro = Carta de data de sesmaria pela qual V. Ex.ª, há por bem dar em nome de 
+Sua Alteza Real O príncipe regente nosso senhor a Águida Maria dos Santos, o terreno 
+nela declarado, na freguesia de São José dos Bezerros termo da Villa de Santo Antão. 
+Para V. Ex.ª ver = Por despacho do ilustríssimo e excelentíssimo senhor general do 
+primeiro de Agosto de 1815./. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+BPPE, Sesmarias de Pernambuco 1821, fls. 146-148. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

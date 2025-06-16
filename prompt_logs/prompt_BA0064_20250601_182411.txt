@@ -1,0 +1,138 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0064
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Catarina de Matos",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "21-01-1681",
+  "Observações da sesmaria": "A sesmaria possuía 1500 braças quadradas, localizadas vizinhas às terras que já possuía no rio Jaguaripe.",
+  "Localidade": "Rio Jaguaripe",
+  "Marcos Geográficos": "Rio Jaguaripe",
+  "Observações da petição": "A suplicante solicitou 30 braças por 50, sem especificar o que seria comprimento e o que seria largura. ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "A suplicante alegou que pretendia fazer portos; alegou que as terras não eram mangues, pois estes deveriam ser comuns a todos.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que a suplicante poderia ter as terras mas que elas deveriam ser usadas apenas para portos necessários para a servir. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0064"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro do alvará de doação, e sesmaria dos sobejos da terra que o governador deste Estado, 
+Roque da Costa Barreto, concedeu em nome de Sua Alteza Catherina de Matos, os quais estão 
+contíguos a sua sesmaria, para portos e serventias de suas terras. 
+ 
+Roque da Costa Barreto do conselho de Sua Alteza. Faço saber aos que este alvará de doação e 
+sesmaria virem, que havendo respeito ao que por parte de Catherina de Matos, se me enviou a 
+representar por sua petição cujo teor é o seguinte: Senhor, Catherina de Matos, viúva, moradora 
+em Jaguaribe, que ela possui meia légua de terra, donde começa o rio a ser navegável do pé da 
+cachoeira do dito rio para baixo, correndo os rumos de oeste, e por outra parte o rumo do sul 
+por razão das voltas do rio; e porquanto entre os ditos rumos, e o dito rio há alguns sobejos, e 
+umas ilhotas, e a suplicante não pode valer-se dos desfrutos de suas terras para esta parte por 
+não ter portos, os quais pode fazer nos sobejos, que pede por não estarem pedidos, os quais 
+poderá em parte ter 30 braças, e em outras 50, ou 60, pouco mais ou menos, porquanto são 
+terras que não têm senhoria, e são de Sua Alteza. Pede a Vossa senhoria lhe faça mercê conceder 
+de sesmaria os ditos sobejos e ilhotas em nome de Sua Alteza. E receberá mercê. E vista a 
+declaração que a suplicante fez satisfazendo ao despacho do procurador da Fazenda, cujo teor 
+é o seguinte: Respondendo a informação do senhor procurador da Fazenda, diz a suplicante que 
+os sobejos que pede estão contíguos com as suas terras entre os rumos dela, e o rio; e porque 
+na sesmaria que tem das ditas suas terras místicas não declara estes sobejos, e ela os está 
+possuindo a mais de 60 anos por si, e seus antepassados, e os quer diretamente gozar e possuir 
+pela sesmaria que pede, e quanto para cultura são quase inúteis por serem áreas fracas, e de 
+maneira estão estruídas, e só a suplicante acomoda para portos, e serventias de suas terras, que 
+licitamente possui, e declara a suplicante, que não são mangues, porque esses são comuns a 
+todo o povo. Vosmecê mandará o que for servido. E a resposta, que o mesmo procurador da 
+Fazenda deu, que é a que se segue: Não tenho dúvida que à suplicante se dê de sesmaria a terra 
+dos sobejos que há entre a sua data e o rio; visto estar contígua com a sua sesmaria, porém nela 
+se não entenderão serem dadas as praias, nem mangues, nem ilhotas, ou ilhas, que não têm 
+cultura, nem ainda a terra incapaz de cultura, porque estas se não dão de sesmaria, e somente 
+se permitirá ter a suplicante nelas os portos necessários para se servir; e isto com as condições, 
+e cláusulas costumadas. // Andrada // E a informação seguinte do provedor-mor da dita Fazenda: 
+Senhor, ao procurador da Fazenda se lhe não oferece dúvida na forma de sua resposta, com que 
+me conformo, e me parece se lhe deve conceder a suplicante o que pede com as condições do 
+Regimento das sesmarias, sem prejuízo de terceiro e as mais Vossa Senhoria mandará o que for 
+servido. Bahia, 21 de janeiro de 1681. // Antônio Lopes de Ulhôa // Hei por bem de lhe conceder 
+e dar de sesmaria como pela presente faço, em nome de Sua Alteza, os sobejos que pede 
+contíguos a sua data, para portos, e serventia da sua terra, na conformidade, e debaixo das 
+condições, e cláusulas que declara e especifica o dito procurador da Fazenda, com quem se 
+conformou o provedor-mor dela na informação que me fez, não prejudicando a terceiro e com 
+as mais condições do Regimento, e das sesmarias, dando por elas caminhos livres ao concelho, 
+para delas se poder usar livremente, e sendo citados os héreos ao tempo da posse. Pelo que 
+ordeno a todos os ministros de justiça a que o conhecimento deste com direito, deva, ou possa 
+pertencer lhe façam dar a posse real, efetiva e atual na forma costumada debaixo das cláusulas 
+acima referidas, e as mais da Ordenação título das sesmarias. Para firmeza do que lhe mandei 
+passar o presente sob meu sinal e selo de minhas armas, o qual se registrará nos livros da 
+secretaria do Estado, e nos mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente 
+como nele se contém sem dúvida, embargo nem contradição alguma. // Antônio Garcia // o fez 
+nesta cidade do Salvador, Bahia de Todos os Santos, em os 21 dias do mês de janeiro ano de 
+1681. Bernardo Vieira Ravasco o fiz escrever. // Roque da Costa Barreto // Selo // Alvará de 
+
+doação, e sesmaria dos sobejos da terra que Vossa Senhoria foi servido conceder em nome de 
+Sua Alteza a Catherina de Matos, os quais estão contíguos a sua sesmaria, para portos e 
+serventias de suas terras por serem incapazes de cultura não prejudicando a terceiro, e com as 
+mais cláusulas do Regimento das sesmarias, pelos respeitos acima declarados para Vossa 
+Senhoria ver. Registrado no livro segundo dos registros da secretaria do Estado do Brasil a que 
+toca as folhas 84. Bahia, 23 de janeiro de 1681. // Ravasco // Despacho do provedor-mor da 
+Fazenda. Registre-se nos livros a que toca. Bahia, 24 de janeiro de 1681. // Antônio Lopes de 
+Ulhôa // Antônio Lopes registrou em o dito dia mês e ano acima.  
+ 
+ 
+- Fim da Transcrição - 
+ 
+Observações: 
+- O nome original da sesmeira no documento original está escrito da seguinte forma: “Catherina 
+de Mattos”.  
+- Essa carta não está inserida na SILB. 
+ 
+Referências: 
+AN, Códice 427, fls. 179v.-180v. 
+Numeração original no livro: 134 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

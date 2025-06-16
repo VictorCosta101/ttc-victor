@@ -1,0 +1,139 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0112
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "João Honorato, Manuel Fernandes Lima, Manuel Pereira de Barros",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta por abandono",
+  "Data da concessão": "23-10-1699",
+  "Observações da sesmaria": "A sesmaria possuía 20 mil braças quadradas, sem especificar as medidas de largura e comprimento, e estava localizada ao longo do rio Jaguaripe, fazendo fronteira com as terras de Nicolau Soares e de Rodrigo de Argolo.",
+  "Localidade": "Rio Jaguaripe",
+  "Marcos Geográficos": "Rio Jaguaripe",
+  "Confrontantes": "Rodrigo de Argolo; Nicolau Soares",
+  "Observações da petição": "Os sesmeiros não especificaram as medidas exatas da largura e do comprimento. Alem de João Honorato, mais duas pessoas pediram a sesmaria com ele: Manuel Fernandes Lima e Manuel Pereira de Barros.",
+  "Justificativas": "Pretendia cultivar; Alegou serem as terras devolutas por não terem sido aproveitadas pelo antigo sesmeiro; Pretendia povoar as terras com dispêndio de sua fazenda; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Observações do deferimento e da concessão": "O procurador afirmou que deveriam ser feitas medições e demarcações dos vizinhos para se evitar pleitos. A sesmaria foi solicitada por três pessoas, mas apenas João Honorato recebeu a doação. ",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "Luiz da Costa e Faria",
+  "referencia": "BA0112"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro do alvará de sesmaria concedida ao tenente de mestre de campo general João Honorato 
+de 20 braças de terra no rio ostra. 
+Dom João de Lencastro, do conselho de Sua Majestade, que Deus Guarde. Faço saber aos que 
+este alvará de doação e sesmaria virem que tendo respeito ao que o tenente de mestre de campo 
+general João Honorato, Manuel Fernandes Lima e Manuel Pereira de Barros me representaram 
+em sua petição cujo o teor é o seguinte: Senhor, dizem o tenente general João Honorato, Manuel 
+Fernandes Lima e Manuel Pereira de Barros que João borges de Escobar e Antônio de Sousa 
+pediram de sesmaria 2 léguas de terra que estão no rio do Jaguaripe, nas cabeceiras de Nicolau 
+Soares e Rodrigo de Argolo no ano de 1644 com o comprimento que teve-se até a terra de 
+Garairá por estarem desaproveitadas e devolutas, as quais lhe foram dadas. E desde o dito tempo 
+até o presente, que há 55 anos, as não cultivaram nem aproveitaram, e querem nelas fazerem 
+suas fazendas, digo, nem aproveitaram por cuja causa estão vagas e devolutas, e que nem é de 
+utilidade a Sua Majestade e nem à sua Fazenda antes de cultivarem-se. E porque os suplicantes 
+tem cabedais e partes para as aproveitarem e querem nelas fazerem suas fazendas seus 
+mantimentos de farinha. Portanto, pedem a Vossa Senhoria [que] lhes faça mercê em nome de 
+Sua Majestade dar as ditas 2 léguas de terra em que toca a cada um dos suplicantes 2 mil braças, 
+fazendo testada no rio da ostra até a terra da Garaírá, na forma que no dito ano de 1644 se deu, 
+visto não estarem povoadas até o presente na forma do regimento de Sua Majestade se podem 
+dar por devolutas. E receberá mercê. E visto o parecer do doutor procurador da Fazenda Real a 
+que se deu vista que é o seguinte: se estão devolutas sem possessão de terceiro, me parece que 
+na forma e obrigação do regimento se conceda havendo medição e citação dos vizinhos para 
+evitar pleitos que são nesta matéria seguro nesta América. Vossa Senhoria mandará o que for 
+servido. Bahia, 11 de outubro de 1699 // Luiz da Costa e Faria // E a informação do provedor-
+mor da Fazenda Real que também é o seguinte: Senhor, parece-me o mesmo que o doutor 
+procurador da Fazenda Real. Vossa Senhoria mandará o que mais convier. Bahia, 14 de outubro 
+de 1699 // Francisco Lamberto // Hei por bem conceder e dar em nome de Sua Majestade, que 
+Deus guarde, ao dito João Honorato, para ele e seus descendentes as ditas 2 mil braças de terra 
+na parte que pede e confronta em sua petição neste inserta como parece aos ministros da 
+Fazenda Real não prejudicando a terceiro, com as cláusulas que o provedor-mor da Fazenda 
+Real aponta na sua informação a qual terra  se aproveitará dentro do termo da lei, e as não 
+poderá alhear nem passará a outro algum domínio sem as ter aproveitado com condição de se 
+darem logo neste caso a quem a outra pessoa, nem o poderá fazer sem expressa ordem de Sua 
+Majestade e com as mais cláusulas contidas na ordenação do Reino, título de sesmarias e forma 
+do capítulo 26 do regimento novo deste governo geral as quais terras terá e possuirá com todas 
+as suas águas, matas, testadas, logradouros e mais úteis que nelas se acharem com foro livre e 
+isento de pensão salvo o dizimo a ordem de Cristo que pagará pelos frutos que delas houver, e 
+por elas serão obrigados a dar caminhos públicos e particulares para fontes, pontes, portos e 
+pedreiras com declaração que se havendo nas ditas terras alguma aldeia de índios, não fique o 
+dito João Honorato  senhor dela e nem das terras que ocuparem os índios na forma das novas 
+ordens de Sua Majestade. Pelo o que ordeno a todos os ministros e oficiais de justiça, a que o 
+conhecimento deva ou possa pertencer, [que] lhe façam dar e deem posse real, efetiva e atual 
+demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa dos contos de onde 
+se registrará. Para a firmeza do que lhe mandei lavrar a presente sob o sinal e selo de minhas 
+armas do qual se registrará nos livros da secretaria do Estado, e nas mais a que tocar da Fazenda 
+Real dele e nos do escrivão de sesmarias, se guardará e cumprirá tão pontual e inteiramente 
+com nele se contém sem dúvida, embargo nem contradição alguma. // Antônio Lopes Savedra 
+// o fez nesta cidade do Salvador, Bahia de Todos os Santos aos 23 dias do mês de outubro, ano 
+
+de 1699 // Gonçalo Ravasco Cavalcante e Albuquerque // a fiz escrever // Dom  João de 
+Lancastro // selo // Alvará de doação e sesmaria pelo qual serviu de Vossa Senhoria Ilustríssima 
+conceder e dar em nome de Sua Majestade, que Deus o guarde, ao tenente de mestre de campo 
+general, para ele e seus descendentes as 2 mil léguas de terra no rio da ostra como pede e 
+confronta em sua petição neste inserta para não prejudicando a terceiro nem as aldeias e terras 
+dos índios que nelas se acharem nas condições apontadas e se demarcar e confirmar esta por 
+Sua Majestade, dentro de um ano pelos respeitos acima declarados. Para Vossa Ilustríssima ver. 
+Registrado no livro 5° dos registros da secretaria do Estado do Brasil, que tocava as folhas 185. 
+Bahia, 12 de novembro de 1699 // Ravasco // Registre-se. Bahia, 13 de novembro de 1699 // 
+Lamberto // Mathias Miranda de Oliveira e registrou-se. 
+ 
+- Fim de Transcrição- 
+Observações: 
+- Os nomes dos suplicantes constam no documento original como: “João Honorato”; “Manoel 
+Fernandes Lima”; “Manoel Pereira de Barros”. 
+- A data de registro da carta encontra-se ausente no documento original. 
+ 
+Referências: 
+AN, Códice, fls. 146 – 147. 
+Numeração original no livro: xx 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

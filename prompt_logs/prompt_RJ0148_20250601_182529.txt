@@ -1,0 +1,83 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0148
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Agostinho Guido",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-02-1726",
+  "Observações da sesmaria": "Apesar de não constar a petição, a carta de concessão informa que o suplicante habita na capitania do Piauí. ",
+  "Localidade": "Sertão ao norte de Cabo Frio",
+  "Ribeira": "Ipoca, São João, lagoa Intronhaiba [sic]",
+  "Justificativas": "Não apresenta justificativa; ",
+  "Exigências do Deferimento": "Não apresenta exigência",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O documento refere-se ao requerimento de sesmaria pelo suplicante.",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0148"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0148
+Requerimento de Agostinho Guido de 1726
+Diz Agostinho Guido que o governador da capitania do Rio de Janeiro, Luis Vahia Monteiro,
+lhe fez mercê em nome de vossa Magestade, de uma légua de terra em quadra de sesmaria no
+sertão ao norte de Cabo Frio que faz testada da barra, que no rio de São João faz o rio Ipoca,
+correndo desde o princípio do dito rio de São João, que nasce da barra da lagoa chamada
+Intronhaíba [sic] servindo-lhe a mesma lagoa da parte de cima e o dito rio Ipoca da parte de
+baixo de divisão para todos os lados com todas as pontas, enseadas, e voltas, que a dita lagoa
+e o rio Ipoca fizerem com a condição de haver a confirmação da carta inclusa dentro de dois
+anos.
+Para vossa Magestade que em atenção do referido lhe faça mercê de mandar a carta de
+confirmação da dita terra de sesmaria na forma em que lhe foi dada pelo dito governador do
+Rio de Janeiro.
+-Fim da transcrição-
+Observações do documento
+Título original:Requerimento de Agostinho Guido, no qual pede a confirmação regia da
+sesmaria de que lhe fizera mercê pela seguinte carta. (1727)
+O cabeçalho e as assinaturas se apresentam ilegíveis
+O documento apresenta palavras no corpo do texto ilegíveis
+Referências
+Arquivo:AHU_ACL_CU_017-01, Cx. 25, D. 5765
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

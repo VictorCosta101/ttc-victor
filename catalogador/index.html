@@ -220,67 +220,112 @@
     <button id="enviarBtn">Processar Documento</button>
     
     <script>
-        document.getElementById('enviarBtn').addEventListener('click', async function() {
-            const fileInput = document.getElementById('pdfFile');
-            const file = fileInput.files[0];
-            
-            if (!file) {
-                alert('Por favor, selecione um arquivo PDF');
-                return;
+
+        function preencherCampo(id, valor) {
+            const elemento = document.getElementById(id);
+            if (elemento && valor !== undefined && valor !== null) {
+                elemento.value = valor;
+                console.log(`Campo ${id} preenchido com: ${valor}`);
+            } else {
+                console.log(`Campo ${id} não preenchido (valor: ${valor})`);
             }
-            
-            const formData = new FormData();
-            formData.append('file', file);
+        }
+
+        function formatarData(dataStr) {
+            if (!dataStr) return null;
             
             try {
-                const response = await fetch('http://localhost:8000/extrair_dados/', {
-                    method: 'POST',
-                    body: formData
-                });
-                
-                if (!response.ok) {
-                    throw new Error(`Erro na requisição: ${response.status}`);
+                // Tenta vários formatos de data possíveis
+                if (dataStr.match(/^\d{2}\/\d{2}\/\d{4}$/)) { // DD/MM/YYYY
+                    const [day, month, year] = dataStr.split('/');
+                    return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+                } else if (dataStr.match(/^\d{4}-\d{2}-\d{2}$/)) { // YYYY-MM-DD
+                    return dataStr;
+                } else if (dataStr.match(/^\d{4}$/)) { // Apenas ano
+                    return `${dataStr}-01-01`;
                 }
+            } catch (e) {
+                console.log(`Erro ao formatar data: ${e.message}`);
+                return null;
+            }
+            
+            return null;
+        }
+        document.getElementById('enviarBtn').addEventListener('click', async function() {
+            alert('Processando documento, aguarde...');
+        const fileInput = document.getElementById('pdfFile');
+        const file = fileInput.files[0];
+        
+        if (!file) {
+            alert('Por favor, selecione um arquivo PDF');
+            return;
+        }
+        
+        console.log('Iniciando processamento do documento...');
+        
+        const formData = new FormData();
+        formData.append('file', file);
+        
+        try {
+            console.log('Enviando arquivo para a API...');
+            
+            const response = await fetch('http://localhost:8000/extrair_dados/', {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'Accept': 'application/json'
+                }
+            });
+            
+            console.log(`Resposta recebida: Status ${response.status}`);
+            
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`Erro na requisição: ${response.status} - ${errorText}`);
+            }
+            
+            const data = await response.json();
+            console.log('Dados recebidos:', JSON.stringify(data, null, 2));
+            
+            if (data.status === 'success' && data.dados_extraidos) {
+                const dados = data.dados_extraidos;
                 
-                const data = await response.json();
-                
-                if (data.status === 'success') {
-                    // Preenche os campos com os dados retornados
-                    const dados = data.dados_extraidos;
-                    
+                // Mapeamento dos campos da API para os campos do formulário
+                const fieldMapping = {
                     // Dados Principais
-                    if (dados.categoria) document.getElementById('categoria').value = dados.categoria;
-                    if (dados.sesmeiro) document.getElementById('sesmeiro').value = dados.sesmeiro;
-                    if (dados.capitania) document.getElementById('capitania').value = dados.capitania;
-                    if (dados.estadoAtual) document.getElementById('estadoAtual').value = dados.estadoAtual;
-                    if (dados.historicoTerra) document.getElementById('historicoTerra').value = dados.historicoTerra;
-                    if (dados.tipoPeticao) document.getElementById('tipoPeticao').value = dados.tipoPeticao;
-                    
-                    // Formata a data para o formato do input date (YYYY-MM-DD)
-                    if (dados.dataPeticao) {
-                        const [day, month, year] = dados.dataPeticao.split('/');
-                        document.getElementById('dataPeticao').value = `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
-                    }
-                    
-                    if (dados.localidade) document.getElementById('localidade').value = dados.localidade;
-                    if (dados.marcosGeograficos) document.getElementById('marcosGeograficos').value = dados.marcosGeograficos;
-                    if (dados.ribeira) document.getElementById('ribeira').value = dados.ribeira;
-                    if (dados.confrontantes) document.getElementById('confrontantes').value = dados.confrontantes;
-                    if (dados.observacoesPeticao) document.getElementById('observacoesPeticao').value = dados.observacoesPeticao;
+                    'categoria': null, // Não existe na resposta
+                    'sesmeiro': dados['Nome'],
+                    'capitania': dados['Capitania onde mora'],
+                    'estadoAtual': null, // Não existe na resposta
+                    'historicoTerra': dados['Histórico da terra'],
+                    'tipoPeticao': dados['Tipo de petição'],
+                    'dataPeticao': dados['Data da petição'],
+                    'localidade': dados['Localidade'],
+                    'marcosGeograficos': dados['Marcos Geográficos'],
+                    'ribeira': dados['Ribeira'],
+                    'confrontantes': dados['Confrontantes'],
+                    'observacoesPeticao': dados['Observações da petição'],
                     
                     // Justificativas
-                    if (dados.justificativa) document.getElementById('justificativa').value = dados.justificativa;
-                    if (dados.observacoesJustificativas) document.getElementById('observacoesJustificativas').value = dados.observacoesJustificativas;
-                    
-                    alert('Documento processado com sucesso! Campos preenchidos automaticamente.');
-                } else {
-                    alert('Erro ao processar o documento: ' + (data.detail || 'Erro desconhecido'));
-                }
-            } catch (error) {
-                console.error('Erro:', error);
-                alert('Erro ao enviar o arquivo: ' + error.message);
+                    'justificativa': dados['Justificativas'],
+                    'observacoesJustificativas': dados['Observações das Justificativas']
+                };
+                
+                // Preencher todos os campos mapeados
+                Object.entries(fieldMapping).forEach(([fieldId, value]) => {
+                    preencherCampo(fieldId, value);
+                });
+                
+                alert('Documento processado com sucesso! Campos preenchidos automaticamente.');
+            } else {
+                throw new Error(data.detail || 'Erro ao processar o documento: status não é "success"');
             }
-        });
+        } catch (error) {
+            console.error('Erro:', error);
+            console.log(`ERRO: ${error.message}`);
+            alert('Erro ao processar o documento: ' + error.message);
+        }
+    });
     </script>
 </body>
 </html>

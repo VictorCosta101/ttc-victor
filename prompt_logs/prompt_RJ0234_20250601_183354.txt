@@ -1,0 +1,129 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0234
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel de Teive Mota",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da concessão": "23-12-1751",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"possui em Itaboraí, distrito da vila de Santo Antônio, uma fazenda que foi e possuía seu avô Baltazar da Silva Borges\".\r\n",
+  "Localidade": "Fazenda no distrito de Itaboraí",
+  "Marcos Geográficos": "Serra de Maricá",
+  "Ribeira": "Cabuçu",
+  "Justificativas": "Alegou possuir engenhos; Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; Alegou já cultivar cana; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou-se cultivar; Mandou-se demarcar; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O requerente alegou também que as terras eram ocupadas com \"posse judicial, Real e pessoal, tendo nelas lavouras e benfeitorias o dito seu avô e ele suplicante\". Igualmente também argumentou que poderia colaborar com o dízimo a partir de suas fabricações de açúcar.",
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades. A concessão foi deferida sob respaldo da Ordem Régia de 15/06/1711.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que seria obrigado \"a fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se atravessar, ficará reservado de uma das margens dele a terra que baste para a serventia pública\". Determinou-se ainda que fossem reservados os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0234"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0234
+Carta de concessão de Manuel de Teive Mota de 23 de dezembro de 1751
+Gomes Freire de Andrade, do conselho de Sua Majestade, mestre de campo, general de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro com o governo das
+Minas Gerais, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição ao doutor Manuel de Teive Mota, que ele possui em Itaboraí, distrito da vila de
+Santo Antônio, uma fazenda que foi e possuía seu avô Baltazar da Silva Borges, cujas terras
+constavam de 500 braças correndo a própria testada para o rio chamado Cabuçú, aos quais
+havera por sesmaria confirmada por Sua Majestade, e havia mais de 50 anos tomando posse
+delas o fizera até a borda do mesmo rio por lhe parecer se compreendiam até o dito rio, e
+assim as ocupava com posse judicial, Real e pessoal, tendo nelas lavouras e benfeitorias o dito
+seu avô e ele suplicante, e porque julgava agora haverem mais braças das 500 até o dito rio,
+sem embargo da dita posse e estarem fabricadas havia mais de 50 anos na forma referida,
+queria o suplicante para melhor título delas sesmaria, não só [por] deverem dar pelo título que
+já tinha de posse e as haver fabricado, mas também pelo maior interesse que faz aos dízimos
+Reais com um engenho de açúcar que estava fabricando nas mesmas terras, pedindo-me lhe
+mandasse dar de sesmaria as ditas terras que houvessem de mais de onde acabavam as 500
+braças de sua sesmaria até o rio chamado Cabuçú, que poderia ser 600 braças, pouco mais ou
+menos, de testada com 1 légua de sertão até a serra geral de Maricá. Sendo visto o seu
+requerimento, em que foi ouvida a Câmara da vila de Santo Antônio de Sá, a quem senão
+ofereceu dúvida, nem ao provedor da Fazenda Real e procurador da Coroa dela, a quem se
+deu vista. Hei por bem dar de sesmaria, em nome de Sua Majestade e em virtude da ordem do
+dito Senhor de 15 de junho de 1711, ao dito doutor Manuel de Teive Mota 600 braças de
+terras de testada com 1 légua de terra de sertão na parte acima declarada; com as
+confrontações expressadas; sem prejuízo de terceiro ou do direito que alguma pessoa tenha a
+elas; com declaração que as cultivará e as mandará confirmar esta minha carta por Sua
+Majestade dentro de 2 anos, e não o fazendo se lhe denegará mais tempo; antes tomar posse
+delas, as fará medir e demarcar judicialmente, sendo para este efeito notificadas as pessoas
+com quem confrontar; será obrigado a fazer os caminhos de sua testada com pontes e estivas
+onde necessário for, e descobrindo-se nela rio caudaloso que necessite de barca para se
+atravessar, ficará reservado de uma das margens dele a terra que baste para a serventia
+pública; nesta data não podem suceder em tempo algum pessoa eclesiástica ou religião, e
+sucedendo será com o encargo de pagar dízimos e outro qualquer que Sua Majestade lhe
+
+impuser de novo, e não o fazendo se poderá dar a quem a denunciar; como também sendo o
+dito Senhor servido mandar fundar no distrito dela alguma vila o poderá fazer ficando livre,
+sem encargo algum ou pensão para o sesmeiro; não compreenderá esta data vieiros ou minas
+de qualquer gênero de metal que nela se descobrir, reservando também os paus Reais; e
+faltando a qualquer das ditas cláusulas, por serem conforme as ordens de Sua Majestade e as
+que dispõe a Lei e Foral das Sesmarias, ficará privado desta. Pelo que mando ao ministro a
+que tocar ou oficial de justiça a que pertencer, dê posse ao dito doutor Manuel de Teive Mota
+as referidas terras na forma acima declaradas. Por firmeza de tudo, lhe mandei passar a
+presente por 2 vias por mim assinada e selada com sinete de minhas armas, que se cumprirá
+como nela se contém, se registrará nesta Secretaria do governo e mais partes a que tocar. Dada
+nesta cidade de São Sebastião do Rio de Janeiro. João de Souza Melo a fez em 23 de
+dezembro de 1751. O secretário do governo, Antônio da Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, ao dito
+Manuel de Teive Mota 600 braças de terras de testada, pouco mais ou menos, com 1 légua de
+sertão na parte e forma que nesta se declara.
+Para Vossa Excelência ver.
+Registrada no Livro 11 que serve de registro de Provisões do governo a folha 202. Rio, a 23
+de dezembro de 1751.
+//Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observações:
+Título AHU: CARTA pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria
+ao dr. Manuel de Teive Motta 600 braças de terras de testada, com uma légua de sertão, junto
+ao Rio Cabassú. Rio, 23 de dezembro de 1751.
+Manoel de Teive Motta foi atualizado para Manuel de Teive Mota.
+Referência:
+AHU_ACL_CU_017-1, Cx. 72\Doc. 16731
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

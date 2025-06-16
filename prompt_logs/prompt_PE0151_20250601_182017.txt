@@ -1,0 +1,148 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0151
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0264",
+  "Nome": "José Joaquim de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "19-10-1822",
+  "Observações da sesmaria": "O suplicante requereu uma légua de comprimento e uma légua de largura no termo da vila de Sirinháem. A sesmaria localizava-se no curso do rio Mapirunga, meia légua para cada lado do rio, até as terras de Gonçalo Francisco Axiole. ",
+  "Localidade": "Vila do Sirinháem",
+  "Marcos Geográficos": "Rio Mapirunga",
+  "Confrontantes": "Gonçalo Francisco Axiole",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pelos membros da Junta Provisória de Governo da Província de Pernambuco: o presidente Afonso de Albuquerque Maranhão, Francisco de Paula Gomes dos Santos, Manoel Ignacio Bezerra de Mello e o secretário José Mariano de Albuquerque Cavalcante.",
+  "Observações das exigências": "A junta provincial determinou que o suplicante pagasse o foro régio no valor anual de seis mil réis. A junta provincial determinou que o suplicante requeresse a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0151"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0151
+Carta de doação e sesmaria de José Joaquim de Oliveira - 02/10/1822
+José Joaquim de Oliveira com uma légua de terra, por sesmaria no riacho
+Mapirunga, termo da vila de Serinhaém.
+Nós, o presidente e membros da junta provisória do Governo da província de
+Pernambuco, fazemos saber aos que esta carta de data de sesmaria virem, que José
+Joaquim de Oliveira nos enviou o requerimento do teor seguinte = Ilustríssimos e
+excelentíssimos senhores = Diz José Joaquim de Oliveira que tendo requerido
+juntamente com Felipe Esteves Alves uma légua de terra, cujas confrontações constam
+do requerimento incluso, não fazendo conta ao dito seu companheiro proseguir na sua
+pertenção, passou ao suplicante o papel de cedência que apresenta, o qual habilita para
+obter a dita sesmaria por dinheiro, e como nela se acham preenchidas todas as
+solenidades que a lei determina, sem que se lhe opusesse algum embaraço = Pede a
+Vossas Excelências se dignem mandar-lhe passar a competente carta na forma do estilo
+= E receberá mercê = e sendo por nós visto o referido Felipe Esteves Alves ao capitão
+general que foi nesta província Luís do Rego Barreto, fundado em uma informações do
+desembargador juiz conservador das matas nacionais, no qual pião uma légua quadrada
+pelo riacho Mapirunga acima, com meia légua para cada lado do dito riacho, pegando
+das testadas de Gonçalo Francisco Axiole, no termo da vila de Serinhaem, os editais,
+que a câmara da mesma vila mandará afixar segundo a lei e na conformidade do
+despacho do dito ex-capitão general de 2 de abril de 1819, a informação da mesma
+Câmara, que declara não haver terceiro prejudicado; as respostas do doutor procurador
+da Coroa e do escrivão deputado da Junta da Fazenda Pública, em consequência de
+despachos aquela de 2 de julho e esta de 9 de setembro do mesmo ano, nas quais se lhes
+não opôs impedimento algum, e finalmente acedência, que a juntou do sobredito Felipe
+Esteves Alves do teor seguinte = Digo eu abaixo assinado, que pertendendo tirar por
+sesmaria com José Joaquim de Oliveira uma légua de terra no termo da vila de
+Serinhaem, no lugar do riacho denominado Mapirunga, que tem princípio nas testadas
+das terras que requer por sesmaria Gonçalo Francisco Axioli, e por não querer mais a
+dita terra, tratei com o mesmo José Joaquim de Oliveira fazendo-lhe trespasse da
+mesma parte que me pertença por ter dele recebido o valor das despesas que tenho feito
+com a dita meia légua que trata o nosso requerimento, e a trespasse ao dito José
+Joaquim de Oliveira de muito minha livre vontade, podendo de hoje por diante somente
+
+em seu nome requerer e continuar os meios da demarcação e mais termos para concluir
+dita sesmaria como sua e que fica-lhe pertencendo, pois deste mesmo trauto e todas as
+vezes que o dito me pedir. E para firmeza e verdade deste [meu] trato, passei este de
+minha letra e sinal. Recife de Pernambuco, em 30 de novembro de 1819 = Felipe
+Esteves Alves = e este documento autenticado pelo tabelião José Pereira de Lima
+Gondim = o que tudo sendo por nós visto e examinado, mandamos, por nosso despacho
+de 2 de outubro do corrente ano, que se lhe passasse a presente carta: e portanto, pela
+faculdade que nos é concedida no capítulo 15 do regimento deste Governo. Havemos
+por bem dar em nome de Sua Alteza Real, o Príncipe Regente Constitucional e Perpétuo
+Protetor do Brasil ao dito José Joaquim de Oliveira a referida légua de terra na forma
+dita, pagando o foro anual de 6 mil réis e observância da Real Ordem de 28 de setembro
+de 1700, de que deu fiança na contadoria da Junta da Fazenda Pública a folha 60 verso
+do livro 7º delas. A qual sesmaria possuirá e gozará ele, suplicante, e seus herdeiros,
+ascendentes e descendentes, como sua que fica sendo de hoje para todo sempre, com
+todas as matas, campos, rios, testadas, logradouros e mais úteis, que nelas se
+compreenderem, não prejudicando a terceiro, e não passará a religiões e pessoa
+eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os seculares, e
+nunca se dividirá em porções, nem se partirá senão por estimação, andando encabeçada
+em uma só pessoa, na forma da ordenação do livro 4º titulo 96§23; e assim não passará
+a herdeiros ou quaisquer outras pessoas, sem consentimento da junta da fazenda
+pública, para nela se darem novas fianças e se fizerem as devidas escripturações;
+ficando livres para a serventia dos povos todas as estradas, rios, fontes e pedreiras, e
+reservadas ao patrimônio público as madeiras de construção, pau brasil e viveiros de
+quaisquer metais: e será obrigado a requerer dentro de 3 anos confirmação, medição e
+demarcação, a povoá-la e cultivá-la na forma da Ordem Régia de 20 de outubro de 1753
+e alvará de 25 de janeiro de 1809, e não o cumprindo assim, se haverão por devolutas e
+novamente se conferirão a quem as requerer. Pelo que ordenamos aos ministros da
+Fazenda e Justiça e mais pessoas a quem tocar, cumpram e façam cumprir e guardar esta
+carta de data de sesmaria, como nela se contém, fazendo dar ao suplicante posse real,
+efetiva e atual, na forma da Ordenação título das sesmarias. Em firmeza do referido lhe
+mandamos passar a presente, sendo por nós assinada e selada com o sinete de armas
+reais, a qual se registrará na secretaria deste Governo, na junta da fazenda pública e
+aonde mais tocar. Manoel Passos de Figueiroa, oficial maior da secretaria, a fez em
+Recife de Pernambuco, aos 19 de outubro de 1822. E eu, José Mariano de Albuquerque
+
+Cavalcanti, secretário, a fiz escrever = Estava o sinete de armas reais = Presidente
+Afonso de Albuquerque Maranhão = Francisco de Paula Gomes dos Santos = Manoel
+Ignácio Bezerra de Melo = José Mariano de Albuquerque Cavalcante = carta de data de
+sesmaria pela qual Vossas Excelências hão por bem conceder a José Joaquim de
+Oliveira em nome de sua Alteza Real, o príncipe regente constitucional e perpétuo do
+Brasil, uma légua de terra junto ao riacho Mapirunga, termo da vila de Serinhaém, como
+nela se declara = Para Vossa Excelência = Por despacho do governo de 2 de outubro de
+1822 .
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 211-212.
+Observação:
+O nome do suplicante consta como Jozé Joaquim de Oliveira, o que foi modificado para
+José Joaquim de Oliveira, seguindo o padrão proposto para SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

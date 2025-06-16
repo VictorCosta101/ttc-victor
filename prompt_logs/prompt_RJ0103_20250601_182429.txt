@@ -1,0 +1,126 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0103
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Henrique de Araújo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-06-1595",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Por razões de a carta encontrar-se incompleta, não foi possível precisar a localidade que o suplicante solicita a concessão de título, embora informe que Gaspar Martins (RJ0102) havia pedido no mesmo lugar. ",
+  "Localidade": "Rio Imbassaí",
+  "Marcos Geográficos": "Maricá",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou o suplicante também que, havia 13 anos, residia na capitania, assim como ser do serviço do Rei e, ainda por precisar da terra para seu sustento.",
+  "Observações do deferimento e da concessão": "Por razões de a carta encontrar-se incompleta, não foi possível precisar se o deferimento foi parcial ou totalmente favorável, embora o próprio documento indique que o Rei concedeu meia légua de terra ao suplicante para a localidade que pretendia requerer concessão de título.",
+  "Observações das exigências": "Apesar de a carta estar incompleta, a única exigência ao suplicante que aparece é a citação do Regimento Geral de Antônio Salema, o qual diz: \"as terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem ou, posto que fossem, se por as pessoas a que se deram as não aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar de sesmaria a que vá pedir e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo e com as condições e obrigações do foral dado às ditas terras e de minha ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação desta capitania ou das terras que lhe assim forem dadas ao menos 3 anos e, dentro do dito tempo, as não possam vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade as tiverem perdidas por as não aproveitarem, vá tornarem a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas\".",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0103"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0103
+Carta de concessão de sesmaria da terra de Henrique d’Araujo de 12 de junho de 1595
+Forra
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1595 anos em os 12 dias do mês de junho do dito ano, em esta
+cidade de São Sebastião do Rio de Janeiro do Brasil, em as casas de morada de mim escrivão
+adiante nomeado, apareceu Henrique d’Araujo, morador nesta dita cidade, e me apresentou
+uma petição com um despacho nela do Senhor Salvador Correia de Sá, capitão e governador
+desta dita cidade e capitania e governança deste dito Rio de Janeiro, por El Rei nosso Senhor.
+Da qual petição e despacho dela o traslado é o seguinte: diz Henrique d’Araujo, morador
+nesta cidade, que ele há 13 anos está nesta terra e sempre serviu a Sua Majestade e a Vossa
+Senhoria no que foi mandado e nunca pediu terras de sesmaria, a qual lhe é necessária para
+seu sustento, pede a Vossa Senhoria que lhe faça mercê de lhe querer dar de sesmaria uma
+dada de terra tanto de largo como de comprido, que está em Maricá da barra de um rio e lagoa
+que se chama Buessui que cai na própria lagoa de Maricá, a qual terra lhe faça mercê de lhe
+dar onde acabar Gaspar Martins que pediu no mesmo lugar, correrá da banda da terra firme,
+conforme as ditas confrontações do dito Gaspar Martins, fora da costa e mesmo rio de
+Buessui e se medirá onde acabar o dito Gaspar Martins com as ditas confrontações e, sendo
+dado, correrá [. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ] bandas de onde
+não foi dados com os ditos campos e águas que nas ditas terras houver, assim mais pede a
+Vossa Senhoria que lhe faça mercê de lhe dar uma dada de terra, a qual já foi dado a um Brás
+Gonçalves, genro de Fernão d’Álvares, morador no Campo de São Vicente, a qual pede por
+perdida por ele não vir aproveitar, que está em Piratininga onde se chama Maum, digo, Nua,
+que parte com Brás Zeenes e que havendo respeito a sua necessidade e não ter onde fazer
+roça, pede a Vossa Senhoria que lhe dê as ditas terras, no que receberá mercê. Despacho do
+Senhor capitão e governador: dou ao suplicante onde pede meia légua de terra e, sendo dado,
+correrá como em sua petição diz e assim como abaixo diz. Salvador Correia de Sá. E tudo
+visto pelo dito Senhor capitão e governador a petição do dito suplicante Henrique d’Araujo as
+terras contidas no dito despacho e, conforme a ele, onde as pede, porquanto dizia que estavam
+devolutas, em matos maninhos e por aproveitar, para as aproveitar e fazer suas roças e
+benfeitorias, como diz nelas, não sendo já dado a outra pessoas 1°, as quais terras diz que
+estão nos ditos lugares, tem as ditas medidas e partem pelas ditas confrontações, como em sua
+petição diz, e a braça, porque se medirem, será braça craveira, convém a saber, duas varas de
+
+medir por uma, como no Reino se costuma de medir, as quais terras lhe deu e concedeu pela
+maneira adiante declarada, segundo forma do regimento do governador geral, que foi nesta
+cidade Antônio Salema, de que o traslado é o seguinte: as terras que estiverem dentro do
+termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não
+forem dadas a pessoas que as aproveitem ou, posto que fossem, se por as pessoas a que se
+deram as não aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra,
+estiverem vagas, as podereis dar de sesmaria a que vá pedir e tereis lembrança que não deis a
+cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que
+podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro,
+somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo e com as condições e
+obrigações do foral dado às ditas terras e de minha ordenação do Livro 4°, título das
+sesmarias, com condição que a tal pessoa ou pessoas residam na povoação desta capitania ou
+das terras que lhe assim forem dadas ao menos 3 anos e, dentro do dito tempo, as não possam
+vender, nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade as
+tiverem perdidas por as não aproveitarem, vá tornarem a pedir, vós lhes podereis de novo dar
+com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque
+as assim derdes, e isto se entenderá não sendo as ditas terras dadas a outras pessoas com as
+quais condições, obrigações e declarações, lhe assim deu o dito Senhor capitão e governador
+as ditas terras ao dito suplicante Henrique d’Araujo. Incompleta.
+-fim da transcrição-
+Observações do documento:
+Carta incompleta.
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.
+107-109.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg. 107-109.
+Códice 778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

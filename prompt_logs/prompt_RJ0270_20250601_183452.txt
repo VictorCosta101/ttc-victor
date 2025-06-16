@@ -1,0 +1,122 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0270
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Corrêa Vasques",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "01-06-1708",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.\r\n",
+  "Localidade": "Sítio no Caminho Novo de Minas",
+  "Marcos Geográficos": "Cachoeira de pedra chamada os [Chipotos]",
+  "Confrontantes": "Terras de seu irmão, o alcaide-mor Tomé Corrêa Vasques",
+  "Justificativas": "Pretendia plantar roças; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se povoar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou também que pretendia possuir a terra \"para a conservação do dito Caminho e mantimento dos passageiros que por ele passam\".",
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se que caso o suplicante descumprisse uma dessas cláusulas, a terra seria vendida para quem as pudesse cultivar, conforme Ordem Régia de 22/10/1698.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0270"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0270
+Carta de concessão de Manuel Correa Vasques de 1 de junho de 1708
+Passe-lhe. Rio, 26 de maio de 1735.
+Senhor governador.
+Diz Manuel Ribeiro de Queiros, que ele é possuidor presentemente de uma roça situada no
+Caminho Novo das Minas, a qual o compraram seus pais [do] doutor Manuel Correa Vasques,
+sendo como primeiro possuidor o que pediu sesmaria, porque estas se registram sempre nesta
+Secretaria de Estado e o suplicante carece do traslado para requerer o que for a bem de sua
+justiça. Portanto:
+Para Vossa Senhoria seja servido mandar que o secretário passe o traslado da dita sesmaria,
+conste também se a dita está confirmada por Sua Majestade e registrada.
+(não identificada)
+A folha 40 verso do Livro que serviu de registro de Sesmarias e Patentes no ano de 1707, em
+que foi governador desta capitania Dom Fernando Martins Mascarenhas Lencastre, se acha
+um registro do teor seguinte: Dom Fernando Martins Mascarenhas Lencastre, etc. Faço saber
+aos que esta minha carta de sesmaria virem que havendo respeito aos que por sua petição me
+enviou a dizer o doutor Manuel Correa Vasques, fidalgo da casa de Sua Magestade, que Deus
+guarde, e morador nesta cidade, que ele tem um sítio no Caminho Novo das Minas, em uma
+cachoeira de pedra que chamam os [Chipotos], e para continuar a cultura e fauna do dito sítio,
+para a conservação do dito Caminho e mantimento dos passageiros que por ele passam, quer
+que Vossa Senhoria lhe de uma data de terras de 1 légua de testada, começando onde acaba a
+data de seu irmão, o alcaide mor Tomé Correa Vasques, dê uma outra parte do Caminho com
+3 léguas de sertão correndo para as minas pelo dito Caminho rumo direito. Portanto, me pedia
+em fim e conclusão de sua petição, lhe fizesse mercê dar de sesmaria a dita légua de terra de
+testada com 3 de sertão na forma acima declarada, digo, confrontada, e receberia mercê. Visto
+o seu requerimento e respostas do provedor da Fazenda Real e procurador do Coroa, a que se
+acha vista e se não ofereceu dúvida. Hei por bem fazer mercê ao dito doutor Manuel Correa
+Vasques, em nome de Sua Magestade, que Deus guarde, de lhe dar de sesmaria as ditas terras
+declaradas na sua petição, por estarem devolutas; sem prejuízo de terceiro, nem do direito que
+algumas pessoas possam ter nelas, assim e do mesmo modo que são com todas as suas
+[dívidas] confrontações; sem dúvida alguma que a esta minha carta de sesmaria seja posta
+com declaração, que se cultivarão e povoarão as ditas terras dentro de 2 anos, e não o fazendo
+neles, se venderiam a quem as cultive, e se lhe denegará mais tempo, se julgarão as ditas
+terras por devolutas para quem as possa cultivar na forma das ordens de Sua Majestade de 22
+
+de outubro de 1698. Pelo que ordeno a todos os oficiais de guerra e pessoas de justiça desta
+capitania e seu distrito, a que o conhecimento desta minha carta de sesmaria pertencer, dê
+posse das ditas terras acima referidas ao dito doutor Manuel Correa Vasques na forma de
+pedido em sua petição e do estilo, façam cumprir e guardar esta minha carta de sesmaria como
+nela se contém, sem dúvida alguma que por firmeza de tudo lhe mandei passar apresente por
+mim assinada e selada com o sinete de minhas armas, a qual se registrará nos Livros da
+Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de São Sebastião do Rio
+de Janeiro, 1° dia do mês de junho, ano de 1708. O secretário, Bartolomeu de Siqueira
+Cordovil, a fez. Dom Fernando Martins Mascarenhas Lencastre.
+E não contém mais o registro da dita sesmaria de que se tirou os traslados em virtude do
+despacho retro do brigadeiro José da Silva Paes, a cujo cargo está o governo desta capitania.
+Rio de Janeiro, 27 de 1735.
+//José Ferreira da Fonte//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria ao
+doutor Manuel Corrêa Vasques umas terras, com as confrontações descritas na mesma carta.
+Rio de Janeiro , 1 de Junho de 1708.
+Manoel Correia Vasques foi atualizado para Manuel Correa Vasques.
+Referências:
+AHU_ACL_CU_017-01, Cx. 40, D. 9382
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

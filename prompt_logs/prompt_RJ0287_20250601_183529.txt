@@ -1,0 +1,121 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0287
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Francisco Alves Linhares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-02-1749",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Ilha devoluta no meio da Lagoa Feia",
+  "Marcos Geográficos": "Lagoa Feia",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia criar gado; Pretendia cultivar; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se não compreender vieiros ou minas, conforme a lei e o foral das sesmarias; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Mandou requerer confirmação em 2 anos; Mandou-se cultivar; Mandou-se demarcar antes de tomar posse; Mandou-se medir; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara, pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Exigiu-se ainda do suplicante que fosse obrigado a \"fazer os caminhos de sua testada com pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso, que necessite de barca para se atravessar, ficará reservada de uma das margens dela a terra que baste para serventia pública\". Determinou-se também que fossem reservados os Paus Reais.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0287"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0287
+Carta de concessão de Francisco Alves Linhares de 4 de fevereiro de 1749
+Gomes Freire de Andrade, do conselho de Sua Majestade, sargento-mor de batalha de seus
+exércitos, governador e capitão-general das capitanias do Rio de Janeiro, Minas Gerais, Goiás
+e Cuiabá, etc.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a me representar por
+sua petição Francisco Alves Linhares, morador na paragem de São Gonçalo, recôncavo da
+cidade de São Salvador de Campos dos Goytacazes, que no meio da Lagoa Feia, com pouca
+diferença e distância da dita vila, 3 léguas, pouco mais ou menos, se havia uma ilha devoluta
+que teria um quarto de légua de comprido e o mesmo de largura com pouca de diferença, a
+qual, até apresente, não tinha sido ocupada nem cultivada por pessoa alguma, e como ele
+suplicante, sua família e escravos se achava com possibilidade para povoar, possuír e cultivar
+a dita ilha, de que resultava proveito não só para o suplicante e sua família, mas também aos
+direitos de Sua Majestade em razão dos dízimos que havia de pagar, dos frutos que nela
+plantar e criações de gados que na mesma havia de fazer, por cuja causa me requeria que lhe
+desse de sesmaria a dita ilha, pedindo-me lhe mandasse passar com toda a largura e
+comprimento na forma referida. Sendo visto seu requerimento, em que foi ouvida a Câmara
+da dita vila de São Salvador dos Campos, a quem se não ofereceu dúvida, e ao provedor da
+Fazenda Real e procurador da Coroa dela, a quem se deu vista. Hei por bem fazer mercê de
+dar de sesmaria, em nome de Sua Majestade e em virtude da Ordem do dito Senhor de 15 de
+junho de 1711, em que me dá faculdade para conceder sesmarias ao dito Francisco Alves
+Linhares a dita ilha com as confrontações acima expressadas; sem prejuízo de terceiro ou do
+direito que alguma pessoa tenha a ela; com declaração que a cultivará e mandará confirmar
+esta minha carta por Sua Majestade dentro de 2 anos, e não a fazendo se lhe denegará mais
+tempo; antes de tomar posse dela, a fará medir e demarcar judicialmente, sendo para este
+efeito notificadas as pessoas com quem confrontar; será obrigado a fazer os caminhos de sua
+testada com pontes e estivas onde necessário for, e descobrindo-se nelas rio caudaloso, que
+necessite de barca para se atravessar, ficará reservada de uma das margens dela a terra que
+baste para serventia pública; nesta data não poderá suceder em tempo algum pessoa
+eclesiástica ou religião, e sucedendo será com o encargo de pagar dízimos e outro qualquer
+que Sua Majestade lhe impor de novo, e não os pagando se poderá dar a quem as denunciar;
+como também sendo o mesmo Senhor servido mandar fundar no distrito dela alguma vila o
+poderá fazer ficando livre, sem encargo algum ou pensão para o sesmeiro; não compreenderá
+
+esta data vieiros ou minas de qualquer gênero de metal que nele descobrir, reservando
+também os paus Reais; e faltando a qualquer das ditas cláusulas, por serem conforme as
+Ordens de Sua Majestade e as que dispõem a Lei e Foral das Sesmarias, ficará privado desta.
+Pelo que mando ao ministro ou oficial de justiça, a que o conhecimento desta pertencer, dê
+posse ao dito Francisco Alves Linhares da referida ilha, na forma acima declarada. E por
+firmeza de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas, que se cumprirá como nela se contém, se registrará nesta Secretaria de
+governo e nas mais partes a que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro.
+João de Sousa e Melo a fez aos 4 de fevereiro de 1749. O secretário do governo, Antônio da
+Rocha Machado, a fez escrever.
+//Gomes Freire de Andrade//
+Carta porque Vossa Excelência faz mercê dar de sesmaria, em nome de Sua Majestade, a
+Francisco Alves Linhares uma ilha de terra com as confrontações e forma acima declaradas.
+Para Vossa Excelência ver.
+Registrada no Livro 2 das Provisões do Governo a folha 170. Rio, a 4 de fevereiro de 1749.
+//Antônio da Rocha Machado//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro, concedeu e deu de sesmaria a
+Francisco Álves Linhares uma Ilha situada no meio da Lâgoa Feia, para a povoar e cultivar.
+Rio de Janeiro, 4 de fevereiro de 1749.
+Referência:
+AHU_ACL_CU_017-1, Cx. 61\Doc. 14.255
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,142 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0084
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0141",
+  "Nome": "Alexandre da Silva de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "13-11-1753",
+  "Data da concessão": "26-11-1753",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no sertão do Ararobá, ao longo do rio Moxotó. ",
+  "Localidade": "Sertão do Ararobá",
+  "Marcos Geográficos": "Sertão do Ararobá, Rio Moxotó",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou haver descoberto seis léguas no sertão do Ararobá, no rio Moxotó. O procurador da Casa da Torre, no entanto, o informou que das terras descobertas três léguas pertenciam a Casa da Torre e o suplicante deveria pagar foro das sesmarias. Posteriormente, o suplicante passou a pagar foro a Congregação do Oratório da Madre de Deus do Recife, por ter sido informado que as terras pertenciam aos eclesiásticos. Por fim, o suplicante descobriu que aquelas terras na verdade pertenciam ao rei e por isso o foro não deveria ter sido pago a pessoas privadas. Por estas razões, o suplicante requereu as terras sem embargo de ter pagado foro a particulares. ",
+  "Observações do deferimento e da concessão": "O governador requereu o parecer da câmara de Olinda.",
+  "Observações das exigências": "O governador Luís José Correia de Sá determinou o pagamento anual do foro régio no valor de 4 mil réis por légua concedida. O governador Luís José Correia de Sá determinou a confirmação régia no tempo de dois anos. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João Rodrigues Colaço",
+  "referencia": "PE0084"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0084
+Carta de doação e sesmaria de Alexandre da Silva de Carvalho - 26/11/1753
+Carta de sesmaria que se passou a Alexandre da Silva de Carvalho — de 3 léguas
+de terra.
+Luiz José Corrêa de Sá, do Conselho de Sua Majestade, governador e capitão general de
+Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação e
+sesmaria virem, que Alexandre da Silva me enviou a dizer em a sua petição por escrito
+o seguinte: — Diz Alexandre da Silva de Carvalho, morador no sertão do Ararobá, nas
+cabeceiras do Moxotó, que ele suplicante descobriu a sua custa 6 léguas de terras nas
+cabeceiras do riacho do Moxotó e povoou do dito descobrimento 3 léguas de terras, e
+opondo-se o procurador da casa de Garcia d’Ávila, com o pretexto de serem do seu
+morgado, obrigou ao suplicante a passar-lhe papel de foro, que com efeito lhe passou e
+ao depois se ouseram a estes os padres da Madre de Deus, desta vila do Recife, a quem
+suplicante passou segundo papel de foro, e vindo agora no verdadeiro conhecimento
+que nem pertence aquele nem a estes, mas a Sua Majestade, e como nem a um nem a
+outros tenha pago o foro e as ordens de Sua Majestade são que todas as terras que se
+não acharem povoadas no termo de 5 anos depois de pedidas, as poderá pedir o
+descobridor por sesmaria, recorre a Vossa Excelência o suplicante, para que como
+descobridor das ditas terras nas cabeceiras do rio Moxotó, vertentes do rio de São
+Francisco, se sirva Vossa Excelência mandar-lhe passar sesmaria das ditas 3 léguas de
+terra, sem embargo dos ditos papéis de foro, que como não tem pago foro, nem tem
+reconhecido senhorio a nenhum dos suplicados, e ainda, conforme o direito caso negado
+o tivesse feito, não podia prejudicar a Real Fazenda o dito foro, em cujos terceiros —
+Pede a Vossa Excelência seja servido mandar se lhe passe carta de sesmaria das ditas 3
+léguas de terras ordinárias, na forma que requer — E receberá mercê; na qual petição
+sendo-me apresentada, mandei por despacho de 13 de novembro de 1753 informar aos
+oficiais da Câmara da cidade de Olinda; o que satisfizeram na forma seguinte:
+Ilustríssimo e Excelentíssimo Senhor — Parece-nos conveniente dar-se as ditas terras
+por sesmaria para a Fazenda Real, estando devolutas, sem prejuízo de terceiro; Vossa
+Excelência mandará o que for servido; escrita em Câmara — Olinda, 17 de novembro
+de 1753 = Nicolau Coelho de Lacerda = Manoel Alves de Moraes Navarro Lins —
+Manoel da Cunha Andrade = Francisco de Barros Freire = com cuja informação, por
+despacho de 18 de novembro do mesmo ano, mandei passar informar ao doutor
+
+provedor da Fazenda Real, o qual pedindo informação ao escrivão da Fazenda Real e
+mandando responder o procurador da Coroa, eles o fizeram na forma seguinte: Senhor
+doutor provedor da Fazenda Real —. Nesta Provedoria não consta que estejam dadas
+por sesmaria as terras de que trata este requerimento e parece justo se lhe concedam por
+sesmaria as 3 léguas de terras que pede, sendo ordinárias, que é com uma só légua de
+largo, com o foro de 4.000 réis por légua em cada ano, e antes que se lhe passe a carta
+de sesmaria ao suplicante, deve dar fiança nesta Provedoria aos foros que se vencerem,
+em que se obrigue o fiador a pagar anualmente os foros vencidos, vossa mercê os
+mandará o que for servido. — Recife, 21 de novembro de 1753. — Bernardo Pereira de
+Vasconcelos = Fiat justiça, na forma que representa o escrivão na informação supra —
+Recife, 21 de novembro de 1753 — Oliveira — Com cuja resposta e informação o dito
+provedor satisfez ao meu despacho na forma seguinte: — Ilustríssimo e Excelentíssimo
+Senhor — Pela informação do escrivão da Fazenda, não consta estarem dadas de
+sesmarias as léguas de terra de que trata o suplicante e como sejam de utilidade a
+Fazenda de Sua Majestade as sesmarias em semelhantes terras para se cultivarem e os
+oficiais da Câmara o não duvidam, me parece se lhe deve conceder por sesmaria 3
+léguas na forma que aponta o escrivão da Fazenda, sem embargo, do que Vossa
+Excelência mandará o que for servido — Recife, 22 de novembro de 1753 — João
+Rodrigues Colasso — Com cuja informação mandei por meu último despacho passar
+carta de sesmaria em 23 de novembro de 1753 — E constando por bilhete do escrivão
+da Fazenda Real haver dado a fiança requerida no Livro 13, delas a folha 34, se passou
+em cumprimento do meu despacho a presente carta de doação e sesmaria, na
+conformidade do capítulo 15 do regimento deste Governo, pela qual: Hei por bem dar
+de sesmaria em nome de Sua Majestade ao suplicante as 3 léguas de terras de comprido
+e uma de largo contidas e declaradas na sua petição, no sítio e lugar que nela diz, com
+obrigação porém de pagar o foro de 4.000 réis para a Fazenda de Sua Majestade e de as
+povoar no tempo de 5 anos, com pena de se darem por devolutas, e como suas que são e
+ficam sendo, as possuirá eles e seus herdeiros com todas as suas pertenças, matas,
+campos, águas, rios, fontes, testadas, logradouros e mais úteis que elas compreenderem.
+Não lhe sucedendo por título algum nelas religiões, salvo pagando todos os encargos e
+foro como seculares, e assim mais será obrigado a dar caminhos livres ao Conselho para
+fontes, pontes e pedreiras, e a requerer confirmação no termo de dois anos por Sua
+Majestade - Pelo que ordeno aos ministros e pessoas a que tocar e for requerido, lhe
+façam dar posse na forma do estilo. Em firmeza do que lhe mandei passar a presente por
+
+mim assinada e selada com o sinete de minhas armas, que se registrará na Secretaria
+deste Governo e Provedoria Geral — Manoel Coelho a fez, no Recife de Pernambuco,
+aos 26 de novembro de 1753 — Luiz José Correa de Sá =.
+- Fim da Carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 83 - 85.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

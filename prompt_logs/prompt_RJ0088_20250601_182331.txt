@@ -1,0 +1,140 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0088
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Beatriz Pinta",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "07-01-1595",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Nas cabeceiras de Diogo Álvares",
+  "Marcos Geográficos": "Olaria",
+  "Justificativas": "Era morador(a) da Capitania; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou também a suplicante que \"tem duas filhas para casar e não tem chãos para lhe dar\".",
+  "Observações do deferimento e da concessão": "A suplicante havia solicitado inicialmente 70 braças para uma das filhas. Porém, foram concedidas apenas 40 braças para ambas.",
+  "Observações das exigências": "Citou-se o regimento do governador geral Antônio Salema, o qual diz que \"As terras que estiverem dentro do termo e limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo, com as condições e obrigações do foral dado às ditas terras e de minha Ordenação do Livro 4°, título das sesmarias, com condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que lhe assim forem dadas ao menos 3 anos, e que dentro no dito tempo, as não possam vender nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade, as tiverem perdidas por as não aproveitarem, vá tornarem a pedir, vós lhes podereis de novo dar com as condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim derdes e isso se entenderá não sendo as ditas terras dadas a outras pessoas\".\r\nDeterminou-se à suplicante também que \"haja a posse e senhorio do dito chão para sempre\", assim como igualmente foi determinado que \"viva e resida nesta dita cidade ou em seu termo ao menos os ditos 3 anos em o dito regimento declarado, dentro do qual tempo ela não poderá, digo, dentro do qual ela, nem suas filhas poderão vender, nem ela, digo, enlear, nem traspassar o dito chão por nenhuma via que seja sem licença do dito Senhor capitão e governador ou de quem adiante tiver poder para lhe dar. Além disso, ordenou-se que \"acabados os ditos 3 anos, tendo ela feito no chão casas e benfeitorias, as ditas suas filhas o poderão vender, trocar, descambar, dar, doar e fazer do dito chão tudo que lhe bem vier e aprouver, como cousa sua própria, isenta que é\".",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0088"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0088
+Carta de concessão de sesmaria da terra de Beatriz Pinta de 7 de janeiro de 1595
+Forro
+Saibam, quantos este instrumento de carta de sesmaria virem que no ano do nascimento de
+nosso Senhor Jesus Cristo de 1595 anos, em os 7 dias do mês de janeiro do dito ano, em esta
+cidade de São Sebastião do Rio de Janeiro do Brasil, em as casas de morada de mim escrivão
+adiante nomeado, apareceu um filho de Beatriz Pinta, moradora nesta dita cidade e mulher de
+Aleixos Rodrigues, me apresentou uma petição com um despacho em ela do Senhor Salvador
+Correia de Sá, capitão e governador desta cidade e capitania e governança deste dito Rio de
+Janeiro, por El Rei nosso Senhor. etc. Da qual petição e despacho dela o traslado é o seguinte:
+Senhor governador, diz Beatriz Pinta, moradora nesta cidade, ela não tem chãos nenhum de
+sesmaria e tem duas filhas para casar e não tem chãos para lhe dar, pede a Vossa Senhoria que
+de para uma de suas filhas 70 braças no caminho da Olaria, nas cabeceiras de Diogo Alvares,
+que fique a rua pelo meio e, sendo dado, corra avante. No que receberá mercê. Despacho do
+Senhor capitão e governador. Dou ao suplicante onde pede 40 braças para ambas, onde diz, e,
+sendo dado, correrá adiante. Salvador Correia de Sá. E tudo visto pelo dito Senhor capitão e
+governador a petição da dita suplicante Beatriz Pinta e o que ela pedia, visto ser justo,
+havendo respeito ao proveito que se pode seguir acerca da República, ao serviço de Deus, de
+El Rei nosso Senhor e por a terra se povoar, deu à dita Beatriz Pinta e para as ditas suas filhas
+o chão contida em o seu despacho e, conforme a ele, para o aproveitar e fazer casas nele,
+porquanto diz que estava devoluto e por aproveitar não sendo já dado a outra pessoa ou
+pessoas 1°. O qual chão diz que está no dito lugar, tem a dita medida e parte pelas ditas
+confrontações, como em sua petição diz, e a braça, será braça craveira .ss. a saber duas varas
+de medir por uma, como no Reino se costuma medir. O que tudo deu e concedeu na maneira
+adiante declarada, segundo forma do regimento do governador geral, que foi nesta dita cidade
+Antônio Salema, de que o traslado é o seguinte. As terras que estiverem dentro do termo e
+limites da dita cidade de São Sebastião, que são 6 léguas para cada parte, que não forem dadas
+a pessoas que as aproveitem ou, posto que o fossem, se por as pessoas a que se deram as não
+aproveitarem no tempo que eram obrigados por esta via ou por qualquer outra, estiverem
+vagas, as podereis dar de sesmaria a quem vá pedir, e tereis lembrança que não deis a cada
+pessoa mais terra que aquela que segundo sua possibilidade virdes ou vos parecer que podem
+granjear e aproveitar, as quais terras assim dareis livremente, sem outro algum foro, somente
+o dízimo à Ordem do Mestrado de nosso Senhor Jesus Cristo, com as condições e obrigações
+
+do foral dado às ditas terras e de minha Ordenação do Livro 4°, título das sesmarias, com
+condição que a tal pessoa ou pessoas residam na povoação da dita capitania ou das terras que
+lhe assim forem dadas ao menos 3 anos, e que dentro no dito tempo, as não possam vender
+nem enlear, e se algumas pessoas a que forem dadas terras no termo da dita cidade, as tiverem
+perdidas por as não aproveitarem, vá tornarem a pedir, vós lhes podereis de novo dar com as
+condições e obrigações contidas neste capítulo, o qual se trasladará nas cartas porque as assim
+derdes e isso se entenderá não sendo as ditas terras dadas a outras pessoas. Com as quais
+condições, obrigações e declarações, lhe assim deu o dito Senhor capitão e governador o dito
+chão a dita Beatriz Pinta, suplicante, e pela dita maneira, para sua guarda e segurança, lhe
+mandou ser feita esta carta pela qual manda que ela haja a posse e senhorio do dito chão para
+sempre, para ela e para as ditas suas filhas, todos seus herdeiros e sucessores ascendentes e
+descentes que após deles vierem, com tal condição e entendimento que ela viva e resida nesta
+dita cidade ou em seu termo ao menos os ditos 3 anos em o dito regimento declarado, dentro
+do qual tempo ela não poderá, digo, dentro do qual ela, nem suas filhas poderão vender, nem
+ela, digo, enlear, nem traspassar o dito chão por nenhuma via que seja sem licença do dito
+Senhor capitão e governador ou de quem adiante tiver poder para lhe dar e, da dita maneira,
+lhe dava o dito chão e, acabados os ditos 3 anos, tendo ela feito no chão casas e benfeitorias,
+as ditas suas filhas o poderão vender, trocar, descambar, dar, doar e fazer do dito chão tudo
+que lhe bem vier e aprouver, como cousa sua própria, isenta que é, o que tudo manda que se
+cumpra e guarde, sem dúvida, nem embargo algum, que a ele seja posto e que esta carta seja
+registrada dentro em 1 ano nos livros da Fazenda Real, como o dito Senhor em seu regimento
+mandar sob as penas em ele contidas e declaradas, e porque a sobredita Beatriz Pinta tudo
+prometeu de ter, manter e cumprir, pela sobredita maneira lhe mandou passar esta carta de
+sesmaria e por verdade eu, Pero da Costa, escrivão das sesmarias e tabelião das notas por El
+Rei nosso Senhor, em esta cidade de São Sebastião, escrevi e tomei nos meus livros das notas
+e tombo das cartas das sesmarias desta dita cidade, que em meu poder ficam onde o dito
+instrumento fica assinado por o dito Senhor capitão e governador e, não faça dúvida, na
+entrelinha atrás que diz “que segundo sua possibilidade” porque se fez por fazer verdade e
+com a entrelinha que diz “capitão e governador” //Salvador Correia de Sá//
+-fim da transcrição-
+
+Observações do documento:
+Título original: Carta de sesmaria do chão para casas de Briatiz Pinta que está no caminho das
+Olarias nas cabeceiras dos chãos de Diogo Alvares.
+As palavras “Jhu Xpo” foram alteradas para “Jesus Cristo”.
+A palavra “Briatiz” foi alterada para “Beatriz”.
+Referências:
+AN- Seção de documentos históricos Cod. 778-I ARQUIVO NACIONAL.Tombo das Cartas
+das Sesmarias do Rio de Janeiro. 1594 - 1595. 1602 - 1605. Rio de Janeiro, 1967. pg.70-72.
+Original no livro: Arquivo Nacional- Seção de Doc.Hist.- Livro transcrito: pg.70-72. Códice
+778-1 (1594-1595).
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

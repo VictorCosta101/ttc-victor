@@ -1,0 +1,125 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0370
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Lopes Pereira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "22-07-1743",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"se resolveu, no ano de 1735, a situar-se no distrito do Parnaguá, aonde se acha cultivando terras que achou devolutas\".",
+  "Localidade": "Terras já habitadas pelo suplicante no Riacho do Saco",
+  "Marcos Geográficos": "Riacho da Arca, Saquinho, ",
+  "Confrontantes": "Fazenda do Pico",
+  "Justificativas": "Alegou que já ocupava a terra requerida; Não possuía as terras com justo título; As terras eram habitadas pelo gentio; Tinha gado vacum; Tinha gado cavalar; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0370"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0370
+Carta de concessão ao padre João Lopes Pereira - 22/07/1743
+Registo de uma carta de data e sesmaria concedida ao Padre João Lopes Pereira de
+3 léguas de terra de comprido e uma de largo no Riacho do Saco.
+João de Abreu de Castelo Branco do Conselho de Sua Majestade, etc. Faço saber aos
+que esta minha carta de data e sesmaria virem que o Padre João Lopes Pereira, morador
+na Capitania do Piauí, me representou que ele se achava com possibilidade para poder
+povoar
+uma
+fazenda
+de
+gado
+vacum
+e
+cavalar, para o que, não
+tendo
+terras
+próprias para o poder fazer, se resolveu, no ano de 1735, a situar-se no distrito do
+Parnaguá, aonde se acha cultivando terras que achou devolutas, e está possuindo e
+defendendo do gentio bárbaro, e porque necessitava de título das ditas terras, me pedia
+fosse Servido conceder-lhe, em nome de Sua Majestade, 3 léguas de terra de comprido e
+uma de largo na mesma parte aonde se acha situado correndo pelo riacho do Saco
+abaixo, pegando da cerca de cima do Saquinho fazendo extremos com a fazenda do
+Pico, e com o Riacho da arca. Ao que atendendo, e a informação do Provedor [Mor] da
+Fazenda Real, e ser em utilidade da mesma fazenda o cultivarem-se as terras neste
+estado. Hei por bem conceder-lhe, em nome de Sua Majestade, por data e sesmaria 3
+léguas de terra de comprido, [e] uma de largo no sítio acima referido e confrontado na
+forma que pede com as condições expressadas nas Reais Ordens, e com a de não fazer
+trespasso por meio algum em nenhum tempo, a pessoa alguma, religião ou comunidade,
+sem primeiro dar parte na Casa da Fazenda ao provedor mor dela, para se me fazer
+presente, e ver se se deve ou não consentir no tal traspasso, sob pena de ficar nula esta
+data, e se poder conceder novamente a outrem. E nesta forma se lhe passa
+carta para que o dito Padre João Lopes Pereira haja, logre e possua as ditas terras como
+coisa sua própria, para ele e todos os seus herdeiros, ascendentes e descendentes, sem
+pensão nem tributo algum mais que o dizimo a Deus nosso Senhor dos frutos que nelas
+houver, e lavrar, a qual concessão lhe faço não prejudicando a terceiro nem
+a Sua Majestade. Se no dito sítio quiser mandar fundar alguma vila, reservando os paus
+reais que nelas houver para embarcações, com declaração que mandará confirmar esta
+data por Sua Majestade dentro dos 3 anos primeiros seguintes, e cultivará as ditas terras
+de maneira que deem fruto, e dará caminhos públicos e particulares aonde forem
+necessários para pontes, fontes, portos e pedreiras, e se demarcará ao tempo da posse
+por rumo de corda e braças craveiras, como é estilo, e Sua Majestade manda. E
+outrossim, não poderão suceder nelas religiões, nem outras pessoas eclesiásticas por
+nenhum título que seja, e acontecendo possuí-las será com o encargo de pagar delas
+dízimos a Deus como se fosse possuídas por seculares. E faltando a qualquer destas
+cláusulas se haverão as ditas terras por devolutas, e se darão a quem as [denunciar]
+Como o dito Senhor ordena. Pelo que mando ao Provedor Mor [da] Fazenda Real,
+[mais] ministros e pessoas a que tocar que, na forma referida, deixem ter e possuir
+as ditas terras ao dito Padre João Lopes Pereira como coisa sua própria, e a todos os
+seus herdeiros Cumpram e guardem esta minha carta de data tão inteiramente como nela
+se contém, a qual lhe mandei passar por mim assinada e selada com o sinete de minhas
+armas que se registará nos livros da secretaria do estado, e nos da Fazenda Real, e se
+passou por duas vias. Dada na cidade de São Luís do Maranhão aos 22 de julho ano do
+nascimento de Nosso Senhor Jesus Cristo de 1743. E eu, José Gonçalves da Fonseca,
+secretário do estado a fiz. João de Abreu de Castelo Branco.   
+- Fim da Carta –
+
+Referência:
+APEP, Livro 12, doc. 23, fls. 22v – 23v.   
+    
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

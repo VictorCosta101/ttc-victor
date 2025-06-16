@@ -1,0 +1,177 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0115
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Matias de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "15-10-1612",
+  "Observações da sesmaria": "O suplicante requereu 10 léguas de comprimento e 10 léguas de largura, sendo 5 léguas de comprimento para cada lado da ribeira do Jiquiassú e 10 léguas de comprimento para o sertão.",
+  "Localidade": "Jiquiassú",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário de Pernambuco, Duarte de Albuquerque Coelho, determino que o suplicante deveria pagar 3% anualmente de toda a produção de açúcar de engenho de água e 2% de engenho de trapiche. O donatário também reservou o direito de construção de engenho em terras não utilizadas pelo suplicante. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0115"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0115 
+ 
+Concessão de Matias de Albuquerque de 15/10/1612 
+ 
+Diz o capitão sargento-mor Antônio Álvares Bezerra que ele suplicante mandou 
+lançar no livro de notas em que escrevia o alferes José Bezerra uma data de 10 léguas 
+de terra para bem de sua justiça lhe são necessários os treslados da dita data de terra e 
+escritura de compra que junta esta data e posse. Pede a Vossa Mercê lhe faça mercê 
+mandar ao tabelião, o alferes João Ribeiro Tinoco lhe traslade a dita data e escritura 
+de verbo ad verbum em modo que faça fé e tudo o mais que estiver junto = e receberá 
+mercê = despacho = Dê-se-lhe como pede = Forro= Treslado do que se pede= Senhor 
+juiz ordinário = Dizem Dona Maria da Silveira e seus filhos os capitães Antônio 
+Álvares Bezerra, e Francisco Álvares Camelo, nora e netos do capitão Belchior 
+Álvares Camelo, já defuntos, que os ditos seu sogro como alcançou do donatário desta 
+capitania, Duarte de Albuquerque, por compra e doações 5 datas de terras nos limites 
+desta vila do rio de São Francisco, as quais pertencem a eles suplicantes como 
+legítimos herdeiros do dito Belchior Álvares Camelo, e pela antiguidade do tempo em 
+que foram passados, se acham as ditas datas muito envelhecidas e arruinadas e para 
+conservação de seu direito as quer mandar lançar nesta nota, portanto pede a Vossa 
+Mercê mande por seu despacho que o tabelião desta vila lhe lance nas notas as ditas 
+datas, escrituras e posse pertencentes a elas, reconhecendo-lhes os sinais e 
+reconhecimentos que ao pé das ditas datas e escritura e posse se acharem tudo por 
+estilo e modo que faça fé e fique nas ditas notas em forma dos próprios originais que 
+apresenta visto que pelo longuissimo tempo os não podem conservar para sua guarda 
+e receberá mercê = Despacho = Como pede [?] 8 de outubro de 1699 = Melo = Ano 
+do nascimento de Nosso Senhor, Jesus Cristo, de 1615 anos, aos 11 dias do mês de 
+fevereiro do dito ano na capitania de Pernambuco da banda do Norte do rio São 
+Francisco onde estava o licenciado Francisco de Andrade de Brito, ouvidor com 
+alçada em toda a dita capitania, estando ele presente e eu, escrivão, apareceu Belchior 
+Álvares, procurador bastante de Matias de Albuquerque, e por ele lhe foi dito e 
+apresentado uma carta de sesmaria de 10 léguas de terras, requerendo ao dito ouvidor, 
+que pois estava nos ditos limites lhe desse cumprimento à dita carta e lhe fizesse 
+demarcar, e ela demarcada lhe mandasse dar posse e vista a dita carta de doação pelo 
+dito ouvidor e procuração, que apresentou o dito Belchior Álvares mandou que tudo 
+
+se juntasse e com isso se fizesse a dita demarcação e se lhe desse posse em nome de 
+Matias de Albuquerque, e ele ouvidor se acharia presente nos ditos limites, e mandou 
+se citassem os hereos e se fizesse menção no auto de demarcação, e que eu, escrivão, 
+como tabelião assistisse à dita demarcação por Braz Vicente, estar [doente], e juntei a 
+carta de doação e procuração, e tudo se segue. Paulo de Sousa, tabelião o escrevi = 
+Duarte de Albuquerque Coelho, capitão e governador da capitania de Pernambuco das 
+partes do Brasil por El Rei Nosso Senhor, etc. Faço saber [?] que esta minha carta fora 
+apresentada que a mim me fez petição Matias de Albuquerque, dizendo nela que seus 
+antepassados ajudaram a conquistar, defender e sustentar a dita minha capitania, e que 
+tinha posses bastantes para fazer benfeitorias nas terras que lhe foram dadas, e que na 
+ribeira do Jiquiassú havia muitas para se poderem repartir, pelo que me pedia lhe 
+fizesse mercê de 10 léguas de terra por carta na dita ribeira, 5 léguas de uma banda e 5 
+da outra, de maneira que sempre ficasse a dita ribeira e meneio, e 10 para o sertão, as 
+quais pedia por devolutas com todas as águas, madeira e lenhas e pastos que nelas 
+houvesse e parecendo-lhe melhor tomar as ditas 10 léguas por costa e 10 para o sertão, 
+em 2 ou 3 partes por algum respeito pudesse fazer e receberia mercê= a qual petição 
+por mim vista e havendo respeito ao que nela diz o dito Matias de Albuquerque, hei 
+por bem e me praz de fazer mercê das 10 léguas de terra por [corta] na ribeira do 
+Jiquiassú, 5 léguas de uma banda e 5 da outra ficando sempre a dita ribeira em meio, e 
+10 léguas para o sertão com todas as lenhas, águas, partes e matos reservando as de 
+pau-brasil e parecendo lhe melhor tomar a dita quantidade de terra em 2 ou 3 partes 
+poderá fazer de maneira que serão somente 10 léguas por costa e 10 para o sertão, e 
+caindo a dita terra ou parte dela no meu reguengo me não pagará da que cair nele 
+nenhum foro, e fazendo-se nela algum engenho ou engenhos de águas ou trapiche me 
+pagará de pensão de cada engenho d’água a 3% de todo o açúcar que se fizer em caixa 
+do posto no posso em cada um ano pelo mês de janeiro e por cada trapiche a 2% pela 
+dita maneira, e se na dita terra houver alguma ribeira ou ribeiras de águas, além da 
+que se há de aproveitar o dito Matias de Albuquerque para o engenho, ou engenhos, 
+que fizer ele e seus herdeiros não terão nelas nenhuma ação, porque as poderei dar aos 
+meus suçessores e as pessoas que as pedirem para com a dita água, poderem fazer 
+outros engenhos, não prejudicando ao dito Matias de Albuquerque onde terá as armas 
+declaradas no regimento da dita minha capitania conforme o engenho for d'água ou 
+trapiche para boa guarda e defesa dela, o qual engenho ou engenhos quando quer que 
+se venderem me pagarão a [?] ou a meus sucessores e outrossim será obrigado a me 
+
+pagará a 3% toda sorte de moenda que se fizer na dita terra será demarcada com 
+justiça e verdade de todas as confrontações necessárias tendo cada uma das ditas 2 
+léguas por costa e 10 para o sertão 2400 braças em quadra de 10 palmos de vara cada 
+braça, como é costume pelo que mando a qualquer das justiças ou pessoas a quem o 
+conhecimento desta pertencer e tanto que lhe for apresentado se fará escritura em que 
+o dito Matias de Albuquerque por si ou por seu procurador e em seu nome confesse e 
+declare aceitar esta mercê, obrigando-se a cumprir tudo o que nela se contém e pagar 
+a pensão como fica declarado e não pagando quando for tempo de ser citado por via 
+executória e depois de assim feito darão a posse ao dito Matias de Albuquerque ou ao 
+dito seu procurador em seu nome das ditas 10 léguas de terra 10 para o sertão sem 
+dúvidas nem embargo algum, que a isso sejam postos e esta se registrará nos livros 
+que se costumam registrar as datas de terra onde se porão verbas do tempo em que se 
+tomou posse das ditas 10 léguas [de terra] por costa e 10 para o sertão e da 
+demarcação que nela se fizer com declaração do dia em que o engenho, ou engenhos, 
+da águas ou trapiche lançar a moer para efeito das pensões que do dito engenho, ou 
+engenhos, há de pagar e esta mercê e doação faço ao dito Matias de Albuquerque 
+deste dia para todo o sempre para ele e sua mulher e filhos netos e descendentes, os 
+quais seus filhos e seus herdeiros serão obrigados a pagar a dita pensão e cumprirem 
+as mais obrigações e clausulas contidas nesta carta, que lhe mandei passar por certeza 
+de tudo, dada em Lisboa a 15 de outubro, por mim assinada e selada com o selo de 
+minhas armas João Pereira a fez, ano do nascimento de Nosso Senhor, Jesus Cristo, 
+de 1612, e eu Aires Tavares a fiz escrever = Duarte de Albuquerque Coelho = Aires 
+Tavares = carta de doação porque Vossa Senhoria faz mercê a Matias de Albuquerque 
+de 10 léguas de terra por costa da ribeira do Jiquiassú 5 léguas de uma banda e 5 da 
+outra ficando sempre a dita ribeira em meio e 10 léguas para o sertão com todas as 
+águas, lenhas, pastos, mato, [repeioando] as de pau-brasil e parecendo-lhe melhor 
+tomara a dita quantidade de terra em duas e três partes poderá fazer de maneira que 
+serão somentes as 10 léguas por costa e 10 para o sertão e caindo a dita terra, parte 
+dela no reguengo não pagará na que cair nela nenhum foro e fazendo-se nelas algum 
+engenho ou engenhos de água ou trapiche pagará de pensão por cada engenho d'água 
+a 3% e de todo o açúcar que fizer encaixado posto no [Passo] cada um ano pelo mês 
+de janeiro, e por cada trapiche a 2% pela dita maneira e quando quer que se vender o 
+dito engenho, ou engenhos, de água ou trapiche pagará a quarentena deles a 3% de 
+toda a sorte de moenda que fizer na dita terra com as mais obrigações cláusulas 
+
+necessárias= para Vossa Senhoria ver = registrada no segundo livro a folhas 34 em 
+Lisboa, 15 de outubro de 1612 anos = Aires Tavares = registre-se= Cadena = fica 
+registada no livro dos registros de sentenças de liberdades de engenhos e sesmarias de 
+terras da Fazenda Real desta capitania de Pernambuco, a folhas 141 na volta = 
+Vasconcelos = fica feita a obrigação do que esta carta de data trata na forma dela por 
+Belchior Álvares, procurador bastante de Matias de Albuquerque, a qual tomei em 
+minhas notas a folhas 142  a que me reporto. Olinda, 1 de outubro de 1614 anos. 
+Gaspar Pereira, tabelião o escrevi = Gaspar Pereira. 
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. Livro I, p. 25-28. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

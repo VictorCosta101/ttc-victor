@@ -1,0 +1,114 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0416
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João de Sousa da Câmara",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-05-1727",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sítio Serra Vermelha",
+  "Ribeira": "Gurgueia",
+  "Confrontantes": "Tapera que foi do coronel Baltazar Carvalho",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; Solicitou as terras para si e seus herdeiros; Não tinha terras para a criação de gado; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou requerer confirmação em 3 anos; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se registrar; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se também que o sesmeiro deve possuir a terra como coisa sua própria. Dessa forma, exigiu-se o cumprimento de todas as cláusulas, do contrário, a terra retornaria à condição de devoluta e se repassaria ao denunciante.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0416"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0416
+Carta de Concessão a João de Sousa da Câmara - 04/05/1727
+Carta de Data passada a João de Sousa da Câmara no sertão do Gurguéia.
+João de Maia da Gama, etc. Faço saber aos que esta minha Carta de Data e Sesmaria virem,
+que a mim me enviou a dizer por sua petição João de Souza da Câmara, morador na cidade da
+Bahia que ele suplicante necessita de um sítio no sertão do Gurguéia para criar gado vacum e
+cavalar e também para nele receber suas boiadas que deita todos os anos para Minas Gerais e
+porque no dito sertão se acha devoluto um sítio no lugar a que chamam Serra Vermelha; e nele
+lhe são necessários 3 léguas de terra de comprido e uma de largura, meia para cada banda do
+dito sítio, digo, rio fazendo pião na Tapera que foi do defunto coronel Baltazar Carvalho,
+légua e meia para baixo e légua para cima; e que quando nas bandas do dito rio se não ache as
+meias léguas que pede, se lhe inteire nas cabeceiras de uma e outra parte no comprimento; e
+suplicante tem posses de escravos e mais fábrica para beneficiar o dito sítio, e seja em
+utilidade pública e dos direitos e dízimos Reais cultivar-se as terras em tão vasto sertão,
+portanto me pedia fosse conceder-lhe as ditas 3 léguas de terra de comprido e uma na largura
+nas paragens e confrontações sobreditas, ordenando-se que lhe passe Carta de Data de
+Sesmaria em nome de Sua Majestade, que Deus guarde, na forma do estilo e receberá mercê;
+e atendendo eu as razões que alegava como também as responderam os ministros da Fazenda
+Real [que] por meu despacho o seguinte: visto as informações do desembargador da Fazenda
+Real do Piauí e provedor, procurador e escrivão da Fazenda desta Capitania pelas quais consta
+não estarem dadas as terras que se pedem; concedo ao suplicante 3 léguas de terra de
+comprido e uma de largo, na parte mencionada e com as confrontações nesta declaradas com
+obrigações de pagar o foro ou pensão que Sua Majestade, que Deus guarde, for servido
+impor-lhes na confirmação e de registrar nos livros da Fazenda Real desta Capitania e nos da
+Vila da Mocha e com as mais condições e declarações expressadas nas Reais Ordens para que
+as haja, logre e possua como coisa sua e própria e todos os seus herdeiros ascendentes e
+descendentes, pagando dízimos a Deus, nosso Senhor, dos frutos que nelas tiver, reservando
+os paus Reais que nelas tiver para embarcações, com declaração que mandará confirmar esta
+carta dentro dos 3 anos primeiros seguintes além dos registros costumados nesta cidade e
+registrará dentro em 6 meses na Provedoria da Vila da Mocha e Piauí e cultivará as ditas terras
+de maneira que deem frutos e dará caminhos públicos e particulares aonde forem necessários
+para pontes, fontes, portos e pedreiras; e se demarcará ao tempo da posse por rumo de corda e
+braças craveiras como é estilo e Sua Majestade manda; e outrossim não poderão nelas suceder
+religiões por nenhum título, acontecendo possuí-las será com o encargo de pagarem delas os
+ditos dízimos a Deus como se fossem possuídas por particulares e faltando-se a qualquer
+dessas cláusulas se haverão por devolutas e se darão a quem as denunciar como o dito Senhor
+ordena. Pelo que mando ao provedor-mor da Fazenda Real e mais ministros e pessoas a que
+tocar que na forma referida e com as condições declaradas deixem ter e possuir as ditos 3
+léguas de terra de comprido e uma de largo na parte já mencionada ao dito João de Souza da
+Câmara, para ele e todos os seus herdeiros ascendentes e descendentes como coisa própria.
+Cumpram e guardem esta carta tão inteiramente como nela se contém, a qual mandei passar
+por mim assinada e selada com o sinete de minhas armas que se registrará aonde tocar que se
+registrará aonde tocar e se passou por duas vias. Dada nesta Cidade de São Luís do Maranhão
+aos 4 dias do mês de maio, ano do nascimento de nosso Senhor, Jesus Cristo, de 1727.
+Manoel Rodrigues Tavares. Secretário do Estado a fiz. João da Maia da Gama.
+- Fim da Transcrição -
+Referência:
+
+APEP, Livro 3, Doc. 114. Fls. 100v - 101v
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

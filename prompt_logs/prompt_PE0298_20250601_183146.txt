@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0298
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Isabel de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "11-06-1627",
+  "Data da concessão": "11-06-1627",
+  "Observações da sesmaria": "A sesmeira requereu uma légua de comprimento e uma légua de largura entre a Merueira pequena e a Merueira grande, cortando pelo caminho que vai desta vila para a Madalena, e para Paratibe de baixo até chegar a outro caminho que outro se vai desta vila para Paratibe de cima, até as fronteiras das terras, que foram de Diogo Garcia e Pedro do Couto. ",
+  "Localidade": "Merueira ",
+  "Marcos Geográficos": "Merueira Pequena, Merueira Grande, Madalena, Paratibe ",
+  "Confrontantes": "Diogo Garcia, Pedro do Couto",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 1948. Fl. 130-131",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0298"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0298 
+ 
+Concessão de Isabel de Albuquerque de 11/06/1627 
+ 
+Data de uma légua de terra na Merueira a Dona Isabel de Albuquerque a qual nos deixou todos 
+os seus bens. 
+ 
+ 
+Diz dona Izabel de Albuquerque, filha de Jerônimo de Albuquerque, principal povoador desta 
+terra, que ela pelo falecimento de seu pai ficou muito pobre para se sustentar conforme seu 
+estado, e qualidade, nem de presente tem terra alguma, onde possa fazer uma roça, e porque 
+tem por notícia que nos arredores desta vila está um pedaço de terra acomodado para nela fazer 
+uma roça. Pede a vossa senhoria que havendo respeito ao sobredito, lhe faça mercê em nome 
+do Senhor Duarte de Albuquerque, pelos poderes que do dito senhor tem, lhe faça mercê dar 
+um pedaço de terra, que está entre a Merueira pequena, e a Meruiera grande, cortando pelo 
+caminho, que vai desta vila para a Madalena, e para Paratibe de baixo até chegar a outro 
+caminho que outro se vai desta vila para Paratibe de cima, lhe entestar com as terras, que foram 
+de Diogo Gracia, que hora são de Pedro do Couto, as quais terras estão devolutas, e 
+desaproveitadas, e como tais pede a vossa senhoria lhe faça mercê delas. Despacho. Passe carta 
+de data a suplicante de uma légua de terra em quadra na parte que em sua petição diz, ou aonde 
+lhe parecer, e não for dada sem prejudicar a terceiro, de outras cartas que hajam mais antigas 
+dadas pelos donatários desta capitania Recife aos 11 de junho de 1627. Estava a rúbrica. Carta 
+de data.Mathias de Albuquerque etc. Faço saber aos que esta minha carta for mostrada, e o 
+conhecimento dela com direito pertencer, que havendo respeito ao que na petição atras escrita 
+diz a dita dona Isabel de Albuquerque, e por desejar de a servir, hei por bem de lhe dar em 
+nome do senhor Duarte de Albuquerque meu irmão, cujos poderes tenho, uma légua de terra 
+em quadra no lugar onde faz menção em sua petição, ou onde lhe parecer, e não for dada, nem 
+prejudicando terceiro, de outras cartas que hajam mais antigas, a qual légua de terra em quadra 
+dou, e concedo a dita senhora dona Izabel de Albuquerque com todas as agoas, pastos, e 
+madeiras que nela houver, para que possua de hoje para sempre sem dúvida, nem contradição 
+de pessoa alguma, e da posse se farão termo nas costas desta minha carta, que se registrara nos 
+livros das datas desta capitania, e se cumprira como nela se contém, sem embargo algum, dada 
+no Recife aos 11 de junho de 1627. Mathias de Albuquerque. Fica registrada esta carta no livro 
+20 do registro das datas e sesmarias dadas pelos donatários, e seus locotenentes a folhas 78. 
+João Rodrigues Chaves. - Não se continha mais em dito documento que eu Felipe Nery Correa 
+tabelião do público judicial e notas da cidade de Olinda, vila de Recife, capitania de 
+Pernambuco e seus termos para sua Majestade F. Que Deus guarde etc. - Fiz trasladar e depois 
+com o próprio e com o oficial abaixo assinado este consertei e conferi e depois com o próprio 
+e com o oficial abaixo assinado digo este consertei e vai sem coisa que dúvida faça, ao próprio 
+me reporto que tornei a entregar a quem aqui assinou subscrevi e assinei em púbico e razão de 
+meus sinais seguintes ao 13 do mês de janeiro de 1766.  
+ 
+ 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+
+ 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. Fl. 130-131 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

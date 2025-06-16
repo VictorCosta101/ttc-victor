@@ -1,0 +1,131 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0108
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0288",
+  "Nome": "Francisco Falcão Encerrabodes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "19-07-1777",
+  "Data da concessão": "29-05-1778",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura no rio Sebiró. ",
+  "Localidade": "Rio Sebiró",
+  "Observações da petição": "O suplicante alegou que a terra requerida havia sido solicitada primeiramente por Jerônimo Salgado de Castro Acioli. O suplicante, no entanto, informou que o dito Jerônimo Salgado de Castro Acioli desistiu da sesmaria requerida. ",
+  "Justificativas": "Pretendia criar gado; Tinha gado; Pretendia fazer engenho; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador José César de Meneses determinou o pagamento anual do foro régio no valor de 6 mil réis por légua concedida. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0108"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0108
+Carta de doação e sesmaria de Francisco Falcão Enserrabodes - 29/05/1778
+Francisco Falcão Enserrabodes com três léguas de terra de comprido e uma de
+largo no rio Seridó, no lugar de três Braços.
+José Cesar de Menezes, do Conselho de Sua Majestade Fidelíssima, seu governador e
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. Faço saber aos
+que esta carta de doação de sesmaria virem, que Francisco Falcão Enserrabodes me fez
+um requerimento do teor e maneira seguinte = Ilustríssimo e Excelentíssimo Senhor =
+Diz Francisco Falcão Enserrabodes, que Jerônimo Salgado de Castro Acioli pôs na
+presença do Ilustríssimo e Excelentíssimo Senhor antecessor de Vossa Excelência, que
+no rio Seridó, no lugar onde chamam três braços, por se envolverem três riachos que
+devem desaguar no mesmo rio, acham-se devolutas e desapropriadas três léguas de terra
+respeitando a extensão e uma de largo, pedindo-as por sesmaria para as lavrar e
+introduzir gados e estabelecer engenho, mandou proceder nas diligências necessárias, se
+lhe mandou passar carta de sesmaria das referidas três léguas, na forma que as pedia,
+pagando o foro competente com fiança na Contadoria, como tudo consta nos
+requerimentos e deferimentos inclusos, e porque o referido Jerônimo Salgado não
+duvida que se passe ao suplicante a referida sesmaria, e para que este a consiga, desiste
+aquele do requerimento, como consta da sua declaração que também oferece ao
+suplicante, aspira a referida terra para a beneficiar como intentava o dito Salgado, e não
+duvida a prestar a mesma fiança, como se tem deferido; nestes termos, pede a Vossa
+Excelência se sirva mandar que se passe carta ao suplicante, dada a fiança na contadoria
+dos foros que se vencerem; e receberá mercê. = e sendo por mim visto o seu
+requerimento, ordenei por despacho meu 19 de julho de 1777, aos oficiais da Câmara do
+respectivo distrito, mandassem fixar editais na respectiva freguesia para se saber ao
+certo estar ou não devoluta a mesma terra, e haver ou não terceiro prejudicado:
+constando-me por informação dos ditos oficiais, que assim o mandaram executar, e que
+não houve pessoa alguma que aos ditos editais saísse, por outro meu despacho de data
+de 4 de dezembro de 1777, mandei ouvir o escrivão da receita e despesa e assim mais
+responder o doutor procurador da Fazenda; por outro de 23 de dezembro do dito ano, e
+como todos uniformemente me responde não estar nos termos de se dar ao suplicante a
+terra pedida de sesmaria na forma confrontada em seu requerimento, pagando
+
+anualmente o foro de seis mil réis, por ser das que estão mais próximas a marinha, do
+que devia dar fiança na Contadoria, ultimamente mandei por despacho de 20 de março
+do corrente ano, que se passasse sesmaria na forma da resposta do doutor procurador da
+Fazenda e escrivão da receita e despesa. Em cumprimento do qual e pela faculdade que
+Sua Majestade Fidelíssima me permite no Capítulo 15 do Regimento deste Governo =
+Hei por bem dar em nome da dita senhora ao dito Francisco Falcão Enserrabodes de
+sesmaria no lugar onde chamam os três braços, três léguas de terra de comprido e uma
+de largo, na forma confrontada em seu requerimento, pagando o foro anual de seis mil
+réis por légua, visto ser das mais próximas a marinha, que determina a Real Ordem de
+28 de setembro de 1700, a qual terra possuirá e gozará ele suplicante e seus herdeiros
+ascendentes e descendentes, como sua que fica sendo de hoje para todo o sempre, com
+todos os seus pertences, matas, campos, rios, águas, testadas, logradouros e mais úteis
+que ela compreender, não prejudicando a terceiro, e não passará a dita a religiões e
+pessoas eclesiásticas, salvo sendo com os mesmos encargos com que as possuem os
+seculares, sendo obrigado a dar ao Conselho caminho livre para fontes, pontes e
+pedreiras e requerer dentro em três anos confirmação, medição e demarcação, povoá-la
+e cultivá-la na conformidade da Ordem Régia de 20 de outubro de 1753, e não o
+cumprindo assim se dará por devoluta e novamente será conferida a quem a requerer.
+Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a que tocar cumpram,
+guardem e fação cumprir e guardar esta carta de doação de sesmaria como nela se
+contém, a façam dar ao suplicante posse real, efetiva e atual, na forma costumada e
+debaixo das cláusulas referidas e das mais da Ordenação título de sesmaria, visto
+constar por bilhete que apresentou, achar-se dada a fiança do foro anual de seis mil réis
+na contadoria da Real Fazenda a fl. 169 do livro 1º delas. - Em firmeza do que lhe
+mandei passar a presente por mim assinada e selada com o sinete das minhas armas, que
+se registrará na Secretaria deste Governo e Contadoria da Real Fazenda. – Dada no
+Recife de Pernambuco, aos 29 dias do mês de maio – O padre Manoel Barbosa da Silva
+Garcia, oficial maior da secretaria do Governo o fez = Ano do Nascimento de Nosso
+Senhor Jesus Cristo de 1778 = O secretário do Governo, Manoel de Carvalho Paes de
+Andrade, a fez escrever = José Cesar de Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v.
+2. p. 234 - 237.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,156 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0092
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0431",
+  "Nome": "Gabriel Barbosa Lobato",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "24-03-1702",
+  "Observações da sesmaria": "O suplicante requereu duas léguas de terras no rio São Francisco, distante 7 léguas da vila de Penedo.",
+  "Localidade": "Vila de Penedo",
+  "Marcos Geográficos": "Rio São Francisco",
+  "Observações da petição": "O suplicante não informou as medidas da sesmaria requerida, mas somente a área total da terra pretendida.",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se não fazer benfeitorias que prejudicassem a água do poço; Determinou-se não prejudicar léguas dos índios da aldeia; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "referencia": "PE-AL0092"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0066 
+ 
+Carta de concessão de Gabriel Barbosa Lobato de 08/05/1692 
+Registro do Alvará pelo qual se concedeu e deu de sesmaria em nome de Sua Majestade 
+que Deus guarde para ele digo ao capitão Gabriel Barbosa Lobato para ele e seus 
+descendentes as duas léguas de terra que pede na parte que confronta em sua petição. 
+ 
+Dom João de Lencastro do Conselho de Sua Majestade que Deus guarde etc. Faço saber 
+aos que este alvará de doação e sesmaria virem que o Capitão Gabriel Barbosa Lobato se 
+me enviou apresentar a petição do teor seguinte. Senhor o capitão Gabriel Barbosa Lobato 
+capitão de infantaria nesta praça que este tem notícia que no rio de São Francisco distante 
+seis ou sete léguas da vila do Penedo está uma sorte de terra que serão duas léguas que 
+nunca foram povoadas por serem matos e não tem águas as quais ficam no rio Emboasica 
+para a parte do norte entre terras de Cristóvão da Rocha Pitta e dos herdeiros de João 
+Velho Tinoco e dos reverendos padres da Companhia o que visto pede a vossa senhoria 
+lhe faça mercê dar por sesmaria em nome de Sua Majestade que Deus guarde as ditas 
+duas léguas de terra ou a que se acharem por devolutas ou despovoadas da sorte que as 
+tem confrontando pra ele e seus herdeiros ascendentes e descendentes com todas as 
+vertentes que dominarem para as ditas terras, campos, matos, logradouros que tocarem ao 
+distrito e terra que estiver despovoadas e receberá mercê; e visto o parecer do doutor 
+procurador da Fazenda real que é o seguinte. Não se me oferece dúvida que se deem estas 
+duas léguas de sesmarias com as cláusulas da lei, sem prejuízo de terceiro com a cláusula 
+do estilo que é o não valer o alvará sem que o suplicante tome posse judicial por si ou 
+procurador fazendo citar todos os confrontantes para dizerem se tem de alegar contra a 
+tal posse de que tudo se estenderá termo nas costas do alvará para que conste. Bahia de 
+março 8 de 1702. Faria. E a informação do provedor-mor da mesma Real Fazenda que é 
+a que se segue. Senhor parece-me o mesmo que ao senhor Procurador da Fazenda na 
+quantidade das léguas de terras que o suplicante pede e nas mais circunstancias que aponta 
+e também parece que esta data leva a cláusula de não poder o suplicante mandar cortar 
+nas ditas duas léguas de terras madeiras algumas que possam ser de préstimo para a 
+fábrica das naus de Sua Majestade ou outro no serviço sob a pena que vossa senhoria for 
+servido mandar lhe comerciar, pela falta que podem fazer. Vossa senhoria mandará o que 
+mais convém. Bahia 9 de março de 1702. Francisco Lamberto. Hei por bem e faço mercê 
+dar de sesmaria em nome de Sua Majestade que Deus guarde ao dito capitão Gabriel 
+Barbosa Lobato para ele e seus descendentes as duas léguas de que pede na parte que as 
+confronta em sua petição n’este isenta, não prejudicando a terceiro e com todas as 
+cláusulas e sob pena que apontam os ministros da Fazenda real em seus pareceres também 
+n’este isentas e expressadas a quantidade de terras aproveitará dentro no termo da Lei e a 
+não poderá alhear antes d’ele nem passar a outro algum domínio sem as ter aproveitado, 
+pena de se darem logo n’este caso a outra pessoa, nem poderá fazer sem expressa ordem 
+de Sua Majestade com todas as cláusulas contidas na Ordenação do reino título das 
+sesmarias e forma do Capitulo 26 do regimento novo deste governo-geral, as quais terras 
+terá e possuirá com todas as suas águas, campos, matos, testadas, logradouros e mais uteis 
+que n’elas se acharem, tudo forro, livre isento de tributo em forma alguma, salvo dizimo 
+a Ordem de Cristo que pagará dos frutos que n’elas houver e por elas será obrigado a dar 
+caminhos públicos e particulares, para fontes, pontes, portos e pedreiras, com declaração 
+que havendo nas ditas terras alguma aldeia de índios, não  ficará o dito capitão Gabriel 
+Barbosa Lobato senhor d’ela, nem das terras que ocuparem ditos índios e a de mandar 
+
+confirmar por Sua Majestade esta sesmaria dentro em um ano seguinte á data desta, na 
+forma das novas ordens do dito Senhor Pelo que mando aos ministros e oficiais de justiça 
+a que o conhecimento deste pertencer que tendo precedido as diligencias que aponta o 
+doutor procurador da Fazenda real em seu parecer lhe façam dar e deem ao suplicante a 
+posse real, efetiva e atual, demarcando-se ao tempo d’ela citados para em efeito os heréus 
+de que enviarão certidão a casa da Fazenda Real desta cidade onde se registrará. Para 
+firmeza do que mandei passar o presente sob o meu sinal e selo de minhas armas o qual 
+se registará nos Livros da Secretaria do Estado, Fazenda Real d’ela e nos do escrivão das 
+sesmarias desta cidade e nos mais a que tocar e os guardará e cumprirá tão pontual e 
+inteiramente como n’ele se contem, sem dúvida, embargo nem contradição alguma. Luís 
+da Costa Sepúlveda o fez n’esta cidade do Salvador Bahia de Todos os Santos em os 24 
+dias do mês de março ano de 1702. Manuel Rogerio oficial maior da secretaria deste 
+Estado o fez escrever digo o subscrevi por impedimento do secretário d’ela e mandado 
+do senhor Dom João de Lencastro, governador e capitão-general do mesmo Estado. Dom 
+João de Lencastro. Selo. Alvará por que vossa senhoria tem por bem dando sesmaria em 
+nome de Sua Majestade que Deus guarde ao capitão Gabriel Barbosa Lobato para ele e 
+seus descendentes as duas léguas de terra que pede na parte que confronta em sua petição 
+n’esta incerta não prejudicando a terceiro com todas as cláusulas que confronta em sua 
+petição n’esta minha e sob a pena que apontam os ministros da Fazenda real em seus 
+pareceres também n’estas minhas e as mais da ordenação do Reino, título das sesmarias 
+e forma do capítulo 26 do regimento novo deste Governo e as de não prejudicar as aldeias 
+e terras dos índios que n’elas houver e mandar confirmar esta por Sua Majestade dentro 
+em um ano seguinte a data d’ele pelos respeitos acima Declarados. Para vossa senhoria 
+ver. Registrado no Livro 5º de registros da Secretaria do Estado do Brasil a que toca a 
+folhas 180 verso Bahia 27 de março de 1702. Rogério. Registe-se. Bahia 16 de maio de 
+1702. Lamberto. Leonardo Lopes de Carvalho em dito dia mês e ano. 
+ 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 166-168v 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,177 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0019
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Mariz",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Primordial",
+  "Data da petição": "08-01-1574",
+  "Data da concessão": "08-01-1574",
+  "Observações da sesmaria": "Título original: Carta das terras de Antônio de Mariz",
+  "Localidade": "Maricá",
+  "Marcos Geográficos": "Ilha de Maricá",
+  "Confrontantes": "Francisco Duarte Bittencourt",
+  "Justificativas": "Participou do povoamento; Participou das guerras de conquista; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Provisão",
+  "referencia": "RJ0019"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0019 
+ 
+Carta de concessão de sesmaria de Antônio de Mariz de 8 de janeiro de 1574 
+ 
+Forra 
+Saibam, quantos este instrumento de carta de sesmaria, virem que no ano do nascimento de 
+nosso Senhor Jesus Cristo de 1574 anos, aos 8 dias do mês de janeiro, do dito ano, nesta cidade 
+de São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas de mim escrivão abaixo 
+nomeado, apareceu  Antônio de Mariz, provedor da Fazenda Real Del Rei nosso Senhor, nesta 
+dita cidade e morador nela,  por ele me foi apresentado uma petição, com um  despacho nela do 
+Senhor Cristóvão de Barros, capitão e governador desta dita cidade, capitania e governança, 
+deste dito Rio de Janeiro, e provedor da Fazenda Real Del Rei, nosso Senhor, da qual petição o 
+traslado dela é o seguinte.  § Senhor, capitão e governador. Diz Antônio de Mariz, morador 
+nesta cidade de São Sebastião do Rio de Janeiro, e provedor da Fazenda Real Del Rei, nosso 
+Senhor, nela que ele veio com sua mulher e filhos, dos primeiros moradores que vieram a povoar 
+e conquistar esse dito Rio, ajudando sempre nas guerras, nas mais obras desta cidade, gastando 
+nisso e sua fazenda, assim em tempo dos mais capitães e governadores, como em tempo de 
+Vossa Senhoria, como hoje em dia faz, pede ele suplicante, a Vossa Senhoria, que havendo 
+respeito ao acima, lhe faça mercê de lhe dar de sesmaria meia légua de terra na praia que está 
+defronte da Ilha de Maricá, começando de onde acabar a dada de Francisco Duarte Bittencourt, 
+por diante ao longo d’água salgada pela praia até se encher da dita meia légua de terra, com 
+outra tanta para o sertão, pela terra adentro, tudo cortando ao direto pelo rumo d’agulha de parte 
+a parte, no que receberá mercê. E tudo visto pelo dito Senhor, capitão e governador a petição 
+do dito suplicante, Antônio de Mariz, o que ele pedia, visto ser justo e havendo respeito proveito 
+que se pode seguir acerca da República, ao serviço de Deus e Del Rei, nosso Senhor,  por a terra 
+se povoar, deu ao dito Antônio de Mariz, suplicante, 500 braças de terra de comprido pela costa 
+e outras 500 de largo, para o sertão, porquanto, estava devoluto e em matos maninhos e por 
+aproveitar para o dito Antônio de Mariz, aproveitar a fazer fazenda e benfeitorias como diz nela, 
+não sendo já dada outra pessoa primeiro, a qual terra está no dito lugar, tem a dita medida e 
+parte pelas ditas  confrontações, como em sua petição diz, e a braça por qual vai se medir será 
+braça craveira, convém a saber 2 varas de medir por 1, como no Reino se costuma de medir, o 
+que tudo lhe deu e concedeu na maneira abaixo declarada, segundo forma de sua provisão e do 
+Regimento do governador geral, Mem de Sá, de que o traslado de tudo de verbo a verbo é o 
+seguinte. Despacho do Senhor, capitão e governador. Dou ao suplicante 500 braças de terra de 
+comprido pela costa, e outras 500 de largo pelo sertão,  faça-lhe sua carta. Hoje, 6 de janeiro de  
+1574. Cristóvão de Barros. Traslado da provisão do Senhor, capitão e governador. Eu El Rei, 
+faço saber aos que meu alvará virem, que pela confiança que tenho em Cristóvão de Barros, 
+que nas coisas de que o encarregar me servirá e fará com o recado e felicidade que a meu serviço 
+cumpre, hei por bem e a mim apraz de lhe fazer mercê de capitão e governador da capitania e 
+cidade de São Sebastião do Rio de Janeiro, nas partes do Brasil, por tempo de quatro anos, que 
+servirá com os poderes de alçada que teve e de que usou Salvador Correia de Sá, sobrinho de 
+Mem de Sá, do meu Conselho que ora está por meu governador nas ditas partes, o tempo que 
+que serviu por dela prover o dito Mem de Sá, seu tio, e conforme o regimento que lhe para isso 
+foi dado, portanto, notifico assim ao dito Mem de Sá, e mando-lhe que meta o dito Cristóvão 
+de Barros em posse da dita capitania e governança, para a servir pelos ditos quatro anos, como 
+dito é, em minha chancelaria lhe será dado juramento, que bem a verdadeiramente sirva 
+guardado, digo, guardando em tudo meu serviço e o direito as partes, antes que o dito Cristóvão 
+de Barros parta deste Reino, me dará menagem pela fortaleza da dita capitania, segundo a 
+ordenança e de como a deu apresentará certidão nas custas deste, de Duarte Dias, fidalgo de 
+minha casa e meu secretário, o qual hei por bem que valha e tenha força e vigor, como se fosse 
+
+carta feita em meu nome, e selada de meu selo pendente, sem embargo da ordenação do Livro 
+2º, título 20, que diz, que as coisas cujo efeito houver de durar mais de um ano, passem por 
+cartas, e passando por alvarás não valham. André Vidal o fez em Lisboa, a 31 de outubro de 
+1571. Sebastião da Costa  o fez escrever. E sendo caso que Cristóvão de Barros, vá  de rota 
+abatida daqui tomar a dita cidade de São Sebastião, por essa causa lhe não puder dar a posse a 
+Mem de Sá, como acima é declarado, manda aos juízes e vereadores da dita cidade, que lhe 
+deem a dita posse, cumpram este alvará como se nele contém. Rei. O qual alvará estava assinado 
+e tinha todas as verbas,  inscrições, registros e certidão que a dita provisão requer, por virtude 
+da qual eu escrivão, dou fé. Mem de Sá, governador-geral, nos poderes que concedeu a Salvador 
+Correia de Sá, de que usou nesta capitania, lhe deu poder para dar de sesmaria terras e chãos, 
+conforme o regimento  e capítulo Del Rei nosso Senhor, por onde dele dava na Baía de Todos 
+os Santos, o qual capítulo é o seguinte. §As terras e águas dos ribeiros que estiverem dentro do 
+termo e limite da dita cidade, que são 6 léguas para cada parte que não forem já dadas as pessoas, 
+que as aproveitarem e estiverem vagas e devolutas para mim, por qualquer via ou motivo que 
+seja, podereis dar de sesmarias as pessoas que pedirem, as quais  terras assim dareis livremente 
+sem outro algum foro, nem tributo, somente os dízimos a Ordem de nosso Senhor Jesus Cristo, 
+com as condições e obrigações do foral dado as ditas terras de minha ordenação, do Livro 4º, 
+título das sesmarias com a tal condição que a tal pessoa ou pessoas residam na povoação da dita 
+Baía, ou das terras que lhe assim forem dadas ao menos três anos, e que dentro do dito tempo 
+as não possam vender, nem enlear e tereis lembrança que não deis a cada pessoa mais terra que 
+aquela que virdes, ou vos parecer que segundo sua possibilidade, pode aproveitar e se algumas 
+pessoas a que forem dadas terras no dita termo, e as tiverem perdido por não as aproveitarem, 
+e tornarem a pedir-vos, as dareis de novo para isso aproveitarem com as condições e obrigações 
+contidas neste capítulo, o qual se trasladará nas cartas das ditas sesmarias. Com as quais 
+condições, obrigações e declarações lhe assim deu o dito Senhor, capitão e governador as ditas 
+terras ao dito suplicante, Antônio Mariz, pela dita maneira e para sua guarda, lhe mandou ser 
+feita esta carta pela qual manda que ele haja a posse e senhorio delas, para sempre, para si e  
+todos seus herdeiros e sucessores, ascendentes  descendentes que após dele vierem, com tal 
+condição e entendimento que ele rompa e aproveite as ditas terras, as frutifique da data desta 
+em três anos primeiros seguintes, e outrossim, faça de maneira que dentro de quatro meses tenha 
+feito nelas algum proveito,  plantado alguns mantimentos e como foram cumpridos os ditos três 
+anos que as tem aproveitado, como dito é, porque não o fazendo ele assim passados ditos três 
+anos, se darão as ditas terras que aproveitadas não tiver de sesmaria a quem as pedir para 
+aproveitar, e lhe será deixado alguns logradouros do que aproveitado não tiver, e sobretudo, 
+pagará mil réis para as obras do Conselho, e dará pelas ditas terras, caminhos e serventias 
+ordenados e necessários para o Conselho, para fontes e pontes, vieiros e pedras que lhes 
+necessários forem, as quais terras pela sobredita maneira, lhe dava forras e isentas sem forno 
+nem tributo, somente de tudo que lhe nosso Senhor der nelas, de suas novidades, lavouras e 
+criações pagará os dízimos a Deus, conforme o dito regimento, o que tudo manda que se cumpra 
+e guarde sem dúvida nem embargo, que a ele seja posto, que esta carta seja registrada dentro de 
+um ano nos livros da Fazenda Real, como dito Senhor em seu  regimento manda, só as penas 
+nele contidas e declaradas, porque o sobredito Antônio de Mariz, suplicante, tudo prometeu, e 
+por verdade, eu Pero da Costa, escrivão das sesmarias e tabelião das notas, por El Rei nosso 
+Senhor, nesta sua cidade de São Sebastião, e seus termos neste instrumento de carta de sesmaria, 
+escrevi nos meus livros das notas das cartas de sesmarias desta dita cidade que em meu poder 
+ficam, onde o dito instrumento fica assinado pelo dito Senhor, capitão e governador, com a 
+entrelinha que diz “do dito ano nesta cidade de São Sebastião do Rio de Janeiro”. //Cristóvão 
+de Bairros// 
+- 
+Fim da Transcrição - 
+ 
+
+Observações: 
+Título original: Carta das terras de Antônio de Mariz 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristovão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 85; 
+Documento Original : f.32v.,81v. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.85. Códice 50.5.3A(1573-4).      
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

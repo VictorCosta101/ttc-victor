@@ -1,0 +1,133 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0080
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio de Brito e Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "12-09-1683",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas em quadra e localizada nas cabeceiras da cachoeira do rio Jiquiriçá, fazendo fronteira, ao oeste, com as terras dos herdeiros de Francisco Leandro. ",
+  "Localidade": "Cabeceiras da cachoeira do rio Jiquiriçá",
+  "Marcos Geográficos": "Rio Jiquiriçá",
+  "Confrontantes": "Herdeiros de Francisco Leandro",
+  "Observações da petição": "O sesmeiro não especificou as medidas da terra solicitada.",
+  "Justificativas": "Era descobridor(a) das terras com risco de vida por causa dos índios; Era morador(a) da Capitania; Pretendia lavrar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que as terras que possuíam estavam sem madeira e incapazes de cultura e de se tirar lucro; alegou que seria proveitoso para o bem comum, pois as terras ficavam próximas do \"gentio bárbaro\", e com ele povoando-as as pessoas que morassem próximas a ela ficariam mais sossegadas. ",
+  "Observações do deferimento e da concessão": "O procurador afirmou que era necessário que o suplicante especificasse as medidas de largura e de comprimento. O governador decidiu conceder duas léguas em quadra.",
+  "Observações das exigências": "Determinou-se mandar certidão de como as tem povoado; determinou-se não vender sem autorização real.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Francisco Lamberto",
+  "Nome do procurador": "João do Couto de Andrade",
+  "referencia": "BA0080"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma sesmarias de duas léguas de terra em quadra nas cabeceiras da cachoeira de 
+Jequiriçá da parte do norte, uma légua do porto de mar, concedidas Antonio de Brito e Souza. 
+ 
+Antônio de Sousa de Menezes, faço saber aos que, este alvará de doação e sesmarias virem, 
+que havendo respeito ao que, por parte de Antonio de Brito de Souza,  se me enviou a 
+representar por sua petição, cujo o teor é o seguinte: Senhor, [diz] Antonio de Brito de Souza, 
+que ele é morador em Jaguaripe e lavra terras cultivadas desde o princípio do descobrimento 
+desta Bahia, por seus avós e outros antepassado com risco do gentio bárbaro encontrando-lhes 
+sempre seus assaltos, e nelas não tem hoje de que se valer, nem ocupar suas fábricas por estarem 
+as ditas terras já sem madeira e são porque são quase incapazes de cultura, da onde se retira 
+lucros, e porque nas cabeceiras da cachoeiras do jequiriçá da parte do norte estão algumas terras 
+devolutas, uma légua do porto do mar, poucos mais ou menos e porte do oeste com terras dos 
+herdeiros de Francisco Leandro e das ditas terras, pode o suplicante tirar algumas madeiras, e 
+povoando-as resulta em utilidades da coroa e do bem comum, por estarem na parte onde o 
+gentio bárbaro assalta e estando o suplicante nas ditas cabeceiras ficaram os moradores debaixo 
+é mais sossegadas, e porque estas terras não se pertenciam a condessa de Castanheira, ou sua 
+alteza por estarem ainda indecisos. Pede a vossa senhoria lhe faça mercê, conceder de sesmarias 
+as terras que são devolutas nas cachoeiras do rio Jequiriçá  da parte do norte, e o comprimento 
+para sertão , que houver a lhe os primeiros campos que estão nas mesma terras para os 
+suplicantes puseram seus gados, e os quais também pedem de sesmarias, um caso que haja 
+medição, e a terra pertença a algum senhorio a pediria a que direito estiver, sendo ele sempre 
+como o primeiro povoador. E receberá a mercê. E vista a resposta do procurador da Fazenda, 
+que é o seguinte: Não dúvida que ao suplicante se conceda de sesmarias até o rio de que fez 
+menção a terra que parecer necessária, declarando-se a quantidade de largura e de 
+comprimento, com as condições costumadas. Bahia, 28 de maio de 1683.\\ Andrada\\. E 
+informação do provedor-mor da dita Real Fazenda, que também é seguinte: Não me oferece 
+dúvida na forma que parece ao provedor da Fazenda, vossa senhoria mandará, o que mais 
+convier e for servido. Bahia, 1 de junho de 1683. \\ Francisco Lamberto\\ Hei, por bem de lhe 
+conceder, como pele presente faço em nome de sua alteza, duas léguas de terra em quadra na 
+parte que as pedem e confronta em sua petição não prejudicando a terceiro, com todas suas 
+águas, campos, matas, testadas logradouros e mais úteis que nela se acharem, tudo forro e livre 
+de pensão ou tributo algum, salvo o dízimo a ordem de Cristo, que pagará com os frutos que 
+nelas houver, e por elas serão obrigados a dar caminhos públicos a todos e a particulares para 
+fontes, pontes, portos e pedreiras, e de povoar no termo da lei e regimento, demarcando-se ao 
+tempo da posse, citando os herdeiros de mandar certidão de como as tem povoado dentro do 
+tempo dito, tempo para se registrar nos livros da Fazenda  Real, e as não poderão vender sem 
+ordem de sua alteza. Pelo que mando a todos ministros de justiças, a que o conhecimento deste 
+com direita deva ou possa pertencer lhe façam dar a posse real, efetiva e atual na forma 
+costumada, de baixo das cláusulas acima referida, e as mais ordenações do título das sesmarias 
+para firmeza do que lhe mandei, possa o presente sob meu signal e selo de minhas armas,  a 
+qual se registrou livros da secretaria da secretária estado, e nos mais a que tocar e se guardará 
+e cumprirá tão pontual inteiramente, como nela se contém,  sem dúvida embargo, nem 
+contradição alguma. Dada nessa cidade de Salvador, Bahia de Todos os Santos, em 12 do mês 
+de setembro do ano de 1683. \\ Antonio Garcia, oficial-mor da secretaria deste estado do Brasil, 
+que sirvo por impedimento do secretário dele, mandado do senhor Antonio de Souza de 
+Menezes governador e capitão geral do mesmo estado, e o escreve. \\ Antonio de Souza\\ sello\\ 
+alvará de doação e sesmarias de duas léguas de terra em quadra, vossa senhoria (...) por bem 
+conceder em nome de sua alteza a Antonio Britto de Souza, na parte que as pedem, e sua petição 
+incerta, não prejudicando a terceiro, e que as não poderão vender sem ordem de sua alteza, e 
+
+com as mais cláusulas neste declaradas, para vossa senhoria vê registrado no segundo livro da 
+secretária estado do Brasil, a que toca à folha 150 verso. Bahia, setembro de 1683. \\ Garcia\\ 
+Registra-se, Bahia, 25 de setembro de 1683.\\ Lamberto\\ Thomas Moreira a registrou-se no 
+mesmo dia e mês e ano acima.  
+ 
+ 
+ 
+BA-AN, Códice 427, fls- 234-235v 
+Numeração original no livro: 168 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

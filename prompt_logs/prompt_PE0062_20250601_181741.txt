@@ -1,0 +1,128 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0062
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0113",
+  "Nome": "Bento Gomes de Oliveira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "23-12-1728",
+  "Data da concessão": "16-02-1729",
+  "Observações da sesmaria": "O sesmeiro requereu 5 braças e meia de comprimento e 16 braças de largura na vila do Recife, na Boa Vista, entre as casas de Maria Melo e Manuel Ferreira de Azevedo. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Boa Vista",
+  "Confrontantes": "Maria Melo e Manuel Ferreira de Azevedo",
+  "Justificativas": "Pretendia fazer casa; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O governador Duarte Sodré Pereira Tibão determinou o pagamento de 3500 réis de foro anual. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE0062"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0062 
+ 
+Carta de doação e sesmaia de Bento Gomes de Oliveira - 16/02/1729 
+ 
+BENTO GOMES DE OLIVEIRA, COM 60 PALMOS DE TERRA, JUNTO A NOSSA 
+SENHORA DO TERÇO DA BANDA DE SANTO ANTÔNIO, DA PRAÇA DO RECIFE. 
+ 
+Duarte Sodré Pereira Tibão, senhor e donatário da Vila de Águas Belas, do Conselho de Sua 
+Majestade, que Deus guarde, governador e capitão general de Pernambuco e mais capitanias anexas 
+e etc. - Faço saber aos que esta carta de sesmaria virem, que por parte de Bento Gomes de Oliveira 
+se me representou a petição do teor seguinte: Senhor general. - Diz Bento Gomes de Oliveira, 
+morador nesta Vila do Recife, que ele suplicante pretende fabricar duas moradinhas de casas térreas 
+no terreno de Nossa Senhora do Terço, da parte da Boavista, em terras devolutas e realengas entre o 
+alicerce que tem fundado Manoel Ferreira de Azevedo até a casa de Maria de Melo, de onde se 
+acham 55 palmos, os quais quer ele suplicante que Vossa Excelência lhe faça mercê delas por 
+sesmaria, com o foro que está arbitrado por Vossa Excelência de 50 réis por palmo pago a Fazenda 
+Real ou aonde de direito tocar; portanto, pede a Vossa Excelência lhe faça mercê mandar passar 
+carta de sesmaria dos sobreditos 55 palmos, ou o que na verdade se achar de frente, com 160 de 
+fundo com o foro de 50 réis o palmo, como está arbitrado. E receberá mercê. – A vista de qual 
+mandei que informasse o tenente-general e sargento-mor em engenheiros, por despacho de 23 de 
+dezembro de 1728, sobre o que informaram na forma seguinte: Senhor governador e capitão 
+general. – Os   chãos que o suplicante pede se acham devolutos e julgamos serem realengos, tem de 
+frente 70 e de fundo não podem ter mais de 155, que é o mesmo que tem as casas mestiças por uma 
+e outra parte, que já estão aforadas e com o preço do foro, porque Vossa Excelência mandou se 
+dessem as outras foi de 50 réis, nos parece justo que estes se deem pelo mesmo preço, pois lhe não 
+reconhecemos melhoria e vem a importar em 3500 réis de foro dos ditos 70 palmos; é o que 
+podemos [infomar] a Vossa Excelência, que defirirá ao suplicante com a retidão que costuma. 
+Recife, 7 de fevereiro de 1729. - João de Macedo Corte Real - Diogo da Silveira Veloso - Com essa 
+resposta mandei que informasse o doutor procurador da Coroa, por despacho de 8 de fevereiro de 
+1729, respondeu que lhe parecia ter lugar o requerimento, visto a informação e ser útil a Fazenda de 
+Sua Majestade, em 8 de fevereiro de 1729 - Antônio Rodrigues Pereira; com as quais respostas 
+mandei que informasse o provedor da Fazenda Real por despacho de 8 de fevereiro de 1729 - ao 
+que respondeu o seguinte: como pela informação do tenente-general de artilharia e sargento-mor em 
+engenheiros, se verifica que os chãos que o suplicante pretende são realengos e se mostra que aos 
+místicos tem Vossa Excelência mandado só arbitrar o foro e os que pede o suplicante não são de 
+melhor condição, me conformo com o mesmo parecer, ao que se lhe não oferece dúvida ao doutor 
+procurador da Coroa e Fazenda, por entender lhe era útil; [...] no qual Vossa Senhoia se emprega 
+
+com o zelo manifesto e mandará o que for mais servido ou conveniente ao serviço de Sua 
+Majestade. – Recife, 10 de fevereiro de 1729 - João do Rego Barros - E sendo tudo por mim visto, 
+mandei o seguinte - Passe carta de sesmaria, na forma que apontam o tenente-general e sargento-
+mor em engenheiros. - Recife, 12 de fevereiro de 1729. - Em cuja observância - Hei por bem dar de 
+sesmaria como pela presente faço, os ditos 70 palmos de terra de frente e 145 de fundo ao dito 
+Bento Gomes de Oliveira, na mesma petição, digo, na mesma parte e lugar que confronta em sua 
+petição, no terreno de Nossa Senhora do Terço, da parte da Boavista, com obrigação de pagar de 
+foro a Sua Majestade a 50 réis por palmo todos os anos, que importam em 3500 réis, os quais chãos 
+logrará ele e seus herdeiros, com todas suas pertenças e logradouros – Pelo que ordeno ao provedor 
+da Fazenda Real mande carregar por lembrança em receita o dito foro na forma determinada, e aos 
+ministros da Fazenda e Justiça a que tocar, lhe façam dar a posse real, efetiva e atual, na forma 
+costumada, com a declaração que os ditos chãos não passarão a religiões por nenhum título e 
+quando suceda será com o mesmo encargo, como se fossem possuídas por seculares, que por 
+firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de minhas 
+armas, que se registrará nos livros da Secretaria deste Governo e nos da vedoria geral e mais a que 
+tocar. - Dada nesta praça do Recife de Pernambuco, em os 16 de fevereiro, Bento Soares Pereira a 
+fez, ano do nascimento, de 1729. O secretario José Duarte Cardozo a fez escrever — Duarte Sodré 
+Pereira Tibão –. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 336 - 338. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

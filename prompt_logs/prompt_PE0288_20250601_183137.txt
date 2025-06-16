@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0288
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pero Rodrigues",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "05-12-1571",
+  "Observações da sesmaria": "O suplicante requereu 10 braças de comprimento e 9 braças de largura na vila de Olinda. A terra requerida possuía por limite a leste a rua da Bica, e o norte com as terras de Jorge Fernandes, e do oeste com o caminho que vai por baixo para o Varadouro ao longo da rua da Bica. ",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Varadouro, Rua da Bica",
+  "Confrontantes": "Jorge Fernandes",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário de Pernambuco, Duarte Coelho de Albuquerque, determinou a construção de benfeitoria dentro do tempo de seis meses sob pena das terras serem consideradas devolutas.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0288"
+}
+
+            **Conteúdo Original** (extrato):
+             
+PE 0288 
+ 
+Carta de concessão de Pero Rodrigues de 05/12/1571 
+ 
+Sesmaria de 10 braças de chãos dada a Pedro Rodrigues na rua que vai de São Pedro Mártir 
+para a praia da parte do oeste (parece ser a rua de Biquinha). 
+ 
+Petição o Padre Procurador do Mosteiro de São Bento desta vila, que para o bem de sua justiça 
+lhe é necessário o traslado de uma data de uns chãos na rua da Alfândega dada a Pedro 
+Rodrigues “pede a vossa mercê manda ao escrivão, em cujo cartório estará, lhe dê em modo 
+que faça fé. E receberá justiça, e mercê Despacho”. Dê-se lhe como pede Azevedo. Traslado 
+do que se pede: Duarte Coelho de Albuquerque, Capitão e Governador desta Capitania, e 
+governança da nova Luzitânia por El Rei nosso Senhor etc. Faço saber a quantos esta minha 
+carta de doação for mostrada, e o conhecimento dela com direito pertencer, como a mim enviou 
+dizer por sua petição Pero Rodrigues morador nesta vila, em como na rua que vai de São Pedro 
+para a praia pegado com o chão, que eu tinha dado a Jorge Fernandes da banda do oeste da dita 
+rua, e do sul do dito chão estava por dar, que me pedia lhe desse 10 braças de chão para fazer 
+casa para morar, o que visto por mim, pus por meio despacho. Passa-se carta ao suplicante de 
+dez braças de chão onde pede, 5 de novembro de 1571, pelo qual hei por bem, e me [prâz] de 
+dar, e doar deste dia para todo para todo sempre ao dito Pero Rodrigues dez braças de chão no 
+dito lugar, o qual chão parte do leste com a rua da Bica, e do norte com chão de Jorge Fernandes, 
+e do sul com quem direito deve partir, e do oeste com o caminho que vai por baixo para o 
+Varadouro e terra ao longo da dita rua da Bica dez braças de nove palmos, e para trás o que 
+houver até o caminho, o qual chão pela dita maneira dou ao dito Pero Rodrigues para ele, e sua 
+mulher, e filhos e netos herdeiros ascendentes, e descendentes, e para todas as pessoas, que 
+após  eles vierem, para que logrem o dito chão, e o possuam, e façam dele, e em ele o que lhe 
+bem vier como coisa sua própria que já é , forro, livre e isento, sem o dito Pero Rodrigues, nem 
+seus herdeiros, nem as pessoas a que o dito chão suceder, ou vier, ou deles o houverem por ele 
+em tempo algum pagarem foro, nem tributo nem direito algum, somente dizímo a Deus, no 
+qual chão será obrigado o dito Pero Rodrigues fazer bem feitorias dentro de seis meses, por 
+que não o fazendo, ficará devoluto para se dar, e mando que lhe seja demarcado no dito lugar, 
+e as braças serão de novo palmos de vara, que se entenderá ao longo da dita rua, e por que 
+assim me aprove de lhe dar o dito chão, lhe mandei passar esta carta, a qual mando que se 
+cumpra, e guarde como nela se contém, dada nesta vila de Olinda sob meu sinal aos 5 dias do 
+mês de dezembro, João Rodrigues, escrivão a fez ano de 1571 anos. Duarte Coelho de 
+
+ 
+Albuquerque. A qual carta de doação eu Gaspar Dias, que hora sirvo de escrivão das datas, e 
+demarcações nesta vila de Olinda e seu termo por impedimento de Brás Vicente, trasladei bem,, 
+e fielmente do Livro número 10 das ditas datas que está às folhas 14, a que me reporto, e 
+consertei, e assinei do meu sinal razão, em Olinda a 19 dias do mês de abril de 1604 anos. 
+Gaspar Dias. Concertado por mim escrivão. Gaspar Dias. Não se continha mais em dito 
+documento que eu Felipe Nery Correa tabelião do público judicial e notas da cidade de Olinda, 
+vila do Recife e seus termos Capitania de Pernambuco. Para sua Majestade que Deus guarde 
+etc. Fiz trasladar e depois com o próprio e com oficial abaixo assinado conferi e consertei ao 
+próprio me reporto que tornei a entregar a quem aqui assinou subscrevi e assinei em público, e 
+razão de meus sinais seguintes aos 3 dias do mês de janeiro de 1766. 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. Fl. 72-73v. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

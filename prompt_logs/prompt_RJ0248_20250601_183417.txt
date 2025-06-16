@@ -1,0 +1,118 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0248
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Manuel Pais Rangel",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-12-1723",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas no rio Guapiaçu",
+  "Marcos Geográficos": "Lagoa do Marco",
+  "Ribeira": "Guapiaçu",
+  "Confrontantes": "Terras de Catarina Soares de Melo",
+  "Justificativas": "Pretendia cultivar; As terras eram devolutas; Tinha escravos; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Devido ao grau considerável de ilegibilidade que o documento original apresenta, não foi possível identificar as exigências.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0248"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0248
+Carta de concessão de Manuel Paes Rangel de dezembro de 1723
+[Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de Sua
+Majestade, que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro,
+São Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor
+da dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que
+Deus guarde, governador e capitão general da capitania do Rio de Janeiro.]
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar-me por
+sua petição Manuel Paes Rangel, morador do Rio do Guapiaçu, que no dito rio estavam umas
+terras devolutas, as quais ficam nos sertões das terras que possuem vários hereos, começando
+onde acaba a légua que corresponde a data que começa do marco que está (ilegível) chamado
+vulgarmente a Lagoa do Marco, e começando onde (ilegível) o sertão destas ditas terras até o
+sertão das que possui [Catarina] Soares de Melo, haverá 2.500 braças de testada (ilegível), as
+quais estão por aproveitar e devolutas com 1 légua de sertão que corre para o mesmo rumo e
+ventos por onde começam (ilegível) que fazem testada pelo dito Rio do Guapiaçu acima
+(ilegível) até onde acabam as terras da dita Catarina Soares, (ilegível) os ditos sertões
+principia a testada das ditas (ilegível) que ele suplicante quer aproveitar e cultivar em a dita
+(ilegível), por se achar com escravos para o poder fazer, pedindo-me [lhe mandasse passar]
+por sesmaria as ditas terras acima (ilegível), vista deste requerimento ao provedor da Fazenda
+Real e ao procurador da Coroa, e não se lhes oferecendo dúvida. Hei por bem fazer mercê ao
+dito Manuel Paes Rangel de lhe dar por [sesmaria, em nome de] Sua Majestade, que Deus
+guarde, que as ditas 2.500 braças de testada e légua de sertão, não excedendo (ilegível) na
+forma das ordens do mesmo Senhor (ilegível). Dada nesta cidade de São Sebastião do Rio de
+Janeiro, (ilegível) dias do mês de dezembro de 1723. João Paes de Paredes a fez escrever. José
+Ferreira da Fonte a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a Manuel Paes Rangel de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, as 2500 braças de testada na forma e
+maneira acima declarada. [Para Vossa Senhoria ver]
+Cumpra-se e registre-se nos Livros da Fazenda Real. Rio, 3 de dezembro de 1723. //(não
+identificado)
+Registrada no Livro 21 de registro da Provedoria da Fazenda Real a folha 152. Rio de Janeiro,
+6 de dezembro de 1723. //José Leitão//
+
+Registrada no Livro (ilegível) que serve neste Cartório das sesmarias a folha 75. Rio, 16 de
+dezembro de 1723 anos. //(ilegível)//
+O doutor Antônio de Souza de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral e corregedor da comarca com alçada no civil e crime nesta cidade
+do Rio de Janeiro e nas mais capitanias de sua repartição, e juiz das justificações. Aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que está subscreveu, ser a letra no fim da carta de sesmaria retra do governador
+e capitão desta praça, Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, (ilegível)
+acima dos próprios (ilegível).
+//Antônio de Souza de Abreu Grade//
+-Fim da Transcrição-
+Observações:
+Nome original do sesmeiro: Manoel Paes Rangel.
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+Manuel Paes Rangel umas terras, com as confrontações indicadas na mesma carta. Rio de
+Janeiro, 2 de dezembro de 1722.
+O documento original encontra-se bastante corroído, dificultando a transcrição.
+Referência:
+AHU_ACL_CU_017-01, Cx. 23, D.5119.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0060
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Francisco Teixeira de Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "26-06-1679",
+  "Observações da sesmaria": "A sesmaria possuía duas léguas em quadra e estava localizada ao sul do rio Jiquiriçá, fazendo fronteira com as terras de João Teixeira da Silva e seu irmão Brás Ferreira.",
+  "Localidade": "Rio Jiquiriçá",
+  "Marcos Geográficos": "Rio Jiquiriçá",
+  "Confrontantes": " João Teixeira da Silva e Brás Ferreira.",
+  "Observações da petição": "O suplicante solicitou quatro ou cinco léguas em quadra.",
+  "Justificativas": "Não tinha terras; Pretendia cultivar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O procurador da Coroa afirmou que deveriam ser concedidas ao suplicante três léguas de comprimento e uma de largura. O provedor da Fazenda afirmou que deveriam ser concedidas duas léguas em quadra. O governador-geral concordou com o provedor e concedeu as duas léguas em quadra para  o suplicante.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhôa",
+  "Nome do procurador": "José de Freitas Serrão",
+  "referencia": "BA0060"
+}
+
+            **Conteúdo Original** (extrato):
+             
+BA 
+ 
+Registro de um alvará de doação e sesmaria de duas léguas de terra em quadra, que se 
+concederam ao capitão Francisco Teixeira de Lima 
+ 
+Roque da Costa Barreto do conselho de Sua Alteza, etc. Faço saber aos que este alvará 
+de doação e sesmaria virem, que o capitão Francisco Teixeira de Lima, me representou por sua 
+petição cujo teor é o seguinte: Senhor, diz o capitão Francisco Teixeira de Lima, morador em 
+Jiquiriçá em terras de Dona Elena, que das cabeceiras de onde acabam as terras, que correm 
+pelo dito rio de Jiquiriçá acima da parte do sul, e hoje possuem João Teixeira da Silva, e seu 
+irmão Bras Ferreira, está muita terra devoluta, e por cultivar, sem se lhe fazer experiência do 
+préstimo, e porque ele suplicante é casado de pouco e não tem terras próprias. Pede a Vossa 
+Senhoria que das terras, ou cabeceiras que acima refere de onde acabam as terras que os ditos 
+donos irmãos João Ferreira da Silva, e Bras Ferreira possuem lhe mande dar 4 léguas, ou 5 em 
+quadra. E receberá mercê. E vista a resposta do procurador da fazenda, que é a seguinte. Se há 
+terra devoluta, ou não dada, não duvido a que se concedam ao suplicante na parte que relata 3 
+léguas em comprido para o sertão e uma de largo nas cabeceiras dos dois irmãos que refere com 
+as cláusulas ordinárias: Dízimos a Ordem de Cristo, sem prejuízo a terceiro, cultura no termo 
+do regimento, e demarcação ao tempo que dela tomar posse, citados os hereos. Bahia 01 de 
+fevereiro de 1679 // Freitas // E a informação do provedor-mor da dita Real Fazenda, que 
+também é a que se segue. Senhor, parece-me que os podem conceder duas léguas em quadra ao 
+suplicante que vem a ser quatro, por que me conta que tem possibilidade para as povoar, e que 
+seja com as condições do regimento, e sem prejuízo de terceiro. Vossa Senhoria mandará o que 
+for servido. Bahia, e fevereiro 3 de 1679 // Antônio Lopes de Ulhôa // Hei por bem de lhe 
+conceder, e dar de sesmaria em nome de Sua Alteza, como pelo presente faço duas léguas de 
+terra em quadra, como parece ao provedor-mor da Fazenda Real na parte que o suplicante pede, 
+e confronta em sua petição, não prejudicando a terceiro, com todas suas águas, campos, matos, 
+testadas, logradouros, e mais úteis que nelas se acharem, tudo forro, livre, e isento de pensão, 
+ou tributo algum, salvo dízimo a Ordem de Cristo, que pagará dos frutos que nelas houver, e 
+por elas serão obrigados a dar caminhos livres ao conselho para fontes, pontes e pedreiras, e de 
+as cultivar no termo da lei e regimento, pois nesta conformidade lhe as concedo, demarcando-
+se no tempo da posse, citados os hereos por se evitarem dúvidas. Pelo que ordeno a todos os 
+ministros de justiça a que o conhecimento deste com direito, deva, ou possa pertencer, lhe façam 
+dar a posse real, efetiva e atual na forma costumada, debaixo das cláusulas acima referidas e as 
+mais da ordenação título das sesmarias. Para firmeza do que lhe mandei passar a presente sob 
+meu sinal, e selo de minhas armas a qual se registrará nos livros da secretaria do Estado e nos 
+mais a que tocar, e se guardará e cumprirá tão pontual e inteiramente, como nela se contém, 
+sem dúvida, embargo nem contradição alguma. Antônio Garcia o fez nesta cidade do Salvador, 
+Bahia de Todos os Santos em 26 de junho de 1679. Bernardo Vieira Ravasco a fez escrever. 
+Roque da Costa Barreto. Selo e alvará de doação e sesmaria de duas léguas de terra em quadra, 
+que Vossa Senhoria teve por bem conceder ao capitão Francisco Correa Lima na parte que a 
+pede e confronta em sua petição, como parece ao provedor-mor da fazenda, na forma e pelos 
+respeitos acima declarados para Vossa Senhoria ver. Por despacho de 4 de fevereiro de 1679. 
+Registrado no livro segundo dos registros da secretaria do Estado do Brasil, a que toca a folhas 
+65 verso. Bahia, e junho 26 de 1679 // Ravasco // Despacho do provedor-mor. Registre-se nos 
+
+livros da fazenda a que toca. Bahia, e julho 10 de 1679 // Antonio Lopes de Ulhoa // Antonio 
+Lopes a registrou em 2 de agosto de 1679 // João Dias da Costa //  
+ 
+Fim da transcrição. 
+ 
+ 
+Referências: 
+BA - AN, Códice 427, fls 156 - 157 
+Numeração original no livro: 118 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

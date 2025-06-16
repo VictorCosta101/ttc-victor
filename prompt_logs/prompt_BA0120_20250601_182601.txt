@@ -1,0 +1,162 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0120
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Domingos Lucas",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "03-12-1706",
+  "Observações da sesmaria": "A sesmaria possuía três léguas de comprimento e uma de largura e estava localizada ao longo do rio Inhambupe até a barra do rio chamado Guiambeida, logo ao lado das terras do alferes Manuel Pinheiro de Lemos.",
+  "Localidade": "Rio Inhambupe",
+  "Marcos Geográficos": "Rio Inhambupe",
+  "Confrontantes": "Manuel Pinheiro de Lemos",
+  "Observações da petição": "A petição foi feita por Domingos Lucas e mais duas pessoas: o capitão José Borges Barreto, o alferes Manuel Pinheiro de Lemos. Os suplicantes solicitaram 12 léguas de comprimento e nove de largura para dividir entre eles.",
+  "Justificativas": "Era descobridor(a) das terras; Era morador(a) da Capitania; As terras eram devolutas; Tinha gado; Pagava arrendamento (rendas) por aproveitar terras alheias; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar estradas públicas a todos e particulares; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se não prejudicar léguas dos índios da aldeia; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se notificar os vizinhos; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O provedor afirmou que não poderiam ser concedidas mais de três léguas de comprimento e uma de largura aos supliciantes. O governador concedeu três léguas de comprimento e uma de largura à Domingos Lucas, não mencionando os demais suplicantes, pois como era frequente, em diversas ocasiões, quando tinha mais de um suplicante, as concessões das sesmarias ocorriam em registros diferentes, dando a cada um uma doação individual.",
+  "Observações das exigências": "Determinou-se não passar a terra a outra pessoa sem autorização régia; citou as ordenações do reino e o capítulo 26 do regimento do governo-geral.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Luís da Costa Faria",
+  "Nome do procurador": "Pacheco",
+  "referencia": "BA0120"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro do alvará de sesmaria que em nome de Sua Majestade, que Deus guarde, se concede a 
+Domingos Lucas para ele e seus descendentes uma légua de terra de largura e 3 de comprimento. 
+Luiz César de Menezes, do conselho de Sua Majestade, que Deus guarde, alcaide-mor do 
+Alenquer, comendador da comenda de São Pedro de Lomar e São João do Rio Frio, alferes-
+mor do Reino, governador e capitão-geral do Estado do Brasil. Faço saber aos que este alvará 
+de doação e sesmaria virem que tendo respeito a se me representar a petição cujo o teor é o 
+seguinte: Senhor, dizem o capitão José Borges Barreto, o alferes Manuel Pinheiro de Lemos e 
+seu sogro Domingos Lucas, todos moradores no sertão do Itapicuru de cima, onde são casados, 
+que eles tem e trazem por fazendas altas os gados que possuem do que provam não terem os 
+lucros que teriam, e nas fazendas próprias as tiverem, e porque eles suplicantes em grande 
+trabalho e risco das mais vidas e fazendas descobriram no Inhambupe de cima mais terras que 
+estão devolutas e para aproveitar nas cabeceiras do dito rio as quais correm do norte, a nascente 
+começando onde acaba e faz barra o rio chamado Guiambeida, vão acabar correndo da barra do 
+dito riacho Guiambeida para cima onde se encontra com o primeiro éreo que se achar nas 
+cabeceiras dos ditos 2 rios confrontados com sesmaria e posse, nas quais terras que são de matos 
+e capazes de os situarem currais por terem várias companhias, várzeas e léguas. Até o presente 
+assistem vários negros fugidos e levantados situados com grandes mocambos dos quais fazem 
+danos que são notáveis, e Sua Majestade, que Deus o guarde, manda dar de sesmarias as tais 
+terras a quem as aproveite e povoem razão dos dízimos e utilidade que se segue aos seus 
+contratados e vassalos. Portanto, pedem a Vossa Senhoria que tendo respeito a que os 
+suplicantes foram descobridores das ditas terras e que delas necessitam para suas moradas e de 
+suas famílias, e bem assim para nelas meterem os seus gados, situando currais, lhe faça graça 
+de lhes mandar dar de sesmaria as ditas terras que se acham entre os 2 ditos rios, em nome de 
+Sua Majestade, que Deus guarde. E receberá mercê. Fazendo na mesma petição e declaração 
+que pareceu o doutor procurador da coroa, devia fazer que é a seguinte: Declaram os suplicantes 
+que a sesmaria que pedem poderá ter 12 léguas de comprimento e nas cabeceiras dos 2 rios que 
+nele se apontam terá 9 léguas de largura, pouco mais ou menos, e confronta com os herdeiros 
+de Antônio Vaz Ribeiro, e assim parece bem satisfeito no que requer o meritíssimo doutor 
+procurador da Fazenda Real a que se deu vista como é estilo cujo teor é o seguinte: não ponho 
+dúvida a que os suplicantes se dê de sesmaria as léguas de terra que parecer no sítio que 
+declaram, enquanto se acharem devoluta e por cultivar, obrigando-se os mesmos suplicantes a 
+cultivá-las e aproveitá-las no tempo que se lhe assinar na forma da ordenação, título das 
+sesmarias para que desta sorte tenha aumento a Fazenda Real. Bahia, 1° de dezembro de 1706 
+// Pacheco // E o que informa sobre o mesmo requerimento // provedor-mor da Fazenda Real 
+que é o que se segue: Senhor, são 3 os suplicantes que pedem esta sesmaria e declaram serem 
+terra devolutas que estão por aproveitar, sendo como dizem em costumam os Senhores 
+procuradores, capitães destas em nome de Sua Majestade, que Deus guarde, de sesmaria a quem 
+a cultivar para utilidade deste Estado e aumento dos Reais dízimos, passem a cada um dos 
+suplicantes se não pode dar de sesmaria mais que 3 léguas de comprimento e uma de largura 
+como o dito Senhor ordena por carta de 7 de dezembro de 1697. E como o doutor procurador 
+não tem dúvida na concessão, deve se das ditas léguas na forma da dita ordem, e juntamente 
+que não tomem posse sem que sejam primeiro citados os éreos confinantes, se tem algum 
+embargo em que no juízo do provedor-mor serão ouvidos, a qual diligência constará nas cartas 
+da carta antes da dita posse, aliás lhe não valerá o que em outra forma se tomar e lhe repugnará 
+o mesmo título a qualquer prescrição por devoluta e forma e estilo com que a 7 anos se passou 
+semelhante sesmaria para evitar futuros pleitos tão prejudiciais a este Estado, como tem 
+mostrado a experiência. Vossa Senhoria ordenará o que for servido. Bahia, 5 de dezembro, ano 
+de 1706 // Luís da Costa Faria // Hei por bem de conceder e dar de sesmaria em nome de Sua 
+
+Majestade, que Deus guarde, a Domingos Lucas, para ele e seus descendentes, uma légua de 
+terra de largura e 3 de comprimento, começando a demarcar-se de onde acabar a data do alferes 
+Manuel Pinheiro de Lemos, seu genro, na parte que a pede e confronta em sua petição nesta 
+inserta, não prejudicando a terceiro e mesma forma que aponta o provedor-mor da Fazenda Real 
+em sua informação retro escrita e com todas as mais cláusulas contidas na ordenação título de 
+sesmarias, as quais terras aproveitará no termo da lei, e as não poderá alhear nem passar a outro 
+algum domínio sem as ter aproveitado com condição de se darem logo neste caso a quem a 
+outra pessoa, nem o poderá fazer sem expressa ordem de Sua Majestade e com as mais cláusulas 
+contidas na ordenação do Reino, título de sesmarias e forma do capítulo 26 do regimento novo 
+deste governo geral, as quais terras terá e possuirá com todas as suas águas, campos, matos, 
+testadas, logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de foro, tributo 
+ou pensão alguma, salvo à ordem de Cristo que pagará dos frutos que nelas houver, e por esta 
+será obrigado a dar caminhos particulares para fontes, pontes e pedreiras, com especial 
+declaração que que havendo nas ditas terras alguma aldeia de índios não ficará Domingos Lucas 
+senhor dela e nem das terras que ocuparem os tais índios como apontam os ministros da Fazenda 
+Real, na forma das novas ordens de Sua Majestade. Pelo o que mando aos ministros e oficiais 
+de justiça, a que o conhecimento pertencer, que tendo precedido diligências apontadas pelo 
+provedor-mor da Fazenda Real ao seu parecer, deem e lhe façam dar ao suplicante a posse real, 
+efetiva e atual demarcando-se no tempo dela citados os éreos, que enviarão certidão a casa da 
+Fazenda Real de onde se registrará. Para a firmeza do que lhe mandei passar a presente sob o 
+sinal e selo de minhas armas do qual se registrará nos livros da secretaria do Estado, Fazenda 
+Real dele e nos do escrivão de sesmarias desta cidade e mais a que tocar, se guardará e cumprirá, 
+tão pontual e inteiramente como nele se contém, sem dúvida nem contradição alguma. // Luiz 
+da Costa Sepúlveda // o fez nesta cidade do Salvador, Bahia de Todos os Santos aos 3 dias do 
+mês de dezembro, ano de 1706 // Gonçalo Ravasco Cavalcante de Albuquerque // a fiz escrever 
+// Luís Gerardo de Menezes // Alvará porque Vossa Senhoria teve por bem conceder e dar de 
+sesmaria em nome de Sua Majestade, que Deus guarde, a Domingos Lucas, para ele e seus 
+descendentes uma légua de terra de largura e 3 de comprimento, começando a demarcar-se de 
+onde acabar a data do alferes Manuel Pinheiro de Lemos, seu genro, na parte que as pedem e 
+confrontam em sua petição nele inserta, não prejudicando a terceiro e na mesma forma que 
+aponta o provedor-mor da Fazenda Real em sua informação e as cláusulas que é de estilo pelas 
+respostas assim declaradas. Para Vossa Senhoria ver. Registrado a folha 186 do livro 5° dos 
+registros da secretaria do Estado do Brasil, a que toca. Bahia, 14 de dezembro de 1706 // 
+Ravasco // Cumpra-se e registre-se. Bahia, 17 de dezembro de 1706 // Faria // Francisco 
+Fernando César // a registrou em 18 do dito mês e ano  
+ 
+- Fim da Transcrição – 
+ 
+Observações: 
+- O nome do suplicante no documento original consta como: “Domingos Lucas” 
+ 
+Referências: 
+AN, Códice, fls. 191 - 192. 
+Numeração original no livro: xx 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

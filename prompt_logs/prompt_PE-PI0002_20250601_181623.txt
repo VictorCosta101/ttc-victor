@@ -1,0 +1,171 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-PI0002
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0038",
+  "Nome": "Alexandre Jorge da Cruz, Antônio de Sousa (PE-PI 1), Bonifácio Cubas, Brás Gonçalves, Cristóvão de Mendonça Arrais, Domingos de Mendonça (PE-PI 1), Domingos Luís do Prado, Domingos Rodrigues da Silva, Jerônima Cardim Frois, João de Matos, João Pais de Mendonça , Luís da Silveira Pimentel, Pascoal Leite de Mendonça, Simão Jorge Velho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Piauí",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "20-12-1704",
+  "Data da concessão": "03-01-1705",
+  "Observações da sesmaria": "Os suplicantes requereram seis léguas de largura ao longo do rio Potengi e Camarões, para cada lado do rio, até o rio da Parnaíba. Os suplicantes alegaram que possuíam terras no sertões com criações de gados, cabras e ovelhas e defendiam as terras das incursões de nações indígenas, protegendo as terras da fronteira do Maranhão em conjunto com a Casa da Torre. O Domingos Jorge Velho, mestre de campo do terço, foi chamado para descer com sua gente, arcos e soldados para combater os negros rebelados dos Palmares e recebeu a promessa da concessão de terras dos Palmares. O acerto foi foi firmado em 3 de março de 1687 com o governador João da Cunha Souto Maior.",
+  "Localidade": "Rio Parnaíba",
+  "Marcos Geográficos": "Rio Parnaíba, Rio Camarões, Rio Potengi",
+  "Observações da petição": "Os suplicantes informaram apenas a quantidade de léguas requeridas, 6 léguas. ",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Tinha gado; Tinha outras criações; Alegou já ter terras; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 14,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Antônio Rodrigues Pereira",
+  "referencia": "PE-PI0002"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-PI 0002 
+ 
+Carta de doação e sesmaria da viúva Jerônima Cardim Froe e sargento-mor Christovão de 
+Mendonça Arrais – 03/01/1705 
+ 
+SESMARIA QUE SE PASSOU A DONA JERÔNIMA CARDIM FROE, VIÚVA QUE FICOU 
+DO MESTRE DE CAMPO DOMINGOS JORGE VELHO, E AO SARGENTO-MOR 
+CHRISTOVÃO DE MENDONÇA ARRAIS, CAPITÃES E MAIS OFICIAIS DO 3º DA 
+GUARNIÇÃO DOS PALMARES DAS TERRAS DO RIO CAMARÕES E PARANAÍBA 
+ETC. 
+ 
+Francisco de Castro Moraes, do Conselho de Sua Majestade etc. Faço saber aos que esta carta de 
+doação de sesmaria virem, que dona Jerônima Cardim Froes, o sargento-mor Christovão de 
+Mendonça Arrais, governador do 3.º = São Paulistas = da guarnição dos Palmares, (por falecimento 
+do mestre de campo Domingos Jorge Velho), capitães e mais oficiais do dito regimento, me 
+representou a petição, digo, me representaram a petição cujo teor é o seguinte: Senhor. Dizem dona 
+Jerônima Cardim Froes, viúva que ficou do mestre de campo Domingos Jorge Velho, o sargento-
+mor Christovão de Mendonça Arrais, os capitães Alexandre Jorge da Cruz, Paschoal Leite de 
+Mendonça, Domingos Rodrigues da Silva, Luiz da Silveira Pimentel, Simão Jorge Velho, João de 
+Matos, Domingos Luiz do Prado, o ajudante Antônio de Souza, o alferes do mestre de campo 
+Domingos de Mendonça, o sargento Braz Gonçalves, o cabo de esquadra Bonifácio Cubas, João 
+Paes de Mendonça, todos os oficiais que eram então e são do 3º de infantaria, que de gente servente 
+formou o dito Domingos Jorge Velho com (espaço em branco no original) senhor e administrador 
+seu, com o qual ele e os ditos suplicantes nomeados franqueavam as habitações e povoações que os 
+brancos tem nele contra os insultos que os Tapuias bravos cotidianamente intentam, e não poucas 
+vezes, executar com graves danos e irremediáveis provas, para o que obrarem melhor o mestre de 
+campo e subalterno oficiais tinham exigido para sua morada e habitação o rio Potingh, que quer 
+dizer rio ou água de Camarões e o rio Parnaíba e […] e neles tinham feito suas povoações com suas 
+habitações, com suas criações, tanto de vacuns como cavalares ou ovelhuns, cabanes, digo, cabranes 
+etc., faziam suas lavouras e assim tem – seus domicílios vinte e quatro ou vinte e cinco anos, 
+topando bandeiras ao gentio bravo por onde as ocasiões o pediam, defendendo assim […] que o dito 
+gentio intentavam contra as outras povoações dos brancos, dando por este meio lugar a que 
+entrassem a povoar, como com efeito entrou e povoou todo o Praghy e Canindé em companhia da 
+Casa da Torre de Garcia da vila e defendendo as fronteiras do Maranhão; e ficará até que por parte 
+de Sua Majestade foi o dito Domingos Jorge Velho chamado e requerido ao senhor governador João 
+da Cunha (um sinal ilegível) antecessor de Vossa Senhoria, de descer com sua dita gente e oficiais 
+em estado de guerra, os negros fugidos e rebelados dos Palmares, que insultavam, invadiam, 
+roubavam, violavam e assassinavam os brancos em todas estas capitanias de Pernambuco, como 
+com efeito, Domingos Jorge Velho desceu com ao redor de 1.300 arcos do seu gentio e cerca de 
+
+oitenta brancos, que além dos que nesta petição vão nomeados e nesta ocasião que se lhe 
+agregaram, outros que ele habitou para […] aos ditos soldados gentios, a qual descida foi em o ano 
+de 1687, largando terras, povoações, criações e lavouras sem reparo algum para servir a Sua 
+Majestade, e com ele os ditos cabos prestou o senhor governador João da Cunha Souto Maior os 
+artigos que [Sua Senhoria] em nome de Sua Majestade ajustou com os procuradores no mês de 
+março do dito ano que Sua Majestade, que Deus guarde, confirmou por alvará seu, como tudo se vê 
+registrado na secretaria deste Governo […] nos quais artigos estão especificados estas palavras, que 
+as sesmarias que pretendem nos rios dos Camarões e Parnaíba, as prometeu dar o senhor 
+governador assim e da maneira que as quiserem, como com efeito logo lh'as concedeu o dito senhor 
+governador em nome de Sua Majestade, em fé e segurança do que lhe mandou Sua Senhoria passar 
+e assinou uma clareza, dizendo nela que lh'a não mandou passar naquela ocasião por estar o 
+procurador, digo, provedor da Fazenda Real fora desta praça doente para lhe passar sua carta de 
+sesmaria, e para que constasse sempre no tempo que se lhe concedia, que foi do mesmo ano em que 
+se celebrou e concluiu o dito pacto, que foi a 3 de março de 1687, o qual papel de segurança deixou 
+o dito sargento-mor na mão do secretário do Conselho Diretor, para prova e fundamento do 
+requerimento que das ditas terras ele fez a Sua Majestade; este senhor foi servido conceder-lhes 
+assim e de ordenar a Vossa Senhoria lhes mande passar sua carta de sesmaria, com as mesmas 
+cláusulas e declarações que se especifica na dita ordem; pelo que pede Vossa Senhoria lhes faça 
+mercê mandar-lhes passar a dita carta de sesmaria desde a nascença do dito rio Potingh ou 
+Camarões até onde se mede naquele da Parnaíba, com três léguas de largura de uma e outra banda 
+dele e da sua barra que aquele da Parnaíba abaixo, na mesma largura da banda de cá, declarando-se 
+também na dita carta de lhe não poder prejudicar o ser ela passada agora e não no dito tempo pelas 
+razões que aqui se alegam e por eles tem andado ocupados no serviço de Sua Majestade, como esse 
+senhor o manda especificar na dita ordem, da qual a cópia vai junta até que pela Parnaíba abaixo 
+topem em terras desprovidas. E receberá mercê. = O procurador da Coroa me informe sobre o 
+conteúdo nesta petição para lhe deferir. Recife, 20 de dezembro de 1704. = “Rubrica”. Senhor, a 
+vista das cartas que os suplicantes juntam, parece-me ter lugar o seu requerimento, Vossa Senhoria 
+lhe defirirá com justiça. Recife, 22 de dezembro de 1704. “Antônio Rodrigues Pereira”. E havendo, 
+outrossim, respeito ao que Sua Majestade me recomenda no capítulo 15 do regimento deste 
+Governo e ao que respeita no capítulo 2.º das condições que meus antecessores, João da Cunha 
+Souto Maior, concedeu aos suplicantes em nome de Sua Majestade, que Deus guarde, no mês de 
+março de 1687, e confirmou em nome do dito senhor, o senhor marquês de Monte-bello, em 3 de 
+dezembro de 1691 e ao alvará de Sua Majestade de 12 de março de 1695, e porque declaro as duas 
+últimas cartas do dito senhor do ano passado de 1703, não ser justo ficarem prejudicados na mercê 
+que lhes concedeu o deixarem as ditas terras e domicílios para acudirem a seu real serviço, e haver 
+
+por bem que as gozem desde o dito tempo em que lhes foram concedidas pelo meu antecessor, o 
+senhor João da  Cunha Souto Maior, no mês de março de 1687, pelos que haverem conquistado, 
+franqueado a habitação e soltura dos brancos para afugentarem os Tapuias, seus habitadores, 
+acrescentando quantias consideráveis a prêmios reais; assim, pela repartição desta Procuradoria, 
+como do dito estado do Maranhão, e que não sejam preferidos de nenhum sesmeiro que se 
+introduzisse nelas desde o mês de março de 1687, em que lh'as concedeu o senhor João da Cunha 
+Souto Maior, governador que então era destas capitanias. Hei por bem de lhes fazer mercê de dar 
+aos suplicantes acima nomeados, como pela presente carta de sesmaria, com a mesma antedata do 
+dito mês de março do ano de 1687, em nome de Sua Majestade, que Deus guarde, todas as terras 
+que se acharem desde a nascença do dito rio dos Camarões até onde ele se mede no da Parnaíba 
+com três léguas de largura de uma contrabanda dele e da sua barra para aquele da Paraíba, abaixo na 
+mesma largura da banda de cá seis léguas, com obrigação de pagarem foro algum mais que dízimo a 
+Deus, pelo privilégio especial que os suplicantes tem para isso de Sua Majestade, e as possuirão e 
+gozarão, eles e seus herdeiros com todas as suas matas, águas, campos, testadas, logradouros e mais 
+úteis que nelas se acharem, e serão obrigados a dar pelas ditas terras caminhos livres ao Conselho 
+para fontes, pontes ou pedreiras, pelo que ordeno a todos os ministros da Fazenda e Justiça destas 
+capitanias a quem o conhecimento desta carta pertencer, lhes façam dar posse real, efetiva e atual na 
+forma costumada e debaixo das cláusulas referidas e das mais da ordenação título das sesmarias, 
+que por firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de 
+minhas armas a qual se registrará nos livros da Secretaria deste Governo e nos da Fazenda Real e 
+nos mais a que tocar. Dada neste Recife de Pernambuco em os 3 dias do mês de janeiro = José de 
+Brito Menezes a fez = ano de 1705. O secretário, Antônio Barboza de Lima, a fez escrever. 
+Francisco de Castro Moraes. 
+- Fim da carta - 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 116 - 120. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,155 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0111
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Matias de Albuquerque",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "27-10-1623",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e três léguas de largura na ribeira do Jiquiá-Assú, no rio São Francisco, próximo a vargem do Capibaribe. ",
+  "Localidade": "Rio São Francisco",
+  "Marcos Geográficos": "Vargem do Capibaribe",
+  "Ribeira": "do Jiquiá-Assú",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Determinou-se pagar pensão por engenho, caso este seja levantado; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "O donatário de Pernambuco, Duarte Coelho de Albuquerque, determinou que o suplicante deveria pagar 2% da produção do engenho de água e 1% da produção de engenho de trapiche.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0111"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0111 
+ 
+Petição e carta de sesmaria de 3 léguas de terra na vargem do Capibaribe 
+ 
+Duarte de Albuquerque Coelho, capitão e governador da capitania de Pernambuco, 
+nas partes do Brasil por El Rei, Nosso Senhor, etc. Faço a saber aos que esta minha 
+carta virem que eu passei uma carta de data de 3 léguas de terra na minha capitania de 
+Pernambuco a Matias de Albuquerque, meu irmão, da qual carta e treslado é o 
+seguinte: Duarte de Albuquerque Coelho, capitão e governador da capitania de 
+Pernambuco das partes do Brasil, El Rei Nosso Senhor etc. Faço a saber aos que esta 
+minha carta for apresentada que a mim me fez petição Matias de Albuquerque, 
+dizendo nela que por quanto das 10 léguas de terra de que eu lhe tinha feito mercê na 
+ribeira de Jiquiá-Assú, junto ao rio de São Francisco, faltaram por tomar 3 léguas, me 
+pedia lhe fizesse mercê de lhe dar as ditas 3 léguas de terra que lhe faltavam nas 
+partes onde melhor se achassem todas 3 juntas, ou cada uma de por si, ou aos pedaços 
+divididos ou juntos, onde ainda as houvesse por dar, ou estivessem por devolutas, ou 
+sobejassem, fazendo-se tombo e que estas ditas 3 léguas de terra fossem dentro na 
+Vargem de Capibaribe, e quando na dita vargem se não achassem todas 3, pudesse 
+tomar a que achasse nela e a que mais faltasse para fazer as ditas 3 léguas ou pudesse 
+tomar aonde quisesse e as achasse, com todas as entradas, saídas, águas e pastos, 
+lenhas, matas e tudo o mais que nelas houvesse a mim pertencentes e de que lhe podia 
+fazer mercê, e que dos engenhos que nas ditas terras se fizessem, assim de águas 
+como de trapiches ou de bois, e outra qualquer maneira não fosse obrigado apagar em 
+cada um ano mais que 2%, entendendo-se isto só nos engenhos que ele dito Matias de 
+Albuquerque fizesse, e não em outro algum, posto que ficasse no diztrito das ditas 
+terras e o que tudo receberia mercê = A qual petição nesta por mim havendo respeito 
+ao que nela diz o dito Matias de Albuquerque, hei por bem e me praz de lhe fazer 
+mercê das ditas 3 léguas de terra, com todas suas entradas e saídas, águas, pastos, 
+matas, reservando as do pau-brasil assim e da maneira que na sua petição aqui 
+referida se contém, as quais ditas 3 léguas de terra poderá tomar na dita vargem de 
+Capibaribe ou aonde as achar aos pedaços juntos, ou divididos, como melhor lhe 
+parecer e quando as ditas 3 léguas de terra ou parte delas no meu [?] me não pagara do 
+que achar nele nenhum foro, e fazendo nelas algum engenho ou engenhos de águas ou 
+trapiches me pagará de pensão por cada engenho de água a 2% por cento de todo 
+
+açúcar que fizer encaixado e posto no passo em cada um ano pelo mês de janeiro e 
+por cada trapiche a 1% pela dita maneira e se na dita terra houver mais alguma ribeira 
+ou ribeiras de Águas além daquela de que se há de aproveitar o dito Matias de 
+Albuquerque para o engenho, ou engenhos, que fizer ele nem seus herdeiros não terão 
+nelas nenhuma ação por eu as poderei dar, ou meus sucessores, às pessoas as pedirem 
+para com a dita água poderem fazer outros engenhos, não prejudicando aos do dito 
+Matias de Albuquerque onde terá as armas declaradas no Regimento da dita minha 
+capitania conforme o engenho for de água ou trapiche para a boa guarda e defesa dele, 
+do qual engenho ou engenhos quando quer que se venderem me pagará a 40 ou os 
+meus sucessores, e outrossim será obrigado a me pagar a 2% de cada sorte de moenda 
+que se fizer nas ditas terras que serão demarcadas com justiça e verdade, com todas as 
+confrontações necessárias, tendo cada uma das ditas 3 léguas 2700 braças em quadra 
+desses palmos e terra, cada braça como é costume.  Pelo que mando a qualquer das 
+Justiças ou pessoas a que o conhecimento desta pertencer que tanto que lhe for 
+apresentada se fará escritura, em que o dito Matias de Albuquerque por si ou por seu 
+procurador em seu nome confesse e a declare e aceite esta mercê, obrigando-se a 
+cumprir tudo o que nela se contém e pagará a pensão como fica declarada, e não 
+pagando quando for tempo de ser executado por via executiva e depois de assim feito 
+darão posse ao dito Matias de Albuquerque, ou ao dito seu procurador em seu nome 
+das ditas 3 léguas de terra, sem dúvida nem embargo algum, que a isso lhe sejam 
+postos, e esta se registrará no livro em que se costumam registrar as datas de terras 
+onde se porão verbas do tempo em que se tomar posse das ditas 3 léguas de terra e 
+demarcação que nela se fizer, com declaração do dia em que o engenho, ou engenhos, 
+de água ou trapiches, lançar [?] para efeito da pensão que o dito engenho, ou 
+engenhos, a de pagar esta mercê e doação faço ao dito Matias de Albuquerque, deste 
+dia para todo sempre, para ele, sua mulher e filhos [netos, e descendentes, os quais 
+pelos ?] e mais herdeiros serão obrigados [? filhos] a pagar a dita pensão e cumprirem 
+as mais obrigações e cláusulas contidas nesta carta que lhe mandei passar por certeza 
+de toda dada em Lisboa aos 8 dias do mês de outubro por mim assinada, e selada com 
+o selo de minhas armas = Francisco de Sousa a fez no ano do nascimento de Nosso 
+Senhor, Jesus Cristo, de 1620, e por quanto o dito Matias de Albuquerque me enviou 
+a dizer que a dita carta nesta incorporada, se lhe perdera me pediu lhe mandasse 
+passar esta com salva pelo registro que estava nos livros em que se registram minhas 
+datas e visto seu requerimento lhe mandei passar a presente que se cumprirá tão 
+
+inteiramente como nela se declara no registro, na qual há posto a cota de como se 
+passou com salva cumprida uma, outra não houvera efeito, a qual por firmêsa de tudo 
+vai por mim assinada e selada com o selo de minhas armas, Álvaro Teixeira da 
+Fonseca a fez em Lisboa, a 27 de outubro do ano do nascimento de Nosso Senhor, 
+Jesus Cristo, 1623, e vai por duas vias com salva de outras = Duarte de Albuquerque 
+Coelho = Lugar do selo = carta porque Vossa Senhoria há por bem de fazer mercê a 
+Matias de Albuquerque de 3 léguas de terra na sua capitania de Pernambuco pela 
+maneira nela declarada para Vossa Senhoria ver, vai por duas vias e com salva de 
+outras = Fica registrada no livro segundo a folha 95 = Duarte de Albuquerque Coelho 
+= Registrada no segundo livro das previsões seculares a folhas 18, registrou-se em 28 
+de maio de 1626 = Ferraz = Dou e trespasso a doação e direito destas 3 léguas de terra, 
+de que me fez mercê o senhor Duarte de Albuquerque Coelho, meu irmão em 
+Belchior Álvares para que de hoje por diante as possua e logre como suas, assim e da 
+maneira com as cláusulas, obrigações declaradas e na dita carta de data, Olinda, 8 de 
+setembro de 1626 anos = Matias de Albuquerque = Fica registrada no livro segundo 
+dos registros e sesmarias, a folhas 70 a 73, Olinda, 20 de agosto de 1628 = João 
+Rodrigues Chaves = Fica dada a fiança que tomei no livro de minhas notas na forma 
+da dita data aos 21 dias do mês de setembro de 1631 anos, e me assino em raso = 
+Vicente Gomes da Rocha. 
+- Fim da Transcrição - 
+ 
+Referência: Livros do Tombo de São Bento. Livro I, p. 9-10. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

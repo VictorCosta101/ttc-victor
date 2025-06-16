@@ -1,0 +1,108 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: IT0004
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0015",
+  "Nome": "Convento de Nossa Senhora do Carmo do Recife",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Itamaracá",
+  "Histórico da terra": "Herdada",
+  "Data da petição": "01-02-1694",
+  "Data da concessão": "04-02-1694",
+  "Observações da sesmaria": "A sesmaria foi requerido pelo prior do convento de Nossa Senhora do Carmo do Recife. Na petição, o prior informou que a ordem possuía dois sítios de coqueiro localizados na região das Salinas, próximo a uma ponte erguida durante o governo de Caetano de Melo de Castro (1693-1699). O prior alegou que o convento havia recebido as terras por legados de herança de Sebastião Gonçalves de Sá e Pinto de Valdavesso. Os dois homens haviam adquirido as terras em primeiro lugar por compra de Henrique Dias, que havia recebido do rei D. João IV. ",
+  "Localidade": "Salinas",
+  "Marcos Geográficos": "Salinas",
+  "Observações da petição": "Na carta, o prior não informou os limites territoriais dos dois sítios. ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O prior desejava garantir a posse dos sítios que o convento de Nossa Senhora do Carmo havia recebido por legado de herança.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "IT0004"
+}
+
+            **Conteúdo Original** (extrato):
+            IT 0004 
+Carta de doação e sesmaria dos religiosos da Reforma de Nossa Senhora do Carmo do 
+Convento de Recife – 04/02/1694 
+ 
+CARTA DE DOAÇÃO E SESMARIAS QUE SE PASSOU AOS RELIGIOSOS DA 
+REFORMA DE NOSSA SENHORA DO CARMO DO CONVENTO DO RECIFE. 
+ 
+Caetano de Mello de Castro, do Conselho de Sua Majestade, governador e capitão-mor, general de 
+Pernambuco e mais capitanias anexas e etc. Faço saber aos que esta carta de doação e sesmaria 
+virem que os ditos padres da reforma de Nossa Senhora do Carmo me representaram a petição cujo 
+teor é o seguinte: “Senhor general = O Padre Prior e mais religiosos de Nossa Senhora do Carmo 
+deste Recife de Pernambuco, que o dito convento está de posse de dois sítios de coqueiros em as 
+salinas, junto a ponte que Vossa Senhoria de próximo mandou fazer para passagem do povo, os 
+quais sítios o dito convento houve por via de legados que Sebastião Gonçalves de Sá e Pinto de 
+Valdavesso lhe deixaram como conta dos papéis que apresenta, e cada um dos ditos defuntos houve 
+a parte que passaram por compra que deles fizeram a Henrique Dias, a quem Sua Majestade que o 
+Senhor Rei Dom João que para glória haja por uma provisão, deu de sesmaria a terra das salinas, e 
+porque sem embargo de que está nos livros da Câmara desta cidade e nos de Itamaracá, ordena que 
+o [julgado] seja dos possuidores das terras pela qual as testadas dos ditos dois sítios quando a maré 
+descobre até a maior do rio, pertencem ao dito convento, a fim de evitar qualquer dúvida ou 
+contenda: “Pedem a Vossa Senhoria lhes faça mercê confirmar de novo a posse em que está do 
+[julgado] dos ditos sítios, digo, dois sítios até a maior do rio. E receberão mercê. Hei por confirmar 
+aos suplicantes a posse do [julgado] dos dois sítios na presente petição declarados e sendo-lhes 
+necessária provisão, se lhe passe na forma do estilo. Recife, 1 de fevereiro de 1694 “Rubrica”. E 
+havendo, outrossim, respeito ao que Sua Majestade, que Deus guarde, me encomenda no capítulo 
+15 do regimento deste Governo, hei por bem de lhes fazer mercê das testadas dos dois sítios, quanto 
+a maré descobre até a maior do rio e sendo caso que conste as ditas testadas dos dois sítios, são suas 
+sem dependência alguma, lhe confirmo de novo as ditas testadas e não sendo suas lhes dou em 
+nome de Sua Majestade, que Deus guarde, na forma que em sua petição pedem, para que eles e seus 
+herdeiros as possam lograr livremente, sem foro nem pensão alguma. Pelo que ordeno a todos os 
+ministros da Fazenda e Justiça destas capitanias ou aos que o conhecimento dessa carta pertencer, 
+lhe façam dar a posse real, efetiva e atual na forma costumada das ditas testadas dos dois sítios 
+quanto a maré descobre até a maior do rio, na forma da Ordenação título de sesmarias, que para 
+firmeza de tudo lhe mandei passa a presente por mim assinada e selada com o sinete de minhas 
+armas, a qual se registará nos livros da Secretaria destas capitanias de Pernambuco e nos da 
+Fazenda Real a que tocar. Dada neste Recife de Pernambuco, em os 4 dias do mês de fevereiro, = 
+Antônio Nunes de Oliveira a fez, ano de 1694. O secretário Antônio Barbosa de Lima a fez 
+
+Escrever. “Caetano de Mello de Castro” =. 
+- Fim da carta – 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 35 - 37. 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

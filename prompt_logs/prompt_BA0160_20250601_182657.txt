@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0160
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Baltazar de Farias, Francisco de Brá , Nicolau Aranha Pacheco",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-07-1658",
+  "Observações da sesmaria": "A sesmaria possuía oito léguas em quadra e estava localizada no rio das Cabaças, próximo ao rio São Francisco, na Bahia.",
+  "Localidade": "Rio das Cabaças",
+  "Marcos Geográficos": "Rio das Cabaças; Rio São Francisco",
+  "Justificativas": "Pretendia criar gado; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Exigiu-se conservar os índios livres em suas aldeias; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 3,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Matheus Ferreira Vilas Boas",
+  "referencia": "BA0160"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+Registro de uma carta de doação e sesmaria do mestre de campo Nicolau Aranha Pacheco e aos 
+capitães Francisco de Brá Damião da Rocha e Baltazar de Farias de 16 léguas no rio das cabaças  
+Francisco Barreto do conselho de guerra de Sua Majestade, governador e capitão geral do 
+Estado do Brasil etc. Faço saber aos que esta carta de doação e sesmaria virem que o meste de 
+campo Nicolau Aranha Pacheco e os capitães Francisco de Brá, Damião da Rocha, e Baltazar 
+de Faria me enviaram presentar a petição cujo teor é o seguinte: Diz o mestre de campo Nicolau 
+Aranha Pacheco, o capitão Francisco de Brá, o capitão Damião da Rocha, e Baltazar de Faria, 
+moradores nesta cidade do Rio de São Francisco que indo pelo dito Rio acima da banda do 
+norte junto ao Rio das Cabaças descobriram terras capazes para se trazer gado e porque nunca 
+foram povoadas, digo, foram povoadas por data que neste governo se desse. Pede a Vossa 
+Senhoria lhe faça mercê e favor de mandar passar em nome de Sua Majestade carta de sesmaria 
+de 16 léguas de terra começando as primeiras 8 léguas do Rio das Cabaças pelo Rio de São 
+Francisco acima, digo, Rio de São Francisco Abaixo e as outras 8 do Rio das Cabaças pelo Rio 
+São Francisco acima e 8 léguas de largura e receberá mercê. E vista a informação do provedor-
+mor deste Estado cujo o teor é o seguinte: Excelentíssimo Senhor, informando-me das terras 
+que pedem os suplicantes nesta petição achei estarem devolutas por me dizerem algumas 
+pessoas que delas tem mais notícia; os suplicantes são homens de cabedal e bem poderão povoa-
+las no tempo que declara o regimento e sendo assim farão serviço a Sua Majestade e não 
+prejudicando a terceiro lhas pode Vossa Senhoria conceder. Vossa Senhoria mandará o que 
+mais for serviço se Sua Majestade. Bahia, 20 de maio de 1658 // Matheus Ferreira Vilas Boas 
+// E visto constar do cabedal dos imperantes. Hei por bem e lhe faço mercê em nome de Sua 
+Majestade dar como pela presente dou de sesmaria as terras que pedem assim e da maneira que 
+confrontam em sua petição não prejudicando a terceiro com todas as suas águas, campos, matas, 
+testadas e logradouros e mais úteis que nelas se acharem, tudo foro livre e isento de foro, pensão 
+ou tributo alval, digo, ou tributo algum, salvo o dízimo a Deus que pagarão dos frutos que nelas 
+houverem e por elas serão obrigados a dar caminhos livres ao conselho para pontes, fontes e 
+pedreiras. E porque o principal intuito de conceder esta data é a conservação daqueles índios 
+que se pode facilitar com os domesticarem e conservarem livres em suas aldeias. Hei por bem 
+reservar nesta data a cada aldeia as que compreendem as referidas 16 léguas de terra a que o 
+conhecimento deva ou possa pertencer lhe mandem dar pose real, efetiva e atual na forma 
+costumada debaixo das cláusulas acima referidas e as mais da ordenação, título das sesmarias 
+e para firmeza do que mandei passar sob meu sinal e selo de minhas armas a qual se registrará 
+nos livros da secretaria e Fazenda Real deste Estado a qual se guardará e cumprirá tão pontual 
+e inteiramente como nela se contém sem dúvida, embargo nem contradição alguma // Bento 
+Pereira de Andrade // oficial maior da secretaria deste Estado a fiz e subscrevi por mandado de 
+Sua Senhoria nesta cidade do Salvador, Bahia de Todos os Santos em os 8 dias do mês de julho, 
+ano de 1658 // Francisco Barreto // Matheus Ferreira Vilas Boas // Carta de doação e sesmaria 
+que Vossa Senhoria teve por bem conceder em nome de Sua Majestade ao mestre de campo 
+Nicolau Aranha Pacheco e aos capitães Francisco de Brá e Damião da Rocha e Baltazar de 
+Farias 16 léguas de terra, 8 léguas do Rio das Cabaças pelo Rio São Francisco acima, digo, de 
+São Francisco abaixo e as outras 8 do Rio das Cabeças pelo dito Rio de São Francisco acima e 
+8 léguas de largo na forma e pelos respeitos acima declarados. Para Vossa Senhoria ver. 
+Registrada no primeiro livro dos registros a que toca desta Secretaria do Estado do Brasil a 
+folhas 47. Bahia, 10 de julho de 1658 // Andrade // registre-se 11 de julho de 1658 // Ferreira. 
+ 
+ 
+
+Referências: 
+DHBN, vol. 19, Pg. 355 - 357 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

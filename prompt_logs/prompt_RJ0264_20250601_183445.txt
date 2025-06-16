@@ -1,0 +1,120 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0264
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Luís Furtado de Mendonça",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "13-10-1724",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Sobejos de terra ao final da data de terra do suplicante em Sarapuí",
+  "Marcos Geográficos": "Brejo alagadiço, brio de Jundiabá",
+  "Ribeira": "Sarapuí, Iguaçu",
+  "Confrontantes": "Terras dos religiosos de São Bento e do capitão João Barca",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou requerer confirmação em 2 anos; Mandou-se cultivar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pelo procurador e pelo provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0264"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0264
+Carta de concessão de Luís Furtado de Mendonça de 13 de outubro de 1724
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a [representar-me por
+sua petição] Luís Furtado de Mendonça, que ele [tem] uma fazenda situada em [Sarapui, que
+parte] com os religiosos de São Bento, e vai findar a um brejo alagadiço a que chamam de
+(ilegível), a qual pertencia a (ilegível), se acha alguns sobejos devolutos, pedindo-me lhe
+mandasse dar de sesmaria os ditos sobejos de terras que se acharem devolutas no fim das suas,
+e fará dos mesmos religiosos de São Bento, a do capitão João [Barca], com quem parte a vista
+do dito brio de [Jundiabá] correndo para a parte do rio do Goaguassu. Dando-se vista desse
+requerimento ao provedor da Fazenda Real e ao procurador da Coroa, aos quais se não
+ofereceu dúvida. Hei por bem fazer mercê a Luís Furtado de Mendonça de lhe dar por
+sesmaria, em nome de Majestade, que Deus guarde, os referidos sobejos de terra, não
+excedendo, porém, uma légua em quadra na forma das ordens do mesmo Senhor; sem
+prejuízo de terceiro ou do direito que algumas pessoas possam ter a eles; com declaração que
+as cultivará e mandará confirmar esta minha carta por Sua Majestade, que Deus guarde,
+dentro de 2 anos, e não o fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou
+oficial de justiça, a que o conhecimento desta pertencer, dê posse ao dito Luís Furtado de
+Mendonça [dos referidos sobejos de terras na forma e maneira acima declarada. E por firmeza
+de tudo, lhe mandei passar a presente por mim assinada e selada com o sinete de minhas
+armas, que se cumprirá inteiramente como nela se contém, registrando-se nos Livros da
+Secretaria deste governo e nos mais que tocar]. (Ilegível) Dada nesta cidade do Rio de Janeiro
+aos [13] de outubro de 1724. O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+(não identificada)
+Registrada no Livro das Patentes e Cartas de Sesmaria que serve nesta Secretaria do governo
+a [folha 192]. Rio, 13 de outubro de 1724.
+//José Ferreira da Fonte//
+Cumpra-se e registre nos Livros da Fazenda Real. Rio, 16 de outubro de 1724.
+//Cordovil//
+
+Registrada no Livro 21 de registros desta Provedoria a folha [1]9. Rio de Janeiro, 17 de
+outubro de 1724.
+//José Leitão//
+O doutor Antônio de Sousa de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral, corregedor da comarca com alçada no cível e crime nesta cidade do
+Rio de Janeiro e mais capitanias de sua repartição, e juiz das justificações, etc. Aos que a
+presente certidão de justificação virem, faço saber que a mim me constou por fé do escrivão
+de meu cargo, que esta subscreveu, ser a letra firma posta no fim da carta de sesmaria atrás do
+excelentíssimo senhor general desta dita cidade, Aires de Saldanha e Albuquerque Coutinho
+Matos e Noronha, nesta contida, o hei por justificado e verdadeiro. Rio de Janeiro, 18 de
+outubro de 1724 anos. Eu, Domingos Rodrigues Tavora, escrivão, a subscrevi.
+//(não identificada)//
+-Fim da Transcrição-
+Observações:
+Título AHU: Carta pela qual o governador do Rio de Janeiro concedeu e deu de sesmaria a
+Luiz Furtado de Mendonça umas terras, com as confrontações indicadas na mesma carta, não
+excedendo a superfície de uma légua em quadra. Rio de Janeiro, 13 de outubro de 1724.
+Luiz Furtado de Mendonça foi atulizado para Luís Furtado de Mendonça.
+Referência:
+AHU_ACL_CU_017-1, Cx. 22\Doc. 5049.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

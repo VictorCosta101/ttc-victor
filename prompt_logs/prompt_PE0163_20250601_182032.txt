@@ -1,0 +1,157 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0163
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0070",
+  "Nome": "José Correa da Cunha, Serafim Gomes de Sousa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-10-1823",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura entre dois riachos no distrito da vila do Limoeiro. ",
+  "Localidade": "Vila do Limoeiro",
+  "Marcos Geográficos": "Vila do Limoeiro",
+  "Justificativas": "Alegou que já ocupava a terra requerida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Francisco Pais Barreto, Francisco de Paula Cavalcante de Albuquerque e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provisória de governo da província de Pernambuco determinou o pagamento anual do foro régio no valor de 6 mil réis. A junta provisória também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0163"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0163
+Carta de doação e sesmaria de José Correia da Cunha e Serafim Gomes de Sousa -
+16/05/1823
+José Correia da Cunha e Serafim Gomes de Sousa com uma légua de terra em
+quadro no termo da vila do Limoeiro.
+Nós, o presidente e membro da junta do governo da província de Pernambuco, fazemos
+saber aos que esta carta de data de sesmaria virem, que José Correia da Cunha e Serafim
+Gomes da Silva dirigiram ao ex-capitão general desta província, Luiz do Rego Barreto,
+o requerimento do teor seguinte = Ilustríssimo e excelentíssimo senhor = Dizem José
+Correa da Cunha e Serafim Gomes de Sousa, que dois anos, pouco mais ou menos, se
+acham trabalhando entre ou dois riachos esquerdo e direito águas pendentes para o
+marco termo desta vila do Limoeiro e como até o presente lhe não tem aparecido
+embaraço algum, requerem os suplicantes a Vossa Excelência se digne conceder-lhe por
+data e sesmaria em nome de Sua Majestade uma légua de terra em uma légua
+denominada Suçuarana, cuja se acha entre outros riachos cujas terras pedem para si e
+seus herdeiros: portanto = Pedem a Vossa Excelência seja servido conceder-lhe a data de
+sesmaria requerida, de cuja graça = E receberá mercê = Sobre o qual requerimento deu
+o dito ex-capitão general o seu primeiro despacho por termo de juramento, que não
+possuem outra sesmaria ou terra, e possuinda-a, provem com documentos que tem
+cumprido as condições com que foi concedida = ao que deram cumprimento
+apresentando termo judicial, em que juraram não possuir outra sesmaria ou terra: então
+por despacho de 6 de novembro do mesmo ano, ordenou a Câmara respectiva que
+mandasse por editais na forma da lei, por tempo de 30 dias e lhe informasse se havia
+terceiro prejudicado; Ao que a mesma Câmara deu cumprimento informando em ofício
+de 21 de janeiro, acompanhado das certidões dos editais que não aparecera naquela
+tempo impedimento algum, então por despacho de 17 do mesmo mês e ano mandou
+ouvir o procurador da Coroa e Fazenda, que igualmente lhe não pôs embaraço; e por
+conseguinte em 16 de fevereiro do dito ano lhe deu o despacho do teor seguinte =
+Selados os documentos o doutor desembargador ouvidor da respectiva Câmara proceda
+a medição, [secumdum legem] = o qual o dito ouvidor por seu despacho mandou
+cumprir, efetuando-se a demarcação perante os juízes ordinários ou das sesmarias do
+distrito na conformidade da lei e dando se as partes sentenças do processo, para com ela
+requererem sua carta; mas tendo se demorado o cumprimento, e sabendo os suplicantes
+
+que Sua Majestade ilustre havia julgado improcedentes tais medições antes da
+concessão da carta, nos apresentarão estes papéis, que julgamos conformes, e por
+consequência mandamos por despacho de 27 de setembro de 1822, que se lhes passasse
+a presente carta; Mas advertindo o oficial maior da secretaria que ainda faltava a
+informação do escrivão deputado da Junta da Fazenda Pública, o mandamos ouvir por
+despacho de 15 de maio do corrente ano, e sobre a sua informação, em que tão bem não
+oferece dúvida, novamente mandamos passar a carta por despachos de 16 do mesmo. E
+portanto, pela faculdade que nos é concedida no capítulo 15 do regimento deste
+Governo e mais ordens régias a este [fim] dirigidas, havemos por bem conceder em
+nome de Sua Majestade, o imperador constitucional e defensor perpétuo do império do
+Brasil, a José Correia da Cunha e Serafim Gomes de Sousa a sobredita légua de terra
+com as confrontações declaradas no primitivo requerimento, pagando o foro anual de 6
+mil réis na conformidade da Real Ordem de 28 de setembro de 1700, de que deu fiança
+na contadoria da junta da Fazenda Pública a folha 81 verso do livro 7º delas. A qual
+sesmaria
+possuirá
+e
+gozarão
+eles
+suplicantes
+e seus herdeiros ascendentes e
+descendentes como sua que fica sendo de hoje para todo o sempre, com todas as matas,
+campos, rios, águas, testadas, logradouros e mais úteis que nela se compreenderem, não
+prejudicando a terceiro. E não passará a religiões e pessoas eclesiásticas, salvo sendo
+com os mesmo encargos com que as possuem os seculares, e nunca se dividirá em
+porções, nem se partirá senão por estimação, andando encabeçada em uma só pessoa na
+forma da ordenação livro 4º título 96 e §23, sem consentimento da Junta da Fazenda
+Pública para nela se darem novas fianças e se fazerem as devidas escriturações, ficando
+livres para a serventia dos povos todas as estradas, rios, fontes e pedreiras, e reservadas
+ao patrimônio público as madeiras de construção, pau brasil e viveiros de quaisquer
+metais; e serão obrigados a requerer dentro de 3 anos confirmação, medir e demarcar,
+em cujo ato poderão preencher-se para o lado ou lados, em que houverem terras
+devolutas, caso encontrem obstáculo dos éreos confinantes na medição quadrada, a
+povoá-la e cultivá-la na forma da ordem régia de 20 de outubro de 1753 e alvará de 25
+de janeiro de 1809, e não cumprindo assim se haverá por devoluta e novamente se
+concederá a quem requerer. Pelo que: ordenamos aos ministros da Fazenda da Justiça e
+mais pessoas a quem tocar, cumpram e façam cumprir esta carta de data de sesmaria,
+como nela se contém, fazendo dar aos referidos posse real, efetiva e atual, na forma da
+ordenação título das sesmarias. Da firmeza do referido lhe mandamos passar a presente
+por nós assinada e selada com o sinete das armas imperiais, a qual se registrará na
+
+secretaria deste Governo, na da junta da Fazenda Pública e onde mais tocar. Manoel
+Paulo Guintela, segundo oficial da secretaria, a fez em o Recife de Pernambuco, aos 4
+dias do mês de outubro de 1823, segundo da independência e império do Brasil. E eu,
+Manoel dos Passos e Figueiroa, oficial maior da secretaria, na falta do secretário, a fiz
+escrever = Francisco Paes Barreto, pro-presidente = Francisco de Paula Cavalcante de
+Albuquerque = Manoel Ignácio Bezerra de Mello = Estava o sinete das armas do
+império = carta de data de sesmaria, pela qual Vossas Excelências hão por bem conceder
+em nome de Sua Majestade imperial constitucional, a Serafim Gomes de Souza, e como
+nela se declara = Para Vossas Excelências verem = Por despacho do governador, de 16
+de maio de 1823.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 233-234.
+Observação:
+O nome dos suplicantes consta como Joze Correa da Cunha e Serafim Gomes de Souza,
+o que foi modificado para José Correia da Cunha e Serafim Gomes de Sousa, seguindo
+o padrão proposto para a plataforma SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

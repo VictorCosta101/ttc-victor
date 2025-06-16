@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0196
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "João Cavaleiro da Fonseca",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-06-1722",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Terras devolutas na cidade do Rio de Janeiro",
+  "Ribeira": "Tapucú",
+  "Confrontantes": "Terras de Bartolomeu Fernandes, terras de Paula da Távora, caminho do norte",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia cultivar; Tinha escravos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Não identicado",
+  "referencia": "RJ0196"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0196
+Carta de concessão de João Cavaleiro da Fonseca de 25 de junho de 1722
+Aires de Saldanha de Albuquerque Coutinho Matos e Noronha, do conselho de Sua
+Majestade, que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro,
+São Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor
+da dita vila, gentil homem da Câmara do sereníssimo infante o Senhor Dom Antônio, que
+Deus guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que havendo respeito a representar-me
+por sua petição João Cavaleiro da Fonseca, morador no recôncavo desta cidade, que no Rio de
+Janeiro se achavam terras devolutas e por ninguém aproveitadas, que partem de uma banda
+com terras de Bartolomeu Fernandes e pela outra com terras de Paula da Távora, fazendo a
+testada pelo Rio chamado Tapucû, caminho do norte (não identificado) para rio acima a mão
+direita, principiando a dita terra (ilegível) Bartolomeu Fernandes com o sertão que se
+achavam (não identificada) lhe mandasse dar as ditas terras por sesmarias por se achar com
+obrigação eficaz e escravos para as poder cultivar e aproveitar, e dando-se vista deste
+requerimento ao provedor da Fazenda Real e ao procurador da Coroa, não se lhes oferecendo
+duvida. Hei por bem fazer mercê ao dito João Cavaleiro da Fonseca de lhe dar por sesmaria,
+em nome de Sua Majestade, que Deus guarde, as terras acima pedidas e confrontadas; não
+excedendo, porém, 1 légua em quadra na forma das ordens do mesmo Senhor; sem prejuízo
+de terceiro ou do direito que algumas pessoas possam ter nelas; com declaração que as
+cultivará e mandará confirmar esta minha carta por sua Majestade dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo. Pelo que mando ao ministro ou oficial de justiça, a quem
+o conhecimento desta pertencer, dê posse ao dito João Cavaleiro da Fonseca das referidas
+terras na forma e maneira acima declarada. E por firmeza de tudo, lhe mandei passar a
+presente por mim assinada e selada com o sinete de minhas armas, que se cumprirá
+inteiramente como nela se contém, se registrará nesta Secretaria deste governo e nas mais a
+que tocar. Dada nesta cidade de São Sebastião do Rio de Janeiro, 25 de junho de 1722. João
+Paes de Paredes a fez. O secretário, José Ferreira da Fonte, a fez escrever.
+//Aires de Saldanha de Albuquerque Coutinho Matos e Noronha//
+Carta porque Vossa Senhoria há por bem fazer mercê a João Cavaleiro da Fonseca de lhe dar
+de sesmaria, em nome de Sua Majestade, que Deus guarde, as terras na forma acima
+declarada. Para Vossa Senhoria ver.
+Registrada no Livro das Sesmarias e Provisões que serve nesta Secretaria do governo a folha
+125. Rio, a 25 de junho de 1722. //José Ferreira da Fonte//
+
+Registra-se nos Livros da Fazenda Real. Rio, 4 de julho de 1722. (não identificado)
+Registrada no Livro 24 dos registros desta provedoria. Rio de Janeiro, 9 de julho de 1722.
+Lançada neste Cartório das Sesmarias no Livro (não identificado) a folha 89. Rio de Janeiro, 8
+de julho de 1722.
+O doutor Antônio de Sousa de Abreu Grade, do desembargo de Sua Majestade, que Deus
+guarde, seu ouvidor geral e corregedor da comarca com alçada no civil e crime nesta cidade
+do Rio de Janeiro e nas mais capitanias de sua repartição, e juiz das justificações. Nesta faço
+saber a quem a presente certidão de justificação virem, que a mim me constou por fé do
+escrivão de meu cargo, que está subscreveu, ser a firma posta ao pé da certidão retro do
+governador e capitão general deste Estado, Aires de Saldanha e Albuquerque, e a letra acima
+dos assuntos das pessoas neles contidas, o que hei por justificado. Rio de Janeiro, 22 de
+setembro de 1724 anos. //Eu, Domingos Rodrigues Távora, escrivão das justificações, a
+subscrevi//
+-Fim da Transcrição-
+Observação do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria a
+João Cavalleiro da Fonseca umas terras, com as confrontações descriptas na mesma carta. Rio
+de Janeiro, 25 de junho de 1722.
+Esta carta de concessão está disponível no AHU anexada à Petição nª 4.955.
+Nome original do sesmeiro- João Cavalleiro da Fonseca.
+Não foi possível localizar o Rio Tapucû.
+Referência:
+AHU_ACL_CU_017-1, Cx.22, D. 4956.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

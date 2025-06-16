@@ -1,0 +1,106 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0007
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Martim da Costa",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Data da petição": "16-10-1573",
+  "Data da concessão": "16-10-1573",
+  "Observações da sesmaria": "Título original: Carta das terras de Martim da Costa, morador na capitania de São Vicente.\r\n",
+  "Localidade": "Rio de Janeiro",
+  "Observações da petição": "O documento está incompleto. ",
+  "Exigências do Deferimento": "Mandou-se registrar",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O documento está incompleto",
+  "Despacho favorável": "Sim",
+  "referencia": "RJ0007"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0007 
+ 
+Carta de concessão de sesmaria de Martim da Costa de 16 de outubro de 1573 
+ 
+Forra 
+Saibam quantos este instrumento de carta de sesmaria virem que no ano do nascimento do nosso 
+Senhor Jesus Cristo de 1573 anos, aos 16 dias do mês de outubro do dito ano nesta cidade de 
+São Sebastião do Rio de Janeiro, costa do Brasil, nas pousadas donde ora pousa Rui Dias 
+Machado, pelo dito Rui Dias Machado foi dado a mim escrivão abaixo nomeado, uma petição 
+feita em nome de Martim da Costa, morador da capitania de São Vicente, com o despacho nela 
+do Senhor Cristóvão de Barros, capitão [Faltam c. 3 folhas intermediárias da carta.] [....] vós 
+as dareis, fez de novo para aproveitar com as condições e obrigações contidas neste capítulo, o 
+qual se trasladará nas cartas das ditas sesmarias. Com as quais condições, obrigações e 
+declarações lhe assim deu o dito Senhor, capitão e governador o dito chão ao dito suplicante 
+Martim da Costa, pela sobredita maneira e para sua guarda ele mandou ser feita esta carta, pela 
+qual manda que ele haja a posse após senhorio das ditas 5 braças de chão para sempre para si e 
+todos os seus herdeiros, sucessores, ascendentes e descendentes que após dele vierem, com tal 
+condição e entendimento que ele viva e venha a residir nessa dita cidade ou em seus termos os 
+ditos três anos, dentro do qual tempo ele não poderá vender, nem enlear o dito chão por 
+nenhuma via que seja sem licença do dito Senhor, capitão e governador ou de quem ao diante 
+tiver poder para a dar, e da dita maneira lhe dava o dito chão e acabados os ditos três anos, tendo 
+ele feito no dito chão casas e benfeitorias ele poderá vender, trocar, descambar, dar, doar ou 
+fazer dele o que lhe bem vier como de coisa sua própria isenta que é e porque o sobredito 
+Martim da Costa, suplicante tudo prometeu de ter, manter, e cumprir pela dita maneira lhe 
+mandou passar esta carta de sesmaria, a qual manda que ele haja a digo que se compra e guarde 
+sem dúvida, nem embargo que lhe a elo seja posto e que seja registrada dentro de um ano nos 
+livros da Fazenda Real como o dito Senhor em seu regimento manda só as penas nele contidos 
+e declaradas e por verdade eu Pero da Costa escrivão das sesmarias e tabelião das notas por El 
+Rei nosso Senhor nesta cidade de São Sebastião e seus termos que este instrumento de carta de 
+sesmaria escrevi e notei nos meus livros das notas e tombo das cartas de sesmarias desta cidade 
+que em meu poder ficam, onde o dito instrumento fica assinado pelo dito Senhor, capitão e 
+governador e não faça dúvida no borrado [falta o final da carta.] 
+ 
+- Fim da Transcrição - 
+ 
+Observações: 
+Título original: Carta das terras de Martim da Costa, morador na capitania de São Vicente. 
+Referências:  
+Livro transcrito  “Documentos Históricos, tombo das cartas de sesmarias do Rio de Janeiro: 
+dadas por Cristóvão de Barros (1573-74) e por Salvador de Sá (1578-79)”. Página 45-46; 
+Documento Original :  f. XIv. 
+Original no livro: DHBN_VOL. CXI. Biblioteca Nacional. Rio de Janeiro: Fundação Biblioteca 
+Nacional, Vol. 1, dep. Nacional do livro, 1928. pg.45. Códice 50.5.3A(1573-4). 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

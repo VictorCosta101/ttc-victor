@@ -1,0 +1,123 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0011
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Agostinho Pereira Barcelar",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "02-06-1673",
+  "Observações da sesmaria": "A sesmaria estava localizada na banda norte do rio Paraguaçu e na barra do rio Paratigi, possuindo uma légua de comprimento e meia de largura. Fazia fronteira com as terras de Lourenço de Brito Correa. ",
+  "Localidade": "Barra do rio Paratigi",
+  "Marcos Geográficos": "Rio Paraguaçu e rio Paratigi ",
+  "Confrontantes": "Lourenço de Brito Correa",
+  "Observações da petição": "O suplicante tinha requerido cinco léguas de terra em quadra.",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Pretendia criar gado; Tinha cabedal; Pretendia povoar as terras com dispêndio de sua fazenda; Alegou que tem servido a Sua Majestade com dispêndio de sua fazenda e com risco de vida; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se povoar; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O suplicante tinha solicitado cinco léguas em quadra, no entanto, o Procurador da Coroa determinou que fosse dada a ele a quantidade de terras que ele conseguisse povoar e tornar útil, podendo ser quatro, três ou duas léguas. O governador decidiu conceder uma légua de comprimento e meia de largura.",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes Ulhôa",
+  "Nome do procurador": "Pedro da Rocha de Gouvea",
+  "referencia": "BA0011"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma carta de sesmaria do capitão-mor Agostinho Pereira Barcellar de 4 léguas de 
+terra em quadra. 
+ 
+Afonso Furtado de Castro do Rio de Mendonça// Faço saber aos que este alvará de doação e 
+sesmaria virem, que capitão-mor Agostinho Pereira Barcellar me enviou a representar a petição, 
+cujo teor é o seguinte: diz o capitão-mor Agostinho Pereira Barcellar, que ele tem servido a Sua 
+Alteza muitos anos com sua pessoa e fazendas nas [jornadas] do sertão em todas as que se 
+[apareceram], que é bem notório, sem até agora ter recebido satisfação alguma. E, porque no 
+Rio de Paraguaçu, da banda do norte, estão umas terras devolutas sem se terem dado a pessoa 
+alguma, as quais começam da barra do Rio do Pratigi, da banda do norte, correndo pelo rio de 
+Paraguaçu acima, que parte pela parte do nascente com terras que foram de Lourenço de Brito 
+Correa, pede a Vossa Senhoria lhe faça mercê conceder e dar de sesmaria 5 léguas de terra em 
+quadra, da banda do norte correndo pelo rio acima de Paraguaçu até onde acabar para poder 
+trazer seus gados e as povoar. Receberá mercê. Visto o parecer do procurador da coroa e fazenda 
+real deste estado, informação do provedor-mor dela que são as que se seguem: se o suplicante 
+não tem mais terras de sesmaria e tem pessoas de cabedal para povoar e cultivar estas 5 léguas 
+que agora pede, se me não oferece dúvida às lhe concederem. Se não forem as 5 que sejam 
+aquelas que ele pode povoar e reduzir a cultura, na forma da ordenação do livro 4, título 43 
+parágrafo 3, onde diz que, se não deem terras de sesmaria mais que aquelas que o sesmeiro 
+casualmente pode cultivar e aproveitar no [descanso] de 5 anos. Logo no parágrafo 4, da mesma 
+ordenação, se acha que as que não aproveitarem no dito termo se poderão dar a outrem e 
+incorrerão nas penas da lei. Bahia, 25 de outubro, ano de 1672// Rocha// Senhor, o suplicante é 
+pessoa que tem servido a Sua Alteza em muitas ocasiões, particularmente nesta guerra que se 
+faz ao gentio brabo, e, de presente, anda ocupado na condução das farinhas que Vossa Senhoria 
+manda conduzir ao sertão para aquela guerra. Tem cabedal e gados para povoar as terras que se 
+lhe derem e não consta que tenha sesmaria dada e, assim, me parece [que] se lhe pode conceder 
+4 léguas em quadra no sítio em que as pede, na forma de foral e regimento de Sua Alteza, sem 
+prejuízo de terceiros. Vossa Senhoria mandará [o que for] presente. Faço em nome de Sua 
+Alteza uma légua de terra de comprimento e meia de largura, assim como se pede e confronta 
+em sua petição e na forma que parece ao procurador da coroa, fazenda real e provedor-mor dela, 
+não prejudicando a terceiro em todas suas águas, campos, matas, testadas, logradouros e mais 
+úteis que nela se acharem, tudo forro livre, isento de pensão ou tributo algum, salvo o dízimo a 
+Deus que pagará dos frutos que nelas houver. E por elas será obrigado a dar caminhos livres ao 
+conselho para fontes, pontes e pedreiras, com declaração que povoará a dita terra no termo da 
+lei e regimento, aliás, ficará devoluta para quem de novo a pedir. Pelo que ordeno e mando a 
+todos os ministros e justiças a que o conhecimento deste [com direito] deva ou possa pertencer: 
+lhe mande dar a posse real, efetiva e atual na forma costumada, debaixo das cláusulas acima 
+referidas e as mais da ordenação dos títulos das sesmarias. Para firmeza do que mandei passar 
+a presente sob meu sinal e selo de minhas armas, a qual se registrará nos livros da secretaria de 
+estado e nos mais a que tocar. E se guardará e cumprirá tão pontual e inteiramente como nele 
+se contem, sem dúvida, embargo, nem contradição alguma. Antônio Garcia a fez nesta Cidade 
+do Salvador, Bahia de todos os santos, nos 2 dias do mês de junho, ano de 1673. Bernardo 
+Vieira Ravasco, a fiz escrever. Afonso Furtado de Castro do Rio de Mendonça. Registrado ao 
+segundo livro dos registros da secretaria do estado do Brasil, a que toca folhas 152. Bahia, 
+junho, 2 de 1673. Ravasco. Despacho do provedor-mor da fazenda. Registre-se nos livros da 
+fazenda desta provedoria-mor. Bahia, junho, 5 de 1673. De Ulhôa. A folhas 130, verso de meu 
+livro das sesmarias fica lançado este alvará por mim, escrivão delas, em Bahia, a 17 de junho 
+de 1673. Sebastião de Torres// Aqui o foi em 20 do dito mês de junho. Miguel Pinto de Freitas. 
+
+- Fim da Transcrição – 
+ 
+Referencias: 
+AN, Códice 427, fls. 22v-23v 
+Numeração original do livro: 20 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

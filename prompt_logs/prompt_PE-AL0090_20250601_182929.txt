@@ -1,0 +1,154 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0090
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0424",
+  "Nome": "Antônio Pinto Pereira, Gonçalo Teixeira Vieira, Inácio Gomes Veles, Paulo Teixeira, Pedro Teixeira",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "04-11-1678",
+  "Observações da sesmaria": "Os suplicantes requereram três léguas de comprimento e três léguas de largura para cada um nos campos dos Palmares. ",
+  "Localidade": "Palmares",
+  "Justificativas": "Lutou na guerra contra Palmares; Participou da guerra contra os holandeses; As terras eram devolutas; Tinha gado; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas; Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 5,
+  "Observações do deferimento e da concessão": "O governador-geral concedeu somente uma légua de largura para cada suplicante. ",
+  "Despacho favorável": "Parcial",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "Antônio Lopes de Ulhoa",
+  "referencia": "PE-AL0090"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0064 
+ 
+Carta de concessão de Antônio Pinto Pereira, Gonçalo Teixeira Vieira, Inácio Gomes 
+Veles, Paulo Teixeira e Pedro Teixeira de 04/11/1678 
+Registro de um alvará de doação e sesmaria de três léguas de terras de comprimento e 
+uma de largura a cada uma das pessoas nomeadas aos capitães Paulo Teixeira e Gonçalo 
+Teixeira Vieira e ao alferes Inácio Gomes Velez Pedro Teixeira e Antônio Pinto Pereira 
+na capitania de Pernambuco no lugar chamado os Palmares. 
+ 
+Roque da Costa Barreto do Concelho de Sua Alteza etc. Faço saber aos que este alvará 
+de doação e sesmaria virem que os capitães Paulo Teixeira e Gonçalo Teixeira Vieira e o 
+alferes Inácio Gomes Velez Pedro Teixeira e Antônio Pinto Pereira me representaram a 
+petição cujo teor é o seguinte. Senhor. Dizem os capitães Paulo Teixeira e Gonçalo 
+Teixeira Vieira, e o alferes Inácio Gomes Velez, Pedro Teixeira e Antônio Pinto Pereira 
+que nas guerras deste Estado e capitania de Pernambuco tem servido a Sua Alteza que 
+Deus guarde a feliz restauração com sua pessoas e fazendas se acham com quantidade de 
+gado vacum, e outras criações sem tirem terras a donde o ponham para que multipliquem 
+para aumento das rendas reais e de presente na capitania de Pernambuco na paragem 
+chamada os Palmares que despejara, os negros fugidos pela paz que lhe for concedida há 
+terras devolutas e desaproveitadas e alguns moradores da dita capitania as vão pedindo 
+ao Governador dela portando pedem a vossa senhoria seja servido dar lhes a eles 
+suplicantes em nome de Sua Alteza convém numeração da parte de seus serviços para ele 
+seus herdeiros ascendentes e descendentes que a pôs eles vierem três léguas de terra em 
+quadra de sesmaria para cada um deles nas testadas ou ilhargas do último possuidor a 
+quem até o dia de hoje se haja feito mercê e na paragem a donde eles suplicantes melhor 
+lhes acomodar e na forma que pedem que devolutas se achar para a parte do norte ou sul 
+ou para outro qualquer vimo que melhor lhes disser, fazendo do cumprimento largueza e 
+da largura cumprimento reservando a inútil, e perfazendo se sempre para cada um as ditas 
+três léguas de terra com todas as entradas e saídas, águas, lenhas, matos e madeiras e 
+logradouros foros livres e isentos sem foro nem pensão alguma mais que só Dizimo a 
+Deus que sendo caso que indo eles suplicantes a povoá-las ou tomar posse por si ou por 
+seus procuradores alguéns uma as já situados lhes queiram por dúvida ou estarem dita 
+posse que serão obrigados a medir-se e dar testada a eles suplicantes para irem encherem 
+da terra que for vossa senhoria lhes fizer mercê. E visto a resposta do Procurador da 
+Fazenda Real, que é a seguinte. Não me oferece dúvida a que se deem de sesmaria a cada 
+um dos suplicantes vistos as ocasiões que alegam três léguas de terra em comprimento e 
+largueza para onde melhor lhe estiver porem como não sabem a parte donde vem pedir 
+por não terem notícia do que está povoado devem fazer primeiro certo do sitio e 
+confrontações e com ele se lhe pode passar alvará na forma costumada de dízimos a ordem 
+de Cristo povoação no termo da lei sem prejuízo de terceiro e demarcação ao tempo da 
+posse citados os héreus por evitar duvidar que geralmente há desta falta Bahia 12 de 
+outubro de 1678. Freitas. Há informação do provedor-mor que é a que se segue. Senhor 
+Parece-me que se pode conceder aos suplicantes a terra na forma que diz o procurador da 
+Fazenda em sua resposta e que sem embargo das cláusulas dela se lhes passe Carta, com 
+declaração que dentro do termo do regimento serão obrigados a virem confrontar e 
+demarcar os rumos que corre para que conste dos livros aliás não terá efeito a carta que 
+se lhe passar e que seja a concessão como dispõem as Ordenações sem prejuízo de terceiro 
+e as mais vossa senhoria mandará o que for servido Bahia 26 de 1678. Antônio Lopes de 
+
+Ulhôa. Hei por bem de conceder e dar de sesmaria como pelo presente faço em nome de 
+Sua Alteza a cada um dos suplicantes três léguas de terra em comprimento e uma de 
+largura podendo fazer no cumprimento e largueza para donde melhor lhe estiver na parte 
+que pedem em sua petição com declaração que dentro do termo do regimento serão 
+obrigados a virem confrontar e demarcar os rumos que com para que conste dos Livros 
+aliás não terá este efeito algum, como apresse ao provedor-mor da dita Fazenda Real e 
+lhe concedo estas terra não prejudicando a terceiro com todos suas águas, campos, matos 
+testadas, logradouros e mais úteis que nelas se acharem tudo foro livre e isento de pensão 
+ou tributo algum saldo dízimo a Deus que pagarão dos frutos que nelas houver e por elas 
+serão obrigados a dar caminhos livres ao conselho para as fontes, pontes e pedreiras e a 
+cultivá-las no termo da lei e regimento pois nesta conformidade lhes concedo 
+demarcando-se ao tempo da posse citados os héreus para se evitarem dúvidas pelo que 
+ordeno a todos os ministros de justiça a que o conhecimento deste com direito deva ou 
+possa pertencer lhe fação dar a posse real e efetiva ou atual na forma costumada debaixo 
+e as cláusulas acima referidas e as mais da Ordenação título das sesmarias para firmeza 
+do que lhes mandei passar o presente sob meu sinal e selo de minhas armas e o qual se 
+registará nos livros da secretaria de Estado e nos mais a que tocar e se guardará e cumprirá 
+tão pontual e inteiramente como nele se contém, sem dúvida, embargo nem contradição 
+alguma Antônio Garcia o fez nesta Cidade de Salvador Bahia de todos os santos em 4 
+dias do mês de novembro ano de 1678. Bernardo Vieira Ravasco o fez escrever. Roque 
+da Costa Barreto registado no livro segundo dos Registos da secretaria do Estado do 
+Brasil a que toca a folhas trinta e seis verso Bahia e novembro 4 de 1678. Ravasco. 
+Despacho do provedor-mor. Registre-se nos Livros desta provedoria-mor como Sua 
+Alteza manda Bahia e novembro 5 de 1678. Antônio Lopes de Ulhôa. Registrou-se em 7 
+do dito mês e ano acima e se entregou a parte. João Dias da Costa. 
+ 
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Arquivo Nacional do Rio de Janeiro, Códice 427, fl. 137-139 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,133 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0145
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Miguel de Moura",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Primordial",
+  "Data da concessão": "09-03-1577",
+  "Observações da sesmaria": "A sesmaria possuía quatro léguas totais, sem serem especificadas as medidas de comprimento e largura e estava localizada no rio Real, fazendo fronteira com as terras de Duarte Dias (BA0139).",
+  "Localidade": "Rio Real",
+  "Marcos Geográficos": "Rio Real",
+  "Confrontantes": "Duarte Dias",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Não foram apresentadas jusificativas.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0145"
+}
+
+            **Conteúdo Original** (extrato):
+            BA  
+ 
+Registro de outra carta de Miguel de Moura  
+ 
+Saibam quantos este instrumento de carta de sesmaria virem que no ano do nascimento de nosso 
+Senhor Jesus Cristo de 1577 anos e aos 9 dias do mês de março nesta cidade do Salvador, Bahia 
+de Todos os Santos, terras do Brasil, nas pousadas do Senhor Luiz de Brito Almeida, do 
+conselho de El-Rei, Nosso Senhor, capitão desta cidade e governador geral desta Estado do 
+Brasil da parte da Bahia etc. pelo dito senhor governador foi dado a mim, escrivão, uma 
+provisão de Sua Alteza de Miguel de Moura de umas 12 léguas d terras nesta costa, e qual 
+provisão o traslado é o seguinte: eu, El-Rei, faço saber a vós, Luiz de Brito de Almeida do meu 
+conselho, que ora envio por capitão da capitania de Todos os Santos nas partes do Brasil e 
+governador dela e das outras capitanias da dita governança que por fazer mercê a Miguel de 
+Moura, fidalgo da minha Casa e meu secretário, havendo respeito aos seus serviços: hei por 
+bem e me praz que as terras que estiverem por dar na dita capitania da Bahia ou estiverem vagas 
+por as pessoas a que foram dadas as não aproveitarem no tempo que eram obrigadas conforme 
+as suas provisões ou cartas que lhe delas foram passadas, deis ao dito Miguel de Moura até 12 
+léguas de terra na dita costa, todas juntas ou apartadas, como melhor puder ser, entrando nesta 
+doação 2 léguas de que por outra provisão lhe tenho feito mercê, em parte, e que haja disposição 
+para delas ter mais proveito com todas as ribeiras, fontes, terras de pasto e criações as quais 
+terras, digo, e criações e quaisquer outros logradouros que nas ditas terras houver as quais terras 
+assim darei ao dito Miguel de Moura livremente, sem foro nem tributo algum, somente o dízimo 
+da ordem de Nosso Senhor Jesus Cristo para ele e todos os seus herdeiros e sucessores posto 
+que sejam transversais para as terem e possuírem como bens seus próprios, patrimoniais e 
+partíveis, e como tais as poderão vender, trocar, escambar e fazer das ditas terras morgado ou 
+em testamento deixar a quem e como lhe bem vier com tal declaração que o dito Miguel de 
+Moura ou as pessoas a que as ditas terras pelo tempo em diante virem e nelas sucederem por 
+via de herança ou compras as possuam e as aproveitem no tempo que conforme a ordenação do 
+livro do título das sesmarias tem as isso obrigação e com tal condição que dará pelas ditas terras 
+ao conselho os caminhos e serventias que lhes necessária forem para fontes, pontes, pedreiras, 
+vieiros e isto hei assim por bem e por fazer mercê ao dito Miguel de Moura, posto que não seja 
+morador na dita capitania da Bahia sem embargo do regimento em confrário e das ditas terras 
+que lhe assim derdes, ribeiras e águas que nelas houver lhe passareis vossa carta ou cartas e que 
+se trasladará esta minha provisão para se saber como lhe assim foram dadas por meu mandado, 
+pelo qual lhe hei as ditas terras por dadas e hei por metido em posse delas para as ter, possuir, 
+lograr e fazer nelas e delas o que lhe assim a prouver e bem vier em fazenda sua livre e isenta; 
+e bens seus patrimoniais e partíveis sem ser necessário tirar outra alguma provisão nem 
+continuação minha nem de minha Fazenda, e querendo-a tirar o poderá fazer, posto que não 
+seja a isso obrigado, notifico-lo assim e mando que lhe deis as ditas terras pela dita maneira e 
+lhe passeis delas carta ou cartas como dito é e lhe comprais e guardeis este alvará como se nele 
+contém porque assim o hei por bem e meu serviço o qual quero que valha e tenha força e vigor 
+como se fosse carta começada em meu nome e asselada se meu selo pendente sem embargo da 
+ordenação do segundo livro, título 20 que defende que não valha alvará cujo efeito haja de durar 
+mais de um ano e de todas as cláusulas dela e cumprir-se-á outrossim posto que não passe pela 
+chancelaria sem embargo da ordenação do título em contrário // Baltazar Ribeiro // o fez em 
+Lisboa, a 27 de fevereiro de 1573 e eu // Bartolomeu Froes // o fiz escrever. Rei. Alvará de 
+Miguel de Moura, para Vossa Alteza ver // Dom Martinho // Livro da Casa folhas 282. 
+Registrado // Bartolomeu Froes // 
+
+E logo perante o senhor governador, estando eu, escrivão, presente, pareceu Cristóvão Brandão, 
+escrivão da Fazenda do dito Senhor, morador nesta cidade do Salvador, e disse ao dito senhor 
+que ele era procurador bastante do dito Miguel de Moura por uma procuração que logo aí 
+apresentou a mim, escrivão feita no primeiro dia do mês de abril da era de 1573 anos em 
+Sacavem assinado ao pé dela o dito Miguel de Moura, segundo de seu sinal parecia pela qual 
+se mostrava dar o dito Migue ao dito Cristóvão Brandão inteiramente todos os seus poderes 
+como se ele pessoalmente fora presente, por virtude da qual procuração e provisão de Sua 
+Alteza pelo dito Cristóvão Brandão foi dito ao senhor governador que ele cumprisse a dita 
+provisão e lhe desse 4 léguas que lhe faltavam para cumprimento da dita provisão que eram 12 
+léguas de terra que das 8 já estava satisfeito e entregue por suas catas de que estava de posse as 
+quais 4 léguas pedia no Rio Real onde acabar a dada de Duarte Dias, secretário de El-Rei, nosso 
+Senhor, que tem 12 léguas acabante a dada de Tomé de Souza; e acabando o dito Duarte Dias 
+vai começar, digo, Dias daí começara o dito Miguel de Moura as ditas 4 léguas as quais pedia 
+com todas as águas, ribeiras, matos, logradouros e campos que nelas houver, e o dito Senhor 
+governador lhe concedeu conforme a dita provisão que atrás fica transladada e o regimento de 
+Sua Alteza. 
+ 
+Referências: 
+DHBN, vol. 14, Pg. 464 – 468  
+ 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

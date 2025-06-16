@@ -1,0 +1,145 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0166
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0276",
+  "Nome": "Henrique Pereira de Lucena, Serafim José de Melo",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "16-10-1823",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e uma légua de largura no distrito da vila do Limoeiro. A sesmaria possuía por limites do riacho dos Porcos até as terras de Dona Feliciana a oeste e ao sul com as terras dos herdeiros de Antônio Barbosa da Silva.",
+  "Localidade": "Vila do Limoeiro",
+  "Marcos Geográficos": "Riacho dos Porcos",
+  "Confrontantes": "Dona Feliciana, Antônio Barbosa da Silva",
+  "Justificativas": "Pretendia aumentar as rendas reais; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Assinada e selada com o sinete das armas imperiais; Citou a Carta Régia de 20/10/1753; Citou o Alvará de 25/01/1809; Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se cultivar; Mandou-se cultivar, demarcar, reservar madeiras para embarcações reais e dar caminhos livres para fontes, portos, pontes e pedreiras ; Mandou-se demarcar; Mandou-se medir; Mandou-se povoar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros; Obrigou-se o pagamento de foro régio",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "A sesmaria foi concedida pela junta provisória do governo da província de Pernambuco, composta por: Francisco Pais Barreto, Francisco de Paula Cavalcante de Albuquerque e Manuel Inácio Bezerra de Melo.",
+  "Observações das exigências": "A junta provisória de governo da província de Pernambuco determinou o pagamento anual do foro régio no valor de 6 mil réis. A junta provisória também determinou a confirmação régia no tempo de três anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0166"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0166
+Carta de doação e sesmaria de Serafim José de Melo e Henrique Pereira Lucena -
+12/09/1823
+Serafim José de Melo e Henrique Pereira de Lucena com uma légua de terra em
+quadro no termo da Villa do Limoeiro.
+Nós, o presidente e membros da junta provisória do Governo da província de
+Pernambuco. Fazemos saber aos que esta carta da data de sesmaria virem, que Serafim
+José de Melo e Henrique Pereira de Lucena nos dirigiram o requerimento do teor
+seguinte = Ilustríssimos e excelentíssimos senhores do Governo = Dizem Serafim José
+de Melo, e seu irmão Henrique Pereira de Lucena, que no termo da vila do Limoeiro há
+umas terras denominadas Salobro, devolutas e desaproveitadas, que pode servir para
+cultura em beneficio da nação e do comércio; e como os suplicantes tem fundos e forças
+bastantes para as rotear e cultivar, requerem a Vossas Excelências para que lhe deem de
+sesmarias as terras que ficam entre o riacho dos Porcos, e pegando do mesmo riacho até
+o lugar do Salobro, a confinar com os limites das terras de dona Feliciana para o poente,
+para o sul com terras dos éreos de Ipojuca e para o norte com as terras da viúva e
+herdeiros do capitão Antônio Barboza da Silva, ou com quem verdadeiramente
+houverem de contestar, sem prejuízo de terceiro, na forma do direito = Pedem a Vossas
+Excelências que se dignem conceder-lhes a dita sesmaria precedendo as diligências do
+estilo; e receberão mercê = e sendo por nós visto o seu requerimento, por despacho de
+15 de janeiro do corrente ano, ordenamos a Câmara respectiva que mandasse afixar
+editais segundo a lei, e findo o tempo nos informasse se havia terceiro prejudicado, ao
+que a mesma Câmara satisfez em ofício de 28 de junho, acompanhado das certidões e
+editais, como é costume, declarando não ter havido oposição; e então por despachos de
+26 de julho a 13 de agosto, mandamos ouvir o desembargador procurador da Coroa e
+Fazenda e o escrivão deputado da junta da Fazenda Pública, que nenhum embaraço tão
+bem lhes puseram, mas não tendo os suplicantes declarado em seu primeiro
+requerimento a porção de terras que pretenderam, no 1º de setembro proferimos o
+despacho do teor seguinte = Declarem que quantidade de terras pretendem no lugar
+designado no seu requerimento, para poderem prestar a fiança. Ao que satisfizeram
+declarando duas léguas, uma para cada pretendente, mas como pediram uma sesmaria,
+que segundo as condições com que se concede não pode ser partida, lhe concedemos
+somente uma, de que lhe mandamos passar a presente carta por despacho de 12 de
+
+setembro, tudo do corrente ano: e portanto, pela faculdade que nos é concedida no
+capítulo 15 do regimento deste governo, mais Ordens Imperiais a este fim dirigidas.
+Havemos por bem conceder em nome de Sua Majestade imperial constitucional e
+defensor perpétuo do império do Brasil a Serafim José de Melo e seu irmão Henrique
+Pereira de Lucena a sobredita légua de terra, com as confrontações declaradas no
+primitivo requerimento, pagando o foro anual de 6 mil réis na conformidade da Imperial
+Ordem de 28 de setembro de 1700, de que deu fiança na contadoria da junta da Fazenda
+Pública, a folha 31 do livro 7º delas. A qual sesmaria possuirão e gozarão eles,
+suplicantes, e seus herdeiros, ascendentes e descendentes, como sua que fica sendo de
+hoje para todo o sempre, com todas as matas, campos, rios, águas, testadas, logradouros
+e mais úteis que nela se compreenderem, não prejudicando a terceiro. E não passará a
+religiões e pessoas eclesiásticas, salvo sendo com os mesmos encargos, com que as
+possuem os seculares, e nunca se dividirá em porções, nem se partirá se não por
+estimação, andando encabeçada em uma só pessoa na forma da ordenação livro 4º título
+96 e §23 sem consentimento da junta da Fazenda Pública para nela se darem novas
+fianças e se fazerem as devidas escriturações, ficando livres para a serventia dos povos
+todas as estradas, rios, fontes e pedreiras, e reservadas ao patrimônio público as
+madeiras de construção, pau brasil, e viveiros de quaisquer metais, e serão obrigados a
+requerer dentro de 3 anos confirmação, a medir e demarcar, em cujo ato poderão
+preencher-se para o lado ou lados em que houverem terras devolutas, caso encontrem
+obstáculo dos éreos confinantes na medição quadrada, a povoá-la e cultivá-la na forma
+da Ordem Imperial de 20 de outubro de 1753 e alvará de 25 de janeiro de 1809, e não o
+cumprindo assim se haverá por devoluta e novamente se concederá a quem requerer.
+Pelo que ordenamos aos ministros da Fazenda da Justiça e mais pessoas a quem tocar.
+Cumpram e façam cumprir esta carta de sesmaria, como nela se contém, fazendo dar aos
+referidos posse real, efetiva e atual, na forma da ordenação título das sesmarias. Em
+firmeza do referido lhe mandamos passar a presente por nós assinada e selada com o
+sinete das armas imperiais, a qual se registrará na secretaria deste Governo, na da junta
+da Real Fazenda Pública e aonde mais tocar. Manoel Paulo Guintela, 2º oficial da
+secretaria, a fez em o Recife de Pernambuco, aos 16 dias do mês de outubro de 1823, 2º
+da independência e império do Brasil = Francisco Paes Barreto pro p. = Francisco de
+Paula Cavalcante de Albuquerque = Manoel Ignácio Bezerra de Mello = Está o sinete
+das armas do império = carta de data de sesmaria, pela qual Vossas Excelências hão por
+bem conceder em nome de Sua Majestade ilustre constitucional, uma légua de terra em
+
+quadro no termo da vila do Limoeiro, a Serafim José de Melo e Henrique Pereira de
+Lucena, como nela se declara = Para Vossas Excelências verem = Por despacho do
+Governo de 12 de setembro de 1823.
+- Fim da Carta -
+Referência:
+BPPE, Sesmarias de Pernambuco 1821, fls. 238-239.
+Observação:
+O nome de um dos suplicantes consta como Serafim Joze de Mello, o que foi
+modificado para Serafim José de Melo, seguindo o padrão proposto para a plataforma
+SILB.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

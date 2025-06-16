@@ -1,0 +1,112 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0283
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Duarte Lopes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "NA",
+  "Data da concessão": "01-06-1556",
+  "Observações da sesmaria": "O suplicante requereu uma sesmaria na vila de Olinda. A terra requerida possupia por limites do Varadouro até o outeiro da cidade e a sudeste do Varadouro até os mangues do rio Beberibe. ",
+  "Localidade": "Vila de Olinda",
+  "Marcos Geográficos": "Varadouro, Outeiro, Rio Beberibe",
+  "Observações da petição": "Na sesmaria, o suplicante não informou a quantidade de braças requeridas, mas somente a quantidade de 10 braças de terra. ",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se isenção de pagamento de tributo; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das exigências": "Beatriz de Albuquerque, governadora locotenente da capitania de Pernambuco, concedeu a isenção do pagamento do dízimo ao suplicante. ",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE0283"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0283 
+ 
+Carta de concessão de Duarte Lopes de 01/06/1556 
+ 
+Doação feita a Duarte Lopes, da terra da banda de baixo do caminho que vai para o Varadouro 
+ 
+Dona Beatriz de Albuquerque, governador e administrador de meu filho, Duarte Coelho de 
+Albuquerque, herdeiro e sucessor desta capitania e governança da Nova Lusitânia, por ElRei, 
+Nosso Senhor, e faço saber a quantos esta minha carta de doação for mostrada e o conhecimento 
+dela com direito pertencer, que a mim me apraz e hei por bem de dar e doar deste dia para todo 
+sempre a Duarte Lopes, nesta vila morador, a terra que está da banda de baixo do caminho que 
+vai para o Varadouro, a qual terra se demarca da maneira seguinte: Partindo do outeiro que está 
+sobre o Varadouro, onde se ora faz uma casa, onde está um marco de pedra, e dali vai cortando 
+ao Varadouro da banda de baixo e desembarcadouro 10 braças, que ficarão para serventia do 
+povo (folha 21 v.) e tornando o marco de pedra que está no outeiro, irá correndo pelo caminho 
+abaixo direito ao oiti, que está ao passo onde mataram o Varela, e dali irão correndo ao sudoeste 
+até entestar nos mangues e rio do Beberibe, e dali irão rio acima até o Varadouro e toda a terra 
+que couber dentro desta demarcação. Dou ao dito Duarte Lopes, ressalvando a casa e chão 
+desertadas, a qual terra que couber nesta demarcação, dou ao dito Duarte Lopes, para ele, sua 
+mulher e filhos, mais herdeiros ascendentes e descendentes e para todos os que após eles 
+vierem, para que logrem a dita terra e dela e nela façam o que lhe bem vier, como coisa sua 
+própria, que já é forra, livre e isenta de dízimo a Deus, sem o dito Duarte Lopes nem seus 
+herdeiros, nem a quem a dita terra suceder, pagar o foro nem outro dinheiro, nem tributo algum. 
+Porque assim me aprouve de lhe dar a dita terra, como dito é, e por certeza de tudo lhe mandei 
+passar esta carta de doação por mim assinada, a qual mando que se cumpra como nela se 
+contém. Dada em Olinda, sob meu sinal e selo das armas de meu filho, que ante mim serve aos 
+20 dias do mês de maio [...] Rodrigues, escrivão das datas das terras e demarcações em esta 
+capitania, a fez no ano de 1556 anos. Pagou desta e [...] demarcação 300 réis. Dona Beatriz de 
+Albuquerque. Ao selo nada, Henrique Afonso. Registrada por mim, escrivão da provedoria em 
+o Livro de ElRei, Nosso Senhor, em que se registra todas as cartas de sesmarias, a folhas 101, 
+ao primeiro dia do mês de junho de 1556 anos. Pagou 50 réis. Heitor Carvalho. O qual traslado 
+eu, Vicente Gomes da Veiga, cavalheiro fidalgo da Casa de ElRei, Nosso Senhor, tabelião 
+público, judicial e notas nesta Vila de Olinda e seus termos, por Duarte de Albuquerque Coelho, 
+capitão e governador dela por sua Majestade etc., consertei, subscrevi e assinei hoje, 26 dias 
+do mês de agosto de 1628 anos. Vicente Gomes Veiga. Não se continha mais em dito 
+
+documento, que eu [...] Filipe Nery Correa, tabelião do público judicial e notas da cidade de 
+Olinda, Vila do recife e seus termos, capitania de Pernambuco, por Sua Majestade, que Deus 
+guarde, fiz escrever bem e fielmente e vai sem coisa que dúvida faça, com o qual com o oficial 
+abaixo assinado conferi e consertei e ao próprio me reporto que tornei a entregar ao reverendo 
+padre pregador geral que também aqui assinou, escrevi e assinei em público raso de meus sinais 
+seguintes aos 3 dias do mês de janeiro de 1760 anos. 
+Concedido por mim, tabelião, Filipe Nery Correa. 
+Em fé de verdade. Filipe Nery Correa. 
+- Fim da Transcrição - 
+ 
+Referência: Livro do Tombo do Mosteiro de São Bento de Olinda, Imprensa Oficial - Recife, 
+1948. p. 20 - 22. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

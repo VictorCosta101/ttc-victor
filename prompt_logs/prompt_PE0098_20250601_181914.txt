@@ -1,0 +1,137 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0098
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0155",
+  "Nome": "José Inácio da Cunha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "25-02-1767",
+  "Observações da sesmaria": "O suplicante requereu três braças e meia na vila do Recife. A terra requerida localizava-se vizinho as casas de moradia do suplicante, na rua do Colégio dos Jesuítas. ",
+  "Localidade": "Vila do Recife",
+  "Marcos Geográficos": "Rua do Colégio dos Jesuítas",
+  "Observações da petição": "O suplicante informou apenas a área total que desejava, três braças e meia, sem especificar a largura ou o comprimento da terra solicitada. ",
+  "Justificativas": "As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou o Capítulo 15 do Regimento do Governo; Citou o Título 43 das Ordenações Filipinas; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "O governador requereu o parecer do capitão engenheiro Antônio José de Lemos acerca da viabilidade da construção de casas no terreno requerido. O engenheiro foi de parecer favorável. ",
+  "Observações das exigências": "O governador Antônio de Sousa Manuel e Meneses, conde de Vila Flor, determinou o pagamento anual do foro régio no valor de 800 réis por braça concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do procurador": "José Teodoro de Lemos Duarte",
+  "referencia": "PE0098"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0098
+Carta de doação e sesmaria do coronel José Inácio da Cunha - 25/02/1767
+Ao coronel José Inácio da Cunha, se lhe deu trinta e cinco palmos de terra, pagados
+a sua casa e as classes colégio desta vila do Recife.
+Antônio de Souza Manoel e Menezes, conde da Vila Flor, do Conselho de Sua Majestade
+Fidelíssima e seu copeiro-mor, comendador das Comendas de São Pedro de Calvelos e
+Santiago de Concorado na ordem de Cristo, isto é, capitão-general de Pernambuco,
+Paraíba e mais capitanias anexas etc = Faço saber aos que esta carta de doação e sesmaria
+virem, que o coronel José Ignacio da Cunha me fez o requerimento do teor seguinte =
+Ilustríssimo e Excelentíssimo Senhor Conde General = Diz o coronel José Inácio da
+Cunha, que ele pretende junto as casas de sua moradia na rua do Colégio dos denominados
+Jesuítas, como o referido chão e devoluto sem senhorio como consta da certidão da
+Câmara, e útil ao suplicante pelo livrar das imundícies que no dito lugar se lançam nestas
+terras, visto que o dito lugar tem cinquenta e três palmos, quer o suplicante para poder
+murar trinta e cinco palmos, ficando os demais para beco e servidão, o que pretende se lhe
+dê por sesmaria: pelo que pede a Vossa Excelência lhe faça mercê dar sobredita terra na
+forma do estilo, com o fundo da sobredita casa; E receberá mercê; E sendo por mim visto
+o dito requerimento e informação da Câmara desta Vila que juntou, a qual declara o
+mesmo haver-se fixado editais e não haver pessoa alguma que se opusesse, a ele mandei
+por despacho de 19 do corrente mês de fevereiro deste ano de 1767, informar o provedor
+da Fazenda Real, ouvindo o doutor procurador e escrivão da mesma e o dito provedor,
+mandou informar o escrivão e responder o doutor procurador, e o primeiro o fez da
+maneira seguinte: Senhor provedor da Fazenda Real — Da certidão junta consta estar
+satisfeita a diligência que devia proceder pelo Senado da Câmara desta Vila, para se
+deferir a este requerimento. Falta informar o capitão de infantaria, com exercício do
+engenheiro Antônio José de Lemos, para declarar se a porção de terra que o suplicante
+pretende prejudica a fortificação desta Praça e a serventia do povo como se pratica e a
+vista da sua informação ser o suplicante deferido — Recife, 20 de fevereiro de 1767 —
+Bernardo Pereira de Vasconcelos. O segundo respondeu assim - Senhor provedor da
+Fazenda Real = Precedendo a informação que aponta o escrivão da Fazenda, poderá dar-se
+ao suplicante a sesmaria que pede, obrigando-se a pagar o foro competente e com as
+
+condições e obrigações expressadas na Ordem Livro 4.º título 43, e com as mais de estilo.
+Recife, 20 de fevereiro de 1767. José Theodoro de Lemos Duarte = Com dita informação e
+resposta o faz o mesmo provedor = E eu, por despacho de 20 de fevereiro corrente, mandei
+ao capitão Antônio José de Lemos satisfizesse o que aponta o escrivão da Fazenda, e o
+dito capitão diz que o muro que o suplicante pretende fazer no lugar declarado em sua
+petição, não faz embaraço algum as fortificações que existem nem a serventia do povo,
+porque como no mencionado lugar há cinquenta e três palmos de comprido, ocupando o
+referido suplicante trinta e cinco com o seu muro, ficam dezoito palmos para um beco que
+é muito bastante para a serventia do povo: e sendo-me apresentada esta resposta
+ultimamente, dei o despacho seguinte = Passe carta de sesmaria na forma do estilo, com o
+foro proporcionado do costume atingente dos trinta e cinco palmos pedidos, e com as
+declarações que aponta o doutor procurador da Fazenda, visto conformar-se com a sua
+resposta e informação do escrivão dela, o provedor da mesma, e não prejudicial as
+fortificações desta marinha, pelo que diz o capitão-engenheiro Antônio José de Lemos =
+Recife, em 23 de fevereiro de 1767 — Rubrica = Em cumprimento do qual se passou a
+presente carta de doação de sesmaria, pela qual hei por bem na conformidade do capítulo
+15 do Regimento deste Governo, dar ao dito coronel José Ignacio da Cunha, em nome de
+Sua Majestade Fidelíssima, os 35 palmos de terra pedidos em sua petição, pagando o foro
+de oitenta réis por cada palmo em cada um ano, que o provedor da Fazenda Real mandará
+abrir acento para por ele e haverem nos anos que correm os foros que se forem vencendo e
+não passará as religiões, salvo for com os mesmos encargos com que as tem os seculares,
+cuja porção de terra gozará e possuirá ele e seus herdeiros ascendentes e descendentes,
+como sua que fica sendo de hoje para todo o sempre, não prejudicando a terceiro, e será
+obrigado a requerer confirmação de Sua Majestade na forma que o dito senhor ordena em
+suas reais ordens. Pelo que ordeno aos ministros da Fazenda e Justiça e mais pessoas a que
+tocar, cumpram e guardem e fação cumprir e guardar esta carta de doação de sesmaria
+como nela se contém, a façam dar ao suplicante a posse real, efetiva e atual na forma
+costumada e debaixo das cláusulas referidas e das mais da Ordenação e títulos de sesmaria
+— Em firmeza do que lhe mandei passar a presente por mim assinada e selada com o
+sinete das minhas armas, que se registrará na Secretaria deste Governo e Provedoria da
+Real Fazenda = Dada no Recife de Pernambuco, aos 25 dias do mês de fevereiro,
+
+Francisco Gonçalves Reis Lisboa, oficial da Secretaria a fez, ano do Nascimento de Nosso
+Senhor Jesus Cristo, de 1767 = O secretário do Governo, José Gonçalves da Fonseca, a fez
+escrever. Conde copeiro-mor.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+190 - 193.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

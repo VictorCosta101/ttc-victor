@@ -1,0 +1,119 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0245
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Marquês de Abrantes",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "Herdada",
+  "Data da concessão": "09-10-1721",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações a partir da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição.",
+  "Localidade": "Paragem chamada Marapicu",
+  "Marcos Geográficos": "Serra entre os rios Marapicu e Guandu, brejos, terras alagadiças",
+  "Ribeira": "Marapicu e Guandu",
+  "Justificativas": "Alegou possuir engenhos; ",
+  "Exigências do Deferimento": "Determinou-se não prejudicar a terceiros; Mandou-se cultivar; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "O suplicante alegou ainda que \"porque se lhe perdeu a sobredita sesmaria com a invasão dos franceses e se não acha pela mesma ocasião os registros da Secretaria e Cartório lhe é necessário aclarar o dito título de sesmaria, visto estar de posse para por ela empossar ao comprador da sobredita fazenda e terras\".",
+  "Observações do deferimento e da concessão": "A carta passou pelo provedor, mas não há menção à data ou nome da autoridade.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0245"
+}
+
+            **Conteúdo Original** (extrato):
+            RJ 0245
+Carta de concessão do Marquês de Abrantes de 9 de outubro de 1721
+Aires de Saldanha e Albuquerque Coutinho Matos e Noronha, do conselho de Sua Majestade,
+que Deus guarde, comendador das comendas de Santa Maria de Castro Laboreiro, São
+Martinho de Lagares, Santa Maria da Sabacheira e das Alencares de Sousa, alcaide-mor da
+dita vila, gentil homem da Câmara do Sereníssimo Infante o Senhor Dom Antônio, que Deus
+guarde, governador e capitão general da capitania do Rio de Janeiro.
+Faço saber aos que esta minha carta de sesmaria virem que atendendo a representar me por
+sua petição José Carvalho de Oliveira, como procurador do Marquês de Abrantes, que sendo o
+dito Marquês possuidor de um engenho de fazer açúcar na paragem chamada Marapicu,
+distrito desta cidade, que houve por herança do general Artur de Sá e Menezes, lhe foi
+necessário para benefício e utilidade do dito engenho haver por sesmaria de um dos
+governadores antecessores desta praça 1 légua de terra em quadra entre os 2 rios chamados
+Marapicu e Guandu, a qual fazia sua testada de um para outro rio depois de se deixarem os
+brejos e terras alagadiças, haver capacidade de se perfazer a dita légua em terra inclusa de
+matos, o sertão dela para a Serra de onde mandou os tais rios; porque se lhe perdeu a sobredita
+sesmaria com a invasão dos franceses e se não acha pela mesma ocasião os registros da
+Secretaria e Cartório lhe é necessário aclarar o dito título de sesmaria, visto estar de posse
+para por ela empossar ao comprador da sobredita fazenda e terras, queria te-lás novamente,
+em nome de Sua Majestade, que Deus guarde, pedindo-me lhe fizesse mercê conceder a dita
+légua de terra na forma acostumada, e dando-se vista deste requerimento ao provedor da
+Fazenda Real e ao procurador da Coroa, e não se lhes oferecendo dúvida na forma da lei e
+sem prejuízo de terceiro. Hei por bem fazer mercê ao dito Marquês de Abrantes de lhe dar por
+sesmaria, em nome de Sua Majestade, que Deus guarde, a sobredita légua de terra em quadra
+e o sertão dela para a Serra em o sítio e forma acima declarada; sem prejuízo de terceiros ou
+do direito que algumas pessoas possam ter a elas; com declaração que as cultivará e mandará
+confirmar esta minha carta por Sua Majestade, que Deus guarde, dentro de 2 anos, e não o
+fazendo se lhe denegará mais tempo; pelo que mando ao ministro e oficial de justiça a que o
+conhecimento desta pertencer, dê posse (palavra não identificada) ao dito procurador José
+Carvalho de Oliveira da referida légua de terra na forma e maneira acima declarada. E por
+firmeza de tudo lhe mandei passar a presente por mim assinada e selada com o sinete de
+minhas armas que se cumprirá integralmente como nela se contém e se registrará nos livros da
+Secretaria deste governo e nos mais a que tocar. Dada nesta cidade de São Sebastião do Rio
+
+de Janeiro aos 9 dias do mês de outubro de 1721. Joaquim da Silva Viana a fez. //O secretário,
+José Ferreira da Fonte, a fez escrever//
+//Aires de Saldanha e Albuquerque Coutinho Matos e Noronha//
+Carta de sesmaria porque Vossa Senhoria há por bem fazer mercê ao Marquês de Abrantes a
+légua de terra em quadra na forma que atrás se declara.
+Para Vossa Senhoria ver.
+Registre-se nos Livros da Fazenda Real. Rio, 10 de outubro de 1721. //(não identificado)//
+Registrada no Livro das Patentes e Cartas de Sesmaria que serve nesta Secretaria do governo
+a folha 111. Rio de Janeiro, 10 de outubro de 1721. //José Ferreira da Fonte//
+Registada no Livro 21 de registro que serve nesta Provedoria a página 14 verso. Rio, a 11 de
+outubro de 1721. //Francisco de Oliveira Leitão//
+Lançada neste Cartório das Sesmarias no Livro da nota e folha 202. Rio, 13 de (ilegível).
+//Luiz Mello de Faria//
+-Fim da Transcrição-
+Observações do documento:
+Título AHU: Carta pela qual o Governador do Rio de Janeiro concedeu e deu de sesmaria ao
+Marquez de Abrantes uma legoa de terras, em quadra, entre os Rios Marapicû e Guandu. Rio
+de Janeiro, 9 de outubro de (1721).
+Referência
+AHU_ACL_CU_017-1, Cx. 23\Doc. 5135
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

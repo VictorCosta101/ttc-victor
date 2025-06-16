@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0019
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0106",
+  "Nome": "Sargento-mor e Índios dos Palmares",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "18-07-1727",
+  "Observações da sesmaria": "Os suplicantes requereram quatro léguas de comprimento e quatro léguas de largura na região dos Palmares, nas fronteiras das terras do mestre de campo Domingos Jorge Velho, próximo ao riacho Urucu, em direção ao sul até o rio Mundau. ",
+  "Localidade": "Palmares",
+  "Marcos Geográficos": "Riacho Urucu, Rio Mundau",
+  "Confrontantes": "Domingos Jorge Velho",
+  "Justificativas": "Fez parte dos restauradores de Palmares; Lutou na guerra contra Palmares; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de pensão; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se pagar o dízimo; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Os suplicantes alegaram que queriam as terras para poder fazer aldeamento.",
+  "Observações do deferimento e da concessão": "O procurador da Coroa recomendou que a sesmaria fosse concedida com a condição do pagamento dos dízimo e a proibição de se passar a terra a religiosos ou ordens religiosas. Devido ao documento encontrar-se incompleto, não foi possível averiguar algumas informações referentes ao despacho e a concessão.",
+  "Observações das exigências": "Devido ao documento encontrar-se incompleto, não foi possível averiguar algumas informações referentes ao despacho e a concessão.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "referencia": "PE-AL0019"
+}
+
+            **Conteúdo Original** (extrato):
+            PE-AL 0019 
+ 
+Carta de doação e sesmaria do [sargento-mor dos índios dos Palmares] - 21/07/1727 
+ 
+O sargento maior e mais índios dos Palmares, 4 léguas de terra em quadro nas conquistadas e 
+por conquistar do dito Palmar. 
+ 
+Dom Manoel Rolim de Moura, do Conselho de Sua Majestade, governador e capitão general de 
+Pernambuco e mais capitanias anexas etc. 
+Faço saber aos que esta carta de doação de sesmarias virem que se me representou a petição cujo 
+teor é o seguinte: Dizem o sargento-mor dos índios dos Palmares e os seus soldados e os das mais 
+nações que ajudaram a restaurar o dito Palmar, que Sua Majestade, que Deus guarde, foi servido 
+mandar-lhes dar na repartição das terras daquele lugar quatro léguas em quadro para se aldeiarem, 
+como se vê da cópia da real ordem junta; portanto, pedem a Vossa Senhoria lhes faça mercê mandar 
+passar sua carta de data na forma da referida ordem real, no lugar do mesmo Palmar começando na 
+ilharga da data do mestre de campo Domingos Jorge Velho, defronte do riacho chamado Urucu para 
+a parte do sul pelo rio Mundau acima, até encher as ditas 4 légoas em quadro. E receberá mercê. Da 
+qual mandei informar ao provedor da Fazenda Real, com o parecer do procurador da Coroa que 
+respondeu o seguinte: – Respondeu o doutor procurador da Coroa, a quem Vossa Senhoria mandou 
+ouvir sobre este requerimento, que não tem dúvida na forma da real ordem junta, a qual também 
+não se me oferece dúvida, sendo a data dos suplicantes, se tanto couber nas terras que se 
+conquistaram e ficaram por conquistar, como na dita real ordem se declara; com a declaração que 
+dos frutos pagarão dízimo a ordem de Cristo e não se passarão a outros possuidores que não sejam 
+os descendentes dos suplicantes, nem a religiões por nenhum título, e não pagarão foro nem outra 
+pensão alguma, como Sua Majestade, que Deus guarde, tem ordenado. É o que me parece, Vossa 
+Senhoria mandará o que for servido e mais conveniente ao real serviço, com a retidão que costuma. 
+- Recife, 18 de julho de 1727 = João do Rego Barros = A vista do que e da faculdade que Sua 
+Majestade me concede no Capítulo 15 do Regimento deste Governo: Hei por bem de lhes dar, como 
+pela presente dou em nome de Sua Majestade as ditas 4 léguas de terra em quadro, das conquistadas 
+e por conquistar do Palmar, no mesmo lugar e paragem que os suplicantes confrontam em sua 
+petição, se tantas couberem na repartição delas, na forma da dita real ordem, sem foro nem pensão 
+alguma, e só pagarão o dízimo a ordem de Cristo e as lograrão ele e seus herdeiros, com todas suas 
+pertenças e logradouros e mais úteis que nelas houver, dando, porém, estradas livres ao Conselho 
+para fontes, pontes e pedreiras [...].  
+ 
+Vide - fl. 97. (orig.) 
+ 
+- Fim da carta - 
+ 
+Em 21 de 
+julho de 
+1727 
+
+Observações: Na Documentação Histórica Pernambucana I consta apenas a parte acima referente a 
+esta sesmaria. 
+ 
+Referência: 
+Documentação Histórica Pernambucana, Livro I, fls. 315 - 317. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

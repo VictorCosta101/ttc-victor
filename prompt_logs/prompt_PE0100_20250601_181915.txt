@@ -1,0 +1,156 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE0100
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0157",
+  "Nome": "Antônio Miguel Biart",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da petição": "12-03-1770",
+  "Data da concessão": "07-06-1770",
+  "Observações da sesmaria": "O suplicante requereu três léguas de comprimento e uma légua de largura na freguesia do Ipojuca. A sesmaria possuía por limites: ao norte as terras do Engenho do Maranhão, de Francisco Xavier dos Reis; ao sul com o sitio das Guitindubas que pertenceu a Sebastião de Araújo; a leste com as terras do Engenho Sibiró de Cima de Paulo de Amorim Salgado, e com terras Caruasú de José Inácio Xavier Correia e pelo oeste com o riacho Garapió. ",
+  "Localidade": "Freguesia do Ipojuca",
+  "Marcos Geográficos": "Riacho Garapió",
+  "Confrontantes": "Engenho do Maranhão, de Francisco Xavier dos Reis; Sítio das Guitidunbas, de Sebastião de Araújo; Engenho Sibiró de Cima, de Paulo de Amorim Salgado e terras Caruasú de José Inácio Xavier Correia",
+  "Justificativas": "Pretendia aumentar as rendas reais; Pretendia fazer engenho de açúcar; As terras eram devolutas; ",
+  "Exigências do Deferimento": "Citou a Carta Régia de 20/10/1753; Citou o Capítulo 15 do Regimento do Governo; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres ao concelho; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para ordens religiosas; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Mandou-se dar posse atual; Mandou-se dar posse efetiva; Mandou-se dar posse real; Mandou-se demarcar; Mandou-se requerer confirmação; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "Nome do provedor": "João do Rego Barros",
+  "Nome do procurador": "Manuel Pacheco de Paiva",
+  "referencia": "PE0100"
+}
+
+            **Conteúdo Original** (extrato):
+            PE 0100
+Carta de doação e sesmaria do capitão Antonio Miguel Biart - 07/06/1770
+Carta de doação de sesmaria do capitão Antonio Miguel Biart de três léguas de terra
+de comprido e uma de largo pedidas na povoação de Ipojuca.
+Manoel da Cunha Menezes, do Conselho de Sua Majestade Fidelíssima, governador e
+capitão general de Pernambuco, Paraíba e mais capitanias anexas etc. = Faço saber aos que
+esta carta de doação de sesmaria virem, que o capitão Antônio Miguel Biart me fez o
+requerimento cujo teor é da maneira e forma seguinte — Ilustríssimo e Excelentíssimo
+Senhor =. Diz Antônio Miguel Biart que pretende por data de doação de sesmaria umas
+terras que se acham devolutas na Freguesia de Ipojuca, chamado o sítio e riacho Garapio,
+que confrontam pela parte do norte com terras do Engenho do Maranhão, de Francisco
+Xavier dos Reis, e pela parte do sul com o sítio das Guitindubas, que foi de Sebastião de
+Araújo, hoje de seus herdeiros, e pela parte do nascente com terras do Engenho Sibiró de
+cima, de Paulo de Amorim Salgado, e com terras Caruasu do reverendo José Inácio Xavier
+Correia, e pelo poente, sem éreo com que confronte nem confine cujas terras, quer o
+suplicante cultivar e plantar tudo o que possa produzir e edificar engenho de fazer açúcar,
+do que resulta utilidade a Real Fazenda, dando-se cinco anos livres para poder cultivar e
+edificar engenho nas ditas terras = Pede a Vossa Excelência seja servido conceder ao
+suplicante no lugar recontado uma légua de terra de largo e três de comprido, procurando o
+poente, fazendo centro o riacho chamado Garapio, para si e seus herdeiros as possuírem e
+poderem dispor, pagando a sesmaria na forma em que Sua Majestade Fidelíssima ordena no
+Capítulo 15 do Regimento do Governo desta Capitania = E receberá mercê = Em qual
+requerimento mandei por meu despacho de 12 de março do corrente ano, que jurando o
+suplicante não ter outra data de sesmaria e reconhecido o seu juramento, tornasse e assim
+satisfazendo por outro meu despacho datado de 13 do dito mês de março, ordenei aos
+oficiais da Câmara do respectivo distrito, mandassem fixar editais no mencionado lugar,
+estando o prazo de trinta dias para se saber se há ou não terceiros prejudicados, e com
+informação do oficial que assim o praticasse, me informassem para deferir e em termos:
+executarão os ditos o despacho, mandando fixar os mencionados editais, e com certeza de
+não haverem terceiros prejudicados me fizeram presente por informação datada de 30 do
+
+referido mês de maio, sobre a qual mandei em o primeiro de junho corrente, informar o
+provedor da Fazenda Real, ouvindo o escrivão e doutor procurador da mesma, o mesmo
+provedor assim o cumpriu e dito escrivão da maneira seguinte = Senhor provedor da
+Fazenda Real = Como da informação junta do Senado da Câmara desta Vila consta não
+haver impedimento na data de terra que o suplicante requer, parece estar em termos de se
+lhe conceder por sesmaria as três léguas de comprido com uma de largo, pagando o foro
+anual de seis mil réis por légua, estando em distância até trinta léguas desta praça e se ficar
+em maior distância, a quatro mil réis por légua, e mediando a légua para logradouro dos
+éreos confinantes, na forma que dispõem as ordens de Sua Majestade Fidelíssima. Recife, 2
+de junho de 1770. — Bernardo Pereira de Vasconcelos = Responde o dito doutor
+procurador assim — Não posso ter dúvida na sesmaria pedida, visto não haver terceiro
+prejudicado, com declaração do foro anual de seis mil réis por cada légua, e de se demarcar
+o suplicante no termo de três anos a sua custa, conforme as ordens de Sua Majestade
+Fidelíssima, para evitar dúvidas e confusões pelo tempo vindouro, pena de ficarem
+devolutas a Real Fazenda para as dar a quem bem lhe parecer. = E, quanto a légua que deve
+mediar para logradouro, acho que esta só se deve conceder em partes mais remotas e de
+menos povoação, onde há muito mais campos devolutos e de menos valor; nos lugares
+porém próximos a esta Praça, onde as terras mais valem e são mais povoadas, deve-se esta
+aproveitar melhor, nem também há por aqui tanta necessidade de haver a dita légua para
+logradouros como há no sertão, por que por cá não criam gados os quais por lá se criam
+para logradouros, dos quais e que Sua Majestade prudentemente achou ser precisa a dita
+légua, e para separação de uns e outros eréos de todas as sesmarias próximas a esta praça,
+parece que basta mediar meio quarto de uma légua; Vossa mercê informará a Sua
+Excelência como mais justo parecer — Recife de Pernambuco, 4 de junho de 1770 =
+Manoel Pacheco de Paiva = E o dito provedor me informou desta sorte — Ilustríssimo e
+Excelentíssimo Senhor. Informo com a informação do escrivão da Fazenda Real, Vossa
+Excelência mandará o que for servido - João do Rego Barros = Ultimamente mandei por
+despacho de 7 do referido mês de junho corrente, se passasse ao suplicante carta de doação
+de sesmaria, na conformidade das reais ordens, como apontava o escrivão da Fazenda Real
+e parece ao provedor, dando-se ao suplicante três anos livres, em execução da qual hei por
+bem na conformidade do Capítulo 15 do Regimento deste Governo e ordens régias a este
+
+fim dirigidas, dar ao suplicante, o capitão Antônio Miguel Biard, as três léguas de terra de
+comprido e uma de largo nos lugares pedidos e confrontados em seu dito requerimento,
+ficando a légua de permeio para logradouro dos eréos confinantes, da qual requererá
+confirmação régia e demarcação na conformidade da real ordem de 20 de outubro de 1753,
+pagando o foro de seis mil réis anualmente, visto ser em distância de trinta léguas, como
+determina outra real ordem de 28 de setembro de 1700, que terá princípio passados três
+anos, que se lhe dará livres para dentro no prazo deles poder beneficiar, cuja terras as
+possuirá e logrará como suas que ficam sendo de hoje para todo o sempre, e seus herdeiros
+ascendentes e descendentes, não prejudicando a terceiros interessados com todos os seus
+pertences, matas, campos, águas, rios, fontes, pontes, testadas, logradouros e mais úteis que
+elas compreenderem, sendo obrigado a dar caminho livre ao Conselho para fontes, pontes e
+pedreiras, e não passarão a igrejas e religiões e pessoas eclesiásticas, salvo for com os
+mesmos encargos, com que as possuem os seculares = Pelo que ordeno aos ministros da
+Fazenda e Justiça e mais pessoas a que tocar, cumpram e façam cumprir e guardar esta dita
+carta de doação de sesmaria, como nela se contém, fazendo dar ao suplicante a posse real,
+efetiva e atual, na forma costumada, debaixo das cláusulas referidas e disposição que
+determina a lei, e neste caso a ordenação do livro 2.º título 18. § 5.º Em firmeza do que lhe
+mandei passar a presente por mim assinada e selada com o sinete das minhas armas, que se
+registrará na Secretaria deste Governo e Contadoria do Real Erário. = Dada no Recife de
+Pernambuco, aos 7 dias do mês de junho = Francisco Gonçalves Reis Lisboa, oficial maior
+da Secretaria do Governo a fez, ano do Nascimento de Nosso Senhor Jesus Cristo de 1770
+= O secretário do Governo, José Gonçalves da Fonseca, a fez escrever = Manoel da Cunha
+e Menezes.
+- Fim da carta -
+Referência: Documentação Histórica Pernambucana. Recife: Imprensa Oficial, 1954. v. 2. p.
+210 - 214.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

@@ -1,0 +1,176 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: BA0164
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Pedro da Rocha",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Bahia",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "08-06-1661",
+  "Observações da sesmaria": "Não foram informadas as medidas da sesmaria, apenas que ela estava localizada entre as terras de Manuel Brandão Pantoja e as dos herdeiros que ficaram de João Barboza Corrêa e de sua mulher Maria Pereira, em Maragugipe, Bahia, próxima ao  rio Mamoeiro. ",
+  "Localidade": "Maragugipe",
+  "Marcos Geográficos": "Rio Mamoeiro",
+  "Confrontantes": "João Barboza Corrêa;  Maria Pereira; Manuel Brandão Pantoja ",
+  "Justificativas": "Alegou serem as terras devolutas nunca doadas anteriormente; Era morador(a) da Capitania; Serviu a Sua Majestade; ",
+  "Exigências do Deferimento": "Citou o Título 43 das Ordenações Filipinas; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se isenção de pagamento de foro régio; Determinou-se isenção de pagamento de tributo; Determinou-se não prejudicar a terceiros; Mandou-se pagar o dízimo; Mandou-se registrar; Mandou-se usufruir com todas as suas águas, matas, campos e logradouros",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações das Justificativas": "Alegou que as terras pretendidas eram perigosas, pois sofriam ataques dos indígenas.",
+  "Observações do deferimento e da concessão": "A carta foi concedida pelo procurador do donatário, Paulo do Rego Borges.",
+  "Observações das exigências": "Determinou-se que povoassem as terras por pelo menos trêss anos.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "BA0164"
+}
+
+            **Conteúdo Original** (extrato):
+            BA 
+ 
+Registro de uma sesmaria do capitão Pedro da Rocha dadas em Maragugipe.   
+Saibam quantos este público instrumento de carta de sesmaria virem que no ano do Nascimento 
+de Nosso Senhor Jesus Cristo 1661 anos aos 9 dias do mês de junho do dito armo nesta cidade 
+do Salvador Bahia de todos os Santos em pousadas de mim tabelião ao diante nomeado pareceu 
+o capitão Pedro da Rocha morador nesta cidade, e por ele me foi dado uma petição sua por 
+escrito com um despacho nela posto por Paulo do Rego Borges, procurador bastante de Dom 
+Pedro da Costa, donatário da capitania da Paraguaçu como se vê e consta de sua procuração 
+reconhecida e justificada por Certidão de justificação que ora lançado no fim deste instrumento 
+de sesmaria com a qual se passaram os traslados para constar da verdade dela, e da dita petição, 
+e despacho o treslada, digo,  e Despacho o treslado é o suficiente. O Capitão Pedro da Rocha 
+um dos que estão servindo nesta Praça com sua companhia por Sua Majestade que há 14 anos, 
+digo, meses que assiste na terra de Maragugipe termo desta cidade da Bahia em Guarda dos 
+morador daquele limite a serem avexados, e assaltados do gentio bravo que costumava ofendê-
+los com grande dano e morte de muitos moradores e negros que ele tem por notícia, e sabe que 
+entre a légua de terra do Engenho que possui Manuel Brandão Pantoja e a data que possuem os 
+herdeiros que ficaram de João Barboza Corrêa e de sua mulher Maria Pereira há uns sobejos de 
+terra que estão devolutas por dar, e desaproveitados que correm do Porto do Roque Gonçalves 
+pelo do rimão pela Ribeira para o Norte por Costa de mar Salgado e para o Sertão até o Rio 
+mamoeiro, os quais sobejos ele quer aproveitar. Pelo que pede a Vossa Mercê lhe de de sesmaria 
+a data de terra que pede, e relata em sua petição pois estão devolutas e ele suplicante ter posse 
+para as poder aproveitar. E receberá Mercê. A qual petição sendo apresentada ao dito Paulo do 
+Rego Borges nela a pureza o despacho seguinte: Em nome do Senhor Dom Pedro da Costa, 
+Donatário da Capitania de Paraguaçu, e como procurador bastante que se do dito Senhor dou 
+ao Suplicante Pedro da Rocha rodas as sobras da terra que pede na sua petição, não sendo dadas, 
+nem prejudicando a terceiro de que se lhe passe Carta de Sesmaria na forma do Regimento de 
+Sua Majestade com as obrigações dele. Bahia, 8 de junho de 1661 anos. Paulo do Rego Borges, 
+depois do que tresladei o Capítulo de El-Rei, nosso Senhor, que diz o seguinte: As terras e aguas 
+das Ribeiras que estiverem, dentro do termo e limite da dita Cidade que são 6 léguas para cada 
+parte, que não forem dadas as pessoas que as aproveitem e estiverem vagas e devolutas para 
+mim por qualquer via e modo, que seja podereis dar de Sesmaria as pessoas que as aproveitem 
+e vos-la pedirem as quais terras assim dareis ,livremente sem outro algum foro, nem tributo 
+somente o Dizimo a ordem de Nosso Senhor Jesus  Cristo com as condições e obrigações do 
+Foral dado as ditas terras, e de minha Ordenação título das sesmarias com a condição que a tal 
+pessoa ou pessoas residam na pessoa, digo, residam na povoação da dita Bahia ou das terras 
+que lhe forem dadas ao menos os três anos, e que dentro no dito tempo as não possam render, 
+nem altear e tereis lembrança que não deis a cada pessoa mais terra que aquela que segundo sua 
+possibilidade virdes, e vos parecer que pode aproveitar, e se alguma pessoa a que for dado terras 
+no dito termo as tiverem perdidas por não as aproveitarem, e vol-as tornarem a pedir vós lh'as 
+dareis de novo para as aproveitarem com as condições destoe Capitulo o qual se tresladará nas 
+Cartas de Sesmarias com as quais condições, e obrigações deu o dito Paulo do Rego Borges em 
+nome do dito donatário seu constituinte Dom Pedro da Costa de Sesmaria ao suplicante o 
+capitão Pedro da Rocha as terras que pede em sua petição, assim, e da maneira que nela o 
+declara e pelas confrontações delas com seus matos, pastos, águas entradas, e saídas, e tudo 
+quanto a elas pertencer para ele e seus herdeiros, ascendentes e descendentes que após ele 
+vierem sem prejuízo de terceiro contanto que faça de maneira que dentro de 3 anos primeiros 
+seguintes tenha já feito benfeitorias nas ditas terras para aumento da dita Capitania dando por 
+elas Caminhos, pontes pedreiras e fontes necessárias ao Conselho e fará registar esta carta 
+
+dentro de um ano nos Livros da Fazenda de Sua Majestade ou onde é costume registarem-se e 
+de tudo quanto desfrutar e colher das ditas terras pagarão dizimo a Deus guardando sempre as 
+condições com que semelhantes datas se dão pelos procuradores do dito donatário e por esta 
+terá o dito Suplicante ir ou mandar por quem lhe bem estiver tomar posse das terras que se lhe 
+dão, e concedem de Sesmaria livremente de que o dito Paulo do Rego  Borges mandou fazer 
+este instrumento neste meu Livro de Sesmarias em que assignou., e que se passasse dele os 
+traslados necessários. E eu, Sebastião de Torres, Tabelião e escrivão das Sesmarias o escrevi E 
+declarou que as ditas sobras de terra desta Sesmaria se entende correndo do mar para o Sertão 
+entre urna, e outra data atrás declaradas até o Rio mamoeiro sobredito o escrevi // Paulo do 
+Rego Borges // Procuração de Dom Pedro da Costa por esta por mim feita e assinada digo eu, 
+Dom Pedro da Costa, Armador-Mor de Sua Majestade comendador da Villa de São Vicente da 
+beira e senhor do lugar de Povoa Capitão, e Governador na Capitania de Peroastí nas partes do 
+Brasil etc. Que eu faço meu Procurador ao Senhor Paulo do Rego Borges, na Cidade da Bahia, 
+para que por mim, e em meu nome e como, eu mesmo em pessoa possa cobrar na dita Capitania, 
+e arrecadar todos os meus foros e rendas assim os que .estiverem vencidos como os que ao 
+diante se me deverem, e quaisquer outras coisas que se me deverem e para que possa tomar e 
+dar quitações públicas e rasas da maneira que lhe foram pedirias as pessoas de quem cobrar as 
+ditas rendas E as que não quiserem pagar as obrigará ,por Justiça fazendo as citar e demandar 
+e levar a Juízo percalço  a quem pertencer até final sentença estando a todos os termos e autos 
+judiciais fazendo embargos sequestros penhores e rematações nos bens dos condenados 
+lançando neles e com licença da Justiça e pondo suspeições aos Julgadores que suspeitos lhes 
+forem, e tudo seguir até com efeito ser pago da que me deverem para o que lhe dou todos os 
+meus poderes em direito necessários e concedidos com livre, e geral administração com poder 
+de subestabelecer nos procuradores que para a dita cobrança forem necessários com estes ou 
+limitados poderes, e julga-los quando lhe parecer, e me obrigo e hei por bem feito firme e 
+valioso tudo o que fizer cru virtude desta procuraçâo, e o outrossim lhe passar em meu nome 
+dar de Sesmarias todas que houver devolutas na dita minha Capitania para que se cultivem, e 
+aproveitem Dizimo a Deus somente e as aguas, e terras em que se possam fazer Engenhos 
+pagando-me de foro a pensão do açúcar que nelas se fizer a ditas por cento, e outrossim lhe doa 
+poder para .requerer, e cobrar o laudêmio do Engenho que venceu Balthazar de Aragão a seu 
+Irmão Francisco de Araujo de Aragão e quaisquer .outros de Engenhos que se venderem, e não 
+será citado nem demandado que esta reservo para minha pessoa, e dela dar informação em 
+Lisboa, 20 de março 1657, digo, de 1656. Dom Pedro da Costa, Certidão da Justificação. Doutor 
+do Desembargo de El-Rei, nosso Senhor, Juiz com alçada dos feitos e causas do Juízo de Guiné, 
+Minas, índias, e Brasil, e das justificações do dito Juízo etc. Faço saber aos que a presente 
+Certidão de Justificação virem, que o Escrivão que esta, subscreveu deu sua fé conhecer a letra, 
+e sinal posto o pé da procuração acima ser de Dom Pedro da Costa Armador-Mor de Sua 
+Majestade nela pelo conteúdo pelo que o hei por Justificada e se lhe deve dar fé e credito em 
+Juízos, e donde mais presentado for, e para constar remedei passar a presente que vae por mim 
+assinada, e dada em Lisboa aos 22 de março 1656. Pagou 40 réis, e de assinar 40 réis e eu, 
+Domingos de Araujo a fiz escrever // João de Carvalho // A qual procuração e Certidão de 
+Justificação nela contida eu, Sebastião de Torres, que sirvo de Tabelião do público Judicial e 
+notas e Escrivão das Sesmarias nesta Cidade do Salvado, Bahia de todos os Santos e seus termos 
+tresladei da própria original a que me reporto que formei ao dito Paulo Ribeiro Borges, e de 
+como a recebi e assinei aqui com ela este conferi, e concertei com o Tabelião abaixo assignado 
+subscrevi e assignei de meu sinal raso costumado na Bahia, 9 dias do mês de julho de 1661 
+anos. // Sebastião de Torres // consertado por mim, escrivão das sesmarias e como Tabelião // 
+Francisco Barreto // Paulo do Rego Borges // O qual Instrumento de sesmaria eu Sobredito 
+Sebastião de Torres que sirvo de Tabelião do público Judicial e Notas e Escrivão das Sesmarias 
+nesta Cidade cio Salvador Bahia de todos os Santos e seus termos no  Ofício de que é 
+
+Proprietário Francisco da Rocha Barboza fiz tresladar da própria e original que no livro delas 
+tomei a que me reporto, subscrevi e assignei de meu público sinal seguinte. Em testemunho, de 
+verdade Sebastião de Torres registre-se nos Livros da Fazenda Real. Bahia, 16 de novembro de 
+1661 // Brito // Registou-se no mesmo dia. // Gonçalo Pinto de Freitas // 
+ 
+- Fim de Transcrição -  
+ 
+Referências:  
+DHBN, vol. 20, Pg. 366 - 372      
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

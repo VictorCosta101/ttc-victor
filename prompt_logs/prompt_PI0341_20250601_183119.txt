@@ -1,0 +1,116 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PI0341
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Não Encontrado",
+  "Nome": "Duarte Afonso de Carvalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Piauí",
+  "Histórico da terra": "NA",
+  "Data da concessão": "26-09-1748",
+  "Observações da sesmaria": "Apesar de não haver a petição disponível, é possível retirar tais informações da carta de concessão. Além disso, na própria carta não há informações acerca da data de petição. Com relação ao histórico da terra, a carta não o explicita, embora forneça a informação de que \"havia 20 anos tinha situado uma fazenda chamada da Palmeira das quais terras não possuía título\".\r\n",
+  "Localidade": "Fazenda da Palmeira",
+  "Ribeira": "Marataoan",
+  "Confrontantes": "Josefa Maria, Fazenda do Sussuapara, Fazenda de São Pedro, Fazenda do Riacho da Silva",
+  "Justificativas": "Não possuía as terras com justo título; ",
+  "Exigências do Deferimento": "Determinou-se a possibilidade de fundar vila; Determinou-se dar caminhos livres a fontes; Determinou-se dar caminhos livres a pedreiras; Determinou-se dar caminhos livres a pontes; Determinou-se dar caminhos livres a portos; Determinou-se dar estradas públicas a todos e particulares; Determinou-se não fazer transpasso a pessoa alguma, religião ou comunidade sem primeiro pedir vistas ao provedor; Determinou-se não prejudicar a terceiros; Determinou-se que não se passasse para religiosos; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros; Deve-se reservar madeira para construção de embarcações; Mandou-se cultivar; Mandou-se demarcar ao tempo da posse por rumo de corda e braças craveiras; Mandou-se pagar o dízimo; Mandou-se requerer confirmação",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "A carta passou pela Câmara e provedor, mas não há menção à data ou nome das autoridades.",
+  "Observações das exigências": "Determinou-se ainda que o sesmeiro deve possuir a terra como coisa sua própria. Exigiu-se ainda que \"havendo nas terras aqui concedidas rio navegável que necessite de canoa para se atravessar, ficará reservada meia légua de terra de uma das margens para uso público\".",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PI0341"
+}
+
+            **Conteúdo Original** (extrato):
+            PI 0341
+Carta de concessão a Duarte Afonso de Carvalho – 26/09/1748
+Registro de uma carta de data e sesmaria concedida a Duarte Afonso de Carvalho
+Francisco Pedro de Mendonça Gorjão, do concelho de Sua Majestade, governador e
+capitão-general do estado do Maranhão. Faço saber, aos que esta minha carta de data e
+sesmaria virem, que Duarte Afonso de Carvalho me representou que havia 20 anos tinha
+situado uma fazenda chamada da Palmeira das quais terras não possuía título. E pretendia o
+suplicante, se lhe concedesse 3 léguas de terra de comprido e uma de largo fazendo pião na
+dita fazenda e extremos ao Norte com a de Josefa Maria; ao Sul com a fazenda do Sussuapara
+do capitão-mor Miguel Azevedo de Carvalho, digo, de Araújo; e com a fazenda de São Pedro
+do comissário Miguel Carvalho de Almeida; da Nascente com a do riacho da Silva que foi do
+defunto Antonio Machado de Miranda légua e meia ao Norte; e légua e meia ao Sul, vertentes
+a Marataoan, me pedia fosse servido conceder-lhe, em nome de Sua Majestade, por data e
+sesmaria 3 léguas de terra de comprido e uma de largo na paragem confinada visto as vias do
+suplicante citado nula. E o que atendendo e a resposta que deu a Câmara se lhe não ofereceu
+dúvida como também a informação do provedor-mor da Fazenda Real e ser em utilidade da
+mesma Fazenda o cultivarem-se as terras neste estado. Hei por bem conceder-lhe, em nome
+de Sua Majestade, por data e sesmaria 3 léguas de terra de comprido e uma de largo na forma
+e parte que der na fazenda mencionada com as confrontações que deixar e condições
+expressadas nas Reais Ordens. E com a de não fazer trespasse por meio algum, em nenhum
+tempo, a pessoa alguma, religião ou comunidade sem primeiro dar parte na Casa da Fazenda
+ao doutor provedor-mor dela para se me fazer presente, e ver se se deve ou não consentir no
+tal trespasse, sob pena de ficar nula esta data e se poder conceder novamente a outrem. E
+nesta forma se lhe passa sua carta para que o dito Duarte Afonso de Carvalho haja, logre e
+possua a dita terra como coisa sua própria para ele e todos seus herdeiros, ascendentes e
+descendentes, sem pensão nem tributo algum mais que o dízimo a Deus, Nosso Senhor, dos
+frutos que nela houver e lavrar. A qual concessão lhe faço não prejudicando a terceiros, nem a
+Sua Majestade, se no dito sítio quiser mandar fundar alguma vila reservando os paus reais
+que nelas houverem para embarcações com declaração que mandará confirmar esta carta por
+Sua Majestade, dentro dos 3 primeiros anos seguintes. E cultivará as ditas terras de modo que
+deem fruto; e dará caminhos públicos e particulares onde forem necessários para pontes,
+fontes, portos e pedreiras e se demarcará ao tempo de posse por rumo de corda e braças
+craveiras, como é estilo e Sua Majestade manda. E havendo nas terras aqui concedidas rio
+navegável que necessite de canoa para se atravessar, ficará reservada meia légua de terra de
+uma das margens para uso público. E outrossim, não poderão suceder nelas religiões nem
+outras pessoas eclesiásticas por nenhum título que seja e acontecendo possuí-las será com o
+encargo de pagar delas dízimos como se fossem possuídas por seculares. E faltando a
+qualquer destas cláusulas, se haverão as ditas terras por devolutas e se dará a quem as
+denunciar, como o dito Senhor ordena. Pelo que mando ao doutor provedor-mor da Fazenda
+Real, mais ministros e pessoas a quem tocar que na forma referida deixem ter e possuir as
+ditas terras ao dito Duarte Afonso de Carvalho, como coisa sua própria para ele e todos seus
+herdeiros, ascendentes e descendentes sem pensão nem tributo algum. Cumpram e guardem
+esta minha carta de data tão inteiramente como nela se contém o que lhe mandei passar por
+mim assinada e selada com o sinete de minhas armas que se registrara onde tocar e se passou
+por duas vias. Dada na cidade de São Luís do Maranhão, aos 26 de Setembro, ano do
+nascimento de Nosso Senhor Jesus Cristo de 1748. E eu, José Azevedo da Fonseca, secretário
+do estado, a fiz escrever. //Francisco Pedro Mendonça Gorjão//.
+
+-Fim da Transcrição-
+Referência:
+APEP, Livro 14, Documento 70, fl. 47-48.
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

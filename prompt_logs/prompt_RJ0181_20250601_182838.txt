@@ -1,0 +1,117 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: RJ0181
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Nome": "Antônio Ramalho",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Rio de Janeiro",
+  "Histórico da terra": "NA",
+  "Observações da sesmaria": "O sujeito já possuía gados na dita ilha. A carta  considerou-a inculta, entretanto.\r\nTinha \"(...) escravos para cultivar os mattos (...)\"\r\nA área é uma légua em quadra",
+  "Localidade": "Campos dos Goytacazes",
+  "Marcos Geográficos": "ilha chamada Cachanga",
+  "Ribeira": "cabeceiras da lagoa vulgarmente chamada Carapibis",
+  "Justificativas": "Tinha escravos; Tinha gado; ",
+  "Total de sesmeiros que solicitaram a sesmaria": 1,
+  "Observações do deferimento e da concessão": "Arquivo Histórico Ultramarino. Projeto Resgate - Rio de Janeiro Eduardo de Castro e Almeida (1617-1757) – AHU_ACL_CU_017-01, Cx. 65, D. 15248",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "RJ0181"
+}
+
+            **Conteúdo Original** (extrato):
+             
+RJ 0181 
+ 
+Carta de concessão de sesmaria de Antônio Ramalho 
+ 
+Matias Coelho de Souza mestre de Campos de Infantaria de  uma das forças da guarnição desta 
+praça do Rio de Janeiro [palavra não identificada] está o governo dele  e suas capitanias [palavra 
+não identificada] Faço saber aos que esta minha carta de sesmaria virem que, atendendo me 
+representar por sua petição, Antônio Ramalho, que no distrito dos Campos dos Goytacazes nas 
+cabeceiras da lagoa vulgarmente chamada Carapibis se achava uma ilha a que chamavam 
+Cachanga, que teria um pouco mais ou menos uma légua em quadra. Cuja ilha até o presente 
+estava inculta e senhorio  porque tinha gados [palavra não identificada] em que  ocupar, 
+escravos para cultivar os mattos, me pedia lhe concedesse sesmaria da dita ilha, pois se  seguia 
+utilidade aos Reais dízimo. Sendo visto o seu requerimento em que foi ouvido o senado da 
+câmara da Capitania dos Campos a que se não ofereceu dúvida e nem ao provedor da fazenda 
+Real, procurador da Coroa dela a quem se deu vista. Ei por bem dar de sesmaria em nome de 
+Sua Majestade e em virtude da ordem do dito senhor de 15 de junho de 1711, que minha 
+faculdade para conceder sesmaria, ao dito Antônio Ramalho, uma ilha chamada  Cachanga que 
+tem uma légua em quadra com as confrontações acima expressadas, sem prejuízo de terceiro 
+ou do direito que alguma pessoa tenha a ela.  Com declarações que a cultivará e mandará 
+confirmar esta minha carta por Sua Majestade dentro de dois anos,  e não o fazendo se há de 
+negará mais tempo e antes de tomar posse dela a fará medir e demarcar judicialmente, sendo 
+para este efeito notificados as pessoas com quem confrontar. Será obrigado a fazer os caminhos 
+de sua estrada com pontes e cultivar onde necessário for, e descobrindo-se nelas rio caudaloso 
+que necessite de barca para se atravessar ficam reservada de uma das margens dele a terra que 
+baste para a serventia pública. Nesta data não poderá suceder em tempo algum pessoa 
+eclesiástica ou religiosa e sucedendo será com encargo de pagar dízimos, ou outro qualquer que 
+Sua Majestade lhe impuser de novo, e não os pagando se poderá dar a quem as denunciar. Como 
+também sendo o nosso Senhor servido mandar fundar no distrito dela alguma vila o poderá 
+fazer, ficando livre e sem encargo algum ou punição para o sesmeiro e não compreenderá esta 
+data vieiros ou minas de qualquer gênero de metal que nela se descobrir reservando também os 
+paus Reais. Faltando a qualquer das ditas cláusulas por serem conforme as ordens de Sua 
+Majestade e as que dispõe a lei e foral das sesmarias ficará privado desta. Selo que mando ao 
+ministro ou oficial de justiça  a que o conhecimento desta pertencer de posse ao dito, Antônio 
+Ramalho das referidas terras na forma acima declarada. Por firmeza de tudo lhe mandei passar 
+a presente por mim assinada e selada com o sinete de minhas armas que se cumprirá como nela 
+
+ 
+se contém e  registrará nesta secretaria de governo ou nas mais partes a que tocar. Dada nesta 
+cidade de São Sebastião do Rio de Janeiro. João de Souza e Mello a fez em 7 de janeiro de 
+1750. O secretário do governo Antônio da Rocha Machado a fez escrever. Mathias Coelho de 
+Souza Carta porque [palavra não identificada] faz mercê de dar de sesmaria em nome de sua 
+Majestade a Antônio Ramalho, uma ilha que tem uma légua de terras em quadra com as 
+confrontações e parte acima declarada.  Para Vossa Senhoria ver registrada na [palavra não 
+identificada] [palavra não identificada] de governo [palavra não identificada] nas 8 de Janeiro 
+de 1750, Antônio da Rocha Machado, registrada [palavra não identificada] da sesmaria que 
+[palavra não identificada] cartório da mesma  [palavra não identificada] Rio de Janeiro de 16 
+de maio de 1750 [assinatura não identificada] 
+- 
+Fim da transcrição - 
+Alterações ortográficas: ofereceo / ofereceu; legua / légua; dous / dois; testada / estrada; 
+caudelozo / caudaloso; impozer / impuser; paos / paus; 
+Referência: Arquivo Histórico Ultramarino. Projeto Resgate - Rio de Janeiro Eduardo de 
+Castro e Almeida (1617-1757) – AHU_ACL_CU_017-01, Cx. 65, D. 15248 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            

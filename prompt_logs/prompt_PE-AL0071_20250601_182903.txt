@@ -1,0 +1,86 @@
+
+            ## ANÁLISE DOCUMENTAL - SESMARIAS COLONIAIS
+            Você é um especialista em documentos coloniais brasileiros (séculos XVI-XIX). 
+
+            ### DADOS PARA ANÁLISE
+            **Referência**: PE-AL0071
+
+            **Dados Catalogados**:
+            {
+  "Tipo de petição": "Concessão",
+  "Referência da antiga plataforma SILB": "PE 0388",
+  "Nome": "Domingos de Lima, João Dias de Araújo Lima",
+  "Solicitaram repartição da terra em mesma medida": "Sim",
+  "Capitania onde mora": "Pernambuco/Alagoas",
+  "Histórico da terra": "Devoluta nunca povoada",
+  "Data da concessão": "10-10-1699",
+  "Observações da sesmaria": "Os suplicantes requereram uma légua de comprimento e meia légua de largura nos rios Salui e rio Paraíba, nas Alagoas, entre as terras dos alferes Pedro Gonçalves e a viúva Catarina de Araújo.",
+  "Localidade": "Alagoas",
+  "Marcos Geográficos": "Rio Salui, Rio Paraíba",
+  "Confrontantes": "Pedro Gonçalves, Catarina de Araújo",
+  "Exigências do Deferimento": "Determinou-se isenção de pagamento de foro régio; Determinou-se que se transmitisse posse ao suplicante e seus herdeiros",
+  "Total de sesmeiros que solicitaram a sesmaria": 2,
+  "Observações do deferimento e da concessão": "\tEsta carta de sesmaria consta no volume quatro da Documentação Histórica Pernambucana, onde somente existem extratos das cartas originais. Por essa razão, não foi possível levantar uma serie de informações relativas ao requerimento, justificativa, despacho, registro e exigências da concessão.",
+  "Observações das exigências": "O governador Dom Fernando Martins Mascarenhas de Lencastre determinou o pagamento anual do foro régio no valor de seis mil réis por légua concedida.",
+  "Despacho favorável": "Sim",
+  "Forma de Deferimento": "Carta de Doação",
+  "referencia": "PE-AL0071"
+}
+
+            **Conteúdo Original** (extrato):
+            AL 0045 
+ 
+Carta de concessão de Domingos de Lima e João Dias de Araújo Lima de 10/09/1699 
+Sesmaria de 1 légua de terra de comprido e meia de largo nos rios Salui e Paraíba nas 
+Alagoas, entre as terras dos alferes Pedro Gonçalves Ribeiro e a viúva Catarina de Araújo 
+Dona, concedida em 10 de outubro de 1699 ao reverendo padre Domingos de Lima, 
+capitão João Dias de Araújo Lima e seus herdeiros, pelo Governador Dom Fernando 
+Muniz Mascarenhas e Alencastro, com foro de 6.000 réis pela légua. 
+Esta sesmaria tinha a margem a seguinte observação: 
+Não tem efeito esta data dada ao padre Domingos de Araújo Lima e o capitão João de 
+Araújo Lima por testificarem, não se acharem as terras que pediam devolutas, e por 
+despacho do Procurador e Provedor se mandou pôr esta verba que não tratem e fruam dita 
+data, nem ficam obrigados os que as pediram ao foro com que se lhes deu, e o dito não 
+pus. O despacho se imprimiu a folha 26.  
+ 
+- Fim da Transcrição - 
+ 
+Referência: 
+Documentação Histórica Pernambucana: sesmarias. Recife: SECRETARIA DE 
+EDUCAÇÃO E CULTURA BIBLIOTECA PÚBLICA, 1959. v.4.p.113. 
+ 
+...
+
+            ## REGRAS DE ANÁLISE
+
+            1. CAMPOS CATEGÓRICOS (valores exatos):
+            - "tipo de petição": ["concessão", "Não encontrado"]
+            - "Solicitaram repartição da terra": ["sim", "não", "true", "false"]
+            - "Capitania onde mora": ["Alagoas", "Bahia", "Ceará", "Colonia do Sacramento", "Espírito Santo", "Goias", "Itamaracá", "Maranhão", "Mato Grosso do Sul", "Minas Gerais", "NA", "Pará", "Paraíba", "Pernambuco", "Pernambuco/Alagoas", "Pernambuco/Piauí", "Piauí", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rio Negro", "Santa Catarina", "São Paulo", "São Paulo/Rio de Janeiro", "Sergipe"]
+            - "Histórico da terra": ["Comprada", "Devoluta nunca povoada", "Devoluta por abandono", "Herdada", "NA", "Primordial"]
+            - "Despacho favorável": ["Sim", "Não", "Parcial", "NC", "NA"]
+            - "Forma de Deferimento": ["provisão", "Carta Régia", "NC", "NA", "Carta de doação", "Alvará", "Ordem Régia"]
+
+            2. CRITÉRIOS PARA ERROS:
+            REPORTAR SOMENTE SE:
+            - Datas com dia/mês/ano diferentes
+            - Localidades geográficas distintas
+            - Nomes de proprietários radicalmente diferentes
+
+            IGNORAR:
+            - Variações de formato de data
+            - Grafias alternativas
+            - Ordem de elementos em listas
+
+            3. FORMATO DE RESPOSTA (OBRIGATÓRIO):
+            {
+                "erros": [
+                    {
+                        "campo": "nome_do_campo",
+                        "valor_incorreto": "valor_atual",
+                        "valor_correto": "valor_sugerido",
+                        "motivo": "explicacao_historica"
+                    }
+                ]
+            }            
+            
